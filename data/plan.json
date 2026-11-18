@@ -1,0 +1,7423 @@
+{
+ "goal": "Hoàn thành từ vựng + ngữ pháp TOPIK cấp 1–2 trong 30 ngày",
+ "start": "2026-11-19",
+ "links": {
+  "listening": "https://topik.migii.net/vi/practice/topik-i/listening",
+  "reading": "https://topik.migii.net/vi/practice/topik-i/reading",
+  "mock": "https://topik.migii.net/vi/mock-test/topik-i"
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2026-11-19",
+   "type": "learn",
+   "id": "bai-5",
+   "lesson": "Bài 5",
+   "source": "TOPIK 1 – Bài 4B: Thứ ngày tháng",
+   "level": 1,
+   "title": "Thứ ngày tháng",
+   "words": [
+    [
+     "지난주",
+     "Jinanju",
+     "Tuần trước"
+    ],
+    [
+     "이번 주",
+     "Ibeon ju",
+     "Tuần này"
+    ],
+    [
+     "다음 주",
+     "Daeum ju",
+     "Tuần sau"
+    ],
+    [
+     "평일 (주중)",
+     "Pyeongil (jujung)",
+     "Ngày thường"
+    ],
+    [
+     "주말",
+     "Jumal",
+     "Cuối tuần"
+    ],
+    [
+     "공/ 영",
+     "Gong/ yeong",
+     "Số 0"
+    ],
+    [
+     "일",
+     "Il",
+     "Một (1)"
+    ],
+    [
+     "십",
+     "Sip",
+     "Mười (10)"
+    ],
+    [
+     "백",
+     "Baek",
+     "Một trăm (100)"
+    ],
+    [
+     "천",
+     "Cheon",
+     "Một nghìn (1.000)"
+    ],
+    [
+     "만",
+     "Man",
+     "Mười nghìn (10.000)"
+    ],
+    [
+     "십만",
+     "Sipman",
+     "Một trăm nghìn (100.000)"
+    ],
+    [
+     "백만",
+     "Baekman",
+     "Một triệu (1.000.000)"
+    ],
+    [
+     "강사",
+     "Gangsa",
+     "Giảng viên"
+    ],
+    [
+     "설날",
+     "Seolnal",
+     "Ngày tết"
+    ],
+    [
+     "커피숍",
+     "Keopisyop",
+     "Quán cà phê"
+    ],
+    [
+     "계획표",
+     "Gyehoekpyo",
+     "Bảng kế hoạch, thời khóa biểu"
+    ],
+    [
+     "숙제",
+     "Sukje",
+     "Bài tập"
+    ],
+    [
+     "크리스마스",
+     "Keuriseumaseu",
+     "Giáng sinh"
+    ],
+    [
+     "구경하다",
+     "Gugyeonghada",
+     "Ngắm, xem"
+    ],
+    [
+     "시험",
+     "Siheom",
+     "Kỳ thi, kỳ kiểm tra"
+    ],
+    [
+     "파티를 하다",
+     "Patireul hada",
+     "Tổ chức tiệc"
+    ],
+    [
+     "그리고",
+     "Geurigo",
+     "Và"
+    ],
+    [
+     "아르바이트",
+     "Areubaiteu",
+     "Sự làm thêm"
+    ],
+    [
+     "한글날",
+     "Hangeulnal",
+     "Ngày kỷ niệm chữ Hangeul"
+    ],
+    [
+     "등산",
+     "Deungsan",
+     "Việc leo núi"
+    ],
+    [
+     "아름답다",
+     "Areumdapda",
+     "Đẹp"
+    ],
+    [
+     "호",
+     "Ho",
+     "Số (phòng)"
+    ],
+    [
+     "명절",
+     "Myeongjeol",
+     "Ngày lễ"
+    ],
+    [
+     "안내",
+     "Annae",
+     "Sự hướng dẫn"
+    ],
+    [
+     "회의하다",
+     "Hoeuihada",
+     "Họp, hội nghị"
+    ],
+    [
+     "방학",
+     "Banghak",
+     "Kỳ nghỉ (của học sinh)"
+    ],
+    [
+     "휴가",
+     "Hyuga",
+     "Kỳ nghỉ"
+    ],
+    [
+     "산",
+     "San",
+     "Núi"
+    ],
+    [
+     "졸업하다",
+     "Joreophada",
+     "Tốt nghiệp"
+    ],
+    [
+     "생일 파티",
+     "Saengil pati",
+     "Tiệc sinh nhật"
+    ],
+    [
+     "층",
+     "Cheung",
+     "Tầng"
+    ]
+   ],
+   "grammar": [
+    "고유어 수사 — Số thuần Hàn",
+    "수 관형사 (1) — Định từ số (1)",
+    "V/A + 아/어요 — Đuôi câu thân mật"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+   }
+  },
+  {
+   "day": 2,
+   "date": "2026-11-20",
+   "type": "learn",
+   "id": "bai-6",
+   "lesson": "Bài 6",
+   "source": "TOPIK 1 – Bài 5: Công việc trong ngày",
+   "level": 1,
+   "title": "Công việc trong ngày",
+   "words": [
+    [
+     "하루 일과",
+     "Haru ilgwa",
+     "Công việc trong ngày"
+    ],
+    [
+     "오전",
+     "Ojeon",
+     "Buổi sáng (00:00 ~ 12:00)"
+    ],
+    [
+     "오후",
+     "Ohu",
+     "Buổi chiều (12:00 ~ 24:00)"
+    ],
+    [
+     "낮",
+     "Nat",
+     "Ban ngày"
+    ],
+    [
+     "밤",
+     "Bam",
+     "Ban đêm"
+    ],
+    [
+     "아침",
+     "Achim",
+     "Buổi sáng"
+    ],
+    [
+     "점심",
+     "Jeomsim",
+     "Buổi trưa"
+    ],
+    [
+     "저녁",
+     "Jeonyeok",
+     "Buổi tối"
+    ],
+    [
+     "새벽",
+     "Saebyeok",
+     "Sáng sớm"
+    ],
+    [
+     "일어나다",
+     "Ireonada",
+     "Thức dậy"
+    ],
+    [
+     "이를 닦다",
+     "Ireul dakda",
+     "Đánh răng"
+    ],
+    [
+     "세수하다",
+     "Sesuhada",
+     "Rửa mặt"
+    ],
+    [
+     "다니다",
+     "Danida",
+     "Đi lại (thường xuyên)"
+    ],
+    [
+     "배우다",
+     "Baeuda",
+     "Học"
+    ],
+    [
+     "숙제하다",
+     "Sukjehada",
+     "Làm bài tập"
+    ],
+    [
+     "청소하다",
+     "Cheongsohada",
+     "Dọn vệ sinh"
+    ],
+    [
+     "목욕하다",
+     "Mogyokhada",
+     "Tắm"
+    ],
+    [
+     "출근하다",
+     "Chulgeunhada",
+     "Đi làm"
+    ],
+    [
+     "퇴근하다",
+     "Toegeunhada",
+     "Tan làm"
+    ],
+    [
+     "시작하다",
+     "Sijakhada",
+     "Bắt đầu"
+    ],
+    [
+     "끝나다",
+     "Kkeutnada",
+     "Xong, kết thúc"
+    ],
+    [
+     "하나 (한)",
+     "Hana (han)",
+     "Một (1)"
+    ],
+    [
+     "둘 (두)",
+     "Dul (du)",
+     "Hai (2)"
+    ],
+    [
+     "셋 (세)",
+     "Set (se)",
+     "Ba (3)"
+    ],
+    [
+     "넷 (네)",
+     "Net (ne)",
+     "Bốn (4)"
+    ],
+    [
+     "다섯",
+     "Daseot",
+     "Năm (5)"
+    ],
+    [
+     "여섯",
+     "Yeoseot",
+     "Sáu (6)"
+    ],
+    [
+     "일곱",
+     "Ilgop",
+     "Bảy (7)"
+    ],
+    [
+     "여덟",
+     "Yeodeol",
+     "Tám (8)"
+    ],
+    [
+     "아홉",
+     "Ahop",
+     "Chín (9)"
+    ],
+    [
+     "열",
+     "Yeol",
+     "Mười (10)"
+    ],
+    [
+     "열하나",
+     "Yeolhana",
+     "Mười một (11)"
+    ],
+    [
+     "스물 (스무)",
+     "Seumul (seumu)",
+     "Hai mươi (20)"
+    ],
+    [
+     "서른",
+     "Seoreun",
+     "Ba mươi (30)"
+    ],
+    [
+     "마흔",
+     "Maheun",
+     "Bốn mươi (40)"
+    ],
+    [
+     "쉰",
+     "Swin",
+     "Năm mươi (50)"
+    ],
+    [
+     "예순",
+     "Yesun",
+     "Sáu mươi (60)"
+    ],
+    [
+     "일흔",
+     "Ilheun",
+     "Bảy mươi (70)"
+    ],
+    [
+     "여든",
+     "Yeodeun",
+     "Tám mươi (80)"
+    ],
+    [
+     "아흔",
+     "Aheun",
+     "Chín mươi (90)"
+    ],
+    [
+     "겨울",
+     "Gyeoul",
+     "Mùa đông"
+    ],
+    [
+     "수업",
+     "Sueop",
+     "Giờ học, buổi học"
+    ],
+    [
+     "집",
+     "Jip",
+     "Nhà"
+    ],
+    [
+     "고향",
+     "Gohyang",
+     "Quê hương"
+    ],
+    [
+     "수영",
+     "Suyeong",
+     "Bơi lội"
+    ],
+    [
+     "출근",
+     "Chulgeun",
+     "Việc đi làm"
+    ],
+    [
+     "공항",
+     "Gonghang",
+     "Sân bay"
+    ],
+    [
+     "시험을 보다",
+     "Siheomeul boda",
+     "Thi"
+    ],
+    [
+     "출발하다",
+     "Chulbalhada",
+     "Xuất phát"
+    ],
+    [
+     "날",
+     "Nal",
+     "Ngày"
+    ],
+    [
+     "여자",
+     "Yeoja",
+     "Phụ nữ"
+    ],
+    [
+     "후",
+     "Hu",
+     "Sau, sau khi"
+    ],
+    [
+     "남자",
+     "Namja",
+     "Nam giới"
+    ],
+    [
+     "영문과",
+     "Yeongmungwa",
+     "Khoa Ngữ văn Anh"
+    ],
+    [
+     "회사",
+     "Hoesa",
+     "Công ty"
+    ],
+    [
+     "노래방",
+     "Noraebang",
+     "Quán karaoke"
+    ],
+    [
+     "영어",
+     "Yeongeo",
+     "Tiếng Anh"
+    ],
+    [
+     "회의",
+     "Hoeui",
+     "Cuộc họp, hội thảo"
+    ],
+    [
+     "받다",
+     "Batda",
+     "Nhận"
+    ],
+    [
+     "운전하다",
+     "Unjeonhada",
+     "Lái xe"
+    ],
+    [
+     "PC방",
+     "PCbang",
+     "Quán internet"
+    ],
+    [
+     "밥",
+     "Bap",
+     "Cơm"
+    ],
+    [
+     "인터넷",
+     "Inteonet",
+     "Internet"
+    ],
+    [
+     "부모님",
+     "Bumonim",
+     "Bố mẹ"
+    ],
+    [
+     "일기",
+     "Ilgi",
+     "Nhật ký"
+    ]
+   ],
+   "grammar": [
+    "N + 에 가다 — Đi đến",
+    "안 + V/A — Không",
+    "V/A + 았/었 — Đã"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2026-11-21",
+   "type": "learn",
+   "id": "bai-7",
+   "lesson": "Bài 7",
+   "source": "TOPIK 1 – Bài 6: Cuối tuần",
+   "level": 1,
+   "title": "Cuối tuần",
+   "words": [
+    [
+     "무슨",
+     "Museun",
+     "Gì"
+    ],
+    [
+     "어떤",
+     "Eotteon",
+     "(Thế) nào"
+    ],
+    [
+     "어느",
+     "Eoneu",
+     "Nào"
+    ],
+    [
+     "등산하다",
+     "Deungsanhada",
+     "Leo núi"
+    ],
+    [
+     "영화를 보다",
+     "Yeonghwareul boda",
+     "Xem phim"
+    ],
+    [
+     "운동하다",
+     "Undonghada",
+     "Vận động, tập thể thao"
+    ],
+    [
+     "여행하다",
+     "Yeohaenghada",
+     "Đi du lịch"
+    ],
+    [
+     "수영하다",
+     "Suyeonghada",
+     "Bơi"
+    ],
+    [
+     "외식하다",
+     "Oesikhada",
+     "Ăn ngoài"
+    ],
+    [
+     "친구를 만나다",
+     "Chingureul mannada",
+     "Gặp bạn"
+    ],
+    [
+     "소풍가다",
+     "Sopunggada",
+     "Đi dã ngoại"
+    ],
+    [
+     "책을 읽다",
+     "Chaegeul ikda",
+     "Đọc sách"
+    ],
+    [
+     "생략",
+     "Saengryak",
+     "Giản lược"
+    ],
+    [
+     "축약",
+     "Chugyak",
+     "Gộp lại, rút gọn"
+    ],
+    [
+     "가수",
+     "Gasu",
+     "Ca sĩ"
+    ],
+    [
+     "싫어하다",
+     "Sireohada",
+     "Ghét"
+    ],
+    [
+     "갈비",
+     "Galbi",
+     "Món sườn nướng"
+    ],
+    [
+     "라면",
+     "Ramyeon",
+     "Mì gói"
+    ],
+    [
+     "액션 영화",
+     "Aeksyeon yeonghwa",
+     "Phim hành động"
+    ],
+    [
+     "개",
+     "Gae",
+     "Con chó"
+    ],
+    [
+     "야구",
+     "Yagu",
+     "Bóng chày"
+    ],
+    [
+     "고양이",
+     "Goyangi",
+     "Con mèo"
+    ],
+    [
+     "바다",
+     "Bada",
+     "Biển"
+    ],
+    [
+     "요리하다",
+     "Yorihada",
+     "Nấu ăn"
+    ],
+    [
+     "골프",
+     "Golpeu",
+     "Môn đánh golf"
+    ],
+    [
+     "일찍",
+     "Iljjik",
+     "Sớm"
+    ],
+    [
+     "공포 영화",
+     "Gongpo yeonghwa",
+     "Phim kinh dị"
+    ],
+    [
+     "배",
+     "Bae",
+     "Bụng"
+    ],
+    [
+     "축구",
+     "Chukgu",
+     "Bóng đá"
+    ],
+    [
+     "과일",
+     "Gwail",
+     "Hoa quả"
+    ],
+    [
+     "배구",
+     "Baegu",
+     "Bóng chuyền"
+    ],
+    [
+     "춤을 추다",
+     "Chumeul chuda",
+     "Nhảy múa"
+    ],
+    [
+     "김밥",
+     "Gimbap",
+     "Cơm cuộn rong biển"
+    ],
+    [
+     "보내다",
+     "Bonaeda",
+     "Trải qua (thời gian)"
+    ],
+    [
+     "치다",
+     "Chida",
+     "Đánh, chơi (bóng, cầu)"
+    ],
+    [
+     "나무",
+     "Namu",
+     "Cây"
+    ],
+    [
+     "불고기",
+     "Bulgogi",
+     "Thịt bò xào kiểu Hàn"
+    ],
+    [
+     "낚시",
+     "Naksi",
+     "Câu cá"
+    ],
+    [
+     "비빔밥",
+     "Bibimbap",
+     "Cơm trộn"
+    ],
+    [
+     "테니스",
+     "Teniseu",
+     "Quần vợt"
+    ],
+    [
+     "농구",
+     "Nonggu",
+     "Bóng rổ"
+    ],
+    [
+     "빨래하다",
+     "Ppalraehada",
+     "Giặt đồ"
+    ],
+    [
+     "포도",
+     "Podo",
+     "Quả nho"
+    ],
+    [
+     "동물",
+     "Dongmul",
+     "Động vật"
+    ],
+    [
+     "새",
+     "Sae",
+     "Chim"
+    ],
+    [
+     "피곤하다",
+     "Pigonhada",
+     "Mệt mỏi"
+    ],
+    [
+     "드라마",
+     "Deurama",
+     "Phim truyền hình"
+    ],
+    [
+     "선물",
+     "Seonmul",
+     "Quà tặng"
+    ]
+   ],
+   "grammar": [
+    "N + 하고 — Và, cùng",
+    "V + (으)ㅂ시다 — Hãy (cùng)",
+    "N + 은/는 — Thì (so sánh, đối chiếu)"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+   }
+  },
+  {
+   "day": 4,
+   "date": "2026-11-22",
+   "type": "learn",
+   "id": "bai-8",
+   "lesson": "Bài 8",
+   "source": "TOPIK 1 – Bài 7: Mua sắm P1",
+   "level": 1,
+   "title": "Mua sắm P1",
+   "words": [
+    [
+     "물건 사기",
+     "Mulgeon sagi",
+     "Mua sắm"
+    ],
+    [
+     "여러 개",
+     "Yeoreo gae",
+     "Nhiều cái"
+    ],
+    [
+     "개",
+     "Gae",
+     "Cái (đơn vị đếm)"
+    ],
+    [
+     "명/ 사람",
+     "Myeong/ saram",
+     "Người (đơn vị đếm)"
+    ],
+    [
+     "마리",
+     "Mari",
+     "Con (đơn vị đếm)"
+    ],
+    [
+     "잔",
+     "Jan",
+     "Chén, ly (đơn vị đếm)"
+    ],
+    [
+     "대",
+     "Dae",
+     "Chiếc (xe, máy)"
+    ],
+    [
+     "병",
+     "Byeong",
+     "Bình, chai"
+    ],
+    [
+     "켤레",
+     "Kyeolre",
+     "Đôi (giày, tất)"
+    ],
+    [
+     "권",
+     "Gwon",
+     "Quyển"
+    ],
+    [
+     "장",
+     "Jang",
+     "Tờ, trang"
+    ],
+    [
+     "채소",
+     "Chaeso",
+     "Rau"
+    ],
+    [
+     "음료수",
+     "Eumryosu",
+     "Đồ uống"
+    ],
+    [
+     "구두",
+     "Gudu",
+     "Giày da"
+    ],
+    [
+     "손님",
+     "Sonnim",
+     "Khách"
+    ],
+    [
+     "주인",
+     "Juin",
+     "Chủ cửa hàng"
+    ],
+    [
+     "발음",
+     "Bareum",
+     "Phát âm"
+    ],
+    [
+     "과자",
+     "Gwaja",
+     "Bánh quy, bánh kẹo"
+    ],
+    [
+     "주스",
+     "Juseu",
+     "Nước hoa quả"
+    ],
+    [
+     "귤",
+     "Gyul",
+     "Quả quýt"
+    ],
+    [
+     "카메라",
+     "Kamera",
+     "Máy ảnh"
+    ],
+    [
+     "디자인",
+     "Dijain",
+     "Thiết kế"
+    ],
+    [
+     "세일",
+     "Seil",
+     "Hạ giá"
+    ],
+    [
+     "티셔츠",
+     "Tisyeocheu",
+     "Áo phông"
+    ],
+    [
+     "마트",
+     "Mateu",
+     "Siêu thị"
+    ],
+    [
+     "소설책",
+     "Soseolchaek",
+     "Sách tiểu thuyết"
+    ],
+    [
+     "망고",
+     "Manggo",
+     "Xoài"
+    ],
+    [
+     "수박",
+     "Subak",
+     "Dưa hấu"
+    ],
+    [
+     "문구점",
+     "Mungujeom",
+     "Cửa hàng văn phòng phẩm"
+    ],
+    [
+     "전자상가",
+     "Jeonjasangga",
+     "Khu bán hàng điện tử"
+    ]
+   ],
+   "grammar": [
+    "Giản lược nguyên âm 으",
+    "V + 고 싶다 — Muốn",
+    "겠 — Sẽ"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2026-11-23",
+   "type": "learn",
+   "id": "bai-9",
+   "lesson": "Bài 9",
+   "source": "TOPIK 1 – Bài 8: Ẩm thực",
+   "level": 1,
+   "title": "Ẩm thực",
+   "words": [
+    [
+     "음식",
+     "Eumsik",
+     "Thức ăn"
+    ],
+    [
+     "국",
+     "Guk",
+     "Canh"
+    ],
+    [
+     "김치",
+     "Gimchi",
+     "Kimchi"
+    ],
+    [
+     "된장찌개",
+     "Doenjangjjigae",
+     "Canh tương đậu"
+    ],
+    [
+     "냉면",
+     "Naengmyeon",
+     "Mì lạnh"
+    ],
+    [
+     "삼겹살",
+     "Samgyeopsal",
+     "Thịt ba chỉ nướng"
+    ],
+    [
+     "김치찌개",
+     "Gimchijjigae",
+     "Canh kimchi"
+    ],
+    [
+     "갈비탕",
+     "Galbitang",
+     "Canh sườn bò"
+    ],
+    [
+     "삼계탕",
+     "Samgyetang",
+     "Gà tần sâm"
+    ],
+    [
+     "볶음밥",
+     "Bokkeumbap",
+     "Cơm rang"
+    ],
+    [
+     "국수",
+     "Guksu",
+     "Mì, bún"
+    ],
+    [
+     "맛있다",
+     "Masitda",
+     "Ngon"
+    ],
+    [
+     "맛없다",
+     "Maseopda",
+     "Không ngon"
+    ],
+    [
+     "달다",
+     "Dalda",
+     "Ngọt"
+    ],
+    [
+     "쓰다",
+     "Sseuda",
+     "Đắng"
+    ],
+    [
+     "짜다",
+     "Jjada",
+     "Mặn"
+    ],
+    [
+     "시다",
+     "Sida",
+     "Chua"
+    ],
+    [
+     "맵다",
+     "Maepda",
+     "Cay"
+    ],
+    [
+     "싱겁다",
+     "Singgeopda",
+     "Nhạt"
+    ],
+    [
+     "숟가락",
+     "Sutgarak",
+     "Thìa"
+    ],
+    [
+     "젓가락",
+     "Jeotgarak",
+     "Đũa"
+    ],
+    [
+     "메뉴",
+     "Menyu",
+     "Thực đơn"
+    ],
+    [
+     "컵",
+     "Keop",
+     "Cốc, ly"
+    ],
+    [
+     "테이블",
+     "Teibeul",
+     "Bàn ăn"
+    ],
+    [
+     "종업원",
+     "Jongeobwon",
+     "Nhân viên phục vụ"
+    ],
+    [
+     "흡연석",
+     "Heubyeonseok",
+     "Chỗ được hút thuốc"
+    ],
+    [
+     "금연석",
+     "Geumyeonseok",
+     "Chỗ cấm hút thuốc"
+    ],
+    [
+     "영수증",
+     "Yeongsujeung",
+     "Hóa đơn"
+    ],
+    [
+     "주문하다",
+     "Jumunhada",
+     "Gọi món"
+    ],
+    [
+     "계산하다",
+     "Gyesanhada",
+     "Tính tiền"
+    ],
+    [
+     "계산서",
+     "Gyesanseo",
+     "Phiếu tính tiền"
+    ],
+    [
+     "가지",
+     "Gaji",
+     "Cà tím"
+    ],
+    [
+     "잠깐만",
+     "Jamkkanman",
+     "Chờ một lát"
+    ],
+    [
+     "고추",
+     "Gochu",
+     "Ớt"
+    ],
+    [
+     "보통",
+     "Botong",
+     "Bình thường, thông thường"
+    ],
+    [
+     "그래서",
+     "Geuraeseo",
+     "Vì vậy"
+    ],
+    [
+     "기다리다",
+     "Gidarida",
+     "Chờ đợi"
+    ],
+    [
+     "소금",
+     "Sogeum",
+     "Muối"
+    ],
+    [
+     "좀",
+     "Jom",
+     "Một chút"
+    ],
+    [
+     "남편",
+     "Nampyeon",
+     "Chồng"
+    ],
+    [
+     "주다",
+     "Juda",
+     "Cho"
+    ],
+    [
+     "녹차",
+     "Nokcha",
+     "Trà xanh"
+    ],
+    [
+     "앉다",
+     "Anda",
+     "Ngồi"
+    ],
+    [
+     "더",
+     "Deo",
+     "Thêm, nữa"
+    ],
+    [
+     "어서",
+     "Eoseo",
+     "Nhanh lên, mời (vào)"
+    ],
+    [
+     "드시다",
+     "Deusida",
+     "Dùng bữa (kính ngữ)"
+    ],
+    [
+     "레몬",
+     "Remon",
+     "Chanh"
+    ],
+    [
+     "만들다",
+     "Mandeulda",
+     "Làm, tạo ra"
+    ],
+    [
+     "케이크",
+     "Keikeu",
+     "Bánh kem"
+    ],
+    [
+     "맛있게",
+     "Masitge",
+     "Một cách ngon lành"
+    ],
+    [
+     "콜라",
+     "Kolra",
+     "Coca-cola"
+    ],
+    [
+     "물",
+     "Mul",
+     "Nước"
+    ],
+    [
+     "인삼차",
+     "Insamcha",
+     "Trà sâm"
+    ],
+    [
+     "특히",
+     "Teukhi",
+     "Đặc biệt"
+    ],
+    [
+     "반찬",
+     "Banchan",
+     "Món ăn kèm"
+    ],
+    [
+     "잔",
+     "Jan",
+     "Chén, ly"
+    ],
+    [
+     "항상",
+     "Hangsang",
+     "Luôn luôn"
+    ]
+   ],
+   "grammar": [
+    "V/A + 지 않다 — Không",
+    "V + (으)세요 — Hãy, xin mời",
+    "N + (으)로 — Tới, đến (phương hướng)"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
+    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2026-11-24",
+   "type": "learn",
+   "id": "bai-10",
+   "lesson": "Bài 10",
+   "source": "TOPIK 1 – Bài 9: Nhà ở",
+   "level": 1,
+   "title": "Nhà ở",
+   "words": [
+    [
+     "아래",
+     "Arae",
+     "Dưới"
+    ],
+    [
+     "안",
+     "An",
+     "Trong"
+    ],
+    [
+     "밖",
+     "Bak",
+     "Ngoài"
+    ],
+    [
+     "옆",
+     "Yeop",
+     "Bên cạnh"
+    ],
+    [
+     "사이",
+     "Sai",
+     "Giữa"
+    ],
+    [
+     "앞",
+     "Ap",
+     "Trước"
+    ],
+    [
+     "뒤",
+     "Dwi",
+     "Sau"
+    ],
+    [
+     "왼쪽",
+     "Oenjjok",
+     "Bên trái"
+    ],
+    [
+     "오른쪽",
+     "Oreunjjok",
+     "Bên phải"
+    ],
+    [
+     "양쪽",
+     "Yangjjok",
+     "Hai phía"
+    ],
+    [
+     "건너편/ 맞은편",
+     "Geonneopyeon/ majeunpyeon",
+     "Đối diện"
+    ],
+    [
+     "똑바로/쭉",
+     "Ttokbaro/jjuk",
+     "Thẳng"
+    ],
+    [
+     "동",
+     "Dong",
+     "Đông"
+    ],
+    [
+     "서",
+     "Seo",
+     "Tây"
+    ],
+    [
+     "남",
+     "Nam",
+     "Nam"
+    ],
+    [
+     "북",
+     "Buk",
+     "Bắc"
+    ],
+    [
+     "주택",
+     "Jutaek",
+     "Nhà riêng"
+    ],
+    [
+     "아파트",
+     "Apateu",
+     "Chung cư"
+    ],
+    [
+     "안방",
+     "Anbang",
+     "Phòng ngủ chính"
+    ],
+    [
+     "공부방",
+     "Gongbubang",
+     "Phòng học"
+    ],
+    [
+     "거실",
+     "Geosil",
+     "Phòng khách"
+    ],
+    [
+     "부엌",
+     "Bueok",
+     "Bếp"
+    ],
+    [
+     "현관",
+     "Hyeongwan",
+     "Lối vào, sảnh"
+    ],
+    [
+     "베란다",
+     "Beranda",
+     "Ban công"
+    ],
+    [
+     "오피스텔",
+     "Opiseutel",
+     "Căn hộ officetel"
+    ],
+    [
+     "세탁실",
+     "Setaksil",
+     "Phòng giặt đồ"
+    ],
+    [
+     "침실",
+     "Chimsil",
+     "Phòng ngủ"
+    ],
+    [
+     "침대",
+     "Chimdae",
+     "Giường"
+    ],
+    [
+     "책장",
+     "Chaekjang",
+     "Tủ sách"
+    ],
+    [
+     "옷장",
+     "Otjang",
+     "Tủ quần áo"
+    ],
+    [
+     "소파",
+     "Sopa",
+     "Ghế sofa"
+    ],
+    [
+     "탁자",
+     "Takja",
+     "Bàn"
+    ],
+    [
+     "식탁",
+     "Siktak",
+     "Bàn ăn"
+    ],
+    [
+     "화장대",
+     "Hwajangdae",
+     "Bàn trang điểm"
+    ],
+    [
+     "신발장",
+     "Sinbaljang",
+     "Tủ giày"
+    ],
+    [
+     "장",
+     "Jang",
+     "Tủ (đồ)"
+    ],
+    [
+     "경찰서",
+     "Gyeongchalseo",
+     "Sở cảnh sát"
+    ],
+    [
+     "세탁소",
+     "Setakso",
+     "Tiệm giặt ủi"
+    ],
+    [
+     "박물관",
+     "Bakmulgwan",
+     "Viện bảo tàng"
+    ],
+    [
+     "슈퍼마켓",
+     "Syupeomaket",
+     "Siêu thị"
+    ],
+    [
+     "지하철역",
+     "Jihacheoryeok",
+     "Ga tàu điện ngầm"
+    ],
+    [
+     "버스 정류장",
+     "Beoseu jeongryujang",
+     "Trạm xe buýt"
+    ],
+    [
+     "빵집",
+     "Ppangjip",
+     "Tiệm bánh"
+    ],
+    [
+     "꽃집",
+     "Kkotjip",
+     "Tiệm hoa"
+    ],
+    [
+     "미용실",
+     "Miyongsil",
+     "Tiệm làm tóc"
+    ],
+    [
+     "기숙사",
+     "Gisuksa",
+     "Ký túc xá"
+    ],
+    [
+     "편리하다",
+     "Pyeonrihada",
+     "Tiện lợi"
+    ],
+    [
+     "단독주택",
+     "Dandokjutaek",
+     "Nhà đơn lập"
+    ],
+    [
+     "자취 집",
+     "Jachwi jip",
+     "Nhà thuê ở một mình"
+    ],
+    [
+     "편하다",
+     "Pyeonhada",
+     "Thoải mái"
+    ],
+    [
+     "복잡하다",
+     "Bokjaphada",
+     "Phức tạp, đông đúc"
+    ],
+    [
+     "지내다",
+     "Jinaeda",
+     "Sống, trải qua"
+    ],
+    [
+     "하숙집",
+     "Hasukjip",
+     "Nhà trọ (có nấu ăn)"
+    ],
+    [
+     "지하",
+     "Jiha",
+     "Tầng hầm"
+    ],
+    [
+     "사용하다",
+     "Sayonghada",
+     "Sử dụng"
+    ],
+    [
+     "친절하다",
+     "Chinjeolhada",
+     "Thân thiện, tử tế"
+    ],
+    [
+     "혼자",
+     "Honja",
+     "Một mình"
+    ],
+    [
+     "정원",
+     "Jeongwon",
+     "Vườn"
+    ],
+    [
+     "하숙비",
+     "Hasukbi",
+     "Tiền nhà trọ"
+    ],
+    [
+     "불편하다",
+     "Bulpyeonhada",
+     "Bất tiện"
+    ]
+   ],
+   "grammar": [
+    "V + (으)ㄹ래요 — Nhé, chứ",
+    "N + 도 — Cũng",
+    "수 관형사 (2) — Định từ số (2)"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2026-11-25",
+   "type": "learn",
+   "id": "bai-11",
+   "lesson": "Bài 11",
+   "source": "TOPIK 1 – Bài 10: Gia đình",
+   "level": 1,
+   "title": "Gia đình",
+   "words": [
+    [
+     "가족",
+     "Gajok",
+     "Gia đình"
+    ],
+    [
+     "할아버지",
+     "Harabeoji",
+     "Ông nội"
+    ],
+    [
+     "할머니",
+     "Halmeoni",
+     "Bà nội"
+    ],
+    [
+     "외할아버지",
+     "Oeharabeoji",
+     "Ông ngoại"
+    ],
+    [
+     "외할머니",
+     "Oehalmeoni",
+     "Bà ngoại"
+    ],
+    [
+     "아버지",
+     "Abeoji",
+     "Bố"
+    ],
+    [
+     "어머니",
+     "Eomeoni",
+     "Mẹ"
+    ],
+    [
+     "오빠",
+     "Oppa",
+     "Anh trai (em gái gọi)"
+    ],
+    [
+     "언니",
+     "Eonni",
+     "Chị gái (em gái gọi)"
+    ],
+    [
+     "나",
+     "Na",
+     "Tôi"
+    ],
+    [
+     "남동생",
+     "Namdongsaeng",
+     "Em trai"
+    ],
+    [
+     "누나",
+     "Nuna",
+     "Chị gái (em trai gọi)"
+    ],
+    [
+     "형",
+     "Hyeong",
+     "Anh trai (em trai gọi)"
+    ],
+    [
+     "여동생",
+     "Yeodongsaeng",
+     "Em gái"
+    ],
+    [
+     "교수",
+     "Gyosu",
+     "Giáo sư"
+    ],
+    [
+     "연구원",
+     "Yeonguwon",
+     "Nhà nghiên cứu"
+    ],
+    [
+     "군인",
+     "Gunin",
+     "Bộ đội"
+    ],
+    [
+     "사업가",
+     "Saeopga",
+     "Doanh nhân"
+    ],
+    [
+     "변호사",
+     "Byeonhosa",
+     "Luật sư"
+    ],
+    [
+     "경찰관",
+     "Gyeongchalgwan",
+     "Cảnh sát"
+    ],
+    [
+     "통역사",
+     "Tongyeoksa",
+     "Thông dịch viên"
+    ],
+    [
+     "농부",
+     "Nongbu",
+     "Nông dân"
+    ],
+    [
+     "사업을 하다",
+     "Saeobeul hada",
+     "Kinh doanh"
+    ],
+    [
+     "장사를 하다",
+     "Jangsareul hada",
+     "Buôn bán"
+    ],
+    [
+     "출장을 가다",
+     "Chuljangeul gada",
+     "Đi công tác"
+    ],
+    [
+     "농사를 짓다",
+     "Nongsareul jitda",
+     "Làm nông"
+    ],
+    [
+     "강아지",
+     "Gangaji",
+     "Chó con, cún con"
+    ],
+    [
+     "되다",
+     "Doeda",
+     "Trở thành"
+    ],
+    [
+     "연세",
+     "Yeonse",
+     "Tuổi (kính ngữ)"
+    ],
+    [
+     "결혼식",
+     "Gyeolhonsik",
+     "Lễ cưới"
+    ],
+    [
+     "열심히",
+     "Yeolsimhi",
+     "Một cách chăm chỉ"
+    ],
+    [
+     "계시다",
+     "Gyesida",
+     "Có, ở (kính ngữ)"
+    ],
+    [
+     "딸",
+     "Ttal",
+     "Con gái"
+    ],
+    [
+     "올해",
+     "Olhae",
+     "Năm nay"
+    ],
+    [
+     "고모",
+     "Gomo",
+     "Cô (chị em gái của bố)"
+    ],
+    [
+     "말씀",
+     "Malsseum",
+     "Lời nói (kính ngữ)"
+    ],
+    [
+     "외동딸",
+     "Oedongttal",
+     "Con gái duy nhất"
+    ],
+    [
+     "고모부",
+     "Gomobu",
+     "Dượng (chồng của cô)"
+    ],
+    [
+     "말씀하시다",
+     "Malsseumhasida",
+     "Nói (kính ngữ)"
+    ],
+    [
+     "외아들",
+     "Oeadeul",
+     "Con trai duy nhất"
+    ],
+    [
+     "분",
+     "Bun",
+     "Vị, người (kính ngữ)"
+    ],
+    [
+     "유치원생",
+     "Yuchiwonsaeng",
+     "Trẻ mẫu giáo"
+    ],
+    [
+     "사촌",
+     "Sachon",
+     "Anh chị em họ"
+    ],
+    [
+     "잡수시다",
+     "Japsusida",
+     "Ăn, dùng (kính ngữ)"
+    ],
+    [
+     "근무",
+     "Geunmu",
+     "Việc làm, công tác"
+    ],
+    [
+     "삼촌",
+     "Samchon",
+     "Chú, cậu"
+    ],
+    [
+     "전공하다",
+     "Jeongonghada",
+     "Học chuyên ngành"
+    ],
+    [
+     "근처",
+     "Geuncheo",
+     "Gần, lân cận"
+    ],
+    [
+     "생신",
+     "Saengsin",
+     "Sinh nhật (kính ngữ)"
+    ],
+    [
+     "주무시다",
+     "Jumusida",
+     "Ngủ (kính ngữ)"
+    ],
+    [
+     "나중에",
+     "Najunge",
+     "Sau này"
+    ],
+    [
+     "성함",
+     "Seongham",
+     "Tên (kính ngữ)"
+    ],
+    [
+     "진지",
+     "Jinji",
+     "Cơm (kính ngữ)"
+    ],
+    [
+     "대가족",
+     "Daegajok",
+     "Đại gia đình"
+    ],
+    [
+     "술",
+     "Sul",
+     "Rượu"
+    ],
+    [
+     "초등학생",
+     "Chodeunghaksaeng",
+     "Học sinh tiểu học"
+    ],
+    [
+     "댁",
+     "Daek",
+     "Nhà (kính ngữ)"
+    ],
+    [
+     "아내",
+     "Anae",
+     "Vợ"
+    ],
+    [
+     "큰아버지",
+     "Keunabeoji",
+     "Bác trai"
+    ],
+    [
+     "돌아가시다",
+     "Doragasida",
+     "Qua đời (kính ngữ)"
+    ],
+    [
+     "아들",
+     "Adeul",
+     "Con trai"
+    ],
+    [
+     "큰어머니",
+     "Keuneomeoni",
+     "Bác gái"
+    ]
+   ],
+   "grammar": [
+    "께서 — Tiểu từ chủ ngữ kính ngữ",
+    "V/A + (으)시 — Kính ngữ",
+    "Giản lược ㄹ"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+   }
+  },
+  {
+   "day": 8,
+   "date": "2026-11-26",
+   "type": "learn",
+   "id": "bai-12",
+   "lesson": "Bài 12",
+   "source": "TOPIK 1 – Bài 11: Thời tiết",
+   "level": 1,
+   "title": "Thời tiết",
+   "words": [
+    [
+     "날씨",
+     "Nalssi",
+     "Thời tiết"
+    ],
+    [
+     "봄",
+     "Bom",
+     "Mùa xuân"
+    ],
+    [
+     "여름",
+     "Yeoreum",
+     "Mùa hè"
+    ],
+    [
+     "가을",
+     "Gaeul",
+     "Mùa thu"
+    ],
+    [
+     "따뜻하다",
+     "Ttatteuthada",
+     "Ấm áp"
+    ],
+    [
+     "덥다",
+     "Deopda",
+     "Nóng"
+    ],
+    [
+     "쌀쌀하다",
+     "Ssalssalhada",
+     "Se lạnh"
+    ],
+    [
+     "춥다",
+     "Chupda",
+     "Lạnh"
+    ],
+    [
+     "비가 오다/내리다",
+     "Biga oda/naerida",
+     "Trời mưa"
+    ],
+    [
+     "비가 그치다",
+     "Biga geuchida",
+     "Tạnh mưa"
+    ],
+    [
+     "눈이 오다/내리다",
+     "Nuni oda/naerida",
+     "Tuyết rơi"
+    ],
+    [
+     "눈이 그치다",
+     "Nuni geuchida",
+     "Tuyết ngừng rơi"
+    ],
+    [
+     "맑다",
+     "Makda",
+     "Trong xanh, quang đãng"
+    ],
+    [
+     "흐리다",
+     "Heurida",
+     "Âm u"
+    ],
+    [
+     "바람이 불다",
+     "Barami bulda",
+     "Gió thổi"
+    ],
+    [
+     "구름이 끼다",
+     "Gureumi kkida",
+     "Nhiều mây"
+    ],
+    [
+     "해 (태양)",
+     "Hae (taeyang)",
+     "Mặt trời"
+    ],
+    [
+     "비",
+     "Bi",
+     "Mưa"
+    ],
+    [
+     "눈",
+     "Nun",
+     "Tuyết; mắt"
+    ],
+    [
+     "구름",
+     "Gureum",
+     "Mây"
+    ],
+    [
+     "기온",
+     "Gion",
+     "Nhiệt độ"
+    ],
+    [
+     "영상",
+     "Yeongsang",
+     "Trên 0 độ"
+    ],
+    [
+     "영하",
+     "Yeongha",
+     "Dưới 0 độ"
+    ],
+    [
+     "도",
+     "Do",
+     "Độ"
+    ],
+    [
+     "가장",
+     "Gajang",
+     "Nhất"
+    ],
+    [
+     "반바지",
+     "Banbaji",
+     "Quần soóc"
+    ],
+    [
+     "입다",
+     "Ipda",
+     "Mặc"
+    ],
+    [
+     "곱다",
+     "Gopda",
+     "Đẹp, xinh xắn"
+    ],
+    [
+     "반팔 옷",
+     "Banpal ot",
+     "Áo cộc tay"
+    ],
+    [
+     "장갑",
+     "Janggap",
+     "Găng tay"
+    ],
+    [
+     "긴팔 옷",
+     "Ginpal ot",
+     "Áo dài tay"
+    ],
+    [
+     "부츠",
+     "Bucheu",
+     "Giày bốt"
+    ],
+    [
+     "좁다",
+     "Jopda",
+     "Hẹp"
+    ],
+    [
+     "깨끗하다",
+     "Kkaekkeuthada",
+     "Sạch sẽ"
+    ],
+    [
+     "비슷하다",
+     "Biseuthada",
+     "Tương tự, giống"
+    ],
+    [
+     "추억",
+     "Chueok",
+     "Kỷ niệm"
+    ],
+    [
+     "노란색",
+     "Noransaek",
+     "Màu vàng"
+    ],
+    [
+     "스노보드",
+     "Seunobodeu",
+     "Ván trượt tuyết"
+    ],
+    [
+     "필요하다",
+     "Piryohada",
+     "Cần thiết"
+    ],
+    [
+     "단풍",
+     "Danpung",
+     "Lá đỏ mùa thu"
+    ],
+    [
+     "스키",
+     "Seuki",
+     "Trượt tuyết"
+    ],
+    [
+     "하늘",
+     "Haneul",
+     "Bầu trời"
+    ],
+    [
+     "답장",
+     "Dapjang",
+     "Thư hồi âm"
+    ],
+    [
+     "스키장",
+     "Seukijang",
+     "Khu trượt tuyết"
+    ],
+    [
+     "하얀 눈",
+     "Hayan nun",
+     "Tuyết trắng"
+    ],
+    [
+     "도와주다",
+     "Dowajuda",
+     "Giúp đỡ"
+    ],
+    [
+     "시끄럽다",
+     "Sikkeureopda",
+     "Ồn ào"
+    ],
+    [
+     "호수",
+     "Hosu",
+     "Hồ"
+    ],
+    [
+     "돕다",
+     "Dopda",
+     "Giúp đỡ"
+    ],
+    [
+     "아름답다",
+     "Areumdapda",
+     "Đẹp"
+    ],
+    [
+     "목도리",
+     "Mokdori",
+     "Khăn quàng cổ"
+    ],
+    [
+     "우산",
+     "Usan",
+     "Ô, dù"
+    ]
+   ],
+   "grammar": [
+    "V/A + 고 — Và, còn",
+    "부터~까지 — Từ ~ đến (thời gian)",
+    "V + (으)ㄹ 거예요 — Sẽ"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+   }
+  },
+  {
+   "day": 9,
+   "date": "2026-11-27",
+   "type": "learn",
+   "id": "bai-13",
+   "lesson": "Bài 13",
+   "source": "TOPIK 1 – Bài 12: Điện thoại liên lạc P1",
+   "level": 1,
+   "title": "Điện thoại liên lạc P1",
+   "words": [
+    [
+     "집 전화",
+     "Jip jeonhwa",
+     "Điện thoại nhà riêng"
+    ],
+    [
+     "공중전화",
+     "Gongjungjeonhwa",
+     "Điện thoại công cộng"
+    ],
+    [
+     "전화번호",
+     "Jeonhwabeonho",
+     "Số điện thoại"
+    ],
+    [
+     "전화 요금",
+     "Jeonhwa yogeum",
+     "Phí điện thoại"
+    ],
+    [
+     "국내 전화",
+     "Guknae jeonhwa",
+     "Điện thoại trong nước"
+    ],
+    [
+     "수신자 부담",
+     "Susinja budam",
+     "Người nhận trả tiền"
+    ],
+    [
+     "연락처",
+     "Yeonrakcheo",
+     "Số liên lạc"
+    ],
+    [
+     "전화 카드",
+     "Jeonhwa kadeu",
+     "Thẻ điện thoại"
+    ],
+    [
+     "국제전화",
+     "Gukjejeonhwa",
+     "Điện thoại quốc tế"
+    ],
+    [
+     "인터넷 전화",
+     "Inteonet jeonhwa",
+     "Điện thoại internet"
+    ],
+    [
+     "국가 번호",
+     "Gukga beonho",
+     "Mã quốc gia"
+    ],
+    [
+     "지역 번호",
+     "Jiyeok beonho",
+     "Mã vùng"
+    ],
+    [
+     "전화를 걸다/하다",
+     "Jeonhwareul geolda/hada",
+     "Gọi điện thoại"
+    ],
+    [
+     "전화를 받다",
+     "Jeonhwareul batda",
+     "Nghe điện thoại"
+    ],
+    [
+     "전화를 끊다",
+     "Jeonhwareul kkeunta",
+     "Cúp máy"
+    ],
+    [
+     "문자메시지를 보내다",
+     "Munjamesijireul bonaeda",
+     "Gửi tin nhắn"
+    ],
+    [
+     "답장을 보내다",
+     "Dapjangeul bonaeda",
+     "Gửi trả lời"
+    ],
+    [
+     "전화가 오다",
+     "Jeonhwaga oda",
+     "Có cuộc gọi đến"
+    ],
+    [
+     "전화를 바꾸다",
+     "Jeonhwareul bakkuda",
+     "Chuyển máy (cho ai)"
+    ],
+    [
+     "통화 중이다",
+     "Tonghwa jungida",
+     "Máy bận"
+    ],
+    [
+     "문자메시지를 받다",
+     "Munjamesijireul batda",
+     "Nhận tin nhắn"
+    ],
+    [
+     "답장을 받다",
+     "Dapjangeul batda",
+     "Nhận tin trả lời"
+    ],
+    [
+     "여보세요?",
+     "Yeoboseyo?",
+     "Alo"
+    ],
+    [
+     "거기 ...(이)지요?",
+     "Geogi ...(i)jiyo?",
+     "Có phải ... đó không?"
+    ],
+    [
+     "(...) 계세요?",
+     "(...) gyeseyo?",
+     "(...) có ở đó không?"
+    ],
+    [
+     "바꿔 주시겠어요?",
+     "Bakkwo jusigesseoyo?",
+     "Chuyển máy giúp tôi được không ạ?"
+    ],
+    [
+     "메모 좀 전해 주세요.",
+     "Memo jom jeonhae juseyo.",
+     "Xin hãy chuyển lời nhắn giúp"
+    ],
+    [
+     "말씀 좀 전해 주세요.",
+     "Malsseum jom jeonhae juseyo.",
+     "Xin hãy chuyển lời giúp"
+    ],
+    [
+     "다시 전화하겠습니다.",
+     "Dasi jeonhwahagetseupnida.",
+     "Tôi sẽ gọi lại sau"
+    ],
+    [
+     "그런데요?",
+     "Geureondeyo?",
+     "Vâng, có chuyện gì ạ?"
+    ],
+    [
+     "실례지만 누구세요?",
+     "Silryejiman nuguseyo?",
+     "Xin lỗi, ai đấy ạ?"
+    ],
+    [
+     "지금 없는데요.",
+     "Jigeum eopneundeyo.",
+     "Bây giờ không có ở đây ạ"
+    ],
+    [
+     "잠깐 외출하셨는데요.",
+     "Jamkkan oechulhasyeotneundeyo.",
+     "(Người đó) vừa ra ngoài một lát ạ"
+    ],
+    [
+     "메모 전해 드리겠습니다.",
+     "Memo jeonhae deurigetseupnida.",
+     "Tôi sẽ chuyển lời nhắn"
+    ],
+    [
+     "말씀 전해 드리겠습니다.",
+     "Malsseum jeonhae deurigetseupnida.",
+     "Tôi sẽ chuyển lời"
+    ],
+    [
+     "누구라고 전해 드릴까요?",
+     "Nugurago jeonhae deurilkkayo?",
+     "Tôi nhắn lại là ai gọi ạ?"
+    ],
+    [
+     "그분",
+     "Geubun",
+     "Vị ấy"
+    ],
+    [
+     "깨우다",
+     "Kkaeuda",
+     "Đánh thức"
+    ],
+    [
+     "남기다",
+     "Namgida",
+     "Để lại"
+    ],
+    [
+     "내다",
+     "Naeda",
+     "Nộp, đưa ra"
+    ],
+    [
+     "늦게",
+     "Neutge",
+     "Muộn, trễ"
+    ],
+    [
+     "대사관",
+     "Daesagwan",
+     "Đại sứ quán"
+    ],
+    [
+     "들어오다",
+     "Deureooda",
+     "Đi vào (hướng về phía người nói)"
+    ],
+    [
+     "말씀드리다",
+     "Malsseumdeurida",
+     "Thưa, nói (kính ngữ)"
+    ],
+    [
+     "맞다",
+     "Matda",
+     "Đúng"
+    ],
+    [
+     "사장님",
+     "Sajangnim",
+     "Giám đốc"
+    ],
+    [
+     "소리",
+     "Sori",
+     "Âm thanh, tiếng"
+    ],
+    [
+     "약속",
+     "Yaksok",
+     "Cuộc hẹn, lời hứa"
+    ],
+    [
+     "얼마나",
+     "Eolmana",
+     "Bao nhiêu, bao lâu"
+    ],
+    [
+     "역사",
+     "Yeoksa",
+     "Lịch sử"
+    ],
+    [
+     "정하다",
+     "Jeonghada",
+     "Quyết định"
+    ],
+    [
+     "짐",
+     "Jim",
+     "Hành lý"
+    ]
+   ],
+   "grammar": [
+    "Bất quy tắc ㅂ",
+    "N + 에게/한테/께 — Cho (ai), tới (ai)",
+    "V/A + 지만 — Nhưng"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+   }
+  },
+  {
+   "day": 10,
+   "date": "2026-11-28",
+   "type": "learn",
+   "id": "bai-14",
+   "lesson": "Bài 14",
+   "source": "TOPIK 1 – Bài 13: Sinh nhật",
+   "level": 1,
+   "title": "Sinh nhật",
+   "words": [
+    [
+     "생일",
+     "Saengil",
+     "Sinh nhật"
+    ],
+    [
+     "축하 노래",
+     "Chukha norae",
+     "Bài hát chúc mừng"
+    ],
+    [
+     "카드",
+     "Kadeu",
+     "Thiệp"
+    ],
+    [
+     "잔치",
+     "Janchi",
+     "Tiệc"
+    ],
+    [
+     "초대",
+     "Chodae",
+     "Lời mời"
+    ],
+    [
+     "나이",
+     "Nai",
+     "Tuổi"
+    ],
+    [
+     "살",
+     "Sal",
+     "Tuổi (đếm bằng số thuần Hàn)"
+    ],
+    [
+     "연세",
+     "Yeonse",
+     "Tuổi (kính ngữ của 나이)"
+    ],
+    [
+     "세",
+     "Se",
+     "Tuổi (đếm bằng số Hán Hàn)"
+    ],
+    [
+     "화장품",
+     "Hwajangpum",
+     "Mỹ phẩm"
+    ],
+    [
+     "손수건",
+     "Sonsugeon",
+     "Khăn tay"
+    ],
+    [
+     "넥타이",
+     "Nektai",
+     "Cà vạt"
+    ],
+    [
+     "귀걸이",
+     "Gwigeori",
+     "Hoa tai, bông tai"
+    ],
+    [
+     "목걸이",
+     "Mokgeori",
+     "Dây chuyền"
+    ],
+    [
+     "반지",
+     "Banji",
+     "Nhẫn"
+    ],
+    [
+     "꽃다발",
+     "Kkotdabal",
+     "Bó hoa"
+    ],
+    [
+     "선물을 주다",
+     "Seonmureul juda",
+     "Tặng quà"
+    ],
+    [
+     "선물을 드리다",
+     "Seonmureul deurida",
+     "Kính tặng quà"
+    ],
+    [
+     "선물을 받다",
+     "Seonmureul batda",
+     "Nhận quà"
+    ],
+    [
+     "선물을 고르다",
+     "Seonmureul goreuda",
+     "Chọn quà"
+    ],
+    [
+     "가볍다",
+     "Gabyeopda",
+     "Nhẹ"
+    ],
+    [
+     "짧다",
+     "Jjalda",
+     "Ngắn"
+    ],
+    [
+     "금반지",
+     "Geumbanji",
+     "Nhẫn vàng"
+    ],
+    [
+     "생활",
+     "Saenghwal",
+     "Sinh hoạt, cuộc sống"
+    ],
+    [
+     "참",
+     "Cham",
+     "Rất, thật là"
+    ],
+    [
+     "길다",
+     "Gilda",
+     "Dài"
+    ],
+    [
+     "스웨터",
+     "Seuweteo",
+     "Áo len"
+    ],
+    [
+     "첫",
+     "Cheot",
+     "Đầu tiên"
+    ],
+    [
+     "꼭",
+     "Kkok",
+     "Nhất định"
+    ],
+    [
+     "스파게티",
+     "Seupageti",
+     "Mì Ý"
+    ],
+    [
+     "끝나다",
+     "Kkeutnada",
+     "Xong, kết thúc"
+    ],
+    [
+     "시청",
+     "Sicheong",
+     "Tòa thị chính"
+    ],
+    [
+     "한식당",
+     "Hansikdang",
+     "Nhà hàng Hàn Quốc"
+    ],
+    [
+     "아빠",
+     "Appa",
+     "Bố"
+    ],
+    [
+     "행복하다",
+     "Haengbokhada",
+     "Hạnh phúc"
+    ],
+    [
+     "레스토랑",
+     "Reseutorang",
+     "Nhà hàng"
+    ],
+    [
+     "엄마",
+     "Eomma",
+     "Mẹ"
+    ],
+    [
+     "향수",
+     "Hyangsu",
+     "Nước hoa"
+    ],
+    [
+     "먼저",
+     "Meonjeo",
+     "Trước"
+    ],
+    [
+     "오래간만",
+     "Oraeganman",
+     "Lâu rồi mới gặp"
+    ],
+    [
+     "화장하다",
+     "Hwajanghada",
+     "Trang điểm"
+    ],
+    [
+     "무겁다",
+     "Mugeopda",
+     "Nặng"
+    ],
+    [
+     "웃다",
+     "Utda",
+     "Cười"
+    ],
+    [
+     "환갑",
+     "Hwangap",
+     "Tiệc mừng thọ 60 tuổi"
+    ],
+    [
+     "번째",
+     "Beonjjae",
+     "Lần thứ"
+    ],
+    [
+     "이탈리아",
+     "Italria",
+     "Nước Ý"
+    ],
+    [
+     "부르다",
+     "Bureuda",
+     "Gọi; hát"
+    ],
+    [
+     "장미",
+     "Jangmi",
+     "Hoa hồng"
+    ]
+   ],
+   "grammar": [
+    "V + (으)려고 하다 — Định, muốn",
+    "V/A + 아/어서 — Vì",
+    "(으)ㄹ까요 — Nhé, nhỉ"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+   }
+  },
+  {
+   "day": 11,
+   "date": "2026-11-29",
+   "type": "learn",
+   "id": "bai-15",
+   "lesson": "Bài 15",
+   "source": "TOPIK 1 – Bài 14: Sở thích và đam mê",
+   "level": 1,
+   "title": "Sở thích và đam mê",
+   "words": [
+    [
+     "운동",
+     "Undong",
+     "Thể thao"
+    ],
+    [
+     "축구",
+     "Chukgu",
+     "Bóng đá"
+    ],
+    [
+     "족구",
+     "Jokgu",
+     "Bóng chuyền bằng chân"
+    ],
+    [
+     "탁구",
+     "Takgu",
+     "Bóng bàn"
+    ],
+    [
+     "배드민턴",
+     "Baedeuminteon",
+     "Cầu lông"
+    ],
+    [
+     "테니스",
+     "Teniseu",
+     "Quần vợt"
+    ],
+    [
+     "태권도",
+     "Taegwondo",
+     "Taekwondo"
+    ],
+    [
+     "골프",
+     "Golpeu",
+     "Golf"
+    ],
+    [
+     "요가",
+     "Yoga",
+     "Yoga"
+    ],
+    [
+     "마라톤",
+     "Maraton",
+     "Chạy marathon"
+    ],
+    [
+     "스케이트",
+     "Seukeiteu",
+     "Trượt băng"
+    ],
+    [
+     "볼링",
+     "Bolring",
+     "Bowling"
+    ],
+    [
+     "조깅",
+     "Joging",
+     "Chạy bộ"
+    ],
+    [
+     "수영",
+     "Suyeong",
+     "Bơi"
+    ],
+    [
+     "취미",
+     "Chwimi",
+     "Sở thích"
+    ],
+    [
+     "책 읽기, 독서",
+     "Chaek ikgi, dokseo",
+     "Đọc sách"
+    ],
+    [
+     "사진 찍기",
+     "Sajin jjikgi",
+     "Chụp ảnh"
+    ],
+    [
+     "그림 그리기",
+     "Geurim geurigi",
+     "Vẽ tranh"
+    ],
+    [
+     "음악 감상 (하기)",
+     "Eumak gamsang (hagi)",
+     "Nghe nhạc"
+    ],
+    [
+     "여행 (하기)",
+     "Yeohaeng (hagi)",
+     "Đi du lịch"
+    ],
+    [
+     "운동 (하기)",
+     "Undong (hagi)",
+     "Tập thể thao"
+    ],
+    [
+     "영화 보기",
+     "Yeonghwa bogi",
+     "Xem phim"
+    ],
+    [
+     "우표 수집/ 우표 모으기",
+     "Upyo sujip/ upyo moeugi",
+     "Sưu tập tem"
+    ],
+    [
+     "컴퓨터 게임 (하기)",
+     "Keompyuteo geim (hagi)",
+     "Chơi game máy tính"
+    ],
+    [
+     "항상, 언제나",
+     "Hangsang, eonjena",
+     "Luôn luôn"
+    ],
+    [
+     "자주",
+     "Jaju",
+     "Thường xuyên"
+    ],
+    [
+     "가끔",
+     "Gakkeum",
+     "Thỉnh thoảng"
+    ],
+    [
+     "거의 안~",
+     "Geoui an~",
+     "Hầu như không"
+    ],
+    [
+     "전혀",
+     "Jeonhyeo",
+     "Hoàn toàn (không)"
+    ],
+    [
+     "잘하다",
+     "Jalhada",
+     "Giỏi, làm tốt"
+    ],
+    [
+     "못하다",
+     "Mothada",
+     "Kém, không làm được"
+    ],
+    [
+     "보통이다",
+     "Botongida",
+     "Bình thường"
+    ],
+    [
+     "조금 하다",
+     "Jogeum hada",
+     "Làm được một chút"
+    ],
+    [
+     "가곡",
+     "Gagok",
+     "Ca khúc nghệ thuật"
+    ],
+    [
+     "믿다",
+     "Mitda",
+     "Tin, tin tưởng"
+    ],
+    [
+     "채팅하다",
+     "Chaetinghada",
+     "Chat, nhắn tin"
+    ],
+    [
+     "가요",
+     "Gayo",
+     "Nhạc đại chúng"
+    ],
+    [
+     "사진을 찍다",
+     "Sajineul jjikda",
+     "Chụp ảnh"
+    ],
+    [
+     "걱정하다",
+     "Geokjeonghada",
+     "Lo lắng"
+    ],
+    [
+     "소설책",
+     "Soseolchaek",
+     "Tiểu thuyết"
+    ],
+    [
+     "건강",
+     "Geongang",
+     "Sức khỏe"
+    ],
+    [
+     "아침마다",
+     "Achimmada",
+     "Mỗi sáng"
+    ],
+    [
+     "타다",
+     "Tada",
+     "Đi (xe), cưỡi"
+    ],
+    [
+     "걷다",
+     "Geotda",
+     "Đi bộ"
+    ],
+    [
+     "앞으로",
+     "Apeuro",
+     "Sau này, từ nay"
+    ],
+    [
+     "경기",
+     "Gyeonggi",
+     "Trận đấu"
+    ],
+    [
+     "어렵다",
+     "Eoryeopda",
+     "Khó"
+    ],
+    [
+     "통역하다",
+     "Tongyeokhada",
+     "Thông dịch"
+    ],
+    [
+     "경치",
+     "Gyeongchi",
+     "Phong cảnh"
+    ],
+    [
+     "고등학교",
+     "Godeunghakgyo",
+     "Trường THPT"
+    ],
+    [
+     "오토바이",
+     "Otobai",
+     "Xe máy"
+    ],
+    [
+     "피아노",
+     "Piano",
+     "Đàn piano"
+    ],
+    [
+     "기초",
+     "Gicho",
+     "Cơ bản, nền tảng"
+    ],
+    [
+     "도시락",
+     "Dosirak",
+     "Cơm hộp"
+    ],
+    [
+     "유럽",
+     "Yureop",
+     "Châu Âu"
+    ],
+    [
+     "한글",
+     "Hangeul",
+     "Chữ Hangeul"
+    ],
+    [
+     "동아리",
+     "Dongari",
+     "Câu lạc bộ"
+    ],
+    [
+     "자막",
+     "Jamak",
+     "Phụ đề"
+    ],
+    [
+     "해외여행",
+     "Haeoeyeohaeng",
+     "Du lịch nước ngoài"
+    ],
+    [
+     "디지털카메라",
+     "Dijiteolkamera",
+     "Máy ảnh kỹ thuật số"
+    ],
+    [
+     "정도",
+     "Jeongdo",
+     "Mức độ, khoảng"
+    ],
+    [
+     "만화책",
+     "Manhwachaek",
+     "Truyện tranh"
+    ],
+    [
+     "주로",
+     "Juro",
+     "Chủ yếu"
+    ],
+    [
+     "묻다",
+     "Mutda",
+     "Hỏi"
+    ],
+    [
+     "준비물",
+     "Junbimul",
+     "Đồ chuẩn bị"
+    ]
+   ],
+   "grammar": [
+    "못 + V — Không thể",
+    "V/A + (으)ㄹ 수 있다 — Có thể",
+    "V/A + 기/는 것 — Việc, cái"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+   }
+  },
+  {
+   "day": 12,
+   "date": "2026-11-30",
+   "type": "learn",
+   "id": "bai-16",
+   "lesson": "Bài 16",
+   "source": "TOPIK 1 – Bài 15: Giao thông P1",
+   "level": 1,
+   "title": "Giao thông P1",
+   "words": [
+    [
+     "교통",
+     "Gyotong",
+     "Giao thông"
+    ],
+    [
+     "버스",
+     "Beoseu",
+     "Xe buýt"
+    ],
+    [
+     "택시",
+     "Taeksi",
+     "Taxi"
+    ],
+    [
+     "지하철",
+     "Jihacheol",
+     "Tàu điện ngầm"
+    ],
+    [
+     "자동차",
+     "Jadongcha",
+     "Ô tô"
+    ],
+    [
+     "배",
+     "Bae",
+     "Thuyền, tàu thủy"
+    ],
+    [
+     "비행기",
+     "Bihaenggi",
+     "Máy bay"
+    ],
+    [
+     "자전거",
+     "Jajeongeo",
+     "Xe đạp"
+    ],
+    [
+     "전차",
+     "Jeoncha",
+     "Tàu điện"
+    ],
+    [
+     "오토바이 택시",
+     "Otobai taeksi",
+     "Xe ôm"
+    ],
+    [
+     "시클로",
+     "Sikeulro",
+     "Xích lô"
+    ],
+    [
+     "어떻게",
+     "Eotteoke",
+     "Như thế nào"
+    ],
+    [
+     "왜",
+     "Wae",
+     "Tại sao"
+    ],
+    [
+     "모범택시",
+     "Mobeomtaeksi",
+     "Taxi cao cấp"
+    ],
+    [
+     "개인택시",
+     "Gaeintaeksi",
+     "Taxi cá nhân"
+    ],
+    [
+     "요금",
+     "Yogeum",
+     "Cước phí, tiền vé"
+    ],
+    [
+     "버스 정류장 (정거장)",
+     "Beoseu jeongryujang (jeonggeojang)",
+     "Trạm xe buýt"
+    ],
+    [
+     "고속버스",
+     "Gosokbeoseu",
+     "Xe buýt cao tốc"
+    ],
+    [
+     "시내버스",
+     "Sinaebeoseu",
+     "Xe buýt nội thành"
+    ],
+    [
+     "버스 터미널",
+     "Beoseu teomineol",
+     "Bến xe khách"
+    ],
+    [
+     "교통 카드",
+     "Gyotong kadeu",
+     "Thẻ giao thông"
+    ],
+    [
+     "마을버스",
+     "Maeulbeoseu",
+     "Xe buýt tuyến ngắn"
+    ],
+    [
+     "매표소",
+     "Maepyoso",
+     "Quầy bán vé"
+    ],
+    [
+     "지하철 노선도",
+     "Jihacheol noseondo",
+     "Bản đồ tuyến tàu điện ngầm"
+    ],
+    [
+     "기차역",
+     "Gichayeok",
+     "Ga tàu hỏa"
+    ],
+    [
+     "주차장",
+     "Juchajang",
+     "Bãi đỗ xe"
+    ],
+    [
+     "주유소",
+     "Juyuso",
+     "Trạm xăng"
+    ],
+    [
+     "횡단보도",
+     "Hoengdanbodo",
+     "Vạch qua đường"
+    ],
+    [
+     "육교",
+     "Yukgyo",
+     "Cầu vượt"
+    ],
+    [
+     "지하도",
+     "Jihado",
+     "Đường hầm đi bộ"
+    ],
+    [
+     "신호등",
+     "Sinhodeung",
+     "Đèn giao thông"
+    ],
+    [
+     "고속도로",
+     "Gosokdoro",
+     "Đường cao tốc"
+    ],
+    [
+     "도로",
+     "Doro",
+     "Đường, đại lộ"
+    ],
+    [
+     "타다",
+     "Tada",
+     "Lên, đi (phương tiện)"
+    ],
+    [
+     "내리다",
+     "Naerida",
+     "Xuống (xe)"
+    ],
+    [
+     "갈아타다",
+     "Garatada",
+     "Đổi (xe, tuyến)"
+    ],
+    [
+     "길이 막히다",
+     "Giri makhida",
+     "Tắc đường"
+    ],
+    [
+     "시간이 걸리다",
+     "Sigani geolrida",
+     "Mất thời gian"
+    ],
+    [
+     "교통사고가 나다",
+     "Gyotongsagoga nada",
+     "Xảy ra tai nạn giao thông"
+    ],
+    [
+     "간식",
+     "Gansik",
+     "Đồ ăn vặt"
+    ],
+    [
+     "빨갛다",
+     "Ppalgata",
+     "Đỏ"
+    ],
+    [
+     "파랗다",
+     "Parata",
+     "Xanh dương"
+    ],
+    [
+     "남산",
+     "Namsan",
+     "Núi Namsan"
+    ],
+    [
+     "시내",
+     "Sinae",
+     "Trung tâm thành phố"
+    ],
+    [
+     "편의점",
+     "Pyeonuijeom",
+     "Cửa hàng tiện lợi"
+    ],
+    [
+     "노랗다",
+     "Norata",
+     "Vàng"
+    ],
+    [
+     "야경",
+     "Yagyeong",
+     "Cảnh đêm"
+    ],
+    [
+     "학생회관",
+     "Haksaenghoegwan",
+     "Hội quán sinh viên"
+    ],
+    [
+     "리무진 버스",
+     "Rimujin beoseu",
+     "Xe buýt limousine"
+    ],
+    [
+     "요리 학원",
+     "Yori hagwon",
+     "Trung tâm dạy nấu ăn"
+    ],
+    [
+     "지각하다",
+     "Jigakhada",
+     "Đến muộn"
+    ],
+    [
+     "KTX",
+     "KTX",
+     "Tàu cao tốc KTX"
+    ]
+   ],
+   "grammar": [
+    "Bất quy tắc ㄷ",
+    "에서~까지 — Từ ~ đến (nơi chốn)",
+    "N + (으)로 — Bằng (phương tiện)"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+   }
+  },
+  {
+   "day": 13,
+   "date": "2026-12-01",
+   "type": "review",
+   "title": "Ôn tập cấp 1 + thi thử",
+   "tasks": [
+    "Vào mục Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm Ngữ pháp tổng hợp 2 lượt",
+    "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật",
+    "Dán kết quả + điểm đề thi cho Claude để được phân tích điểm yếu"
+   ]
+  },
+  {
+   "day": 14,
+   "date": "2026-12-02",
+   "type": "learn",
+   "id": "bai-17",
+   "lesson": "Bài 17",
+   "source": "TOPIK 2 – Bài 1: Gặp gỡ",
+   "level": 2,
+   "title": "Gặp gỡ",
+   "words": [
+    [
+     "남편",
+     "Nampyeon",
+     "Chồng"
+    ],
+    [
+     "아내",
+     "Anae",
+     "Vợ"
+    ],
+    [
+     "선배",
+     "Seonbae",
+     "Tiền bối, đàn anh/chị"
+    ],
+    [
+     "후배",
+     "Hubae",
+     "Hậu bối, đàn em"
+    ],
+    [
+     "주인",
+     "Juin",
+     "Chủ nhà"
+    ],
+    [
+     "손님",
+     "Sonnim",
+     "Khách"
+    ],
+    [
+     "상사",
+     "Sangsa",
+     "Cấp trên"
+    ],
+    [
+     "부하",
+     "Buha",
+     "Cấp dưới"
+    ],
+    [
+     "초대하다",
+     "Chodaehada",
+     "Mời"
+    ],
+    [
+     "초대를 받다",
+     "Chodaereul batda",
+     "Nhận lời mời"
+    ],
+    [
+     "방문하다",
+     "Bangmunhada",
+     "Thăm, đến thăm"
+    ],
+    [
+     "소개하다",
+     "Sogaehada",
+     "Giới thiệu"
+    ],
+    [
+     "소개를 받다",
+     "Sogaereul batda",
+     "Được giới thiệu"
+    ],
+    [
+     "인사하다",
+     "Insahada",
+     "Chào hỏi"
+    ],
+    [
+     "잘 먹겠습니다",
+     "Jal meokgetseupnida",
+     "Tôi xin phép ăn ạ (trước khi ăn)"
+    ],
+    [
+     "잘 먹었습니다",
+     "Jal meogeotseupnida",
+     "Cảm ơn vì bữa ăn (sau khi ăn)"
+    ],
+    [
+     "실례하겠습니다",
+     "Silryehagetseupnida",
+     "Xin phép, xin lỗi (làm phiền)"
+    ],
+    [
+     "실례했습니다",
+     "Silryehaetseupnida",
+     "Xin lỗi đã làm phiền"
+    ],
+    [
+     "가져오다",
+     "Gajyeooda",
+     "Mang đến"
+    ],
+    [
+     "비슷하다",
+     "Biseuthada",
+     "Tương tự"
+    ],
+    [
+     "예절",
+     "Yejeol",
+     "Lễ nghi, phép tắc"
+    ],
+    [
+     "걱정",
+     "Geokjeong",
+     "Sự lo lắng"
+    ],
+    [
+     "사용하다",
+     "Sayonghada",
+     "Sử dụng"
+    ],
+    [
+     "올림",
+     "Olrim",
+     "Kính thư (cuối thư)"
+    ],
+    [
+     "넣다",
+     "Neota",
+     "Cho vào, bỏ vào"
+    ],
+    [
+     "상담",
+     "Sangdam",
+     "Tư vấn"
+    ],
+    [
+     "일찍",
+     "Iljjik",
+     "Sớm"
+    ],
+    [
+     "닫다",
+     "Datda",
+     "Đóng"
+    ],
+    [
+     "상담소",
+     "Sangdamso",
+     "Văn phòng tư vấn"
+    ],
+    [
+     "정장",
+     "Jeongjang",
+     "Trang phục lịch sự, vest"
+    ],
+    [
+     "댁",
+     "Daek",
+     "Nhà (kính ngữ)"
+    ],
+    [
+     "설탕",
+     "Seoltang",
+     "Đường"
+    ],
+    [
+     "조심하다",
+     "Josimhada",
+     "Cẩn thận"
+    ],
+    [
+     "들다",
+     "Deulda",
+     "Cầm, xách"
+    ],
+    [
+     "소리를 내다",
+     "Sorireul naeda",
+     "Phát ra tiếng"
+    ],
+    [
+     "직원",
+     "Jigwon",
+     "Nhân viên"
+    ],
+    [
+     "들어가다",
+     "Deureogada",
+     "Đi vào"
+    ],
+    [
+     "심심하다",
+     "Simsimhada",
+     "Buồn chán"
+    ],
+    [
+     "찍다",
+     "Jjikda",
+     "Chụp (ảnh)"
+    ],
+    [
+     "만지다",
+     "Manjida",
+     "Sờ, chạm vào"
+    ],
+    [
+     "씻다",
+     "Ssitda",
+     "Rửa"
+    ],
+    [
+     "켜다",
+     "Kyeoda",
+     "Bật (đèn, TV)"
+    ],
+    [
+     "먼저",
+     "Meonjeo",
+     "Trước tiên"
+    ],
+    [
+     "악수하다",
+     "Aksuhada",
+     "Bắt tay"
+    ],
+    [
+     "크림",
+     "Keurim",
+     "Kem"
+    ],
+    [
+     "명함",
+     "Myeongham",
+     "Danh thiếp"
+    ],
+    [
+     "안내",
+     "Annae",
+     "Hướng dẫn, chỉ dẫn"
+    ],
+    [
+     "벗다",
+     "Beotda",
+     "Cởi ra"
+    ],
+    [
+     "연락",
+     "Yeonrak",
+     "Liên lạc"
+    ]
+   ],
+   "grammar": [
+    "V + (으)러 가다 — Đi để",
+    "V/A + (으)ㄹ 수 없다 — Không thể",
+    "N + 의 — Của"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
+    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+   }
+  },
+  {
+   "day": 15,
+   "date": "2026-12-03",
+   "type": "learn",
+   "id": "bai-18",
+   "lesson": "Bài 18",
+   "source": "TOPIK 2 – Bài 2: Cuộc hẹn",
+   "level": 2,
+   "title": "Cuộc hẹn",
+   "words": [
+    [
+     "약속하다",
+     "Yaksokhada",
+     "Hẹn, hứa"
+    ],
+    [
+     "약속을 지키다",
+     "Yaksogeul jikida",
+     "Giữ lời hứa"
+    ],
+    [
+     "약속을 안 지키다/못 지키다",
+     "Yaksogeul an jikida/mot jikida",
+     "Thất hứa"
+    ],
+    [
+     "약속을 취소하다",
+     "Yaksogeul chwisohada",
+     "Hủy cuộc hẹn"
+    ],
+    [
+     "약속을 바꾸다",
+     "Yaksogeul bakkuda",
+     "Đổi cuộc hẹn"
+    ],
+    [
+     "기다리다",
+     "Gidarida",
+     "Chờ đợi"
+    ],
+    [
+     "만나다",
+     "Mannada",
+     "Gặp"
+    ],
+    [
+     "헤어지다",
+     "Heeojida",
+     "Chia tay"
+    ],
+    [
+     "연락하다",
+     "Yeonrakhada",
+     "Liên lạc"
+    ],
+    [
+     "커피숍",
+     "Keopisyop",
+     "Quán cà phê"
+    ],
+    [
+     "박물관",
+     "Bakmulgwan",
+     "Viện bảo tàng"
+    ],
+    [
+     "미술관",
+     "Misulgwan",
+     "Bảo tàng mỹ thuật"
+    ],
+    [
+     "만남의 광장",
+     "Mannamui gwangjang",
+     "Nơi gặp gỡ"
+    ],
+    [
+     "호텔",
+     "Hotel",
+     "Khách sạn"
+    ],
+    [
+     "백화점",
+     "Baekhwajeom",
+     "Trung tâm thương mại"
+    ],
+    [
+     "안내 데스크",
+     "Annae deseukeu",
+     "Quầy hướng dẫn"
+    ],
+    [
+     "정류장",
+     "Jeongryujang",
+     "Trạm dừng xe"
+    ],
+    [
+     "쇼핑몰",
+     "Syopingmol",
+     "Khu mua sắm"
+    ],
+    [
+     "감기",
+     "Gamgi",
+     "Cảm cúm"
+    ],
+    [
+     "(손을) 대다",
+     "(soneul) daeda",
+     "Chạm (tay)"
+    ],
+    [
+     "유의 사항",
+     "Yuui sahang",
+     "Điểm cần lưu ý"
+    ],
+    [
+     "갑자기",
+     "Gapjagi",
+     "Đột nhiên"
+    ],
+    [
+     "등산화",
+     "Deungsanhwa",
+     "Giày leo núi"
+    ],
+    [
+     "잊다",
+     "Itda",
+     "Quên"
+    ],
+    [
+     "고치다",
+     "Gochida",
+     "Sửa, chữa"
+    ],
+    [
+     "떠들다",
+     "Tteodeulda",
+     "Làm ồn"
+    ],
+    [
+     "절대",
+     "Jeoldae",
+     "Tuyệt đối"
+    ],
+    [
+     "과사무실",
+     "Gwasamusil",
+     "Văn phòng khoa"
+    ],
+    [
+     "라이터",
+     "Raiteo",
+     "Bật lửa"
+    ],
+    [
+     "(생활) 점검하다",
+     "(saenghwal) jeomgeomhada",
+     "Kiểm tra (sinh hoạt)"
+    ],
+    [
+     "광장",
+     "Gwangjang",
+     "Quảng trường"
+    ],
+    [
+     "문제가 있다",
+     "Munjega itda",
+     "Có vấn đề"
+    ],
+    [
+     "정각",
+     "Jeonggak",
+     "Đúng giờ"
+    ],
+    [
+     "길",
+     "Gil",
+     "Con đường"
+    ],
+    [
+     "물세탁",
+     "Mulsetak",
+     "Giặt bằng nước"
+    ],
+    [
+     "준비물",
+     "Junbimul",
+     "Đồ cần chuẩn bị"
+    ],
+    [
+     "(마중을) 나가다",
+     "(majungeul) nagada",
+     "Ra đón (đi ra)"
+    ],
+    [
+     "바꾸다",
+     "Bakkuda",
+     "Thay đổi"
+    ],
+    [
+     "피우다",
+     "Piuda",
+     "Hút (thuốc)"
+    ],
+    [
+     "(마중을) 나오다",
+     "(majungeul) naoda",
+     "Ra đón (đi ra phía này)"
+    ],
+    [
+     "변경",
+     "Byeongyeong",
+     "Sự thay đổi"
+    ],
+    [
+     "확인",
+     "Hwagin",
+     "Xác nhận"
+    ],
+    [
+     "논문",
+     "Nonmun",
+     "Luận văn"
+    ],
+    [
+     "뷔페",
+     "Bwipe",
+     "Buffet"
+    ],
+    [
+     "회비",
+     "Hoebi",
+     "Hội phí"
+    ],
+    [
+     "늦다",
+     "Neutda",
+     "Muộn, trễ"
+    ],
+    [
+     "빠지다",
+     "Ppajida",
+     "Vắng mặt, thiếu"
+    ],
+    [
+     "회의실",
+     "Hoeuisil",
+     "Phòng họp"
+    ],
+    [
+     "늦잠",
+     "Neutjam",
+     "Ngủ dậy muộn"
+    ],
+    [
+     "알다",
+     "Alda",
+     "Biết"
+    ],
+    [
+     "휴게실",
+     "Hyugesil",
+     "Phòng nghỉ"
+    ],
+    [
+     "담배",
+     "Dambae",
+     "Thuốc lá"
+    ],
+    [
+     "외출하다",
+     "Oechulhada",
+     "Đi ra ngoài"
+    ]
+   ],
+   "grammar": [
+    "V/A + (으)ㄹ 때 — Khi, lúc",
+    "V + 아/어 주다 — Làm giúp, xin hãy",
+    "N + 만 — Chỉ"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+   }
+  },
+  {
+   "day": 16,
+   "date": "2026-12-04",
+   "type": "learn",
+   "id": "bai-19",
+   "lesson": "Bài 19",
+   "source": "TOPIK 2 – Bài 3: Mua sắm P2",
+   "level": 2,
+   "title": "Mua sắm P2",
+   "words": [
+    [
+     "벌",
+     "Beol",
+     "Bộ (quần áo)"
+    ],
+    [
+     "켤레",
+     "Kyeolre",
+     "Đôi (giày, tất)"
+    ],
+    [
+     "쌍",
+     "Ssang",
+     "Đôi, cặp (khuyên tai)"
+    ],
+    [
+     "장",
+     "Jang",
+     "Tờ, trang"
+    ],
+    [
+     "송이",
+     "Songi",
+     "Bông, chùm (hoa, nho)"
+    ],
+    [
+     "바구니",
+     "Baguni",
+     "Giỏ, rổ"
+    ],
+    [
+     "상자",
+     "Sangja",
+     "Hộp"
+    ],
+    [
+     "봉지",
+     "Bongji",
+     "Túi, bao"
+    ],
+    [
+     "찾다",
+     "Chatda",
+     "Tìm"
+    ],
+    [
+     "마음에 들다",
+     "Maeume deulda",
+     "Vừa ý, thích"
+    ],
+    [
+     "맞다",
+     "Matda",
+     "Vừa (cỡ)"
+    ],
+    [
+     "어울리다",
+     "Eoulrida",
+     "Hợp, phù hợp"
+    ],
+    [
+     "주문하다",
+     "Jumunhada",
+     "Đặt hàng"
+    ],
+    [
+     "계산하다",
+     "Gyesanhada",
+     "Tính tiền"
+    ],
+    [
+     "교환하다",
+     "Gyohwanhada",
+     "Đổi hàng"
+    ],
+    [
+     "환불하다",
+     "Hwanbulhada",
+     "Hoàn tiền, trả hàng"
+    ],
+    [
+     "짧다",
+     "Jjalda",
+     "Ngắn"
+    ],
+    [
+     "길다",
+     "Gilda",
+     "Dài"
+    ],
+    [
+     "많다",
+     "Manta",
+     "Nhiều"
+    ],
+    [
+     "적다",
+     "Jeokda",
+     "Ít"
+    ],
+    [
+     "두껍다",
+     "Dukkeopda",
+     "Dày"
+    ],
+    [
+     "얇다",
+     "Yalda",
+     "Mỏng"
+    ],
+    [
+     "무겁다",
+     "Mugeopda",
+     "Nặng"
+    ],
+    [
+     "가볍다",
+     "Gabyeopda",
+     "Nhẹ"
+    ],
+    [
+     "화려하다",
+     "Hwaryeohada",
+     "Sặc sỡ, lộng lẫy"
+    ],
+    [
+     "단순하다",
+     "Dansunhada",
+     "Đơn giản"
+    ],
+    [
+     "편하다",
+     "Pyeonhada",
+     "Thoải mái"
+    ],
+    [
+     "불편하다",
+     "Bulpyeonhada",
+     "Không thoải mái"
+    ],
+    [
+     "귤",
+     "Gyul",
+     "Quả quýt"
+    ],
+    [
+     "빠르다",
+     "Ppareuda",
+     "Nhanh"
+    ],
+    [
+     "유행하다",
+     "Yuhaenghada",
+     "Thịnh hành, hợp mốt"
+    ],
+    [
+     "기능",
+     "Gineung",
+     "Chức năng"
+    ],
+    [
+     "샤프",
+     "Syapeu",
+     "Bút chì kim"
+    ],
+    [
+     "제품",
+     "Jepum",
+     "Sản phẩm"
+    ],
+    [
+     "기분",
+     "Gibun",
+     "Tâm trạng"
+    ],
+    [
+     "설악산",
+     "Seoraksan",
+     "Núi Seorak"
+    ],
+    [
+     "카드",
+     "Kadeu",
+     "Thẻ (tín dụng)"
+    ],
+    [
+     "노트북",
+     "Noteubuk",
+     "Máy tính xách tay"
+    ],
+    [
+     "튼튼하다",
+     "Teunteunhada",
+     "Chắc chắn, bền"
+    ],
+    [
+     "누구나",
+     "Nuguna",
+     "Ai cũng"
+    ],
+    [
+     "쉽게",
+     "Swipge",
+     "Một cách dễ dàng"
+    ],
+    [
+     "팔다",
+     "Palda",
+     "Bán"
+    ],
+    [
+     "다양하다",
+     "Dayanghada",
+     "Đa dạng"
+    ],
+    [
+     "슈퍼",
+     "Syupeo",
+     "Siêu thị"
+    ],
+    [
+     "필요하다",
+     "Piryohada",
+     "Cần thiết"
+    ],
+    [
+     "단어",
+     "Daneo",
+     "Từ vựng"
+    ],
+    [
+     "한라산",
+     "Hanrasan",
+     "Núi Halla"
+    ],
+    [
+     "디자인",
+     "Dijain",
+     "Thiết kế"
+    ],
+    [
+     "싱겁다",
+     "Singgeopda",
+     "Nhạt"
+    ],
+    [
+     "할인점",
+     "Harinjeom",
+     "Cửa hàng giảm giá"
+    ],
+    [
+     "만",
+     "Man",
+     "Chỉ"
+    ],
+    [
+     "싸다",
+     "Ssada",
+     "Gói; rẻ"
+    ],
+    [
+     "핸드백",
+     "Haendeubaek",
+     "Túi xách tay"
+    ]
+   ],
+   "grammar": [
+    "V/A + (으)니까 — Vì, do",
+    "V + 지 말다 — Đừng",
+    "V + 아/어도 되다 — Được phép, làm ... cũng được"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+   }
+  },
+  {
+   "day": 17,
+   "date": "2026-12-05",
+   "type": "learn",
+   "id": "bai-20",
+   "lesson": "Bài 20",
+   "source": "TOPIK 2 – Bài 4A: Bệnh viện",
+   "level": 2,
+   "title": "Bệnh viện",
+   "words": [
+    [
+     "신체",
+     "Sinche",
+     "Cơ thể"
+    ],
+    [
+     "이마",
+     "Ima",
+     "Trán"
+    ],
+    [
+     "눈썹",
+     "Nunsseop",
+     "Lông mày"
+    ],
+    [
+     "눈",
+     "Nun",
+     "Mắt"
+    ],
+    [
+     "코",
+     "Ko",
+     "Mũi"
+    ],
+    [
+     "입",
+     "Ip",
+     "Miệng"
+    ],
+    [
+     "입술",
+     "Ipsul",
+     "Môi"
+    ],
+    [
+     "손가락",
+     "Songarak",
+     "Ngón tay"
+    ],
+    [
+     "가슴",
+     "Gaseum",
+     "Ngực"
+    ],
+    [
+     "배",
+     "Bae",
+     "Bụng"
+    ],
+    [
+     "손",
+     "Son",
+     "Tay, bàn tay"
+    ],
+    [
+     "허리",
+     "Heori",
+     "Eo, thắt lưng"
+    ],
+    [
+     "무릎",
+     "Mureup",
+     "Đầu gối"
+    ],
+    [
+     "종아리",
+     "Jongari",
+     "Bắp chân"
+    ],
+    [
+     "발",
+     "Bal",
+     "Bàn chân"
+    ],
+    [
+     "발가락",
+     "Balgarak",
+     "Ngón chân"
+    ],
+    [
+     "머리",
+     "Meori",
+     "Đầu"
+    ],
+    [
+     "귀",
+     "Gwi",
+     "Tai"
+    ],
+    [
+     "턱",
+     "Teok",
+     "Cằm"
+    ],
+    [
+     "어깨",
+     "Eokkae",
+     "Vai"
+    ],
+    [
+     "목",
+     "Mok",
+     "Cổ, họng"
+    ],
+    [
+     "등",
+     "Deung",
+     "Lưng"
+    ],
+    [
+     "팔",
+     "Pal",
+     "Cánh tay"
+    ],
+    [
+     "엉덩이",
+     "Eongdeongi",
+     "Mông"
+    ],
+    [
+     "다리",
+     "Dari",
+     "Chân"
+    ],
+    [
+     "발목",
+     "Balmok",
+     "Mắt cá chân"
+    ],
+    [
+     "감기 (독감)에 걸리다",
+     "Gamgi (dokgam)e geolrida",
+     "Bị cảm (cúm)"
+    ],
+    [
+     "기침하다",
+     "Gichimhada",
+     "Ho"
+    ],
+    [
+     "열이 나다",
+     "Yeori nada",
+     "Sốt"
+    ],
+    [
+     "콧물이 나오다",
+     "Kotmuri naoda",
+     "Sổ mũi"
+    ],
+    [
+     "배탈이 나다",
+     "Baetari nada",
+     "Đau bụng, rối loạn tiêu hóa"
+    ],
+    [
+     "소화가 안 되다",
+     "Sohwaga an doeda",
+     "Khó tiêu"
+    ],
+    [
+     "다치다",
+     "Dachida",
+     "Bị thương"
+    ],
+    [
+     "상처가 나다",
+     "Sangcheoga nada",
+     "Có vết thương"
+    ],
+    [
+     "피가 나다",
+     "Piga nada",
+     "Chảy máu"
+    ],
+    [
+     "심하다",
+     "Simhada",
+     "Nặng, nghiêm trọng"
+    ],
+    [
+     "두통",
+     "Dutong",
+     "Đau đầu"
+    ],
+    [
+     "치통",
+     "Chitong",
+     "Đau răng"
+    ],
+    [
+     "복통",
+     "Boktong",
+     "Đau bụng"
+    ],
+    [
+     "약",
+     "Yak",
+     "Thuốc"
+    ],
+    [
+     "진통제",
+     "Jintongje",
+     "Thuốc giảm đau"
+    ],
+    [
+     "소화제",
+     "Sohwaje",
+     "Thuốc tiêu hóa"
+    ],
+    [
+     "해열제",
+     "Haeyeolje",
+     "Thuốc hạ sốt"
+    ],
+    [
+     "알약",
+     "Aryak",
+     "Thuốc viên"
+    ],
+    [
+     "가루약",
+     "Garuyak",
+     "Thuốc bột"
+    ],
+    [
+     "물약",
+     "Muryak",
+     "Thuốc nước"
+    ]
+   ],
+   "grammar": [
+    "N + 보다 — Hơn",
+    "A + (으)ㄴ — Định ngữ tính từ",
+    "V + 는 — Định ngữ động từ hiện tại"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+   }
+  },
+  {
+   "day": 18,
+   "date": "2026-12-06",
+   "type": "learn",
+   "id": "bai-21",
+   "lesson": "Bài 21",
+   "source": "TOPIK 2 – Bài 4B: Bệnh viện",
+   "level": 2,
+   "title": "Bệnh viện",
+   "words": [
+    [
+     "병원",
+     "Byeongwon",
+     "Bệnh viện"
+    ],
+    [
+     "내과",
+     "Naegwa",
+     "Khoa nội"
+    ],
+    [
+     "외과",
+     "Oegwa",
+     "Khoa ngoại"
+    ],
+    [
+     "소아과",
+     "Soagwa",
+     "Khoa nhi"
+    ],
+    [
+     "이비인후과",
+     "Ibiinhugwa",
+     "Khoa tai mũi họng"
+    ],
+    [
+     "안과",
+     "Angwa",
+     "Khoa mắt"
+    ],
+    [
+     "치과",
+     "Chigwa",
+     "Nha khoa"
+    ],
+    [
+     "예방주사",
+     "Yebangjusa",
+     "Tiêm phòng"
+    ],
+    [
+     "주사하다",
+     "Jusahada",
+     "Tiêm"
+    ],
+    [
+     "처방하다",
+     "Cheobanghada",
+     "Kê đơn"
+    ],
+    [
+     "어떻게 오셨습니까?",
+     "Eotteoke osyeotseupnikka?",
+     "Anh/chị đến có việc gì ạ?"
+    ],
+    [
+     "어디가 아프십니까?",
+     "Eodiga apeusipnikka?",
+     "Anh/chị đau ở đâu ạ?"
+    ],
+    [
+     "어떻게 아프십니까?",
+     "Eotteoke apeusipnikka?",
+     "Anh/chị đau thế nào ạ?"
+    ],
+    [
+     "증상이 어떻습니까?",
+     "Jeungsangi eotteosseupnikka?",
+     "Triệu chứng thế nào ạ?"
+    ],
+    [
+     "가렵다",
+     "Garyeopda",
+     "Ngứa"
+    ],
+    [
+     "보관하다",
+     "Bogwanhada",
+     "Bảo quản"
+    ],
+    [
+     "주사",
+     "Jusa",
+     "Mũi tiêm"
+    ],
+    [
+     "감기약",
+     "Gamgiyak",
+     "Thuốc cảm"
+    ],
+    [
+     "복용",
+     "Bogyong",
+     "Sự uống thuốc"
+    ],
+    [
+     "주사 맞다",
+     "Jusa matda",
+     "Được tiêm"
+    ],
+    [
+     "검사하다",
+     "Geomsahada",
+     "Kiểm tra, xét nghiệm"
+    ],
+    [
+     "부러지다",
+     "Bureojida",
+     "Bị gãy"
+    ],
+    [
+     "처방전",
+     "Cheobangjeon",
+     "Đơn thuốc"
+    ],
+    [
+     "끓이다",
+     "Kkeurida",
+     "Đun, nấu"
+    ],
+    [
+     "붓다",
+     "Butda",
+     "Sưng"
+    ],
+    [
+     "첫째",
+     "Cheotjjae",
+     "Thứ nhất"
+    ],
+    [
+     "냄비",
+     "Naembi",
+     "Cái nồi"
+    ],
+    [
+     "비타민",
+     "Bitamin",
+     "Vitamin"
+    ],
+    [
+     "치료 받다",
+     "Chiryo batda",
+     "Được chữa trị"
+    ],
+    [
+     "(눈을) 뜨다",
+     "(nuneul) tteuda",
+     "Mở (mắt)"
+    ],
+    [
+     "설사하다",
+     "Seolsahada",
+     "Tiêu chảy"
+    ],
+    [
+     "카페인",
+     "Kapein",
+     "Caffeine"
+    ],
+    [
+     "두통약",
+     "Dutongyak",
+     "Thuốc đau đầu"
+    ],
+    [
+     "식후",
+     "Sikhu",
+     "Sau bữa ăn"
+    ],
+    [
+     "코를 풀다",
+     "Koreul pulda",
+     "Hỉ mũi"
+    ],
+    [
+     "둘째",
+     "Duljjae",
+     "Thứ hai"
+    ],
+    [
+     "약을 바르다",
+     "Yageul bareuda",
+     "Bôi thuốc"
+    ],
+    [
+     "파다",
+     "Pada",
+     "Đào"
+    ],
+    [
+     "따갑다",
+     "Ttagapda",
+     "Rát, buốt"
+    ],
+    [
+     "유지하다",
+     "Yujihada",
+     "Duy trì"
+    ],
+    [
+     "효과",
+     "Hyogwa",
+     "Hiệu quả"
+    ],
+    [
+     "민간요법",
+     "Minganyobeop",
+     "Bài thuốc dân gian"
+    ],
+    [
+     "재채기하다",
+     "Jaechaegihada",
+     "Hắt hơi"
+    ]
+   ],
+   "grammar": [
+    "V + (으)ㄴ — Định ngữ động từ quá khứ",
+    "N + 마다 — Mỗi",
+    "V/A + 아/어야 하다 — Phải"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+   }
+  },
+  {
+   "day": 19,
+   "date": "2026-12-07",
+   "type": "learn",
+   "id": "bai-22",
+   "lesson": "Bài 22",
+   "source": "TOPIK 2 – Bài 5: Thư tín",
+   "level": 2,
+   "title": "Thư tín",
+   "words": [
+    [
+     "접속부사",
+     "Jeopsokbusa",
+     "Phó từ liên kết"
+    ],
+    [
+     "그리고",
+     "Geurigo",
+     "Và"
+    ],
+    [
+     "그러나",
+     "Geureona",
+     "Tuy nhiên"
+    ],
+    [
+     "하지만",
+     "Hajiman",
+     "Nhưng"
+    ],
+    [
+     "그렇지만",
+     "Geureochiman",
+     "Thế nhưng"
+    ],
+    [
+     "그런데",
+     "Geureonde",
+     "Nhưng mà; mà này"
+    ],
+    [
+     "그래서",
+     "Geuraeseo",
+     "Vì vậy"
+    ],
+    [
+     "그러면/그럼",
+     "Geureomyeon/geureom",
+     "Vậy thì"
+    ],
+    [
+     "편지",
+     "Pyeonji",
+     "Thư"
+    ],
+    [
+     "엽서",
+     "Yeopseo",
+     "Bưu thiếp"
+    ],
+    [
+     "카드",
+     "Kadeu",
+     "Thiệp"
+    ],
+    [
+     "소포",
+     "Sopo",
+     "Bưu kiện"
+    ],
+    [
+     "봉투",
+     "Bongtu",
+     "Phong bì"
+    ],
+    [
+     "우표",
+     "Upyo",
+     "Tem"
+    ],
+    [
+     "주소",
+     "Juso",
+     "Địa chỉ"
+    ],
+    [
+     "우편번호",
+     "Upyeonbeonho",
+     "Mã bưu chính"
+    ],
+    [
+     "귀하",
+     "Gwiha",
+     "Kính gửi (quý ngài)"
+    ],
+    [
+     "올림/드림",
+     "Olrim/deurim",
+     "Kính thư"
+    ],
+    [
+     "빠른우편",
+     "Ppareunupyeon",
+     "Chuyển phát nhanh"
+    ],
+    [
+     "등기",
+     "Deunggi",
+     "Thư bảo đảm"
+    ],
+    [
+     "항공편",
+     "Hanggongpyeon",
+     "Đường hàng không"
+    ],
+    [
+     "편지를 보내다/부치다",
+     "Pyeonjireul bonaeda/buchida",
+     "Gửi thư"
+    ],
+    [
+     "우표를 붙이다",
+     "Upyoreul butida",
+     "Dán tem"
+    ],
+    [
+     "고장 나다",
+     "Gojang nada",
+     "Bị hỏng"
+    ],
+    [
+     "(김치를) 담그다",
+     "(gimchireul) damgeuda",
+     "Muối (kimchi)"
+    ],
+    [
+     "한국어능력시험",
+     "Hangugeoneungryeoksiheom",
+     "Kỳ thi năng lực tiếng Hàn (TOPIK)"
+    ],
+    [
+     "깨지다",
+     "Kkaejida",
+     "Bị vỡ"
+    ],
+    [
+     "말하기 대회",
+     "Malhagi daehoe",
+     "Cuộc thi nói"
+    ],
+    [
+     "한턱내다",
+     "Hanteoknaeda",
+     "Khao, đãi"
+    ],
+    [
+     "눈싸움",
+     "Nunssaum",
+     "Ném tuyết"
+    ],
+    [
+     "무게를 재다",
+     "Mugereul jaeda",
+     "Cân (trọng lượng)"
+    ],
+    [
+     "눈썰매장",
+     "Nunsseolmaejang",
+     "Sân trượt tuyết"
+    ],
+    [
+     "수목원",
+     "Sumogwon",
+     "Vườn thực vật"
+    ]
+   ],
+   "grammar": [
+    "V + 지 못하다 — Không thể",
+    "V/A + (으)면 — Nếu",
+    "V + (으)ㄹ — Định ngữ động từ tương lai"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+   }
+  },
+  {
+   "day": 20,
+   "date": "2026-12-08",
+   "type": "learn",
+   "id": "bai-23",
+   "lesson": "Bài 23",
+   "source": "TOPIK 2 – Bài 6: Giao thông P2",
+   "level": 2,
+   "title": "Giao thông P2",
+   "words": [
+    [
+     "교통수단",
+     "Gyotongsudan",
+     "Phương tiện giao thông"
+    ],
+    [
+     "시내버스",
+     "Sinaebeoseu",
+     "Xe buýt nội thành"
+    ],
+    [
+     "시외버스",
+     "Sioebeoseu",
+     "Xe buýt liên tỉnh"
+    ],
+    [
+     "마을버스",
+     "Maeulbeoseu",
+     "Xe buýt tuyến ngắn"
+    ],
+    [
+     "셔틀버스",
+     "Syeoteulbeoseu",
+     "Xe đưa đón"
+    ],
+    [
+     "일반 택시",
+     "Ilban taeksi",
+     "Taxi thường"
+    ],
+    [
+     "콜택시",
+     "Koltaeksi",
+     "Taxi gọi qua tổng đài"
+    ],
+    [
+     "모범택시",
+     "Mobeomtaeksi",
+     "Taxi cao cấp"
+    ],
+    [
+     "리무진 택시",
+     "Rimujin taeksi",
+     "Taxi cỡ lớn"
+    ],
+    [
+     "번 출구",
+     "Beon chulgu",
+     "Cửa ra số"
+    ],
+    [
+     "호선",
+     "Hoseon",
+     "Tuyến tàu số"
+    ],
+    [
+     "환승역",
+     "Hwanseungyeok",
+     "Ga chuyển tuyến"
+    ],
+    [
+     "갈아타는 곳",
+     "Garataneun got",
+     "Nơi đổi tuyến"
+    ],
+    [
+     "방면",
+     "Bangmyeon",
+     "Hướng (đi về phía)"
+    ],
+    [
+     "행",
+     "Haeng",
+     "Đi (đến)"
+    ],
+    [
+     "교통 카드",
+     "Gyotong kadeu",
+     "Thẻ giao thông"
+    ],
+    [
+     "기본요금",
+     "Gibonyogeum",
+     "Giá cước cơ bản"
+    ],
+    [
+     "노선도",
+     "Noseondo",
+     "Bản đồ tuyến"
+    ],
+    [
+     "골목",
+     "Golmok",
+     "Ngõ, hẻm"
+    ],
+    [
+     "모퉁이",
+     "Motungi",
+     "Góc đường"
+    ],
+    [
+     "건널목",
+     "Geonneolmok",
+     "Chỗ qua đường"
+    ],
+    [
+     "삼거리",
+     "Samgeori",
+     "Ngã ba"
+    ],
+    [
+     "사거리",
+     "Sageori",
+     "Ngã tư"
+    ],
+    [
+     "버스 전용 도로",
+     "Beoseu jeonyong doro",
+     "Làn đường dành cho xe buýt"
+    ],
+    [
+     "건물",
+     "Geonmul",
+     "Tòa nhà"
+    ],
+    [
+     "마트",
+     "Mateu",
+     "Siêu thị"
+    ],
+    [
+     "미용실",
+     "Miyongsil",
+     "Tiệm làm tóc"
+    ],
+    [
+     "주유소",
+     "Juyuso",
+     "Trạm xăng"
+    ],
+    [
+     "오른쪽으로 가다",
+     "Oreunjjogeuro gada",
+     "Đi về bên phải"
+    ],
+    [
+     "우회전하다",
+     "Uhoejeonhada",
+     "Rẽ phải"
+    ],
+    [
+     "왼쪽으로 가다",
+     "Oenjjogeuro gada",
+     "Đi về bên trái"
+    ],
+    [
+     "좌회전하다",
+     "Jwahoejeonhada",
+     "Rẽ trái"
+    ],
+    [
+     "똑바로 가다",
+     "Ttokbaro gada",
+     "Đi thẳng"
+    ],
+    [
+     "직진하다",
+     "Jikjinhada",
+     "Đi thẳng (tiến thẳng)"
+    ],
+    [
+     "곧장 가다",
+     "Gotjang gada",
+     "Đi thẳng một mạch"
+    ],
+    [
+     "쭉 가다",
+     "Jjuk gada",
+     "Đi thẳng miết"
+    ],
+    [
+     "지나가다",
+     "Jinagada",
+     "Đi qua"
+    ],
+    [
+     "건너가다",
+     "Geonneogada",
+     "Băng qua"
+    ],
+    [
+     "돌아가다",
+     "Doragada",
+     "Quay lại; đi vòng"
+    ],
+    [
+     "유턴하다",
+     "Yuteonhada",
+     "Quay đầu xe"
+    ],
+    [
+     "나가다",
+     "Nagada",
+     "Đi ra (xa người nói)"
+    ],
+    [
+     "나오다",
+     "Naoda",
+     "Đi ra (về phía người nói)"
+    ],
+    [
+     "서수사",
+     "Seosusa",
+     "Số thứ tự"
+    ],
+    [
+     "첫 번째",
+     "Cheot beonjjae",
+     "Thứ nhất"
+    ],
+    [
+     "두 번째",
+     "Du beonjjae",
+     "Thứ hai"
+    ],
+    [
+     "스무 번째",
+     "Seumu beonjjae",
+     "Thứ hai mươi"
+    ],
+    [
+     "서른 번째",
+     "Seoreun beonjjae",
+     "Thứ ba mươi"
+    ],
+    [
+     "마흔 번째",
+     "Maheun beonjjae",
+     "Thứ bốn mươi"
+    ],
+    [
+     "백 번째",
+     "Baek beonjjae",
+     "Thứ một trăm"
+    ],
+    [
+     "마지막",
+     "Majimak",
+     "Cuối cùng"
+    ],
+    [
+     "난타",
+     "Nanta",
+     "Nanta (nhạc kịch gõ bằng dụng cụ nhà bếp)"
+    ],
+    [
+     "(모퉁이를) 돌다",
+     "(motungireul) dolda",
+     "Rẽ (ở góc đường)"
+    ],
+    [
+     "올림픽공원",
+     "Olrimpikgongwon",
+     "Công viên Olympic"
+    ],
+    [
+     "담요",
+     "Damyo",
+     "Chăn mỏng"
+    ],
+    [
+     "발표회",
+     "Balpyohoe",
+     "Buổi thuyết trình"
+    ],
+    [
+     "덕수궁",
+     "Deoksugung",
+     "Cung Deoksu"
+    ],
+    [
+     "배달원",
+     "Baedarwon",
+     "Nhân viên giao hàng"
+    ],
+    [
+     "콩잎",
+     "Kongip",
+     "Lá đậu"
+    ],
+    [
+     "색연필",
+     "Saegyeonpil",
+     "Bút chì màu"
+    ]
+   ],
+   "grammar": [
+    "V + 아/어서 — Làm ... rồi (trình tự)",
+    "N/V/A + 지요? — Đúng không, phải không?",
+    "서수사 — Số thứ tự"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+   }
+  },
+  {
+   "day": 21,
+   "date": "2026-12-09",
+   "type": "learn",
+   "id": "bai-24",
+   "lesson": "Bài 24",
+   "source": "TOPIK 2 – Bài 7: Điện thoại liên lạc P2",
+   "level": 2,
+   "title": "Điện thoại liên lạc P2",
+   "words": [
+    [
+     "국제전화",
+     "Gukjejeonhwa",
+     "Điện thoại quốc tế"
+    ],
+    [
+     "시외전화",
+     "Sioejeonhwa",
+     "Điện thoại liên tỉnh"
+    ],
+    [
+     "시내전화",
+     "Sinaejeonhwa",
+     "Điện thoại nội hạt"
+    ],
+    [
+     "국가 번호",
+     "Gukga beonho",
+     "Mã quốc gia"
+    ],
+    [
+     "지역 번호",
+     "Jiyeok beonho",
+     "Mã vùng"
+    ],
+    [
+     "통화하다",
+     "Tonghwahada",
+     "Nói chuyện điện thoại"
+    ],
+    [
+     "통화 중이다",
+     "Tonghwa jungida",
+     "Đang bận máy"
+    ],
+    [
+     "자리에 없다/자리에 안 계시다",
+     "Jarie eopda/jarie an gyesida",
+     "Không có ở chỗ ngồi"
+    ],
+    [
+     "연결하다",
+     "Yeongyeolhada",
+     "Kết nối, nối máy"
+    ],
+    [
+     "메시지를 남기다",
+     "Mesijireul namgida",
+     "Để lại lời nhắn"
+    ],
+    [
+     "번호를 누르다",
+     "Beonhoreul nureuda",
+     "Bấm số"
+    ],
+    [
+     "* 별표",
+     "* byeolpyo",
+     "Phím sao (*)"
+    ],
+    [
+     "# 우물 정자",
+     "# umul jeongja",
+     "Phím thăng (#)"
+    ],
+    [
+     "문자 메시지가 오다",
+     "Munja mesijiga oda",
+     "Có tin nhắn đến"
+    ],
+    [
+     "문자 메시지를 보내다",
+     "Munja mesijireul bonaeda",
+     "Gửi tin nhắn"
+    ],
+    [
+     "전화기를 끄다",
+     "Jeonhwagireul kkeuda",
+     "Tắt điện thoại"
+    ],
+    [
+     "진동으로 하다",
+     "Jindongeuro hada",
+     "Để chế độ rung"
+    ],
+    [
+     "배터리가 나가다",
+     "Baeteoriga nagada",
+     "Hết pin"
+    ],
+    [
+     "곧",
+     "Got",
+     "Sắp, ngay"
+    ],
+    [
+     "비행기표",
+     "Bihaenggipyo",
+     "Vé máy bay"
+    ],
+    [
+     "예약하다",
+     "Yeyakhada",
+     "Đặt trước"
+    ],
+    [
+     "관광",
+     "Gwangwang",
+     "Tham quan"
+    ],
+    [
+     "빌리다",
+     "Bilrida",
+     "Mượn, thuê"
+    ],
+    [
+     "외출 중이다",
+     "Oechul jungida",
+     "Đang ra ngoài"
+    ],
+    [
+     "끄다",
+     "Kkeuda",
+     "Tắt"
+    ],
+    [
+     "상품",
+     "Sangpum",
+     "Sản phẩm"
+    ],
+    [
+     "이용하다",
+     "Iyonghada",
+     "Sử dụng"
+    ],
+    [
+     "나가다",
+     "Nagada",
+     "Đi ra"
+    ],
+    [
+     "성함",
+     "Seongham",
+     "Quý danh (kính ngữ)"
+    ],
+    [
+     "인사",
+     "Insa",
+     "Lời chào"
+    ],
+    [
+     "느리다",
+     "Neurida",
+     "Chậm"
+    ],
+    [
+     "시티 투어 버스",
+     "Siti tueo beoseu",
+     "Xe buýt tham quan thành phố"
+    ],
+    [
+     "취소하다",
+     "Chwisohada",
+     "Hủy"
+    ],
+    [
+     "담당자",
+     "Damdangja",
+     "Người phụ trách"
+    ],
+    [
+     "안내하다",
+     "Annaehada",
+     "Hướng dẫn"
+    ],
+    [
+     "투어",
+     "Tueo",
+     "Tour du lịch"
+    ],
+    [
+     "드림",
+     "Deurim",
+     "Kính thư"
+    ],
+    [
+     "에 대해서",
+     "E daehaeseo",
+     "Về (việc gì)"
+    ],
+    [
+     "팩스",
+     "Paekseu",
+     "Fax"
+    ],
+    [
+     "메모",
+     "Memo",
+     "Ghi chú, lời nhắn"
+    ],
+    [
+     "연락드리다",
+     "Yeonrakdeurida",
+     "Liên lạc (kính ngữ)"
+    ],
+    [
+     "확인하다",
+     "Hwaginhada",
+     "Xác nhận"
+    ],
+    [
+     "물어보다",
+     "Mureoboda",
+     "Hỏi"
+    ],
+    [
+     "연락처",
+     "Yeonrakcheo",
+     "Số liên lạc"
+    ],
+    [
+     "부탁드리다",
+     "Butakdeurida",
+     "Nhờ (kính ngữ)"
+    ],
+    [
+     "예약되다",
+     "Yeyakdoeda",
+     "Được đặt trước"
+    ]
+   ],
+   "grammar": [
+    "V + (으)려고 — Để, định",
+    "V + 기 전에 — Trước khi",
+    "V + (으)ㄹ게요 — Sẽ (hứa hẹn)"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+   }
+  },
+  {
+   "day": 22,
+   "date": "2026-12-10",
+   "type": "learn",
+   "id": "bai-25",
+   "lesson": "Bài 25",
+   "source": "TOPIK 2 – Bài 8: Phim ảnh",
+   "level": 2,
+   "title": "Phim ảnh",
+   "words": [
+    [
+     "멜로 영화",
+     "Melro yeonghwa",
+     "Phim tình cảm"
+    ],
+    [
+     "공포 영화",
+     "Gongpo yeonghwa",
+     "Phim kinh dị"
+    ],
+    [
+     "에스에프 영화",
+     "Eseuepeu yeonghwa",
+     "Phim khoa học viễn tưởng"
+    ],
+    [
+     "액션 영화",
+     "Aeksyeon yeonghwa",
+     "Phim hành động"
+    ],
+    [
+     "코미디 영화",
+     "Komidi yeonghwa",
+     "Phim hài"
+    ],
+    [
+     "영화 제목",
+     "Yeonghwa jemok",
+     "Tên phim"
+    ],
+    [
+     "영화감독",
+     "Yeonghwagamdok",
+     "Đạo diễn phim"
+    ],
+    [
+     "영화배우",
+     "Yeonghwabaeu",
+     "Diễn viên điện ảnh"
+    ],
+    [
+     "팬",
+     "Paen",
+     "Người hâm mộ"
+    ],
+    [
+     "연기하다",
+     "Yeongihada",
+     "Diễn xuất"
+    ],
+    [
+     "상영하다",
+     "Sangyeonghada",
+     "Trình chiếu"
+    ],
+    [
+     "매표소",
+     "Maepyoso",
+     "Quầy bán vé"
+    ],
+    [
+     "영화표",
+     "Yeonghwapyo",
+     "Vé xem phim"
+    ],
+    [
+     "감정",
+     "Gamjeong",
+     "Cảm xúc"
+    ],
+    [
+     "기쁘다",
+     "Gippeuda",
+     "Vui mừng"
+    ],
+    [
+     "슬프다",
+     "Seulpeuda",
+     "Buồn"
+    ],
+    [
+     "행복하다",
+     "Haengbokhada",
+     "Hạnh phúc"
+    ],
+    [
+     "불행하다",
+     "Bulhaenghada",
+     "Bất hạnh"
+    ],
+    [
+     "즐겁다",
+     "Jeulgeopda",
+     "Vui vẻ"
+    ],
+    [
+     "지루하다",
+     "Jiruhada",
+     "Nhàm chán"
+    ],
+    [
+     "외롭다",
+     "Oeropda",
+     "Cô đơn"
+    ],
+    [
+     "우울하다",
+     "Uulhada",
+     "U sầu, buồn rầu"
+    ],
+    [
+     "심심하다",
+     "Simsimhada",
+     "Buồn chán (vì không có gì làm)"
+    ],
+    [
+     "무섭다",
+     "Museopda",
+     "Đáng sợ, sợ"
+    ],
+    [
+     "놀라다",
+     "Nolrada",
+     "Ngạc nhiên, giật mình"
+    ],
+    [
+     "웃기다",
+     "Utgida",
+     "Buồn cười"
+    ],
+    [
+     "웃다",
+     "Utda",
+     "Cười"
+    ],
+    [
+     "울다",
+     "Ulda",
+     "Khóc"
+    ],
+    [
+     "신나다",
+     "Sinnada",
+     "Hào hứng"
+    ],
+    [
+     "화나다",
+     "Hwanada",
+     "Tức giận"
+    ],
+    [
+     "졸리다",
+     "Jolrida",
+     "Buồn ngủ"
+    ],
+    [
+     "그립다",
+     "Geuripda",
+     "Nhớ nhung"
+    ],
+    [
+     "값",
+     "Gap",
+     "Giá"
+    ],
+    [
+     "상상하다",
+     "Sangsanghada",
+     "Tưởng tượng"
+    ],
+    [
+     "이별",
+     "Ibyeol",
+     "Chia ly"
+    ],
+    [
+     "검색하다",
+     "Geomsaekhada",
+     "Tìm kiếm"
+    ],
+    [
+     "상영 시간",
+     "Sangyeong sigan",
+     "Giờ chiếu"
+    ],
+    [
+     "인기",
+     "Ingi",
+     "Sự nổi tiếng, được yêu thích"
+    ],
+    [
+     "경치",
+     "Gyeongchi",
+     "Phong cảnh"
+    ],
+    [
+     "소중하다",
+     "Sojunghada",
+     "Quý giá"
+    ],
+    [
+     "잘생기다",
+     "Jalsaenggida",
+     "Đẹp trai"
+    ],
+    [
+     "기사",
+     "Gisa",
+     "Tài xế; bài báo"
+    ],
+    [
+     "속",
+     "Sok",
+     "Bên trong"
+    ],
+    [
+     "전쟁",
+     "Jeonjaeng",
+     "Chiến tranh"
+    ],
+    [
+     "날씬하다",
+     "Nalssinhada",
+     "Thon thả"
+    ],
+    [
+     "애인",
+     "Aein",
+     "Người yêu"
+    ],
+    [
+     "최고",
+     "Choego",
+     "Tuyệt nhất"
+    ],
+    [
+     "매진",
+     "Maejin",
+     "Bán hết vé"
+    ],
+    [
+     "판매",
+     "Panmae",
+     "Việc bán"
+    ],
+    [
+     "미래",
+     "Mirae",
+     "Tương lai"
+    ],
+    [
+     "영화관",
+     "Yeonghwagwan",
+     "Rạp chiếu phim"
+    ],
+    [
+     "편",
+     "Pyeon",
+     "Bộ (phim), phía"
+    ],
+    [
+     "바다낚시",
+     "Badanaksi",
+     "Câu cá biển"
+    ],
+    [
+     "예매",
+     "Yemae",
+     "Đặt mua trước"
+    ],
+    [
+     "사랑",
+     "Sarang",
+     "Tình yêu"
+    ],
+    [
+     "우주",
+     "Uju",
+     "Vũ trụ"
+    ]
+   ],
+   "grammar": [
+    "V/A + 겠 — Chắc là (phỏng đoán)",
+    "V/A + 네요 — Nhỉ, thật đấy (cảm thán)",
+    "V + 아/어 보다 — Thử làm"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
+    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+   }
+  },
+  {
+   "day": 23,
+   "date": "2026-12-11",
+   "type": "learn",
+   "id": "bai-26",
+   "lesson": "Bài 26",
+   "source": "TOPIK 2 – Bài 9: Ngày nghỉ",
+   "level": 2,
+   "title": "Ngày nghỉ",
+   "words": [
+    [
+     "휴일",
+     "Hyuil",
+     "Ngày nghỉ"
+    ],
+    [
+     "공휴일",
+     "Gonghyuil",
+     "Ngày nghỉ lễ"
+    ],
+    [
+     "연휴",
+     "Yeonhyu",
+     "Kỳ nghỉ dài"
+    ],
+    [
+     "기념일",
+     "Ginyeomil",
+     "Ngày kỷ niệm"
+    ],
+    [
+     "여행을 떠나다",
+     "Yeohaengeul tteonada",
+     "Lên đường đi du lịch"
+    ],
+    [
+     "소풍을 가다",
+     "Sopungeul gada",
+     "Đi dã ngoại"
+    ],
+    [
+     "설",
+     "Seol",
+     "Tết"
+    ],
+    [
+     "추석/한가위",
+     "Chuseok/hangawi",
+     "Tết Trung thu"
+    ],
+    [
+     "떡국",
+     "Tteokguk",
+     "Canh bánh gạo"
+    ],
+    [
+     "송편",
+     "Songpyeon",
+     "Bánh songpyeon"
+    ],
+    [
+     "윷놀이",
+     "Yutnori",
+     "Trò chơi yut"
+    ],
+    [
+     "연날리기",
+     "Yeonnalrigi",
+     "Thả diều"
+    ],
+    [
+     "강강술래",
+     "Ganggangsulrae",
+     "Múa vòng tròn ganggangsullae"
+    ],
+    [
+     "씨름",
+     "Ssireum",
+     "Đấu vật"
+    ],
+    [
+     "세배를 하다",
+     "Sebaereul hada",
+     "Lạy chúc Tết"
+    ],
+    [
+     "세뱃돈을 받다",
+     "Sebaetdoneul batda",
+     "Nhận tiền mừng tuổi"
+    ],
+    [
+     "복을 받다",
+     "Bogeul batda",
+     "Nhận phúc, may mắn"
+    ],
+    [
+     "보름달이 뜨다",
+     "Boreumdari tteuda",
+     "Trăng rằm lên"
+    ],
+    [
+     "소원을 빌다",
+     "Sowoneul bilda",
+     "Cầu nguyện, ước"
+    ],
+    [
+     "차례를 지내다",
+     "Charyereul jinaeda",
+     "Cúng tổ tiên"
+    ],
+    [
+     "고향에 내려가다/올라가다",
+     "Gohyange naeryeogada/olragada",
+     "Về quê"
+    ],
+    [
+     "개교기념일",
+     "Gaegyoginyeomil",
+     "Ngày thành lập trường"
+    ],
+    [
+     "부럼",
+     "Bureom",
+     "Các loại hạt ăn ngày rằm tháng Giêng"
+    ],
+    [
+     "오곡밥",
+     "Ogokbap",
+     "Cơm ngũ cốc"
+    ],
+    [
+     "글쓰기 대회",
+     "Geulsseugi daehoe",
+     "Cuộc thi viết"
+    ],
+    [
+     "음력",
+     "Eumryeok",
+     "Âm lịch"
+    ],
+    [
+     "더위팔기",
+     "Deowipalgi",
+     "Tục \"bán cái nóng\""
+    ],
+    [
+     "부침개",
+     "Buchimgae",
+     "Bánh xèo Hàn"
+    ],
+    [
+     "이동",
+     "Idong",
+     "Di chuyển"
+    ],
+    [
+     "(차가) 밀리다",
+     "(chaga) milrida",
+     "Kẹt xe"
+    ],
+    [
+     "입에 맞다",
+     "Ibe matda",
+     "Hợp khẩu vị"
+    ],
+    [
+     "동해",
+     "Donghae",
+     "Biển Đông (Hàn Quốc)"
+    ],
+    [
+     "서해",
+     "Seohae",
+     "Biển Tây (Hàn Quốc)"
+    ],
+    [
+     "쥐불놀이",
+     "Jwibulnori",
+     "Trò quay lửa"
+    ],
+    [
+     "땅콩",
+     "Ttangkong",
+     "Lạc, đậu phộng"
+    ],
+    [
+     "성탄절",
+     "Seongtanjeol",
+     "Lễ Giáng sinh"
+    ],
+    [
+     "차례(제사)",
+     "Charye(jesa)",
+     "Lễ cúng tổ tiên"
+    ],
+    [
+     "문화 체험",
+     "Munhwa cheheom",
+     "Trải nghiệm văn hóa"
+    ],
+    [
+     "세배",
+     "Sebae",
+     "Lạy chúc Tết"
+    ],
+    [
+     "콘도",
+     "Kondo",
+     "Căn hộ nghỉ dưỡng"
+    ],
+    [
+     "묵다",
+     "Mukda",
+     "Trọ, ở lại"
+    ],
+    [
+     "식물원",
+     "Sikmurwon",
+     "Vườn thực vật"
+    ],
+    [
+     "학비",
+     "Hakbi",
+     "Học phí"
+    ],
+    [
+     "약식",
+     "Yaksik",
+     "Cơm nếp ngọt"
+    ],
+    [
+     "호두",
+     "Hodu",
+     "Quả óc chó"
+    ],
+    [
+     "보름달",
+     "Boreumdal",
+     "Trăng rằm"
+    ],
+    [
+     "회식",
+     "Hoesik",
+     "Liên hoan, ăn uống tập thể"
+    ]
+   ],
+   "grammar": [
+    "N + (이)나 — Hoặc, hay",
+    "V/A + (으)면 좋겠다 — Ước gì, giá mà",
+    "V + 기 위해서 — Để, vì"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+   }
+  },
+  {
+   "day": 24,
+   "date": "2026-12-12",
+   "type": "learn",
+   "id": "bai-27",
+   "lesson": "Bài 27",
+   "source": "TOPIK 2 – Bài 10: Ngoại hình",
+   "level": 2,
+   "title": "Ngoại hình",
+   "words": [
+    [
+     "외모",
+     "Oemo",
+     "Ngoại hình"
+    ],
+    [
+     "묘사",
+     "Myosa",
+     "Sự miêu tả"
+    ],
+    [
+     "긴 머리",
+     "Gin meori",
+     "Tóc dài"
+    ],
+    [
+     "짧은 머리",
+     "Jjalbeun meori",
+     "Tóc ngắn"
+    ],
+    [
+     "단발머리",
+     "Danbalmeori",
+     "Tóc ngắn ngang vai"
+    ],
+    [
+     "파마머리",
+     "Pamameori",
+     "Tóc uốn"
+    ],
+    [
+     "생머리",
+     "Saengmeori",
+     "Tóc thẳng tự nhiên"
+    ],
+    [
+     "체격",
+     "Chegyeok",
+     "Vóc dáng"
+    ],
+    [
+     "날씬하다",
+     "Nalssinhada",
+     "Mảnh mai"
+    ],
+    [
+     "보통이다",
+     "Botongida",
+     "Bình thường"
+    ],
+    [
+     "통통하다",
+     "Tongtonghada",
+     "Mũm mĩm"
+    ],
+    [
+     "모습",
+     "Moseup",
+     "Dáng vẻ"
+    ],
+    [
+     "잘생겼다",
+     "Jalsaenggyeotda",
+     "Đẹp trai"
+    ],
+    [
+     "멋있다",
+     "Meositda",
+     "Ngầu, phong cách"
+    ],
+    [
+     "예쁘다",
+     "Yeppeuda",
+     "Xinh đẹp"
+    ],
+    [
+     "귀엽다",
+     "Gwiyeopda",
+     "Đáng yêu"
+    ],
+    [
+     "닮다",
+     "Damda",
+     "Giống (ai)"
+    ],
+    [
+     "색깔",
+     "Saekkkal",
+     "Màu sắc"
+    ],
+    [
+     "빨간색",
+     "Ppalgansaek",
+     "Màu đỏ"
+    ],
+    [
+     "노란색",
+     "Noransaek",
+     "Màu vàng"
+    ],
+    [
+     "파란색",
+     "Paransaek",
+     "Màu xanh dương"
+    ],
+    [
+     "하얀색",
+     "Hayansaek",
+     "Màu trắng"
+    ],
+    [
+     "까만색",
+     "Kkamansaek",
+     "Màu đen"
+    ],
+    [
+     "녹색",
+     "Noksaek",
+     "Màu xanh lá"
+    ],
+    [
+     "갈색",
+     "Galsaek",
+     "Màu nâu"
+    ],
+    [
+     "착탈",
+     "Chaktal",
+     "Mặc và cởi"
+    ],
+    [
+     "입다",
+     "Ipda",
+     "Mặc (quần áo)"
+    ],
+    [
+     "벗다",
+     "Beotda",
+     "Cởi"
+    ],
+    [
+     "신다",
+     "Sinda",
+     "Đi, mang (giày, tất)"
+    ],
+    [
+     "쓰다",
+     "Sseuda",
+     "Đội (mũ), đeo (kính)"
+    ],
+    [
+     "끼다",
+     "Kkida",
+     "Đeo (găng tay, nhẫn)"
+    ],
+    [
+     "가죽",
+     "Gajuk",
+     "Da (thuộc)"
+    ],
+    [
+     "선풍기",
+     "Seonpunggi",
+     "Quạt điện"
+    ],
+    [
+     "지퍼",
+     "Jipeo",
+     "Khóa kéo"
+    ],
+    [
+     "다이어트",
+     "Daieoteu",
+     "Ăn kiêng"
+    ],
+    [
+     "열쇠고리",
+     "Yeolsoegori",
+     "Móc chìa khóa"
+    ],
+    [
+     "활발하다",
+     "Hwalbalhada",
+     "Hoạt bát"
+    ],
+    [
+     "메다",
+     "Meda",
+     "Đeo (ba lô), khoác"
+    ],
+    [
+     "운동복",
+     "Undongbok",
+     "Quần áo thể thao"
+    ],
+    [
+     "부지런하다",
+     "Bujireonhada",
+     "Chăm chỉ, cần cù"
+    ],
+    [
+     "주머니",
+     "Jumeoni",
+     "Túi (áo, quần)"
+    ]
+   ],
+   "grammar": [
+    "A + 아/어지다 — Trở nên",
+    "V/A + 기 때문에 — Vì, bởi vì",
+    "Bất quy tắc ㅎ"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+   }
+  },
+  {
+   "day": 25,
+   "date": "2026-12-13",
+   "type": "learn",
+   "id": "bai-28",
+   "lesson": "Bài 28",
+   "source": "TOPIK 2 – Bài 11: Du lịch",
+   "level": 2,
+   "title": "Du lịch",
+   "words": [
+    [
+     "국내 여행",
+     "Guknae yeohaeng",
+     "Du lịch trong nước"
+    ],
+    [
+     "신혼여행",
+     "Sinhonyeohaeng",
+     "Tuần trăng mật"
+    ],
+    [
+     "가족 여행",
+     "Gajok yeohaeng",
+     "Du lịch gia đình"
+    ],
+    [
+     "해외여행",
+     "Haeoeyeohaeng",
+     "Du lịch nước ngoài"
+    ],
+    [
+     "배낭여행",
+     "Baenangyeohaeng",
+     "Du lịch ba lô"
+    ],
+    [
+     "여행 상품",
+     "Yeohaeng sangpum",
+     "Tour du lịch"
+    ],
+    [
+     "민박",
+     "Minbak",
+     "Nhà nghỉ dân dã (homestay)"
+    ],
+    [
+     "1박 2일",
+     "1bak 2il",
+     "2 ngày 1 đêm"
+    ],
+    [
+     "관광지",
+     "Gwangwangji",
+     "Điểm du lịch"
+    ],
+    [
+     "입장료",
+     "Ipjangryo",
+     "Vé vào cửa"
+    ],
+    [
+     "여행사",
+     "Yeohaengsa",
+     "Công ty du lịch"
+    ],
+    [
+     "예약",
+     "Yeyak",
+     "Sự đặt trước"
+    ],
+    [
+     "예매",
+     "Yemae",
+     "Đặt mua vé trước"
+    ],
+    [
+     "조식",
+     "Josik",
+     "Bữa sáng"
+    ],
+    [
+     "보험",
+     "Boheom",
+     "Bảo hiểm"
+    ],
+    [
+     "비상약",
+     "Bisangyak",
+     "Thuốc dự phòng"
+    ],
+    [
+     "신용카드",
+     "Sinyongkadeu",
+     "Thẻ tín dụng"
+    ],
+    [
+     "슬리퍼",
+     "Seulripeo",
+     "Dép lê"
+    ],
+    [
+     "세면도구",
+     "Semyeondogu",
+     "Đồ dùng vệ sinh cá nhân"
+    ],
+    [
+     "선글라스",
+     "Seongeulraseu",
+     "Kính râm"
+    ],
+    [
+     "카메라",
+     "Kamera",
+     "Máy ảnh"
+    ],
+    [
+     "환전",
+     "Hwanjeon",
+     "Đổi tiền"
+    ],
+    [
+     "비행기표",
+     "Bihaenggipyo",
+     "Vé máy bay"
+    ],
+    [
+     "가방을 싸다",
+     "Gabangeul ssada",
+     "Xếp đồ vào túi"
+    ],
+    [
+     "여권을 만들다",
+     "Yeogwoneul mandeulda",
+     "Làm hộ chiếu"
+    ],
+    [
+     "비자를 받다",
+     "Bijareul batda",
+     "Nhận visa"
+    ],
+    [
+     "궁전",
+     "Gungjeon",
+     "Cung điện"
+    ],
+    [
+     "방문",
+     "Bangmun",
+     "Chuyến thăm"
+    ],
+    [
+     "일정",
+     "Iljeong",
+     "Lịch trình"
+    ],
+    [
+     "독립광장",
+     "Dokripgwangjang",
+     "Quảng trường Độc lập"
+    ],
+    [
+     "쇼",
+     "Syo",
+     "Buổi trình diễn"
+    ],
+    [
+     "일출",
+     "Ilchul",
+     "Mặt trời mọc"
+    ],
+    [
+     "마차",
+     "Macha",
+     "Xe ngựa"
+    ],
+    [
+     "약수",
+     "Yaksu",
+     "Nước suối khoáng"
+    ],
+    [
+     "전통 놀이",
+     "Jeontong nori",
+     "Trò chơi truyền thống"
+    ],
+    [
+     "문화재",
+     "Munhwajae",
+     "Di sản văn hóa"
+    ],
+    [
+     "유람선",
+     "Yuramseon",
+     "Du thuyền"
+    ],
+    [
+     "한옥",
+     "Hanok",
+     "Nhà truyền thống Hàn Quốc (hanok)"
+    ]
+   ],
+   "grammar": [
+    "V/A + 거나 — Hoặc, hay",
+    "V + 고 있다 — Đang",
+    "V + (으)ㄴ 적이 있다 — Đã từng"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+   }
+  },
+  {
+   "day": 26,
+   "date": "2026-12-14",
+   "type": "learn",
+   "id": "bai-29",
+   "lesson": "Bài 29",
+   "source": "TOPIK 2 – Bài 12: Nơi công cộng",
+   "level": 2,
+   "title": "Nơi công cộng",
+   "words": [
+    [
+     "공공장소",
+     "Gonggongjangso",
+     "Nơi công cộng"
+    ],
+    [
+     "도서관",
+     "Doseogwan",
+     "Thư viện"
+    ],
+    [
+     "공원",
+     "Gongwon",
+     "Công viên"
+    ],
+    [
+     "연주회장",
+     "Yeonjuhoejang",
+     "Phòng hòa nhạc"
+    ],
+    [
+     "기숙사",
+     "Gisuksa",
+     "Ký túc xá"
+    ],
+    [
+     "극장",
+     "Geukjang",
+     "Rạp hát, rạp chiếu phim"
+    ],
+    [
+     "공항",
+     "Gonghang",
+     "Sân bay"
+    ],
+    [
+     "질서를 지키다",
+     "Jilseoreul jikida",
+     "Giữ trật tự"
+    ],
+    [
+     "조용히 하다",
+     "Joyonghi hada",
+     "Giữ yên lặng"
+    ],
+    [
+     "떠들다",
+     "Tteodeulda",
+     "Làm ồn"
+    ],
+    [
+     "방해하다",
+     "Banghaehada",
+     "Làm phiền, cản trở"
+    ],
+    [
+     "손을 대다",
+     "Soneul daeda",
+     "Chạm tay vào"
+    ],
+    [
+     "개를 데려가다",
+     "Gaereul deryeogada",
+     "Dắt chó theo"
+    ],
+    [
+     "강",
+     "Gang",
+     "Sông"
+    ],
+    [
+     "반납",
+     "Bannap",
+     "Sự trả lại"
+    ],
+    [
+     "이번",
+     "Ibeon",
+     "Lần này"
+    ],
+    [
+     "강아지",
+     "Gangaji",
+     "Chó con"
+    ],
+    [
+     "병실",
+     "Byeongsil",
+     "Phòng bệnh"
+    ],
+    [
+     "입원하다",
+     "Ibwonhada",
+     "Nhập viện"
+    ],
+    [
+     "공중목욕탕",
+     "Gongjungmogyoktang",
+     "Nhà tắm công cộng"
+    ],
+    [
+     "연주회",
+     "Yeonjuhoe",
+     "Buổi hòa nhạc"
+    ],
+    [
+     "작품",
+     "Jakpum",
+     "Tác phẩm"
+    ],
+    [
+     "그림",
+     "Geurim",
+     "Bức tranh"
+    ],
+    [
+     "왜냐하면",
+     "Waenyahamyeon",
+     "Bởi vì"
+    ],
+    [
+     "절대로",
+     "Jeoldaero",
+     "Tuyệt đối (không)"
+    ],
+    [
+     "뒷문",
+     "Dwitmun",
+     "Cửa sau"
+    ],
+    [
+     "유의 사항",
+     "Yuui sahang",
+     "Điều cần lưu ý"
+    ],
+    [
+     "면회",
+     "Myeonhoe",
+     "Thăm (người bệnh, người ở trại)"
+    ],
+    [
+     "음악회",
+     "Eumakhoe",
+     "Buổi biểu diễn âm nhạc"
+    ],
+    [
+     "환자",
+     "Hwanja",
+     "Bệnh nhân"
+    ],
+    [
+     "이륙하다",
+     "Iryukhada",
+     "Cất cánh"
+    ],
+    [
+     "도시",
+     "Dosi",
+     "Đô thị"
+    ]
+   ],
+   "grammar": [
+    "V/A + (으)면서 — Vừa ... vừa",
+    "N/trợ từ/đuôi liên kết + 요 — Đuôi câu lịch sự",
+    "V + (으)면 안 되다 — Không được"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+   }
+  },
+  {
+   "day": 27,
+   "date": "2026-12-15",
+   "type": "learn",
+   "id": "bai-30",
+   "lesson": "Bài 30",
+   "source": "TOPIK 2 – Bài 13: Đô thị",
+   "level": 2,
+   "title": "Đô thị",
+   "words": [
+    [
+     "인구",
+     "Ingu",
+     "Dân số"
+    ],
+    [
+     "면적",
+     "Myeonjeok",
+     "Diện tích"
+    ],
+    [
+     "위치",
+     "Wichi",
+     "Vị trí"
+    ],
+    [
+     "물가",
+     "Mulga",
+     "Giá cả, vật giá"
+    ],
+    [
+     "지역",
+     "Jiyeok",
+     "Khu vực"
+    ],
+    [
+     "중심지",
+     "Jungsimji",
+     "Trung tâm"
+    ],
+    [
+     "육지",
+     "Yukji",
+     "Đất liền"
+    ],
+    [
+     "바다",
+     "Bada",
+     "Biển"
+    ],
+    [
+     "섬",
+     "Seom",
+     "Đảo"
+    ],
+    [
+     "최고",
+     "Choego",
+     "Cao nhất"
+    ],
+    [
+     "최대",
+     "Choedae",
+     "Lớn nhất"
+    ],
+    [
+     "수도",
+     "Sudo",
+     "Thủ đô"
+    ],
+    [
+     "도시",
+     "Dosi",
+     "Thành phố"
+    ],
+    [
+     "시골",
+     "Sigol",
+     "Nông thôn"
+    ],
+    [
+     "공업",
+     "Gongeop",
+     "Công nghiệp"
+    ],
+    [
+     "상업",
+     "Sangeop",
+     "Thương mại"
+    ],
+    [
+     "농업",
+     "Nongeop",
+     "Nông nghiệp"
+    ],
+    [
+     "관광업",
+     "Gwangwangeop",
+     "Ngành du lịch"
+    ],
+    [
+     "유명하다",
+     "Yumyeonghada",
+     "Nổi tiếng"
+    ],
+    [
+     "경치가 아름답다",
+     "Gyeongchiga areumdapda",
+     "Phong cảnh đẹp"
+    ],
+    [
+     "역사가 깊다",
+     "Yeoksaga gipda",
+     "Lịch sử lâu đời"
+    ],
+    [
+     "방향",
+     "Banghyang",
+     "Phương hướng"
+    ],
+    [
+     "(감기가) 낫다",
+     "(gamgiga) natda",
+     "Khỏi (cảm)"
+    ],
+    [
+     "도자기",
+     "Dojagi",
+     "Đồ gốm sứ"
+    ],
+    [
+     "상업 도시",
+     "Sangeop dosi",
+     "Thành phố thương mại"
+    ],
+    [
+     "경제 자유 구역",
+     "Gyeongje jayu guyeok",
+     "Khu kinh tế tự do"
+    ],
+    [
+     "(도자기 굽는) 가마",
+     "(dojagi gupneun) gama",
+     "Lò nung (gốm)"
+    ],
+    [
+     "예술",
+     "Yesul",
+     "Nghệ thuật"
+    ],
+    [
+     "국제 무역항",
+     "Gukje muyeokhang",
+     "Cảng thương mại quốc tế"
+    ],
+    [
+     "예전",
+     "Yejeon",
+     "Trước đây"
+    ],
+    [
+     "굽다",
+     "Gupda",
+     "Nướng, nung"
+    ],
+    [
+     "진흙",
+     "Jinheuk",
+     "Đất sét, bùn"
+    ],
+    [
+     "단군신화",
+     "Dangunsinhwa",
+     "Thần thoại Dangun"
+    ],
+    [
+     "불꽃 축제",
+     "Bulkkot chukje",
+     "Lễ hội pháo hoa"
+    ],
+    [
+     "해수욕장",
+     "Haesuyokjang",
+     "Bãi tắm biển"
+    ],
+    [
+     "단군왕검",
+     "Dangunwanggeom",
+     "Dangun Wanggeom"
+    ],
+    [
+     "(얼굴이) 붓다",
+     "(eolguri) butda",
+     "(Mặt) bị sưng"
+    ],
+    [
+     "단오 (음력 5월 5일)",
+     "Dano (eumryeok 5wol 5il)",
+     "Tết Đoan ngọ (5/5 âm lịch)"
+    ],
+    [
+     "비엔날레",
+     "Biennalre",
+     "Triển lãm Biennale"
+    ],
+    [
+     "계획",
+     "Gyehoek",
+     "Kế hoạch"
+    ],
+    [
+     "학업",
+     "Hageop",
+     "Việc học hành"
+    ]
+   ],
+   "grammar": [
+    "N + (이)나 — Tới, đến tận (nhấn mạnh số lượng)",
+    "V/A + (으)ㄹ 것 같다 — Có lẽ, hình như",
+    "Bất quy tắc ㅅ"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+   }
+  },
+  {
+   "day": 28,
+   "date": "2026-12-16",
+   "type": "learn",
+   "id": "bai-31",
+   "lesson": "Bài 31",
+   "source": "TOPIK 2 – Bài 14: Kế hoạch",
+   "level": 2,
+   "title": "Kế hoạch",
+   "words": [
+    [
+     "진학",
+     "Jinhak",
+     "Học lên (cấp cao hơn)"
+    ],
+    [
+     "유학",
+     "Yuhak",
+     "Du học"
+    ],
+    [
+     "어학연수",
+     "Eohagyeonsu",
+     "Học tiếng (khóa ngôn ngữ)"
+    ],
+    [
+     "대학원",
+     "Daehagwon",
+     "Cao học"
+    ],
+    [
+     "직업",
+     "Jigeop",
+     "Nghề nghiệp"
+    ],
+    [
+     "연구자",
+     "Yeonguja",
+     "Nhà nghiên cứu"
+    ],
+    [
+     "변호사",
+     "Byeonhosa",
+     "Luật sư"
+    ],
+    [
+     "아나운서",
+     "Anaunseo",
+     "Phát thanh viên"
+    ],
+    [
+     "미용사",
+     "Miyongsa",
+     "Thợ làm tóc, chuyên viên làm đẹp"
+    ],
+    [
+     "경영자",
+     "Gyeongyeongja",
+     "Nhà quản lý, chủ doanh nghiệp"
+    ],
+    [
+     "주부",
+     "Jubu",
+     "Nội trợ"
+    ],
+    [
+     "직장",
+     "Jikjang",
+     "Nơi làm việc"
+    ],
+    [
+     "항공사",
+     "Hanggongsa",
+     "Hãng hàng không"
+    ],
+    [
+     "신문사",
+     "Sinmunsa",
+     "Tòa soạn báo"
+    ],
+    [
+     "방송국",
+     "Bangsongguk",
+     "Đài truyền hình"
+    ],
+    [
+     "출판사",
+     "Chulpansa",
+     "Nhà xuất bản"
+    ],
+    [
+     "무역 회사",
+     "Muyeok hoesa",
+     "Công ty thương mại"
+    ],
+    [
+     "건설 회사",
+     "Geonseol hoesa",
+     "Công ty xây dựng"
+    ],
+    [
+     "계획투자부",
+     "Gyehoektujabu",
+     "Bộ Kế hoạch và Đầu tư"
+    ],
+    [
+     "자문 회사",
+     "Jamun hoesa",
+     "Công ty tư vấn"
+    ],
+    [
+     "공사",
+     "Gongsa",
+     "Công ty nhà nước"
+    ],
+    [
+     "산업 단지",
+     "Saneop danji",
+     "Khu công nghiệp"
+    ],
+    [
+     "협력 회사",
+     "Hyeopryeok hoesa",
+     "Công ty đối tác"
+    ],
+    [
+     "외국 투자 회사",
+     "Oeguk tuja hoesa",
+     "Công ty có vốn nước ngoài"
+    ],
+    [
+     "합작사",
+     "Hapjaksa",
+     "Công ty liên doanh"
+    ],
+    [
+     "과목",
+     "Gwamok",
+     "Môn học"
+    ],
+    [
+     "동안",
+     "Dongan",
+     "Trong suốt (khoảng thời gian)"
+    ],
+    [
+     "인기상",
+     "Ingisang",
+     "Giải được yêu thích nhất"
+    ],
+    [
+     "등록금",
+     "Deungrokgeum",
+     "Học phí"
+    ],
+    [
+     "일시",
+     "Ilsi",
+     "Ngày giờ"
+    ],
+    [
+     "글쓰기",
+     "Geulsseugi",
+     "Viết văn"
+    ],
+    [
+     "벌써",
+     "Beolsseo",
+     "Đã ... rồi"
+    ],
+    [
+     "입학",
+     "Iphak",
+     "Nhập học"
+    ],
+    [
+     "기타",
+     "Gita",
+     "Khác; đàn ghi-ta"
+    ],
+    [
+     "봉사 활동",
+     "Bongsa hwaldong",
+     "Hoạt động tình nguyện"
+    ],
+    [
+     "자르다",
+     "Jareuda",
+     "Cắt"
+    ],
+    [
+     "꿈",
+     "Kkum",
+     "Ước mơ, giấc mơ"
+    ],
+    [
+     "졸업",
+     "Joreop",
+     "Tốt nghiệp"
+    ],
+    [
+     "끊다",
+     "Kkeunta",
+     "Cắt, cai, bỏ"
+    ],
+    [
+     "언제든지",
+     "Eonjedeunji",
+     "Bất cứ lúc nào"
+    ],
+    [
+     "최우수상",
+     "Choeususang",
+     "Giải xuất sắc nhất"
+    ],
+    [
+     "내려가다",
+     "Naeryeogada",
+     "Đi xuống"
+    ],
+    [
+     "우수상",
+     "Ususang",
+     "Giải xuất sắc"
+    ],
+    [
+     "취직",
+     "Chwijik",
+     "Xin được việc"
+    ],
+    [
+     "다녀오다",
+     "Danyeooda",
+     "Đi rồi về"
+    ],
+    [
+     "운동장",
+     "Undongjang",
+     "Sân vận động"
+    ],
+    [
+     "특히",
+     "Teukhi",
+     "Đặc biệt"
+    ],
+    [
+     "대상",
+     "Daesang",
+     "Giải nhất"
+    ],
+    [
+     "응원",
+     "Eungwon",
+     "Cổ vũ"
+    ],
+    [
+     "학기",
+     "Hakgi",
+     "Học kỳ"
+    ]
+   ],
+   "grammar": [
+    "V + (으)ㄴ 지 — Đã ... được (bao lâu)",
+    "V + (으)ㄴ 후에 — Sau khi",
+    "V + 기로 하다 — Quyết định"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+   }
+  },
+  {
+   "day": 29,
+   "date": "2026-12-17",
+   "type": "learn",
+   "id": "bai-32",
+   "lesson": "Bài 32",
+   "source": "TOPIK 2 – Bài 15: Đời sống Hàn Quốc",
+   "level": 2,
+   "title": "Đời sống Hàn Quốc",
+   "words": [
+    [
+     "익숙하다",
+     "Iksukhada",
+     "Quen thuộc"
+    ],
+    [
+     "적응하다",
+     "Jeogeunghada",
+     "Thích nghi"
+    ],
+    [
+     "익숙해지다",
+     "Iksukhaejida",
+     "Quen dần"
+    ],
+    [
+     "낯설다",
+     "Natseolda",
+     "Lạ lẫm"
+    ],
+    [
+     "불편하다",
+     "Bulpyeonhada",
+     "Bất tiện"
+    ],
+    [
+     "외국인 등록증",
+     "Oegugin deungrokjeung",
+     "Thẻ người nước ngoài"
+    ],
+    [
+     "출입국관리사무소",
+     "Churipgukgwanrisamuso",
+     "Văn phòng quản lý xuất nhập cảnh"
+    ],
+    [
+     "현금카드",
+     "Hyeongeumkadeu",
+     "Thẻ rút tiền"
+    ],
+    [
+     "통장을 만들다",
+     "Tongjangeul mandeulda",
+     "Mở sổ tài khoản"
+    ],
+    [
+     "환전하다",
+     "Hwanjeonhada",
+     "Đổi tiền"
+    ],
+    [
+     "자취(방)",
+     "Jachwi(bang)",
+     "Phòng thuê tự nấu ăn"
+    ],
+    [
+     "하숙집",
+     "Hasukjip",
+     "Nhà trọ (có cơm)"
+    ],
+    [
+     "룸메이트",
+     "Rummeiteu",
+     "Bạn cùng phòng"
+    ],
+    [
+     "보증금",
+     "Bojeunggeum",
+     "Tiền đặt cọc"
+    ],
+    [
+     "월세",
+     "Wolse",
+     "Tiền thuê theo tháng"
+    ],
+    [
+     "비용",
+     "Biyong",
+     "Chi phí"
+    ],
+    [
+     "인터넷 요금",
+     "Inteonet yogeum",
+     "Phí internet"
+    ],
+    [
+     "가스 요금",
+     "Gaseu yogeum",
+     "Tiền gas"
+    ],
+    [
+     "가능하다",
+     "Ganeunghada",
+     "Có thể"
+    ],
+    [
+     "부엌",
+     "Bueok",
+     "Bếp"
+    ],
+    [
+     "옷장",
+     "Otjang",
+     "Tủ quần áo"
+    ],
+    [
+     "궁금하다",
+     "Gunggeumhada",
+     "Tò mò, thắc mắc"
+    ],
+    [
+     "비다",
+     "Bida",
+     "Trống"
+    ],
+    [
+     "요금을 내다",
+     "Yogeumeul naeda",
+     "Trả phí"
+    ],
+    [
+     "규칙",
+     "Gyuchik",
+     "Quy tắc"
+    ],
+    [
+     "비용이 들다",
+     "Biyongi deulda",
+     "Tốn chi phí"
+    ],
+    [
+     "이사하다",
+     "Isahada",
+     "Chuyển nhà"
+    ],
+    [
+     "그릇",
+     "Geureut",
+     "Bát, chén"
+    ],
+    [
+     "생기다",
+     "Saenggida",
+     "Phát sinh, có"
+    ],
+    [
+     "잘되다",
+     "Jaldoeda",
+     "Suôn sẻ"
+    ],
+    [
+     "조용하다",
+     "Joyonghada",
+     "Yên tĩnh"
+    ],
+    [
+     "답변",
+     "Dapbyeon",
+     "Câu trả lời"
+    ],
+    [
+     "주인",
+     "Juin",
+     "Chủ nhà"
+    ],
+    [
+     "따로",
+     "Ttaro",
+     "Riêng"
+    ],
+    [
+     "시끄럽다",
+     "Sikkeureopda",
+     "Ồn ào"
+    ],
+    [
+     "직접",
+     "Jikjeop",
+     "Trực tiếp"
+    ],
+    [
+     "똑똑하다",
+     "Ttokttokhada",
+     "Thông minh"
+    ],
+    [
+     "식탁",
+     "Siktak",
+     "Bàn ăn"
+    ],
+    [
+     "출근하다",
+     "Chulgeunhada",
+     "Đi làm"
+    ],
+    [
+     "마다",
+     "Mada",
+     "Mỗi"
+    ],
+    [
+     "신경 쓰다",
+     "Singyeong sseuda",
+     "Để tâm, bận tâm"
+    ],
+    [
+     "포함되다",
+     "Pohamdoeda",
+     "Được bao gồm"
+    ],
+    [
+     "문의",
+     "Munui",
+     "Hỏi, liên hệ"
+    ],
+    [
+     "아끼다",
+     "Akkida",
+     "Tiết kiệm, quý"
+    ],
+    [
+     "혹시",
+     "Hoksi",
+     "Có khi nào, liệu"
+    ]
+   ],
+   "grammar": [
+    "N + 에게서/한테서 — Từ (ai)",
+    "V/A + (으)ㄴ/는데 — Nên, mà (bối cảnh)",
+    "Bất quy tắc 르"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+   }
+  },
+  {
+   "day": 30,
+   "date": "2026-12-18",
+   "type": "review",
+   "title": "Tổng ôn cấp 1–2 + thi thử",
+   "tasks": [
+    "Vào mục Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm Ngữ pháp tổng hợp 2 lượt",
+    "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật",
+    "Dán kết quả + điểm đề thi cho Claude để được phân tích điểm yếu"
+   ]
+  }
+ ]
+}

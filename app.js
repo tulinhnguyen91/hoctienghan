@@ -139,6 +139,7 @@ async function route() {
     else if (parts[0] === 'on-tap') { setNav('review'); await renderReview(parts[1]); }
     else if (parts[0] === 'nop-bai') { setNav('submit'); renderSubmit(parts[1]); }
     else if (parts[0] === 'so-tay') { setNav('notes'); renderNotes(); }
+    else if (parts[0] === 'lo-trinh') { setNav('home'); await renderPlan(); }
     else { setNav('home'); await renderLesson(parts[0], parts[1] || 'tu-vung'); }
   } catch (err) {
     console.error(err);
@@ -169,6 +170,7 @@ async function renderHome() {
       <div class="row"><a class="btn light" href="#/${latest.id}">Vào học</a><a class="btn line" style="color:#fff;border-color:rgba(255,255,255,.35)" href="#/${latest.id}/luyen">Làm bài luôn</a></div>
     </section>
     <p class="cheer" lang="ko">${esc(cheer)}</p>
+    ${await todayCard()}
     ${homeSupport(latest, lt, await loadAll())}
     ${todayDone ? `<p class="note">Hôm nay bạn đã làm <b>${todayDone}</b> phần. Xong thì vào <a href="#/nop-bai">Nộp bài</a> để copy kết quả gửi Claude nhé.</p>` : ''}
     <h2>Các ngày đã học</h2>
@@ -186,6 +188,57 @@ async function renderHome() {
       }).join('')}
     </ol>`;
   petals($app.querySelector('.hero'));
+}
+let PLAN = null;
+async function loadPlan() {
+  if (PLAN) return PLAN;
+  try { const r = await fetch('data/plan.json?v=' + Date.now(), { cache: 'no-store' }); if (r.ok) PLAN = await r.json(); } catch {}
+  return PLAN;
+}
+function planToday(plan) {
+  const t = dayKey(); const days = plan.days;
+  if (t < days[0].date) return { before: true, d: days[0] };
+  if (t > days[days.length - 1].date) return { after: true, d: days[days.length - 1] };
+  return { d: days.find(x => x.date === t) };
+}
+function practiceLinks(plan, d) {
+  if (!d.practice) return '';
+  return `<ul class="prac">
+    <li><a href="${plan.links.listening}" target="_blank" rel="noopener">🎧 ${esc(d.practice.listening)}</a></li>
+    <li><a href="${plan.links.reading}" target="_blank" rel="noopener">📖 ${esc(d.practice.reading)}</a></li></ul>`;
+}
+async function todayCard() {
+  const plan = await loadPlan(); if (!plan) return '';
+  const { d, before, after } = planToday(plan);
+  const idx = INDEX ? INDEX.lessons.map(l => l.id) : [];
+  const ready = d.id && idx.includes(d.id);
+  const pct = Math.round(100 * Math.max(0, Math.min(30, d.day - (before ? 1 : 0))) / 30);
+  return `<section class="today">
+    <div class="today-h"><span class="day-badge">${before ? 'Sắp bắt đầu' : after ? 'Hoàn thành ♛' : 'Ngày ' + d.day + '/30'}</span>
+      <a class="small" href="#/lo-trinh">Xem lộ trình</a></div>
+    <div class="road"><i style="width:${pct}%"></i><span class="crown-pin" style="left:${pct}%">♛</span></div>
+    <h3>${before ? 'Ngày 1 bắt đầu ' + fmtDate(d.date) + ': ' : ''}${esc(d.source || d.title)}</h3>
+    ${d.type === 'review' ? `<ul class="prac">${d.tasks.map(t => `<li>${esc(t)}</li>`).join('')}</ul>
+        <a class="btn block" href="#/on-tap">Vào ôn tập</a>`
+      : `<p class="small muted">${d.words.length} từ · ngữ pháp: <span lang="ko">${d.grammar.map(g => esc(g.split(' — ')[0])).join(', ')}</span></p>
+        ${ready ? `<a class="btn block" href="#/${d.id}">Học ${esc(d.lesson)} ngay</a>` : `<p class="note">Bài này sẽ được soạn xong tối hôm trước (20:30). Trong lúc chờ, vào Ôn tập nhé.</p>`}
+        <p class="small" style="margin:12px 0 4px"><b>Luyện TOPIK trên Migii hôm nay:</b></p>${practiceLinks(plan, d)}`}
+  </section>`;
+}
+async function renderPlan() {
+  const plan = await loadPlan(); await loadIndex();
+  if (!plan) { $app.innerHTML = '<p class="empty">Chưa có lộ trình.</p>'; return; }
+  const t = dayKey(); const ids = INDEX.lessons.map(l => l.id);
+  $app.innerHTML = `<h1>Lộ trình 30 ngày</h1>
+    <p class="muted">${esc(plan.goal)}. Mỗi ngày: 1 bài từ vựng Migii, 3 mẫu ngữ pháp, 1 phần Nghe + 1 phần Đọc TOPIK I.</p>
+    <ol class="plan">${plan.days.map(d => {
+      const st = d.date < t ? 'past' : d.date === t ? 'now' : 'next';
+      const link = d.id && ids.includes(d.id);
+      return `<li class="${st} ${d.type}"><div class="pd"><b>${d.day}</b><span>${fmtDate(d.date).slice(0, -5)}</span></div>
+        <div class="pc">${link ? `<a href="#/${d.id}">` : ''}<div class="pt">${esc(d.source || d.title)}</div>${link ? '</a>' : ''}
+        <div class="small muted">${d.type === 'review' ? 'Ôn tập + thi thử TOPIK I' : d.words.length + ' từ · <span lang="ko">' + d.grammar.map(g => esc(g.split(' — ')[0])).join(' · ') + '</span>'}</div></div></li>`;
+    }).join('')}</ol>`;
+  document.querySelector('.plan li.now')?.scrollIntoView({ block: 'center' });
 }
 function homeSupport(latest, lt, lessons) {
   const today = dayKey(), rs = results().filter(r => r.day === today);
@@ -236,7 +289,7 @@ function petals(host) {
 /* ---------- trang bài học ---------- */
 const TABS = [['tu-vung', 'Từ vựng'], ['the', 'Flashcard'], ['luyen', 'Luyện từ'], ['ngu-phap', 'Ngữ pháp'], ['dat-cau', 'Đặt câu']];
 async function renderLesson(id, tab) {
-  const L = await loadLesson(id);
+  const L = await loadLesson(id); await loadPlan();
   $app.innerHTML = `
     <a class="back" href="#/">${ICON.left.replace('<svg', '<svg width="16" height="16" style="fill:none;stroke:currentColor;stroke-width:2"')} Tất cả bài</a>
     <div class="lesson-head"><span class="kr" lang="ko">${esc(L.krTitle)}</span>
@@ -540,6 +593,7 @@ function paneGrammar(pane, L) {
   const b = best(L.id, 'ngu-phap');
   pane.innerHTML = `${L.patterns.map(p => `<article class="pattern"><h3 lang="ko">${esc(p.form)}</h3><p>${esc(p.meaning)}</p>
       <ul>${p.examples.map(e => { const [k, v] = e.split(' — '); return `<li>${soundBtn(k)}<span class="ex"><span class="k" lang="ko">${esc(k)}</span><span class="v">${esc(v || '')}</span></span></li>`; }).join('')}</ul></article>`).join('')}
+    ${L.practice && PLAN ? `<div class="note" style="background:var(--lav-wash)"><b>Luyện TOPIK trên Migii:</b>${practiceLinks(PLAN, L)}</div>` : ''}
     <button class="btn block" id="start">Làm ${L.exercises.length} bài tập ngữ pháp${b !== null ? ` · tốt nhất ${b}%` : ''}</button>`;
   pane.querySelector('#start').onclick = () => startGrammar(pane, L);
 }
@@ -548,6 +602,7 @@ function grammarQuestions(L, list) {
     const kr = e.kr && e.kr !== '___' ? e.kr : '';
     const html = kr ? esc(kr).replace(/_{2,}/g, '<span class="blank">　</span>') : '';
     const base = { ex: e, explain: e.explain, ask: e.q, prompt: kr, html, sentence: true };
+    if (e.type === 'read') return { ...base, kind: 'choice', html: '<span class="passage">' + esc(e.kr).replace(/\( ?_{2,} ?\)/g, '( <span class="blank">　</span> )') + '</span>', krOpts: e.options.every(o => /[가-힣]/.test(o)), options: shuffle(e.options), answer: e.answer };
     if (e.type === 'choice') return { ...base, kind: 'choice', krOpts: e.options.every(o => /[가-힣]/.test(o)), options: shuffle(e.options), answer: e.answer };
     if (e.type === 'fill') return { ...base, kind: 'input', answer: e.answer[0], answerShow: e.answer.join(' / '),
       check: u => e.answer.some(a => norm(a) === norm(u)) ? 'ok' : e.answer.some(a => tight(a) === tight(u)) ? 'space' : 'no' };

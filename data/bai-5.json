@@ -1,0 +1,602 @@
+{
+ "id": "bai-5",
+ "lesson": "Bài 5",
+ "title": "Thứ ngày tháng",
+ "krTitle": "날짜와 숫자",
+ "date": "2026-11-19",
+ "day": 1,
+ "source": "TOPIK 1 – Bài 4B: Thứ ngày tháng",
+ "words": [
+  [
+   "지난주",
+   "Jinanju",
+   "Tuần trước",
+   "지난주에 시험이 있었어요.",
+   "Tuần trước có bài thi."
+  ],
+  [
+   "이번 주",
+   "Ibeon ju",
+   "Tuần này",
+   "이번 주에 숙제가 많아요.",
+   "Tuần này có nhiều bài tập."
+  ],
+  [
+   "다음 주",
+   "Daeum ju",
+   "Tuần sau",
+   "다음 주에 휴가가 있어요.",
+   "Tuần sau tôi có kỳ nghỉ."
+  ],
+  [
+   "평일 (주중)",
+   "Pyeongil (jujung)",
+   "Ngày thường",
+   "평일에 회사에서 일해요.",
+   "Ngày thường tôi làm việc ở công ty."
+  ],
+  [
+   "주말",
+   "Jumal",
+   "Cuối tuần",
+   "주말에 친구를 만나요.",
+   "Cuối tuần tôi gặp bạn."
+  ],
+  [
+   "공/ 영",
+   "Gong/ yeong",
+   "Số 0",
+   "제 전화번호는 공일공이에요.",
+   "Số điện thoại của tôi bắt đầu bằng 010."
+  ],
+  [
+   "일",
+   "Il",
+   "Một (1)",
+   "오늘은 일 일이에요.",
+   "Hôm nay là ngày mùng 1."
+  ],
+  [
+   "십",
+   "Sip",
+   "Mười (10)",
+   "교실에 학생이 십 명 있어요.",
+   "Trong lớp có 10 học sinh."
+  ],
+  [
+   "백",
+   "Baek",
+   "Một trăm (100)",
+   "이 책은 백 쪽이에요.",
+   "Cuốn sách này dày 100 trang."
+  ],
+  [
+   "천",
+   "Cheon",
+   "Một nghìn (1.000)",
+   "커피는 천 원이에요.",
+   "Cà phê giá 1.000 won."
+  ],
+  [
+   "만",
+   "Man",
+   "Mười nghìn (10.000)",
+   "이 가방은 만 원이에요.",
+   "Cái túi này giá 10.000 won."
+  ],
+  [
+   "십만",
+   "Sipman",
+   "Một trăm nghìn (100.000)",
+   "카메라는 십만 원이에요.",
+   "Máy ảnh giá 100.000 won."
+  ],
+  [
+   "백만",
+   "Baekman",
+   "Một triệu (1.000.000)",
+   "컴퓨터는 백만 원이에요.",
+   "Máy tính giá 1.000.000 won."
+  ],
+  [
+   "강사",
+   "Gangsa",
+   "Giảng viên",
+   "저는 한국어 강사예요.",
+   "Tôi là giảng viên tiếng Hàn."
+  ],
+  [
+   "설날",
+   "Seolnal",
+   "Ngày tết",
+   "설날에 고향에 가요.",
+   "Tết tôi về quê."
+  ],
+  [
+   "커피숍",
+   "Keopisyop",
+   "Quán cà phê",
+   "커피숍에서 친구를 만나요.",
+   "Tôi gặp bạn ở quán cà phê."
+  ],
+  [
+   "계획표",
+   "Gyehoekpyo",
+   "Bảng kế hoạch, thời khóa biểu",
+   "방학 계획표를 만들어요.",
+   "Tôi lập kế hoạch cho kỳ nghỉ."
+  ],
+  [
+   "숙제",
+   "Sukje",
+   "Bài tập",
+   "저녁에 숙제를 해요.",
+   "Buổi tối tôi làm bài tập."
+  ],
+  [
+   "크리스마스",
+   "Keuriseumaseu",
+   "Giáng sinh",
+   "크리스마스는 십이월 이십오 일이에요.",
+   "Giáng sinh là ngày 25 tháng 12."
+  ],
+  [
+   "구경하다",
+   "Gugyeonghada",
+   "Ngắm, xem",
+   "주말에 시장을 구경해요.",
+   "Cuối tuần tôi đi ngắm chợ."
+  ],
+  [
+   "시험",
+   "Siheom",
+   "Kỳ thi, kỳ kiểm tra",
+   "내일 한국어 시험이 있어요.",
+   "Ngày mai có bài thi tiếng Hàn."
+  ],
+  [
+   "파티를 하다",
+   "Patireul hada",
+   "Tổ chức tiệc",
+   "토요일에 집에서 파티를 해요.",
+   "Thứ Bảy tôi tổ chức tiệc ở nhà."
+  ],
+  [
+   "그리고",
+   "Geurigo",
+   "Và",
+   "빵을 먹어요. 그리고 우유를 마셔요.",
+   "Tôi ăn bánh mì. Và uống sữa."
+  ],
+  [
+   "아르바이트",
+   "Areubaiteu",
+   "Sự làm thêm",
+   "주말에 카페에서 아르바이트를 해요.",
+   "Cuối tuần tôi làm thêm ở quán cà phê."
+  ],
+  [
+   "한글날",
+   "Hangeulnal",
+   "Ngày kỷ niệm chữ Hangeul",
+   "한글날은 시월 구 일이에요.",
+   "Ngày Hangeul là ngày 9 tháng 10."
+  ],
+  [
+   "등산",
+   "Deungsan",
+   "Việc leo núi",
+   "저는 등산을 좋아해요.",
+   "Tôi thích leo núi."
+  ],
+  [
+   "아름답다",
+   "Areumdapda",
+   "Đẹp",
+   "설악산은 아주 아름다워요.",
+   "Núi Seorak rất đẹp."
+  ],
+  [
+   "호",
+   "Ho",
+   "Số (phòng)",
+   "제 방은 삼백일 호예요.",
+   "Phòng của tôi là phòng 301."
+  ],
+  [
+   "명절",
+   "Myeongjeol",
+   "Ngày lễ",
+   "추석은 한국의 큰 명절이에요.",
+   "Chuseok là ngày lễ lớn của Hàn Quốc."
+  ],
+  [
+   "안내",
+   "Annae",
+   "Sự hướng dẫn",
+   "안내 데스크는 일 층에 있어요.",
+   "Quầy hướng dẫn ở tầng 1."
+  ],
+  [
+   "회의하다",
+   "Hoeuihada",
+   "Họp, hội nghị",
+   "오후에 회사에서 회의해요.",
+   "Buổi chiều tôi họp ở công ty."
+  ],
+  [
+   "방학",
+   "Banghak",
+   "Kỳ nghỉ (của học sinh)",
+   "방학에 여행을 해요.",
+   "Kỳ nghỉ tôi đi du lịch."
+  ],
+  [
+   "휴가",
+   "Hyuga",
+   "Kỳ nghỉ",
+   "팔월에 휴가가 있어요.",
+   "Tháng 8 tôi có kỳ nghỉ phép."
+  ],
+  [
+   "산",
+   "San",
+   "Núi",
+   "주말에 산에 가요.",
+   "Cuối tuần tôi đi núi."
+  ],
+  [
+   "졸업하다",
+   "Joreophada",
+   "Tốt nghiệp",
+   "언니는 이월에 대학교를 졸업해요.",
+   "Chị tôi tốt nghiệp đại học vào tháng 2."
+  ],
+  [
+   "생일 파티",
+   "Saengil pati",
+   "Tiệc sinh nhật",
+   "금요일에 생일 파티가 있어요.",
+   "Thứ Sáu có tiệc sinh nhật."
+  ],
+  [
+   "층",
+   "Cheung",
+   "Tầng",
+   "도서관은 사 층에 있어요.",
+   "Thư viện ở tầng 4."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "고유어 수사 — Số thuần Hàn",
+   "meaning": "하나 1, 둘 2, 셋 3, 넷 4, 다섯 5, 여섯 6, 일곱 7, 여덟 8, 아홉 9, 열 10, 스물 20, 서른 30... Dùng để đếm đồ vật, người, con vật, tuổi (살) và giờ (시). Số Hán Hàn (일, 이, 삼...) dùng cho ngày tháng, tiền, số phòng, số điện thoại, phút.",
+   "examples": [
+    "사과 하나 — một quả táo",
+    "친구가 다섯 명 있어요. — Tôi có năm người bạn.",
+    "천 원 / 삼백일 호 — 1.000 won / phòng 301 (số Hán Hàn)"
+   ]
+  },
+  {
+   "form": "수 관형사 (1) — Định từ số",
+   "meaning": "Khi đứng trước đơn vị đếm (개, 명, 살, 시, 권, 잔...), 하나→한, 둘→두, 셋→세, 넷→네, 스물→스무. Các số khác giữ nguyên. Cấu trúc: Danh từ + số + đơn vị.",
+   "examples": [
+    "사과 한 개 — một quả táo",
+    "학생 두 명 — hai học sinh",
+    "커피 세 잔 — ba cốc cà phê",
+    "스무 살 — hai mươi tuổi"
+   ]
+  },
+  {
+   "form": "V/A + 아/어요 — Đuôi câu thân mật lịch sự",
+   "meaning": "Dùng trong giao tiếp hằng ngày (lịch sự, mềm hơn ㅂ/습니다). Nguyên âm cuối của gốc là ㅏ, ㅗ → 아요; các nguyên âm khác → 어요; 하다 → 해요. Gốc kết thúc bằng nguyên âm thường rút gọn: 가다→가요, 보다→봐요, 마시다→마셔요. Danh từ: có patchim + 이에요, không patchim + 예요.",
+   "examples": [
+    "가다 → 가요, 좋다 → 좋아요",
+    "먹다 → 먹어요, 마시다 → 마셔요",
+    "공부하다 → 공부해요",
+    "저는 학생이에요. / 저는 강사예요. — Tôi là học sinh. / Tôi là giảng viên."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn cách đếm đúng: ba cốc cà phê.",
+   "kr": "커피 ___ 잔",
+   "options": [
+    "세",
+    "셋",
+    "삼"
+   ],
+   "answer": "세",
+   "explain": "Trước đơn vị đếm, 셋 đổi thành 세."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách đếm đúng: hai học sinh.",
+   "kr": "학생 ___ 명",
+   "options": [
+    "두",
+    "둘",
+    "이"
+   ],
+   "answer": "두",
+   "explain": "둘 → 두 khi đứng trước đơn vị đếm 명."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách đọc đúng: 20 tuổi.",
+   "kr": "___ 살",
+   "options": [
+    "스무",
+    "스물",
+    "이십"
+   ],
+   "answer": "스무",
+   "explain": "Tuổi dùng số thuần Hàn + 살; 스물 → 스무 trước đơn vị."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: phòng 301.",
+   "kr": "___ 호",
+   "options": [
+    "삼백일",
+    "세백하나",
+    "셋백한"
+   ],
+   "answer": "삼백일",
+   "explain": "Số phòng dùng số Hán Hàn: 삼백일 호."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: 10.000 won.",
+   "kr": "___ 원",
+   "options": [
+    "만",
+    "십천",
+    "열천"
+   ],
+   "answer": "만",
+   "explain": "10.000 = 만 (người Hàn đếm theo đơn vị vạn), không nói 십천."
+  },
+  {
+   "type": "fill",
+   "q": "Viết số Hán Hàn: 100.000 won",
+   "kr": "카메라는 ___ 원이에요.",
+   "answer": [
+    "십만"
+   ],
+   "explain": "100.000 = 십만 (mười vạn)."
+  },
+  {
+   "type": "fill",
+   "q": "Viết định từ số: một quyển sách",
+   "kr": "책 ___ 권",
+   "answer": [
+    "한"
+   ],
+   "explain": "하나 → 한 trước đơn vị 권."
+  },
+  {
+   "type": "fill",
+   "q": "Chia đuôi 아/어요: 가다 (đi)",
+   "kr": "주말에 산에 ___.",
+   "answer": [
+    "가요"
+   ],
+   "explain": "가 + 아요 → 가요 (rút gọn)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia đuôi 아/어요: 먹다 (ăn)",
+   "kr": "아침에 빵을 ___.",
+   "answer": [
+    "먹어요"
+   ],
+   "explain": "Nguyên âm ㅓ → 어요: 먹어요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia đuôi 아/어요: 공부하다 (học)",
+   "kr": "도서관에서 ___.",
+   "answer": [
+    "공부해요"
+   ],
+   "explain": "하다 → 해요."
+  },
+  {
+   "type": "choice",
+   "q": "Chia đúng đuôi 아/어요 của 보다 (xem):",
+   "kr": "영화를 ___.",
+   "options": [
+    "봐요",
+    "보어요",
+    "보아요요"
+   ],
+   "answer": "봐요",
+   "explain": "보 + 아요 → 보아요 → rút gọn 봐요 (thường dùng)."
+  },
+  {
+   "type": "choice",
+   "q": "Chia đúng đuôi 아/어요 của 마시다 (uống):",
+   "kr": "커피를 ___.",
+   "options": [
+    "마셔요",
+    "마시어요요",
+    "마사요"
+   ],
+   "answer": "마셔요",
+   "explain": "마시 + 어요 → 마시어요 → rút gọn 마셔요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đúng: Tôi là giảng viên.",
+   "kr": "저는 강사___.",
+   "options": [
+    "예요",
+    "이에요",
+    "아요"
+   ],
+   "answer": "예요",
+   "explain": "강사 không có patchim → 예요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đúng: Hôm nay là Tết.",
+   "kr": "오늘은 설날___.",
+   "options": [
+    "이에요",
+    "예요",
+    "어요"
+   ],
+   "answer": "이에요",
+   "explain": "설날 có patchim ㄹ → 이에요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Cuối tuần tôi làm thêm.",
+   "kr": "___에 아르바이트를 해요.",
+   "options": [
+    "주말",
+    "평일",
+    "지난주"
+   ],
+   "answer": "주말",
+   "explain": "주말 = cuối tuần; 평일 = ngày thường; 지난주 = tuần trước."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Tuần sau có bài thi.",
+   "kr": "___에 시험이 있어요.",
+   "options": [
+    "다음 주",
+    "지난주",
+    "이번 주"
+   ],
+   "answer": "다음 주",
+   "explain": "다음 주 = tuần sau."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thư viện ở tầng 4.",
+   "tokens": [
+    "도서관은",
+    "사 층에",
+    "있어요"
+   ],
+   "answer": "도서관은 사 층에 있어요",
+   "explain": "Tầng dùng số Hán Hàn: 사 층. N에 있어요 = có ở, nằm ở."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi có ba người bạn Hàn Quốc.",
+   "tokens": [
+    "한국 친구가",
+    "세 명",
+    "있어요"
+   ],
+   "answer": "한국 친구가 세 명 있어요",
+   "explain": "Danh từ + số (định từ) + đơn vị: 친구 세 명."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Kỳ nghỉ tôi đi leo núi với bạn.",
+   "tokens": [
+    "방학에",
+    "친구와",
+    "등산을",
+    "해요"
+   ],
+   "answer": "방학에 친구와 등산을 해요",
+   "explain": "Thời gian + 에 → người cùng + 와 → tân ngữ + 을 → động từ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cuối tuần tôi gặp bạn ở quán cà phê.",
+   "answer": [
+    "주말에 커피숍에서 친구를 만나요",
+    "저는 주말에 커피숍에서 친구를 만나요",
+    "주말에 커피숍에서 친구를 만납니다"
+   ],
+   "explain": "주말에 (thời gian) + 커피숍에서 (nơi hành động) + 친구를 + 만나요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cái túi này 10.000 won.",
+   "answer": [
+    "이 가방은 만 원이에요",
+    "이 가방은 만 원입니다",
+    "이 가방은 만원이에요"
+   ],
+   "explain": "이 가방 + 은 + 만 원 + 이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi uống hai cốc cà phê.",
+   "answer": [
+    "커피 두 잔을 마셔요",
+    "저는 커피 두 잔을 마셔요",
+    "커피를 두 잔 마셔요",
+    "저는 커피를 두 잔 마셔요"
+   ],
+   "explain": "커피 두 잔 (둘 → 두) + 을 + 마셔요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한글날은 시월 구 일이에요. 그리고 크리스마스는 십이월 이십오 일이에요.",
+   "answer": "Ngày Hangeul là ngày 9 tháng 10. Và Giáng sinh là ngày 25 tháng 12.",
+   "explain": "시월 = tháng 10 (bỏ patchim của 십); 구 일 = ngày 9."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "평일에는 회사에서 일해요. 주말에는 산에 가요.",
+   "answer": "Ngày thường tôi làm việc ở công ty. Cuối tuần tôi đi núi.",
+   "explain": "에는 = 에 + 는 (nhấn mạnh đối chiếu)."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn đáp án đúng với nội dung.",
+   "kr": "저는 다음 주 금요일에 졸업해요. 그리고 토요일에 집에서 파티를 해요. 친구가 열 명 와요. 일요일에는 가족과 산에 가요.",
+   "options": [
+    "Thứ Sáu tuần sau tôi tốt nghiệp.",
+    "Bữa tiệc ở quán cà phê.",
+    "Năm người bạn sẽ đến.",
+    "Chủ nhật tôi đi núi với bạn."
+   ],
+   "answer": "Thứ Sáu tuần sau tôi tốt nghiệp.",
+   "explain": "다음 주 금요일에 졸업해요 = thứ Sáu tuần sau tôi tốt nghiệp. Tiệc ở nhà (집에서), 10 người (열 명), Chủ nhật đi với gia đình (가족과)."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "설날에 고향에 가요. 추석에도 가족을 만나요.",
+   "options": [
+    "명절",
+    "주말",
+    "시험",
+    "방학"
+   ],
+   "answer": "명절",
+   "explain": "설날, 추석 đều là ngày lễ truyền thống → 명절."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ thích hợp điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "내일 시험이 있어요. 그래서 오늘 저녁에 도서관에서 ( ___ )을/를 해요.",
+   "options": [
+    "공부",
+    "등산",
+    "휴가",
+    "파티"
+   ],
+   "answer": "공부",
+   "explain": "Ngày mai có bài thi nên tối nay học ở thư viện (공부를 해요)."
+  }
+ ],
+ "practice": {
+  "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+  "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+ }
+}

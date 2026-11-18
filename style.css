@@ -352,3 +352,31 @@ h2::after{content:" ✧";color:var(--gold);font-size:.7em}
 .bottom a.on{background:linear-gradient(135deg,var(--celadon-wash),var(--lav-wash))}
 .badge{background:linear-gradient(135deg,#F28DB8,#B97AD6)}
 .pattern h3::before{content:"♕ ";color:var(--gold)}
+
+/* ===== roadmap ===== */
+.today{background:var(--card);border:1px solid var(--line);border-radius:var(--radius-lg);padding:16px;margin-top:6px;
+  box-shadow:0 0 0 3px rgba(255,255,255,.6) inset,0 12px 28px -22px rgba(180,70,130,.6)}
+.today h3{font-size:17px;margin:4px 0 6px}
+.today-h{display:flex;justify-content:space-between;align-items:center}
+.day-badge{font-family:var(--deco);font-size:24px;color:var(--celadon-deep)}
+.road{position:relative;height:8px;border-radius:4px;background:var(--line);margin:14px 0 12px}
+.road i{display:block;height:100%;border-radius:4px;background:linear-gradient(90deg,var(--gold),#F49CC3,var(--lav))}
+.crown-pin{position:absolute;top:-14px;transform:translateX(-50%);color:var(--gold);font-size:20px;text-shadow:0 1px 0 #fff}
+.prac{list-style:none;margin:0 0 4px;padding:0;display:grid;gap:6px}
+.prac li{font-size:14px;background:var(--lav-wash);border-radius:10px;padding:8px 10px}
+.prac a{text-decoration:none;color:var(--ink)}
+.plan{list-style:none;margin:16px 0 0;padding:0;display:grid;gap:8px}
+.plan li{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:10px 12px}
+.plan .pd{flex:none;width:52px;text-align:center;display:flex;flex-direction:column;line-height:1.1}
+.plan .pd b{font-family:var(--deco);font-size:26px;color:var(--celadon-deep)}
+.plan .pd span{font-size:12px;color:var(--ink-3)}
+.plan .pc{min-width:0}.plan .pc a{text-decoration:none;color:inherit}
+.plan .pt{font-weight:600;font-size:15px}
+.plan li.past{opacity:.6}
+.plan li.now{border:2px solid var(--celadon);background:linear-gradient(135deg,var(--celadon-wash),var(--lav-wash))}
+.plan li.review{background:linear-gradient(135deg,#FFF6DA,var(--card))}
+:root[data-theme="dark"] .plan li.review{background:var(--gold-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .plan li.review{background:var(--gold-soft)}}
+.passage{display:block;font-family:var(--kr);font-size:18px;font-weight:400;line-height:1.7;background:var(--lav-wash);border-radius:12px;padding:12px 14px}
+.support>*,.today{min-width:0}
+.cal{grid-template-columns:repeat(14,minmax(0,1fr))}
