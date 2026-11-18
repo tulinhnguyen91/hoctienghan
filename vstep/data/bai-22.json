@@ -1,0 +1,498 @@
+{
+ "id": "bai-22",
+ "lesson": "Bài 22",
+ "day": 16,
+ "date": "2026-12-04",
+ "title": "Giới trẻ & các thế hệ",
+ "enTitle": "Youth & Generations",
+ "past": false,
+ "words": [
+  [
+   "Generation Z",
+   "/ˌdʒenəˈreɪʃn zed/ · n",
+   "thế hệ Z",
+   "Generation Z grew up with smartphones and social media.",
+   "Thế hệ Z lớn lên cùng điện thoại thông minh và mạng xã hội."
+  ],
+  [
+   "millennials",
+   "/mɪˈleniəlz/ · n",
+   "thế hệ Y (sinh ~1981–1996)",
+   "Many millennials are now raising young children.",
+   "Nhiều người thế hệ Y giờ đang nuôi con nhỏ."
+  ],
+  [
+   "role model",
+   "/ˈrəʊl mɒdl/ · n",
+   "hình mẫu",
+   "Parents should be good role models for their children.",
+   "Cha mẹ nên là hình mẫu tốt cho con cái."
+  ],
+  [
+   "rebellious",
+   "/rɪˈbeljəs/ · adj",
+   "nổi loạn",
+   "Teenagers often become rebellious when parents are too strict.",
+   "Thiếu niên thường nổi loạn khi cha mẹ quá nghiêm."
+  ],
+  [
+   "independent",
+   "/ˌɪndɪˈpendənt/ · adj",
+   "tự lập",
+   "Living alone helps young people become more independent.",
+   "Sống một mình giúp người trẻ tự lập hơn."
+  ],
+  [
+   "respect one's elders",
+   "/rɪˈspekt wʌnz ˈeldəz/ · v phr",
+   "kính trọng người lớn tuổi",
+   "In Vietnam, children are taught to respect their elders.",
+   "Ở Việt Nam, trẻ được dạy kính trọng người lớn."
+  ],
+  [
+   "pass down",
+   "/pɑːs ˈdaʊn/ · phr v",
+   "truyền lại (cho thế hệ sau)",
+   "My grandmother passed down her recipes to my mother.",
+   "Bà tôi truyền lại công thức nấu ăn cho mẹ tôi."
+  ],
+  [
+   "upbringing",
+   "/ˈʌpbrɪŋɪŋ/ · n",
+   "sự nuôi dạy, giáo dưỡng",
+   "A strict upbringing does not always produce successful adults.",
+   "Sự nuôi dạy nghiêm khắc không phải lúc nào cũng tạo ra người thành công."
+  ],
+  [
+   "overprotective",
+   "/ˌəʊvəprəˈtektɪv/ · adj",
+   "bao bọc quá mức",
+   "Overprotective parents may prevent children from learning from mistakes.",
+   "Cha mẹ bao bọc quá mức có thể khiến con không học được từ sai lầm."
+  ],
+  [
+   "spoilt (spoiled)",
+   "/spɔɪlt/ · adj",
+   "được nuông chiều, hư",
+   "Children who get everything they want may become spoilt.",
+   "Trẻ muốn gì được nấy có thể trở nên hư."
+  ],
+  [
+   "youth unemployment",
+   "/juːθ ˌʌnɪmˈplɔɪmənt/ · n",
+   "thất nghiệp ở người trẻ",
+   "Youth unemployment is a concern in many countries.",
+   "Thất nghiệp ở người trẻ là mối lo ở nhiều nước."
+  ],
+  [
+   "volunteer work",
+   "/ˌvɒlənˈtɪə wɜːk/ · n",
+   "công việc tình nguyện",
+   "Volunteer work teaches young people to care for others.",
+   "Công việc tình nguyện dạy người trẻ biết quan tâm người khác."
+  ],
+  [
+   "grow up",
+   "/ɡrəʊ ˈʌp/ · phr v",
+   "lớn lên",
+   "I grew up in a small village in Nghe An.",
+   "Tôi lớn lên ở một ngôi làng nhỏ ở Nghệ An."
+  ],
+  [
+   "look up to",
+   "/lʊk ˈʌp tə/ · phr v",
+   "ngưỡng mộ, kính trọng",
+   "I have always looked up to my older sister.",
+   "Tôi luôn ngưỡng mộ chị gái."
+  ],
+  [
+   "take after",
+   "/teɪk ˈɑːftə/ · phr v",
+   "giống (bố mẹ, người thân)",
+   "She takes after her father — they are both very calm.",
+   "Cô ấy giống bố — cả hai đều rất điềm tĩnh."
+  ],
+  [
+   "traditional values",
+   "/trəˈdɪʃənl ˈvæljuːz/ · n",
+   "giá trị truyền thống",
+   "Young people should combine modern ideas with traditional values.",
+   "Người trẻ nên kết hợp ý tưởng hiện đại với giá trị truyền thống."
+  ],
+  [
+   "outlook on life",
+   "/ˈaʊtlʊk ɒn laɪf/ · n",
+   "cách nhìn cuộc sống",
+   "Travelling abroad changed my outlook on life.",
+   "Du lịch nước ngoài đã thay đổi cách nhìn cuộc sống của tôi."
+  ],
+  [
+   "open-minded",
+   "/ˌəʊpən ˈmaɪndɪd/ · adj",
+   "cởi mở",
+   "Young people today are more open-minded about different cultures.",
+   "Người trẻ ngày nay cởi mở hơn với các nền văn hóa khác."
+  ],
+  [
+   "settle down",
+   "/ˌsetl ˈdaʊn/ · phr v",
+   "ổn định cuộc sống (lập gia đình)",
+   "Many people want to travel before they settle down.",
+   "Nhiều người muốn đi du lịch trước khi ổn định cuộc sống."
+  ],
+  [
+   "mutual respect",
+   "/ˈmjuːtʃuəl rɪˈspekt/ · n",
+   "sự tôn trọng lẫn nhau",
+   "Good relationships between generations are based on mutual respect.",
+   "Quan hệ tốt giữa các thế hệ dựa trên sự tôn trọng lẫn nhau."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "would + V vs used to + V — thói quen quá khứ",
+   "meaning": "used to + V: thói quen HOẶC trạng thái trong quá khứ, nay không còn (I used to live / I used to have long hair). would + V: CHỈ dùng cho hành động lặp lại trong quá khứ, không dùng cho trạng thái (KHÔNG nói 'I would live there').",
+   "examples": [
+    "When I was a child, my grandmother would tell me stories every night. — Hồi nhỏ, tối nào bà cũng kể chuyện cho tôi.",
+    "We used to live in an extended family. — Chúng tôi từng sống trong đại gia đình.",
+    "My father used to be very strict. — Bố tôi từng rất nghiêm khắc."
+   ]
+  },
+  {
+   "form": "be used to / get used to + V-ing (ôn và mở rộng)",
+   "meaning": "be used to + V-ing/N: đã quen. get used to + V-ing/N: dần quen. Chia được ở mọi thì: I'm getting used to…, I will soon get used to…, I wasn't used to… Phân biệt: used to V (từng) — không có 'be'.",
+   "examples": [
+    "Gen Z is used to communicating through messages. — Thế hệ Z quen giao tiếp qua tin nhắn.",
+    "My parents are slowly getting used to using smartphones. — Bố mẹ tôi đang dần quen dùng điện thoại thông minh.",
+    "At first, I wasn't used to living alone. — Ban đầu, tôi chưa quen sống một mình."
+   ]
+  },
+  {
+   "form": "It takes / spend / waste + thời gian (ôn và mở rộng)",
+   "meaning": "It takes (sb) + time + to V = sb + spend + time + V-ing. waste + time/money + V-ing (phí). There is no point in V-ing (chẳng ích gì). It's worth V-ing (đáng để làm).",
+   "examples": [
+    "It took my grandparents years to get used to city life. — Ông bà tôi mất nhiều năm để quen cuộc sống thành phố.",
+    "Teenagers spend hours chatting online. — Thiếu niên dành hàng giờ để nhắn tin.",
+    "There is no point in arguing with your parents. — Cãi nhau với bố mẹ chẳng ích gì.",
+    "It's worth listening to your grandparents' advice. — Lời khuyên của ông bà đáng để lắng nghe."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "When I was a child, my grandmother ___ tell me stories every night.",
+   "options": [
+    "would",
+    "is used to",
+    "was used to",
+    "gets used to"
+   ],
+   "answer": "would",
+   "explain": "Hành động lặp lại trong quá khứ → would + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "We ___ live in a big house in the countryside.",
+   "options": [
+    "would",
+    "used to",
+    "are used to",
+    "get used to"
+   ],
+   "answer": "used to",
+   "explain": "Trạng thái quá khứ (live) → used to, không dùng would."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Gen Z is used to ___ through messages.",
+   "options": [
+    "communicate",
+    "communicating",
+    "communicated",
+    "be communicating"
+   ],
+   "answer": "communicating",
+   "explain": "be used to + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "My parents are slowly getting used to ___ smartphones.",
+   "options": [
+    "use",
+    "using",
+    "used",
+    "uses"
+   ],
+   "answer": "using",
+   "explain": "get used to + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "There is no point ___ with your parents.",
+   "options": [
+    "to argue",
+    "in arguing",
+    "arguing about",
+    "for argue"
+   ],
+   "answer": "in arguing",
+   "explain": "There is no point in V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "I have always looked up ___ my older sister.",
+   "options": [
+    "at",
+    "to",
+    "for",
+    "on"
+   ],
+   "answer": "to",
+   "explain": "look up to = ngưỡng mộ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "She takes ___ her father — they are both very calm.",
+   "options": [
+    "over",
+    "after",
+    "up",
+    "on"
+   ],
+   "answer": "after",
+   "explain": "take after = giống."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "At first, I wasn't used to ___ (live) alone.",
+   "answer": [
+    "living"
+   ],
+   "explain": "be used to + V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "It ___ my grandparents years to get used to city life.",
+   "answer": [
+    "took"
+   ],
+   "explain": "It takes/took sb time to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "It's worth ___ (listen) to your grandparents' advice.",
+   "answer": [
+    "listening"
+   ],
+   "explain": "It's worth + V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Many people want to travel before they settle ___.",
+   "answer": [
+    "down"
+   ],
+   "explain": "settle down = ổn định."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "My",
+    "grandmother",
+    "passed",
+    "down",
+    "her",
+    "recipes",
+    "to",
+    "my",
+    "mother."
+   ],
+   "answer": "My grandmother passed down her recipes to my mother.",
+   "explain": "pass down = truyền lại."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Teenagers",
+    "spend",
+    "hours",
+    "chatting",
+    "online",
+    "every",
+    "day."
+   ],
+   "answer": "Teenagers spend hours chatting online every day.",
+   "explain": "spend time + V-ing."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Hồi nhỏ, tôi từng sống với ông bà.",
+   "answer": [
+    "When I was a child, I used to live with my grandparents.",
+    "When I was little, I used to live with my grandparents.",
+    "I used to live with my grandparents when I was a child.",
+    "As a child, I used to live with my grandparents.",
+    "When I was young, I used to live with my grandparents."
+   ],
+   "explain": "used to + V (trạng thái quá khứ)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi đã quen với việc dậy sớm.",
+   "answer": [
+    "I am used to getting up early.",
+    "I'm used to getting up early.",
+    "I am used to waking up early.",
+    "I'm used to waking up early.",
+    "I have got used to getting up early.",
+    "I've got used to getting up early."
+   ],
+   "explain": "be used to + V-ing."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Good relationships between generations are based on mutual respect.",
+   "answer": "Mối quan hệ tốt đẹp giữa các thế hệ dựa trên sự tôn trọng lẫn nhau.",
+   "explain": "be based on = dựa trên."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "When my father was a teenager in the 1980s, life was very different. He would wake up at five every morning to help his parents on the farm before school. He used to walk six kilometres to school because the family did not own a bicycle. Today, my younger brother spends most of his free time playing online games and is used to ordering food through an app. My father sometimes worries that young people are becoming spoilt. However, he also admits that Generation Z is more open-minded and ( ___ ) at technology than his generation was.",
+   "options": [
+    "better",
+    "good",
+    "best",
+    "well"
+   ],
+   "answer": "better",
+   "explain": "So sánh hơn với 'than' → better (good at)."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Hồi thiếu niên, bố tác giả đi học bằng cách nào?",
+   "en": "When my father was a teenager in the 1980s, life was very different. He would wake up at five every morning to help his parents on the farm before school. He used to walk six kilometres to school because the family did not own a bicycle. Today, my younger brother spends most of his free time playing online games and is used to ordering food through an app. My father sometimes worries that young people are becoming spoilt. However, he also admits that Generation Z is more open-minded and ( ___ ) at technology than his generation was.",
+   "options": [
+    "Đi bộ sáu cây số",
+    "Đi xe đạp",
+    "Đi xe buýt",
+    "Bố mẹ chở"
+   ],
+   "answer": "Đi bộ sáu cây số",
+   "explain": "'He used to walk six kilometres to school'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Người trẻ giúp ông bà điều gì?",
+   "en": "In many Vietnamese families, three generations still live under the same roof. This can lead to conflicts, as grandparents and teenagers often have different outlooks on life. However, sociologists point out that such families also have many advantages. Grandparents pass down traditional values and family stories, while young people help older members get used to new technology. The key, experts say, is mutual respect: there is no point in arguing about who is right.",
+   "options": [
+    "Làm quen với công nghệ mới",
+    "Nấu ăn",
+    "Kể chuyện gia đình",
+    "Làm ruộng"
+   ],
+   "answer": "Làm quen với công nghệ mới",
+   "explain": "'young people help older members get used to new technology'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Theo chuyên gia, chìa khóa để các thế hệ sống hòa hợp là:",
+   "en": "In many Vietnamese families, three generations still live under the same roof. This can lead to conflicts, as grandparents and teenagers often have different outlooks on life. However, sociologists point out that such families also have many advantages. Grandparents pass down traditional values and family stories, while young people help older members get used to new technology. The key, experts say, is mutual respect: there is no point in arguing about who is right.",
+   "options": [
+    "Tôn trọng lẫn nhau",
+    "Sống riêng",
+    "Tranh luận để tìm ra ai đúng",
+    "Dùng nhiều công nghệ"
+   ],
+   "answer": "Tôn trọng lẫn nhau",
+   "explain": "'The key… is mutual respect'."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Two-part question: Người trẻ ngày nay và ông bà",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Nowadays, young people spend less time with their grandparents than in the past.\nWhy is this happening? Is this a positive or negative development?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: It is becoming increasingly common for… + trả lời ngắn 2 câu hỏi",
+   "Thân 1 – lý do: gia đình hạt nhân, di cư lên thành phố, áp lực học, dành giờ cho mạng xã hội",
+   "Thân 2 – đánh giá: tiêu cực (mất giá trị truyền thống được truyền lại, ông bà cô đơn) + nhượng bộ",
+   "Dùng used to / would để so sánh với quá khứ",
+   "Kết bài: tóm 2 câu trả lời + gợi ý"
+  ],
+  "phrases": [
+   "In the past, children would spend… with their grandparents. — Ngày xưa, trẻ con thường dành… bên ông bà.",
+   "This trend can be explained by several factors. — Xu hướng này có thể giải thích bằng nhiều yếu tố.",
+   "Many young people are used to spending their free time online. — Nhiều bạn trẻ đã quen dành thời gian rảnh trên mạng.",
+   "In my view, this is largely a negative development because … — Theo tôi, đây phần lớn là xu hướng tiêu cực vì …",
+   "Grandparents pass down traditional values that … — Ông bà truyền lại những giá trị truyền thống mà …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: Young people today",
+  "prompt": "Topic: Young people today have a better life than their parents did.\nIdeas: • more educational opportunities • better technology • more freedom to choose a career\nFollow-up: What are the biggest problems young people face today?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "What are the biggest problems young people face today?",
+   "Who do you look up to? Why?"
+  ],
+  "ideas": [
+   "Compared with our parents' generation, …",
+   "When my parents were young, they would…, whereas today…",
+   "Thanks to technology, we are used to…",
+   "However, young people also face pressure to…",
+   "Overall, I'd say…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Youth is the gift of nature, but age is a work of art.",
+   "vi": "Tuổi trẻ là món quà của tự nhiên, còn tuổi tác là một tác phẩm nghệ thuật."
+  },
+  "pron": {
+   "title": "Đọc 'used to' đúng",
+   "rule": "'used to' đọc /ˈjuːstə/ (âm /s/, không phải /z/). 'use' (động từ: dùng) mới đọc /juːz/.",
+   "examples": [
+    "used to → /ˈjuːstə/",
+    "be used to → /biː ˈjuːstə/",
+    "I used it → /juːzd/"
+   ]
+  },
+  "phrases": [
+   [
+    "the apple doesn't fall far from the tree",
+    "con nhà tông không giống lông cũng giống cánh"
+   ],
+   [
+    "a generation gap",
+    "khoảng cách thế hệ"
+   ],
+   [
+    "come of age",
+    "đến tuổi trưởng thành"
+   ]
+  ],
+  "mistake": "Hay viết 'I'm used to wake up early'. Sau be/get used to phải là V-ing: I'm used to waking up early.",
+  "tip": "Writing dạng Two-part question: thân 1 trả lời ĐÚNG câu hỏi 1, thân 2 trả lời ĐÚNG câu hỏi 2. Nêu rõ positive/negative ở mở bài và kết bài.",
+  "diary": "So sánh tuổi thơ của bạn với bây giờ trong 3–5 câu, dùng used to, would và be/get used to."
+ }
+}

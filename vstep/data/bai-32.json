@@ -1,0 +1,490 @@
+{
+ "id": "bai-32",
+ "lesson": "Bài 32",
+ "day": 27,
+ "date": "2026-12-15",
+ "title": "Động vật & bảo tồn",
+ "enTitle": "Wildlife & Conservation",
+ "past": false,
+ "words": [
+  [
+   "wildlife",
+   "/ˈwaɪldlaɪf/ · n",
+   "động vật hoang dã",
+   "Cuc Phuong National Park is home to many kinds of wildlife.",
+   "Vườn quốc gia Cúc Phương là nhà của nhiều loài động vật hoang dã."
+  ],
+  [
+   "conservation",
+   "/ˌkɒnsəˈveɪʃn/ · n",
+   "sự bảo tồn",
+   "Conservation projects help protect rare animals.",
+   "Các dự án bảo tồn giúp bảo vệ động vật quý hiếm."
+  ],
+  [
+   "habitat loss",
+   "/ˈhæbɪtæt lɒs/ · n",
+   "mất môi trường sống",
+   "Habitat loss is the main threat to wild elephants in Vietnam.",
+   "Mất môi trường sống là mối đe dọa chính với voi rừng ở Việt Nam."
+  ],
+  [
+   "extinct",
+   "/ɪkˈstɪŋkt/ · adj",
+   "tuyệt chủng",
+   "The Javan rhino became extinct in Vietnam in 2010.",
+   "Tê giác Java đã tuyệt chủng ở Việt Nam năm 2010."
+  ],
+  [
+   "on the brink of extinction",
+   "/ɒn ðə brɪŋk əv ɪkˈstɪŋkʃn/ · phr",
+   "bên bờ tuyệt chủng",
+   "The saola is on the brink of extinction.",
+   "Sao la đang bên bờ tuyệt chủng."
+  ],
+  [
+   "poaching",
+   "/ˈpəʊtʃɪŋ/ · n",
+   "săn trộm",
+   "Poaching for ivory has killed thousands of elephants.",
+   "Săn trộm lấy ngà đã giết hàng nghìn con voi."
+  ],
+  [
+   "illegal wildlife trade",
+   "/ɪˈliːɡl ˈwaɪldlaɪf treɪd/ · n",
+   "buôn bán động vật hoang dã trái phép",
+   "The illegal wildlife trade is worth billions of dollars.",
+   "Buôn bán động vật hoang dã trái phép trị giá hàng tỷ đô."
+  ],
+  [
+   "national park",
+   "/ˌnæʃnəl ˈpɑːk/ · n",
+   "vườn quốc gia",
+   "Hunting is strictly forbidden in national parks.",
+   "Săn bắn bị cấm nghiêm ngặt ở vườn quốc gia."
+  ],
+  [
+   "biodiversity",
+   "/ˌbaɪəʊdaɪˈvɜːsəti/ · n",
+   "đa dạng sinh học",
+   "Vietnam is one of the countries with the highest biodiversity in Asia.",
+   "Việt Nam là một trong những nước có đa dạng sinh học cao nhất châu Á."
+  ],
+  [
+   "wildlife sanctuary",
+   "/ˈwaɪldlaɪf ˈsæŋktʃuəri/ · n",
+   "khu bảo tồn động vật",
+   "Rescued bears are taken to a wildlife sanctuary.",
+   "Gấu được cứu được đưa vào khu bảo tồn."
+  ],
+  [
+   "captivity",
+   "/kæpˈtɪvəti/ · n",
+   "sự nuôi nhốt",
+   "Animals in captivity often show signs of stress.",
+   "Động vật bị nuôi nhốt thường có dấu hiệu căng thẳng."
+  ],
+  [
+   "release into the wild",
+   "/rɪˈliːs ˈɪntə ðə waɪld/ · v phr",
+   "thả về tự nhiên",
+   "The turtles were released into the wild after treatment.",
+   "Những con rùa được thả về tự nhiên sau khi chữa trị."
+  ],
+  [
+   "rescue centre",
+   "/ˈreskjuː ˈsentə/ · n",
+   "trung tâm cứu hộ",
+   "The rescue centre cares for animals confiscated from traders.",
+   "Trung tâm cứu hộ chăm sóc động vật thu giữ từ con buôn."
+  ],
+  [
+   "ecosystem",
+   "/ˈiːkəʊsɪstəm/ · n",
+   "hệ sinh thái",
+   "Removing one species can damage the whole ecosystem.",
+   "Loại bỏ một loài có thể làm hỏng cả hệ sinh thái."
+  ],
+  [
+   "animal welfare",
+   "/ˈænɪml ˈwelfeə/ · n",
+   "phúc lợi động vật",
+   "Animal welfare groups oppose the use of animals in circuses.",
+   "Các nhóm phúc lợi động vật phản đối dùng thú trong rạp xiếc."
+  ],
+  [
+   "pangolin",
+   "/ˈpæŋɡəlɪn/ · n",
+   "tê tê",
+   "Pangolins are the most trafficked mammals in the world.",
+   "Tê tê là loài thú bị buôn lậu nhiều nhất thế giới."
+  ],
+  [
+   "coral reef",
+   "/ˈkɒrəl riːf/ · n",
+   "rạn san hô",
+   "Coral reefs are dying because the ocean is getting warmer.",
+   "Rạn san hô đang chết dần vì đại dương nóng lên."
+  ],
+  [
+   "protect sth from",
+   "/prəˈtekt frəm/ · v",
+   "bảo vệ… khỏi",
+   "Rangers protect animals from hunters.",
+   "Kiểm lâm bảo vệ động vật khỏi thợ săn."
+  ],
+  [
+   "raise funds",
+   "/reɪz fʌndz/ · v phr",
+   "gây quỹ",
+   "The students raised funds to support the rescue centre.",
+   "Sinh viên gây quỹ hỗ trợ trung tâm cứu hộ."
+  ],
+  [
+   "zoo",
+   "/zuː/ · n",
+   "sở thú",
+   "Some people believe zoos play an important role in conservation.",
+   "Một số người tin sở thú có vai trò quan trọng trong bảo tồn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Under no circumstances / On no account + đảo ngữ",
+   "meaning": "Dùng cho lệnh cấm mạnh: Under no circumstances / On no account / In no case + trợ động từ + S + V (= không đời nào, tuyệt đối không). Rất trang trọng, hợp Writing.",
+   "examples": [
+    "You must not feed the animals. → On no account should you feed the animals. — Tuyệt đối không cho động vật ăn.",
+    "Under no circumstances will poachers be forgiven. — Không đời nào kẻ săn trộm được tha thứ.",
+    "Under no circumstances should visitors touch the coral. — Du khách tuyệt đối không được chạm vào san hô."
+   ]
+  },
+  {
+   "form": "Little / At no time / In no way / Nowhere + đảo ngữ",
+   "meaning": "Little did S + V: chẳng hề biết/nghĩ. At no time + trợ ĐT + S: chưa lúc nào. In no way + trợ ĐT + S: không hề. Nowhere + trợ ĐT + S: không nơi nào.",
+   "examples": [
+    "Little did we know that the saola still existed. — Chúng tôi chẳng hề biết sao la vẫn còn tồn tại.",
+    "At no time did the rangers stop protecting the forest. — Chưa lúc nào kiểm lâm ngừng bảo vệ rừng.",
+    "In no way does captivity replace a natural habitat. — Nuôi nhốt không hề thay thế được môi trường sống tự nhiên.",
+    "Nowhere else can you see so many species of primates. — Không nơi nào khác bạn thấy nhiều loài linh trưởng như vậy."
+   ]
+  },
+  {
+   "form": "So + adj + be + S + that / Such + be + N + that (đảo ngữ, ôn)",
+   "meaning": "So + adj/adv + trợ ĐT/be + S + that… Such + be + N + that… (nhấn mạnh mức độ). Dạng thường: S + be + so + adj + that…",
+   "examples": [
+    "So serious is habitat loss that many species may disappear. — Mất môi trường sống nghiêm trọng đến mức nhiều loài có thể biến mất.",
+    "Such is the demand for ivory that poaching continues. — Nhu cầu ngà voi lớn đến mức nạn săn trộm vẫn tiếp diễn.",
+    "So quickly are coral reefs dying that scientists are worried. — San hô chết nhanh đến mức các nhà khoa học lo ngại."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đảo ngữ đúng",
+   "en": "___ should you feed the animals.",
+   "options": [
+    "On no account",
+    "On any account",
+    "Not account",
+    "No account on"
+   ],
+   "answer": "On no account",
+   "explain": "On no account + should + S + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đảo ngữ đúng",
+   "en": "Under no circumstances ___ the coral.",
+   "options": [
+    "visitors should touch",
+    "should visitors touch",
+    "visitors touch",
+    "touch visitors"
+   ],
+   "answer": "should visitors touch",
+   "explain": "Đảo trợ động từ: should visitors touch."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đảo ngữ đúng",
+   "en": "Little ___ that the saola still existed.",
+   "options": [
+    "we knew",
+    "did we know",
+    "we did know",
+    "knew we"
+   ],
+   "answer": "did we know",
+   "explain": "Little + did + S + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đảo ngữ đúng",
+   "en": "At no time ___ protecting the forest.",
+   "options": [
+    "the rangers stopped",
+    "did the rangers stop",
+    "stopped the rangers",
+    "the rangers did stop"
+   ],
+   "answer": "did the rangers stop",
+   "explain": "At no time + did + S + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đảo ngữ đúng",
+   "en": "So serious ___ habitat loss that many species may disappear.",
+   "options": [
+    "habitat loss is",
+    "is",
+    "it is",
+    "does"
+   ],
+   "answer": "is",
+   "explain": "So + adj + be + S + that."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "The saola is on the ___ of extinction.",
+   "options": [
+    "edge of",
+    "brink",
+    "side",
+    "top"
+   ],
+   "answer": "brink",
+   "explain": "on the brink of extinction."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Animals in ___ often show signs of stress.",
+   "options": [
+    "captivity",
+    "capture",
+    "captive",
+    "captain"
+   ],
+   "answer": "captivity",
+   "explain": "in captivity = bị nuôi nhốt."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "___ is the demand for ivory that poaching continues.",
+   "answer": [
+    "Such"
+   ],
+   "explain": "Such + be + N + that."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "In no way ___ captivity replace a natural habitat.",
+   "answer": [
+    "does"
+   ],
+   "explain": "In no way + does + S + V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The turtles were released ___ the wild after treatment.",
+   "answer": [
+    "into"
+   ],
+   "explain": "release into the wild."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The students raised ___ to support the rescue centre.",
+   "answer": [
+    "funds",
+    "money"
+   ],
+   "explain": "raise funds = gây quỹ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Under",
+    "no",
+    "circumstances",
+    "will",
+    "poachers",
+    "be",
+    "forgiven."
+   ],
+   "answer": "Under no circumstances will poachers be forgiven.",
+   "explain": "Under no circumstances + will + S."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Rangers",
+    "protect",
+    "animals",
+    "from",
+    "hunters."
+   ],
+   "answer": "Rangers protect animals from hunters.",
+   "explain": "protect sb/sth from."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tuyệt đối không được cho thú ăn. (dùng On no account)",
+   "answer": [
+    "On no account should you feed the animals.",
+    "On no account must you feed the animals.",
+    "On no account should visitors feed the animals."
+   ],
+   "explain": "On no account + should/must + S + V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tê tê là loài thú bị buôn lậu nhiều nhất thế giới.",
+   "answer": [
+    "Pangolins are the most trafficked mammals in the world.",
+    "The pangolin is the most trafficked mammal in the world.",
+    "Pangolins are the most smuggled mammals in the world."
+   ],
+   "explain": "the most trafficked."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Removing one species can damage the whole ecosystem.",
+   "answer": "Loại bỏ một loài có thể làm hại toàn bộ hệ sinh thái.",
+   "explain": "ecosystem = hệ sinh thái."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "The saola, sometimes called the 'Asian unicorn', was only discovered by scientists in 1992 in the forests along the Vietnam–Laos border. Little did they know at the time that it would become one of the rarest animals on Earth. Today, the saola is on the brink of extinction, mainly because of snares set by hunters for other animals. Conservation groups have removed thousands of snares from the forest. So rare ( ___ ) the saola that no scientist has seen one in the wild for many years.",
+   "options": [
+    "is",
+    "does",
+    "has",
+    "was being"
+   ],
+   "answer": "is",
+   "explain": "So + adj + is + S (the saola)."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Nguyên nhân chính khiến sao la gần tuyệt chủng là:",
+   "en": "The saola, sometimes called the 'Asian unicorn', was only discovered by scientists in 1992 in the forests along the Vietnam–Laos border. Little did they know at the time that it would become one of the rarest animals on Earth. Today, the saola is on the brink of extinction, mainly because of snares set by hunters for other animals. Conservation groups have removed thousands of snares from the forest. So rare ( ___ ) the saola that no scientist has seen one in the wild for many years.",
+   "options": [
+    "Bẫy của thợ săn đặt cho các loài khác",
+    "Mất nguồn nước",
+    "Bệnh dịch",
+    "Bị nuôi trong sở thú"
+   ],
+   "answer": "Bẫy của thợ săn đặt cho các loài khác",
+   "explain": "'mainly because of snares set by hunters for other animals'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Những người ủng hộ sở thú cho rằng sở thú:",
+   "en": "Are zoos good or bad for animals? Supporters argue that modern zoos play an important role in conservation. They breed endangered animals and release some of them into the wild, and they also teach children about biodiversity. Critics, however, say that in no way can a small cage replace a natural habitat. Animals in captivity often show signs of stress, such as walking up and down for hours. Many animal welfare groups believe that money should be spent on protecting habitats instead of building zoos.",
+   "options": [
+    "Nhân giống, thả loài quý về tự nhiên và giáo dục trẻ em",
+    "Thay thế môi trường sống",
+    "Rẻ hơn rừng",
+    "Không gây căng thẳng cho thú"
+   ],
+   "answer": "Nhân giống, thả loài quý về tự nhiên và giáo dục trẻ em",
+   "explain": "Câu 2–3."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Các nhóm phúc lợi động vật đề xuất:",
+   "en": "Are zoos good or bad for animals? Supporters argue that modern zoos play an important role in conservation. They breed endangered animals and release some of them into the wild, and they also teach children about biodiversity. Critics, however, say that in no way can a small cage replace a natural habitat. Animals in captivity often show signs of stress, such as walking up and down for hours. Many animal welfare groups believe that money should be spent on protecting habitats instead of building zoos.",
+   "options": [
+    "Dùng tiền bảo vệ môi trường sống thay vì xây sở thú",
+    "Xây thêm sở thú",
+    "Đóng cửa vườn quốc gia",
+    "Bán vé đắt hơn"
+   ],
+   "answer": "Dùng tiền bảo vệ môi trường sống thay vì xây sở thú",
+   "explain": "Câu cuối."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư đề xuất cho ban quản lý vườn quốc gia",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "You recently visited a national park and noticed that some visitors were feeding animals and leaving rubbish.\nWrite a letter to the park manager. In your letter:\n• describe what you saw\n• explain why it is a problem\n• suggest what the park should do.\nYou should write at least 120 words.",
+  "outline": [
+   "Dear Sir or Madam, + I am writing to express my concern about…",
+   "Đoạn 1: mô tả điều bạn thấy (when, where), dùng narrative tenses",
+   "Đoạn 2: vì sao nguy hại (động vật, hệ sinh thái), có thể dùng So serious is… that…",
+   "Đoạn 3: đề xuất (biển báo On no account should visitors…, phạt tiền, thêm thùng rác, kiểm lâm)",
+   "Kết: I hope you will consider my suggestions. / Yours faithfully,"
+  ],
+  "phrases": [
+   "I am writing to express my concern about … — Tôi viết thư để bày tỏ lo ngại về …",
+   "During my visit last weekend, I noticed that … — Trong chuyến thăm cuối tuần trước, tôi để ý rằng …",
+   "This can be extremely harmful because … — Điều này có thể cực kỳ nguy hại vì …",
+   "I would like to suggest that the park put up signs saying … — Tôi đề xuất vườn đặt biển ghi …",
+   "I hope you will take these suggestions into consideration. — Mong ông/bà cân nhắc các đề xuất này."
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: Protecting wildlife",
+  "prompt": "Topic: We should do more to protect wild animals.\nIdeas: • stopping the illegal wildlife trade • protecting natural habitats • educating the public\nFollow-up: Are zoos good or bad for animals?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Are zoos good or bad for animals?",
+   "Have you ever visited a national park? What was it like?"
+  ],
+  "ideas": [
+   "Little did I know before reading about it that…",
+   "First of all, the illegal wildlife trade…",
+   "Habitat loss is so serious that…",
+   "In addition, educating children can help…",
+   "Under no circumstances should we…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "The greatness of a nation can be judged by the way its animals are treated.",
+   "vi": "Sự vĩ đại của một quốc gia có thể được đánh giá qua cách nó đối xử với động vật."
+  },
+  "pron": {
+   "title": "Trọng âm từ có -ity, -tion",
+   "rule": "Trọng âm rơi vào âm ngay trước -ity, -tion: bio-di-VER-si-ty, cap-TIV-i-ty, ex-TINC-tion, con-ser-VA-tion.",
+   "examples": [
+    "biodiversity → /ˌbaɪəʊdaɪˈvɜːsəti/",
+    "captivity → /kæpˈtɪvəti/",
+    "conservation → /ˌkɒnsəˈveɪʃn/"
+   ]
+  },
+  "phrases": [
+   [
+    "a drop in the ocean",
+    "muối bỏ biển"
+   ],
+   [
+    "at the top of the food chain",
+    "đứng đầu chuỗi thức ăn"
+   ],
+   [
+    "let nature take its course",
+    "để tự nhiên vận hành"
+   ]
+  ],
+  "mistake": "Hay viết 'Under no circumstances visitors should…'. Phải đảo trợ động từ: Under no circumstances SHOULD VISITORS…",
+  "tip": "Writing: một câu đảo ngữ đúng chỗ (thường ở kết luận hoặc nêu giải pháp) gây ấn tượng mạnh với giám khảo. Đừng lạm dụng — 1–2 câu là đủ.",
+  "diary": "Viết 3–5 câu về việc bảo vệ động vật, dùng On no account…, Little did I know…, In no way… và So + adj + be + S + that…"
+ }
+}

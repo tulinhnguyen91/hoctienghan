@@ -1,0 +1,508 @@
+{
+ "id": "bai-20",
+ "lesson": "Bài 20",
+ "day": 13,
+ "date": "2026-12-01",
+ "title": "Y tế cộng đồng",
+ "enTitle": "Public Health",
+ "past": false,
+ "words": [
+  [
+   "public health",
+   "/ˌpʌblɪk ˈhelθ/ · n",
+   "sức khỏe cộng đồng",
+   "Air pollution is a major threat to public health.",
+   "Ô nhiễm không khí là mối đe dọa lớn với sức khỏe cộng đồng."
+  ],
+  [
+   "vaccination",
+   "/ˌvæksɪˈneɪʃn/ · n",
+   "việc tiêm chủng",
+   "Vaccination has helped eliminate many deadly diseases.",
+   "Tiêm chủng đã giúp loại bỏ nhiều bệnh chết người."
+  ],
+  [
+   "infectious diseases",
+   "/ɪnˈfekʃəs dɪˈziːzɪz/ · n",
+   "bệnh truyền nhiễm",
+   "Washing hands regularly helps prevent infectious diseases.",
+   "Rửa tay thường xuyên giúp phòng bệnh truyền nhiễm."
+  ],
+  [
+   "outbreak",
+   "/ˈaʊtbreɪk/ · n",
+   "sự bùng phát (dịch bệnh)",
+   "An outbreak of dengue fever was reported in Hanoi last month.",
+   "Tháng trước có một đợt bùng phát sốt xuất huyết ở Hà Nội."
+  ],
+  [
+   "pandemic",
+   "/pænˈdemɪk/ · n",
+   "đại dịch",
+   "The pandemic changed the way people work and study.",
+   "Đại dịch đã thay đổi cách mọi người làm việc và học tập."
+  ],
+  [
+   "health insurance",
+   "/ˈhelθ ɪnʃʊərəns/ · n",
+   "bảo hiểm y tế",
+   "Health insurance helps poor families pay for treatment.",
+   "Bảo hiểm y tế giúp gia đình nghèo chi trả tiền chữa bệnh."
+  ],
+  [
+   "medical check-up",
+   "/ˈmedɪkl ˈtʃek ʌp/ · n",
+   "khám sức khỏe định kỳ",
+   "Adults should have a medical check-up once a year.",
+   "Người lớn nên khám sức khỏe định kỳ mỗi năm."
+  ],
+  [
+   "symptoms",
+   "/ˈsɪmptəmz/ · n",
+   "triệu chứng",
+   "If you have symptoms such as fever and cough, stay at home.",
+   "Nếu có triệu chứng như sốt và ho, hãy ở nhà."
+  ],
+  [
+   "hygiene",
+   "/ˈhaɪdʒiːn/ · n",
+   "vệ sinh",
+   "Good hygiene in restaurants protects customers from food poisoning.",
+   "Vệ sinh tốt ở nhà hàng bảo vệ khách khỏi ngộ độc thực phẩm."
+  ],
+  [
+   "food poisoning",
+   "/ˈfuːd pɔɪzənɪŋ/ · n",
+   "ngộ độc thực phẩm",
+   "Dozens of students got food poisoning after eating at the canteen.",
+   "Hàng chục học sinh bị ngộ độc sau khi ăn ở căng-tin."
+  ],
+  [
+   "overburdened",
+   "/ˌəʊvəˈbɜːdnd/ · adj",
+   "quá tải",
+   "Big city hospitals are often overburdened with patients.",
+   "Bệnh viện thành phố lớn thường quá tải bệnh nhân."
+  ],
+  [
+   "health campaign",
+   "/ˈhelθ kæmˈpeɪn/ · n",
+   "chiến dịch sức khỏe",
+   "A national health campaign encouraged people to quit smoking.",
+   "Một chiến dịch quốc gia khuyến khích người dân bỏ thuốc lá."
+  ],
+  [
+   "side effects",
+   "/ˈsaɪd ɪfekts/ · n",
+   "tác dụng phụ",
+   "Most vaccines have only mild side effects.",
+   "Hầu hết vắc-xin chỉ có tác dụng phụ nhẹ."
+  ],
+  [
+   "seek medical advice",
+   "/siːk ˈmedɪkl ədˈvaɪs/ · v phr",
+   "tìm lời khuyên y tế",
+   "You should seek medical advice before taking any new medicine.",
+   "Bạn nên hỏi ý kiến bác sĩ trước khi dùng thuốc mới."
+  ],
+  [
+   "recover from",
+   "/rɪˈkʌvə frəm/ · v",
+   "hồi phục sau",
+   "It took her two weeks to recover from the flu.",
+   "Cô ấy mất hai tuần để khỏi cúm."
+  ],
+  [
+   "spread of disease",
+   "/spred əv dɪˈziːz/ · n",
+   "sự lây lan bệnh",
+   "Wearing masks can slow the spread of disease.",
+   "Đeo khẩu trang có thể làm chậm sự lây lan bệnh."
+  ],
+  [
+   "medical staff",
+   "/ˈmedɪkl stɑːf/ · n",
+   "nhân viên y tế",
+   "Medical staff worked day and night during the pandemic.",
+   "Nhân viên y tế làm việc ngày đêm trong đại dịch."
+  ],
+  [
+   "access to healthcare",
+   "/ˈækses tə ˈhelθkeə/ · n",
+   "tiếp cận dịch vụ y tế",
+   "People in remote areas have limited access to healthcare.",
+   "Người dân vùng sâu có ít cơ hội tiếp cận dịch vụ y tế."
+  ],
+  [
+   "quit smoking",
+   "/kwɪt ˈsməʊkɪŋ/ · v phr",
+   "bỏ thuốc lá",
+   "My father quit smoking after his doctor warned him.",
+   "Bố tôi bỏ thuốc lá sau khi bác sĩ cảnh báo."
+  ],
+  [
+   "self-medication",
+   "/ˌself medɪˈkeɪʃn/ · n",
+   "tự ý dùng thuốc",
+   "Self-medication with antibiotics is dangerous.",
+   "Tự ý dùng kháng sinh rất nguy hiểm."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "in order to / so as to + V (để)",
+   "meaning": "Chỉ mục đích, cùng chủ ngữ. in order to / so as to + V. Phủ định: in order not to / so as not to + V. 'to V' đơn giản cũng được nhưng in order to trang trọng hơn.",
+   "examples": [
+    "People wear masks in order to slow the spread of disease. — Mọi người đeo khẩu trang để làm chậm sự lây lan bệnh.",
+    "She goes for a check-up every year so as to detect problems early. — Cô ấy khám định kỳ để phát hiện sớm vấn đề.",
+    "Wash your hands carefully so as not to get sick. — Rửa tay kỹ để không bị ốm."
+   ]
+  },
+  {
+   "form": "so that / in order that + mệnh đề (để mà)",
+   "meaning": "Dùng khi hai vế KHÁC chủ ngữ hoặc cần modal. so that + S + can/could/will/would + V. in order that trang trọng hơn.",
+   "examples": [
+    "The government built more clinics so that people in remote areas could access healthcare. — Chính phủ xây thêm trạm y tế để người dân vùng sâu có thể tiếp cận y tế.",
+    "Doctors explain the side effects so that patients will not worry. — Bác sĩ giải thích tác dụng phụ để bệnh nhân không lo lắng.",
+    "We stayed at home so that we wouldn't spread the flu. — Chúng tôi ở nhà để không lây cúm."
+   ]
+  },
+  {
+   "form": "in case / for fear of / for fear that — phòng khi, vì sợ",
+   "meaning": "in case + HTĐ (dù nói về tương lai): phòng khi. for fear of + V-ing/N; for fear that + S + might/would + V: vì sợ rằng.",
+   "examples": [
+    "Take an umbrella in case it rains. — Mang ô phòng khi trời mưa.",
+    "Keep some medicine at home in case someone gets ill. — Để sẵn thuốc ở nhà phòng khi có người ốm.",
+    "He didn't go to the hospital for fear of catching the virus. — Anh ấy không đến bệnh viện vì sợ nhiễm virus."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "People wear masks ___ slow the spread of disease.",
+   "options": [
+    "so that",
+    "in order to",
+    "in case",
+    "for fear of"
+   ],
+   "answer": "in order to",
+   "explain": "Cùng chủ ngữ + V → in order to."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Wash your hands carefully so as ___ get sick.",
+   "options": [
+    "to not",
+    "not to",
+    "don't",
+    "not"
+   ],
+   "answer": "not to",
+   "explain": "so as not to + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The government built clinics ___ rural people could access healthcare.",
+   "options": [
+    "in order to",
+    "so that",
+    "so as to",
+    "in case of"
+   ],
+   "answer": "so that",
+   "explain": "Khác chủ ngữ + could → so that."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Keep some medicine at home ___ someone gets ill.",
+   "options": [
+    "so that",
+    "in case",
+    "in order to",
+    "for fear of"
+   ],
+   "answer": "in case",
+   "explain": "in case + HTĐ = phòng khi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "He didn't go to hospital for fear ___ the virus.",
+   "options": [
+    "to catch",
+    "of catching",
+    "that catching",
+    "catch"
+   ],
+   "answer": "of catching",
+   "explain": "for fear of + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Big city hospitals are often ___ with patients.",
+   "options": [
+    "overburdened",
+    "overcrowding",
+    "overloaded of",
+    "overweight"
+   ],
+   "answer": "overburdened",
+   "explain": "overburdened = quá tải."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "You should ___ medical advice before taking new medicine.",
+   "options": [
+    "seek",
+    "look",
+    "find out",
+    "search"
+   ],
+   "answer": "seek",
+   "explain": "seek medical advice."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Take an umbrella in case it ___ (rain).",
+   "answer": [
+    "rains"
+   ],
+   "explain": "in case + HTĐ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Doctors explain the side effects so ___ patients will not worry.",
+   "answer": [
+    "that"
+   ],
+   "explain": "so that + mệnh đề."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "It took her two weeks to recover ___ the flu.",
+   "answer": [
+    "from"
+   ],
+   "explain": "recover from."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "___ with antibiotics is dangerous. (tự ý dùng thuốc)",
+   "answer": [
+    "Self-medication",
+    "Self medication"
+   ],
+   "explain": "self-medication."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "She",
+    "goes",
+    "for",
+    "a",
+    "check-up",
+    "every",
+    "year",
+    "so",
+    "as",
+    "to",
+    "detect",
+    "problems",
+    "early."
+   ],
+   "answer": "She goes for a check-up every year so as to detect problems early.",
+   "explain": "so as to + V."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "We",
+    "stayed",
+    "at",
+    "home",
+    "so",
+    "that",
+    "we",
+    "wouldn't",
+    "spread",
+    "the",
+    "flu."
+   ],
+   "answer": "We stayed at home so that we wouldn't spread the flu.",
+   "explain": "so that + would."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi tập thể dục mỗi ngày để giữ sức khỏe.",
+   "answer": [
+    "I exercise every day in order to stay healthy.",
+    "I do exercise every day in order to stay healthy.",
+    "I exercise every day to stay healthy.",
+    "I exercise every day so as to stay healthy.",
+    "I work out every day in order to stay healthy.",
+    "I exercise every day in order to keep fit."
+   ],
+   "explain": "in order to / so as to + V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Mang theo thuốc phòng khi bạn bị ốm.",
+   "answer": [
+    "Take some medicine in case you get sick.",
+    "Bring some medicine in case you get sick.",
+    "Take medicine with you in case you get ill.",
+    "Bring some medicine in case you get ill.",
+    "Take some medicine in case you get ill."
+   ],
+   "explain": "in case + HTĐ."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "People in remote areas have limited access to healthcare.",
+   "answer": "Người dân ở vùng sâu vùng xa có ít cơ hội tiếp cận dịch vụ y tế.",
+   "explain": "limited access = tiếp cận hạn chế."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất",
+   "en": "In many Vietnamese cities, it is easy to buy antibiotics at a pharmacy without a prescription. As a result, self-medication is common. Many people take antibiotics for a simple cold, which does not help because colds are caused by viruses. Doctors warn that this habit is dangerous because bacteria can become resistant to the drugs. The Ministry of Health has launched a campaign ( ___ ) raise public awareness. Pharmacies are now required to ask for a doctor's prescription before selling antibiotics.",
+   "options": [
+    "in order to",
+    "so that",
+    "in case",
+    "for fear of"
+   ],
+   "answer": "in order to",
+   "explain": "Theo sau là V nguyên mẫu (raise) → in order to."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao uống kháng sinh khi bị cảm lạnh không có tác dụng?",
+   "en": "In many Vietnamese cities, it is easy to buy antibiotics at a pharmacy without a prescription. As a result, self-medication is common. Many people take antibiotics for a simple cold, which does not help because colds are caused by viruses. Doctors warn that this habit is dangerous because bacteria can become resistant to the drugs. The Ministry of Health has launched a campaign ( ___ ) raise public awareness. Pharmacies are now required to ask for a doctor's prescription before selling antibiotics.",
+   "options": [
+    "Cảm lạnh do virus gây ra",
+    "Kháng sinh quá đắt",
+    "Nhà thuốc bán sai thuốc",
+    "Bác sĩ cấm"
+   ],
+   "answer": "Cảm lạnh do virus gây ra",
+   "explain": "'colds are caused by viruses'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Bệnh viện dã chiến được lập ra để:",
+   "en": "During the pandemic, hospitals in big cities were overburdened, and medical staff often worked twelve-hour shifts. To reduce the pressure, the government set up field hospitals so that patients with mild symptoms could be treated nearby. Many volunteers delivered food and medicine to families who had to stay at home. Although the situation was extremely difficult, it showed the importance of a strong public health system and community spirit.",
+   "options": [
+    "Điều trị bệnh nhân nhẹ gần nhà, giảm tải",
+    "Đào tạo bác sĩ",
+    "Bán thuốc",
+    "Thay thế bệnh viện lớn"
+   ],
+   "answer": "Điều trị bệnh nhân nhẹ gần nhà, giảm tải",
+   "explain": "'so that patients with mild symptoms could be treated nearby'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Bài học rút ra từ đại dịch là:",
+   "en": "During the pandemic, hospitals in big cities were overburdened, and medical staff often worked twelve-hour shifts. To reduce the pressure, the government set up field hospitals so that patients with mild symptoms could be treated nearby. Many volunteers delivered food and medicine to families who had to stay at home. Although the situation was extremely difficult, it showed the importance of a strong public health system and community spirit.",
+   "options": [
+    "Tầm quan trọng của hệ thống y tế mạnh và tinh thần cộng đồng",
+    "Không cần bệnh viện lớn",
+    "Tình nguyện viên làm việc 12 tiếng",
+    "Ở nhà là tốt nhất"
+   ],
+   "answer": "Tầm quan trọng của hệ thống y tế mạnh và tinh thần cộng đồng",
+   "explain": "Câu cuối."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Opinion: Có nên bắt buộc khám sức khỏe định kỳ?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people think that the government should make annual medical check-ups compulsory for all adults.\nDo you agree or disagree?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: paraphrase + thesis rõ ràng",
+   "Thân 1: lý do 1 – phát hiện sớm bệnh mãn tính, giảm chi phí (in order to, so that)",
+   "Thân 2: lý do 2 – giảm tải bệnh viện, sức khỏe cộng đồng (ví dụ Việt Nam)",
+   "Nhượng bộ: Admittedly, some people may not be able to afford… However, health insurance…",
+   "Kết bài: nhắc lại quan điểm + đề xuất miễn phí cho người nghèo"
+  ],
+  "phrases": [
+   "There is a growing debate about whether … — Ngày càng nhiều tranh luận về việc liệu …",
+   "Regular check-ups allow doctors to detect diseases early, so that … — Khám định kỳ giúp bác sĩ phát hiện bệnh sớm, để …",
+   "This would reduce the pressure on overburdened hospitals. — Điều này sẽ giảm áp lực lên các bệnh viện quá tải.",
+   "Admittedly, some people avoid hospitals for fear of … — Phải thừa nhận, một số người tránh bệnh viện vì sợ …",
+   "In conclusion, I firmly believe that … — Tóm lại, tôi tin chắc rằng …"
+  ]
+ },
+ "speaking": {
+  "part": 1,
+  "title": "Social interaction: health habits & doctors",
+  "prompt": "Let's talk about your health habits. Then let's talk about going to the doctor.",
+  "questions": [
+   "What do you do in order to stay healthy?",
+   "Do you usually take medicine when you have a cold?",
+   "Have you ever had food poisoning?",
+   "How often do you have a medical check-up?",
+   "Do you prefer public or private hospitals? Why?",
+   "What would you do if you felt sick before an important exam?"
+  ],
+  "ideas": [
+   "I usually… so as to…",
+   "Honestly, I try not to take medicine unless…",
+   "Once I had food poisoning after eating…",
+   "I go for a check-up once a year in case…",
+   "If I felt sick before an exam, I would…"
+  ],
+  "minutes": 3
+ },
+ "corner": {
+  "quote": {
+   "en": "Health is not valued till sickness comes.",
+   "vi": "Sức khỏe chỉ được trân trọng khi bệnh tật ập đến."
+  },
+  "pron": {
+   "title": "Âm /h/ ở đầu từ",
+   "rule": "Bật hơi nhẹ ở /h/ (health, hospital). Một số từ có h câm: hour, honest, heir.",
+   "examples": [
+    "health → /helθ/",
+    "hygiene → /ˈhaɪdʒiːn/",
+    "honest → /ˈɒnɪst/ (h câm)"
+   ]
+  },
+  "phrases": [
+   [
+    "be on the mend",
+    "đang hồi phục"
+   ],
+   [
+    "under the weather",
+    "hơi mệt, không khỏe"
+   ],
+   [
+    "a clean bill of health",
+    "giấy chứng nhận sức khỏe tốt"
+   ]
+  ],
+  "mistake": "Hay viết 'in case it will rain'. Sau in case dùng hiện tại đơn: in case it rains.",
+  "tip": "Writing Task 2: để tăng điểm ngữ pháp, dùng ít nhất 1 câu chỉ mục đích (so that / in order to) và 1 câu nhượng bộ.",
+  "diary": "Viết 3–5 câu về thói quen giữ sức khỏe, dùng in order to, so that và in case."
+ }
+}

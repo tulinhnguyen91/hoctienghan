@@ -1,0 +1,499 @@
+{
+ "id": "bai-18",
+ "lesson": "Bài 18",
+ "day": 11,
+ "date": "2026-11-29",
+ "title": "Đời sống số & dữ liệu",
+ "enTitle": "Digital Life & Data",
+ "past": false,
+ "words": [
+  [
+   "personal data",
+   "/ˈpɜːsənl ˈdeɪtə/ · n",
+   "dữ liệu cá nhân",
+   "Apps often collect personal data without users noticing.",
+   "Ứng dụng thường thu thập dữ liệu cá nhân mà người dùng không để ý."
+  ],
+  [
+   "data breach",
+   "/ˈdeɪtə briːtʃ/ · n",
+   "vụ rò rỉ dữ liệu",
+   "A data breach exposed the phone numbers of millions of customers.",
+   "Một vụ rò rỉ dữ liệu làm lộ số điện thoại của hàng triệu khách hàng."
+  ],
+  [
+   "hacker",
+   "/ˈhækə/ · n",
+   "tin tặc",
+   "Hackers stole thousands of passwords from the website.",
+   "Tin tặc đã đánh cắp hàng nghìn mật khẩu từ trang web."
+  ],
+  [
+   "two-factor authentication",
+   "/ˌtuː ˈfæktər ɔːˌθentɪˈkeɪʃn/ · n",
+   "xác thực hai lớp",
+   "Two-factor authentication makes your account much safer.",
+   "Xác thực hai lớp giúp tài khoản an toàn hơn nhiều."
+  ],
+  [
+   "e-wallet",
+   "/ˈiː wɒlɪt/ · n",
+   "ví điện tử",
+   "Many Vietnamese people use e-wallets such as MoMo to pay bills.",
+   "Nhiều người Việt dùng ví điện tử như MoMo để thanh toán hóa đơn."
+  ],
+  [
+   "cashless payment",
+   "/ˈkæʃləs ˈpeɪmənt/ · n",
+   "thanh toán không tiền mặt",
+   "Cashless payment is now accepted even at street food stalls.",
+   "Thanh toán không tiền mặt giờ được chấp nhận cả ở quán vỉa hè."
+  ],
+  [
+   "log in",
+   "/lɒɡ ˈɪn/ · phr v",
+   "đăng nhập",
+   "You need to log in with your phone number.",
+   "Bạn cần đăng nhập bằng số điện thoại."
+  ],
+  [
+   "back up",
+   "/bæk ˈʌp/ · phr v",
+   "sao lưu",
+   "Remember to back up your photos regularly.",
+   "Nhớ sao lưu ảnh thường xuyên."
+  ],
+  [
+   "set up",
+   "/set ˈʌp/ · phr v",
+   "cài đặt, thiết lập",
+   "It only takes five minutes to set up a new account.",
+   "Chỉ mất năm phút để thiết lập tài khoản mới."
+  ],
+  [
+   "digital footprint",
+   "/ˌdɪdʒɪtl ˈfʊtprɪnt/ · n",
+   "dấu vết số",
+   "Everything you post online becomes part of your digital footprint.",
+   "Mọi thứ bạn đăng trên mạng đều thành dấu vết số của bạn."
+  ],
+  [
+   "smart device",
+   "/smɑːt dɪˈvaɪs/ · n",
+   "thiết bị thông minh",
+   "Smart devices can now control the lights and air conditioner.",
+   "Thiết bị thông minh giờ có thể điều khiển đèn và điều hòa."
+  ],
+  [
+   "tech-savvy",
+   "/ˈtek sævi/ · adj",
+   "rành công nghệ",
+   "Young people are generally more tech-savvy than their parents.",
+   "Người trẻ thường rành công nghệ hơn bố mẹ."
+  ],
+  [
+   "terms and conditions",
+   "/tɜːmz ənd kənˈdɪʃnz/ · n",
+   "điều khoản sử dụng",
+   "Few people actually read the terms and conditions before clicking 'Agree'.",
+   "Rất ít người thật sự đọc điều khoản trước khi bấm 'Đồng ý'."
+  ],
+  [
+   "consent",
+   "/kənˈsent/ · n",
+   "sự đồng ý",
+   "Companies should not use your data without your consent.",
+   "Công ty không nên dùng dữ liệu của bạn khi chưa có sự đồng ý."
+  ],
+  [
+   "monitor",
+   "/ˈmɒnɪtə/ · v",
+   "theo dõi, giám sát",
+   "Some parents monitor their children's online activity.",
+   "Một số phụ huynh theo dõi hoạt động trên mạng của con."
+  ],
+  [
+   "switch off",
+   "/swɪtʃ ˈɒf/ · phr v",
+   "tắt; nghỉ ngơi, thư giãn",
+   "It's hard to switch off when your phone keeps buzzing.",
+   "Thật khó thư giãn khi điện thoại cứ rung liên tục."
+  ],
+  [
+   "digital detox",
+   "/ˌdɪdʒɪtl ˈdiːtɒks/ · n",
+   "thời gian \"cai\" thiết bị số",
+   "I'm going on a digital detox this weekend — no phone, no laptop.",
+   "Cuối tuần này tôi \"cai\" thiết bị — không điện thoại, không laptop."
+  ],
+  [
+   "password",
+   "/ˈpɑːswɜːd/ · n",
+   "mật khẩu",
+   "Never use the same password for every account.",
+   "Đừng bao giờ dùng một mật khẩu cho mọi tài khoản."
+  ],
+  [
+   "targeted advertising",
+   "/ˈtɑːɡɪtɪd ˈædvətaɪzɪŋ/ · n",
+   "quảng cáo nhắm mục tiêu",
+   "Targeted advertising uses your search history to show you products.",
+   "Quảng cáo nhắm mục tiêu dùng lịch sử tìm kiếm để gợi ý sản phẩm."
+  ],
+  [
+   "be concerned about",
+   "/kənˈsɜːnd əˈbaʊt/ · adj phr",
+   "lo ngại về",
+   "Many users are concerned about how their data is used.",
+   "Nhiều người dùng lo ngại về cách dữ liệu của họ được sử dụng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Cụm động từ (phrasal verbs) tách được và không tách được",
+   "meaning": "Tách được: tân ngữ có thể đứng giữa hoặc sau (set up an account / set an account up). Nếu tân ngữ là ĐẠI TỪ thì BẮT BUỘC đứng giữa: set it up, back them up, switch it off. Không tách được: look after, rely on, deal with, come across, get over… (look after them, KHÔNG look them after).",
+   "examples": [
+    "Please switch off your phone. = Please switch your phone off. → Please switch it off. — Vui lòng tắt điện thoại.",
+    "I back up my photos every week. → I back them up every week. — Tôi sao lưu ảnh mỗi tuần.",
+    "Who will look after your account while you are away? — Ai sẽ trông tài khoản khi bạn đi vắng?",
+    "I came across an interesting article online. — Tôi tình cờ đọc được một bài báo hay trên mạng."
+   ]
+  },
+  {
+   "form": "Tính từ + giới từ",
+   "meaning": "aware of · concerned about · worried about · responsible for · familiar with · capable of · dependent on · keen on · interested in · good at · afraid of · addicted to · similar to · different from. Sau giới từ là N hoặc V-ing.",
+   "examples": [
+    "Many users are not aware of the risks. — Nhiều người dùng không biết về rủi ro.",
+    "Parents are responsible for protecting their children online. — Cha mẹ có trách nhiệm bảo vệ con trên mạng.",
+    "Older people are less familiar with e-wallets. — Người lớn tuổi ít quen với ví điện tử."
+   ]
+  },
+  {
+   "form": "Động từ + giới từ",
+   "meaning": "rely on / depend on · consist of · apply for · deal with · suffer from · benefit from · protect sb from · prevent sb from V-ing · insist on · succeed in · approve of · complain about.",
+   "examples": [
+    "Many people rely on their phones for everything. — Nhiều người dựa vào điện thoại cho mọi việc.",
+    "Strong passwords protect your account from hackers. — Mật khẩu mạnh bảo vệ tài khoản khỏi tin tặc.",
+    "Two-factor authentication prevents strangers from logging in. — Xác thực hai lớp ngăn người lạ đăng nhập."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn vị trí đại từ đúng",
+   "en": "My phone is too loud. Can you switch ___?",
+   "options": [
+    "off it",
+    "it off",
+    "it out",
+    "off"
+   ],
+   "answer": "it off",
+   "explain": "Tân ngữ là đại từ → đứng giữa: switch it off."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I back up my photos every week. I back ___ every Sunday.",
+   "options": [
+    "up them",
+    "them up",
+    "them on",
+    "on them"
+   ],
+   "answer": "them up",
+   "explain": "back them up."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn giới từ đúng",
+   "en": "Many users are not aware ___ the risks.",
+   "options": [
+    "about",
+    "of",
+    "for",
+    "with"
+   ],
+   "answer": "of",
+   "explain": "aware of."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn giới từ đúng",
+   "en": "Parents are responsible ___ protecting their children online.",
+   "options": [
+    "to",
+    "of",
+    "for",
+    "with"
+   ],
+   "answer": "for",
+   "explain": "responsible for + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn giới từ đúng",
+   "en": "Strong passwords protect your account ___ hackers.",
+   "options": [
+    "against of",
+    "to",
+    "from",
+    "with"
+   ],
+   "answer": "from",
+   "explain": "protect sb/sth from."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Two-factor authentication prevents strangers ___ in.",
+   "options": [
+    "to log",
+    "log",
+    "from logging",
+    "of logging"
+   ],
+   "answer": "from logging",
+   "explain": "prevent sb from V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Everything you post online becomes part of your digital ___.",
+   "options": [
+    "footprint",
+    "trace",
+    "mark",
+    "print"
+   ],
+   "answer": "footprint",
+   "explain": "digital footprint = dấu vết số."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 giới từ",
+   "en": "Many people rely ___ their phones for everything.",
+   "answer": [
+    "on"
+   ],
+   "explain": "rely on."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 giới từ",
+   "en": "Older people are less familiar ___ e-wallets.",
+   "answer": [
+    "with"
+   ],
+   "explain": "familiar with."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "It only takes five minutes to set ___ a new account.",
+   "answer": [
+    "up"
+   ],
+   "explain": "set up = thiết lập."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Companies should not use your data without your ___.",
+   "answer": [
+    "consent",
+    "permission",
+    "agreement"
+   ],
+   "explain": "consent = sự đồng ý."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Many",
+    "users",
+    "are",
+    "concerned",
+    "about",
+    "how",
+    "their",
+    "data",
+    "is",
+    "used."
+   ],
+   "answer": "Many users are concerned about how their data is used.",
+   "explain": "be concerned about."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Remember",
+    "to",
+    "back",
+    "up",
+    "your",
+    "photos",
+    "regularly."
+   ],
+   "answer": "Remember to back up your photos regularly.",
+   "explain": "remember to V; back up."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Nhiều người dùng không biết về rủi ro của lừa đảo trực tuyến.",
+   "answer": [
+    "Many users are not aware of the risks of online scams.",
+    "Many users aren't aware of the risks of online scams.",
+    "Many users are unaware of the risks of online scams.",
+    "Many people are not aware of the risks of online scams."
+   ],
+   "explain": "aware of."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Hãy tắt nó đi trước khi ngủ. (nó = điện thoại)",
+   "answer": [
+    "Switch it off before you go to bed.",
+    "Turn it off before you go to bed.",
+    "Switch it off before going to bed.",
+    "Turn it off before going to bed.",
+    "Switch it off before you sleep.",
+    "Please switch it off before you go to bed."
+   ],
+   "explain": "Đại từ đứng giữa phrasal verb."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Few people actually read the terms and conditions before clicking 'Agree'.",
+   "answer": "Rất ít người thật sự đọc điều khoản sử dụng trước khi bấm 'Đồng ý'.",
+   "explain": "terms and conditions = điều khoản."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn giới từ phù hợp",
+   "en": "Cashless payment has grown rapidly in Vietnam. Today, customers can pay for coffee, taxis and even street food by scanning a QR code. E-wallets are convenient, and many shop owners say they no longer have to worry about giving change. However, experts warn that users should be aware ( ___ ) the risks. Scammers often send fake links that look like messages from banks. Users are advised to set up two-factor authentication and never share their passwords with anyone.",
+   "options": [
+    "of",
+    "about",
+    "for",
+    "with"
+   ],
+   "answer": "of",
+   "explain": "be aware of."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Chuyên gia khuyên người dùng điều gì?",
+   "en": "Cashless payment has grown rapidly in Vietnam. Today, customers can pay for coffee, taxis and even street food by scanning a QR code. E-wallets are convenient, and many shop owners say they no longer have to worry about giving change. However, experts warn that users should be aware ( ___ ) the risks. Scammers often send fake links that look like messages from banks. Users are advised to set up two-factor authentication and never share their passwords with anyone.",
+   "options": [
+    "Bật xác thực hai lớp, không chia sẻ mật khẩu",
+    "Ngừng dùng ví điện tử",
+    "Chỉ trả tiền mặt",
+    "Bấm vào mọi đường link"
+   ],
+   "answer": "Bật xác thực hai lớp, không chia sẻ mật khẩu",
+   "explain": "Câu cuối."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Hai ngày đầu, Hương cảm thấy:",
+   "en": "Last month, Huong decided to try a digital detox. For three days, she switched off her phone and did not check social media at all. At first, she found it difficult. She kept reaching for her phone out of habit and worried that she might miss important messages. By the third day, however, she felt much calmer and had more time to read and talk to her family. She now switches her phone off for two hours every evening and says she sleeps much better.",
+   "options": [
+    "Khó khăn, lo bỏ lỡ tin nhắn",
+    "Rất bình tĩnh",
+    "Ngủ ngon ngay",
+    "Không để ý gì"
+   ],
+   "answer": "Khó khăn, lo bỏ lỡ tin nhắn",
+   "explain": "'At first, she found it difficult… worried that she might miss…'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Điều nào ĐÚNG về Hương hiện nay?",
+   "en": "Last month, Huong decided to try a digital detox. For three days, she switched off her phone and did not check social media at all. At first, she found it difficult. She kept reaching for her phone out of habit and worried that she might miss important messages. By the third day, however, she felt much calmer and had more time to read and talk to her family. She now switches her phone off for two hours every evening and says she sleeps much better.",
+   "options": [
+    "Cô ấy tắt điện thoại hai tiếng mỗi tối",
+    "Cô ấy đã bỏ hẳn điện thoại",
+    "Cô ấy ngủ kém hơn",
+    "Cô ấy dùng mạng nhiều hơn"
+   ],
+   "answer": "Cô ấy tắt điện thoại hai tiếng mỗi tối",
+   "explain": "Câu cuối."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư góp ý cho ngân hàng về ứng dụng",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "You have been using a bank's mobile app, but you have had some problems and have ideas to improve it.\nWrite an email to the bank. In your email:\n• explain how you use the app\n• describe the problems\n• suggest how the app could be improved.\nYou should write at least 120 words.",
+  "outline": [
+   "Dear Sir or Madam, + I am writing to share some feedback on…",
+   "Đoạn 1: bạn dùng app thế nào (I rely on it to…; I have been using it for…)",
+   "Đoạn 2: vấn đề (it keeps logging me out; I was concerned about…)",
+   "Đoạn 3: đề xuất (I would like to suggest that…; It would be a good idea to…)",
+   "Kết: I hope you will consider my suggestions. / Yours faithfully,"
+  ],
+  "phrases": [
+   "I have been using your mobile app for over a year. — Tôi đã dùng ứng dụng của quý ngân hàng hơn một năm.",
+   "I rely on it to pay bills and transfer money. — Tôi dùng nó để thanh toán hóa đơn và chuyển tiền.",
+   "However, the app frequently logs me out without warning. — Tuy nhiên ứng dụng thường tự đăng xuất không báo trước.",
+   "I would like to suggest that you add … — Tôi xin đề xuất quý ngân hàng thêm …",
+   "I hope you will take my suggestions into consideration. — Mong quý ngân hàng cân nhắc các đề xuất của tôi."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: bảo vệ tài khoản",
+  "prompt": "Situation: Your friend's social media account was hacked last week. What is the best way to protect accounts in the future?\n1. Use a different strong password for every account\n2. Turn on two-factor authentication\n3. Stop using social media altogether",
+  "questions": [
+   "Which option do you think is the best? Why?",
+   "Why are the other options less suitable?"
+  ],
+  "ideas": [
+   "I'd go for the second option because…",
+   "It prevents hackers from…",
+   "Using different passwords is a good idea, but most people can't…",
+   "Stopping social media altogether is a bit extreme, as we rely on it to…",
+   "So, to sum up, …"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Privacy is not something that I'm merely entitled to, it's an absolute prerequisite.",
+   "vi": "Quyền riêng tư không chỉ là thứ tôi được hưởng, mà là điều kiện tiên quyết."
+  },
+  "pron": {
+   "title": "Trọng âm phrasal verb",
+   "rule": "Phrasal verb thường nhấn vào TIỂU TỪ (up, off, in…). Danh từ ghép từ phrasal verb lại nhấn vào phần đầu.",
+   "examples": [
+    "back UP (v) – BACKup (n)",
+    "log IN (v) – LOGin (n)",
+    "set UP (v) – SETup (n)"
+   ]
+  },
+  "phrases": [
+   [
+    "at the click of a mouse",
+    "chỉ bằng một cú nhấp chuột"
+   ],
+   [
+    "be glued to one's screen",
+    "dán mắt vào màn hình"
+   ],
+   [
+    "a digital native",
+    "người sinh ra trong thời đại số"
+   ]
+  ],
+  "mistake": "Hay viết 'switch off it' hoặc 'back up them'. Khi tân ngữ là đại từ, phải đặt GIỮA: switch it off, back them up.",
+  "tip": "Speaking Part 2: dành 1 phút chuẩn bị để ghi 2 lý do chọn và 1 lý do bác bỏ cho mỗi phương án còn lại.",
+  "diary": "Viết 3–5 câu về thói quen dùng điện thoại của bạn, dùng 2 phrasal verbs và 2 cặp tính từ/động từ + giới từ."
+ }
+}

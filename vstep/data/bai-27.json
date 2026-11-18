@@ -1,0 +1,504 @@
+{
+ "id": "bai-27",
+ "lesson": "Bài 27",
+ "day": 22,
+ "date": "2026-12-10",
+ "title": "Không gian & phát minh",
+ "enTitle": "Space & Innovation",
+ "past": false,
+ "words": [
+  [
+   "space exploration",
+   "/speɪs ˌekspləˈreɪʃn/ · n",
+   "thám hiểm không gian",
+   "Space exploration has led to many useful inventions.",
+   "Thám hiểm không gian đã tạo ra nhiều phát minh hữu ích."
+  ],
+  [
+   "satellite",
+   "/ˈsætəlaɪt/ · n",
+   "vệ tinh",
+   "Vietnam has launched several satellites to monitor the weather.",
+   "Việt Nam đã phóng một số vệ tinh để theo dõi thời tiết."
+  ],
+  [
+   "launch",
+   "/lɔːntʃ/ · v, n",
+   "phóng (tên lửa); ra mắt",
+   "The company will launch its new phone next month.",
+   "Công ty sẽ ra mắt điện thoại mới vào tháng sau."
+  ],
+  [
+   "astronaut",
+   "/ˈæstrənɔːt/ · n",
+   "phi hành gia",
+   "Astronauts spend months training before a mission.",
+   "Phi hành gia luyện tập nhiều tháng trước mỗi nhiệm vụ."
+  ],
+  [
+   "invention",
+   "/ɪnˈvenʃn/ · n",
+   "phát minh",
+   "The smartphone is one of the most important inventions of our time.",
+   "Điện thoại thông minh là một trong những phát minh quan trọng nhất thời đại."
+  ],
+  [
+   "inventor",
+   "/ɪnˈventə/ · n",
+   "nhà phát minh",
+   "Young inventors in Vietnam are creating useful farming tools.",
+   "Các nhà phát minh trẻ ở Việt Nam đang tạo ra công cụ nông nghiệp hữu ích."
+  ],
+  [
+   "prototype",
+   "/ˈprəʊtətaɪp/ · n",
+   "nguyên mẫu",
+   "The students built a prototype of an electric boat.",
+   "Các sinh viên làm nguyên mẫu một chiếc thuyền điện."
+  ],
+  [
+   "patent",
+   "/ˈpætnt/ · n",
+   "bằng sáng chế",
+   "She applied for a patent for her new design.",
+   "Cô ấy đăng ký bằng sáng chế cho thiết kế mới."
+  ],
+  [
+   "groundbreaking",
+   "/ˈɡraʊndbreɪkɪŋ/ · adj",
+   "mang tính đột phá",
+   "The groundbreaking discovery changed medicine forever.",
+   "Phát hiện mang tính đột phá đã thay đổi y học mãi mãi."
+  ],
+  [
+   "outer space",
+   "/ˌaʊtə ˈspeɪs/ · n",
+   "ngoài vũ trụ",
+   "Scientists are searching for life in outer space.",
+   "Các nhà khoa học đang tìm kiếm sự sống ngoài vũ trụ."
+  ],
+  [
+   "a waste of money",
+   "/ə weɪst əv ˈmʌni/ · n phr",
+   "sự lãng phí tiền bạc",
+   "Some people think space travel is a waste of money.",
+   "Một số người cho rằng du hành vũ trụ là lãng phí tiền."
+  ],
+  [
+   "colonise",
+   "/ˈkɒlənaɪz/ · v",
+   "đến định cư (hành tinh khác)",
+   "Some billionaires dream of colonising Mars.",
+   "Một số tỷ phú mơ đến định cư trên sao Hỏa."
+  ],
+  [
+   "come up with",
+   "/kʌm ˈʌp wɪð/ · phr v",
+   "nghĩ ra (ý tưởng)",
+   "The team came up with a brilliant solution.",
+   "Nhóm đã nghĩ ra một giải pháp tuyệt vời."
+  ],
+  [
+   "trial and error",
+   "/ˌtraɪəl ənd ˈerə/ · n",
+   "thử và sai",
+   "Most inventions are the result of trial and error.",
+   "Hầu hết phát minh là kết quả của quá trình thử và sai."
+  ],
+  [
+   "cutting costs",
+   "/ˈkʌtɪŋ kɒsts/ · n",
+   "cắt giảm chi phí",
+   "New technology is helping companies cut costs.",
+   "Công nghệ mới đang giúp các công ty cắt giảm chi phí."
+  ],
+  [
+   "pioneer",
+   "/ˌpaɪəˈnɪə/ · n, v",
+   "người tiên phong; tiên phong",
+   "He was a pioneer in the field of robotics.",
+   "Ông ấy là người tiên phong trong lĩnh vực robot."
+  ],
+  [
+   "obsolete",
+   "/ˈɒbsəliːt/ · adj",
+   "lỗi thời",
+   "Fax machines have become almost obsolete.",
+   "Máy fax gần như đã lỗi thời."
+  ],
+  [
+   "revolutionise",
+   "/ˌrevəˈluːʃənaɪz/ · v",
+   "cách mạng hóa",
+   "The Internet revolutionised the way we communicate.",
+   "Internet đã cách mạng hóa cách chúng ta giao tiếp."
+  ],
+  [
+   "mission",
+   "/ˈmɪʃn/ · n",
+   "sứ mệnh, nhiệm vụ",
+   "The mission to the Moon was a great success.",
+   "Sứ mệnh lên Mặt Trăng đã thành công lớn."
+  ],
+  [
+   "on the verge of",
+   "/ɒn ðə vɜːdʒ əv/ · phr",
+   "sắp sửa, trên bờ vực",
+   "Scientists are on the verge of a major discovery.",
+   "Các nhà khoa học sắp có một phát hiện lớn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "be about to / be on the verge of / be on the point of",
+   "meaning": "be about to + V: sắp sửa (rất gần). be on the verge of / on the point of + N/V-ing: sắp sửa, trên bờ vực (trang trọng). Không đi với từ chỉ thời gian cụ thể.",
+   "examples": [
+    "Hurry up! The rocket is about to launch. — Nhanh lên! Tên lửa sắp phóng rồi.",
+    "Scientists are on the verge of a major breakthrough. — Các nhà khoa học sắp có bước đột phá lớn.",
+    "The company was on the point of going bankrupt when it invented the new product. — Công ty sắp phá sản thì phát minh ra sản phẩm mới."
+   ]
+  },
+  {
+   "form": "Tương lai trong quá khứ: was/were going to, would",
+   "meaning": "was/were going to + V: đã định làm (nhưng thường không làm). would + V: tương lai nhìn từ quá khứ (trong câu tường thuật hoặc dự đoán cũ).",
+   "examples": [
+    "I was going to watch the launch, but I fell asleep. — Tôi đã định xem buổi phóng nhưng lại ngủ quên.",
+    "In 1960, people thought that we would live on the Moon by 2000. — Năm 1960, người ta nghĩ đến năm 2000 ta sẽ sống trên Mặt Trăng.",
+    "He knew the prototype would fail. — Anh ấy biết nguyên mẫu sẽ thất bại."
+   ]
+  },
+  {
+   "form": "may / might / could (well) — khả năng ở tương lai",
+   "meaning": "may/might/could + V: có thể (khoảng 50%). may well / might well / could well + V: rất có thể (khả năng cao hơn). might not / may not: có thể không. Không dùng 'could not' cho khả năng (nghĩa là 'không thể').",
+   "examples": [
+    "People might travel to Mars in the next twenty years. — Con người có thể du hành tới sao Hỏa trong 20 năm tới.",
+    "This invention could well change the way we farm. — Phát minh này rất có thể thay đổi cách chúng ta làm nông.",
+    "The mission may not succeed because of the weather. — Sứ mệnh có thể không thành công do thời tiết."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Hurry up! The rocket is ___ launch.",
+   "options": [
+    "on the verge of",
+    "about to",
+    "going",
+    "on the point to"
+   ],
+   "answer": "about to",
+   "explain": "be about to + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Scientists are on the verge ___ a major breakthrough.",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "answer": "of",
+   "explain": "be on the verge of + N/V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I ___ watch the launch, but I fell asleep.",
+   "options": [
+    "will",
+    "was going to",
+    "am going to",
+    "would have"
+   ],
+   "answer": "was going to",
+   "explain": "Dự định trong quá khứ không thực hiện → was going to."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "In 1960, people thought that we ___ live on the Moon by 2000.",
+   "options": [
+    "will",
+    "would",
+    "are going to",
+    "shall"
+   ],
+   "answer": "would",
+   "explain": "Tương lai trong quá khứ → would."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "This invention could ___ change the way we farm. (rất có thể)",
+   "options": [
+    "good",
+    "well",
+    "very",
+    "much"
+   ],
+   "answer": "well",
+   "explain": "could well + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "The team came ___ with a brilliant solution.",
+   "options": [
+    "out",
+    "up",
+    "across",
+    "over"
+   ],
+   "answer": "up",
+   "explain": "come up with = nghĩ ra."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Fax machines have become almost ___.",
+   "options": [
+    "obsolete",
+    "groundbreaking",
+    "outer",
+    "pioneer"
+   ],
+   "answer": "obsolete",
+   "explain": "obsolete = lỗi thời."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The company was on the point ___ going bankrupt.",
+   "answer": [
+    "of"
+   ],
+   "explain": "on the point of + V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Most inventions are the result of trial and ___.",
+   "answer": [
+    "error"
+   ],
+   "explain": "trial and error."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "She applied for a ___ for her new design.",
+   "answer": [
+    "patent"
+   ],
+   "explain": "patent = bằng sáng chế."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The Internet ___ the way we communicate. (cách mạng hóa – quá khứ)",
+   "answer": [
+    "revolutionised",
+    "revolutionized"
+   ],
+   "explain": "revolutionise."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "People",
+    "might",
+    "travel",
+    "to",
+    "Mars",
+    "in",
+    "the",
+    "next",
+    "twenty",
+    "years."
+   ],
+   "answer": "People might travel to Mars in the next twenty years.",
+   "explain": "might + V."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "I",
+    "was",
+    "going",
+    "to",
+    "buy",
+    "a",
+    "new",
+    "phone,",
+    "but",
+    "I",
+    "changed",
+    "my",
+    "mind."
+   ],
+   "answer": "I was going to buy a new phone, but I changed my mind.",
+   "explain": "was going to."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi đã định học lập trình nhưng không có thời gian.",
+   "answer": [
+    "I was going to learn programming, but I didn't have time.",
+    "I was going to learn coding, but I didn't have time.",
+    "I was going to study programming, but I didn't have time.",
+    "I was going to learn programming but I had no time.",
+    "I was going to learn programming, but I did not have time."
+   ],
+   "explain": "was going to."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Các nhà khoa học sắp có một phát hiện lớn.",
+   "answer": [
+    "Scientists are on the verge of a major discovery.",
+    "Scientists are about to make a major discovery.",
+    "Scientists are on the verge of making a major discovery.",
+    "Scientists are on the point of making a big discovery.",
+    "Scientists are about to make a big discovery."
+   ],
+   "explain": "on the verge of / about to."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Some people think space travel is a waste of money.",
+   "answer": "Một số người cho rằng du hành vũ trụ là sự lãng phí tiền bạc.",
+   "explain": "a waste of money."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất",
+   "en": "Every year, governments spend billions of dollars on space exploration. Critics argue that this is a waste of money when so many people on Earth still live in poverty. Supporters, however, point out that space research has given us many everyday inventions, including GPS, weather satellites and even water filters. They also believe that, in the future, humans ( ___ ) need to live on other planets if the Earth becomes too polluted. Some private companies are already on the verge of offering tourist trips into outer space.",
+   "options": [
+    "might",
+    "were going to",
+    "are about",
+    "was"
+   ],
+   "answer": "might",
+   "explain": "Khả năng tương lai → might need."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Phát minh nào KHÔNG được nhắc đến?",
+   "en": "Every year, governments spend billions of dollars on space exploration. Critics argue that this is a waste of money when so many people on Earth still live in poverty. Supporters, however, point out that space research has given us many everyday inventions, including GPS, weather satellites and even water filters. They also believe that, in the future, humans ( ___ ) need to live on other planets if the Earth becomes too polluted. Some private companies are already on the verge of offering tourist trips into outer space.",
+   "options": [
+    "Điện thoại thông minh",
+    "GPS",
+    "Vệ tinh thời tiết",
+    "Máy lọc nước"
+   ],
+   "answer": "Điện thoại thông minh",
+   "explain": "Bài không nhắc smartphone."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Ban đầu Minh định làm nghề gì?",
+   "en": "When Nguyen Van Minh was a student, he was going to become an accountant. However, after visiting his grandparents' farm, he noticed how hard it was for farmers to spray their fields. Through trial and error, he came up with a simple drone that could spray crops automatically. His first prototypes often crashed, and he was on the point of giving up several times. Today, his company sells thousands of drones each year, and experts say his invention could well revolutionise farming in Southeast Asia.",
+   "options": [
+    "Kế toán",
+    "Nông dân",
+    "Kỹ sư drone",
+    "Phi hành gia"
+   ],
+   "answer": "Kế toán",
+   "explain": "'he was going to become an accountant'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Câu 'he was on the point of giving up several times' cho thấy:",
+   "en": "When Nguyen Van Minh was a student, he was going to become an accountant. However, after visiting his grandparents' farm, he noticed how hard it was for farmers to spray their fields. Through trial and error, he came up with a simple drone that could spray crops automatically. His first prototypes often crashed, and he was on the point of giving up several times. Today, his company sells thousands of drones each year, and experts say his invention could well revolutionise farming in Southeast Asia.",
+   "options": [
+    "Minh nhiều lần suýt bỏ cuộc",
+    "Minh bỏ cuộc thật",
+    "Minh chưa từng gặp khó khăn",
+    "Minh bán hết drone"
+   ],
+   "answer": "Minh nhiều lần suýt bỏ cuộc",
+   "explain": "on the point of = suýt, sắp."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Opinion: Chi tiền cho thám hiểm vũ trụ có đáng?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people believe that spending money on space exploration is a waste when there are so many problems on Earth.\nTo what extent do you agree or disagree?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: paraphrase + thesis (đồng ý / phản đối / một phần)",
+   "Thân 1: vấn đề trên Trái Đất cần ưu tiên (nghèo đói, y tế, biến đổi khí hậu)",
+   "Thân 2: lợi ích của nghiên cứu vũ trụ (GPS, vệ tinh thời tiết, phát minh)",
+   "Dùng might / could well / be on the verge of để nói khả năng tương lai",
+   "Kết bài: nhắc lại quan điểm + đề xuất cân bằng ngân sách"
+  ],
+  "phrases": [
+   "It is often argued that … is a waste of money. — Người ta thường cho rằng … là lãng phí.",
+   "Space research has given us many everyday inventions, such as … — Nghiên cứu vũ trụ mang lại nhiều phát minh đời thường như …",
+   "Without weather satellites, we could not … — Nếu không có vệ tinh thời tiết, chúng ta không thể …",
+   "In the future, space technology could well help us … — Trong tương lai, công nghệ vũ trụ rất có thể giúp ta …",
+   "Therefore, governments should strike a balance between … — Vì vậy chính phủ nên cân bằng giữa …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: The most important invention",
+  "prompt": "Topic: The Internet is the most important invention of the last 100 years.\nIdeas: • changing communication • making information available to everyone • creating new jobs\nFollow-up: What invention do you think might change our lives in the next 20 years?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "What invention might change our lives in the next 20 years?",
+   "Could you live without the Internet for a week?"
+  ],
+  "ideas": [
+   "When people first used the Internet, nobody knew it would…",
+   "It has revolutionised the way we…",
+   "Thanks to the Internet, information that used to be…",
+   "In the next twenty years, I think… could well…",
+   "I was going to say…, but actually…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Imagination is more important than knowledge.",
+   "vi": "Trí tưởng tượng quan trọng hơn kiến thức."
+  },
+  "pron": {
+   "title": "Đuôi -ise/-ize và trọng âm",
+   "rule": "Động từ đuôi -ise thường giữ trọng âm như từ gốc: REV-o-lu-tion → rev-o-LU-tion-ise; COL-o-nise.",
+   "examples": [
+    "revolutionise → /ˌrevəˈluːʃənaɪz/",
+    "colonise → /ˈkɒlənaɪz/",
+    "satellite → /ˈsætəlaɪt/"
+   ]
+  },
+  "phrases": [
+   [
+    "reach for the stars",
+    "đặt mục tiêu cao"
+   ],
+   [
+    "it's not rocket science",
+    "chẳng phải chuyện gì cao siêu"
+   ],
+   [
+    "necessity is the mother of invention",
+    "cái khó ló cái khôn"
+   ]
+  ],
+  "mistake": "Hay viết 'be about to going' hoặc 'on the verge to'. Đúng: be about TO GO; on the verge OF going.",
+  "tip": "Speaking Part 3 câu hỏi mở rộng: dùng might / could well để phỏng đoán tương lai thay cho 'will' cho tự nhiên.",
+  "diary": "Viết 3–5 câu về một phát minh bạn muốn tạo ra, dùng was going to, be on the verge of và could well."
+ }
+}

@@ -1,0 +1,501 @@
+{
+ "id": "bai-30",
+ "lesson": "Bài 30",
+ "day": 25,
+ "date": "2026-12-13",
+ "title": "Chính phủ & dịch vụ công",
+ "enTitle": "Government & Public Services",
+ "past": false,
+ "words": [
+  [
+   "public services",
+   "/ˌpʌblɪk ˈsɜːvɪsɪz/ · n",
+   "dịch vụ công",
+   "Taxes pay for public services such as schools and hospitals.",
+   "Thuế dùng để chi trả dịch vụ công như trường học và bệnh viện."
+  ],
+  [
+   "taxpayers' money",
+   "/ˈtækspeɪəz ˈmʌni/ · n",
+   "tiền thuế của dân",
+   "Taxpayers' money should not be wasted on useless projects.",
+   "Tiền thuế của dân không nên bị lãng phí vào dự án vô ích."
+  ],
+  [
+   "the authorities",
+   "/ði ɔːˈθɒrətiz/ · n",
+   "chính quyền, nhà chức trách",
+   "The local authorities have banned motorbikes from the walking street.",
+   "Chính quyền địa phương đã cấm xe máy vào phố đi bộ."
+  ],
+  [
+   "policy",
+   "/ˈpɒləsi/ · n",
+   "chính sách",
+   "The new policy aims to support small businesses.",
+   "Chính sách mới nhằm hỗ trợ doanh nghiệp nhỏ."
+  ],
+  [
+   "regulation",
+   "/ˌreɡjuˈleɪʃn/ · n",
+   "quy định",
+   "New regulations require all drivers to wear seat belts.",
+   "Quy định mới yêu cầu mọi tài xế thắt dây an toàn."
+  ],
+  [
+   "implement",
+   "/ˈɪmplɪment/ · v",
+   "thực thi, triển khai",
+   "The government plans to implement the new tax system next year.",
+   "Chính phủ dự định triển khai hệ thống thuế mới vào năm sau."
+  ],
+  [
+   "allocate",
+   "/ˈæləkeɪt/ · v",
+   "phân bổ (ngân sách)",
+   "More money should be allocated to rural education.",
+   "Nên phân bổ thêm tiền cho giáo dục nông thôn."
+  ],
+  [
+   "welfare",
+   "/ˈwelfeə/ · n",
+   "phúc lợi",
+   "Social welfare programmes help the elderly and the disabled.",
+   "Chương trình phúc lợi xã hội giúp người già và người khuyết tật."
+  ],
+  [
+   "pension",
+   "/ˈpenʃn/ · n",
+   "lương hưu",
+   "My grandfather lives on a small pension.",
+   "Ông tôi sống bằng đồng lương hưu ít ỏi."
+  ],
+  [
+   "bureaucracy",
+   "/bjʊəˈrɒkrəsi/ · n",
+   "thủ tục hành chính rườm rà",
+   "Too much bureaucracy discourages foreign investors.",
+   "Thủ tục rườm rà khiến nhà đầu tư nước ngoài nản lòng."
+  ],
+  [
+   "online public services",
+   "/ˈɒnlaɪn ˌpʌblɪk ˈsɜːvɪsɪz/ · n",
+   "dịch vụ công trực tuyến",
+   "Citizens can now renew their ID cards using online public services.",
+   "Người dân giờ có thể làm lại căn cước bằng dịch vụ công trực tuyến."
+  ],
+  [
+   "compulsory military service",
+   "/kəmˈpʌlsəri ˈmɪlətri ˈsɜːvɪs/ · n",
+   "nghĩa vụ quân sự bắt buộc",
+   "Young men in Vietnam have to do compulsory military service.",
+   "Nam thanh niên Việt Nam phải thực hiện nghĩa vụ quân sự."
+  ],
+  [
+   "infrastructure investment",
+   "/ˈɪnfrəstrʌktʃər ɪnˈvestmənt/ · n",
+   "đầu tư hạ tầng",
+   "Infrastructure investment creates jobs and boosts growth.",
+   "Đầu tư hạ tầng tạo việc làm và thúc đẩy tăng trưởng."
+  ],
+  [
+   "corruption",
+   "/kəˈrʌpʃn/ · n",
+   "tham nhũng",
+   "Fighting corruption is a top priority for the government.",
+   "Chống tham nhũng là ưu tiên hàng đầu của chính phủ."
+  ],
+  [
+   "transparent",
+   "/trænsˈpærənt/ · adj",
+   "minh bạch",
+   "A transparent budget helps citizens trust the government.",
+   "Ngân sách minh bạch giúp người dân tin tưởng chính phủ."
+  ],
+  [
+   "subsidise",
+   "/ˈsʌbsɪdaɪz/ · v",
+   "trợ cấp",
+   "The government subsidises bus tickets for students.",
+   "Chính phủ trợ giá vé xe buýt cho học sinh."
+  ],
+  [
+   "public consultation",
+   "/ˈpʌblɪk ˌkɒnslˈteɪʃn/ · n",
+   "lấy ý kiến người dân",
+   "The plan was changed after a public consultation.",
+   "Kế hoạch được thay đổi sau khi lấy ý kiến người dân."
+  ],
+  [
+   "law",
+   "/lɔː/ · n",
+   "luật",
+   "A new law requires restaurants to display their prices clearly.",
+   "Luật mới yêu cầu nhà hàng niêm yết giá rõ ràng."
+  ],
+  [
+   "be entitled to",
+   "/ɪnˈtaɪtld tə/ · adj phr",
+   "có quyền được hưởng",
+   "All children are entitled to free primary education.",
+   "Mọi trẻ em có quyền được học tiểu học miễn phí."
+  ],
+  [
+   "red tape",
+   "/ˌred ˈteɪp/ · n",
+   "thủ tục giấy tờ rườm rà",
+   "Small businesses complain about too much red tape.",
+   "Doanh nghiệp nhỏ phàn nàn về quá nhiều thủ tục giấy tờ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "must / have to / be required to — bắt buộc",
+   "meaning": "must: bắt buộc do người nói cho là cần (hoặc biển báo, luật viết). have to: bắt buộc do hoàn cảnh/quy định bên ngoài; dùng cho mọi thì (had to, will have to). be required to / be obliged to: trang trọng.",
+   "examples": [
+    "You must wear a helmet when riding a motorbike. — Bạn phải đội mũ bảo hiểm khi đi xe máy.",
+    "I had to wait three hours at the office yesterday. — Hôm qua tôi phải chờ ba tiếng ở cơ quan.",
+    "All drivers are required to wear seat belts. — Mọi tài xế đều bị yêu cầu thắt dây an toàn."
+   ]
+  },
+  {
+   "form": "mustn't vs don't have to / needn't — cấm vs không cần",
+   "meaning": "mustn't + V: CẤM, không được làm. don't have to / needn't + V: KHÔNG CẦN làm (làm cũng được). Đây là lỗi người Việt hay nhầm.",
+   "examples": [
+    "You mustn't smoke in the hospital. — Bạn không được hút thuốc trong bệnh viện.",
+    "You don't have to go to the office; you can do it online. — Bạn không cần đến cơ quan; làm trực tuyến được.",
+    "Students needn't pay an admission fee. — Sinh viên không cần trả phí vào cửa."
+   ]
+  },
+  {
+   "form": "had better / be supposed to / should — nên, được cho là phải",
+   "meaning": "had better + V (bare): tốt hơn là nên (cảnh báo nếu không sẽ có hậu quả); phủ định had better not + V. be supposed to + V: theo quy định/kỳ vọng là phải (nhưng thường không làm). should / ought to + V: nên.",
+   "examples": [
+    "You'd better renew your passport before it expires. — Bạn nên gia hạn hộ chiếu trước khi hết hạn.",
+    "We are supposed to register our address with the local police. — Theo quy định, chúng ta phải đăng ký tạm trú với công an.",
+    "The government ought to reduce red tape for small businesses. — Chính phủ nên giảm thủ tục cho doanh nghiệp nhỏ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "You ___ smoke in the hospital. It's forbidden.",
+   "options": [
+    "don't have to",
+    "needn't",
+    "mustn't",
+    "had better"
+   ],
+   "answer": "mustn't",
+   "explain": "Cấm → mustn't."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "You ___ go to the office; you can apply online.",
+   "options": [
+    "mustn't",
+    "don't have to",
+    "had better",
+    "are required to"
+   ],
+   "answer": "don't have to",
+   "explain": "Không cần → don't have to."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I ___ wait three hours at the office yesterday.",
+   "options": [
+    "must",
+    "had to",
+    "have to",
+    "must have"
+   ],
+   "answer": "had to",
+   "explain": "Quá khứ của 'phải' → had to."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "You'd better ___ your passport before it expires.",
+   "options": [
+    "to renew",
+    "renewing",
+    "renew",
+    "renewed"
+   ],
+   "answer": "renew",
+   "explain": "had better + V nguyên mẫu."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "We are supposed ___ our address with the local police.",
+   "options": [
+    "registering",
+    "to register",
+    "register",
+    "registered"
+   ],
+   "answer": "to register",
+   "explain": "be supposed to + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Small businesses complain about too much red ___.",
+   "options": [
+    "line",
+    "tape",
+    "paper",
+    "rule"
+   ],
+   "answer": "tape",
+   "explain": "red tape = thủ tục giấy tờ rườm rà."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "All children are ___ to free primary education.",
+   "options": [
+    "allowed",
+    "entitled",
+    "required",
+    "supposed"
+   ],
+   "answer": "entitled",
+   "explain": "be entitled to + N = có quyền hưởng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "All drivers are ___ to wear seat belts.",
+   "answer": [
+    "required",
+    "obliged"
+   ],
+   "explain": "be required to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Students ___ pay an admission fee. (không cần)",
+   "answer": [
+    "needn't",
+    "don't"
+   ],
+   "explain": "needn't / don't have to."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "More money should be ___ to rural education. (phân bổ)",
+   "answer": [
+    "allocated"
+   ],
+   "explain": "allocate to."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The government ___ bus tickets for students. (trợ giá)",
+   "answer": [
+    "subsidises",
+    "subsidizes"
+   ],
+   "explain": "subsidise."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "You",
+    "must",
+    "wear",
+    "a",
+    "helmet",
+    "when",
+    "riding",
+    "a",
+    "motorbike."
+   ],
+   "answer": "You must wear a helmet when riding a motorbike.",
+   "explain": "must + V."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "government",
+    "ought",
+    "to",
+    "reduce",
+    "red",
+    "tape",
+    "for",
+    "small",
+    "businesses."
+   ],
+   "answer": "The government ought to reduce red tape for small businesses.",
+   "explain": "ought to + V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Bạn không cần mang bản gốc. (dùng don't have to)",
+   "answer": [
+    "You don't have to bring the original.",
+    "You do not have to bring the original.",
+    "You don't have to bring the original copy.",
+    "You don't have to bring the original document."
+   ],
+   "explain": "don't have to = không cần."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Bạn không được đỗ xe ở đây.",
+   "answer": [
+    "You mustn't park here.",
+    "You must not park here.",
+    "You are not allowed to park here.",
+    "You can't park here.",
+    "Parking is not allowed here."
+   ],
+   "explain": "mustn't = cấm."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "A transparent budget helps citizens trust the government.",
+   "answer": "Ngân sách minh bạch giúp người dân tin tưởng chính phủ.",
+   "explain": "transparent = minh bạch."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "A few years ago, people in Vietnam had to queue for hours at government offices to apply for documents such as birth certificates or business licences. Today, many of these procedures can be completed through online public services. Citizens no longer have to travel to the office, and they don't need to bring piles of paper. However, elderly people who are not familiar with technology still find the system difficult. Officials say that local staff are supposed to ( ___ ) them, but in reality, help is not always available.",
+   "options": [
+    "help",
+    "helping",
+    "helped",
+    "to help"
+   ],
+   "answer": "help",
+   "explain": "be supposed to + V (to đã có sẵn trước chỗ trống)."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Ai vẫn gặp khó khăn với dịch vụ công trực tuyến?",
+   "en": "A few years ago, people in Vietnam had to queue for hours at government offices to apply for documents such as birth certificates or business licences. Today, many of these procedures can be completed through online public services. Citizens no longer have to travel to the office, and they don't need to bring piles of paper. However, elderly people who are not familiar with technology still find the system difficult. Officials say that local staff are supposed to ( ___ ) them, but in reality, help is not always available.",
+   "options": [
+    "Người cao tuổi không quen công nghệ",
+    "Doanh nghiệp lớn",
+    "Sinh viên",
+    "Nhân viên chính phủ"
+   ],
+   "answer": "Người cao tuổi không quen công nghệ",
+   "explain": "'elderly people who are not familiar with technology'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Những người phản đối nghĩa vụ quân sự bắt buộc cho rằng:",
+   "en": "Should young people be required to do military or community service? In Vietnam, young men have to complete compulsory military service, usually for two years. Supporters argue that it teaches discipline and responsibility. Critics, however, say that young people should be free to choose, since they might prefer to continue their studies or start their careers. Some countries offer an alternative: young people can do community service, such as working in hospitals or schools, instead of joining the army.",
+   "options": [
+    "Người trẻ nên được tự do lựa chọn",
+    "Nó dạy tính kỷ luật",
+    "Nó nên kéo dài hơn",
+    "Nó chỉ dành cho nữ"
+   ],
+   "answer": "Người trẻ nên được tự do lựa chọn",
+   "explain": "'young people should be free to choose'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – từ vựng] 'an alternative' trong đoạn văn có nghĩa là:",
+   "en": "Should young people be required to do military or community service? In Vietnam, young men have to complete compulsory military service, usually for two years. Supporters argue that it teaches discipline and responsibility. Critics, however, say that young people should be free to choose, since they might prefer to continue their studies or start their careers. Some countries offer an alternative: young people can do community service, such as working in hospitals or schools, instead of joining the army.",
+   "options": [
+    "một lựa chọn khác",
+    "một luật mới",
+    "một hình phạt",
+    "một trường học"
+   ],
+   "answer": "một lựa chọn khác",
+   "explain": "alternative = lựa chọn thay thế."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Problem & Solution: Thủ tục hành chính rườm rà",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "In many countries, people complain that dealing with government offices is slow and complicated.\nWhat problems does this cause, and what can be done to improve public services?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: It is undeniable that… + thesis",
+   "Thân 1 – vấn đề: mất thời gian, doanh nghiệp nản lòng (red tape, bureaucracy), dễ phát sinh tham nhũng",
+   "Thân 2 – giải pháp: dịch vụ công trực tuyến, quy trình minh bạch, đào tạo nhân viên, hỗ trợ người già",
+   "Dùng must / have to / don't have to / should để nêu giải pháp và quy định",
+   "Kết bài: tóm vấn đề + giải pháp"
+  ],
+  "phrases": [
+   "It is undeniable that slow public services are a source of frustration for … — Không thể phủ nhận dịch vụ công chậm chạp gây bực bội cho …",
+   "Citizens often have to queue for hours … — Người dân thường phải xếp hàng hàng giờ …",
+   "Too much red tape discourages … — Quá nhiều thủ tục rườm rà làm nản lòng …",
+   "Thanks to online public services, people no longer have to … — Nhờ dịch vụ công trực tuyến, người dân không còn phải …",
+   "Procedures must be made more transparent so that … — Thủ tục phải được làm minh bạch hơn để …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: How governments should spend money",
+  "prompt": "Topic: Governments should spend more money on education than on anything else.\nIdeas: • training a skilled workforce • reducing poverty • building a better society\nFollow-up: Should university education be free?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Should university education be free?",
+   "What public service in your area needs improving most?"
+  ],
+  "ideas": [
+   "In my view, the government ought to…",
+   "First of all, a skilled workforce is…",
+   "Children from poor families shouldn't have to…",
+   "Of course, the government also has to spend money on…",
+   "To sum up, I believe that…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "The government is us; we are the government, you and I.",
+   "vi": "Chính phủ là chúng ta; chúng ta là chính phủ, bạn và tôi."
+  },
+  "pron": {
+   "title": "Đọc 'have to' và 'has to'",
+   "rule": "have to đọc /ˈhæftə/ (âm /f/, không phải /v/), has to đọc /ˈhæstə/, had to đọc /ˈhættə/.",
+   "examples": [
+    "have to → /ˈhæftə/",
+    "has to → /ˈhæstə/",
+    "supposed to → /səˈpəʊstə/"
+   ]
+  },
+  "phrases": [
+   [
+    "cut through the red tape",
+    "vượt qua thủ tục rườm rà"
+   ],
+   [
+    "a drop in the ocean",
+    "muối bỏ biển"
+   ],
+   [
+    "at the taxpayers' expense",
+    "bằng tiền thuế của dân"
+   ]
+  ],
+  "mistake": "Hay nhầm 'mustn't' (cấm) với 'don't have to' (không cần). 'You mustn't come' = cấm bạn đến; 'You don't have to come' = bạn không cần đến.",
+  "tip": "Listening VSTEP Part 1 (thông báo, hướng dẫn): chú ý must/mustn't/don't have to — đề hay hỏi điều gì BẮT BUỘC hoặc KHÔNG CẦN.",
+  "diary": "Viết 3–5 câu về quy định ở trường/công ty bạn, dùng must, have to, mustn't, don't have to và be supposed to."
+ }
+}

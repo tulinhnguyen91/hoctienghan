@@ -1,0 +1,503 @@
+{
+ "id": "bai-19",
+ "lesson": "Bài 19",
+ "day": 12,
+ "date": "2026-11-30",
+ "title": "Biến đổi khí hậu & năng lượng",
+ "enTitle": "Climate Change & Energy",
+ "past": false,
+ "words": [
+  [
+   "climate change",
+   "/ˈklaɪmət tʃeɪndʒ/ · n",
+   "biến đổi khí hậu",
+   "Climate change is causing more frequent storms in central Vietnam.",
+   "Biến đổi khí hậu khiến bão xảy ra thường xuyên hơn ở miền Trung."
+  ],
+  [
+   "global warming",
+   "/ˌɡləʊbl ˈwɔːmɪŋ/ · n",
+   "sự nóng lên toàn cầu",
+   "Global warming is melting glaciers and raising sea levels.",
+   "Sự nóng lên toàn cầu làm tan băng và dâng mực nước biển."
+  ],
+  [
+   "rising sea levels",
+   "/ˌraɪzɪŋ ˈsiː levlz/ · n",
+   "mực nước biển dâng",
+   "Rising sea levels threaten the Mekong Delta.",
+   "Mực nước biển dâng đe dọa đồng bằng sông Cửu Long."
+  ],
+  [
+   "extreme weather events",
+   "/ɪkˈstriːm ˈweðər ɪˈvents/ · n",
+   "hiện tượng thời tiết cực đoan",
+   "Extreme weather events such as floods and droughts are becoming more common.",
+   "Hiện tượng thời tiết cực đoan như lũ và hạn hán ngày càng phổ biến."
+  ],
+  [
+   "drought",
+   "/draʊt/ · n",
+   "hạn hán",
+   "The long drought destroyed thousands of hectares of rice.",
+   "Đợt hạn hán dài phá hủy hàng nghìn hecta lúa."
+  ],
+  [
+   "solar panels",
+   "/ˈsəʊlə ˈpænlz/ · n",
+   "tấm pin năng lượng mặt trời",
+   "More families are installing solar panels on their roofs.",
+   "Ngày càng nhiều gia đình lắp pin mặt trời trên mái nhà."
+  ],
+  [
+   "wind farm",
+   "/ˈwɪnd fɑːm/ · n",
+   "trang trại điện gió",
+   "A large wind farm has been built along the coast of Ninh Thuan.",
+   "Một trang trại điện gió lớn đã được xây dọc bờ biển Ninh Thuận."
+  ],
+  [
+   "energy-efficient",
+   "/ˈenədʒi ɪˌfɪʃnt/ · adj",
+   "tiết kiệm năng lượng",
+   "Energy-efficient air conditioners cost more but save money in the long run.",
+   "Điều hòa tiết kiệm điện đắt hơn nhưng về lâu dài lại tiết kiệm tiền."
+  ],
+  [
+   "carbon emissions",
+   "/ˈkɑːbən iˈmɪʃnz/ · n",
+   "khí thải carbon",
+   "Cities must reduce carbon emissions from transport.",
+   "Các thành phố phải giảm khí thải carbon từ giao thông."
+  ],
+  [
+   "electric vehicles",
+   "/ɪˈlektrɪk ˈviːəklz/ · n",
+   "xe điện",
+   "Electric vehicles produce no exhaust while driving.",
+   "Xe điện không xả khí khi chạy."
+  ],
+  [
+   "power cut",
+   "/ˈpaʊə kʌt/ · n",
+   "mất điện",
+   "The heatwave caused several power cuts in northern Vietnam.",
+   "Đợt nắng nóng gây mất điện nhiều lần ở miền Bắc."
+  ],
+  [
+   "energy consumption",
+   "/ˈenədʒi kənˈsʌmpʃn/ · n",
+   "mức tiêu thụ năng lượng",
+   "Energy consumption rises sharply in summer because of air conditioning.",
+   "Mức tiêu thụ điện tăng mạnh vào mùa hè do dùng điều hòa."
+  ],
+  [
+   "heatwave",
+   "/ˈhiːtweɪv/ · n",
+   "đợt nắng nóng",
+   "During the heatwave, temperatures reached 42°C.",
+   "Trong đợt nắng nóng, nhiệt độ lên đến 42°C."
+  ],
+  [
+   "mitigate",
+   "/ˈmɪtɪɡeɪt/ · v",
+   "giảm nhẹ",
+   "Planting mangroves can mitigate the effects of storms.",
+   "Trồng rừng ngập mặn có thể giảm nhẹ tác động của bão."
+  ],
+  [
+   "adapt to",
+   "/əˈdæpt tə/ · v",
+   "thích ứng với",
+   "Farmers must adapt to changing weather patterns.",
+   "Nông dân phải thích ứng với kiểu thời tiết thay đổi."
+  ],
+  [
+   "clean energy",
+   "/ˌkliːn ˈenədʒi/ · n",
+   "năng lượng sạch",
+   "Investing in clean energy creates new jobs.",
+   "Đầu tư vào năng lượng sạch tạo ra việc làm mới."
+  ],
+  [
+   "irreversible",
+   "/ˌɪrɪˈvɜːsəbl/ · adj",
+   "không thể đảo ngược",
+   "Some scientists fear that the damage may soon become irreversible.",
+   "Một số nhà khoa học lo thiệt hại có thể sớm không thể đảo ngược."
+  ],
+  [
+   "reduce reliance on",
+   "/rɪˈdjuːs rɪˈlaɪəns ɒn/ · v phr",
+   "giảm phụ thuộc vào",
+   "Vietnam aims to reduce reliance on coal power.",
+   "Việt Nam đặt mục tiêu giảm phụ thuộc vào nhiệt điện than."
+  ],
+  [
+   "coal-fired power plants",
+   "/ˈkəʊl faɪəd ˈpaʊə plɑːnts/ · n",
+   "nhà máy nhiệt điện than",
+   "Coal-fired power plants are a major source of air pollution.",
+   "Nhà máy nhiệt điện than là nguồn gây ô nhiễm không khí lớn."
+  ],
+  [
+   "the net-zero target",
+   "/ˌnet ˈzɪərəʊ ˈtɑːɡɪt/ · n",
+   "mục tiêu phát thải ròng bằng 0",
+   "Vietnam has committed to the net-zero target by 2050.",
+   "Việt Nam đã cam kết mục tiêu phát thải ròng bằng 0 vào năm 2050."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "provided (that) / as long as / on condition that",
+   "meaning": "= if (với điều kiện là), dùng như câu điều kiện loại 1 (HTĐ ở mệnh đề điều kiện). 'as long as' thân mật hơn; 'provided that' và 'on condition that' trang trọng.",
+   "examples": [
+    "We can reach the net-zero target provided that all sectors cut emissions. — Chúng ta có thể đạt mục tiêu với điều kiện mọi ngành cắt giảm khí thải.",
+    "You can borrow my electric bike as long as you charge it. — Bạn có thể mượn xe điện miễn là bạn sạc nó.",
+    "The company received funding on condition that it built a wind farm. — Công ty được cấp vốn với điều kiện xây trang trại điện gió."
+   ]
+  },
+  {
+   "form": "otherwise / or (else) — nếu không thì",
+   "meaning": "Mệnh đề 1 (thường là lời khuyên/bắt buộc). Otherwise, + mệnh đề hậu quả. Hoặc: …, or (else) + mệnh đề.",
+   "examples": [
+    "We must act now. Otherwise, the damage will become irreversible. — Chúng ta phải hành động ngay. Nếu không, thiệt hại sẽ không thể đảo ngược.",
+    "Turn off the lights, or you will waste electricity. — Tắt đèn đi, không thì phí điện.",
+    "Farmers need to adapt; otherwise, they will lose their crops. — Nông dân cần thích ứng; nếu không sẽ mất mùa."
+   ]
+  },
+  {
+   "form": "But for / Without + N — nếu không có",
+   "meaning": "But for / Without + N, S + would (have) + V(3). Thay cho If it were not for (loại 2) / If it had not been for (loại 3).",
+   "examples": [
+    "Without solar panels, our electricity bill would be much higher. — Nếu không có pin mặt trời, hóa đơn điện của chúng tôi sẽ cao hơn nhiều.",
+    "But for the mangroves, the village would have been destroyed by the storm. — Nếu không có rừng ngập mặn, ngôi làng đã bị bão phá hủy.",
+    "If it were not for clean energy, pollution would be worse. — Nếu không có năng lượng sạch, ô nhiễm sẽ tệ hơn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "We can reach the target ___ all sectors cut emissions.",
+   "options": [
+    "unless",
+    "provided that",
+    "otherwise",
+    "without"
+   ],
+   "answer": "provided that",
+   "explain": "provided that = với điều kiện là."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "You can use my bike ___ you charge it after use.",
+   "options": [
+    "as long as",
+    "unless",
+    "otherwise",
+    "but for"
+   ],
+   "answer": "as long as",
+   "explain": "as long as = miễn là."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "We must act now. ___, the damage will be irreversible.",
+   "options": [
+    "Provided",
+    "Unless",
+    "Otherwise",
+    "As long as"
+   ],
+   "answer": "Otherwise",
+   "explain": "Otherwise = nếu không thì."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "___ the mangroves, the village would have been destroyed.",
+   "options": [
+    "But for",
+    "Unless",
+    "Provided",
+    "As long as"
+   ],
+   "answer": "But for",
+   "explain": "But for + N = nếu không có."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Without solar panels, our bill ___ much higher.",
+   "options": [
+    "will be",
+    "would be",
+    "is",
+    "has been"
+   ],
+   "answer": "would be",
+   "explain": "Without + N, S + would + V (giả định hiện tại)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Farmers must ___ to changing weather patterns.",
+   "options": [
+    "adapt",
+    "adopt",
+    "adjust with",
+    "accept"
+   ],
+   "answer": "adapt",
+   "explain": "adapt to = thích ứng với."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Planting mangroves can ___ the effects of storms.",
+   "options": [
+    "mitigate",
+    "increase",
+    "mitigate to",
+    "cause"
+   ],
+   "answer": "mitigate",
+   "explain": "mitigate = giảm nhẹ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Turn off the lights, ___ you will waste electricity.",
+   "answer": [
+    "or",
+    "otherwise"
+   ],
+   "explain": "or (else) = không thì."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "If it ___ not for clean energy, pollution would be worse.",
+   "answer": [
+    "were"
+   ],
+   "explain": "If it were not for + N."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Energy-___ air conditioners save money in the long run.",
+   "answer": [
+    "efficient"
+   ],
+   "explain": "energy-efficient."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Vietnam aims to reduce ___ on coal power.",
+   "answer": [
+    "reliance",
+    "dependence"
+   ],
+   "explain": "reduce reliance on."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "company",
+    "received",
+    "funding",
+    "on",
+    "condition",
+    "that",
+    "it",
+    "built",
+    "a",
+    "wind",
+    "farm."
+   ],
+   "answer": "The company received funding on condition that it built a wind farm.",
+   "explain": "on condition that."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Without",
+    "solar",
+    "panels,",
+    "our",
+    "electricity",
+    "bill",
+    "would",
+    "be",
+    "much",
+    "higher."
+   ],
+   "answer": "Without solar panels, our electricity bill would be much higher.",
+   "explain": "Without + N + would."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Nếu không có pin mặt trời, hóa đơn điện sẽ cao gấp đôi.",
+   "answer": [
+    "Without solar panels, the electricity bill would be twice as high.",
+    "Without solar panels, my electricity bill would be twice as high.",
+    "But for solar panels, the electricity bill would be twice as high.",
+    "If it were not for solar panels, the electricity bill would be twice as high.",
+    "Without solar panels, electricity bills would be twice as high."
+   ],
+   "explain": "Without/But for + N, would + V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Chúng ta phải tiết kiệm điện, nếu không sẽ bị mất điện.",
+   "answer": [
+    "We must save electricity; otherwise, there will be power cuts.",
+    "We must save electricity, or there will be power cuts.",
+    "We must save electricity. Otherwise, there will be power cuts.",
+    "We have to save electricity; otherwise, there will be power cuts."
+   ],
+   "explain": "otherwise / or."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Some scientists fear that the damage may soon become irreversible.",
+   "answer": "Một số nhà khoa học lo ngại rằng thiệt hại có thể sớm trở nên không thể đảo ngược.",
+   "explain": "irreversible = không thể đảo ngược."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất",
+   "en": "The Mekong Delta, often called Vietnam's 'rice bowl', is one of the regions most threatened by climate change. Rising sea levels are pushing salt water further inland, damaging rice fields and drinking water. In 2020, a severe drought affected hundreds of thousands of households. Many farmers have started to adapt by switching from rice to shrimp farming or growing fruit that can tolerate salt. Experts say the delta can survive ( ___ ) the government and local people work together to manage water more wisely.",
+   "options": [
+    "provided that",
+    "otherwise",
+    "but for",
+    "without"
+   ],
+   "answer": "provided that",
+   "explain": "Điều kiện để đồng bằng tồn tại → provided that."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Nông dân đã thích ứng bằng cách nào?",
+   "en": "The Mekong Delta, often called Vietnam's 'rice bowl', is one of the regions most threatened by climate change. Rising sea levels are pushing salt water further inland, damaging rice fields and drinking water. In 2020, a severe drought affected hundreds of thousands of households. Many farmers have started to adapt by switching from rice to shrimp farming or growing fruit that can tolerate salt. Experts say the delta can survive ( ___ ) the government and local people work together to manage water more wisely.",
+   "options": [
+    "Chuyển sang nuôi tôm hoặc trồng cây chịu mặn",
+    "Chuyển lên thành phố",
+    "Trồng thêm lúa",
+    "Ngừng làm nông"
+   ],
+   "answer": "Chuyển sang nuôi tôm hoặc trồng cây chịu mặn",
+   "explain": "'switching from rice to shrimp farming or growing fruit that can tolerate salt'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Điều gì giúp điện mặt trời phát triển nhanh?",
+   "en": "Ten years ago, solar panels were rare in Vietnam. Today, they can be seen on the roofs of houses, schools and factories. The rapid growth was helped by government support, which made solar power cheaper for families. Mr Binh, a teacher in Da Nang, installed panels on his roof three years ago. 'Without them, my electricity bill would be twice as high,' he says. However, experts warn that the national grid must be upgraded; otherwise, it will not be able to handle so much solar electricity.",
+   "options": [
+    "Sự hỗ trợ của chính phủ",
+    "Giá điện giảm",
+    "Trường học yêu cầu",
+    "Ông Bình quảng cáo"
+   ],
+   "answer": "Sự hỗ trợ của chính phủ",
+   "explain": "'helped by government support'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Chuyên gia lo ngại điều gì?",
+   "en": "Ten years ago, solar panels were rare in Vietnam. Today, they can be seen on the roofs of houses, schools and factories. The rapid growth was helped by government support, which made solar power cheaper for families. Mr Binh, a teacher in Da Nang, installed panels on his roof three years ago. 'Without them, my electricity bill would be twice as high,' he says. However, experts warn that the national grid must be upgraded; otherwise, it will not be able to handle so much solar electricity.",
+   "options": [
+    "Lưới điện quốc gia có thể không đáp ứng nổi",
+    "Pin mặt trời quá đắt",
+    "Không ai lắp pin",
+    "Trời không đủ nắng"
+   ],
+   "answer": "Lưới điện quốc gia có thể không đáp ứng nổi",
+   "explain": "'the national grid must be upgraded; otherwise…'."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Problem & Solution: Biến đổi khí hậu ở Việt Nam",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Climate change is having a serious impact on many countries, including Vietnam.\nWhat problems does climate change cause, and what can governments and individuals do to deal with it?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: … is one of the most serious challenges… + thesis",
+   "Thân 1 – vấn đề: nước biển dâng, hạn hán – xâm nhập mặn, thời tiết cực đoan (ví dụ đồng bằng sông Cửu Long)",
+   "Thân 2 – giải pháp: chính phủ (clean energy, giảm điện than), cá nhân (energy-efficient, xe điện)",
+   "Dùng provided that / otherwise / without để nối ý",
+   "Kết bài: tóm tắt + kêu gọi hành động ngay"
+  ],
+  "phrases": [
+   "Climate change is one of the most serious challenges facing … — Biến đổi khí hậu là một trong những thách thức nghiêm trọng nhất đối với …",
+   "The most visible effect is … — Tác động dễ thấy nhất là …",
+   "The government should reduce reliance on coal-fired power plants. — Chính phủ nên giảm phụ thuộc vào nhiệt điện than.",
+   "Individuals can make a difference by … — Mỗi người có thể tạo ra thay đổi bằng cách …",
+   "We must act now; otherwise, … — Chúng ta phải hành động ngay; nếu không …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: Saving energy at home",
+  "prompt": "Topic: Every family can help fight climate change by saving energy.\nIdeas: • using energy-efficient appliances • turning off devices when not in use • installing solar panels\nFollow-up: Should the government make electricity more expensive to encourage people to save energy?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Should the government make electricity more expensive to encourage saving?",
+   "What do you do to save energy at home?"
+  ],
+  "ideas": [
+   "I believe every household can contribute to…",
+   "To begin with, energy-efficient appliances…",
+   "Simply turning off devices… otherwise…",
+   "Installing solar panels is expensive at first, but provided that…",
+   "Without everyone's effort, …"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "We do not inherit the Earth from our ancestors; we borrow it from our children.",
+   "vi": "Chúng ta không thừa kế Trái Đất từ tổ tiên; chúng ta mượn nó từ con cháu."
+  },
+  "pron": {
+   "title": "Âm /aʊ/ và /əʊ/",
+   "rule": "/aʊ/ như 'ao' (drought, power). /əʊ/ như 'âu' (coal, solar). Đừng đọc drought thành 'đờ-rốt'.",
+   "examples": [
+    "drought → /draʊt/",
+    "power → /ˈpaʊə/",
+    "solar → /ˈsəʊlə/"
+   ]
+  },
+  "phrases": [
+   [
+    "reach a tipping point",
+    "chạm ngưỡng không thể quay lại"
+   ],
+   [
+    "the tip of the iceberg",
+    "phần nổi của tảng băng"
+   ],
+   [
+    "go green",
+    "sống xanh"
+   ]
+  ],
+  "mistake": "Hay dùng 'unless' và 'otherwise' lẫn nhau. Unless nằm TRONG mệnh đề điều kiện (Unless we act…); Otherwise đứng đầu mệnh đề hậu quả.",
+  "tip": "Writing Problem–Solution: chia giải pháp theo 2 cấp (chính phủ – cá nhân) giúp bài rõ ràng và đủ ý.",
+  "diary": "Viết 3–5 câu về cách gia đình bạn tiết kiệm điện, dùng as long as, otherwise và without."
+ }
+}

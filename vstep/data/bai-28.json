@@ -1,0 +1,500 @@
+{
+ "id": "bai-28",
+ "lesson": "Bài 28",
+ "day": 23,
+ "date": "2026-12-11",
+ "title": "Nghệ thuật & giải trí",
+ "enTitle": "Arts & Leisure",
+ "past": false,
+ "words": [
+  [
+   "exhibition",
+   "/ˌeksɪˈbɪʃn/ · n",
+   "triển lãm",
+   "The museum is holding an exhibition of Vietnamese lacquer paintings.",
+   "Bảo tàng đang tổ chức triển lãm tranh sơn mài Việt Nam."
+  ],
+  [
+   "art gallery",
+   "/ˈɑːt ˌɡæləri/ · n",
+   "phòng trưng bày nghệ thuật",
+   "There are many small art galleries in Hanoi's Old Quarter.",
+   "Có nhiều phòng tranh nhỏ ở phố cổ Hà Nội."
+  ],
+  [
+   "masterpiece",
+   "/ˈmɑːstəpiːs/ · n",
+   "kiệt tác",
+   "This painting is considered a masterpiece of modern art.",
+   "Bức tranh được coi là kiệt tác nghệ thuật hiện đại."
+  ],
+  [
+   "performing arts",
+   "/pəˌfɔːmɪŋ ˈɑːts/ · n",
+   "nghệ thuật biểu diễn",
+   "The government should fund the performing arts such as theatre and dance.",
+   "Chính phủ nên tài trợ nghệ thuật biểu diễn như sân khấu và múa."
+  ],
+  [
+   "traditional music",
+   "/trəˈdɪʃənl ˈmjuːzɪk/ · n",
+   "âm nhạc truyền thống",
+   "Ca tru is a form of traditional music from northern Vietnam.",
+   "Ca trù là một loại âm nhạc truyền thống miền Bắc."
+  ],
+  [
+   "water puppetry",
+   "/ˈwɔːtə ˈpʌpɪtri/ · n",
+   "múa rối nước",
+   "Tourists love watching water puppetry in Hanoi.",
+   "Du khách rất thích xem múa rối nước ở Hà Nội."
+  ],
+  [
+   "creativity",
+   "/ˌkriːeɪˈtɪvəti/ · n",
+   "sự sáng tạo",
+   "Art classes help children develop creativity.",
+   "Lớp mỹ thuật giúp trẻ phát triển sự sáng tạo."
+  ],
+  [
+   "artistic talent",
+   "/ɑːˈtɪstɪk ˈtælənt/ · n",
+   "năng khiếu nghệ thuật",
+   "She showed great artistic talent at an early age.",
+   "Cô ấy sớm bộc lộ năng khiếu nghệ thuật."
+  ],
+  [
+   "hobby",
+   "/ˈhɒbi/ · n",
+   "sở thích",
+   "My favourite hobby is playing the guitar.",
+   "Sở thích của tôi là chơi guitar."
+  ],
+  [
+   "take up a hobby",
+   "/teɪk ʌp ə ˈhɒbi/ · v phr",
+   "bắt đầu một sở thích",
+   "I took up painting to relieve stress.",
+   "Tôi bắt đầu vẽ tranh để giảm căng thẳng."
+  ],
+  [
+   "relieve stress",
+   "/rɪˈliːv stres/ · v phr",
+   "giảm căng thẳng",
+   "Listening to music helps me relieve stress.",
+   "Nghe nhạc giúp tôi giảm căng thẳng."
+  ],
+  [
+   "gripping",
+   "/ˈɡrɪpɪŋ/ · adj",
+   "lôi cuốn, hấp dẫn",
+   "The novel was so gripping that I finished it in one night.",
+   "Cuốn tiểu thuyết lôi cuốn đến mức tôi đọc hết trong một đêm."
+  ],
+  [
+   "disappointing",
+   "/ˌdɪsəˈpɔɪntɪŋ/ · adj",
+   "gây thất vọng",
+   "The ending of the film was rather disappointing.",
+   "Cái kết của bộ phim khá đáng thất vọng."
+  ],
+  [
+   "fascinated",
+   "/ˈfæsɪneɪtɪd/ · adj",
+   "bị cuốn hút",
+   "I was fascinated by the colours in the painting.",
+   "Tôi bị cuốn hút bởi màu sắc trong bức tranh."
+  ],
+  [
+   "audience",
+   "/ˈɔːdiəns/ · n",
+   "khán giả",
+   "The audience gave the singer a standing ovation.",
+   "Khán giả đứng dậy vỗ tay tán thưởng ca sĩ."
+  ],
+  [
+   "public funding",
+   "/ˈpʌblɪk ˈfʌndɪŋ/ · n",
+   "tài trợ công",
+   "Many theatres rely on public funding to survive.",
+   "Nhiều nhà hát phụ thuộc tài trợ công để tồn tại."
+  ],
+  [
+   "admission fee",
+   "/ədˈmɪʃn fiː/ · n",
+   "phí vào cửa",
+   "Some museums do not charge an admission fee.",
+   "Một số bảo tàng không thu phí vào cửa."
+  ],
+  [
+   "open-air concert",
+   "/ˌəʊpən ˈeə ˈkɒnsət/ · n",
+   "hòa nhạc ngoài trời",
+   "Thousands of fans attended the open-air concert.",
+   "Hàng nghìn người hâm mộ dự buổi hòa nhạc ngoài trời."
+  ],
+  [
+   "appreciate art",
+   "/əˈpriːʃieɪt ɑːt/ · v phr",
+   "thưởng thức, cảm thụ nghệ thuật",
+   "Visiting museums teaches children to appreciate art.",
+   "Đi bảo tàng dạy trẻ biết thưởng thức nghệ thuật."
+  ],
+  [
+   "broaden one's mind",
+   "/ˈbrɔːdn wʌnz maɪnd/ · v phr",
+   "mở mang đầu óc",
+   "Reading books from other cultures broadens your mind.",
+   "Đọc sách của các nền văn hóa khác giúp mở mang đầu óc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Tính từ -ed vs -ing",
+   "meaning": "-ing: tính chất của sự vật/người gây ra cảm xúc (a boring film, an interesting book). -ed: cảm xúc của người (I am bored, she was interested). Cặp hay gặp: bored/boring, interested/interesting, excited/exciting, disappointed/disappointing, fascinated/fascinating, exhausted/exhausting, embarrassed/embarrassing.",
+   "examples": [
+    "The film was boring, so I felt bored. — Bộ phim chán nên tôi thấy chán.",
+    "I was fascinated by the exhibition. It was fascinating. — Tôi bị cuốn hút bởi triển lãm. Nó thật cuốn hút.",
+    "The ending was disappointing, and many viewers were disappointed. — Cái kết gây thất vọng, nhiều khán giả thất vọng."
+   ]
+  },
+  {
+   "form": "Trật tự tính từ (OSASCOMP)",
+   "meaning": "Opinion (beautiful) – Size (big) – Age (old) – Shape (round) – Colour (red) – Origin (Vietnamese) – Material (silk) – Purpose (dining) + Noun. Thường chỉ dùng 2–3 tính từ.",
+   "examples": [
+    "a beautiful old Vietnamese painting — một bức tranh Việt Nam cổ đẹp",
+    "a small round wooden table — một chiếc bàn gỗ tròn nhỏ",
+    "a lovely red silk áo dài — một chiếc áo dài lụa đỏ xinh xắn"
+   ]
+  },
+  {
+   "form": "too … (for sb) to V / … enough (for sb) to V",
+   "meaning": "too + adj/adv + (for sb) + to V: quá… đến nỗi không. adj/adv + enough + (for sb) + to V: đủ… để. enough + N + to V: đủ (danh từ) để. Không có 'very' trước 'too'.",
+   "examples": [
+    "The tickets were too expensive for students to buy. — Vé quá đắt nên sinh viên không mua nổi.",
+    "The museum is close enough for us to walk there. — Bảo tàng đủ gần để chúng tôi đi bộ tới.",
+    "I don't have enough time to take up a new hobby. — Tôi không đủ thời gian để bắt đầu sở thích mới."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tính từ đúng",
+   "en": "The film was so ___ that I fell asleep.",
+   "options": [
+    "bored",
+    "boring",
+    "bore",
+    "boredom"
+   ],
+   "answer": "boring",
+   "explain": "Tính chất bộ phim → -ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tính từ đúng",
+   "en": "I was ___ by the colours in the painting.",
+   "options": [
+    "fascinating",
+    "fascinated",
+    "fascinate",
+    "fascination"
+   ],
+   "answer": "fascinated",
+   "explain": "Cảm xúc của người → -ed."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tính từ đúng",
+   "en": "The ending was ___, and many viewers were disappointed.",
+   "options": [
+    "disappointed",
+    "disappointing",
+    "disappoint",
+    "disappointment"
+   ],
+   "answer": "disappointing",
+   "explain": "Tính chất cái kết → -ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn trật tự tính từ đúng",
+   "en": "She bought a ___ painting.",
+   "options": [
+    "Vietnamese beautiful old",
+    "beautiful old Vietnamese",
+    "old Vietnamese beautiful",
+    "beautiful Vietnamese old"
+   ],
+   "answer": "beautiful old Vietnamese",
+   "explain": "Opinion – Age – Origin."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The tickets were ___ expensive for students to buy.",
+   "options": [
+    "very",
+    "enough",
+    "too",
+    "so"
+   ],
+   "answer": "too",
+   "explain": "too + adj + for sb + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The museum is ___ for us to walk there.",
+   "options": [
+    "enough close",
+    "close enough",
+    "too close",
+    "so close"
+   ],
+   "answer": "close enough",
+   "explain": "adj + enough."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Listening to music helps me ___ stress.",
+   "options": [
+    "relieve",
+    "release of",
+    "reduce from",
+    "remove off"
+   ],
+   "answer": "relieve",
+   "explain": "relieve stress = giảm căng thẳng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của từ trong ngoặc",
+   "en": "The novel was so ___ that I finished it in one night. (grip)",
+   "answer": [
+    "gripping"
+   ],
+   "explain": "gripping = lôi cuốn."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng",
+   "en": "I felt ___ after the long concert. (exhaust)",
+   "answer": [
+    "exhausted"
+   ],
+   "explain": "Cảm xúc người → -ed."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "I don't have ___ time to take up a new hobby.",
+   "answer": [
+    "enough"
+   ],
+   "explain": "enough + N + to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Some museums do not charge an ___ fee.",
+   "answer": [
+    "admission",
+    "entrance",
+    "entry"
+   ],
+   "explain": "admission fee = phí vào cửa."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "audience",
+    "gave",
+    "the",
+    "singer",
+    "a",
+    "standing",
+    "ovation."
+   ],
+   "answer": "The audience gave the singer a standing ovation.",
+   "explain": "standing ovation = đứng dậy vỗ tay."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Reading",
+    "books",
+    "from",
+    "other",
+    "cultures",
+    "broadens",
+    "your",
+    "mind."
+   ],
+   "answer": "Reading books from other cultures broadens your mind.",
+   "explain": "broaden one's mind."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Vé quá đắt nên tôi không mua nổi. (dùng too… to)",
+   "answer": [
+    "The ticket was too expensive for me to buy.",
+    "The tickets were too expensive for me to buy.",
+    "The ticket was too expensive for me to afford.",
+    "The tickets were too expensive for me to afford.",
+    "The ticket was too expensive to buy."
+   ],
+   "explain": "too + adj + for sb + to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi thấy triển lãm rất thú vị.",
+   "answer": [
+    "I found the exhibition very interesting.",
+    "I found the exhibition really interesting.",
+    "I thought the exhibition was very interesting.",
+    "The exhibition was very interesting.",
+    "I found the exhibition extremely interesting."
+   ],
+   "explain": "Tính chất triển lãm → interesting."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Many theatres rely on public funding to survive.",
+   "answer": "Nhiều nhà hát phụ thuộc vào tài trợ công để tồn tại.",
+   "explain": "rely on = phụ thuộc vào."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Water puppetry is one of Vietnam's oldest art forms, dating back nearly a thousand years. Farmers used to perform it in flooded rice fields after the harvest. Today, the Thang Long Water Puppet Theatre in Hanoi welcomes thousands of visitors every week, most of whom are fascinated by the colourful wooden puppets. However, the number of young performers is falling because the training is long and the salary is too low ( ___ ) them to make a living. Some artists are now using social media to attract a younger audience.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "with"
+   ],
+   "answer": "for",
+   "explain": "too low for them to make a living."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Ngày xưa múa rối nước được biểu diễn ở đâu?",
+   "en": "Water puppetry is one of Vietnam's oldest art forms, dating back nearly a thousand years. Farmers used to perform it in flooded rice fields after the harvest. Today, the Thang Long Water Puppet Theatre in Hanoi welcomes thousands of visitors every week, most of whom are fascinated by the colourful wooden puppets. However, the number of young performers is falling because the training is long and the salary is too low ( ___ ) them to make a living. Some artists are now using social media to attract a younger audience.",
+   "options": [
+    "Ruộng lúa ngập nước sau mùa gặt",
+    "Nhà hát lớn",
+    "Trên mạng xã hội",
+    "Trong chùa"
+   ],
+   "answer": "Ruộng lúa ngập nước sau mùa gặt",
+   "explain": "'perform it in flooded rice fields after the harvest'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao nhiều bảo tàng châu Âu miễn phí vé?",
+   "en": "Should governments spend public money on the arts? Some people argue that the money would be better spent on hospitals and schools. Others believe that museums, theatres and concerts are essential for a society because they help people relieve stress, appreciate their culture and broaden their minds. In many European cities, national museums do not charge an admission fee, so that everyone can enjoy art regardless of their income. Supporters say that this policy has made art more accessible, especially to children and students.",
+   "options": [
+    "Để mọi người đều được thưởng thức nghệ thuật dù thu nhập thế nào",
+    "Vì không ai đến",
+    "Vì được bán tranh",
+    "Vì chính phủ cấm thu phí"
+   ],
+   "answer": "Để mọi người đều được thưởng thức nghệ thuật dù thu nhập thế nào",
+   "explain": "'so that everyone can enjoy art regardless of their income'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Đoạn B bàn về:",
+   "en": "Should governments spend public money on the arts? Some people argue that the money would be better spent on hospitals and schools. Others believe that museums, theatres and concerts are essential for a society because they help people relieve stress, appreciate their culture and broaden their minds. In many European cities, national museums do not charge an admission fee, so that everyone can enjoy art regardless of their income. Supporters say that this policy has made art more accessible, especially to children and students.",
+   "options": [
+    "Có nên dùng tiền công cho nghệ thuật",
+    "Cách vẽ tranh",
+    "Lịch sử bảo tàng",
+    "Giá vé hòa nhạc"
+   ],
+   "answer": "Có nên dùng tiền công cho nghệ thuật",
+   "explain": "Câu mở đầu."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư cảm ơn sau buổi biểu diễn",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "Last weekend, a friend took you to a traditional music performance.\nWrite an email to your friend. In your email:\n• thank him/her\n• say what you enjoyed most\n• suggest another activity you could do together.\nYou should write at least 120 words.",
+  "outline": [
+   "Hi + tên, + I'm writing to say a big thank you for…",
+   "Đoạn 1: cảm ơn + ấn tượng chung (dùng -ing/-ed: fascinating, I was fascinated…)",
+   "Đoạn 2: điều thích nhất (What I enjoyed most was… because…), 1 cụm tính từ đúng trật tự",
+   "Đoạn 3: rủ hoạt động khác (Next time, why don't we… ?)",
+   "Kết: Thanks again for everything. Hope to see you soon! / Best wishes,"
+  ],
+  "phrases": [
+   "I'm writing to say a big thank you for … — Mình viết để cảm ơn bạn rất nhiều vì …",
+   "I was absolutely fascinated by … — Mình thực sự bị cuốn hút bởi …",
+   "What I enjoyed most was … because … — Điều mình thích nhất là … vì …",
+   "Next time, why don't we go to … together? — Lần sau mình cùng đi … nhé?",
+   "Thanks again for such a wonderful evening. — Cảm ơn bạn lần nữa vì buổi tối tuyệt vời."
+  ]
+ },
+ "speaking": {
+  "part": 1,
+  "title": "Social interaction: art & hobbies",
+  "prompt": "Let's talk about art. Then let's talk about your hobbies.",
+  "questions": [
+   "Do you like visiting museums or art galleries?",
+   "Have you ever watched a traditional performance such as water puppetry?",
+   "Is art important for children? Why?",
+   "What do you usually do in your free time?",
+   "Is there a hobby you would like to take up in the future?",
+   "Do you think hobbies help people relieve stress?"
+  ],
+  "ideas": [
+   "To be honest, I'm not very interested in…, but…",
+   "I was really fascinated when I watched…",
+   "I think art helps children develop…",
+   "In my free time, I usually…",
+   "I'd love to take up… but I'm too busy to…"
+  ],
+  "minutes": 3
+ },
+ "corner": {
+  "quote": {
+   "en": "Art washes away from the soul the dust of everyday life.",
+   "vi": "Nghệ thuật rửa trôi bụi bặm đời thường khỏi tâm hồn."
+  },
+  "pron": {
+   "title": "Đuôi -ed trong tính từ cảm xúc",
+   "rule": "Áp dụng quy tắc -ed: interested /ɪd/, bored /d/, fascinated /ɪd/, embarrassed /t/, relaxed /t/.",
+   "examples": [
+    "interested → /ˈɪntrəstɪd/",
+    "bored → /bɔːd/",
+    "relaxed → /rɪˈlækst/"
+   ]
+  },
+  "phrases": [
+   [
+    "a feast for the eyes",
+    "bữa tiệc cho đôi mắt"
+   ],
+   [
+    "steal the show",
+    "chiếm trọn spotlight"
+   ],
+   [
+    "it's not my cup of tea",
+    "không phải gu của tôi"
+   ]
+  ],
+  "mistake": "Hay nói 'I am boring' khi muốn nói 'tôi thấy chán' — nghĩa thành 'tôi là người nhàm chán'. Đúng: I am BORED.",
+  "tip": "Speaking Part 1: dùng đúng -ed/-ing và thêm một câu too…to / enough…to là cách đơn giản để thể hiện ngữ pháp B2.",
+  "diary": "Kể 3–5 câu về một bộ phim hay buổi diễn gần đây, dùng 2 cặp -ed/-ing, 1 cụm tính từ có trật tự đúng và 1 câu too/enough."
+ }
+}

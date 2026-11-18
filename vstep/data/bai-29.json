@@ -1,0 +1,495 @@
+{
+ "id": "bai-29",
+ "lesson": "Bài 29",
+ "day": 24,
+ "date": "2026-12-12",
+ "title": "Ngôn ngữ & di cư",
+ "enTitle": "Languages & Migration",
+ "past": false,
+ "words": [
+  [
+   "mother tongue",
+   "/ˌmʌðə ˈtʌŋ/ · n",
+   "tiếng mẹ đẻ",
+   "Children of immigrants sometimes forget their mother tongue.",
+   "Con của người nhập cư đôi khi quên tiếng mẹ đẻ."
+  ],
+  [
+   "bilingual",
+   "/baɪˈlɪŋɡwəl/ · adj",
+   "song ngữ",
+   "Bilingual children often find it easier to learn a third language.",
+   "Trẻ song ngữ thường học ngôn ngữ thứ ba dễ hơn."
+  ],
+  [
+   "fluent in",
+   "/ˈfluːənt ɪn/ · adj",
+   "thông thạo",
+   "She is fluent in English and Japanese.",
+   "Cô ấy thông thạo tiếng Anh và tiếng Nhật."
+  ],
+  [
+   "accent",
+   "/ˈæksent/ · n",
+   "giọng (vùng miền, nước)",
+   "Having an accent is not a problem as long as people can understand you.",
+   "Có giọng địa phương không sao miễn là người khác hiểu bạn."
+  ],
+  [
+   "language barrier",
+   "/ˈlæŋɡwɪdʒ ˈbæriə/ · n",
+   "rào cản ngôn ngữ",
+   "The language barrier made it difficult for him to find a job abroad.",
+   "Rào cản ngôn ngữ khiến anh ấy khó tìm việc ở nước ngoài."
+  ],
+  [
+   "immigrant",
+   "/ˈɪmɪɡrənt/ · n",
+   "người nhập cư",
+   "Many immigrants send money home to their families.",
+   "Nhiều người nhập cư gửi tiền về cho gia đình."
+  ],
+  [
+   "emigrate",
+   "/ˈemɪɡreɪt/ · v",
+   "di cư ra nước ngoài",
+   "Thousands of Vietnamese emigrate to Japan and Korea for work every year.",
+   "Hàng nghìn người Việt sang Nhật và Hàn làm việc mỗi năm."
+  ],
+  [
+   "brain drain",
+   "/ˈbreɪn dreɪn/ · n",
+   "chảy máu chất xám",
+   "The brain drain is a serious problem for developing countries.",
+   "Chảy máu chất xám là vấn đề nghiêm trọng với các nước đang phát triển."
+  ],
+  [
+   "integrate into",
+   "/ˈɪntɪɡreɪt ˈɪntə/ · v",
+   "hòa nhập vào",
+   "Learning the language helps immigrants integrate into society.",
+   "Học ngôn ngữ giúp người nhập cư hòa nhập xã hội."
+  ],
+  [
+   "remittances",
+   "/rɪˈmɪtnsɪz/ · n",
+   "kiều hối",
+   "Remittances from overseas workers support many rural families.",
+   "Kiều hối từ lao động ở nước ngoài hỗ trợ nhiều gia đình nông thôn."
+  ],
+  [
+   "overseas",
+   "/ˌəʊvəˈsiːz/ · adj, adv",
+   "ở nước ngoài",
+   "Studying overseas is a dream for many students.",
+   "Du học là ước mơ của nhiều sinh viên."
+  ],
+  [
+   "homesick",
+   "/ˈhəʊmsɪk/ · adj",
+   "nhớ nhà",
+   "I felt homesick during my first winter in Canada.",
+   "Tôi nhớ nhà trong mùa đông đầu tiên ở Canada."
+  ],
+  [
+   "dialect",
+   "/ˈdaɪəlekt/ · n",
+   "phương ngữ",
+   "Each region of Vietnam has its own dialect.",
+   "Mỗi vùng ở Việt Nam có phương ngữ riêng."
+  ],
+  [
+   "pick up a language",
+   "/pɪk ʌp ə ˈlæŋɡwɪdʒ/ · v phr",
+   "học (ngôn ngữ) một cách tự nhiên",
+   "Children pick up languages faster than adults.",
+   "Trẻ em tiếp thu ngôn ngữ nhanh hơn người lớn."
+  ],
+  [
+   "native speaker",
+   "/ˌneɪtɪv ˈspiːkə/ · n",
+   "người bản ngữ",
+   "Practising with native speakers improves your listening.",
+   "Luyện tập với người bản ngữ giúp cải thiện kỹ năng nghe."
+  ],
+  [
+   "work permit",
+   "/ˈwɜːk pɜːmɪt/ · n",
+   "giấy phép lao động",
+   "Foreign workers need a work permit to work legally.",
+   "Lao động nước ngoài cần giấy phép lao động để làm việc hợp pháp."
+  ],
+  [
+   "multicultural",
+   "/ˌmʌltiˈkʌltʃərəl/ · adj",
+   "đa văn hóa",
+   "London is one of the most multicultural cities in the world.",
+   "London là một trong những thành phố đa văn hóa nhất thế giới."
+  ],
+  [
+   "endangered language",
+   "/ɪnˈdeɪndʒəd ˈlæŋɡwɪdʒ/ · n",
+   "ngôn ngữ có nguy cơ biến mất",
+   "Several ethnic minority languages in Vietnam are endangered languages.",
+   "Một số tiếng dân tộc thiểu số ở Việt Nam có nguy cơ biến mất."
+  ],
+  [
+   "get by in",
+   "/ɡet ˈbaɪ ɪn/ · phr v",
+   "xoay xở được (về ngôn ngữ)",
+   "I can get by in Korean, but I'm not fluent.",
+   "Tôi xoay xở được bằng tiếng Hàn nhưng chưa thông thạo."
+  ],
+  [
+   "better job prospects",
+   "/ˈbetə dʒɒb ˈprɒspekts/ · n",
+   "cơ hội việc làm tốt hơn",
+   "Many young people move abroad for better job prospects.",
+   "Nhiều người trẻ ra nước ngoài để có cơ hội việc làm tốt hơn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Động từ tường thuật + to V: promise, refuse, offer, agree, threaten, decide",
+   "meaning": "S + reporting verb + to V. Phủ định: + not to V. Thay cho said that… trong câu tường thuật, giúp câu ngắn và học thuật hơn.",
+   "examples": [
+    "\"I'll help you with your English,\" she said. → She offered to help me with my English. — Cô ấy đề nghị giúp tôi học tiếng Anh.",
+    "He refused to speak Vietnamese at home. — Cậu ấy từ chối nói tiếng Việt ở nhà.",
+    "My brother promised to call our parents every week. — Anh tôi hứa gọi điện cho bố mẹ mỗi tuần."
+   ]
+  },
+  {
+   "form": "Động từ tường thuật + O + to V: advise, warn, remind, urge, encourage, persuade, invite",
+   "meaning": "S + verb + O + (not) to V. warn sb not to V: cảnh báo ai đừng làm. remind sb to V: nhắc ai làm.",
+   "examples": [
+    "\"You should practise with native speakers,\" the teacher said. → The teacher advised us to practise with native speakers. — Giáo viên khuyên chúng tôi luyện với người bản ngữ.",
+    "My mother reminded me to bring my work permit. — Mẹ nhắc tôi mang giấy phép lao động.",
+    "The agency warned workers not to pay illegal fees. — Cơ quan cảnh báo người lao động không đóng phí bất hợp pháp."
+   ]
+  },
+  {
+   "form": "Động từ tường thuật + V-ing / that: admit, deny, suggest, recommend, insist on, apologise for",
+   "meaning": "admit / deny + V-ing (hoặc having V3): thừa nhận / phủ nhận. suggest + V-ing hoặc suggest that + S + (should) V. insist on + V-ing.",
+   "examples": [
+    "He admitted feeling homesick during his first year abroad. — Anh ấy thừa nhận đã nhớ nhà năm đầu ở nước ngoài.",
+    "She denied cheating in the language test. — Cô ấy phủ nhận gian lận trong bài thi ngôn ngữ.",
+    "My friend suggested joining an English club. — Bạn tôi gợi ý tham gia câu lạc bộ tiếng Anh."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"I'll help you,\" she said. → She ___ me.",
+   "options": [
+    "offered helping",
+    "offered to help",
+    "offered me help to",
+    "offered that help"
+   ],
+   "answer": "offered to help",
+   "explain": "offer + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"You should practise every day,\" the teacher said. → The teacher ___ every day.",
+   "options": [
+    "advised to practise us",
+    "advised us to practise",
+    "advised us practising",
+    "advised that us practise"
+   ],
+   "answer": "advised us to practise",
+   "explain": "advise + O + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"Don't pay any fees to brokers!\" → The agency warned workers ___ fees to brokers.",
+   "options": [
+    "don't pay",
+    "not to pay",
+    "to not paying",
+    "not paying"
+   ],
+   "answer": "not to pay",
+   "explain": "warn sb not to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"I didn't cheat,\" she said. → She denied ___.",
+   "options": [
+    "to cheat",
+    "cheating",
+    "cheat",
+    "that cheating"
+   ],
+   "answer": "cheating",
+   "explain": "deny + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"Let's join an English club,\" my friend said. → My friend suggested ___ an English club.",
+   "options": [
+    "to join",
+    "joining",
+    "us to join",
+    "join"
+   ],
+   "answer": "joining",
+   "explain": "suggest + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "The ___ made it difficult for him to find a job abroad.",
+   "options": [
+    "brain drain",
+    "language barrier",
+    "mother tongue",
+    "work permit"
+   ],
+   "answer": "language barrier",
+   "explain": "language barrier = rào cản ngôn ngữ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "I can ___ by in Korean, but I'm not fluent.",
+   "options": [
+    "go",
+    "get",
+    "come",
+    "pass"
+   ],
+   "answer": "get",
+   "explain": "get by = xoay xở được."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "He admitted ___ (feel) homesick during his first year.",
+   "answer": [
+    "feeling",
+    "having felt"
+   ],
+   "explain": "admit + V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "My mother reminded me ___ bring my work permit.",
+   "answer": [
+    "to"
+   ],
+   "explain": "remind sb to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Her parents insisted ___ speaking Vietnamese at home.",
+   "answer": [
+    "on"
+   ],
+   "explain": "insist on + V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The ___ drain is a serious problem for developing countries.",
+   "answer": [
+    "brain"
+   ],
+   "explain": "brain drain = chảy máu chất xám."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Learning",
+    "the",
+    "language",
+    "helps",
+    "immigrants",
+    "integrate",
+    "into",
+    "society."
+   ],
+   "answer": "Learning the language helps immigrants integrate into society.",
+   "explain": "integrate into."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "My",
+    "brother",
+    "promised",
+    "to",
+    "call",
+    "our",
+    "parents",
+    "every",
+    "week."
+   ],
+   "answer": "My brother promised to call our parents every week.",
+   "explain": "promise + to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Anh ấy từ chối nói tiếng Anh trên lớp.",
+   "answer": [
+    "He refused to speak English in class.",
+    "He refused to speak English in the classroom.",
+    "He refused to speak English during class."
+   ],
+   "explain": "refuse + to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Giáo viên khuyên chúng tôi xem phim tiếng Anh.",
+   "answer": [
+    "The teacher advised us to watch English films.",
+    "The teacher advised us to watch films in English.",
+    "Our teacher advised us to watch English films.",
+    "The teacher advised us to watch English movies.",
+    "Our teacher advised us to watch films in English."
+   ],
+   "explain": "advise + O + to V."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Children pick up languages faster than adults.",
+   "answer": "Trẻ em tiếp thu ngôn ngữ nhanh hơn người lớn.",
+   "explain": "pick up = học một cách tự nhiên."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn dạng phù hợp",
+   "en": "Every year, tens of thousands of Vietnamese workers emigrate to Japan, South Korea and Taiwan. Most of them hope to earn higher salaries and send remittances home to their families. However, the language barrier is often their biggest challenge. Many workers admit ( ___ ) lonely and homesick during their first months abroad. Recruitment agencies now advise workers to study the language for at least six months before leaving, and warn them not to pay illegal fees to brokers.",
+   "options": [
+    "feeling",
+    "to feel",
+    "feel",
+    "felt"
+   ],
+   "answer": "feeling",
+   "explain": "admit + V-ing."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Các công ty tuyển dụng khuyên người lao động điều gì?",
+   "en": "Every year, tens of thousands of Vietnamese workers emigrate to Japan, South Korea and Taiwan. Most of them hope to earn higher salaries and send remittances home to their families. However, the language barrier is often their biggest challenge. Many workers admit ( ___ ) lonely and homesick during their first months abroad. Recruitment agencies now advise workers to study the language for at least six months before leaving, and warn them not to pay illegal fees to brokers.",
+   "options": [
+    "Học ngoại ngữ ít nhất sáu tháng trước khi đi",
+    "Không gửi tiền về nhà",
+    "Chọn Nhật Bản",
+    "Đóng phí cho môi giới"
+   ],
+   "answer": "Học ngoại ngữ ít nhất sáu tháng trước khi đi",
+   "explain": "'advise workers to study the language for at least six months'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao bố mẹ Thảo nói tiếng Việt ở nhà?",
+   "en": "When Thao moved to Australia at the age of eight, she could not speak a word of English. Her parents insisted on speaking Vietnamese at home, as they were worried that she would forget her mother tongue. At school, however, she picked up English very quickly. Today, she is fully bilingual and works as an interpreter at a hospital. She says that being able to speak both languages has given her better job prospects and helped her feel at home in a multicultural society.",
+   "options": [
+    "Họ lo Thảo quên tiếng mẹ đẻ",
+    "Họ không biết tiếng Anh",
+    "Trường yêu cầu",
+    "Thảo không thích tiếng Anh"
+   ],
+   "answer": "Họ lo Thảo quên tiếng mẹ đẻ",
+   "explain": "'worried that she would forget her mother tongue'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Theo Thảo, việc song ngữ đã giúp cô:",
+   "en": "When Thao moved to Australia at the age of eight, she could not speak a word of English. Her parents insisted on speaking Vietnamese at home, as they were worried that she would forget her mother tongue. At school, however, she picked up English very quickly. Today, she is fully bilingual and works as an interpreter at a hospital. She says that being able to speak both languages has given her better job prospects and helped her feel at home in a multicultural society.",
+   "options": [
+    "Có cơ hội việc làm tốt hơn và hòa nhập xã hội đa văn hóa",
+    "Quên tiếng Việt",
+    "Về Việt Nam sống",
+    "Trở thành giáo viên"
+   ],
+   "answer": "Có cơ hội việc làm tốt hơn và hòa nhập xã hội đa văn hóa",
+   "explain": "Câu cuối."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Discussion: Chảy máu chất xám",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Many talented young people from developing countries move abroad to work. Some people think this is good for their home countries, while others think it is harmful.\nDiscuss both views and give your opinion.\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: When it comes to…, people hold different opinions. + thesis",
+   "Thân 1: mặt tích cực – kiều hối, kinh nghiệm quốc tế, có thể quay về (dùng động từ tường thuật: experts argue…, many admit…)",
+   "Thân 2: mặt tiêu cực – brain drain, thiếu bác sĩ/kỹ sư + ý kiến của bạn",
+   "Đề xuất ngắn: chính phủ nên encourage talented people to return…",
+   "Kết bài: tóm 2 phía + nhắc lại ý kiến"
+  ],
+  "phrases": [
+   "When it comes to the brain drain, people hold different opinions. — Khi nói đến chảy máu chất xám, mỗi người có ý kiến khác nhau.",
+   "Supporters point out that remittances … — Những người ủng hộ chỉ ra rằng kiều hối …",
+   "Many overseas workers admit feeling … — Nhiều lao động ở nước ngoài thừa nhận cảm thấy …",
+   "Critics warn governments not to ignore … — Những người phản đối cảnh báo chính phủ đừng bỏ qua …",
+   "Governments should encourage talented people to return by … — Chính phủ nên khuyến khích nhân tài quay về bằng cách …"
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: học ngoại ngữ trước khi ra nước ngoài",
+  "prompt": "Situation: Your friend is going to work in Japan in six months but cannot speak Japanese. What is the best way for her to prepare?\n1. Take an intensive course at a language centre\n2. Learn by herself with apps and videos\n3. Find a Japanese friend to practise with",
+  "questions": [
+   "Which option would you recommend and why?",
+   "Why are the other two options less suitable?"
+  ],
+  "ideas": [
+   "I would advise her to…",
+   "An intensive course would help her to…",
+   "Learning with apps is cheap, but I doubt she could…",
+   "Practising with a native speaker is great; however, …",
+   "I'd also suggest combining…"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "To have another language is to possess a second soul.",
+   "vi": "Biết thêm một ngôn ngữ là có thêm một tâm hồn."
+  },
+  "pron": {
+   "title": "Âm /ŋ/ ở cuối từ",
+   "rule": "Đuôi -ng đọc /ŋ/ (không bật 'g' thành 'ng-gờ'): tongue /tʌŋ/, language /ˈlæŋɡwɪdʒ/ (có /ɡ/ ở giữa), singer /ˈsɪŋə/.",
+   "examples": [
+    "tongue → /tʌŋ/",
+    "bilingual → /baɪˈlɪŋɡwəl/",
+    "picking → /ˈpɪkɪŋ/"
+   ]
+  },
+  "phrases": [
+   [
+    "lost in translation",
+    "mất ý khi dịch"
+   ],
+   [
+    "a fish out of water",
+    "lạc lõng như cá trên cạn"
+   ],
+   [
+    "break the ice",
+    "phá vỡ sự ngại ngùng"
+   ]
+  ],
+  "mistake": "Hay viết 'suggest me to join' hoặc 'advise to practise us'. Đúng: suggest JOINING / suggest that I join; advise US TO practise.",
+  "tip": "Writing Task 2: dùng động từ tường thuật (argue, admit, warn, suggest) để dẫn ý kiến người khác thay vì lặp lại 'people say'.",
+  "diary": "Kể lại 3–5 lời khuyên bạn từng nhận về việc học tiếng Anh, dùng advised me to, suggested V-ing, reminded me to và promised to."
+ }
+}

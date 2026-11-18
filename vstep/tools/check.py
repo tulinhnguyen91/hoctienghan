@@ -23,7 +23,7 @@ for it in idx['lessons']:
         elif t == 'vi':
             if not e.get('en'): err.append(f'{tag}: thiếu câu en: {e["q"]}')
         else: err.append(f'{tag}: type lạ {t}')
-        if t in ('choice', 'fill') and e.get('en') and '___' not in e['en']: err.append(f'{tag}: thiếu ___ trong câu: {e["en"]}')
+        if t == 'fill' and e.get('en') and '___' not in e['en']: err.append(f'{tag}: thiếu ___ trong câu: {e["en"]}')
     p = next((x for x in plan['days'] if x.get('id') == tag), None)
     if p and (p['date'] != L['date'] or it['date'] != L['date']): err.append(f'{tag}: ngày không khớp plan/index')
     if it['words'] != len(L['words']) or it['exercises'] != len(L['exercises']): err.append(f'{tag}: số đếm trong index sai')

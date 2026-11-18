@@ -1,0 +1,502 @@
+{
+ "id": "bai-33",
+ "lesson": "Bài 33",
+ "day": 28,
+ "date": "2026-12-16",
+ "title": "Kỹ năng Nói Part 1–3",
+ "enTitle": "Speaking Skills",
+ "past": false,
+ "words": [
+  [
+   "to be honest",
+   "/tə bi ˈɒnɪst/ · phr",
+   "thành thật mà nói",
+   "To be honest, I'm not a big fan of spicy food.",
+   "Thành thật mà nói, tôi không thích đồ cay lắm."
+  ],
+  [
+   "as far as I'm concerned",
+   "/əz fɑːr əz aɪm kənˈsɜːnd/ · phr",
+   "theo như tôi thấy",
+   "As far as I'm concerned, health is more important than money.",
+   "Theo tôi, sức khỏe quan trọng hơn tiền."
+  ],
+  [
+   "I'd say",
+   "/aɪd seɪ/ · phr",
+   "tôi cho là",
+   "I'd say that most young people prefer texting to calling.",
+   "Tôi cho là phần lớn người trẻ thích nhắn tin hơn gọi điện."
+  ],
+  [
+   "that's a good question",
+   "/ðæts ə ɡʊd ˈkwestʃən/ · phr",
+   "câu hỏi hay (để có thời gian nghĩ)",
+   "That's a good question. Let me think about it for a second.",
+   "Câu hỏi hay đấy. Để tôi nghĩ một chút."
+  ],
+  [
+   "I've never really thought about it",
+   "/aɪv ˈnevə ˈrɪəli ˈθɔːt əˈbaʊt ɪt/ · phr",
+   "tôi chưa từng nghĩ về điều đó",
+   "I've never really thought about it, but I guess I would choose the city.",
+   "Tôi chưa từng nghĩ tới, nhưng chắc tôi sẽ chọn thành phố."
+  ],
+  [
+   "it depends on",
+   "/ɪt dɪˈpendz ɒn/ · phr",
+   "tùy thuộc vào",
+   "It depends on the weather, but I usually go jogging in the morning.",
+   "Tùy thời tiết, nhưng tôi thường chạy bộ buổi sáng."
+  ],
+  [
+   "on the one hand",
+   "/ɒn ðə wʌn hænd/ · phr",
+   "một mặt",
+   "On the one hand, living alone gives you freedom.",
+   "Một mặt, sống một mình cho bạn sự tự do."
+  ],
+  [
+   "having said that",
+   "/ˈhævɪŋ sed ðæt/ · phr",
+   "dù nói vậy",
+   "It's expensive. Having said that, it's worth every penny.",
+   "Nó đắt. Dù vậy, nó đáng từng đồng."
+  ],
+  [
+   "for instance",
+   "/fər ˈɪnstəns/ · phr",
+   "ví dụ như",
+   "Many hobbies, for instance painting, help reduce stress.",
+   "Nhiều sở thích, ví dụ vẽ tranh, giúp giảm căng thẳng."
+  ],
+  [
+   "a case in point",
+   "/ə keɪs ɪn pɔɪnt/ · n phr",
+   "ví dụ điển hình",
+   "Traffic jams are a big problem; Hanoi is a case in point.",
+   "Kẹt xe là vấn đề lớn; Hà Nội là ví dụ điển hình."
+  ],
+  [
+   "personally",
+   "/ˈpɜːsənəli/ · adv",
+   "cá nhân tôi",
+   "Personally, I prefer studying in the morning.",
+   "Cá nhân tôi thích học buổi sáng."
+  ],
+  [
+   "what I mean is",
+   "/wɒt aɪ miːn ɪz/ · phr",
+   "ý tôi là",
+   "What I mean is that we need more green spaces.",
+   "Ý tôi là chúng ta cần thêm không gian xanh."
+  ],
+  [
+   "in other words",
+   "/ɪn ˈʌðə wɜːdz/ · phr",
+   "nói cách khác",
+   "He is a workaholic — in other words, he never stops working.",
+   "Anh ấy nghiện việc — nói cách khác, anh ấy không bao giờ ngừng làm."
+  ],
+  [
+   "I'm not entirely sure, but",
+   "/aɪm nɒt ɪnˈtaɪəli ʃʊə bʌt/ · phr",
+   "tôi không chắc lắm, nhưng",
+   "I'm not entirely sure, but I think it might be cheaper online.",
+   "Tôi không chắc lắm, nhưng tôi nghĩ mua online có thể rẻ hơn."
+  ],
+  [
+   "the main reason is that",
+   "/ðə meɪn ˈriːzn ɪz ðæt/ · phr",
+   "lý do chính là",
+   "The main reason is that public transport is much cheaper.",
+   "Lý do chính là giao thông công cộng rẻ hơn nhiều."
+  ],
+  [
+   "all things considered",
+   "/ɔːl θɪŋz kənˈsɪdəd/ · phr",
+   "xét mọi mặt",
+   "All things considered, I would choose the second option.",
+   "Xét mọi mặt, tôi sẽ chọn phương án thứ hai."
+  ],
+  [
+   "rule out",
+   "/ruːl ˈaʊt/ · phr v",
+   "loại bỏ (phương án)",
+   "I would rule out the first option because it is too expensive.",
+   "Tôi loại phương án một vì quá đắt."
+  ],
+  [
+   "go for",
+   "/ɡəʊ fɔː/ · phr v",
+   "chọn",
+   "If I were you, I would go for the cheaper option.",
+   "Nếu là bạn, tôi sẽ chọn phương án rẻ hơn."
+  ],
+  [
+   "the bottom line is",
+   "/ðə ˌbɒtəm ˈlaɪn ɪz/ · phr",
+   "điều cốt lõi là",
+   "The bottom line is that we need to act now.",
+   "Điều cốt lõi là chúng ta phải hành động ngay."
+  ],
+  [
+   "to sum up",
+   "/tə sʌm ʌp/ · phr",
+   "tóm lại",
+   "To sum up, I believe that technology does more good than harm.",
+   "Tóm lại, tôi tin rằng công nghệ lợi nhiều hơn hại."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Nêu quan điểm tự nhiên (Giving opinions)",
+   "meaning": "Thay vì lặp 'I think', luân phiên: I'd say (that)…, As far as I'm concerned, …, Personally, …, From my point of view, …, I strongly believe that…, I'm convinced that… Đồng ý một phần: I partly agree, but…",
+   "examples": [
+    "As far as I'm concerned, learning English is essential. — Theo tôi, học tiếng Anh là điều thiết yếu.",
+    "Personally, I'd rather live in the countryside. — Cá nhân tôi thích sống ở nông thôn hơn.",
+    "I partly agree, but I think it depends on the person. — Tôi đồng ý một phần, nhưng tôi nghĩ còn tùy người."
+   ]
+  },
+  {
+   "form": "Kéo dài thời gian & phỏng đoán (Buying time & speculating)",
+   "meaning": "Khi bí ý: That's a good question…, Let me think…, I've never really thought about it, but… Phỏng đoán: I'm not entirely sure, but…, I guess / I suppose…, It might / could be…, It's hard to say, but probably…",
+   "examples": [
+    "That's a good question. Let me think… I suppose the main reason is money. — Câu hỏi hay. Để tôi nghĩ… Chắc lý do chính là tiền.",
+    "I'm not entirely sure, but it could be because of the weather. — Tôi không chắc lắm, nhưng có thể là do thời tiết.",
+    "It's hard to say, but probably more people will work from home. — Khó nói lắm, nhưng có lẽ nhiều người sẽ làm ở nhà hơn."
+   ]
+  },
+  {
+   "form": "Đưa ví dụ & lý do (Giving examples & reasons)",
+   "meaning": "Mô hình trả lời Part 1: Trả lời thẳng → lý do (The main reason is that… / This is because…) → ví dụ (For instance, … / A case in point is… / Take … for example). Part 2: I'd go for…, I'd rule out… because…",
+   "examples": [
+    "I love reading. The main reason is that it helps me relax. For instance, I read a novel every night before bed. — Tôi thích đọc. Lý do chính là nó giúp tôi thư giãn. Ví dụ tối nào tôi cũng đọc tiểu thuyết trước khi ngủ.",
+    "I'd go for the metro because it's fast. I'd rule out the taxi since it's too expensive. — Tôi chọn tàu điện vì nhanh. Tôi loại taxi vì quá đắt.",
+    "Take my hometown, for example — it has changed a lot. — Lấy quê tôi làm ví dụ — nó đã thay đổi rất nhiều."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn cụm phù hợp để kéo dài thời gian",
+   "en": "Examiner: Why do people like living in cities? — Candidate: ___ I suppose it's because of job opportunities.",
+   "options": [
+    "That's a good question.",
+    "To sum up,",
+    "The bottom line is",
+    "In other words,"
+   ],
+   "answer": "That's a good question.",
+   "explain": "That's a good question = cách lịch sự để có thời gian nghĩ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cụm nêu quan điểm",
+   "en": "___, health is more important than money.",
+   "options": [
+    "As far as I'm concerned",
+    "For instance",
+    "Having said that",
+    "To sum up"
+   ],
+   "answer": "As far as I'm concerned",
+   "explain": "Nêu quan điểm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cụm phù hợp",
+   "en": "It's expensive. ___, it's worth every penny.",
+   "options": [
+    "For instance",
+    "Having said that",
+    "The main reason is",
+    "As far as I'm concerned"
+   ],
+   "answer": "Having said that",
+   "explain": "Having said that = dù vậy (nhượng bộ)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cụm phù hợp",
+   "en": "Traffic jams are a big problem; Hanoi is a case ___ point.",
+   "options": [
+    "of",
+    "at",
+    "in",
+    "for"
+   ],
+   "answer": "in",
+   "explain": "a case in point."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cụm phù hợp",
+   "en": "I would ___ the first option because it's too expensive.",
+   "options": [
+    "go for",
+    "rule out",
+    "depend on",
+    "sum up"
+   ],
+   "answer": "rule out",
+   "explain": "rule out = loại bỏ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cụm phù hợp",
+   "en": "If I were you, I would ___ the cheaper option.",
+   "options": [
+    "rule out",
+    "go for",
+    "depend",
+    "think about"
+   ],
+   "answer": "go for",
+   "explain": "go for = chọn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách trả lời Part 1 tốt nhất",
+   "en": "Examiner: Do you like cooking?",
+   "options": [
+    "Yes.",
+    "Yes, I do. The main reason is that it helps me relax. For instance, I cook for my family every Sunday.",
+    "Yes, I like cooking very much very much.",
+    "Cooking is a thing."
+   ],
+   "answer": "Yes, I do. The main reason is that it helps me relax. For instance, I cook for my family every Sunday.",
+   "explain": "Trả lời thẳng + lý do + ví dụ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "It ___ on the weather, but I usually go jogging.",
+   "answer": [
+    "depends"
+   ],
+   "explain": "It depends on."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "He is a workaholic — in other ___, he never stops working.",
+   "answer": [
+    "words"
+   ],
+   "explain": "in other words."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "All things ___, I would choose the second option.",
+   "answer": [
+    "considered"
+   ],
+   "explain": "all things considered."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "To be ___, I'm not a big fan of spicy food.",
+   "answer": [
+    "honest"
+   ],
+   "explain": "to be honest."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "I'm",
+    "not",
+    "entirely",
+    "sure,",
+    "but",
+    "it",
+    "might",
+    "be",
+    "cheaper",
+    "online."
+   ],
+   "answer": "I'm not entirely sure, but it might be cheaper online.",
+   "explain": "Phỏng đoán thận trọng."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "main",
+    "reason",
+    "is",
+    "that",
+    "public",
+    "transport",
+    "is",
+    "much",
+    "cheaper."
+   ],
+   "answer": "The main reason is that public transport is much cheaper.",
+   "explain": "The main reason is that + mệnh đề."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Thành thật mà nói, tôi chưa từng nghĩ về điều đó.",
+   "answer": [
+    "To be honest, I've never really thought about it.",
+    "To be honest, I have never thought about it.",
+    "To be honest, I've never thought about it.",
+    "Honestly, I've never really thought about it.",
+    "To be honest, I have never really thought about it."
+   ],
+   "explain": "to be honest; I've never really thought about it."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tóm lại, tôi sẽ chọn phương án thứ hai.",
+   "answer": [
+    "To sum up, I would choose the second option.",
+    "To sum up, I'd choose the second option.",
+    "To sum up, I would go for the second option.",
+    "To sum up, I'd go for the second option.",
+    "In conclusion, I would choose the second option."
+   ],
+   "explain": "to sum up; go for / choose."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Using natural phrases can make candidates sound more fluent.",
+   "answer": "Dùng những cụm từ tự nhiên có thể giúp thí sinh nghe trôi chảy hơn.",
+   "explain": "sound + adj = nghe có vẻ."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ nối phù hợp nhất",
+   "en": "Examiner: Do you prefer studying alone or with friends?\nCandidate: That's a good question. Personally, I'd say I prefer studying alone. The main reason is that I can concentrate better when it's quiet. ( ___ ), when I study with friends, we often end up chatting instead of working. Having said that, studying in a group can be useful before exams, because we can explain difficult points to each other.",
+   "options": [
+    "In contrast",
+    "As a result",
+    "For instance",
+    "To sum up"
+   ],
+   "answer": "In contrast",
+   "explain": "Đối lập học một mình và học cùng bạn → In contrast."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Theo thí sinh, học nhóm có ích khi nào?",
+   "en": "Examiner: Do you prefer studying alone or with friends?\nCandidate: That's a good question. Personally, I'd say I prefer studying alone. The main reason is that I can concentrate better when it's quiet. ( ___ ), when I study with friends, we often end up chatting instead of working. Having said that, studying in a group can be useful before exams, because we can explain difficult points to each other.",
+   "options": [
+    "Trước kỳ thi, để giảng cho nhau điểm khó",
+    "Khi muốn nói chuyện",
+    "Khi cần yên tĩnh",
+    "Không bao giờ"
+   ],
+   "answer": "Trước kỳ thi, để giảng cho nhau điểm khó",
+   "explain": "Câu cuối."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao nhiều thí sinh mất điểm Nói?",
+   "en": "Many VSTEP candidates lose marks in the Speaking test not because their English is weak, but because their answers are too short. In Part 1, a one-word answer such as 'Yes' or 'No' gives the examiner nothing to assess. Teachers recommend a simple formula: answer the question directly, give a reason, and add an example. In Part 2, candidates should not only explain why they choose one option, but also why they rule out the other two. Finally, using natural phrases such as 'I'd say' or 'to be honest' can make candidates sound more fluent.",
+   "options": [
+    "Câu trả lời quá ngắn",
+    "Tiếng Anh quá kém",
+    "Nói quá nhanh",
+    "Không có giám khảo"
+   ],
+   "answer": "Câu trả lời quá ngắn",
+   "explain": "'because their answers are too short'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Công thức giáo viên khuyên cho Part 1 là:",
+   "en": "Many VSTEP candidates lose marks in the Speaking test not because their English is weak, but because their answers are too short. In Part 1, a one-word answer such as 'Yes' or 'No' gives the examiner nothing to assess. Teachers recommend a simple formula: answer the question directly, give a reason, and add an example. In Part 2, candidates should not only explain why they choose one option, but also why they rule out the other two. Finally, using natural phrases such as 'I'd say' or 'to be honest' can make candidates sound more fluent.",
+   "options": [
+    "Trả lời thẳng → lý do → ví dụ",
+    "Chỉ trả lời Yes/No",
+    "Học thuộc bài mẫu",
+    "Hỏi lại giám khảo"
+   ],
+   "answer": "Trả lời thẳng → lý do → ví dụ",
+   "explain": "'answer the question directly, give a reason, and add an example'."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư khuyên bạn chuẩn bị thi Nói VSTEP",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "Your friend is going to take the VSTEP Speaking test next month and is very nervous.\nWrite an email to your friend. In your email:\n• encourage him/her\n• give some advice on how to prepare\n• offer to help him/her practise.\nYou should write at least 120 words.",
+  "outline": [
+   "Hi + tên, + Thanks for your email. I'm sorry to hear that…",
+   "Đoạn 1: động viên (It's completely normal to feel nervous…)",
+   "Đoạn 2: 2–3 lời khuyên (công thức trả lời; dùng cụm tự nhiên; luyện ghi âm)",
+   "Đoạn 3: đề nghị giúp luyện (Why don't we practise together every…?)",
+   "Kết: Good luck! I'm sure you'll do brilliantly. / Best wishes,"
+  ],
+  "phrases": [
+   "It's completely normal to feel nervous before … — Hồi hộp trước … là hoàn toàn bình thường.",
+   "The most important thing is to … — Điều quan trọng nhất là …",
+   "Try to give a reason and an example for every answer. — Hãy cố đưa lý do và ví dụ cho mỗi câu trả lời.",
+   "Why don't we practise together on Zoom every evening? — Tối nào mình cũng luyện cùng nhau qua Zoom nhé?",
+   "I'm sure you'll do brilliantly. — Mình chắc bạn sẽ làm rất tốt."
+  ]
+ },
+ "speaking": {
+  "part": 1,
+  "title": "Full Speaking practice: Part 1 – your daily life",
+  "prompt": "Let's talk about your daily routine. Then let's talk about learning English. (Answer each question with: direct answer → reason → example.)",
+  "questions": [
+   "What do you usually do in the morning?",
+   "Do you prefer mornings or evenings? Why?",
+   "Has your daily routine changed recently?",
+   "Why are you learning English?",
+   "What is the most effective way you have found to learn English?",
+   "Do you think you will use English in your future job?"
+  ],
+  "ideas": [
+   "To be honest, I'm not a morning person, so…",
+   "I'd say I prefer… The main reason is that…",
+   "Recently, I've started…, for instance…",
+   "As far as I'm concerned, the most effective way is…",
+   "It depends on the job, but I'm pretty sure…"
+  ],
+  "minutes": 3
+ },
+ "corner": {
+  "quote": {
+   "en": "The more you practise, the luckier you get.",
+   "vi": "Càng luyện tập nhiều, bạn càng gặp may."
+  },
+  "pron": {
+   "title": "Nhịp điệu câu & từ nối khi nói",
+   "rule": "Tiếng Anh nhấn từ nội dung (danh từ, động từ, tính từ), lướt nhanh từ chức năng (a, the, of, to). Dừng ngắn sau cụm mở đầu: To be honest, | …",
+   "examples": [
+    "To be HONest, | I PREfer MORnings.",
+    "The MAIN REAson is that…",
+    "Having SAID that, | …"
+   ]
+  },
+  "phrases": [
+   [
+    "off the top of my head",
+    "nói ngay mà không cần nghĩ"
+   ],
+   [
+    "I couldn't agree more",
+    "tôi hoàn toàn đồng ý"
+   ],
+   [
+    "it's on the tip of my tongue",
+    "nó ngay đầu lưỡi (mà không nhớ ra)"
+   ]
+  ],
+  "mistake": "Học thuộc nguyên bài mẫu rồi đọc lại khiến giọng đều đều như đọc bài — giám khảo dễ nhận ra. Chỉ học thuộc cụm mở đầu và cụm nối.",
+  "tip": "Speaking VSTEP khoảng 12 phút, 3 phần. Part 2 và Part 3 có 1 phút chuẩn bị — hãy ghi từ khóa, đừng viết cả câu.",
+  "diary": "Tự trả lời 3 câu Part 1 bất kỳ, mỗi câu 3 câu: trả lời thẳng → lý do → ví dụ, dùng ít nhất 3 cụm trong bài."
+ }
+}

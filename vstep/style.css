@@ -503,3 +503,4 @@ h2::after{content:" ♡";color:var(--pig);font-size:.7em}
 .upcoming{margin-top:14px}
 .upcoming a{text-decoration:none;color:var(--ink);font-size:15px}
 .upcoming li{border-top:1px dashed var(--line);padding:6px 0}
+.passage{white-space:pre-line}

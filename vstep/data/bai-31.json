@@ -1,0 +1,497 @@
+{
+ "id": "bai-31",
+ "lesson": "Bài 31",
+ "day": 26,
+ "date": "2026-12-14",
+ "title": "Thực phẩm & nông nghiệp",
+ "enTitle": "Food & Agriculture",
+ "past": false,
+ "words": [
+  [
+   "organic food",
+   "/ɔːˈɡænɪk fuːd/ · n",
+   "thực phẩm hữu cơ",
+   "Organic food is grown without chemical fertilisers.",
+   "Thực phẩm hữu cơ được trồng không dùng phân bón hóa học."
+  ],
+  [
+   "pesticides",
+   "/ˈpestɪsaɪdz/ · n",
+   "thuốc trừ sâu",
+   "Overuse of pesticides can harm consumers' health.",
+   "Lạm dụng thuốc trừ sâu có thể hại sức khỏe người tiêu dùng."
+  ],
+  [
+   "food safety",
+   "/ˈfuːd seɪfti/ · n",
+   "an toàn thực phẩm",
+   "Food safety is a major concern for Vietnamese families.",
+   "An toàn thực phẩm là mối lo lớn của các gia đình Việt."
+  ],
+  [
+   "crop",
+   "/krɒp/ · n",
+   "cây trồng, vụ mùa",
+   "Rice is the main crop in the Mekong Delta.",
+   "Lúa là cây trồng chính ở đồng bằng sông Cửu Long."
+  ],
+  [
+   "harvest",
+   "/ˈhɑːvɪst/ · n, v",
+   "mùa thu hoạch; thu hoạch",
+   "Farmers harvest rice twice a year.",
+   "Nông dân thu hoạch lúa hai lần mỗi năm."
+  ],
+  [
+   "livestock",
+   "/ˈlaɪvstɒk/ · n",
+   "gia súc, vật nuôi",
+   "Raising livestock produces a lot of methane.",
+   "Chăn nuôi gia súc thải ra nhiều khí metan."
+  ],
+  [
+   "food waste",
+   "/ˈfuːd weɪst/ · n",
+   "lãng phí thực phẩm",
+   "Restaurants should find ways to reduce food waste.",
+   "Nhà hàng nên tìm cách giảm lãng phí thực phẩm."
+  ],
+  [
+   "processed food",
+   "/ˈprəʊsest fuːd/ · n",
+   "thực phẩm chế biến sẵn",
+   "Processed food often contains too much salt and sugar.",
+   "Thực phẩm chế biến sẵn thường có quá nhiều muối và đường."
+  ],
+  [
+   "genetically modified (GM)",
+   "/dʒəˌnetɪkli ˈmɒdɪfaɪd/ · adj",
+   "biến đổi gen",
+   "Some people are worried about eating genetically modified crops.",
+   "Một số người lo ngại khi ăn cây trồng biến đổi gen."
+  ],
+  [
+   "vegetarian",
+   "/ˌvedʒəˈteəriən/ · n, adj",
+   "người ăn chay; chay",
+   "More young people are becoming vegetarian for health reasons.",
+   "Ngày càng nhiều bạn trẻ ăn chay vì lý do sức khỏe."
+  ],
+  [
+   "food security",
+   "/ˈfuːd sɪˌkjʊərəti/ · n",
+   "an ninh lương thực",
+   "Climate change threatens global food security.",
+   "Biến đổi khí hậu đe dọa an ninh lương thực toàn cầu."
+  ],
+  [
+   "fertile land",
+   "/ˈfɜːtaɪl lænd/ · n",
+   "đất màu mỡ",
+   "The delta has some of the most fertile land in the region.",
+   "Đồng bằng có vùng đất màu mỡ bậc nhất khu vực."
+  ],
+  [
+   "agricultural products",
+   "/ˌæɡrɪˈkʌltʃərəl ˈprɒdʌkts/ · n",
+   "nông sản",
+   "Vietnam exports agricultural products such as coffee and pepper.",
+   "Việt Nam xuất khẩu nông sản như cà phê và hồ tiêu."
+  ],
+  [
+   "farmers' market",
+   "/ˈfɑːməz ˈmɑːkɪt/ · n",
+   "chợ nông sản",
+   "I buy fresh vegetables at the farmers' market every Sunday.",
+   "Chủ nhật nào tôi cũng mua rau tươi ở chợ nông sản."
+  ],
+  [
+   "imported food",
+   "/ɪmˈpɔːtɪd fuːd/ · n",
+   "thực phẩm nhập khẩu",
+   "Imported food is often more expensive than local produce.",
+   "Thực phẩm nhập khẩu thường đắt hơn nông sản trong nước."
+  ],
+  [
+   "local produce",
+   "/ˈləʊkl ˈprɒdjuːs/ · n",
+   "nông sản địa phương",
+   "Buying local produce supports farmers and reduces transport costs.",
+   "Mua nông sản địa phương giúp nông dân và giảm chi phí vận chuyển."
+  ],
+  [
+   "yield",
+   "/jiːld/ · n",
+   "năng suất (cây trồng)",
+   "New rice varieties have increased crop yields.",
+   "Giống lúa mới đã tăng năng suất cây trồng."
+  ],
+  [
+   "nutritious",
+   "/njuˈtrɪʃəs/ · adj",
+   "bổ dưỡng",
+   "Brown rice is more nutritious than white rice.",
+   "Gạo lứt bổ dưỡng hơn gạo trắng."
+  ],
+  [
+   "go off",
+   "/ɡəʊ ˈɒf/ · phr v",
+   "(thức ăn) bị hỏng, ôi",
+   "Milk goes off quickly if you don't keep it in the fridge.",
+   "Sữa nhanh hỏng nếu không để tủ lạnh."
+  ],
+  [
+   "home-grown",
+   "/ˌhəʊm ˈɡrəʊn/ · adj",
+   "tự trồng (tại nhà, trong nước)",
+   "My mother only cooks with home-grown vegetables.",
+   "Mẹ tôi chỉ nấu bằng rau nhà trồng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "make / let / help + O + V (sai khiến)",
+   "meaning": "make sb + V: bắt ai làm. let sb + V: để/cho phép ai làm. help sb (to) + V: giúp ai làm. KHÔNG có 'to' sau make/let. (allow/force/encourage + O + to V.)",
+   "examples": [
+    "My mother made me eat vegetables every day. — Mẹ bắt tôi ăn rau mỗi ngày.",
+    "The farmer let us pick strawberries in his garden. — Bác nông dân cho chúng tôi hái dâu trong vườn.",
+    "New technology helps farmers increase their yields. — Công nghệ mới giúp nông dân tăng năng suất."
+   ]
+  },
+  {
+   "form": "Bị động của make và let: be made to V / be allowed to V",
+   "meaning": "Bị động của make: be made + TO V (có 'to'!). let không dùng bị động → thay bằng be allowed to V.",
+   "examples": [
+    "Workers were made to work twelve hours a day. — Công nhân bị bắt làm mười hai tiếng mỗi ngày.",
+    "Children are not allowed to buy alcohol. — Trẻ em không được phép mua rượu.",
+    "Farmers are made to follow strict rules on pesticides. — Nông dân buộc phải tuân theo quy định nghiêm về thuốc trừ sâu."
+   ]
+  },
+  {
+   "form": "have / get + O + V3 (nâng cao): việc xảy ra ngoài ý muốn & thể nhờ",
+   "meaning": "have/get + sth + V3: (1) nhờ/thuê ai làm (I had my rice tested). (2) chịu một việc xấu xảy ra (She had her bag stolen). Chia được ở mọi thì: I'm going to have…, I've just had…",
+   "examples": [
+    "The restaurant had its food tested for chemicals. — Nhà hàng đã cho kiểm tra hóa chất trong thực phẩm.",
+    "We got our groceries delivered to our door. — Chúng tôi được giao hàng tận cửa.",
+    "The farmer had his crops destroyed by the flood. — Người nông dân bị lũ phá hủy mùa màng."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "My mother made me ___ vegetables every day.",
+   "options": [
+    "to eat",
+    "eat",
+    "eating",
+    "eaten"
+   ],
+   "answer": "eat",
+   "explain": "make + O + V (không to)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The farmer let us ___ strawberries in his garden.",
+   "options": [
+    "to pick",
+    "pick",
+    "picking",
+    "picked"
+   ],
+   "answer": "pick",
+   "explain": "let + O + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Workers were made ___ twelve hours a day.",
+   "options": [
+    "work",
+    "to work",
+    "working",
+    "worked"
+   ],
+   "answer": "to work",
+   "explain": "Bị động của make: be made TO V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Children ___ buy alcohol.",
+   "options": [
+    "are not let to",
+    "are not allowed to",
+    "don't allow to",
+    "are not made"
+   ],
+   "answer": "are not allowed to",
+   "explain": "let không có bị động → be allowed to."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The restaurant had its food ___ for chemicals.",
+   "options": [
+    "test",
+    "testing",
+    "tested",
+    "to test"
+   ],
+   "answer": "tested",
+   "explain": "have + sth + V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Milk goes ___ quickly if you don't keep it in the fridge.",
+   "options": [
+    "out",
+    "off",
+    "away",
+    "down"
+   ],
+   "answer": "off",
+   "explain": "go off = bị hỏng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "New rice varieties have increased crop ___.",
+   "options": [
+    "yields",
+    "harvests",
+    "products",
+    "foods"
+   ],
+   "answer": "yields",
+   "explain": "crop yields = năng suất."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The farmer ___ his crops destroyed by the flood.",
+   "answer": [
+    "had",
+    "got"
+   ],
+   "explain": "have/get sth V3 (việc xấu xảy ra)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "New technology helps farmers ___ their yields.",
+   "answer": [
+    "increase",
+    "to increase",
+    "improve"
+   ],
+   "explain": "help + O + (to) V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "___ food is grown without chemical fertilisers.",
+   "answer": [
+    "Organic"
+   ],
+   "explain": "organic food."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Brown rice is more ___ than white rice. (bổ dưỡng)",
+   "answer": [
+    "nutritious",
+    "healthy"
+   ],
+   "explain": "nutritious."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "We",
+    "got",
+    "our",
+    "groceries",
+    "delivered",
+    "to",
+    "our",
+    "door."
+   ],
+   "answer": "We got our groceries delivered to our door.",
+   "explain": "get + sth + V3."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Buying",
+    "local",
+    "produce",
+    "supports",
+    "farmers",
+    "and",
+    "reduces",
+    "transport",
+    "costs."
+   ],
+   "answer": "Buying local produce supports farmers and reduces transport costs.",
+   "explain": "V-ing làm chủ ngữ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Bố mẹ không cho tôi ăn đồ ăn nhanh.",
+   "answer": [
+    "My parents don't let me eat fast food.",
+    "My parents do not let me eat fast food.",
+    "My parents don't allow me to eat fast food.",
+    "My parents do not allow me to eat fast food.",
+    "My parents won't let me eat fast food."
+   ],
+   "explain": "let sb V / allow sb to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Chúng tôi bị bắt phải đợi hai tiếng.",
+   "answer": [
+    "We were made to wait for two hours.",
+    "We were made to wait two hours."
+   ],
+   "explain": "be made to V."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Climate change threatens global food security.",
+   "answer": "Biến đổi khí hậu đe dọa an ninh lương thực toàn cầu.",
+   "explain": "threaten = đe dọa."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Food safety has become one of the biggest worries for Vietnamese consumers. In recent years, newspapers have reported cases of vegetables sprayed with banned pesticides and meat containing chemicals. As a result, many families now prefer organic food or buy from farmers' markets where they can talk directly to growers. Some even grow vegetables on their balconies. The authorities have made food producers ( ___ ) labels showing where their products come from, but many people say that these rules are not strictly enforced.",
+   "options": [
+    "put",
+    "to put",
+    "putting",
+    "puts"
+   ],
+   "answer": "put",
+   "explain": "make + O + V nguyên mẫu."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Các gia đình đối phó với lo ngại an toàn thực phẩm bằng cách nào?",
+   "en": "Food safety has become one of the biggest worries for Vietnamese consumers. In recent years, newspapers have reported cases of vegetables sprayed with banned pesticides and meat containing chemicals. As a result, many families now prefer organic food or buy from farmers' markets where they can talk directly to growers. Some even grow vegetables on their balconies. The authorities have made food producers ( ___ ) labels showing where their products come from, but many people say that these rules are not strictly enforced.",
+   "options": [
+    "Mua đồ hữu cơ, mua ở chợ nông sản hoặc tự trồng rau",
+    "Chỉ ăn đồ nhập khẩu",
+    "Ăn ở nhà hàng",
+    "Không ăn rau"
+   ],
+   "answer": "Mua đồ hữu cơ, mua ở chợ nông sản hoặc tự trồng rau",
+   "explain": "Câu 3–4."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Ứng dụng của các doanh nhân trẻ làm gì?",
+   "en": "In Vietnam, families rarely let food go to waste — leftovers are often eaten the next day. However, in big cities, food waste is rising quickly. Restaurants throw away large amounts of food every night, and supermarkets often discard fruit that has small marks on it. Some young entrepreneurs have started apps that let restaurants sell surplus meals at a discount before closing time. This helps customers save money and helps businesses reduce waste at the same time.",
+   "options": [
+    "Cho nhà hàng bán suất ăn thừa giá rẻ trước giờ đóng cửa",
+    "Giao rau hữu cơ",
+    "Dạy nấu ăn",
+    "Đánh giá nhà hàng"
+   ],
+   "answer": "Cho nhà hàng bán suất ăn thừa giá rẻ trước giờ đóng cửa",
+   "explain": "'let restaurants sell surplus meals at a discount'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – từ vựng] 'surplus meals' có nghĩa là:",
+   "en": "In Vietnam, families rarely let food go to waste — leftovers are often eaten the next day. However, in big cities, food waste is rising quickly. Restaurants throw away large amounts of food every night, and supermarkets often discard fruit that has small marks on it. Some young entrepreneurs have started apps that let restaurants sell surplus meals at a discount before closing time. This helps customers save money and helps businesses reduce waste at the same time.",
+   "options": [
+    "những suất ăn còn dư",
+    "những suất ăn đắt",
+    "những món mới",
+    "những suất ăn hỏng"
+   ],
+   "answer": "những suất ăn còn dư",
+   "explain": "surplus = dư thừa."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Causes & Effects: Lãng phí thực phẩm",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "In many cities, large amounts of food are thrown away every day.\nWhat are the causes of food waste, and what effects does it have?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: It is becoming increasingly common for… + thesis",
+   "Thân 1 – nguyên nhân: mua quá nhiều do giảm giá, siêu thị loại bỏ trái cây xấu, nhà hàng nấu dư, thực phẩm hỏng (go off)",
+   "Thân 2 – hậu quả: lãng phí tiền, rác thải và khí metan, bất công khi nhiều người thiếu ăn",
+   "Dùng make/let/help + O + V và have sth V3",
+   "Kết bài: tóm tắt + một câu đề xuất ngắn"
+  ],
+  "phrases": [
+   "Every day, tons of food are thrown away in … — Mỗi ngày hàng tấn thực phẩm bị vứt bỏ ở …",
+   "One reason is that special offers make people buy … — Một lý do là khuyến mãi khiến người ta mua …",
+   "Supermarkets often discard fruit that … — Siêu thị thường loại bỏ trái cây …",
+   "This not only wastes money but also … — Điều này không chỉ lãng phí tiền mà còn …",
+   "Apps that let restaurants sell surplus food can help … — Ứng dụng cho nhà hàng bán đồ ăn dư có thể giúp …"
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: ăn uống an toàn",
+  "prompt": "Situation: Your family is worried about food safety. What is the best way to make sure your food is safe?\n1. Buy only organic food from supermarkets\n2. Grow your own vegetables at home\n3. Buy from a trusted local farmers' market",
+  "questions": [
+   "Which option would you choose and why?",
+   "Why are the other two options less suitable?"
+  ],
+  "ideas": [
+   "If it were up to me, I'd choose…",
+   "Growing our own vegetables would let us…, but…",
+   "Organic food is safer; however, it would make us spend…",
+   "A trusted farmers' market helps us…",
+   "So, all in all, …"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Let food be thy medicine and medicine be thy food.",
+   "vi": "Hãy để thức ăn là thuốc và thuốc là thức ăn của bạn."
+  },
+  "pron": {
+   "title": "Âm dài /ɜː/ và /ɑː/",
+   "rule": "/ɜː/ dài, môi thả lỏng như 'ơ' kéo dài (fertile, work, early). /ɑː/ mở miệng rộng như 'a' kéo dài (harvest, farm).",
+   "examples": [
+    "fertile → /ˈfɜːtaɪl/",
+    "harvest → /ˈhɑːvɪst/",
+    "nutritious → /njuˈtrɪʃəs/"
+   ]
+  },
+  "phrases": [
+   [
+    "put food on the table",
+    "kiếm sống, nuôi gia đình"
+   ],
+   [
+    "from farm to table",
+    "từ nông trại đến bàn ăn"
+   ],
+   [
+    "eat like a horse",
+    "ăn rất nhiều"
+   ]
+  ],
+  "mistake": "Hay viết 'My mom made me to eat…' hoặc 'He let me to go…'. Sau make/let (chủ động) KHÔNG có 'to'. Nhưng bị động: I was made TO eat.",
+  "tip": "Writing Causes–Effects: dùng make/let/help/allow + O + V để nói nguyên nhân – kết quả tự nhiên hơn 'cause'.",
+  "diary": "Viết 3–5 câu về thói quen ăn uống của gia đình bạn, dùng make sb V, let sb V, be made to V và have sth V3."
+ }
+}

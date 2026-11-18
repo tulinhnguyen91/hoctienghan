@@ -1,0 +1,499 @@
+{
+ "id": "bai-26",
+ "lesson": "Bài 26",
+ "day": 20,
+ "date": "2026-12-08",
+ "title": "Tiền bạc & thói quen mua sắm",
+ "enTitle": "Money & Spending Habits",
+ "past": false,
+ "words": [
+  [
+   "budget",
+   "/ˈbʌdʒɪt/ · n, v",
+   "ngân sách; lập ngân sách",
+   "I set a monthly budget so that I don't overspend.",
+   "Tôi lập ngân sách hằng tháng để không tiêu quá tay."
+  ],
+  [
+   "savings account",
+   "/ˈseɪvɪŋz əkaʊnt/ · n",
+   "tài khoản tiết kiệm",
+   "She puts 20% of her salary into a savings account.",
+   "Cô ấy gửi 20% lương vào tài khoản tiết kiệm."
+  ],
+  [
+   "interest rate",
+   "/ˈɪntrəst reɪt/ · n",
+   "lãi suất",
+   "Banks raised their interest rates last month.",
+   "Các ngân hàng tăng lãi suất tháng trước."
+  ],
+  [
+   "debt",
+   "/det/ · n",
+   "khoản nợ",
+   "Using credit cards carelessly can lead to debt.",
+   "Dùng thẻ tín dụng bất cẩn có thể dẫn đến nợ nần."
+  ],
+  [
+   "credit card",
+   "/ˈkredɪt kɑːd/ · n",
+   "thẻ tín dụng",
+   "Credit cards make it easy to spend money you don't have.",
+   "Thẻ tín dụng khiến việc tiêu tiền mình không có trở nên dễ dàng."
+  ],
+  [
+   "financial literacy",
+   "/faɪˈnænʃl ˈlɪtərəsi/ · n",
+   "hiểu biết về tài chính",
+   "Financial literacy should be taught at school.",
+   "Kiến thức tài chính nên được dạy ở trường."
+  ],
+  [
+   "pocket money",
+   "/ˈpɒkɪt mʌni/ · n",
+   "tiền tiêu vặt",
+   "My parents gave me pocket money every week.",
+   "Bố mẹ cho tôi tiền tiêu vặt mỗi tuần."
+  ],
+  [
+   "buy now, pay later",
+   "/baɪ naʊ peɪ ˈleɪtə/ · n phr",
+   "mua trước trả sau",
+   "Buy now, pay later apps are popular among young shoppers.",
+   "Ứng dụng \"mua trước trả sau\" phổ biến với người mua trẻ."
+  ],
+  [
+   "online shopping",
+   "/ˌɒnlaɪn ˈʃɒpɪŋ/ · n",
+   "mua sắm trực tuyến",
+   "Online shopping has made it easier to compare prices.",
+   "Mua sắm trực tuyến giúp so sánh giá dễ hơn."
+  ],
+  [
+   "discount",
+   "/ˈdɪskaʊnt/ · n",
+   "sự giảm giá",
+   "Students can get a 10% discount with their ID card.",
+   "Sinh viên được giảm 10% khi xuất trình thẻ."
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/ · n",
+   "hóa đơn, biên lai",
+   "Keep the receipt in case you need to return the item.",
+   "Giữ hóa đơn phòng khi cần trả hàng."
+  ],
+  [
+   "afford",
+   "/əˈfɔːd/ · v",
+   "có đủ tiền (mua, làm gì)",
+   "Many young people cannot afford to buy a car.",
+   "Nhiều người trẻ không đủ tiền mua ô tô."
+  ],
+  [
+   "overspend",
+   "/ˌəʊvəˈspend/ · v",
+   "tiêu quá mức",
+   "It is easy to overspend during the Tet holiday.",
+   "Rất dễ tiêu quá tay dịp Tết."
+  ],
+  [
+   "financial independence",
+   "/faɪˈnænʃl ˌɪndɪˈpendəns/ · n",
+   "độc lập tài chính",
+   "Getting a part-time job is the first step towards financial independence.",
+   "Đi làm thêm là bước đầu tiên tiến tới độc lập tài chính."
+  ],
+  [
+   "emergency fund",
+   "/ɪˈmɜːdʒənsi fʌnd/ · n",
+   "quỹ dự phòng khẩn cấp",
+   "Experts advise keeping an emergency fund of three months' salary.",
+   "Chuyên gia khuyên nên có quỹ dự phòng bằng ba tháng lương."
+  ],
+  [
+   "loan",
+   "/ləʊn/ · n",
+   "khoản vay",
+   "He took out a loan to pay for his studies.",
+   "Anh ấy vay tiền để trả học phí."
+  ],
+  [
+   "lend",
+   "/lend/ · v",
+   "cho vay, cho mượn (≠ borrow: mượn)",
+   "Can you lend me 100,000 dong? I'll pay you back tomorrow.",
+   "Bạn cho mình mượn 100.000 đồng được không? Mai mình trả."
+  ],
+  [
+   "pay back",
+   "/peɪ ˈbæk/ · phr v",
+   "trả lại (tiền)",
+   "It took him two years to pay back the loan.",
+   "Anh ấy mất hai năm để trả hết khoản vay."
+  ],
+  [
+   "in the red",
+   "/ɪn ðə red/ · adj phr",
+   "bị âm tiền, nợ",
+   "My bank account is in the red again this month.",
+   "Tài khoản của tôi lại âm tháng này."
+  ],
+  [
+   "thrifty",
+   "/ˈθrɪfti/ · adj",
+   "tiết kiệm, biết chi tiêu",
+   "My grandmother is very thrifty and never wastes anything.",
+   "Bà tôi rất tiết kiệm, không bao giờ lãng phí thứ gì."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Mệnh đề quan hệ với giới từ: in which / to whom / for which",
+   "meaning": "Giới từ có thể đứng trước which/whom (trang trọng): the bank in which I keep my savings = the bank which I keep my savings in. KHÔNG đặt giới từ trước 'that' hoặc 'who'.",
+   "examples": [
+    "This is the account in which I keep my emergency fund. — Đây là tài khoản tôi để quỹ dự phòng.",
+    "The friend to whom I lent money has not paid me back. — Người bạn tôi cho mượn tiền chưa trả lại.",
+    "The app through which I pay my bills is very convenient. — Ứng dụng tôi dùng trả hóa đơn rất tiện."
+   ]
+  },
+  {
+   "form": "Lượng từ + of which / of whom",
+   "meaning": "most / some / many / all / none / half / both / two + of which (vật) / of whom (người) — dùng trong mệnh đề quan hệ không xác định, có dấu phẩy.",
+   "examples": [
+    "I have three credit cards, none of which I use very often. — Tôi có ba thẻ tín dụng, không thẻ nào dùng thường xuyên.",
+    "The shop has 50 staff, most of whom are students. — Cửa hàng có 50 nhân viên, phần lớn là sinh viên.",
+    "She bought ten dresses online, half of which she returned. — Cô ấy mua online mười chiếc váy, trả lại một nửa."
+   ]
+  },
+  {
+   "form": "whatever / whoever / wherever / whenever / however",
+   "meaning": "= bất cứ điều gì / ai / đâu / khi nào / dù thế nào. Dùng như liên từ hoặc làm chủ ngữ/tân ngữ: Whatever you buy, keep the receipt. However much it costs, …",
+   "examples": [
+    "Whatever you buy online, always keep the receipt. — Mua gì online cũng nên giữ hóa đơn.",
+    "However much I earn, I always save 10%. — Dù kiếm được bao nhiêu, tôi luôn tiết kiệm 10%.",
+    "You can pay by card wherever you go in the city. — Bạn có thể trả thẻ ở bất cứ đâu trong thành phố."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đại từ quan hệ đúng",
+   "en": "This is the account ___ I keep my emergency fund.",
+   "options": [
+    "in that",
+    "in which",
+    "which in",
+    "in who"
+   ],
+   "answer": "in which",
+   "explain": "Giới từ + which (không dùng giới từ trước that)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đại từ quan hệ đúng",
+   "en": "The friend ___ I lent money has not paid me back.",
+   "options": [
+    "to who",
+    "to whom",
+    "whom to",
+    "to which"
+   ],
+   "answer": "to whom",
+   "explain": "Giới từ + whom (người)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I have three credit cards, none of ___ I use often.",
+   "options": [
+    "them",
+    "which",
+    "whom",
+    "that"
+   ],
+   "answer": "which",
+   "explain": "Lượng từ + of which (vật)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The shop has 50 staff, most of ___ are students.",
+   "options": [
+    "them",
+    "which",
+    "whom",
+    "who"
+   ],
+   "answer": "whom",
+   "explain": "Lượng từ + of whom (người)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "___ you buy online, always keep the receipt.",
+   "options": [
+    "However",
+    "Whatever",
+    "Whoever",
+    "Wherever"
+   ],
+   "answer": "Whatever",
+   "explain": "Whatever = bất cứ thứ gì."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "___ much I earn, I always save 10%.",
+   "options": [
+    "Whatever",
+    "However",
+    "Whenever",
+    "Whichever"
+   ],
+   "answer": "However",
+   "explain": "However + adj/adv = dù … đến đâu."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn lend / borrow",
+   "en": "Can you ___ me 100,000 dong?",
+   "options": [
+    "borrow",
+    "lend",
+    "loan to",
+    "pay"
+   ],
+   "answer": "lend",
+   "explain": "lend sb sth = cho ai mượn."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Many young people cannot ___ to buy a car.",
+   "answer": [
+    "afford"
+   ],
+   "explain": "afford to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "It took him two years to pay ___ the loan.",
+   "answer": [
+    "back",
+    "off"
+   ],
+   "explain": "pay back / pay off a loan."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Keep the ___ in case you need to return the item.",
+   "answer": [
+    "receipt"
+   ],
+   "explain": "receipt = hóa đơn."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "She bought ten dresses, half of ___ she returned.",
+   "answer": [
+    "which"
+   ],
+   "explain": "half of which."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "app",
+    "through",
+    "which",
+    "I",
+    "pay",
+    "my",
+    "bills",
+    "is",
+    "very",
+    "convenient."
+   ],
+   "answer": "The app through which I pay my bills is very convenient.",
+   "explain": "Giới từ + which."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Getting",
+    "a",
+    "part-time",
+    "job",
+    "is",
+    "the",
+    "first",
+    "step",
+    "towards",
+    "financial",
+    "independence."
+   ],
+   "answer": "Getting a part-time job is the first step towards financial independence.",
+   "explain": "towards + N."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Dù kiếm được bao nhiêu, tôi luôn tiết kiệm một phần.",
+   "answer": [
+    "However much I earn, I always save some.",
+    "However much I earn, I always save a part of it.",
+    "However much money I earn, I always save some.",
+    "No matter how much I earn, I always save some.",
+    "However much I earn, I always save a little."
+   ],
+   "explain": "However much…"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi có nhiều bạn, phần lớn trong số họ là sinh viên.",
+   "answer": [
+    "I have many friends, most of whom are students.",
+    "I have a lot of friends, most of whom are students."
+   ],
+   "explain": "most of whom."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Financial literacy should be taught at school.",
+   "answer": "Kiến thức tài chính nên được dạy ở trường.",
+   "explain": "financial literacy = hiểu biết tài chính."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất",
+   "en": "'Buy now, pay later' apps have become extremely popular among young Vietnamese shoppers. These apps allow customers to split the cost of a product into several monthly payments, often with no interest. Supporters say they make expensive items more affordable. However, financial experts warn that users can easily lose track of how much they owe. A survey of 1,000 users found that a third of them had missed at least one payment, ( ___ ) said they had borrowed money from friends to pay back the debt.",
+   "options": [
+    "some of whom",
+    "some of which",
+    "some of them who",
+    "who some"
+   ],
+   "answer": "some of whom",
+   "explain": "Chỉ người (users) → some of whom."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Chuyên gia cảnh báo điều gì?",
+   "en": "'Buy now, pay later' apps have become extremely popular among young Vietnamese shoppers. These apps allow customers to split the cost of a product into several monthly payments, often with no interest. Supporters say they make expensive items more affordable. However, financial experts warn that users can easily lose track of how much they owe. A survey of 1,000 users found that a third of them had missed at least one payment, ( ___ ) said they had borrowed money from friends to pay back the debt.",
+   "options": [
+    "Người dùng dễ mất kiểm soát số tiền đang nợ",
+    "Ứng dụng có lãi suất rất cao",
+    "Không ai dùng ứng dụng",
+    "Sản phẩm bị lỗi"
+   ],
+   "answer": "Người dùng dễ mất kiểm soát số tiền đang nợ",
+   "explain": "'users can easily lose track of how much they owe'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Bà tặng Minh cuốn sổ để làm gì?",
+   "en": "Minh's grandmother, who lived through very difficult years after the war, is extremely thrifty. She keeps every plastic bag and always writes down how much she spends. When Minh got his first job, she gave him a small notebook in which he could record his expenses. At first, he thought it was old-fashioned. However, after three months, he realised that he had been spending half his salary on coffee and food delivery. Whatever his friends say, he now sticks to a monthly budget and has already built a small emergency fund.",
+   "options": [
+    "Ghi lại các khoản chi tiêu",
+    "Học tiếng Anh",
+    "Viết nhật ký",
+    "Vẽ tranh"
+   ],
+   "answer": "Ghi lại các khoản chi tiêu",
+   "explain": "'a small notebook in which he could record his expenses'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Sau ba tháng, Minh nhận ra điều gì?",
+   "en": "Minh's grandmother, who lived through very difficult years after the war, is extremely thrifty. She keeps every plastic bag and always writes down how much she spends. When Minh got his first job, she gave him a small notebook in which he could record his expenses. At first, he thought it was old-fashioned. However, after three months, he realised that he had been spending half his salary on coffee and food delivery. Whatever his friends say, he now sticks to a monthly budget and has already built a small emergency fund.",
+   "options": [
+    "Mình đã tiêu một nửa lương cho cà phê và đồ ăn giao tận nơi",
+    "Bà quá cổ hủ",
+    "Lương quá thấp",
+    "Bạn bè tiêu nhiều hơn"
+   ],
+   "answer": "Mình đã tiêu một nửa lương cho cà phê và đồ ăn giao tận nơi",
+   "explain": "'he had been spending half his salary on coffee and food delivery'."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư xin lỗi vì chưa trả tiền đúng hạn",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "You borrowed some money from a friend and promised to pay it back last week, but you have not done so.\nWrite an email to your friend. In your email:\n• apologise\n• explain why you have not paid the money back\n• say when and how you will pay it back.\nYou should write at least 120 words.",
+  "outline": [
+   "Hi + tên, + I'm really sorry about…",
+   "Đoạn 1: xin lỗi chân thành (I feel terrible that…)",
+   "Đoạn 2: giải thích lý do (dùng past perfect / narrative tenses)",
+   "Đoạn 3: hứa ngày trả và cách trả (bank transfer / e-wallet); bù đắp (To make up for it, …)",
+   "Kết: Once again, I'm really sorry. I hope you can forgive me. / Best wishes,"
+  ],
+  "phrases": [
+   "I'm really sorry that I haven't paid you back yet. — Mình rất xin lỗi vì chưa trả tiền bạn.",
+   "Unfortunately, my salary was paid late this month, so … — Không may lương tháng này trả chậm nên …",
+   "I promise I will transfer the money to you by … — Mình hứa sẽ chuyển tiền cho bạn trước …",
+   "To make up for it, let me treat you to … — Để bù lại, để mình mời bạn …",
+   "Once again, I'm really sorry. I hope you can forgive me. — Một lần nữa xin lỗi bạn. Mong bạn bỏ qua cho mình."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: quản lý tiền lương đầu tiên",
+  "prompt": "Situation: Your cousin has just received his first salary but often runs out of money before the end of the month. What is the best advice?\n1. Write down every expense in a notebook or app\n2. Put part of the salary into a savings account immediately\n3. Stop using credit cards and 'buy now, pay later' apps",
+  "questions": [
+   "Which piece of advice is the best? Why?",
+   "Why are the other two less effective?"
+  ],
+  "ideas": [
+   "Whatever he decides, the most important thing is…",
+   "Writing down every expense would help him see…",
+   "Putting money into a savings account straight away means…",
+   "Stopping credit cards completely might be…, however…",
+   "So I'd recommend…"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Do not save what is left after spending, but spend what is left after saving.",
+   "vi": "Đừng tiết kiệm phần còn lại sau khi tiêu, hãy tiêu phần còn lại sau khi tiết kiệm."
+  },
+  "pron": {
+   "title": "Chữ câm trong 'debt', 'receipt'",
+   "rule": "debt đọc /det/ (b câm), receipt đọc /rɪˈsiːt/ (p câm), mortgage /ˈmɔːɡɪdʒ/ (t câm).",
+   "examples": [
+    "debt → /det/",
+    "receipt → /rɪˈsiːt/",
+    "mortgage → /ˈmɔːɡɪdʒ/"
+   ]
+  },
+  "phrases": [
+   [
+    "save for a rainy day",
+    "để dành phòng khi khó khăn"
+   ],
+   [
+    "live from hand to mouth",
+    "sống chật vật, làm ngày nào ăn ngày đó"
+   ],
+   [
+    "a penny saved is a penny earned",
+    "tiết kiệm được đồng nào là kiếm được đồng đó"
+   ]
+  ],
+  "mistake": "Hay nhầm lend/borrow: 'Can you borrow me some money?' → đúng: 'Can you LEND me some money?' / 'Can I BORROW some money?'",
+  "tip": "Writing Task 1 thư xin lỗi: đủ 3 bước — xin lỗi, giải thích lý do, đề xuất bù đắp. Thiếu bước bù đắp là thư chưa trọn vẹn.",
+  "diary": "Viết 3–5 câu về cách bạn quản lý tiền, dùng một câu in which / to whom, một câu most of which và một câu whatever/however."
+ }
+}

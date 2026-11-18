@@ -1,0 +1,507 @@
+{
+ "id": "bai-25",
+ "lesson": "Bài 25",
+ "day": 19,
+ "date": "2026-12-07",
+ "title": "Quảng cáo & tin tức",
+ "enTitle": "Advertising & News",
+ "past": false,
+ "words": [
+  [
+   "advertising campaign",
+   "/ˈædvətaɪzɪŋ kæmˈpeɪn/ · n",
+   "chiến dịch quảng cáo",
+   "The company launched an advertising campaign on TikTok.",
+   "Công ty tung chiến dịch quảng cáo trên TikTok."
+  ],
+  [
+   "target audience",
+   "/ˈtɑːɡɪt ˈɔːdiəns/ · n",
+   "đối tượng khán giả mục tiêu",
+   "The target audience of this advert is teenagers.",
+   "Đối tượng mục tiêu của quảng cáo này là thiếu niên."
+  ],
+  [
+   "commercial",
+   "/kəˈmɜːʃl/ · n",
+   "quảng cáo trên tivi/radio",
+   "The football match was interrupted by too many commercials.",
+   "Trận bóng bị chen quá nhiều quảng cáo."
+  ],
+  [
+   "misleading",
+   "/ˌmɪsˈliːdɪŋ/ · adj",
+   "gây hiểu lầm",
+   "Misleading adverts make products seem better than they are.",
+   "Quảng cáo gây hiểu lầm khiến sản phẩm có vẻ tốt hơn thực tế."
+  ],
+  [
+   "persuade",
+   "/pəˈsweɪd/ · v",
+   "thuyết phục",
+   "Adverts persuade people to buy things they don't need.",
+   "Quảng cáo thuyết phục người ta mua thứ họ không cần."
+  ],
+  [
+   "celebrity endorsement",
+   "/səˈlebrəti ɪnˈdɔːsmənt/ · n",
+   "người nổi tiếng quảng bá",
+   "Celebrity endorsement can increase sales dramatically.",
+   "Người nổi tiếng quảng bá có thể làm doanh số tăng vọt."
+  ],
+  [
+   "brand image",
+   "/brænd ˈɪmɪdʒ/ · n",
+   "hình ảnh thương hiệu",
+   "A scandal can damage a company's brand image.",
+   "Một bê bối có thể làm hỏng hình ảnh thương hiệu."
+  ],
+  [
+   "the press",
+   "/ðə pres/ · n",
+   "báo chí",
+   "The press plays an important role in exposing corruption.",
+   "Báo chí đóng vai trò quan trọng trong việc phanh phui tham nhũng."
+  ],
+  [
+   "headline",
+   "/ˈhedlaɪn/ · n",
+   "tiêu đề bài báo",
+   "Many people only read the headlines.",
+   "Nhiều người chỉ đọc tiêu đề."
+  ],
+  [
+   "journalist",
+   "/ˈdʒɜːnəlɪst/ · n",
+   "nhà báo",
+   "Journalists must check their facts carefully.",
+   "Nhà báo phải kiểm tra thông tin cẩn thận."
+  ],
+  [
+   "coverage",
+   "/ˈkʌvərɪdʒ/ · n",
+   "sự đưa tin",
+   "The storm received extensive media coverage.",
+   "Cơn bão được truyền thông đưa tin rộng rãi."
+  ],
+  [
+   "biased",
+   "/ˈbaɪəst/ · adj",
+   "thiên vị, phiến diện",
+   "Some newspapers give biased reports on political issues.",
+   "Một số tờ báo đưa tin phiến diện về các vấn đề chính trị."
+  ],
+  [
+   "breaking news",
+   "/ˌbreɪkɪŋ ˈnjuːz/ · n",
+   "tin nóng",
+   "Breaking news now appears on social media before it reaches TV.",
+   "Tin nóng giờ xuất hiện trên mạng xã hội trước cả tivi."
+  ],
+  [
+   "clickbait",
+   "/ˈklɪkbeɪt/ · n",
+   "tiêu đề câu view",
+   "Clickbait headlines are designed to attract clicks, not to inform.",
+   "Tiêu đề câu view được tạo ra để thu hút lượt nhấp, không phải để thông tin."
+  ],
+  [
+   "consumer behaviour",
+   "/kənˈsjuːmə bɪˈheɪvjə/ · n",
+   "hành vi người tiêu dùng",
+   "Advertising has a strong influence on consumer behaviour.",
+   "Quảng cáo ảnh hưởng mạnh đến hành vi người tiêu dùng."
+  ],
+  [
+   "ban",
+   "/bæn/ · v, n",
+   "cấm; lệnh cấm",
+   "Some countries ban advertising aimed at young children.",
+   "Một số nước cấm quảng cáo nhắm vào trẻ nhỏ."
+  ],
+  [
+   "the majority of",
+   "/ðə məˈdʒɒrəti əv/ · phr",
+   "phần lớn",
+   "The majority of teenagers get their news from social media.",
+   "Phần lớn thiếu niên đọc tin từ mạng xã hội."
+  ],
+  [
+   "a small proportion of",
+   "/ə smɔːl prəˈpɔːʃn əv/ · phr",
+   "một tỷ lệ nhỏ",
+   "Only a small proportion of readers check the original source.",
+   "Chỉ một tỷ lệ nhỏ người đọc kiểm tra nguồn gốc."
+  ],
+  [
+   "eye-catching",
+   "/ˈaɪ kætʃɪŋ/ · adj",
+   "bắt mắt",
+   "The poster uses bright, eye-catching colours.",
+   "Áp phích dùng màu sắc tươi sáng, bắt mắt."
+  ],
+  [
+   "investigative journalism",
+   "/ɪnˈvestɪɡətɪv ˈdʒɜːnəlɪzəm/ · n",
+   "báo chí điều tra",
+   "Investigative journalism helps expose wrongdoing.",
+   "Báo chí điều tra giúp phơi bày sai phạm."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Hedging — nói giảm, thận trọng",
+   "meaning": "Trong bài luận, tránh khẳng định tuyệt đối. Dùng: tend to + V, seem/appear to + V, It appears/seems that…, may/might/could, arguably, to some extent, generally, in most cases.",
+   "examples": [
+    "Young people tend to trust influencers more than traditional adverts. — Người trẻ có xu hướng tin người có ảnh hưởng hơn quảng cáo truyền thống.",
+    "It appears that clickbait headlines attract more readers. — Có vẻ như tiêu đề câu view thu hút nhiều người đọc hơn.",
+    "Advertising may encourage children to eat unhealthy food. — Quảng cáo có thể khuyến khích trẻ ăn đồ không lành mạnh.",
+    "This is arguably the most effective campaign of the year. — Có thể nói đây là chiến dịch hiệu quả nhất năm."
+   ]
+  },
+  {
+   "form": "Bị động khách quan (ôn): S + is thought / said / believed + to V / to have V3",
+   "meaning": "Dùng khi đưa thông tin chưa chắc chắn hoặc nguồn chung. to V: cùng thời điểm; to be V-ing: đang; to have V3: trước đó. Cũng có: It is thought that…",
+   "examples": [
+    "The advert is thought to have increased sales by 30%. — Quảng cáo được cho là đã tăng doanh số 30%.",
+    "Celebrities are said to earn millions from endorsements. — Người nổi tiếng được cho là kiếm hàng triệu từ quảng bá.",
+    "The company is believed to be planning a new campaign. — Công ty được cho là đang lên kế hoạch chiến dịch mới."
+   ]
+  },
+  {
+   "form": "Lượng từ mô tả số liệu",
+   "meaning": "the majority of / most (phần lớn), a significant number of, nearly half of, a third of, a (small) minority of, a small proportion of, hardly any. Động từ chia theo danh từ sau 'of': The majority of readers ARE…; The majority of the money IS…",
+   "examples": [
+    "The majority of teenagers get their news from social media. — Phần lớn thiếu niên đọc tin từ mạng xã hội.",
+    "Nearly half of the adverts contain misleading information. — Gần một nửa số quảng cáo chứa thông tin gây hiểu lầm.",
+    "Only a small proportion of readers check the original source. — Chỉ một tỷ lệ nhỏ người đọc kiểm tra nguồn gốc."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn cách nói thận trọng phù hợp nhất cho bài luận",
+   "en": "Young people ___ trust influencers more than traditional adverts.",
+   "options": [
+    "always",
+    "tend to",
+    "must",
+    "are sure to"
+   ],
+   "answer": "tend to",
+   "explain": "Hedging: tend to + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It ___ that clickbait headlines attract more readers.",
+   "options": [
+    "appears",
+    "is appearing",
+    "appear",
+    "is appeared"
+   ],
+   "answer": "appears",
+   "explain": "It appears that + mệnh đề."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The advert is thought ___ sales by 30% last year.",
+   "options": [
+    "to increase",
+    "to have increased",
+    "increasing",
+    "increased"
+   ],
+   "answer": "to have increased",
+   "explain": "Việc đã xảy ra → to have V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The company is believed ___ a new campaign at the moment.",
+   "options": [
+    "to plan",
+    "to be planning",
+    "to have planned",
+    "planning"
+   ],
+   "answer": "to be planning",
+   "explain": "Đang diễn ra → to be V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The majority of readers ___ only the headlines.",
+   "options": [
+    "reads",
+    "read",
+    "is reading",
+    "has read"
+   ],
+   "answer": "read",
+   "explain": "the majority of + N số nhiều → động từ số nhiều."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "___ headlines are designed to attract clicks, not to inform.",
+   "options": [
+    "Breaking",
+    "Clickbait",
+    "Biased",
+    "Eye-catching"
+   ],
+   "answer": "Clickbait",
+   "explain": "clickbait = tiêu đề câu view."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Some newspapers give ___ reports on political issues.",
+   "options": [
+    "biased",
+    "bias",
+    "biasing",
+    "biases"
+   ],
+   "answer": "biased",
+   "explain": "biased = phiến diện (tính từ)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Only a small ___ of readers check the original source.",
+   "answer": [
+    "proportion",
+    "number",
+    "percentage"
+   ],
+   "explain": "a small proportion of."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Celebrities are ___ to earn millions from endorsements.",
+   "answer": [
+    "said",
+    "thought",
+    "believed",
+    "reported"
+   ],
+   "explain": "S + is said to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Advertising has a strong influence on consumer ___.",
+   "answer": [
+    "behaviour",
+    "behavior"
+   ],
+   "explain": "consumer behaviour."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The storm received extensive media ___.",
+   "answer": [
+    "coverage"
+   ],
+   "explain": "media coverage = sự đưa tin."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Advertising",
+    "may",
+    "encourage",
+    "children",
+    "to",
+    "eat",
+    "unhealthy",
+    "food."
+   ],
+   "answer": "Advertising may encourage children to eat unhealthy food.",
+   "explain": "may: nói thận trọng."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "majority",
+    "of",
+    "teenagers",
+    "get",
+    "their",
+    "news",
+    "from",
+    "social",
+    "media."
+   ],
+   "answer": "The majority of teenagers get their news from social media.",
+   "explain": "the majority of + N số nhiều."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Phần lớn quảng cáo nhắm vào người trẻ.",
+   "answer": [
+    "The majority of adverts target young people.",
+    "The majority of advertisements target young people.",
+    "Most adverts target young people.",
+    "Most advertisements are aimed at young people.",
+    "The majority of adverts are aimed at young people.",
+    "Most ads target young people."
+   ],
+   "explain": "the majority of / most."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Quảng cáo này được cho là đã thành công lớn.",
+   "answer": [
+    "This advert is thought to have been very successful.",
+    "This advertisement is thought to have been very successful.",
+    "This advert is said to have been very successful.",
+    "It is thought that this advert was very successful.",
+    "This advert is believed to have been a great success.",
+    "This ad is thought to have been very successful."
+   ],
+   "explain": "is thought to have been."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Investigative journalism helps expose wrongdoing.",
+   "answer": "Báo chí điều tra giúp phơi bày những sai phạm.",
+   "explain": "expose = phơi bày."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Advertising aimed at children has become a controversial issue. A recent survey suggested that the majority of children's TV programmes are interrupted by adverts for sweets, fast food and toys. Children tend to believe what they see, and they may ask their parents to buy these products again and again. Some countries, such as Sweden, ban advertising to children under twelve. Supporters of such a ban argue that it ( ___ ) to have reduced childhood obesity, although the evidence is still not clear.",
+   "options": [
+    "is thought",
+    "thinks",
+    "is thinking",
+    "thought"
+   ],
+   "answer": "is thought",
+   "explain": "Bị động khách quan: is thought to have reduced."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – thái độ tác giả] Câu 'although the evidence is still not clear' cho thấy tác giả:",
+   "en": "Advertising aimed at children has become a controversial issue. A recent survey suggested that the majority of children's TV programmes are interrupted by adverts for sweets, fast food and toys. Children tend to believe what they see, and they may ask their parents to buy these products again and again. Some countries, such as Sweden, ban advertising to children under twelve. Supporters of such a ban argue that it ( ___ ) to have reduced childhood obesity, although the evidence is still not clear.",
+   "options": [
+    "Thận trọng, chưa khẳng định lệnh cấm có hiệu quả",
+    "Hoàn toàn ủng hộ lệnh cấm",
+    "Phản đối mọi quảng cáo",
+    "Không quan tâm"
+   ],
+   "answer": "Thận trọng, chưa khẳng định lệnh cấm có hiệu quả",
+   "explain": "Hedging: bằng chứng chưa rõ."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Bao nhiêu sinh viên đọc tin chủ yếu từ mạng xã hội?",
+   "en": "A study of news habits among Vietnamese university students found that nearly two thirds of them get their news mainly from social media. Only a small proportion said they regularly read online newspapers. The researchers noted that students appear to trust posts shared by friends more than reports written by professional journalists. This seems to make them more likely to believe clickbait and biased stories. The researchers recommend that universities teach media literacy as a compulsory subject.",
+   "options": [
+    "Gần hai phần ba",
+    "Một nửa",
+    "Một phần nhỏ",
+    "Tất cả"
+   ],
+   "answer": "Gần hai phần ba",
+   "explain": "'nearly two thirds'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Các nhà nghiên cứu đề xuất gì?",
+   "en": "A study of news habits among Vietnamese university students found that nearly two thirds of them get their news mainly from social media. Only a small proportion said they regularly read online newspapers. The researchers noted that students appear to trust posts shared by friends more than reports written by professional journalists. This seems to make them more likely to believe clickbait and biased stories. The researchers recommend that universities teach media literacy as a compulsory subject.",
+   "options": [
+    "Dạy kỹ năng đọc hiểu truyền thông như môn bắt buộc",
+    "Cấm mạng xã hội",
+    "Đóng cửa báo mạng",
+    "Phạt sinh viên"
+   ],
+   "answer": "Dạy kỹ năng đọc hiểu truyền thông như môn bắt buộc",
+   "explain": "Câu cuối."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Advantages & Disadvantages: Người nổi tiếng quảng cáo",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Many companies pay celebrities and influencers to advertise their products.\nWhat are the advantages and disadvantages of this practice?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: Nowadays, it is common for… + thesis",
+   "Thân 1 – lợi ích: tăng doanh số, xây dựng brand image, tiếp cận target audience",
+   "Thân 2 – bất lợi: misleading, người hâm mộ trẻ dễ bị ảnh hưởng, bê bối làm hỏng thương hiệu",
+   "Dùng hedging (tend to, may, it appears that) và lượng từ số liệu (the majority of)",
+   "Kết bài: tóm tắt + đề xuất quy định minh bạch"
+  ],
+  "phrases": [
+   "Nowadays, it is common for companies to … — Ngày nay, các công ty thường …",
+   "Celebrity endorsement tends to … — Người nổi tiếng quảng bá thường có xu hướng …",
+   "The majority of young consumers … — Phần lớn người tiêu dùng trẻ …",
+   "However, there is a risk that such adverts may be misleading. — Tuy nhiên, có rủi ro rằng những quảng cáo này có thể gây hiểu lầm.",
+   "On balance, this practice can be beneficial provided that … — Nhìn chung, việc này có thể có lợi với điều kiện …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: Advertising and young people",
+  "prompt": "Topic: Advertising has too much influence on young people.\nIdeas: • encouraging unnecessary spending • promoting unhealthy food • creating unrealistic beauty standards\nFollow-up: Should advertising aimed at children be banned?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Should advertising aimed at children be banned?",
+   "Have you ever bought something because of an advert?"
+  ],
+  "ideas": [
+   "It seems to me that young people tend to…",
+   "The majority of adverts on TikTok…",
+   "This may lead them to…",
+   "Another issue is that adverts often show…",
+   "To some extent, I believe that…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "The best advertising is done by satisfied customers.",
+   "vi": "Quảng cáo tốt nhất là do khách hàng hài lòng làm."
+  },
+  "pron": {
+   "title": "Trọng âm từ có -ise/-ising",
+   "rule": "Danh từ 'advertisement' (Anh–Anh) nhấn âm 2: ad-VER-tise-ment. Động từ 'advertise' nhấn âm 1: AD-ver-tise.",
+   "examples": [
+    "advertise → /ˈædvətaɪz/",
+    "advertisement → /ədˈvɜːtɪsmənt/",
+    "journalism → /ˈdʒɜːnəlɪzəm/"
+   ]
+  },
+  "phrases": [
+   [
+    "sell like hot cakes",
+    "bán chạy như tôm tươi"
+   ],
+   [
+    "read between the lines",
+    "hiểu ý ngầm"
+   ],
+   [
+    "hit the headlines",
+    "lên trang nhất, gây chú ý"
+   ]
+  ],
+  "mistake": "Hay viết 'The majority of people thinks…'. Sau 'the majority of + N số nhiều', động từ chia số nhiều: think.",
+  "tip": "Writing Task 2: tránh từ tuyệt đối như 'always, never, everyone'. Dùng 'tend to, the majority of, in most cases' để lập luận chặt chẽ hơn.",
+  "diary": "Viết 3–5 câu về một quảng cáo bạn nhớ, dùng tend to, it appears that và một câu bị động khách quan (is said to…)."
+ }
+}

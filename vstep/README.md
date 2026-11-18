@@ -12,7 +12,8 @@ Mở web: https://tulinhnguyen91.github.io/hoctienghan/vstep/
 Tiến độ được lưu trên trình duyệt của máy đang dùng, dưới khóa `vs.*`, nên không đụng đến web tiếng Hàn.
 
 ## Dữ liệu
-- `data/plan.json`: lộ trình 30 ngày (19/11–18/12/2026), mỗi ngày có chủ đề, 3 mẫu ngữ pháp và trọng tâm kỹ năng. Các ngày 7, 14, 21 và 30 là ngày ôn tập.
+- Bài 1–8 (11–18/11/2026): những gì đã học trong sổ "VSTEP by Pé thúi" (15 cụm từ/ngày + ngữ pháp đã học).
+- `data/plan.json`: lộ trình 30 ngày (19/11–18/12/2026), bài 9–34, mỗi bài 20 từ mới, 3 mẫu ngữ pháp mới và trọng tâm kỹ năng. Các ngày 7, 14, 21 và 30 là ngày ôn tập.
 - `data/bai-N.json`: một bài học.
   - `words`: `[từ tiếng Anh, "/IPA/ · loại từ", nghĩa, câu ví dụ, nghĩa câu ví dụ]`
   - `patterns`: mẫu ngữ pháp
@@ -20,4 +21,5 @@ Tiến độ được lưu trên trình duyệt của máy đang dùng, dưới 
   - `writing`, `speaking`: đề Viết và đề Nói
   - `corner`: góc học mỗi ngày (câu nói, phát âm, cụm từ, lỗi hay gặp, mẹo thi, đề nhật ký)
 - `data/index.json`: danh sách các bài đã có.
-- Kiểm tra dữ liệu: `python3 vstep/tools/check.py vstep/data`
+- Tạo lại danh sách bài: `python3 vstep/tools/build_index.py vstep/data`
+- Kiểm tra dữ liệu (cấu trúc, đáp án, từ trùng): `python3 vstep/tools/check.py vstep/data`

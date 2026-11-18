@@ -1,0 +1,496 @@
+{
+ "id": "bai-24",
+ "lesson": "Bài 24",
+ "day": 18,
+ "date": "2026-12-06",
+ "title": "Du lịch bền vững & di sản",
+ "enTitle": "Sustainable Tourism & Heritage",
+ "past": false,
+ "words": [
+  [
+   "sustainable tourism",
+   "/səˈsteɪnəbl ˈtʊərɪzəm/ · n",
+   "du lịch bền vững",
+   "Sustainable tourism protects nature while supporting local people.",
+   "Du lịch bền vững bảo vệ thiên nhiên đồng thời hỗ trợ người dân địa phương."
+  ],
+  [
+   "World Heritage Site",
+   "/ˌwɜːld ˈherɪtɪdʒ saɪt/ · n",
+   "Di sản Thế giới",
+   "Ha Long Bay was recognised as a World Heritage Site by UNESCO.",
+   "Vịnh Hạ Long được UNESCO công nhận là Di sản Thế giới."
+  ],
+  [
+   "breathtaking",
+   "/ˈbreθteɪkɪŋ/ · adj",
+   "đẹp ngoạn mục",
+   "The view from the top of Fansipan is breathtaking.",
+   "Khung cảnh từ đỉnh Fansipan đẹp ngoạn mục."
+  ],
+  [
+   "well-preserved",
+   "/ˌwel prɪˈzɜːvd/ · adj",
+   "được bảo tồn tốt",
+   "Hue has many well-preserved royal tombs.",
+   "Huế có nhiều lăng tẩm được bảo tồn tốt."
+  ],
+  [
+   "homestay",
+   "/ˈhəʊmsteɪ/ · n",
+   "nhà dân cho khách ở",
+   "Staying in a homestay allows you to experience local life.",
+   "Ở homestay giúp bạn trải nghiệm đời sống địa phương."
+  ],
+  [
+   "overtourism",
+   "/ˌəʊvəˈtʊərɪzəm/ · n",
+   "quá tải du lịch",
+   "Overtourism has damaged coral reefs in some islands.",
+   "Quá tải du lịch đã làm hỏng rạn san hô ở một số đảo."
+  ],
+  [
+   "carrying capacity",
+   "/ˈkæriɪŋ kəˈpæsəti/ · n",
+   "sức chứa tối đa",
+   "Officials limit visitor numbers so as not to exceed the island's carrying capacity.",
+   "Chính quyền giới hạn số khách để không vượt quá sức chứa của đảo."
+  ],
+  [
+   "souvenir",
+   "/ˌsuːvəˈnɪə/ · n",
+   "quà lưu niệm",
+   "Tourists like buying handmade souvenirs from local craftsmen.",
+   "Du khách thích mua quà lưu niệm thủ công từ nghệ nhân địa phương."
+  ],
+  [
+   "time-consuming",
+   "/ˈtaɪm kənsjuːmɪŋ/ · adj",
+   "tốn thời gian",
+   "Applying for a visa can be time-consuming.",
+   "Xin visa có thể tốn nhiều thời gian."
+  ],
+  [
+   "world-famous",
+   "/ˌwɜːld ˈfeɪməs/ · adj",
+   "nổi tiếng thế giới",
+   "Pho has become a world-famous Vietnamese dish.",
+   "Phở đã trở thành món ăn Việt nổi tiếng thế giới."
+  ],
+  [
+   "picturesque",
+   "/ˌpɪktʃəˈresk/ · adj",
+   "đẹp như tranh",
+   "Sa Pa is famous for its picturesque rice terraces.",
+   "Sa Pa nổi tiếng với ruộng bậc thang đẹp như tranh."
+  ],
+  [
+   "tourist trap",
+   "/ˈtʊərɪst træp/ · n",
+   "nơi \"chặt chém\" khách du lịch",
+   "Avoid restaurants near the main square; they are often tourist traps.",
+   "Tránh nhà hàng gần quảng trường chính; chúng thường chặt chém khách."
+  ],
+  [
+   "guided tour",
+   "/ˈɡaɪdɪd tʊə/ · n",
+   "chuyến tham quan có hướng dẫn viên",
+   "We joined a guided tour of the Imperial City.",
+   "Chúng tôi tham gia tour có hướng dẫn viên ở Hoàng thành."
+  ],
+  [
+   "handicrafts",
+   "/ˈhændikrɑːfts/ · n",
+   "đồ thủ công",
+   "Bat Trang village is known for its ceramic handicrafts.",
+   "Làng Bát Tràng nổi tiếng với đồ gốm thủ công."
+  ],
+  [
+   "restore",
+   "/rɪˈstɔː/ · v",
+   "phục hồi, trùng tu",
+   "The ancient temple was restored after the flood.",
+   "Ngôi đền cổ được trùng tu sau trận lũ."
+  ],
+  [
+   "unspoilt",
+   "/ʌnˈspɔɪlt/ · adj",
+   "còn nguyên sơ",
+   "Con Dao still has many unspoilt beaches.",
+   "Côn Đảo vẫn còn nhiều bãi biển nguyên sơ."
+  ],
+  [
+   "peak season",
+   "/piːk ˈsiːzn/ · n",
+   "mùa cao điểm",
+   "Hotel prices double during the peak season.",
+   "Giá khách sạn tăng gấp đôi vào mùa cao điểm."
+  ],
+  [
+   "responsible travellers",
+   "/rɪˈspɒnsəbl ˈtrævələz/ · n",
+   "du khách có trách nhiệm",
+   "Responsible travellers respect local customs and avoid leaving litter.",
+   "Du khách có trách nhiệm tôn trọng phong tục và không xả rác."
+  ],
+  [
+   "landmark",
+   "/ˈlændmɑːk/ · n",
+   "địa danh, công trình biểu tượng",
+   "The One Pillar Pagoda is a famous landmark in Hanoi.",
+   "Chùa Một Cột là một địa danh nổi tiếng ở Hà Nội."
+  ],
+  [
+   "unforgettable",
+   "/ˌʌnfəˈɡetəbl/ · adj",
+   "không thể nào quên",
+   "Kayaking in Lan Ha Bay was an unforgettable experience.",
+   "Chèo kayak ở vịnh Lan Hạ là trải nghiệm không thể nào quên."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Tính từ ghép (compound adjectives)",
+   "meaning": "Ghép bằng dấu gạch nối, đứng trước danh từ: well-known, well-preserved, world-famous, time-consuming, eye-catching, energy-efficient, family-friendly, five-star, three-day. Số + danh từ (số ít!) + gạch nối: a three-day trip (không 'three-days').",
+   "examples": [
+    "Hoi An is a well-preserved ancient town. — Hội An là phố cổ được bảo tồn tốt.",
+    "We went on a three-day trip to Sa Pa. — Chúng tôi đi Sa Pa ba ngày.",
+    "Applying for a visa is time-consuming. — Xin visa tốn thời gian.",
+    "It's a family-friendly hotel with a big pool. — Đó là khách sạn thân thiện với gia đình, có hồ bơi lớn."
+   ]
+  },
+  {
+   "form": "Trạng từ chỉ mức độ: quite / rather / fairly / pretty / extremely / absolutely",
+   "meaning": "fairly < quite / pretty < rather < very < extremely. rather thường mang nghĩa hơi tiêu cực/ngạc nhiên. absolutely / totally dùng với tính từ mạnh (breathtaking, amazing, exhausted, freezing) — KHÔNG nói 'very breathtaking'.",
+   "examples": [
+    "The hotel was fairly clean but rather noisy. — Khách sạn khá sạch nhưng hơi ồn.",
+    "The view was absolutely breathtaking. — Khung cảnh đẹp ngoạn mục tuyệt đối.",
+    "The trip was extremely tiring but pretty interesting. — Chuyến đi cực kỳ mệt nhưng khá thú vị."
+   ]
+  },
+  {
+   "form": "Cấu tạo từ: tiền tố & hậu tố",
+   "meaning": "Tiền tố phủ định: un- (unspoilt, unforgettable), in-/im-/il-/ir- (impossible, illegal, irresponsible), dis- (dislike), over- (overtourism, overcrowded), re- (restore, rebuild). Hậu tố: -able/-ible (tính từ), -ment/-tion/-ness/-ity (danh từ), -ise/-ify (động từ), -ly (trạng từ).",
+   "examples": [
+    "Some tourists behave irresponsibly at heritage sites. — Một số du khách cư xử thiếu trách nhiệm ở di sản.",
+    "The government plans to rebuild the damaged bridge. — Chính phủ dự định xây lại cây cầu bị hỏng.",
+    "The beauty of the beach is unbelievable. — Vẻ đẹp của bãi biển thật khó tin."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tính từ ghép đúng",
+   "en": "We went on a ___ trip to Sa Pa.",
+   "options": [
+    "three-days",
+    "three-day",
+    "three day's",
+    "three days"
+   ],
+   "answer": "three-day",
+   "explain": "Số + N số ít + gạch nối: a three-day trip."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tính từ ghép đúng",
+   "en": "Hoi An is a ___ ancient town.",
+   "options": [
+    "well-preserving",
+    "well-preserved",
+    "good-preserved",
+    "well-preserve"
+   ],
+   "answer": "well-preserved",
+   "explain": "well-preserved = được bảo tồn tốt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn trạng từ đúng",
+   "en": "The view from the top was ___ breathtaking.",
+   "options": [
+    "very",
+    "absolutely",
+    "fairly",
+    "a bit"
+   ],
+   "answer": "absolutely",
+   "explain": "Tính từ mạnh đi với absolutely, không dùng very."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn trạng từ đúng",
+   "en": "The hotel was clean but ___ noisy, so we didn't sleep well.",
+   "options": [
+    "absolutely",
+    "rather",
+    "totally",
+    "completely"
+   ],
+   "answer": "rather",
+   "explain": "rather = hơi (tiêu cực)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng từ đúng",
+   "en": "Some tourists behave ___ at heritage sites.",
+   "options": [
+    "responsible",
+    "irresponsible",
+    "irresponsibly",
+    "responsibility"
+   ],
+   "answer": "irresponsibly",
+   "explain": "Bổ nghĩa cho động từ → trạng từ irresponsibly."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Avoid restaurants near the square; they are often tourist ___.",
+   "options": [
+    "traps",
+    "spots",
+    "sites",
+    "guides"
+   ],
+   "answer": "traps",
+   "explain": "tourist trap = nơi chặt chém khách."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Sa Pa is famous for its ___ rice terraces.",
+   "options": [
+    "picturesque",
+    "picture",
+    "pictured",
+    "picturing"
+   ],
+   "answer": "picturesque",
+   "explain": "picturesque = đẹp như tranh."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của từ trong ngoặc",
+   "en": "Kayaking in Lan Ha Bay was an ___ experience. (forget)",
+   "answer": [
+    "unforgettable"
+   ],
+   "explain": "un- + forget + -able."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của từ",
+   "en": "The ancient temple was ___ after the flood. (store → trùng tu)",
+   "answer": [
+    "restored"
+   ],
+   "explain": "restore = trùng tu."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Hotel prices double during the ___ season.",
+   "answer": [
+    "peak",
+    "high"
+   ],
+   "explain": "peak season = mùa cao điểm."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tính từ ghép",
+   "en": "Applying for a visa is time-___.",
+   "answer": [
+    "consuming"
+   ],
+   "explain": "time-consuming = tốn thời gian."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "view",
+    "was",
+    "absolutely",
+    "breathtaking."
+   ],
+   "answer": "The view was absolutely breathtaking.",
+   "explain": "absolutely + tính từ mạnh."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Staying",
+    "in",
+    "a",
+    "homestay",
+    "allows",
+    "you",
+    "to",
+    "experience",
+    "local",
+    "life."
+   ],
+   "answer": "Staying in a homestay allows you to experience local life.",
+   "explain": "V-ing làm chủ ngữ; allow + O + to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Chúng tôi đã có một chuyến đi hai ngày đến Huế.",
+   "answer": [
+    "We had a two-day trip to Hue.",
+    "We went on a two-day trip to Hue.",
+    "We took a two-day trip to Hue."
+   ],
+   "explain": "a two-day trip."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Phở đã trở thành món ăn nổi tiếng thế giới.",
+   "answer": [
+    "Pho has become a world-famous dish.",
+    "Pho has become a world-famous Vietnamese dish.",
+    "Pho has become a dish famous all over the world.",
+    "Pho has become world-famous."
+   ],
+   "explain": "world-famous."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Responsible travellers respect local customs and avoid leaving litter.",
+   "answer": "Du khách có trách nhiệm tôn trọng phong tục địa phương và tránh xả rác.",
+   "explain": "litter = rác."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn dạng từ phù hợp",
+   "en": "Overtourism has become a serious problem at some of Vietnam's most famous destinations. During the peak season, thousands of visitors crowd onto the small beaches of Phu Quoc and Nha Trang every day. Local divers report that coral reefs have been badly damaged, and rubbish is often left on the sand. To protect these areas, officials have started to limit the number of boats and visitors. They hope that tourists will become more ( ___ ) and respect the environment.",
+   "options": [
+    "responsible",
+    "responsibility",
+    "responsibly",
+    "irresponsible"
+   ],
+   "answer": "responsible",
+   "explain": "become + tính từ → responsible."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Thợ lặn địa phương cho biết điều gì?",
+   "en": "Overtourism has become a serious problem at some of Vietnam's most famous destinations. During the peak season, thousands of visitors crowd onto the small beaches of Phu Quoc and Nha Trang every day. Local divers report that coral reefs have been badly damaged, and rubbish is often left on the sand. To protect these areas, officials have started to limit the number of boats and visitors. They hope that tourists will become more ( ___ ) and respect the environment.",
+   "options": [
+    "Rạn san hô bị hư hại nặng",
+    "Biển sạch hơn",
+    "Có ít khách hơn",
+    "Thuyền bị cấm hoàn toàn"
+   ],
+   "answer": "Rạn san hô bị hư hại nặng",
+   "explain": "'coral reefs have been badly damaged'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Du lịch homestay mang lại lợi ích gì cho người dân?",
+   "en": "Instead of staying in big hotels, more travellers are now choosing homestays in villages. In Mai Chau, for example, visitors can sleep in a traditional stilt house, eat meals cooked by local families and learn how to weave fabric. This kind of sustainable tourism brings money directly to local people, who would otherwise have to leave to find work in cities. Many travellers say that the experience was absolutely unforgettable and far more meaningful than a three-day stay in a five-star resort.",
+   "options": [
+    "Tiền đến trực tiếp tay người dân, họ không phải lên thành phố tìm việc",
+    "Họ được ở resort",
+    "Họ học dệt vải",
+    "Họ chuyển vào nhà sàn"
+   ],
+   "answer": "Tiền đến trực tiếp tay người dân, họ không phải lên thành phố tìm việc",
+   "explain": "'brings money directly to local people, who would otherwise have to leave'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – từ vựng] 'otherwise' trong đoạn văn có nghĩa là:",
+   "en": "Instead of staying in big hotels, more travellers are now choosing homestays in villages. In Mai Chau, for example, visitors can sleep in a traditional stilt house, eat meals cooked by local families and learn how to weave fabric. This kind of sustainable tourism brings money directly to local people, who would otherwise have to leave to find work in cities. Many travellers say that the experience was absolutely unforgettable and far more meaningful than a three-day stay in a five-star resort.",
+   "options": [
+    "nếu không có điều đó",
+    "tuy nhiên",
+    "vì vậy",
+    "ví dụ"
+   ],
+   "answer": "nếu không có điều đó",
+   "explain": "otherwise = nếu không thì."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư giới thiệu điểm du lịch cho bạn nước ngoài",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "An English friend is planning a three-day trip to your hometown and has asked you for recommendations.\nWrite an email to your friend. In your email:\n• recommend places to visit\n• suggest where to stay\n• give some advice about local customs.\nYou should write at least 120 words.",
+  "outline": [
+   "Hi + tên, + It was great to hear from you!",
+   "Đoạn 1: 2 địa điểm (dùng tính từ ghép: world-famous, well-preserved; trạng từ mức độ: absolutely breathtaking)",
+   "Đoạn 2: chỗ ở (homestay / family-friendly hotel), tránh tourist trap",
+   "Đoạn 3: lời khuyên về phong tục (You should…, Make sure you don't…)",
+   "Kết: Let me know if you need anything else. Have a great trip! / Best wishes,"
+  ],
+  "phrases": [
+   "Since you'll only be here for three days, I'd recommend … — Vì bạn chỉ ở ba ngày, mình gợi ý …",
+   "The view from … is absolutely breathtaking. — Cảnh từ … đẹp ngoạn mục.",
+   "I'd suggest staying in a homestay, where you can … — Mình gợi ý ở homestay, nơi bạn có thể …",
+   "Make sure you dress modestly when visiting temples. — Nhớ ăn mặc kín đáo khi đến chùa.",
+   "Have a fantastic trip, and send me some photos! — Chúc bạn đi vui, nhớ gửi ảnh cho mình nhé!"
+  ]
+ },
+ "speaking": {
+  "part": 1,
+  "title": "Social interaction: holidays & your hometown",
+  "prompt": "Let's talk about holidays. Then let's talk about your hometown.",
+  "questions": [
+   "Where did you go on your last holiday?",
+   "Do you prefer beach holidays or mountain holidays?",
+   "Have you ever stayed in a homestay?",
+   "What is your hometown famous for?",
+   "What would you recommend a tourist to do in your hometown?",
+   "Has tourism changed your hometown in any way?"
+  ],
+  "ideas": [
+   "Last summer, I went on a three-day trip to…",
+   "I'd say I prefer… because it's absolutely…",
+   "My hometown is well-known for its…",
+   "If I were a tourist there, I would…",
+   "Tourism has brought…, but it has also…"
+  ],
+  "minutes": 3
+ },
+ "corner": {
+  "quote": {
+   "en": "Take only memories, leave only footprints.",
+   "vi": "Chỉ mang theo kỷ niệm, chỉ để lại dấu chân."
+  },
+  "pron": {
+   "title": "Trọng âm tính từ ghép",
+   "rule": "Tính từ ghép thường nhấn ở PHẦN SAU: well-KNOWN, world-FAmous, time-conSUMing. Đọc liền như một từ.",
+   "examples": [
+    "well-preserved → well-pre-SERVED",
+    "world-famous → world-FA-mous",
+    "breathtaking → BREATH-tak-ing (từ đơn)"
+   ]
+  },
+  "phrases": [
+   [
+    "a hidden gem",
+    "viên ngọc ẩn, nơi đẹp ít người biết"
+   ],
+   [
+    "get away from it all",
+    "thoát khỏi bộn bề cuộc sống"
+   ],
+   [
+    "travel on a shoestring",
+    "đi du lịch tiết kiệm"
+   ]
+  ],
+  "mistake": "Hay viết 'a three-days trip' hoặc 'very breathtaking'. Đúng: a three-DAY trip; ABSOLUTELY breathtaking.",
+  "tip": "Writing Task 1: tính từ ghép và trạng từ mức độ giúp thư sinh động và nâng điểm từ vựng mà không cần từ khó.",
+  "diary": "Giới thiệu quê bạn trong 3–5 câu, dùng 2 tính từ ghép, 1 trạng từ mức độ và 1 từ có tiền tố un-/ir-/re-."
+ }
+}

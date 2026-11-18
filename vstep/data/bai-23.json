@@ -1,0 +1,499 @@
+{
+ "id": "bai-23",
+ "lesson": "Bài 23",
+ "day": 17,
+ "date": "2026-12-05",
+ "title": "Nhà ở & quy hoạch đô thị",
+ "enTitle": "Housing & Urban Planning",
+ "past": false,
+ "words": [
+  [
+   "affordable housing",
+   "/əˈfɔːdəbl ˈhaʊzɪŋ/ · n",
+   "nhà ở giá phải chăng",
+   "The city needs more affordable housing for young workers.",
+   "Thành phố cần thêm nhà ở giá phải chăng cho lao động trẻ."
+  ],
+  [
+   "property prices",
+   "/ˈprɒpəti ˈpraɪsɪz/ · n",
+   "giá bất động sản",
+   "Property prices in Hanoi have doubled in ten years.",
+   "Giá nhà đất ở Hà Nội tăng gấp đôi trong mười năm."
+  ],
+  [
+   "rent",
+   "/rent/ · n, v",
+   "tiền thuê; thuê",
+   "Many students rent small rooms near the university.",
+   "Nhiều sinh viên thuê phòng nhỏ gần trường."
+  ],
+  [
+   "landlord",
+   "/ˈlændlɔːd/ · n",
+   "chủ nhà (cho thuê)",
+   "Our landlord raised the rent again this year.",
+   "Chủ nhà lại tăng tiền thuê năm nay."
+  ],
+  [
+   "tenant",
+   "/ˈtenənt/ · n",
+   "người thuê nhà",
+   "Tenants should sign a contract before moving in.",
+   "Người thuê nên ký hợp đồng trước khi dọn vào."
+  ],
+  [
+   "apartment block",
+   "/əˈpɑːtmənt blɒk/ · n",
+   "tòa chung cư",
+   "Hundreds of families live in this apartment block.",
+   "Hàng trăm gia đình sống trong tòa chung cư này."
+  ],
+  [
+   "suburbs",
+   "/ˈsʌbɜːbz/ · n",
+   "vùng ngoại ô",
+   "More families are moving to the suburbs to find bigger homes.",
+   "Nhiều gia đình chuyển ra ngoại ô để có nhà rộng hơn."
+  ],
+  [
+   "residential area",
+   "/ˌrezɪˈdenʃl ˈeəriə/ · n",
+   "khu dân cư",
+   "Factories should not be built in residential areas.",
+   "Không nên xây nhà máy trong khu dân cư."
+  ],
+  [
+   "urban planning",
+   "/ˈɜːbən ˈplænɪŋ/ · n",
+   "quy hoạch đô thị",
+   "Good urban planning can make cities more liveable.",
+   "Quy hoạch đô thị tốt giúp thành phố đáng sống hơn."
+  ],
+  [
+   "liveable",
+   "/ˈlɪvəbl/ · adj",
+   "đáng sống",
+   "Da Nang is often called the most liveable city in Vietnam.",
+   "Đà Nẵng thường được gọi là thành phố đáng sống nhất Việt Nam."
+  ],
+  [
+   "public amenities",
+   "/ˈpʌblɪk əˈmiːnətiz/ · n",
+   "tiện ích công cộng",
+   "A good neighbourhood has public amenities such as parks and libraries.",
+   "Khu phố tốt có tiện ích công cộng như công viên và thư viện."
+  ],
+  [
+   "housing shortage",
+   "/ˈhaʊzɪŋ ˈʃɔːtɪdʒ/ · n",
+   "tình trạng thiếu nhà ở",
+   "Rapid migration has caused a housing shortage in big cities.",
+   "Di cư nhanh gây thiếu nhà ở tại các thành phố lớn."
+  ],
+  [
+   "slum",
+   "/slʌm/ · n",
+   "khu ổ chuột",
+   "Many migrant workers live in slums on the edge of the city.",
+   "Nhiều lao động nhập cư sống ở khu ổ chuột ven thành phố."
+  ],
+  [
+   "demolish",
+   "/dɪˈmɒlɪʃ/ · v",
+   "phá dỡ",
+   "The old apartment block will be demolished next year.",
+   "Tòa chung cư cũ sẽ bị phá dỡ năm sau."
+  ],
+  [
+   "renovate",
+   "/ˈrenəveɪt/ · v",
+   "cải tạo, sửa sang",
+   "They renovated the old house instead of building a new one.",
+   "Họ cải tạo ngôi nhà cũ thay vì xây mới."
+  ],
+  [
+   "spacious",
+   "/ˈspeɪʃəs/ · adj",
+   "rộng rãi",
+   "Houses in the countryside are usually more spacious.",
+   "Nhà ở nông thôn thường rộng rãi hơn."
+  ],
+  [
+   "cramped",
+   "/kræmpt/ · adj",
+   "chật chội",
+   "Five people live in a cramped flat of 30 square metres.",
+   "Năm người sống trong căn hộ chật chội 30 mét vuông."
+  ],
+  [
+   "get on the property ladder",
+   "/ˈprɒpəti ˈlædə/ · v phr",
+   "mua được căn nhà đầu tiên",
+   "It is very hard for young people to get on the property ladder.",
+   "Người trẻ rất khó mua được căn nhà đầu tiên."
+  ],
+  [
+   "mortgage",
+   "/ˈmɔːɡɪdʒ/ · n",
+   "khoản vay mua nhà",
+   "They took out a 20-year mortgage to buy their flat.",
+   "Họ vay mua nhà 20 năm để mua căn hộ."
+  ],
+  [
+   "neighbourhood",
+   "/ˈneɪbəhʊd/ · n",
+   "khu phố, hàng xóm láng giềng",
+   "I grew up in a friendly neighbourhood where everyone knew each other.",
+   "Tôi lớn lên ở một khu phố thân thiện, ai cũng biết nhau."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Câu chẻ: It is / was + … + that / who …",
+   "meaning": "Nhấn mạnh một thành phần (chủ ngữ, tân ngữ, trạng ngữ). It is/was + phần nhấn mạnh + that/who + phần còn lại. Dùng 'who' khi nhấn mạnh người.",
+   "examples": [
+    "High property prices make it hard to buy a home. → It is high property prices that make it hard to buy a home. — Chính giá nhà cao khiến việc mua nhà trở nên khó.",
+    "It was my grandfather who built this house. — Chính ông tôi đã xây ngôi nhà này.",
+    "It was in 2015 that we moved to the suburbs. — Chính năm 2015 chúng tôi chuyển ra ngoại ô."
+   ]
+  },
+  {
+   "form": "Câu chẻ với What: What + S + V + is/was …",
+   "meaning": "What + mệnh đề + is/was + phần nhấn mạnh. Rất tự nhiên trong Speaking và Writing để nêu điểm chính.",
+   "examples": [
+    "What young people need is affordable housing. — Điều người trẻ cần là nhà ở giá phải chăng.",
+    "What I like most about my neighbourhood is the park. — Điều tôi thích nhất ở khu phố là công viên.",
+    "What worries me is the rising rent. — Điều khiến tôi lo là tiền thuê tăng."
+   ]
+  },
+  {
+   "form": "Nhấn mạnh với do / does / did",
+   "meaning": "do/does/did + V nguyên mẫu để nhấn mạnh hoặc phản bác: I DO agree. She DID try. Hay đi với 'but', 'really'.",
+   "examples": [
+    "I do understand your concerns about the rent. — Tôi thật sự hiểu nỗi lo của bạn về tiền thuê.",
+    "The new metro line does make life easier for commuters. — Tuyến tàu điện mới quả thật giúp cuộc sống người đi làm dễ hơn.",
+    "We did try to find a cheaper flat, but there was none. — Chúng tôi đã thực sự cố tìm căn rẻ hơn nhưng không có."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn câu chẻ đúng",
+   "en": "___ my grandfather who built this house.",
+   "options": [
+    "It was",
+    "That was",
+    "What was",
+    "He was"
+   ],
+   "answer": "It was",
+   "explain": "It was + người + who…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu chẻ đúng",
+   "en": "It is high property prices ___ make it hard to buy a home.",
+   "options": [
+    "what",
+    "that",
+    "which they",
+    "who"
+   ],
+   "answer": "that",
+   "explain": "It is + N (vật) + that…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu chẻ đúng",
+   "en": "___ young people need is affordable housing.",
+   "options": [
+    "That",
+    "It",
+    "What",
+    "Which"
+   ],
+   "answer": "What",
+   "explain": "What + S + V + is…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "We ___ try to find a cheaper flat, but there was none.",
+   "options": [
+    "do",
+    "did",
+    "does",
+    "done"
+   ],
+   "answer": "did",
+   "explain": "Nhấn mạnh quá khứ → did + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It was in 2015 ___ we moved to the suburbs.",
+   "options": [
+    "when that",
+    "that",
+    "which",
+    "what"
+   ],
+   "answer": "that",
+   "explain": "It was + trạng ngữ + that…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Five people live in a ___ flat of 30 square metres.",
+   "options": [
+    "spacious",
+    "cramped",
+    "liveable",
+    "affordable"
+   ],
+   "answer": "cramped",
+   "explain": "cramped = chật chội."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Our ___ raised the rent again this year.",
+   "options": [
+    "tenant",
+    "landlord",
+    "neighbour",
+    "resident"
+   ],
+   "answer": "landlord",
+   "explain": "landlord = chủ nhà."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "What I like most about my neighbourhood ___ the park.",
+   "answer": [
+    "is"
+   ],
+   "explain": "What… + is."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "I ___ understand your concerns. (nhấn mạnh, hiện tại)",
+   "answer": [
+    "do"
+   ],
+   "explain": "do + V nhấn mạnh."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The old apartment block will be ___ next year. (phá dỡ)",
+   "answer": [
+    "demolished"
+   ],
+   "explain": "demolish = phá dỡ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "They took out a 20-year ___ to buy their flat.",
+   "answer": [
+    "mortgage",
+    "loan"
+   ],
+   "explain": "mortgage = khoản vay mua nhà."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "What",
+    "worries",
+    "me",
+    "is",
+    "the",
+    "rising",
+    "rent."
+   ],
+   "answer": "What worries me is the rising rent.",
+   "explain": "What-cleft."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "It",
+    "is",
+    "very",
+    "hard",
+    "for",
+    "young",
+    "people",
+    "to",
+    "get",
+    "on",
+    "the",
+    "property",
+    "ladder."
+   ],
+   "answer": "It is very hard for young people to get on the property ladder.",
+   "explain": "It is hard for sb to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Chính giá nhà cao khiến người trẻ không mua được nhà.",
+   "answer": [
+    "It is high property prices that prevent young people from buying a home.",
+    "It is high house prices that prevent young people from buying a home.",
+    "It is high property prices that stop young people from buying a home.",
+    "It is high property prices that make it impossible for young people to buy a home.",
+    "It is high house prices that stop young people from buying a house."
+   ],
+   "explain": "It is … that…"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Điều tôi cần là một căn hộ rộng rãi hơn.",
+   "answer": [
+    "What I need is a more spacious apartment.",
+    "What I need is a more spacious flat.",
+    "What I need is a bigger apartment.",
+    "What I need is a bigger flat."
+   ],
+   "explain": "What + S + V + is…"
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Good urban planning can make cities more liveable.",
+   "answer": "Quy hoạch đô thị tốt có thể giúp các thành phố trở nên đáng sống hơn.",
+   "explain": "liveable = đáng sống."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "For many young Vietnamese, getting on the property ladder has become a distant dream. In Hanoi and Ho Chi Minh City, property prices have risen much faster than salaries. A young couple earning an average income would need more than twenty years to save enough for a small flat. As a result, many choose to rent, often in cramped rooms far from the city centre. What young people need most, experts say, ( ___ ) more affordable housing projects supported by the government.",
+   "options": [
+    "is",
+    "are",
+    "was being",
+    "being"
+   ],
+   "answer": "is",
+   "explain": "What… + is (động từ số ít)."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Một cặp vợ chồng trẻ thu nhập trung bình cần bao lâu để mua căn hộ nhỏ?",
+   "en": "For many young Vietnamese, getting on the property ladder has become a distant dream. In Hanoi and Ho Chi Minh City, property prices have risen much faster than salaries. A young couple earning an average income would need more than twenty years to save enough for a small flat. As a result, many choose to rent, often in cramped rooms far from the city centre. What young people need most, experts say, ( ___ ) more affordable housing projects supported by the government.",
+   "options": [
+    "Hơn hai mươi năm",
+    "Mười năm",
+    "Năm năm",
+    "Hai năm"
+   ],
+   "answer": "Hơn hai mươi năm",
+   "explain": "'more than twenty years'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Điều gì KHÔNG được nhắc đến như một điểm mạnh của Đà Nẵng?",
+   "en": "Da Nang is often described as the most liveable city in Vietnam. It is not only the beautiful beaches that attract residents, but also its careful urban planning. The city has wide roads, plenty of green spaces and public amenities such as libraries and sports centres. Old residential areas have been renovated rather than demolished, and the river banks have been turned into walking paths. However, some residents complain that rising property prices are pushing local families out of the city centre.",
+   "options": [
+    "Hệ thống tàu điện ngầm",
+    "Bãi biển đẹp",
+    "Không gian xanh",
+    "Đường đi bộ ven sông"
+   ],
+   "answer": "Hệ thống tàu điện ngầm",
+   "explain": "Bài không nhắc tàu điện."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Một số cư dân phàn nàn vì:",
+   "en": "Da Nang is often described as the most liveable city in Vietnam. It is not only the beautiful beaches that attract residents, but also its careful urban planning. The city has wide roads, plenty of green spaces and public amenities such as libraries and sports centres. Old residential areas have been renovated rather than demolished, and the river banks have been turned into walking paths. However, some residents complain that rising property prices are pushing local families out of the city centre.",
+   "options": [
+    "Giá nhà tăng đẩy người dân địa phương ra khỏi trung tâm",
+    "Thiếu công viên",
+    "Đường quá hẹp",
+    "Nhà cũ bị phá"
+   ],
+   "answer": "Giá nhà tăng đẩy người dân địa phương ra khỏi trung tâm",
+   "explain": "Câu cuối."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Causes & Effects: Giá nhà tăng cao",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "In many big cities, property prices are rising so fast that young people cannot afford to buy a home.\nWhat are the causes of this problem, and what effects does it have on society?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: … has become a serious concern. + This essay will examine the causes and effects.",
+   "Thân 1 – nguyên nhân: di cư từ nông thôn, thiếu nhà ở, đầu cơ, quy hoạch kém",
+   "Thân 2 – hậu quả: người trẻ trì hoãn lập gia đình, sống chật chội, khoảng cách giàu nghèo",
+   "Dùng 1–2 câu chẻ (It is… that…, What… is…) để nhấn mạnh ý chính",
+   "Kết bài: tóm tắt + đề xuất nhà ở giá phải chăng"
+  ],
+  "phrases": [
+   "It is undeniable that housing has become … — Không thể phủ nhận nhà ở đã trở thành …",
+   "It is the rapid migration to cities that … — Chính làn sóng di cư nhanh lên thành phố đã …",
+   "What makes the situation worse is … — Điều làm tình hình tệ hơn là …",
+   "As a result, many young couples have to delay … — Kết quả là nhiều cặp đôi trẻ phải trì hoãn …",
+   "What is needed is more affordable housing … — Điều cần thiết là thêm nhà ở giá phải chăng …"
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: chọn nơi ở",
+  "prompt": "Situation: You have just got a job in the city centre. Where should you live?\n1. Rent a small room near your office\n2. Rent a bigger flat in the suburbs\n3. Live with relatives and save money to buy a home",
+  "questions": [
+   "Which option would you choose and why?",
+   "Why are the other two options less suitable?"
+  ],
+  "ideas": [
+   "What matters most to me is…",
+   "It's the time spent commuting that…",
+   "A bigger flat in the suburbs does sound attractive, but…",
+   "Living with relatives would help me save, though…",
+   "That's why I'd go for…"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Home is not a place, it's a feeling.",
+   "vi": "Nhà không phải là một nơi chốn, mà là một cảm giác."
+  },
+  "pron": {
+   "title": "Nhấn trọng âm câu chẻ",
+   "rule": "Trong câu chẻ, nhấn mạnh vào phần được nhấn (sau It is / What … is).",
+   "examples": [
+    "It was my GRANDfather who built it.",
+    "What I NEED is a bigger flat.",
+    "I DO understand."
+   ]
+  },
+  "phrases": [
+   [
+    "make oneself at home",
+    "cứ tự nhiên như ở nhà"
+   ],
+   [
+    "there's no place like home",
+    "không đâu bằng nhà mình"
+   ],
+   [
+    "a roof over one's head",
+    "chỗ ở, mái nhà che đầu"
+   ]
+  ],
+  "mistake": "Hay viết 'What young people need are housing' hoặc quên 'that' trong câu chẻ. Đúng: What young people need IS affordable housing / It is… THAT…",
+  "tip": "Writing Causes–Effects: thân 2 viết hậu quả (effects), không phải giải pháp. Đọc kỹ câu hỏi cuối đề.",
+  "diary": "Miêu tả ngôi nhà/khu phố bạn mơ ước trong 3–5 câu, dùng một câu It is… that…, một câu What… is… và một câu nhấn mạnh với do/did."
+ }
+}

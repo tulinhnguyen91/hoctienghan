@@ -1,0 +1,503 @@
+{
+ "id": "bai-21",
+ "lesson": "Bài 21",
+ "day": 15,
+ "date": "2026-12-03",
+ "title": "Thị trường việc làm & khởi nghiệp",
+ "enTitle": "Job Market & Start-ups",
+ "past": false,
+ "words": [
+  [
+   "start-up",
+   "/ˈstɑːt ʌp/ · n",
+   "công ty khởi nghiệp",
+   "Many young graduates dream of launching their own start-up.",
+   "Nhiều sinh viên mới ra trường mơ mở công ty khởi nghiệp."
+  ],
+  [
+   "entrepreneur",
+   "/ˌɒntrəprəˈnɜː/ · n",
+   "doanh nhân, người khởi nghiệp",
+   "Successful entrepreneurs are willing to take risks.",
+   "Doanh nhân thành công sẵn sàng chấp nhận rủi ro."
+  ],
+  [
+   "job market",
+   "/ˈdʒɒb mɑːkɪt/ · n",
+   "thị trường việc làm",
+   "The job market for IT graduates is very competitive.",
+   "Thị trường việc làm cho sinh viên CNTT rất cạnh tranh."
+  ],
+  [
+   "apply for a job",
+   "/əˈplaɪ fər ə dʒɒb/ · v phr",
+   "nộp đơn xin việc",
+   "She applied for a job at a foreign bank.",
+   "Cô ấy nộp đơn vào một ngân hàng nước ngoài."
+  ],
+  [
+   "job interview",
+   "/ˈdʒɒb ɪntəvjuː/ · n",
+   "buổi phỏng vấn xin việc",
+   "Prepare well before a job interview.",
+   "Hãy chuẩn bị kỹ trước buổi phỏng vấn."
+  ],
+  [
+   "résumé (CV)",
+   "/ˈrezjumeɪ/ · n",
+   "sơ yếu lý lịch",
+   "Keep your CV short and clear.",
+   "Hãy giữ CV ngắn gọn và rõ ràng."
+  ],
+  [
+   "recruit",
+   "/rɪˈkruːt/ · v",
+   "tuyển dụng",
+   "The company plans to recruit fifty new engineers.",
+   "Công ty dự định tuyển năm mươi kỹ sư mới."
+  ],
+  [
+   "be made redundant",
+   "/rɪˈdʌndənt/ · v phr",
+   "bị cho thôi việc (cắt giảm)",
+   "Hundreds of workers were made redundant when the factory closed.",
+   "Hàng trăm công nhân bị cho thôi việc khi nhà máy đóng cửa."
+  ],
+  [
+   "freelance",
+   "/ˈfriːlɑːns/ · adj, v",
+   "làm tự do",
+   "He works freelance as a graphic designer.",
+   "Anh ấy làm thiết kế đồ họa tự do."
+  ],
+  [
+   "the gig economy",
+   "/ðə ˈɡɪɡ ɪkɒnəmi/ · n",
+   "nền kinh tế việc làm tự do (shipper, xe công nghệ…)",
+   "Ride-hailing drivers are part of the gig economy.",
+   "Tài xế xe công nghệ là một phần của nền kinh tế việc làm tự do."
+  ],
+  [
+   "take a risk",
+   "/teɪk ə rɪsk/ · v phr",
+   "chấp nhận rủi ro",
+   "Starting a business means taking a big risk.",
+   "Khởi nghiệp nghĩa là chấp nhận rủi ro lớn."
+  ],
+  [
+   "venture capital",
+   "/ˈventʃə ˌkæpɪtl/ · n",
+   "vốn đầu tư mạo hiểm",
+   "The start-up raised two million dollars in venture capital.",
+   "Công ty khởi nghiệp gọi được hai triệu đô vốn mạo hiểm."
+  ],
+  [
+   "business plan",
+   "/ˈbɪznəs plæn/ · n",
+   "kế hoạch kinh doanh",
+   "Investors always want to see a clear business plan.",
+   "Nhà đầu tư luôn muốn xem kế hoạch kinh doanh rõ ràng."
+  ],
+  [
+   "go bankrupt",
+   "/ɡəʊ ˈbæŋkrʌpt/ · v phr",
+   "phá sản",
+   "Many small shops went bankrupt during the pandemic.",
+   "Nhiều cửa hàng nhỏ phá sản trong đại dịch."
+  ],
+  [
+   "internship",
+   "/ˈɪntɜːnʃɪp/ · n",
+   "kỳ thực tập",
+   "I did a three-month internship at a marketing agency.",
+   "Tôi thực tập ba tháng ở một công ty marketing."
+  ],
+  [
+   "probation period",
+   "/prəˈbeɪʃn ˌpɪəriəd/ · n",
+   "thời gian thử việc",
+   "New staff usually have a two-month probation period.",
+   "Nhân viên mới thường thử việc hai tháng."
+  ],
+  [
+   "in high demand",
+   "/ɪn haɪ dɪˈmɑːnd/ · adj phr",
+   "có nhu cầu cao",
+   "Data analysts are in high demand these days.",
+   "Chuyên viên phân tích dữ liệu đang có nhu cầu cao."
+  ],
+  [
+   "transferable skills",
+   "/trænsˈfɜːrəbl skɪlz/ · n",
+   "kỹ năng chuyển đổi được",
+   "Communication is a transferable skill that every job needs.",
+   "Giao tiếp là kỹ năng chuyển đổi mà công việc nào cũng cần."
+  ],
+  [
+   "quit one's job",
+   "/kwɪt wʌnz dʒɒb/ · v phr",
+   "nghỉ việc",
+   "She quit her job to start her own bakery.",
+   "Cô ấy nghỉ việc để mở tiệm bánh riêng."
+  ],
+  [
+   "a steady income",
+   "/ə ˈstedi ˈɪnkʌm/ · n",
+   "thu nhập ổn định",
+   "Freelancers often lack a steady income.",
+   "Người làm tự do thường thiếu thu nhập ổn định."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Past perfect continuous: had been + V-ing",
+   "meaning": "Hành động kéo dài liên tục ĐẾN một thời điểm hoặc hành động khác trong quá khứ; nhấn mạnh quá trình (thường để giải thích kết quả). Dấu hiệu: for/since + before/when/by the time…",
+   "examples": [
+    "She had been working at the bank for five years before she quit her job. — Cô ấy đã làm ở ngân hàng năm năm trước khi nghỉ việc.",
+    "He was exhausted because he had been preparing the business plan all night. — Anh ấy kiệt sức vì đã soạn kế hoạch kinh doanh cả đêm.",
+    "How long had you been looking for a job before you got this one? — Bạn đã tìm việc bao lâu trước khi có công việc này?"
+   ]
+  },
+  {
+   "form": "Narrative tenses — phối hợp các thì kể chuyện",
+   "meaning": "Quá khứ đơn: chuỗi sự kiện chính. Quá khứ tiếp diễn: bối cảnh, việc đang xảy ra. Quá khứ hoàn thành: việc xảy ra trước. QKHT tiếp diễn: quá trình kéo dài trước đó. Rất hữu ích cho Speaking Part 1 và thư kể chuyện.",
+   "examples": [
+    "I was working in a café when I had the idea for my start-up. — Tôi đang làm ở quán cà phê thì nảy ra ý tưởng khởi nghiệp.",
+    "By the time the investors arrived, we had prepared everything. — Khi nhà đầu tư đến, chúng tôi đã chuẩn bị xong mọi thứ.",
+    "She had been saving money for years, so she was able to open her own shop. — Cô ấy đã tiết kiệm nhiều năm nên có thể mở cửa hàng riêng."
+   ]
+  },
+  {
+   "form": "by the time / until / as soon as / once — liên từ thời gian",
+   "meaning": "by the time + QKĐ, S + QKHT (khi… thì đã). until/till: cho đến khi. as soon as / once: ngay khi. Mệnh đề thời gian nói về tương lai dùng HTĐ, không dùng will.",
+   "examples": [
+    "By the time I graduated, I had already done two internships. — Khi tốt nghiệp, tôi đã thực tập hai lần.",
+    "I won't quit my job until I find a new one. — Tôi sẽ không nghỉ việc cho đến khi tìm được việc mới.",
+    "As soon as the start-up raises money, it will recruit more staff. — Ngay khi gọi được vốn, công ty sẽ tuyển thêm người."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn thì đúng",
+   "en": "She ___ at the bank for five years before she quit.",
+   "options": [
+    "has worked",
+    "had been working",
+    "was working",
+    "works"
+   ],
+   "answer": "had been working",
+   "explain": "Quá trình kéo dài trước một việc trong quá khứ → QKHT tiếp diễn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn thì đúng",
+   "en": "I ___ in a café when I had the idea for my start-up.",
+   "options": [
+    "had worked",
+    "worked",
+    "was working",
+    "have worked"
+   ],
+   "answer": "was working",
+   "explain": "Bối cảnh đang diễn ra → QKTD."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn thì đúng",
+   "en": "By the time the investors arrived, we ___ everything.",
+   "options": [
+    "prepared",
+    "had prepared",
+    "have prepared",
+    "were preparing"
+   ],
+   "answer": "had prepared",
+   "explain": "by the time + QKĐ, S + QKHT."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I won't quit my job ___ I find a new one.",
+   "options": [
+    "as soon as",
+    "until",
+    "by the time",
+    "when"
+   ],
+   "answer": "until",
+   "explain": "until = cho đến khi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "As soon as the start-up ___ money, it will recruit more staff.",
+   "options": [
+    "will raise",
+    "raises",
+    "raised",
+    "is raising"
+   ],
+   "answer": "raises",
+   "explain": "Mệnh đề thời gian tương lai → HTĐ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Hundreds of workers were made ___ when the factory closed.",
+   "options": [
+    "redundant",
+    "unemployed",
+    "fired off",
+    "quit"
+   ],
+   "answer": "redundant",
+   "explain": "be made redundant = bị cho thôi việc."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Data analysts are in high ___ these days.",
+   "options": [
+    "demand",
+    "need",
+    "request",
+    "want"
+   ],
+   "answer": "demand",
+   "explain": "in high demand."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "He was tired because he ___ (prepare) the business plan all night.",
+   "answer": [
+    "had been preparing"
+   ],
+   "explain": "Giải thích kết quả trong quá khứ → QKHT tiếp diễn."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "By the time I graduated, I ___ (do) two internships.",
+   "answer": [
+    "had done",
+    "had already done"
+   ],
+   "explain": "by the time + QKĐ → QKHT."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Many small shops went ___ during the pandemic.",
+   "answer": [
+    "bankrupt"
+   ],
+   "explain": "go bankrupt = phá sản."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Freelancers often lack a ___ income.",
+   "answer": [
+    "steady",
+    "stable",
+    "regular"
+   ],
+   "explain": "a steady income."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "She",
+    "had",
+    "been",
+    "saving",
+    "money",
+    "for",
+    "years",
+    "before",
+    "she",
+    "opened",
+    "her",
+    "shop."
+   ],
+   "answer": "She had been saving money for years before she opened her shop.",
+   "explain": "QKHT tiếp diễn + before + QKĐ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "I",
+    "did",
+    "a",
+    "three-month",
+    "internship",
+    "at",
+    "a",
+    "marketing",
+    "agency."
+   ],
+   "answer": "I did a three-month internship at a marketing agency.",
+   "explain": "do an internship."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi đã tìm việc được ba tháng trước khi được nhận.",
+   "answer": [
+    "I had been looking for a job for three months before I was hired.",
+    "I had been looking for a job for three months before I got hired.",
+    "I had been looking for a job for three months before I was accepted.",
+    "I had been searching for a job for three months before I was hired.",
+    "I had been looking for work for three months before I was hired."
+   ],
+   "explain": "QKHT tiếp diễn."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi sẽ không nghỉ việc cho đến khi tìm được việc mới.",
+   "answer": [
+    "I won't quit my job until I find a new one.",
+    "I will not quit my job until I find a new one.",
+    "I won't leave my job until I find a new one.",
+    "I will not leave my job until I find a new one.",
+    "I won't quit my job until I find a new job."
+   ],
+   "explain": "until + HTĐ."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Communication is a transferable skill that every job needs.",
+   "answer": "Giao tiếp là một kỹ năng chuyển đổi mà công việc nào cũng cần.",
+   "explain": "transferable = có thể chuyển đổi, dùng ở nhiều nơi."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn thì phù hợp nhất",
+   "en": "Lan had been working as an accountant for six years when she decided to quit her job. She had always loved baking, and she had been selling cakes to her colleagues at weekends. With the money she had saved, she opened a small bakery in Hanoi. The first year was hard: she worked fourteen hours a day and almost went bankrupt. However, by the time her shop celebrated its third birthday, she ( ___ ) two more branches. Lan says that taking a risk was the best decision she ever made.",
+   "options": [
+    "had opened",
+    "opened",
+    "has opened",
+    "was opening"
+   ],
+   "answer": "had opened",
+   "explain": "by the time + QKĐ → QKHT."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Trước khi mở tiệm, Lan đã làm gì?",
+   "en": "Lan had been working as an accountant for six years when she decided to quit her job. She had always loved baking, and she had been selling cakes to her colleagues at weekends. With the money she had saved, she opened a small bakery in Hanoi. The first year was hard: she worked fourteen hours a day and almost went bankrupt. However, by the time her shop celebrated its third birthday, she ( ___ ) two more branches. Lan says that taking a risk was the best decision she ever made.",
+   "options": [
+    "Bán bánh cho đồng nghiệp vào cuối tuần",
+    "Học làm bánh ở nước ngoài",
+    "Vay tiền ngân hàng",
+    "Làm cho tiệm bánh khác"
+   ],
+   "answer": "Bán bánh cho đồng nghiệp vào cuối tuần",
+   "explain": "'she had been selling cakes to her colleagues at weekends'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Hạn chế của việc làm tự do (gig) là gì?",
+   "en": "The gig economy has grown rapidly in Vietnam. Thousands of young people now work as delivery riders or ride-hailing drivers. Many of them like the flexibility, since they can choose when to work. However, these jobs rarely offer health insurance or a steady income, and workers can lose their jobs at any time. Experts suggest that the government should create rules to protect gig workers, while young people should also develop transferable skills so that they can find better jobs in the future.",
+   "options": [
+    "Hiếm khi có bảo hiểm y tế hay thu nhập ổn định",
+    "Không được chọn giờ làm",
+    "Phải có bằng đại học",
+    "Lương quá cao"
+   ],
+   "answer": "Hiếm khi có bảo hiểm y tế hay thu nhập ổn định",
+   "explain": "'rarely offer health insurance or a steady income'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Chuyên gia khuyên người trẻ:",
+   "en": "The gig economy has grown rapidly in Vietnam. Thousands of young people now work as delivery riders or ride-hailing drivers. Many of them like the flexibility, since they can choose when to work. However, these jobs rarely offer health insurance or a steady income, and workers can lose their jobs at any time. Experts suggest that the government should create rules to protect gig workers, while young people should also develop transferable skills so that they can find better jobs in the future.",
+   "options": [
+    "Phát triển kỹ năng chuyển đổi để tìm việc tốt hơn sau này",
+    "Không bao giờ làm shipper",
+    "Mở công ty ngay",
+    "Ra nước ngoài làm"
+   ],
+   "answer": "Phát triển kỹ năng chuyển đổi để tìm việc tốt hơn sau này",
+   "explain": "Câu cuối."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư xin đổi lịch phỏng vấn",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "You have been invited to a job interview next Monday, but you cannot attend at that time.\nWrite an email to the HR manager. In your email:\n• thank them for the invitation\n• explain why you cannot attend\n• suggest another time for the interview.\nYou should write at least 120 words.",
+  "outline": [
+   "Dear Ms/Mr…, + Thank you very much for inviting me to…",
+   "Đoạn 1: cảm ơn + thể hiện sự hào hứng với vị trí",
+   "Đoạn 2: lý do không đến được (dùng narrative tenses: I had already booked… / I had been asked to…)",
+   "Đoạn 3: đề xuất thời gian khác (Would it be possible to reschedule…? I am available…)",
+   "Kết: I apologise for any inconvenience… I look forward to hearing from you. / Yours sincerely,"
+  ],
+  "phrases": [
+   "Thank you very much for inviting me to an interview for the position of … — Cảm ơn ông/bà đã mời tôi phỏng vấn vị trí …",
+   "Unfortunately, I will be unable to attend on Monday because … — Rất tiếc tôi không thể tham dự hôm thứ Hai vì …",
+   "I had already agreed to … before I received your email. — Tôi đã nhận lời … trước khi nhận được email của ông/bà.",
+   "Would it be possible to reschedule the interview for … ? — Có thể đổi lịch phỏng vấn sang … được không?",
+   "I apologise for any inconvenience this may cause. — Tôi xin lỗi vì sự bất tiện này."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: sau khi tốt nghiệp",
+  "prompt": "Situation: A friend of yours has just graduated and cannot decide what to do. Which option would you recommend?\n1. Work for a large company\n2. Start his own business\n3. Work freelance",
+  "questions": [
+   "Which option would you recommend and why?",
+   "Why are the other two options less suitable?"
+  ],
+  "ideas": [
+   "I'd suggest working for a large company, at least until…",
+   "This would give him a steady income and…",
+   "Starting a business is exciting, but it means taking…",
+   "Working freelance offers flexibility; however, …",
+   "Once he has gained some experience, he could…"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Opportunities don't happen. You create them.",
+   "vi": "Cơ hội không tự đến. Bạn tạo ra chúng."
+  },
+  "pron": {
+   "title": "Dạng rút gọn had → 'd",
+   "rule": "Trong văn nói, 'had' thường rút gọn thành 'd: I'd been, she'd worked. Phân biệt với 'd = would bằng động từ theo sau (V3 → had; V nguyên mẫu → would).",
+   "examples": [
+    "I'd been working → I had",
+    "She'd finished → she had",
+    "I'd go → I would"
+   ]
+  },
+  "phrases": [
+   [
+    "get one's foot in the door",
+    "có được bước khởi đầu"
+   ],
+   [
+    "think outside the box",
+    "suy nghĩ sáng tạo"
+   ],
+   [
+    "learn from one's mistakes",
+    "học từ sai lầm"
+   ]
+  ],
+  "mistake": "Hay viết 'As soon as I will graduate, I will…'. Mệnh đề thời gian chỉ tương lai dùng HTĐ: As soon as I graduate, I will…",
+  "tip": "Speaking Part 1: khi kể chuyện quá khứ, kết hợp QKĐ + QKTD + QKHT sẽ giúp bạn ghi điểm ngữ pháp.",
+  "diary": "Kể lại 3–5 câu về một lần bạn tìm việc làm thêm hoặc thực tập, dùng was V-ing, had V3 và had been V-ing."
+ }
+}

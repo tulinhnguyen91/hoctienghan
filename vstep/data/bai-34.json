@@ -1,0 +1,506 @@
+{
+ "id": "bai-34",
+ "lesson": "Bài 34",
+ "day": 29,
+ "date": "2026-12-17",
+ "title": "Paraphrase cho Nghe & Đọc",
+ "enTitle": "Paraphrasing for Listening & Reading",
+ "past": false,
+ "words": [
+  [
+   "essential (= vital, crucial)",
+   "/ɪˈsenʃl/ · adj",
+   "thiết yếu",
+   "Water is essential for all living things.",
+   "Nước thiết yếu với mọi sinh vật."
+  ],
+  [
+   "reduce (= cut down on, lower)",
+   "/rɪˈdjuːs/ · v",
+   "giảm",
+   "We need to reduce our energy consumption.",
+   "Chúng ta cần giảm mức tiêu thụ năng lượng."
+  ],
+  [
+   "increase (= rise, grow, go up)",
+   "/ɪnˈkriːs/ · v",
+   "tăng",
+   "The number of tourists has increased sharply.",
+   "Số du khách đã tăng mạnh."
+  ],
+  [
+   "benefit (= advantage, merit)",
+   "/ˈbenɪfɪt/ · n",
+   "lợi ích",
+   "One benefit of cycling is that it keeps you fit.",
+   "Một lợi ích của đi xe đạp là giữ dáng."
+  ],
+  [
+   "drawback (= disadvantage, downside)",
+   "/ˈdrɔːbæk/ · n",
+   "nhược điểm",
+   "The main drawback of the plan is its cost.",
+   "Nhược điểm chính của kế hoạch là chi phí."
+  ],
+  [
+   "approximately (= roughly, about)",
+   "/əˈprɒksɪmətli/ · adv",
+   "xấp xỉ",
+   "Approximately half of the students passed the test.",
+   "Xấp xỉ một nửa số sinh viên đậu."
+  ],
+  [
+   "cause (= lead to, result in, bring about)",
+   "/kɔːz/ · v",
+   "gây ra",
+   "Smoking can cause serious diseases.",
+   "Hút thuốc có thể gây bệnh nghiêm trọng."
+  ],
+  [
+   "improve (= enhance, boost)",
+   "/ɪmˈpruːv/ · v",
+   "cải thiện",
+   "Reading every day can improve your vocabulary.",
+   "Đọc mỗi ngày có thể cải thiện vốn từ."
+  ],
+  [
+   "difficult (= challenging, tough)",
+   "/ˈdɪfɪkəlt/ · adj",
+   "khó",
+   "Learning a new language is challenging but rewarding.",
+   "Học ngôn ngữ mới khó nhưng đáng công."
+  ],
+  [
+   "choose (= select, opt for)",
+   "/tʃuːz/ · v",
+   "chọn",
+   "More students opt for online courses these days.",
+   "Ngày nay nhiều sinh viên chọn khóa học online hơn."
+  ],
+  [
+   "popular (= widespread, common)",
+   "/ˈpɒpjələ/ · adj",
+   "phổ biến",
+   "Cashless payment has become widespread in Vietnam.",
+   "Thanh toán không tiền mặt đã phổ biến rộng rãi ở Việt Nam."
+  ],
+  [
+   "show (= reveal, indicate, demonstrate)",
+   "/ʃəʊ/ · v",
+   "cho thấy",
+   "The survey reveals that most people prefer working from home.",
+   "Khảo sát cho thấy phần lớn mọi người thích làm ở nhà."
+  ],
+  [
+   "enough (= sufficient, adequate)",
+   "/ɪˈnʌf/ · adj",
+   "đủ",
+   "There is not sufficient evidence to support the claim.",
+   "Không có đủ bằng chứng để ủng hộ khẳng định này."
+  ],
+  [
+   "start (= launch, set up, establish)",
+   "/stɑːt/ · v",
+   "bắt đầu, thành lập",
+   "She set up her own company at the age of 25.",
+   "Cô ấy thành lập công ty riêng năm 25 tuổi."
+  ],
+  [
+   "expensive (= costly, pricey)",
+   "/ɪkˈspensɪv/ · adj",
+   "đắt",
+   "Living in the city centre is very costly.",
+   "Sống ở trung tâm thành phố rất tốn kém."
+  ],
+  [
+   "help (= assist, support)",
+   "/help/ · v",
+   "giúp đỡ",
+   "Volunteers assist elderly people with their shopping.",
+   "Tình nguyện viên giúp người già đi chợ."
+  ],
+  [
+   "need (= require, demand)",
+   "/niːd/ · v",
+   "cần",
+   "This job requires good communication skills.",
+   "Công việc này đòi hỏi kỹ năng giao tiếp tốt."
+  ],
+  [
+   "main (= primary, major, principal)",
+   "/meɪn/ · adj",
+   "chính",
+   "The primary aim of the project is to reduce pollution.",
+   "Mục tiêu chính của dự án là giảm ô nhiễm."
+  ],
+  [
+   "famous (= well-known, renowned)",
+   "/ˈfeɪməs/ · adj",
+   "nổi tiếng",
+   "Hue is renowned for its royal cuisine.",
+   "Huế nổi tiếng với ẩm thực cung đình."
+  ],
+  [
+   "nowadays (= these days, at present, currently)",
+   "/ˈnaʊədeɪz/ · adv",
+   "ngày nay",
+   "Nowadays, most young people own a smartphone.",
+   "Ngày nay, hầu hết người trẻ đều có điện thoại thông minh."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Paraphrase bằng từ đồng nghĩa (synonyms)",
+   "meaning": "Đáp án VSTEP Nghe/Đọc gần như luôn được diễn đạt lại. Khi đọc câu hỏi, gạch từ khóa và nghĩ trước 2–3 từ đồng nghĩa. Ví dụ: 'went up' trong bài = 'increased' trong đáp án; 'costly' = 'expensive'.",
+   "examples": [
+    "The number of visitors went up. = The number of visitors increased. — Số khách tăng lên.",
+    "The course is costly. = The course is expensive. — Khóa học đắt.",
+    "Most residents opt for the metro. = Most residents choose the metro. — Phần lớn cư dân chọn tàu điện."
+   ]
+  },
+  {
+   "form": "Họ từ (word families) & đổi loại từ",
+   "meaning": "Paraphrase bằng cách đổi loại từ: N ↔ V ↔ Adj ↔ Adv. succeed (v) – success (n) – successful (adj) – successfully (adv); popular – popularity – popularise; reduce – reduction; benefit – beneficial.",
+   "examples": [
+    "Prices rose dramatically. = There was a dramatic rise in prices. — Giá tăng đột biến.",
+    "The plan was successful. = The plan was a success. = The plan succeeded. — Kế hoạch thành công.",
+    "Exercise benefits your health. = Exercise is beneficial to your health. — Tập thể dục có lợi cho sức khỏe."
+   ]
+  },
+  {
+   "form": "Kết hợp từ cố định (collocations) & câu trái nghĩa",
+   "meaning": "Đề hay paraphrase bằng cách phủ định từ trái nghĩa: 'not cheap' = expensive, 'few people' = not many, 'rarely' = not often. Học từ theo cụm: make progress, pay attention, take part in, heavy traffic, strong coffee.",
+   "examples": [
+    "Not many students attended the class. = Few students attended the class. — Ít sinh viên dự lớp.",
+    "The hotel was far from cheap. = The hotel was expensive. — Khách sạn chẳng rẻ chút nào.",
+    "She rarely takes part in group activities. = She doesn't often join group activities. — Cô ấy hiếm khi tham gia hoạt động nhóm."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn từ đồng nghĩa",
+   "en": "The number of tourists has gone up sharply. 'gone up' =",
+   "options": [
+    "increased",
+    "decreased",
+    "stayed",
+    "doubled"
+   ],
+   "answer": "increased",
+   "explain": "go up = increase."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đồng nghĩa",
+   "en": "Living in the city centre is very costly. 'costly' =",
+   "options": [
+    "cheap",
+    "expensive",
+    "dangerous",
+    "crowded"
+   ],
+   "answer": "expensive",
+   "explain": "costly = expensive."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đồng nghĩa",
+   "en": "This job requires good communication skills. 'requires' =",
+   "options": [
+    "offers",
+    "improves",
+    "needs",
+    "teaches"
+   ],
+   "answer": "needs",
+   "explain": "require = need."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách paraphrase đúng",
+   "en": "Prices rose dramatically. = There was a dramatic ___ in prices.",
+   "options": [
+    "rose",
+    "raise",
+    "rise",
+    "rising"
+   ],
+   "answer": "rise",
+   "explain": "rise (n) in + N."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách paraphrase đúng",
+   "en": "Exercise benefits your health. = Exercise is ___ to your health.",
+   "options": [
+    "benefit",
+    "beneficial",
+    "benefiting",
+    "beneficially"
+   ],
+   "answer": "beneficial",
+   "explain": "benefit (v) → beneficial (adj)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu cùng nghĩa",
+   "en": "Not many students attended the class.",
+   "options": [
+    "Many students attended the class.",
+    "Few students attended the class.",
+    "A few students attended the class happily.",
+    "No students attended the class."
+   ],
+   "answer": "Few students attended the class.",
+   "explain": "not many = few."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu cùng nghĩa",
+   "en": "The hotel was far from cheap.",
+   "options": [
+    "The hotel was very cheap.",
+    "The hotel was far away.",
+    "The hotel was expensive.",
+    "The hotel was quite cheap."
+   ],
+   "answer": "The hotel was expensive.",
+   "explain": "far from cheap = không hề rẻ = đắt."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ đồng nghĩa với 'famous'",
+   "en": "Hue is ___ for its royal cuisine.",
+   "answer": [
+    "renowned",
+    "well-known",
+    "famous",
+    "known"
+   ],
+   "explain": "renowned = famous."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng danh từ của 'succeed'",
+   "en": "The plan was a great ___.",
+   "answer": [
+    "success"
+   ],
+   "explain": "succeed → success."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ đồng nghĩa với 'enough'",
+   "en": "There is not ___ evidence to support the claim.",
+   "answer": [
+    "sufficient",
+    "enough",
+    "adequate"
+   ],
+   "explain": "sufficient = enough."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ đồng nghĩa với 'choose'",
+   "en": "More students opt ___ online courses these days.",
+   "answer": [
+    "for"
+   ],
+   "explain": "opt for = choose."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "survey",
+    "reveals",
+    "that",
+    "most",
+    "people",
+    "prefer",
+    "working",
+    "from",
+    "home."
+   ],
+   "answer": "The survey reveals that most people prefer working from home.",
+   "explain": "reveal = show."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "She",
+    "set",
+    "up",
+    "her",
+    "own",
+    "company",
+    "at",
+    "the",
+    "age",
+    "of",
+    "25."
+   ],
+   "answer": "She set up her own company at the age of 25.",
+   "explain": "set up = start, establish."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Mục tiêu chính của dự án là giảm ô nhiễm.",
+   "answer": [
+    "The main aim of the project is to reduce pollution.",
+    "The primary aim of the project is to reduce pollution.",
+    "The main goal of the project is to reduce pollution.",
+    "The primary goal of the project is to reduce pollution.",
+    "The main purpose of the project is to reduce pollution."
+   ],
+   "explain": "main = primary; aim = goal."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Học một ngôn ngữ mới thì khó nhưng đáng công.",
+   "answer": [
+    "Learning a new language is difficult but rewarding.",
+    "Learning a new language is challenging but rewarding.",
+    "Learning a new language is hard but rewarding.",
+    "Learning a new language is difficult but worthwhile.",
+    "Learning a new language is challenging but worthwhile."
+   ],
+   "explain": "difficult = challenging."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Tourism and online sales have brought about a remarkable change.",
+   "answer": "Du lịch và bán hàng trực tuyến đã mang lại một sự thay đổi đáng kể.",
+   "explain": "bring about = cause, mang lại."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – paraphrase] Theo khảo sát, khoảng bao nhiêu nhân viên muốn làm việc tại nhà?",
+   "en": "A recent survey of 2,000 office workers in Hanoi revealed that approximately sixty percent of them would prefer to work from home at least two days a week. The primary reason given was the time saved on commuting, which can be more than two hours a day during the rush hour. However, not many managers support the idea. They argue that face-to-face meetings are essential for teamwork and that it is challenging to monitor staff who work remotely.",
+   "options": [
+    "Hơn một nửa",
+    "Một phần tư",
+    "Tất cả",
+    "Rất ít"
+   ],
+   "answer": "Hơn một nửa",
+   "explain": "approximately sixty percent ≈ hơn một nửa."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – paraphrase] 'not many managers support the idea' có nghĩa là:",
+   "en": "A recent survey of 2,000 office workers in Hanoi revealed that approximately sixty percent of them would prefer to work from home at least two days a week. The primary reason given was the time saved on commuting, which can be more than two hours a day during the rush hour. However, not many managers support the idea. They argue that face-to-face meetings are essential for teamwork and that it is challenging to monitor staff who work remotely.",
+   "options": [
+    "Ít quản lý ủng hộ ý tưởng này",
+    "Mọi quản lý đều ủng hộ",
+    "Quản lý không biết ý tưởng",
+    "Nhiều quản lý ủng hộ"
+   ],
+   "answer": "Ít quản lý ủng hộ ý tưởng này",
+   "explain": "not many = few."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Điều gì ĐÚNG về làng Bát Tràng hiện nay?",
+   "en": "Bat Trang, a village not far from Hanoi, is renowned for its ceramics, which have been produced there for more than five hundred years. In the past, most products were sold only in local markets. Nowadays, however, the village exports its pottery to Japan, Europe and the United States. Many young people, who once left to look for jobs in the city, have returned to set up their own workshops. Local leaders say tourism and online sales have brought about a remarkable change in the village's economy.",
+   "options": [
+    "Làng xuất khẩu gốm sang nhiều nước",
+    "Làng chỉ bán ở chợ địa phương",
+    "Người trẻ đều đã rời làng",
+    "Làng mới làm gốm được 50 năm"
+   ],
+   "answer": "Làng xuất khẩu gốm sang nhiều nước",
+   "explain": "'Nowadays… exports its pottery to Japan, Europe and the United States'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – từ vựng] 'set up their own workshops' gần nghĩa nhất với:",
+   "en": "Bat Trang, a village not far from Hanoi, is renowned for its ceramics, which have been produced there for more than five hundred years. In the past, most products were sold only in local markets. Nowadays, however, the village exports its pottery to Japan, Europe and the United States. Many young people, who once left to look for jobs in the city, have returned to set up their own workshops. Local leaders say tourism and online sales have brought about a remarkable change in the village's economy.",
+   "options": [
+    "thành lập xưởng riêng",
+    "đóng cửa xưởng",
+    "làm thuê ở xưởng",
+    "mua xưởng cũ"
+   ],
+   "answer": "thành lập xưởng riêng",
+   "explain": "set up = establish, start."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Opinion: Nên làm việc tại nhà?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people believe that employees should be allowed to work from home at least a few days a week.\nTo what extent do you agree or disagree?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: PARAPHRASE đề bằng từ đồng nghĩa (allowed → permitted; work from home → work remotely) + thesis",
+   "Thân 1: lý do 1 (tiết kiệm thời gian đi lại — commuting; dùng số liệu approximately…)",
+   "Thân 2: lý do 2 (năng suất, cân bằng cuộc sống) + nhượng bộ (face-to-face meetings are essential…)",
+   "Cố gắng KHÔNG lặp lại từ: luân phiên benefit/advantage, difficult/challenging, main/primary",
+   "Kết bài: paraphrase lại thesis bằng từ khác"
+  ],
+  "phrases": [
+   "There is a growing debate about whether employees should be permitted to work remotely. — Ngày càng có nhiều tranh luận về việc có nên cho phép nhân viên làm việc từ xa.",
+   "The primary advantage is that … — Lợi thế chính là …",
+   "Approximately half of … — Khoảng một nửa …",
+   "Admittedly, it can be challenging for managers to … — Phải thừa nhận rằng quản lý có thể gặp khó khăn khi …",
+   "All things considered, I firmly believe that … — Xét mọi mặt, tôi tin chắc rằng …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: Working from home",
+  "prompt": "Topic: Working from home is better than working in an office.\nIdeas: • saving time on commuting • flexible schedule • fewer distractions\nFollow-up: What jobs cannot be done from home?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "What jobs cannot be done from home?",
+   "Would you prefer to work from home or in an office? Why?"
+  ],
+  "ideas": [
+   "Nowadays, more and more people opt for…",
+   "The primary benefit is that…",
+   "In addition, a flexible schedule allows…",
+   "Having said that, it can be challenging to…",
+   "To sum up, I'd say…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Don't repeat yourself; rephrase yourself.",
+   "vi": "Đừng lặp lại chính mình; hãy diễn đạt lại."
+  },
+  "pron": {
+   "title": "Nghe số và phần trăm",
+   "rule": "Phân biệt -teen và -ty: thirTEEN (nhấn âm 2) vs THIRty (nhấn âm 1). percent nhấn âm 2: per-CENT.",
+   "examples": [
+    "thirteen /ˌθɜːˈtiːn/ – thirty /ˈθɜːti/",
+    "fifteen /ˌfɪfˈtiːn/ – fifty /ˈfɪfti/",
+    "percent → /pəˈsent/"
+   ]
+  },
+  "phrases": [
+   [
+    "in a nutshell",
+    "nói tóm lại"
+   ],
+   [
+    "to put it another way",
+    "nói cách khác"
+   ],
+   [
+    "by the same token",
+    "tương tự như vậy"
+   ]
+  ],
+  "mistake": "Khi làm Nghe/Đọc, hay chọn đáp án có TỪ GIỐNG HỆT trong bài — đó thường là bẫy. Đáp án đúng thường được paraphrase.",
+  "tip": "Listening VSTEP chỉ nghe một lần. Đọc câu hỏi trước, gạch từ khóa và nghĩ sẵn từ đồng nghĩa để nhận ra đáp án khi nghe.",
+  "diary": "Viết lại 3 câu bất kỳ trong bài hôm nay theo cách khác (đổi từ đồng nghĩa hoặc đổi loại từ), giữ nguyên nghĩa."
+ }
+}
