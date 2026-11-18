@@ -1,0 +1,645 @@
+{
+ "id": "bai-2",
+ "lesson": "Bài 2",
+ "title": "Trường học và đồ vật",
+ "date": "2026-11-16",
+ "words": [
+  [
+   "학교",
+   "Hakgyo",
+   "Trường học",
+   "학교에 갑니다.",
+   "Tôi đi đến trường."
+  ],
+  [
+   "도서관",
+   "Doseogwan",
+   "Thư viện",
+   "도서관에서 책을 읽습니다.",
+   "Tôi đọc sách ở thư viện."
+  ],
+  [
+   "식당",
+   "Sikdang",
+   "Nhà ăn, nhà hàng",
+   "식당은 일 층에 있습니다.",
+   "Nhà ăn ở tầng 1."
+  ],
+  [
+   "호텔",
+   "Hotel",
+   "Khách sạn",
+   "이 호텔은 아주 큽니다.",
+   "Khách sạn này rất lớn."
+  ],
+  [
+   "극장",
+   "Geukjang",
+   "Nhà hát, rạp",
+   "극장에서 영화를 봅니다.",
+   "Tôi xem phim ở rạp."
+  ],
+  [
+   "우체국",
+   "Ucheguk",
+   "Bưu điện",
+   "우체국은 어디에 있습니까?",
+   "Bưu điện ở đâu?"
+  ],
+  [
+   "병원",
+   "Byeongwon",
+   "Bệnh viện",
+   "병원은 학교 옆에 있습니다.",
+   "Bệnh viện ở bên cạnh trường."
+  ],
+  [
+   "백화점",
+   "Baekwajeom",
+   "Cửa hàng bách hóa",
+   "백화점에서 옷을 삽니다.",
+   "Tôi mua quần áo ở bách hóa."
+  ],
+  [
+   "약국",
+   "Yakguk",
+   "Hiệu thuốc",
+   "약국은 저기에 있습니다.",
+   "Hiệu thuốc ở đằng kia."
+  ],
+  [
+   "가게",
+   "Gage",
+   "Cửa tiệm, cửa hàng (nhỏ)",
+   "가게에서 빵을 삽니다.",
+   "Tôi mua bánh mì ở cửa hàng."
+  ],
+  [
+   "사무실",
+   "Samusil",
+   "Văn phòng",
+   "선생님은 사무실에 있습니다.",
+   "Thầy giáo ở trong văn phòng."
+  ],
+  [
+   "강의실",
+   "Ganguisil",
+   "Giảng đường, phòng học (đại học)",
+   "강의실에 학생이 많습니다.",
+   "Trong giảng đường có nhiều sinh viên."
+  ],
+  [
+   "교실",
+   "Gyosil",
+   "Phòng học, lớp học",
+   "교실에 칠판이 있습니다.",
+   "Trong lớp có cái bảng."
+  ],
+  [
+   "화장실",
+   "Hwajangsil",
+   "Nhà vệ sinh",
+   "화장실이 어디에 있습니까?",
+   "Nhà vệ sinh ở đâu?"
+  ],
+  [
+   "휴게실",
+   "Hyugesil",
+   "Phòng nghỉ",
+   "휴게실에서 쉽니다.",
+   "Tôi nghỉ ở phòng nghỉ."
+  ],
+  [
+   "랩실",
+   "Raepsil",
+   "Phòng Lab",
+   "랩실에 컴퓨터가 많습니다.",
+   "Phòng lab có nhiều máy tính."
+  ],
+  [
+   "동아리방",
+   "Dongaribang",
+   "Phòng sinh hoạt club",
+   "동아리방에서 친구를 만납니다.",
+   "Tôi gặp bạn ở phòng câu lạc bộ."
+  ],
+  [
+   "체육관",
+   "Cheyukgwan",
+   "Nhà thi đấu thể thao",
+   "체육관에서 배구를 합니다.",
+   "Tôi chơi bóng chuyền ở nhà thi đấu."
+  ],
+  [
+   "운동장",
+   "Undongjang",
+   "Sân vận động",
+   "운동장에서 축구를 합니다.",
+   "Tôi đá bóng ở sân vận động."
+  ],
+  [
+   "강당",
+   "Gangdang",
+   "Giảng đường lớn, hội trường",
+   "강당은 저기에 있습니다.",
+   "Hội trường ở đằng kia."
+  ],
+  [
+   "학생식당",
+   "Haksaengsikdang",
+   "Nhà ăn học sinh",
+   "학생식당에서 점심을 먹습니다.",
+   "Tôi ăn trưa ở nhà ăn sinh viên."
+  ],
+  [
+   "세미나실",
+   "Seminasil",
+   "Phòng hội thảo",
+   "세미나실은 삼 층에 있습니다.",
+   "Phòng hội thảo ở tầng 3."
+  ],
+  [
+   "서점",
+   "Seojeom",
+   "Hiệu sách",
+   "서점에서 사전을 삽니다.",
+   "Tôi mua từ điển ở hiệu sách."
+  ],
+  [
+   "책상",
+   "Chaeksang",
+   "Bàn",
+   "책상 위에 책이 있습니다.",
+   "Trên bàn có sách."
+  ],
+  [
+   "칠판",
+   "Chilpan",
+   "Bảng",
+   "칠판이 아주 큽니다.",
+   "Cái bảng rất to."
+  ],
+  [
+   "문",
+   "Mun",
+   "Cửa",
+   "문은 저기에 있습니다.",
+   "Cửa ở đằng kia."
+  ],
+  [
+   "창문",
+   "Changmun",
+   "Cửa sổ",
+   "교실에 창문이 많습니다.",
+   "Lớp học có nhiều cửa sổ."
+  ],
+  [
+   "가방",
+   "Gabang",
+   "Cặp sách",
+   "가방에 책이 있습니다.",
+   "Trong cặp có sách."
+  ],
+  [
+   "컴퓨터",
+   "Keompyuteo",
+   "Máy vi tính",
+   "이것은 제 컴퓨터입니다.",
+   "Đây là máy tính của tôi."
+  ],
+  [
+   "책",
+   "Chaek",
+   "Sách",
+   "이것은 한국어 책입니다.",
+   "Đây là sách tiếng Hàn."
+  ],
+  [
+   "공책",
+   "Gongchaek",
+   "Vở",
+   "공책이 없습니다.",
+   "Tôi không có vở."
+  ],
+  [
+   "사전",
+   "Sajeon",
+   "Từ điển",
+   "사전이 어디에 있습니까?",
+   "Từ điển ở đâu?"
+  ],
+  [
+   "지우개",
+   "Jiugae",
+   "Cục tẩy",
+   "지우개가 필통에 있습니다.",
+   "Cục tẩy ở trong hộp bút."
+  ],
+  [
+   "지도",
+   "Jido",
+   "Bản đồ",
+   "저것은 한국 지도입니다.",
+   "Cái kia là bản đồ Hàn Quốc."
+  ],
+  [
+   "펜",
+   "Pen",
+   "Bút bi",
+   "펜이 책상 위에 있습니다.",
+   "Bút ở trên bàn."
+  ],
+  [
+   "필통",
+   "Piltong",
+   "Hộp bút",
+   "필통에 펜이 있습니다.",
+   "Trong hộp bút có bút."
+  ],
+  [
+   "거기",
+   "Geogi",
+   "Ở đó, chỗ đó",
+   "거기는 화장실입니다.",
+   "Chỗ đó là nhà vệ sinh."
+  ],
+  [
+   "어디",
+   "Eodi",
+   "Ở đâu",
+   "여기는 어디입니까?",
+   "Đây là đâu?"
+  ],
+  [
+   "저기",
+   "Jeogi",
+   "Ở kia",
+   "저기는 도서관입니다.",
+   "Kia là thư viện."
+  ],
+  [
+   "그것",
+   "Geugeot",
+   "Cái đó",
+   "그것은 무엇입니까?",
+   "Cái đó là cái gì?"
+  ],
+  [
+   "없다",
+   "Eopda",
+   "Không có",
+   "교실에 텔레비전이 없습니다.",
+   "Trong lớp không có TV."
+  ],
+  [
+   "텔레비전",
+   "Tellebijeon",
+   "TV",
+   "방에 텔레비전이 있습니다.",
+   "Trong phòng có TV."
+  ],
+  [
+   "라디오",
+   "Radio",
+   "Radio",
+   "라디오를 듣습니다.",
+   "Tôi nghe radio."
+  ],
+  [
+   "여기",
+   "Yeogi",
+   "Ở đây, chỗ này",
+   "여기는 우체국입니다.",
+   "Đây là bưu điện."
+  ],
+  [
+   "많이",
+   "Mani",
+   "Nhiều (phó từ)",
+   "사람이 많이 있습니다.",
+   "Có nhiều người."
+  ],
+  [
+   "이것",
+   "Igeot",
+   "Cái này",
+   "이것은 지우개입니다.",
+   "Cái này là cục tẩy."
+  ],
+  [
+   "휴대전화",
+   "Hyudaejeonhwa",
+   "Điện thoại di động",
+   "휴대전화가 가방에 있습니다.",
+   "Điện thoại ở trong cặp."
+  ],
+  [
+   "명동",
+   "Myeongdong",
+   "Khu Myeong-dong",
+   "명동에 백화점이 있습니다.",
+   "Ở Myeongdong có cửa hàng bách hóa."
+  ],
+  [
+   "있다",
+   "Itda",
+   "Có",
+   "집에 컴퓨터가 있습니다.",
+   "Ở nhà có máy tính."
+  ],
+  [
+   "무엇",
+   "Mueot",
+   "Cái gì",
+   "이것은 무엇입니까?",
+   "Cái này là cái gì?"
+  ],
+  [
+   "저것",
+   "Jeogeot",
+   "Cái kia",
+   "저것은 시계입니다.",
+   "Cái kia là đồng hồ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "여기, 거기, 저기",
+   "meaning": "Đây (gần người nói), đó (gần người nghe), kia (xa cả hai). Hỏi nơi chốn dùng 어디 (ở đâu).",
+   "examples": [
+    "여기는 도서관입니다. — Đây là thư viện.",
+    "거기는 어디입니까? — Chỗ đó là đâu?",
+    "저기는 병원입니다. — Kia là bệnh viện."
+   ]
+  },
+  {
+   "form": "이것, 그것, 저것",
+   "meaning": "Cái này, cái đó, cái kia. Hỏi đồ vật dùng 무엇 (cái gì).",
+   "examples": [
+    "이것은 책입니다. — Cái này là sách.",
+    "그것은 무엇입니까? — Cái đó là cái gì?",
+    "저것은 지도입니다. — Cái kia là bản đồ."
+   ]
+  },
+  {
+   "form": "N + 이/가",
+   "meaning": "Tiểu từ chủ ngữ. Danh từ có patchim + 이, không có patchim + 가.",
+   "examples": [
+    "가방이 있습니다. — Có cặp sách.",
+    "지우개가 없습니다. — Không có cục tẩy."
+   ]
+  },
+  {
+   "form": "N + 에 있습니다 / 없습니다",
+   "meaning": "Có ở / không có ở (nơi chốn). 에 gắn sau danh từ chỉ nơi chốn.",
+   "examples": [
+    "교실에 컴퓨터가 있습니다. — Trong lớp có máy tính.",
+    "화장실은 어디에 있습니까? — Nhà vệ sinh ở đâu?",
+    "서점은 백화점에 있습니다. — Hiệu sách ở trong bách hóa."
+   ]
+  },
+  {
+   "form": "N + 이/가 아닙니다",
+   "meaning": "Không phải (là) ... — phủ định của 입니다. Có patchim + 이 아닙니다, không có patchim + 가 아닙니다.",
+   "examples": [
+    "이것은 공책이 아닙니다. — Cái này không phải là vở.",
+    "그것은 지도가 아닙니다. — Cái đó không phải là bản đồ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Cái này là cái gì?",
+   "kr": "이것___ 무엇입니까?",
+   "options": [
+    "은",
+    "는"
+   ],
+   "answer": "은",
+   "explain": "이것 có patchim ㅅ → 은."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Có cặp sách.",
+   "kr": "가방___ 있습니다.",
+   "options": [
+    "이",
+    "가"
+   ],
+   "answer": "이",
+   "explain": "가방 có patchim ㅇ → 이."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Không có cục tẩy.",
+   "kr": "지우개___ 없습니다.",
+   "options": [
+    "이",
+    "가"
+   ],
+   "answer": "가",
+   "explain": "지우개 không có patchim → 가."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Trong lớp có bảng.",
+   "kr": "교실에 칠판___ 있습니다.",
+   "answer": [
+    "이"
+   ],
+   "explain": "칠판 có patchim ㄴ → 이."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Nhà vệ sinh ở đâu?",
+   "kr": "화장실은 어디___ 있습니까?",
+   "answer": [
+    "에"
+   ],
+   "explain": "Có ở đâu: 어디 + 에 있습니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Trong văn phòng có máy tính.",
+   "kr": "사무실___ 컴퓨터가 있습니다.",
+   "answer": [
+    "에"
+   ],
+   "explain": "Nơi chốn + 에 있습니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Cái này không phải là vở.",
+   "kr": "이것은 공책___ 아닙니다.",
+   "options": [
+    "이",
+    "가"
+   ],
+   "answer": "이",
+   "explain": "공책 có patchim ㄱ → 이 아닙니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Cái đó không phải là bản đồ.",
+   "kr": "그것은 지도___ 아닙니다.",
+   "options": [
+    "이",
+    "가"
+   ],
+   "answer": "가",
+   "explain": "지도 không có patchim → 가 아닙니다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cái kia không phải là từ điển.",
+   "kr": "저것은 사전이 ___.",
+   "answer": [
+    "아닙니다"
+   ],
+   "explain": "Phủ định của 입니다: 이/가 아닙니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Cái kia (ở xa cả hai người) là cái gì?",
+   "kr": "___은 무엇입니까?",
+   "options": [
+    "이것",
+    "그것",
+    "저것"
+   ],
+   "answer": "저것",
+   "explain": "Xa cả người nói và người nghe → 저것."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Chỗ đó (gần người nghe) là nhà vệ sinh.",
+   "kr": "___는 화장실입니다.",
+   "options": [
+    "여기",
+    "거기",
+    "저기"
+   ],
+   "answer": "거기",
+   "explain": "Gần người nghe → 거기."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Đây là thư viện.",
+   "kr": "___는 도서관입니다.",
+   "options": [
+    "여기",
+    "거기",
+    "저기"
+   ],
+   "answer": "여기",
+   "explain": "Gần người nói → 여기."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu hỏi đúng cho câu trả lời: \"이것은 휴대전화입니다.\"",
+   "kr": "",
+   "options": [
+    "이것은 무엇입니까?",
+    "여기는 어디입니까?",
+    "이것은 어디에 있습니까?"
+   ],
+   "answer": "이것은 무엇입니까?",
+   "explain": "Trả lời \"cái này là điện thoại\" → câu hỏi \"cái này là cái gì\" (무엇)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thư viện ở đằng kia.",
+   "tokens": [
+    "도서관은",
+    "저기에",
+    "있습니다"
+   ],
+   "answer": "도서관은 저기에 있습니다",
+   "explain": "Chủ đề → nơi chốn + 에 → 있습니다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cái này không phải là điện thoại di động.",
+   "tokens": [
+    "이것은",
+    "휴대전화가",
+    "아닙니다"
+   ],
+   "answer": "이것은 휴대전화가 아닙니다",
+   "explain": "휴대전화 không có patchim → 가 아닙니다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Trong phòng học có nhiều sách.",
+   "tokens": [
+    "교실에",
+    "책이",
+    "많이",
+    "있습니다"
+   ],
+   "answer": "교실에 책이 많이 있습니다",
+   "explain": "많이 (nhiều) đứng ngay trước 있습니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đây là thư viện.",
+   "answer": [
+    "여기는 도서관입니다",
+    "여기가 도서관입니다"
+   ],
+   "explain": "여기 + 는 + 도서관 + 입니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cái này là từ điển.",
+   "answer": [
+    "이것은 사전입니다",
+    "이것이 사전입니다"
+   ],
+   "explain": "이것 + 은 + 사전 + 입니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bưu điện ở đâu?",
+   "answer": [
+    "우체국은 어디에 있습니까",
+    "우체국이 어디에 있습니까",
+    "우체국은 어디입니까"
+   ],
+   "explain": "우체국 + 은 + 어디 + 에 있습니까."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cái đó không phải là cục tẩy.",
+   "answer": [
+    "그것은 지우개가 아닙니다"
+   ],
+   "explain": "지우개 không có patchim → 가 아닙니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Trong phòng học có máy tính.",
+   "answer": [
+    "교실에 컴퓨터가 있습니다",
+    "강의실에 컴퓨터가 있습니다"
+   ],
+   "explain": "Nơi chốn + 에 + đồ vật + 이/가 있습니다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저기는 병원이 아닙니다. 약국입니다.",
+   "answer": "Kia không phải là bệnh viện. (Đó) là hiệu thuốc.",
+   "explain": "병원 = bệnh viện; 약국 = hiệu thuốc."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "서점은 백화점에 있습니다.",
+   "answer": "Hiệu sách ở trong cửa hàng bách hóa.",
+   "explain": "서점 = hiệu sách; 백화점 = bách hóa; 에 있습니다 = ở."
+  }
+ ],
+ "krTitle": "학교와 물건"
+}

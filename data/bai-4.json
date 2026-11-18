@@ -1,0 +1,547 @@
+{
+ "id": "bai-4",
+ "lesson": "Bài 4",
+ "title": "Ngày và thứ",
+ "date": "2026-11-18",
+ "words": [
+  [
+   "날짜와 요일",
+   "Naljjawa yoil",
+   "Ngày và thứ",
+   "날짜와 요일을 공부합니다.",
+   "Tôi học về ngày và thứ."
+  ],
+  [
+   "요일",
+   "Yoil",
+   "Thứ",
+   "오늘은 무슨 요일입니까?",
+   "Hôm nay là thứ mấy?"
+  ],
+  [
+   "월요일",
+   "Woryoil",
+   "Thứ 2",
+   "월요일에 학교에 갑니다.",
+   "Thứ Hai tôi đi học."
+  ],
+  [
+   "화요일",
+   "Hwayoil",
+   "Thứ 3",
+   "오늘은 화요일입니다.",
+   "Hôm nay là thứ Ba."
+  ],
+  [
+   "수요일",
+   "Suyoil",
+   "Thứ 4",
+   "수요일에 한국어를 공부합니다.",
+   "Thứ Tư tôi học tiếng Hàn."
+  ],
+  [
+   "목요일",
+   "Mogyoil",
+   "Thứ 5",
+   "목요일에 친구를 만납니다.",
+   "Thứ Năm tôi gặp bạn."
+  ],
+  [
+   "금요일",
+   "Geumyoil",
+   "Thứ 6",
+   "금요일에 영화를 봅니다.",
+   "Thứ Sáu tôi xem phim."
+  ],
+  [
+   "토요일",
+   "Toyoil",
+   "Thứ 7",
+   "토요일에 쇼핑합니다.",
+   "Thứ Bảy tôi đi mua sắm."
+  ],
+  [
+   "일요일",
+   "Iryoil",
+   "Chủ nhật",
+   "일요일에 집에서 쉽니다.",
+   "Chủ nhật tôi nghỉ ở nhà."
+  ],
+  [
+   "년",
+   "Nyeon",
+   "Năm",
+   "올해는 이천이십육 년입니다.",
+   "Năm nay là năm 2026."
+  ],
+  [
+   "월",
+   "Wol",
+   "Tháng",
+   "몇 월입니까?",
+   "Tháng mấy?"
+  ],
+  [
+   "일",
+   "Il",
+   "Ngày",
+   "오늘은 십팔 일입니다.",
+   "Hôm nay là ngày 18."
+  ],
+  [
+   "시",
+   "Si",
+   "Giờ",
+   "지금 몇 시입니까?",
+   "Bây giờ là mấy giờ?"
+  ],
+  [
+   "일월",
+   "Irwol",
+   "Tháng 1",
+   "일월은 춥습니다.",
+   "Tháng 1 trời lạnh."
+  ],
+  [
+   "이월",
+   "Iwol",
+   "Tháng 2",
+   "이월에 설날이 있습니다.",
+   "Tháng 2 có Tết."
+  ],
+  [
+   "삼월",
+   "Samwol",
+   "Tháng 3",
+   "삼월에 한국에 갑니다.",
+   "Tháng 3 tôi đi Hàn Quốc."
+  ],
+  [
+   "사월",
+   "Sawol",
+   "Tháng 4",
+   "사월에 꽃이 많습니다.",
+   "Tháng 4 có nhiều hoa."
+  ],
+  [
+   "오월",
+   "Owol",
+   "Tháng 5",
+   "오월에 여행합니다.",
+   "Tháng 5 tôi đi du lịch."
+  ],
+  [
+   "유월 (육월)",
+   "Yuwol (yugwol)",
+   "Tháng 6",
+   "유월은 덥습니다.",
+   "Tháng 6 trời nóng."
+  ],
+  [
+   "칠월",
+   "Chirwol",
+   "Tháng 7",
+   "칠월에 바다에 갑니다.",
+   "Tháng 7 tôi đi biển."
+  ],
+  [
+   "팔월",
+   "Parwol",
+   "Tháng 8",
+   "팔월에 친구를 만납니다.",
+   "Tháng 8 tôi gặp bạn."
+  ],
+  [
+   "구월",
+   "Guwol",
+   "Tháng 9",
+   "구월에 학교에 갑니다.",
+   "Tháng 9 tôi đi học."
+  ],
+  [
+   "시월 (십월)",
+   "Siwol (sibwol)",
+   "Tháng 10",
+   "시월에 날씨가 좋습니다.",
+   "Tháng 10 thời tiết đẹp."
+  ],
+  [
+   "십일월",
+   "Sibirwol",
+   "Tháng 11",
+   "오늘은 십일월 십팔 일입니다.",
+   "Hôm nay là ngày 18 tháng 11."
+  ],
+  [
+   "십이월",
+   "Sibiwol",
+   "Tháng 12",
+   "십이월에 여행합니다.",
+   "Tháng 12 tôi đi du lịch."
+  ],
+  [
+   "그저께",
+   "Geujeokke",
+   "Hôm kia",
+   "그저께는 일요일이었습니다.",
+   "Hôm kia là Chủ nhật."
+  ],
+  [
+   "어제",
+   "Eoje",
+   "Hôm qua",
+   "어제는 월요일이었습니다.",
+   "Hôm qua là thứ Hai."
+  ],
+  [
+   "오늘",
+   "Oneul",
+   "Hôm nay",
+   "오늘 도서관에서 공부합니다.",
+   "Hôm nay tôi học ở thư viện."
+  ],
+  [
+   "내일",
+   "Naeil",
+   "Ngày mai",
+   "내일 친구를 만납니다.",
+   "Ngày mai tôi gặp bạn."
+  ],
+  [
+   "모레",
+   "More",
+   "Ngày kia",
+   "모레 시장에 갑니다.",
+   "Ngày kia tôi đi chợ."
+  ],
+  [
+   "지난해 (작년)",
+   "Jinanhae (jangnyeon)",
+   "Năm ngoái",
+   "작년에 한국에 갔습니다.",
+   "Năm ngoái tôi đã đi Hàn Quốc."
+  ],
+  [
+   "올해 (금년)",
+   "Olhae (geumnyeon)",
+   "Năm nay",
+   "올해 한국어를 배웁니다.",
+   "Năm nay tôi học tiếng Hàn."
+  ],
+  [
+   "다음 해 (내년)",
+   "Daeum hae (naenyeon)",
+   "Sang năm",
+   "내년에 한국에 갑니다.",
+   "Sang năm tôi đi Hàn Quốc."
+  ],
+  [
+   "지난달",
+   "Jinandal",
+   "Tháng trước",
+   "지난달에 여행했습니다.",
+   "Tháng trước tôi đã đi du lịch."
+  ],
+  [
+   "이번 달",
+   "Ibeon dal",
+   "Tháng này",
+   "이번 달은 십일월입니다.",
+   "Tháng này là tháng 11."
+  ],
+  [
+   "다음 달",
+   "Daeum dal",
+   "Tháng sau",
+   "다음 달에 시험이 있습니다.",
+   "Tháng sau có bài thi."
+  ]
+ ],
+ "patterns": [
+  {
+   "examples": [
+    "이천이십육 년 — năm 2026",
+    "십일월 십칠일 — ngày 17 tháng 11",
+    "오늘은 몇 월 며칠입니까? — Hôm nay là ngày mấy tháng mấy?"
+   ],
+   "form": "한자어 수사 — Số Hán Hàn",
+   "meaning": "일 1, 이 2, 삼 3, 사 4, 오 5, 육 6, 칠 7, 팔 8, 구 9, 십 10, 백 100, 천 1.000, 만 10.000. Dùng cho năm, tháng, ngày, số điện thoại, tiền, phút. Lưu ý: tháng 6 là 유월, tháng 10 là 시월 (bỏ patchim)."
+  },
+  {
+   "examples": [
+    "커피와 차 — cà phê và trà",
+    "책과 공책 — sách và vở",
+    "월요일과 수요일 — thứ Hai và thứ Tư"
+   ],
+   "form": "Danh từ + 와/과",
+   "meaning": "Nối hai danh từ, nghĩa là \"và\". Danh từ kết thúc bằng nguyên âm + 와, có patchim + 과."
+  },
+  {
+   "examples": [
+    "토요일에 친구를 만납니다. — Thứ Bảy tôi gặp bạn.",
+    "십이월에 여행합니다. — Tháng 12 tôi đi du lịch."
+   ],
+   "form": "Danh từ (thời gian) + 에",
+   "meaning": "Vào lúc, vào ngày, vào tháng... Gắn sau danh từ chỉ thời gian. Không dùng 에 với 오늘, 어제, 내일, 지금."
+  }
+ ],
+ "exercises": [
+  {
+   "answer": "와",
+   "explain": "지우개 kết thúc bằng nguyên âm (개) nên dùng 와.",
+   "kr": "책상 위에 지우개___ 펜이 있습니다.",
+   "options": [
+    "와",
+    "과"
+   ],
+   "q": "Chọn tiểu từ đúng: Trên bàn có cục tẩy và bút bi.",
+   "type": "choice"
+  },
+  {
+   "answer": "과",
+   "explain": "사전 có patchim ㄴ nên dùng 과.",
+   "kr": "가방에 사전___ 공책이 있습니다.",
+   "options": [
+    "와",
+    "과"
+   ],
+   "q": "Chọn tiểu từ đúng: Trong cặp có từ điển và vở.",
+   "type": "choice"
+  },
+  {
+   "answer": "에",
+   "explain": "토요일 là danh từ chỉ thời gian → dùng 에 (vào thứ Bảy). 에서 dùng cho nơi diễn ra hành động.",
+   "kr": "토요일___ 공원에서 산책합니다.",
+   "options": [
+    "에",
+    "에서",
+    "을"
+   ],
+   "q": "Chọn tiểu từ đúng: Thứ Bảy tôi đi dạo ở công viên.",
+   "type": "choice"
+  },
+  {
+   "answer": [
+    "은"
+   ],
+   "explain": "오늘 có patchim ㄹ nên dùng 은 (tiểu từ chủ đề). Không dùng 에 sau 오늘.",
+   "kr": "오늘___ 십일월 십칠일입니다.",
+   "q": "Điền tiểu từ: Hôm nay là ngày 17 tháng 11.",
+   "type": "fill"
+  },
+  {
+   "answer": [
+    "에서"
+   ],
+   "explain": "식당 là nơi diễn ra hành động ăn → dùng 에서.",
+   "kr": "식당___ 빵을 먹습니다.",
+   "q": "Điền tiểu từ: Tôi ăn bánh mì ở nhà hàng.",
+   "type": "fill"
+  },
+  {
+   "answer": "유월",
+   "explain": "Tháng 6 đọc là 유월 (bỏ patchim ㄱ của 육). 육일 là ngày 6, 오월 là tháng 5.",
+   "kr": "___",
+   "options": [
+    "유월",
+    "육일",
+    "오월"
+   ],
+   "q": "Chọn cách nói đúng của \"tháng 6\".",
+   "type": "choice"
+  },
+  {
+   "answer": [
+    "시월"
+   ],
+   "explain": "Tháng 10 là 시월 (bỏ patchim ㅂ của 십), không nói 십월.",
+   "kr": "___ 십일",
+   "q": "Điền tháng: Ngày 10 tháng 10.",
+   "type": "fill"
+  },
+  {
+   "answer": [
+    "십일월"
+   ],
+   "explain": "Tháng 11 = 십일 (11) + 월 → 십일월.",
+   "kr": "이번 달은 ___입니다.",
+   "q": "Điền tháng: Tháng này là tháng 11.",
+   "type": "fill"
+  },
+  {
+   "answer": "이천이십육",
+   "explain": "2026 = 이천 (2000) + 이십 (20) + 육 (6).",
+   "kr": "올해는 ___ 년입니다.",
+   "options": [
+    "이천이십육",
+    "이천육십이",
+    "이백이십육"
+   ],
+   "q": "Năm nay là năm 2026.",
+   "type": "choice"
+  },
+  {
+   "answer": "저는 토요일에 친구와 공원에서 산책합니다",
+   "explain": "Trật tự thường gặp: chủ ngữ → thời gian (에) → người cùng (와/과) → nơi chốn (에서) → động từ.",
+   "q": "Sắp xếp thành câu: Thứ Bảy tôi đi dạo ở công viên với bạn.",
+   "tokens": [
+    "저는",
+    "토요일에",
+    "친구와",
+    "공원에서",
+    "산책합니다"
+   ],
+   "type": "order"
+  },
+  {
+   "answer": "오늘은 몇 월 며칠입니까",
+   "explain": "몇 월 = tháng mấy, 며칠 = ngày mấy (viết 며칠, không viết 몇 일).",
+   "q": "Sắp xếp thành câu: Hôm nay là ngày mấy tháng mấy?",
+   "tokens": [
+    "오늘은",
+    "몇",
+    "월",
+    "며칠입니까"
+   ],
+   "type": "order"
+  },
+  {
+   "answer": [
+    "오늘은 화요일입니다",
+    "오늘은 화요일이에요",
+    "오늘 화요일입니다"
+   ],
+   "explain": "오늘 + 은 (chủ đề) + 화요일 + 입니다.",
+   "q": "Dịch sang tiếng Hàn: Hôm nay là thứ Ba.",
+   "type": "translate"
+  },
+  {
+   "answer": [
+    "저는 월요일과 수요일에 한국어를 공부합니다",
+    "월요일과 수요일에 한국어를 공부합니다",
+    "저는 월요일하고 수요일에 한국어를 공부합니다",
+    "저는 월요일과 수요일에 한국어를 공부해요"
+   ],
+   "explain": "월요일 có patchim → 과; 에 đặt sau cả cụm thời gian; 한국어 + 를 (tân ngữ); 공부하다 → 공부합니다.",
+   "q": "Dịch sang tiếng Hàn: Tôi học tiếng Hàn vào thứ Hai và thứ Tư.",
+   "type": "translate"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng của \"ngày 4\".",
+   "kr": "___",
+   "options": [
+    "사일",
+    "사월",
+    "넷일"
+   ],
+   "answer": "사일",
+   "explain": "Ngày dùng số Hán Hàn + 일: 사일. 사월 là tháng 4."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: thứ Sáu và thứ Bảy.",
+   "kr": "금요일___ 토요일",
+   "options": [
+    "와",
+    "과"
+   ],
+   "answer": "과",
+   "explain": "금요일 có patchim ㄹ → 과."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: cà phê và bánh mì.",
+   "kr": "커피___ 빵",
+   "options": [
+    "와",
+    "과"
+   ],
+   "answer": "와",
+   "explain": "커피 không có patchim → 와."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Ngày mai tôi gặp bạn.",
+   "kr": "",
+   "options": [
+    "내일 친구를 만납니다.",
+    "내일에 친구를 만납니다.",
+    "내일에서 친구를 만납니다."
+   ],
+   "answer": "내일 친구를 만납니다.",
+   "explain": "Không dùng 에 sau 오늘, 어제, 내일, 지금."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tháng: Hôm nay là ngày 18 tháng 11.",
+   "kr": "오늘은 ___ 십팔일입니다.",
+   "answer": [
+    "십일월"
+   ],
+   "explain": "Tháng 11 = 십일월; ngày 18 = 십팔일."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Tháng sau tôi đi du lịch.",
+   "kr": "다음 달___ 여행합니다.",
+   "answer": [
+    "에"
+   ],
+   "explain": "다음 달 là danh từ thời gian → + 에."
+  },
+  {
+   "type": "fill",
+   "q": "Viết số Hán Hàn: 15 (ngày 15)",
+   "kr": "___일",
+   "answer": [
+    "십오"
+   ],
+   "explain": "15 = 십 (10) + 오 (5)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Năm nay là năm 2026.",
+   "tokens": [
+    "올해는",
+    "이천이십육",
+    "년입니다"
+   ],
+   "answer": "올해는 이천이십육 년입니다",
+   "explain": "올해 + 는; 2026 = 이천이십육."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi gặp bạn vào Chủ nhật.",
+   "answer": [
+    "저는 일요일에 친구를 만납니다",
+    "일요일에 친구를 만납니다"
+   ],
+   "explain": "일요일 + 에 (vào); 친구 + 를; 만납니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thứ Tư tôi học ở thư viện.",
+   "answer": [
+    "저는 수요일에 도서관에서 공부합니다",
+    "수요일에 도서관에서 공부합니다"
+   ],
+   "explain": "수요일 + 에 (thời gian); 도서관 + 에서 (nơi hành động); 공부합니다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저는 화요일과 목요일에 운동합니다.",
+   "answer": "Tôi tập thể thao vào thứ Ba và thứ Năm.",
+   "explain": "화요일과 목요일에 = vào thứ Ba và thứ Năm."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "다음 달에 친구와 여행합니다.",
+   "answer": "Tháng sau tôi đi du lịch với bạn.",
+   "explain": "다음 달 = tháng sau; 친구와 = với bạn."
+  }
+ ],
+ "krTitle": "날짜와 요일"
+}

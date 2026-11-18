@@ -1,0 +1,41 @@
+{
+ "updated": "2026-11-18",
+ "lessons": [
+  {
+   "id": "bai-1",
+   "lesson": "Bài 1",
+   "title": "Giới thiệu bản thân",
+   "date": "",
+   "words": 36,
+   "exercises": 22,
+   "krTitle": "자기소개"
+  },
+  {
+   "id": "bai-2",
+   "lesson": "Bài 2",
+   "title": "Trường học và đồ vật",
+   "date": "2026-11-16",
+   "words": 51,
+   "exercises": 23,
+   "krTitle": "학교와 물건"
+  },
+  {
+   "id": "bai-3",
+   "lesson": "Bài 3",
+   "title": "Sinh hoạt hằng ngày",
+   "date": "2026-11-17",
+   "words": 53,
+   "exercises": 24,
+   "krTitle": "일상생활"
+  },
+  {
+   "id": "bai-4",
+   "lesson": "Bài 4",
+   "title": "Ngày và thứ",
+   "date": "2026-11-18",
+   "words": 36,
+   "exercises": 25,
+   "krTitle": "날짜와 요일"
+  }
+ ]
+}

@@ -1,0 +1,667 @@
+{
+ "id": "bai-3",
+ "lesson": "Bài 3",
+ "title": "Sinh hoạt hằng ngày",
+ "date": "2026-11-17",
+ "words": [
+  [
+   "일상생활",
+   "Ilsangsaenghwal",
+   "Sinh hoạt hàng ngày",
+   "일상생활 단어를 공부합니다.",
+   "Tôi học từ vựng về sinh hoạt hằng ngày."
+  ],
+  [
+   "가다",
+   "Gada",
+   "Đi",
+   "시장에 갑니다.",
+   "Tôi đi chợ."
+  ],
+  [
+   "오다",
+   "Oda",
+   "Đến",
+   "친구가 집에 옵니다.",
+   "Bạn đến nhà tôi."
+  ],
+  [
+   "자다",
+   "Jada",
+   "Ngủ",
+   "저는 열한 시에 잡니다.",
+   "Tôi ngủ lúc 11 giờ."
+  ],
+  [
+   "먹다",
+   "Meokda",
+   "Ăn",
+   "아침에 빵을 먹습니다.",
+   "Buổi sáng tôi ăn bánh mì."
+  ],
+  [
+   "마시다",
+   "Masida",
+   "Uống",
+   "차를 마십니다.",
+   "Tôi uống trà."
+  ],
+  [
+   "이야기하다",
+   "Iyagihada",
+   "Nói chuyện",
+   "친구와 이야기합니다.",
+   "Tôi nói chuyện với bạn."
+  ],
+  [
+   "읽다",
+   "Ikda",
+   "Đọc",
+   "신문을 읽습니다.",
+   "Tôi đọc báo."
+  ],
+  [
+   "듣다",
+   "Deutda",
+   "Nghe",
+   "음악을 듣습니다.",
+   "Tôi nghe nhạc."
+  ],
+  [
+   "보다",
+   "Boda",
+   "Xem, nhìn",
+   "텔레비전을 봅니다.",
+   "Tôi xem TV."
+  ],
+  [
+   "일하다",
+   "Ilhada",
+   "Làm việc",
+   "아버지는 회사에서 일합니다.",
+   "Bố tôi làm việc ở công ty."
+  ],
+  [
+   "공부하다",
+   "Gongbuhada",
+   "Học",
+   "도서관에서 공부합니다.",
+   "Tôi học ở thư viện."
+  ],
+  [
+   "운동하다",
+   "Undonghada",
+   "Luyện tập thể thao",
+   "공원에서 운동합니다.",
+   "Tôi tập thể dục ở công viên."
+  ],
+  [
+   "쉬다",
+   "Swida",
+   "Nghỉ ngơi",
+   "집에서 쉽니다.",
+   "Tôi nghỉ ngơi ở nhà."
+  ],
+  [
+   "만나다",
+   "Mannada",
+   "Gặp gỡ",
+   "카페에서 친구를 만납니다.",
+   "Tôi gặp bạn ở quán cà phê."
+  ],
+  [
+   "사다",
+   "Sada",
+   "Mua",
+   "시장에서 과일을 삽니다.",
+   "Tôi mua hoa quả ở chợ."
+  ],
+  [
+   "좋아하다",
+   "Joahada",
+   "Thích",
+   "저는 커피를 좋아합니다.",
+   "Tôi thích cà phê."
+  ],
+  [
+   "크다",
+   "Keuda",
+   "To",
+   "이 가방은 큽니다.",
+   "Cái cặp này to."
+  ],
+  [
+   "작다",
+   "Jakda",
+   "Nhỏ",
+   "방이 작습니다.",
+   "Căn phòng nhỏ."
+  ],
+  [
+   "많다",
+   "Manta",
+   "Nhiều",
+   "시장에 사람이 많습니다.",
+   "Ở chợ có nhiều người."
+  ],
+  [
+   "적다",
+   "Jeokda",
+   "Ít",
+   "도서관에 사람이 적습니다.",
+   "Thư viện ít người."
+  ],
+  [
+   "좋다",
+   "Jota",
+   "Tốt",
+   "날씨가 좋습니다.",
+   "Thời tiết đẹp."
+  ],
+  [
+   "나쁘다",
+   "Nappeuda",
+   "Xấu, tồi",
+   "날씨가 나쁩니다.",
+   "Thời tiết xấu."
+  ],
+  [
+   "재미없다",
+   "Jaemieopda",
+   "Không hay",
+   "이 책은 재미없습니다.",
+   "Cuốn sách này không hay."
+  ],
+  [
+   "차",
+   "Cha",
+   "Trà",
+   "저는 차를 좋아합니다.",
+   "Tôi thích trà."
+  ],
+  [
+   "커피",
+   "Keopi",
+   "Cà phê",
+   "커피를 마십니다.",
+   "Tôi uống cà phê."
+  ],
+  [
+   "빵",
+   "Ppang",
+   "Bánh mỳ",
+   "빵이 아주 맛있습니다.",
+   "Bánh mì rất ngon."
+  ],
+  [
+   "영화",
+   "Yeonghwa",
+   "Phim",
+   "극장에서 영화를 봅니다.",
+   "Tôi xem phim ở rạp."
+  ],
+  [
+   "음악",
+   "Eumak",
+   "Âm nhạc",
+   "한국 음악을 좋아합니다.",
+   "Tôi thích nhạc Hàn."
+  ],
+  [
+   "신문",
+   "Sinmun",
+   "Báo",
+   "아버지는 신문을 읽습니다.",
+   "Bố tôi đọc báo."
+  ],
+  [
+   "친구",
+   "Chingu",
+   "Bạn bè",
+   "친구를 만납니다.",
+   "Tôi gặp bạn."
+  ],
+  [
+   "누구",
+   "Nugu",
+   "Ai",
+   "누구를 만납니까?",
+   "Bạn gặp ai?"
+  ],
+  [
+   "언제",
+   "Eonje",
+   "Khi nào",
+   "언제 운동합니까?",
+   "Khi nào bạn tập thể thao?"
+  ],
+  [
+   "공원",
+   "Gongwon",
+   "Công viên",
+   "공원에서 산책합니다.",
+   "Tôi đi dạo ở công viên."
+  ],
+  [
+   "시장",
+   "Sijang",
+   "Chợ",
+   "시장에서 옷을 삽니다.",
+   "Tôi mua quần áo ở chợ."
+  ],
+  [
+   "위",
+   "Wi",
+   "Ở trên",
+   "책상 위에 가방이 있습니다.",
+   "Trên bàn có cặp sách."
+  ],
+  [
+   "노래",
+   "Norae",
+   "Bài hát",
+   "한국 노래를 듣습니다.",
+   "Tôi nghe bài hát Hàn Quốc."
+  ],
+  [
+   "식사하다",
+   "Siksahada",
+   "Dùng bữa",
+   "식당에서 식사합니다.",
+   "Tôi dùng bữa ở nhà hàng."
+  ],
+  [
+   "자주",
+   "Jaju",
+   "Hay, thường xuyên",
+   "저는 자주 영화를 봅니다.",
+   "Tôi thường xem phim."
+  ],
+  [
+   "대한빌딩",
+   "Daehan bilding",
+   "Tòa nhà DaeHan",
+   "사무실은 대한빌딩에 있습니다.",
+   "Văn phòng ở tòa nhà DaeHan."
+  ],
+  [
+   "전화하다",
+   "Jeonhwahada",
+   "Gọi điện thoại",
+   "어머니에게 전화합니다.",
+   "Tôi gọi điện cho mẹ."
+  ],
+  [
+   "방",
+   "Bang",
+   "Phòng",
+   "방에서 음악을 듣습니다.",
+   "Tôi nghe nhạc trong phòng."
+  ],
+  [
+   "아이스크림",
+   "Aiseukeurim",
+   "Kem",
+   "아이스크림을 먹습니다.",
+   "Tôi ăn kem."
+  ],
+  [
+   "지금",
+   "Jigeum",
+   "Bây giờ",
+   "지금 무엇을 합니까?",
+   "Bây giờ bạn làm gì?"
+  ],
+  [
+   "아주",
+   "Aju",
+   "Rất",
+   "날씨가 아주 좋습니다.",
+   "Thời tiết rất đẹp."
+  ],
+  [
+   "축구를 하다",
+   "Chukgureul hada",
+   "Đá bóng",
+   "친구들과 축구를 합니다.",
+   "Tôi đá bóng với các bạn."
+  ],
+  [
+   "산책하다",
+   "Sanchaekada",
+   "Đi dạo",
+   "저녁에 공원에서 산책합니다.",
+   "Buổi tối tôi đi dạo ở công viên."
+  ],
+  [
+   "여행",
+   "Yeohaeng",
+   "Du lịch",
+   "저는 여행을 좋아합니다.",
+   "Tôi thích du lịch."
+  ],
+  [
+   "카페",
+   "Kape",
+   "Quán cà phê",
+   "카페에서 커피를 마십니다.",
+   "Tôi uống cà phê ở quán."
+  ],
+  [
+   "쇼핑하다",
+   "Syopinghada",
+   "Mua sắm",
+   "백화점에서 쇼핑합니다.",
+   "Tôi mua sắm ở bách hóa."
+  ],
+  [
+   "옷",
+   "Ot",
+   "Cái áo, quần áo",
+   "옷을 삽니다.",
+   "Tôi mua quần áo."
+  ],
+  [
+   "헬스클럽",
+   "Helseukeulleop",
+   "Câu lạc bộ thể dục thể thao",
+   "헬스클럽에서 운동합니다.",
+   "Tôi tập ở phòng gym."
+  ],
+  [
+   "시내",
+   "Sinae",
+   "Trung tâm thành phố",
+   "시내에 사람이 많습니다.",
+   "Trung tâm thành phố đông người."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + ㅂ/습니다",
+   "meaning": "Đuôi câu trần thuật trang trọng. Bỏ 다: gốc không có patchim (hoặc patchim ㄹ, bỏ ㄹ) + ㅂ니다; gốc có patchim + 습니다.",
+   "examples": [
+    "가다 → 갑니다",
+    "먹다 → 먹습니다",
+    "좋다 → 좋습니다",
+    "공부하다 → 공부합니다"
+   ]
+  },
+  {
+   "form": "V/A + ㅂ/습니까?",
+   "meaning": "Đuôi câu hỏi trang trọng. Gốc không có patchim + ㅂ니까, có patchim + 습니까.",
+   "examples": [
+    "어디에 갑니까? — Bạn đi đâu?",
+    "무엇을 먹습니까? — Bạn ăn gì?",
+    "언제 운동합니까? — Khi nào bạn tập thể thao?"
+   ]
+  },
+  {
+   "form": "N + 을/를",
+   "meaning": "Tiểu từ tân ngữ (đối tượng của hành động). Có patchim + 을, không có patchim + 를.",
+   "examples": [
+    "빵을 먹습니다. — Tôi ăn bánh mì.",
+    "커피를 마십니다. — Tôi uống cà phê.",
+    "음악을 듣습니다. — Tôi nghe nhạc."
+   ]
+  },
+  {
+   "form": "N + 에서",
+   "meaning": "Ở, tại — nơi diễn ra hành động. Khác với 에 있습니다 (chỉ nơi tồn tại).",
+   "examples": [
+    "도서관에서 공부합니다. — Tôi học ở thư viện.",
+    "공원에서 산책합니다. — Tôi đi dạo ở công viên.",
+    "시장에서 옷을 삽니다. — Tôi mua quần áo ở chợ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Tôi ăn bánh mì.",
+   "kr": "저는 빵___ 먹습니다.",
+   "options": [
+    "을",
+    "를"
+   ],
+   "answer": "을",
+   "explain": "빵 có patchim ㅇ → 을."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Tôi uống cà phê.",
+   "kr": "커피___ 마십니다.",
+   "options": [
+    "을",
+    "를"
+   ],
+   "answer": "를",
+   "explain": "커피 không có patchim → 를."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Tôi nghe nhạc.",
+   "kr": "음악___ 듣습니다.",
+   "answer": [
+    "을"
+   ],
+   "explain": "음악 có patchim ㄱ → 을."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Tôi xem phim.",
+   "kr": "영화___ 봅니다.",
+   "answer": [
+    "를"
+   ],
+   "explain": "영화 không có patchim → 를."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Tôi học ở thư viện.",
+   "kr": "도서관___ 공부합니다.",
+   "answer": [
+    "에서"
+   ],
+   "explain": "Nơi diễn ra hành động (học) → 에서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Tôi đi dạo ở công viên.",
+   "kr": "공원___ 산책합니다.",
+   "answer": [
+    "에서"
+   ],
+   "explain": "Nơi diễn ra hành động → 에서."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Bạn tôi ở trong phòng. (chỉ sự tồn tại)",
+   "kr": "친구가 방___ 있습니다.",
+   "options": [
+    "에",
+    "에서",
+    "을"
+   ],
+   "answer": "에",
+   "explain": "있습니다 (có, ở) dùng 에; 에서 dùng cho nơi diễn ra hành động."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Tôi xem phim ở rạp.",
+   "kr": "극장___ 영화를 봅니다.",
+   "options": [
+    "에",
+    "에서",
+    "을"
+   ],
+   "answer": "에서",
+   "explain": "Xem phim là hành động → 에서."
+  },
+  {
+   "type": "choice",
+   "q": "가다 chia đuôi trang trọng là:",
+   "kr": "가다 →",
+   "options": [
+    "갑니다",
+    "가습니다",
+    "갔니다"
+   ],
+   "answer": "갑니다",
+   "explain": "Gốc 가 không có patchim → + ㅂ니다 = 갑니다."
+  },
+  {
+   "type": "choice",
+   "q": "읽다 chia đuôi trang trọng là:",
+   "kr": "읽다 →",
+   "options": [
+    "읽습니다",
+    "읽ㅂ니다",
+    "읽니다"
+   ],
+   "answer": "읽습니다",
+   "explain": "Gốc 읽 có patchim → + 습니다."
+  },
+  {
+   "type": "choice",
+   "q": "크다 chia đuôi trang trọng là:",
+   "kr": "크다 →",
+   "options": [
+    "큽니다",
+    "크습니다",
+    "큰니다"
+   ],
+   "answer": "큽니다",
+   "explain": "Gốc 크 không có patchim → 큽니다."
+  },
+  {
+   "type": "fill",
+   "q": "Chia động từ 좋다 (tốt) ở đuôi trang trọng:",
+   "kr": "이 카페는 아주 ___.",
+   "answer": [
+    "좋습니다"
+   ],
+   "explain": "좋 có patchim → 좋습니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu hỏi đúng: Bạn có gặp bạn bè không?",
+   "kr": "친구를 ___?",
+   "options": [
+    "만납니까",
+    "만나습니까",
+    "만납니다"
+   ],
+   "answer": "만납니까",
+   "explain": "만나 không có patchim → ㅂ니까 (câu hỏi)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia câu hỏi: Bạn ăn gì? (먹다)",
+   "kr": "무엇을 ___?",
+   "answer": [
+    "먹습니까"
+   ],
+   "explain": "먹 có patchim → 습니까."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu trả lời đúng: \"지금 무엇을 합니까?\"",
+   "kr": "",
+   "options": [
+    "방에서 쉽니다.",
+    "방에 쉽니다.",
+    "방을 쉽니다."
+   ],
+   "answer": "방에서 쉽니다.",
+   "explain": "Nghỉ ngơi là hành động → 방에서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi uống cà phê ở quán cà phê.",
+   "tokens": [
+    "저는",
+    "카페에서",
+    "커피를",
+    "마십니다"
+   ],
+   "answer": "저는 카페에서 커피를 마십니다",
+   "explain": "Chủ ngữ → nơi chốn (에서) → tân ngữ (를) → động từ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bạn tôi mua quần áo ở chợ.",
+   "tokens": [
+    "친구가",
+    "시장에서",
+    "옷을",
+    "삽니다"
+   ],
+   "answer": "친구가 시장에서 옷을 삽니다",
+   "explain": "사다 → 삽니다; 옷 có patchim → 을."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Minsu khi nào tập thể thao?",
+   "tokens": [
+    "민수 씨는",
+    "언제",
+    "운동합니까"
+   ],
+   "answer": "민수 씨는 언제 운동합니까",
+   "explain": "Từ để hỏi 언제 đứng trước động từ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đọc báo.",
+   "answer": [
+    "저는 신문을 읽습니다",
+    "신문을 읽습니다"
+   ],
+   "explain": "신문 + 을 + 읽습니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi học tiếng Hàn ở thư viện.",
+   "answer": [
+    "저는 도서관에서 한국어를 공부합니다",
+    "도서관에서 한국어를 공부합니다"
+   ],
+   "explain": "도서관 + 에서; 한국어 + 를; 공부하다 → 공부합니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn có thích phim không? (trang trọng)",
+   "answer": [
+    "영화를 좋아합니까"
+   ],
+   "explain": "좋아하다 đi với tân ngữ 을/를: 영화를 좋아합니까."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn tôi đá bóng ở sân vận động.",
+   "answer": [
+    "친구가 운동장에서 축구를 합니다",
+    "친구는 운동장에서 축구를 합니다",
+    "제 친구는 운동장에서 축구를 합니다",
+    "제 친구가 운동장에서 축구를 합니다"
+   ],
+   "explain": "운동장 + 에서; 축구를 하다 → 축구를 합니다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저는 아이스크림을 아주 좋아합니다.",
+   "answer": "Tôi rất thích kem.",
+   "explain": "아주 = rất; 좋아하다 = thích."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저는 자주 시내에서 쇼핑합니다.",
+   "answer": "Tôi thường mua sắm ở trung tâm thành phố.",
+   "explain": "자주 = thường xuyên; 시내 = trung tâm thành phố; 쇼핑하다 = mua sắm."
+  }
+ ],
+ "krTitle": "일상생활"
+}
