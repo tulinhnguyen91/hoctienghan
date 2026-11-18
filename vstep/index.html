@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Học VSTEP B2 mỗi ngày</title>
+<meta name="description" content="Sổ học VSTEP B2 theo từng ngày: từ vựng, flashcard, ngữ pháp, đọc hiểu, viết, nói và ôn tập.">
+<meta name="theme-color" content="#F3F9FF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121C2B" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%235AA9F0'/%3E%3Ccircle cx='32' cy='35' r='20' fill='%23FFCADA'/%3E%3Cpath d='M16 22 12 9l13 7zM48 22l4-13-13 7z' fill='%23FFB3C8'/%3E%3Ccircle cx='24' cy='31' r='2.6' fill='%233B2A35'/%3E%3Ccircle cx='40' cy='31' r='2.6' fill='%233B2A35'/%3E%3Cellipse cx='32' cy='41' rx='8' ry='5.6' fill='%23FFA3BE'/%3E%3Cellipse cx='29' cy='41' rx='1.4' ry='2.1' fill='%23C9587E'/%3E%3Cellipse cx='35' cy='41' rx='1.4' ry='2.1' fill='%23C9587E'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#/"><svg class="crown" viewBox="0 0 64 64" aria-hidden="true"><path d="M15 22 10 7l15 8z" fill="#FFB3C8" stroke="#E9839F" stroke-width="2" stroke-linejoin="round"/><path d="M49 22l5-15-15 8z" fill="#FFB3C8" stroke="#E9839F" stroke-width="2" stroke-linejoin="round"/><circle cx="32" cy="36" r="22" fill="#FFCADA" stroke="#E9839F" stroke-width="2"/><path d="M46 8l6 3.2-6 3.2zM58 8l-6 3.2 6 3.2z" fill="#5AA9F0" stroke="#2F7CC4" stroke-width="1.2" stroke-linejoin="round"/><circle cx="52" cy="11.2" r="2" fill="#2F7CC4"/><circle cx="23" cy="31" r="3" fill="#3B2A35"/><circle cx="41" cy="31" r="3" fill="#3B2A35"/><circle cx="24" cy="30" r="1" fill="#fff"/><circle cx="42" cy="30" r="1" fill="#fff"/><ellipse cx="16.5" cy="39" rx="4" ry="2.4" fill="#FF8FB0" opacity=".55"/><ellipse cx="47.5" cy="39" rx="4" ry="2.4" fill="#FF8FB0" opacity=".55"/><ellipse cx="32" cy="42" rx="9" ry="6.5" fill="#FFA3BE" stroke="#E9839F" stroke-width="1.6"/><ellipse cx="28.6" cy="42" rx="1.6" ry="2.4" fill="#C9587E"/><ellipse cx="35.4" cy="42" rx="1.6" ry="2.4" fill="#C9587E"/><path d="M28.5 51q3.5 2.6 7 0" fill="none" stroke="#C9587E" stroke-width="1.6" stroke-linecap="round"/></svg><span>Học VSTEP</span><span class="brand-ko" lang="en">Road to B2</span></a>
+</header>
+<main id="app" tabindex="-1"><p class="loading">Đang tải bài học…</p></main>
+<nav class="bottom" aria-label="Điều hướng chính">
+  <a href="#/" data-nav="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5zM13 4h5.5A1.5 1.5 0 0 1 20 5.5v13a1.5 1.5 0 0 1-1.5 1.5H13z"/></svg>Bài học</a>
+  <a href="#/on-tap" data-nav="review"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4a8 8 0 1 1-7.4 5M4 4v5h5"/></svg>Ôn tập</a>
+  <a href="#/so-tay" data-nav="notes"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h11a1 1 0 0 1 1 1v16l-3-2-3 2-3-2-3 2V4a1 1 0 0 1 1-1zM9 8h6M9 12h6"/></svg>Sổ tay</a>
+  <a href="#/nop-bai" data-nav="submit"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>Nộp bài<span class="badge" id="submitBadge" hidden></span></a>
+</nav>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>
