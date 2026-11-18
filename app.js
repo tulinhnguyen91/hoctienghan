@@ -158,7 +158,14 @@ async function renderHome() {
   const lt = await loadLesson(latest.id);
   const todayDone = results().filter(r => r.day === dayKey()).length;
   const cheer = CHEERS[new Date().getDate() % CHEERS.length];
+  const ex = await todayExtras();
   $app.innerHTML = `
+    ${ex ? `<section class="quote" aria-label="Câu nói hôm nay">
+      <div class="q-label">✧ Câu nói hôm nay ✧</div>
+      <p class="q-kr" lang="ko">${esc(ex.quote.kr)}</p>
+      <p class="q-vi">${esc(ex.quote.vi)}</p>
+      ${soundBtn(ex.quote.kr, 'Nghe câu nói')}
+    </section>` : ''}
     <section class="hero" aria-label="Bài mới nhất">
       <span class="ghost" lang="ko" aria-hidden="true">${esc(latest.krTitle.slice(0, 1))}</span>
       <span class="tiara" aria-hidden="true">${document.querySelector('.brand .crown')?.outerHTML.replace('id="cg"', 'id="cg2"').replace('url(#cg)', 'url(#cg2)') || ''}</span>
@@ -170,7 +177,7 @@ async function renderHome() {
       <div class="row"><a class="btn light" href="#/${latest.id}">Vào học</a><a class="btn line" style="color:#fff;border-color:rgba(255,255,255,.35)" href="#/${latest.id}/luyen">Làm bài luôn</a></div>
     </section>
     <p class="cheer" lang="ko">${esc(cheer)}</p>
-    ${await todayCard()}
+    ${await todayCard(ex)}
     ${homeSupport(latest, lt, await loadAll())}
     ${todayDone ? `<p class="note">Hôm nay bạn đã làm <b>${todayDone}</b> phần. Xong thì vào <a href="#/nop-bai">Nộp bài</a> để copy kết quả gửi Claude nhé.</p>` : ''}
     <h2>Các ngày đã học</h2>
@@ -188,6 +195,53 @@ async function renderHome() {
       }).join('')}
     </ol>`;
   petals($app.querySelector('.hero'));
+  bindHomeExtras(ex);
+}
+let EXTRAS = null;
+async function todayExtras() {
+  const plan = await loadPlan(); if (!plan) return null;
+  if (!EXTRAS) { try { const r = await fetch('data/extras.json?v=' + Date.now(), { cache: 'no-store' }); if (r.ok) EXTRAS = await r.json(); } catch {} }
+  if (!EXTRAS) return null;
+  const { d, before, after } = planToday(plan);
+  const n = before ? 1 : after ? 30 : d.day;
+  return EXTRAS.days.find(x => x.day === n) || null;
+}
+function extrasHtml(ex, dayLabel) {
+  if (!ex) return '';
+  const draft = store.get('diary.' + dayKey(), '');
+  const saved = results().find(r => r.day === dayKey() && r.mode === 'nhat-ky');
+  return `<div class="extras">
+    <h3 class="ex-h">♕ Góc công chúa hôm nay</h3>
+    <details open><summary>🗣️ Phát âm: ${esc(ex.pron.title)}</summary>
+      <p class="small">${esc(ex.pron.rule)}</p>
+      <ul class="ex-list">${ex.pron.examples.map(e => `<li><span lang="ko">${esc(e)}</span>${soundBtn(e.split(/[→(/]/)[0].trim())}</li>`).join('')}</ul></details>
+    <details><summary>💬 3 câu giao tiếp</summary>
+      <ul class="ex-list">${ex.phrases.map(([k, v]) => `<li><span><span lang="ko" class="kr">${esc(k)}</span><br><span class="muted small">${esc(v)}</span></span>${soundBtn(k)}</li>`).join('')}</ul></details>
+    <details><summary>🏯 Văn hóa Hàn</summary><p class="small">${esc(ex.culture)}</p></details>
+    <details><summary>🎯 Mẹo thi TOPIK</summary><p class="small">${esc(ex.tip)}</p></details>
+    <details ${saved ? '' : 'open'}><summary>📔 Nhật ký 3 câu${saved ? ' ✓' : ''}</summary>
+      <p class="small"><b>Đề:</b> ${esc(ex.diary)}</p>
+      <textarea class="answer-input" id="diary" rows="4" lang="ko" placeholder="Viết 3–5 câu tiếng Hàn…">${esc(saved ? saved.sentences.join('\n') : draft)}</textarea>
+      <button class="btn block" id="diarySave" style="margin-top:10px">${saved ? 'Cập nhật nhật ký' : 'Lưu nhật ký vào bài nộp'}</button></details>
+  </div>`;
+}
+function bindHomeExtras(ex) {
+  const ta = document.getElementById('diary'); if (!ta || !ex) return;
+  ta.addEventListener('input', () => store.set('diary.' + dayKey(), ta.value));
+  document.getElementById('diarySave').onclick = () => {
+    const sentences = ta.value.split(/\n+|(?<=[.?!])\s+/).map(s => s.trim()).filter(Boolean);
+    if (sentences.length < 3) { toast('Viết ít nhất 3 câu nhé công chúa'); return; }
+    store.set('results', results().filter(r => !(r.day === dayKey() && r.mode === 'nhat-ky')));
+    addResult({ lessonId: 'nhat-ky', lesson: 'Ngày ' + ex.day, mode: 'nhat-ky', label: 'Nhật ký', prompt: ex.diary, sentences });
+    markStudied(); toast('Đã lưu nhật ký ✿'); renderHome();
+  };
+  document.querySelectorAll('[data-tick]').forEach(b => b.onclick = e => {
+    e.preventDefault();
+    const has = results().some(r => r.day === dayKey() && r.mode === 'migii');
+    if (has) store.set('results', results().filter(r => !(r.day === dayKey() && r.mode === 'migii')));
+    else { addResult({ lessonId: 'migii', lesson: 'Migii', mode: 'migii', label: 'Luyện Nghe + Đọc TOPIK I trên Migii', note: b.dataset.tick }); markStudied(); }
+    renderHome();
+  });
 }
 let PLAN = null;
 async function loadPlan() {
@@ -207,7 +261,7 @@ function practiceLinks(plan, d) {
     <li><a href="${plan.links.listening}" target="_blank" rel="noopener">🎧 ${esc(d.practice.listening)}</a></li>
     <li><a href="${plan.links.reading}" target="_blank" rel="noopener">📖 ${esc(d.practice.reading)}</a></li></ul>`;
 }
-async function todayCard() {
+async function todayCard(ex) {
   const plan = await loadPlan(); if (!plan) return '';
   const { d, before, after } = planToday(plan);
   const idx = INDEX ? INDEX.lessons.map(l => l.id) : [];
@@ -223,6 +277,7 @@ async function todayCard() {
       : `<p class="small muted">${d.words.length} từ · ngữ pháp: <span lang="ko">${d.grammar.map(g => esc(g.split(' — ')[0])).join(', ')}</span></p>
         ${ready ? `<a class="btn block" href="#/${d.id}">Học ${esc(d.lesson)} ngay</a>` : `<p class="note">Bài này sẽ được soạn xong tối hôm trước (20:30). Trong lúc chờ, vào Ôn tập nhé.</p>`}
         <p class="small" style="margin:12px 0 4px"><b>Luyện TOPIK trên Migii hôm nay:</b></p>${practiceLinks(plan, d)}`}
+    ${extrasHtml(ex)}
   </section>`;
 }
 async function renderPlan() {
@@ -251,6 +306,8 @@ function homeSupport(latest, lt, lessons) {
     ['Làm bài tập ngữ pháp', did(r => r.lessonId === latest.id && r.mode === 'ngu-phap'), `#/${latest.id}/ngu-phap`],
     ['Đặt 3–5 câu', did(r => r.lessonId === latest.id && r.mode === 'dat-cau'), `#/${latest.id}/dat-cau`],
     [due ? `Ôn ${due} từ sắp quên` : 'Ôn từ sắp quên (hôm nay chưa có)', due === 0 || did(r => r.mode === 'on-han'), '#/on-tap'],
+    ['Luyện Nghe + Đọc trên Migii (bấm để tick)', did(r => r.mode === 'migii'), '#/', 'migii'],
+    ['Viết nhật ký 3 câu', did(r => r.mode === 'nhat-ky'), '#/'],
     ['Copy kết quả gửi Claude', rs.length > 0 && rs.every(r => r.sent), '#/nop-bai'],
   ];
   const doneN = goals.filter(g => g[1]).length;
@@ -266,7 +323,7 @@ function homeSupport(latest, lt, lessons) {
       </div>
       <div class="goals"><div class="goals-h"><h3>Nhiệm vụ hôm nay</h3><span class="small muted">${doneN}/${goals.length}</span></div>
         <div class="goal-bar"><i style="width:${100 * doneN / goals.length}%"></i></div>
-        <ul>${goals.map(([t, ok, href]) => `<li class="${ok ? 'ok' : ''}"><a href="${href}"><span class="tick" aria-hidden="true">${ok ? '✓' : ''}</span>${esc(t)}</a></li>`).join('')}</ul>
+        <ul>${goals.map(([t, ok, href, tick]) => `<li class="${ok ? 'ok' : ''}"><a href="${href}" ${tick ? `data-tick="${tick}"` : ''}><span class="tick" aria-hidden="true">${ok ? '✓' : ''}</span>${esc(t)}</a></li>`).join('')}</ul>
         ${doneN === goals.length ? '<p class="cheer" lang="ko">오늘 다 했어요! Xong hết rồi, giỏi quá!</p>' : ''}</div>
       ${wod ? `<div class="wod"><div class="small muted">Từ của ngày</div>
         <div class="wod-k"><span lang="ko">${esc(wod[0])}</span>${soundBtn(wod[0])}</div>
@@ -771,7 +828,12 @@ function renderNotes() {
 function buildReport(day, list) {
   const L = [`📚 KẾT QUẢ HỌC TIẾNG HÀN — ${fmtDate(day)}`, ''];
   list.forEach(r => {
-    if (r.mode === 'dat-cau') {
+    if (r.mode === 'nhat-ky') {
+      L.push(`📔 Nhật ký (đề: ${r.prompt})`);
+      r.sentences.forEach((s, k) => L.push(`  ${k + 1}. ${s}`));
+    } else if (r.mode === 'migii') {
+      L.push(`🎧📖 Đã làm luyện Nghe + Đọc TOPIK I trên Migii`);
+    } else if (r.mode === 'dat-cau') {
       L.push(`✏️ [${r.lesson}] Đặt câu (mẫu: ${r.grammar})`);
       r.sentences.forEach((s, k) => L.push(`  ${k + 1}. ${s}`));
     } else {
@@ -792,7 +854,7 @@ function renderSubmit(dayArg) {
     <p class="muted">Làm xong thì bấm <b>Copy kết quả</b>, rồi dán vào chat với Claude để được chấm và nhận xét.</p>
     <div class="daypick"><label for="d">Ngày</label><select id="d" class="searchbox" style="margin:0;width:auto">${(days.includes(day) ? days : [day, ...days]).map(d => `<option value="${d}" ${d === day ? 'selected' : ''}>${fmtDate(d)}${d === dayKey() ? ' (hôm nay)' : ''}</option>`).join('')}</select></div>
     ${list.length ? list.map(r => `<div class="entry"><div class="h"><span>${esc(r.lesson)} · ${esc(r.label)}</span>
-        <span class="s">${r.mode === 'dat-cau' ? r.sentences.length + ' câu' : `${r.correct}/${r.total}`}</span></div>
+        <span class="s">${r.sentences ? r.sentences.length + ' câu' : r.mode === 'migii' ? '✓' : `${r.correct}/${r.total}`}</span></div>
         <div class="d">${fmtTime(r.at)}${r.wrong?.length ? ` · ${r.wrong.length} câu sai` : ''}${r.review?.length ? ` · ${r.review.length} câu chờ chấm` : ''}</div></div>`).join('')
       : '<p class="note">Ngày này chưa có bài nào. Vào <a href="#/">Bài học</a> để bắt đầu nhé.</p>'}
     ${list.length ? `<button class="btn block" id="copy">Copy kết quả</button>

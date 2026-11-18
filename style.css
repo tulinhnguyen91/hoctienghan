@@ -380,3 +380,21 @@ h2::after{content:" ✧";color:var(--gold);font-size:.7em}
 .passage{display:block;font-family:var(--kr);font-size:18px;font-weight:400;line-height:1.7;background:var(--lav-wash);border-radius:12px;padding:12px 14px}
 .support>*,.today{min-width:0}
 .cal{grid-template-columns:repeat(14,minmax(0,1fr))}
+
+/* ===== quote & extras ===== */
+.quote{position:relative;text-align:center;margin:4px 0 14px;padding:22px 18px 18px;border-radius:24px;
+  background:linear-gradient(160deg,#FFF9E8 0%,#FFE7F1 55%,#F1E6FF 100%);border:1.5px solid var(--gold-soft);
+  box-shadow:0 0 0 4px rgba(255,255,255,.6) inset,0 14px 30px -22px rgba(185,134,47,.6)}
+:root[data-theme="dark"] .quote{background:linear-gradient(160deg,#3A2A1E,#45233A 55%,#2E2340)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .quote{background:linear-gradient(160deg,#3A2A1E,#45233A 55%,#2E2340)}}
+.q-label{font-family:var(--deco);font-size:20px;color:var(--gold)}
+.q-kr{font-family:var(--kr-deco);font-weight:700;font-size:clamp(24px,7vw,32px);line-height:1.3;color:var(--celadon-deep);margin:6px 0 6px;text-wrap:balance}
+.q-vi{font-family:"Playfair Display",Georgia,serif;font-style:italic;font-size:17px;color:var(--ink-2);margin:0 0 10px;text-wrap:balance}
+.extras{margin-top:16px;border-top:1px dashed var(--line);padding-top:12px}
+.ex-h{font-family:var(--deco);font-size:24px;color:var(--celadon-deep);margin-bottom:6px}
+.extras details{border:1px solid var(--line);border-radius:14px;padding:10px 12px;margin-bottom:8px;background:var(--paper)}
+.extras summary{cursor:pointer;font-weight:600;font-size:15px}
+.extras details p{margin:8px 0 0}
+.ex-list{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:6px}
+.ex-list li{display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:16px}
+.ex-list .kr{font-size:18px}
