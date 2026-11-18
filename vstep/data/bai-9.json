@@ -1,0 +1,496 @@
+{
+ "id": "bai-9",
+ "lesson": "Bài 9",
+ "day": 1,
+ "date": "2026-11-19",
+ "title": "Truyền thông & mạng xã hội",
+ "enTitle": "Media & Social Media",
+ "past": false,
+ "words": [
+  [
+   "go viral",
+   "/ɡəʊ ˈvaɪrəl/ · v phr",
+   "lan truyền chóng mặt trên mạng",
+   "A short video of the rescue went viral and was viewed by millions of people.",
+   "Đoạn video ngắn về cuộc giải cứu lan truyền chóng mặt và được hàng triệu người xem."
+  ],
+  [
+   "fake news",
+   "/ˌfeɪk ˈnjuːz/ · n",
+   "tin giả",
+   "Fake news spreads quickly because many users share posts without checking the source.",
+   "Tin giả lan nhanh vì nhiều người chia sẻ bài mà không kiểm tra nguồn."
+  ],
+  [
+   "misinformation",
+   "/ˌmɪsɪnfəˈmeɪʃn/ · n",
+   "thông tin sai lệch",
+   "During the pandemic, misinformation about vaccines caused unnecessary fear.",
+   "Trong đại dịch, thông tin sai lệch về vắc-xin gây ra nỗi sợ không cần thiết."
+  ],
+  [
+   "influencer",
+   "/ˈɪnfluənsə/ · n",
+   "người có sức ảnh hưởng (trên mạng)",
+   "Many brands pay influencers to promote their products on TikTok and Instagram.",
+   "Nhiều thương hiệu trả tiền cho người có ảnh hưởng để quảng bá sản phẩm trên TikTok và Instagram."
+  ],
+  [
+   "cyberbullying",
+   "/ˈsaɪbəbʊliɪŋ/ · n",
+   "bắt nạt trên mạng",
+   "Cyberbullying can have serious effects on teenagers' mental health.",
+   "Bắt nạt trên mạng có thể ảnh hưởng nghiêm trọng đến sức khỏe tinh thần thanh thiếu niên."
+  ],
+  [
+   "screen time",
+   "/ˈskriːn taɪm/ · n",
+   "thời gian dùng màn hình",
+   "Experts recommend limiting children's screen time to two hours a day.",
+   "Chuyên gia khuyên nên giới hạn thời gian dùng màn hình của trẻ ở mức hai giờ mỗi ngày."
+  ],
+  [
+   "traditional media",
+   "/trəˈdɪʃənl ˈmiːdiə/ · n",
+   "truyền thông truyền thống (báo, đài)",
+   "Young people now rely on social media rather than traditional media for news.",
+   "Người trẻ giờ dựa vào mạng xã hội thay vì báo đài truyền thống để đọc tin."
+  ],
+  [
+   "reliable source",
+   "/rɪˈlaɪəbl sɔːs/ · n",
+   "nguồn tin đáng tin cậy",
+   "Students should learn how to tell a reliable source from a fake one.",
+   "Học sinh nên học cách phân biệt nguồn đáng tin với nguồn giả."
+  ],
+  [
+   "spread rumours",
+   "/spred ˈruːməz/ · v phr",
+   "tung tin đồn",
+   "Some users deliberately spread rumours to attract more followers.",
+   "Một số người cố tình tung tin đồn để thu hút thêm người theo dõi."
+  ],
+  [
+   "online presence",
+   "/ˌɒnlaɪn ˈprezns/ · n",
+   "sự hiện diện trên mạng",
+   "Small businesses need a strong online presence to compete with big brands.",
+   "Doanh nghiệp nhỏ cần hiện diện mạnh trên mạng để cạnh tranh với thương hiệu lớn."
+  ],
+  [
+   "attention span",
+   "/əˈtenʃn spæn/ · n",
+   "khả năng tập trung",
+   "Watching endless short videos may shorten young people's attention span.",
+   "Xem video ngắn liên tục có thể làm giảm khả năng tập trung của người trẻ."
+  ],
+  [
+   "content creator",
+   "/ˈkɒntent kriˈeɪtə/ · n",
+   "người sáng tạo nội dung",
+   "Becoming a content creator is now a dream job for many teenagers.",
+   "Trở thành người sáng tạo nội dung giờ là công việc mơ ước của nhiều thiếu niên."
+  ],
+  [
+   "freedom of speech",
+   "/ˌfriːdəm əv ˈspiːtʃ/ · n",
+   "tự do ngôn luận",
+   "Freedom of speech does not give people the right to insult others online.",
+   "Tự do ngôn luận không cho người ta quyền xúc phạm người khác trên mạng."
+  ],
+  [
+   "public opinion",
+   "/ˌpʌblɪk əˈpɪnjən/ · n",
+   "dư luận",
+   "Social media has a huge influence on public opinion.",
+   "Mạng xã hội có ảnh hưởng rất lớn đến dư luận."
+  ],
+  [
+   "keep in touch with",
+   "/kiːp ɪn ˈtʌtʃ wɪð/ · v phr",
+   "giữ liên lạc với",
+   "Social networks make it easy to keep in touch with friends who live abroad.",
+   "Mạng xã hội giúp dễ dàng giữ liên lạc với bạn bè ở nước ngoài."
+  ],
+  [
+   "verify information",
+   "/ˈverɪfaɪ/ · v phr",
+   "xác minh thông tin",
+   "Journalists must verify information before they publish a story.",
+   "Nhà báo phải xác minh thông tin trước khi đăng bài."
+  ],
+  [
+   "viral content",
+   "/ˈvaɪrəl ˈkɒntent/ · n",
+   "nội dung lan truyền mạnh",
+   "Viral content often relies on strong emotions such as anger or surprise.",
+   "Nội dung lan truyền mạnh thường dựa vào cảm xúc mạnh như tức giận hay ngạc nhiên."
+  ],
+  [
+   "privacy settings",
+   "/ˈprɪvəsi ˈsetɪŋz/ · n",
+   "cài đặt quyền riêng tư",
+   "You should check your privacy settings so that strangers cannot see your photos.",
+   "Bạn nên kiểm tra cài đặt quyền riêng tư để người lạ không xem được ảnh của bạn."
+  ],
+  [
+   "excessive use",
+   "/ɪkˈsesɪv juːs/ · n",
+   "sử dụng quá mức",
+   "Excessive use of social media is linked to anxiety and poor sleep.",
+   "Dùng mạng xã hội quá mức có liên quan đến lo âu và mất ngủ."
+  ],
+  [
+   "a source of entertainment",
+   "/sɔːs əv ˌentəˈteɪnmənt/ · n",
+   "nguồn giải trí",
+   "For many elderly people, television is still the main source of entertainment.",
+   "Với nhiều người già, tivi vẫn là nguồn giải trí chính."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Gerund (V-ing) vs Infinitive (to V)",
+   "meaning": "Sau enjoy, avoid, mind, consider, suggest, deny, keep, finish, can't help + V-ing. Sau want, decide, hope, plan, refuse, agree, manage, afford, expect + to V. Sau giới từ (in, of, about, at, without…) luôn là V-ing. V-ing cũng làm chủ ngữ: Spreading rumours is wrong.",
+   "examples": [
+    "Many teenagers enjoy watching short videos. — Nhiều thiếu niên thích xem video ngắn.",
+    "She decided to delete her Facebook account. — Cô ấy quyết định xóa tài khoản Facebook.",
+    "Spreading rumours online can hurt people. — Tung tin đồn trên mạng có thể làm tổn thương người khác.",
+    "He is interested in becoming a content creator. — Anh ấy muốn trở thành người sáng tạo nội dung."
+   ]
+  },
+  {
+   "form": "stop / remember / forget / try / regret + V-ing hoặc to V",
+   "meaning": "stop V-ing: thôi làm · stop to V: dừng lại để làm. remember/forget V-ing: nhớ/quên đã làm · remember/forget to V: nhớ/quên phải làm. try V-ing: thử làm xem · try to V: cố gắng làm. regret V-ing: hối hận đã làm · regret to V: lấy làm tiếc phải (thông báo).",
+   "examples": [
+    "I stopped using TikTok because it wasted my time. — Tôi thôi dùng TikTok vì nó tốn thời gian.",
+    "Remember to check your privacy settings. — Nhớ kiểm tra cài đặt quyền riêng tư nhé.",
+    "I regret posting that photo. — Tôi hối hận vì đã đăng bức ảnh đó.",
+    "Try turning off notifications if you want to focus. — Thử tắt thông báo nếu bạn muốn tập trung."
+   ]
+  },
+  {
+   "form": "Động từ + tân ngữ + to V",
+   "meaning": "allow, encourage, persuade, force, enable, advise, warn, ask, tell, invite, require + O + to V. Riêng let/make + O + V (không 'to'). Bị động: be allowed/encouraged/forced + to V.",
+   "examples": [
+    "Social media allows users to share information instantly. — Mạng xã hội cho phép người dùng chia sẻ thông tin ngay lập tức.",
+    "Teachers should encourage students to verify information. — Giáo viên nên khuyến khích học sinh xác minh thông tin.",
+    "Parents should not let children use phones before bed. — Cha mẹ không nên để trẻ dùng điện thoại trước khi ngủ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng",
+   "en": "Many teenagers enjoy ___ short videos before bed.",
+   "options": [
+    "to watch",
+    "watching",
+    "watch",
+    "watched"
+   ],
+   "answer": "watching",
+   "explain": "enjoy + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng",
+   "en": "She refused ___ the fake news with her friends.",
+   "options": [
+    "sharing",
+    "to share",
+    "share",
+    "shared"
+   ],
+   "answer": "to share",
+   "explain": "refuse + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn nghĩa phù hợp",
+   "en": "I stopped ___ Facebook because it made me anxious.",
+   "options": [
+    "to use",
+    "using",
+    "use",
+    "used"
+   ],
+   "answer": "using",
+   "explain": "Thôi làm → stop + V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn nghĩa phù hợp",
+   "en": "Remember ___ your password regularly.",
+   "options": [
+    "changing",
+    "to change",
+    "change",
+    "changed"
+   ],
+   "answer": "to change",
+   "explain": "Nhớ phải làm (việc chưa làm) → remember + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Social media allows users ___ information instantly.",
+   "options": [
+    "share",
+    "sharing",
+    "to share",
+    "shared"
+   ],
+   "answer": "to share",
+   "explain": "allow + O + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Parents should not let children ___ phones before bed.",
+   "options": [
+    "to use",
+    "use",
+    "using",
+    "used"
+   ],
+   "answer": "use",
+   "explain": "let + O + V (không to)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "A video of the rescue went ___ and was watched by millions.",
+   "options": [
+    "viral",
+    "famous",
+    "popular",
+    "online"
+   ],
+   "answer": "viral",
+   "explain": "go viral = lan truyền chóng mặt."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "I regret ___ (post) that photo last year.",
+   "answer": [
+    "posting",
+    "having posted"
+   ],
+   "explain": "regret + V-ing = hối hận đã làm."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "Journalists must avoid ___ (publish) stories they have not checked.",
+   "answer": [
+    "publishing"
+   ],
+   "explain": "avoid + V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Students should learn to tell a ___ source from a fake one.",
+   "answer": [
+    "reliable",
+    "trustworthy"
+   ],
+   "explain": "reliable source = nguồn đáng tin."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Watching endless short videos may shorten your attention ___.",
+   "answer": [
+    "span"
+   ],
+   "explain": "attention span = khả năng tập trung."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Teachers",
+    "should",
+    "encourage",
+    "students",
+    "to",
+    "verify",
+    "information."
+   ],
+   "answer": "Teachers should encourage students to verify information.",
+   "explain": "encourage + O + to V."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Spreading",
+    "rumours",
+    "online",
+    "can",
+    "hurt",
+    "other",
+    "people."
+   ],
+   "answer": "Spreading rumours online can hurt other people.",
+   "explain": "V-ing làm chủ ngữ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi quyết định giảm thời gian dùng màn hình.",
+   "answer": [
+    "I decided to reduce my screen time.",
+    "I decided to cut down on my screen time.",
+    "I have decided to reduce my screen time.",
+    "I decided to limit my screen time."
+   ],
+   "explain": "decide + to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Mạng xã hội giúp tôi giữ liên lạc với bạn bè ở nước ngoài.",
+   "answer": [
+    "Social media helps me keep in touch with my friends abroad.",
+    "Social media helps me to keep in touch with my friends abroad.",
+    "Social media helps me keep in touch with friends abroad.",
+    "Social media helps me stay in touch with my friends abroad."
+   ],
+   "explain": "help + O + (to) V; keep in touch with."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Freedom of speech does not give people the right to insult others online.",
+   "answer": "Tự do ngôn luận không cho người ta quyền xúc phạm người khác trên mạng.",
+   "explain": "insult = xúc phạm."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Fake news has become a serious problem in the age of social media. A recent study found that false stories spread six times faster than true ones online. One reason is that fake news often uses shocking headlines that make people angry or surprised. Many users share these posts without ( ___ ) the source. Experts suggest that schools should teach students how to recognise reliable sources. They also encourage social media companies to label misleading posts more clearly.",
+   "options": [
+    "checking",
+    "check",
+    "to check",
+    "checked"
+   ],
+   "answer": "checking",
+   "explain": "Sau giới từ without → V-ing."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao tin giả lan nhanh?",
+   "en": "Fake news has become a serious problem in the age of social media. A recent study found that false stories spread six times faster than true ones online. One reason is that fake news often uses shocking headlines that make people angry or surprised. Many users share these posts without ( ___ ) the source. Experts suggest that schools should teach students how to recognise reliable sources. They also encourage social media companies to label misleading posts more clearly.",
+   "options": [
+    "Nó dùng tiêu đề gây sốc khiến người đọc tức giận hay ngạc nhiên",
+    "Nó luôn đúng sự thật",
+    "Nó được nhà trường chia sẻ",
+    "Nó được dán nhãn rõ ràng"
+   ],
+   "answer": "Nó dùng tiêu đề gây sốc khiến người đọc tức giận hay ngạc nhiên",
+   "explain": "'uses shocking headlines that make people angry or surprised'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Điều gì khiến Hoa nổi tiếng?",
+   "en": "Two years ago, Hoa started posting cooking videos on TikTok just for fun. One of her videos, in which she cooked pho in ten minutes, went viral and attracted thousands of new followers. Today she is a full-time content creator and earns more than she did in her office job. However, Hoa admits that the job is not as easy as it looks. She has to keep producing new content every day, and she sometimes receives hurtful comments. She advises young people to think carefully before giving up their studies to become influencers.",
+   "options": [
+    "Một video nấu phở 10 phút lan truyền mạnh",
+    "Công việc văn phòng",
+    "Một quảng cáo trên tivi",
+    "Một bình luận gây tranh cãi"
+   ],
+   "answer": "Một video nấu phở 10 phút lan truyền mạnh",
+   "explain": "'One of her videos, in which she cooked pho in ten minutes, went viral'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Hoa khuyên người trẻ điều gì?",
+   "en": "Two years ago, Hoa started posting cooking videos on TikTok just for fun. One of her videos, in which she cooked pho in ten minutes, went viral and attracted thousands of new followers. Today she is a full-time content creator and earns more than she did in her office job. However, Hoa admits that the job is not as easy as it looks. She has to keep producing new content every day, and she sometimes receives hurtful comments. She advises young people to think carefully before giving up their studies to become influencers.",
+   "options": [
+    "Cân nhắc kỹ trước khi bỏ học để làm influencer",
+    "Bỏ học ngay để làm TikTok",
+    "Không bao giờ dùng mạng xã hội",
+    "Chỉ nấu phở"
+   ],
+   "answer": "Cân nhắc kỹ trước khi bỏ học để làm influencer",
+   "explain": "Câu cuối: think carefully before giving up their studies."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Opinion essay: Mạng xã hội gây hại nhiều hơn lợi?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people believe that social media does more harm than good to young people.\nTo what extent do you agree or disagree?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: paraphrase + thesis (đồng ý một phần: I partly agree that… although…)",
+   "Thân 1: tác hại – tin giả, bắt nạt mạng, giảm khả năng tập trung (ví dụ cụ thể)",
+   "Thân 2: lợi ích – giữ liên lạc, học tập, cơ hội nghề sáng tạo nội dung",
+   "Dùng 3–4 cấu trúc V-ing/to V (avoid spending…, encourage them to…)",
+   "Kết bài: nhắc lại quan điểm + giải pháp dùng có kiểm soát"
+  ],
+  "phrases": [
+   "It is often argued that … — Người ta thường cho rằng …",
+   "I partly agree with this view, although … — Tôi đồng ý một phần với quan điểm này, mặc dù …",
+   "One of the most serious drawbacks is that … — Một trong những tác hại nghiêm trọng nhất là …",
+   "On the other hand, it would be unfair to ignore … — Mặt khác, sẽ không công bằng nếu bỏ qua …",
+   "The key is to encourage young people to use it wisely. — Điều quan trọng là khuyến khích người trẻ dùng nó một cách khôn ngoan."
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: Social media and young people",
+  "prompt": "Topic: Social media has changed the way young people communicate.\nIdeas: • staying connected with friends • spreading fake news • affecting mental health\nFollow-up: Should there be an age limit for using social media?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Should there be an age limit for using social media?",
+   "How much time do you spend on social media every day?"
+  ],
+  "ideas": [
+   "Nowadays, it's hard to imagine young people without…",
+   "On the positive side, social media allows us to…",
+   "However, I've noticed that many people share posts without checking…",
+   "Personally, I try to avoid scrolling…",
+   "In conclusion, social media is useful as long as…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Think before you click.",
+   "vi": "Hãy suy nghĩ trước khi bấm."
+  },
+  "pron": {
+   "title": "Trọng âm danh từ – động từ 2 âm tiết",
+   "rule": "Nhiều từ 2 âm tiết: danh từ nhấn âm 1, động từ nhấn âm 2.",
+   "examples": [
+    "record (n) /ˈrekɔːd/ – record (v) /rɪˈkɔːd/",
+    "present (n) /ˈpreznt/ – present (v) /prɪˈzent/",
+    "increase (n) /ˈɪŋkriːs/ – increase (v) /ɪnˈkriːs/"
+   ]
+  },
+  "phrases": [
+   [
+    "take sth with a pinch of salt",
+    "nghe cái gì với thái độ hoài nghi"
+   ],
+   [
+    "at the touch of a button",
+    "chỉ bằng một cú chạm"
+   ],
+   [
+    "a growing body of evidence suggests that…",
+    "ngày càng nhiều bằng chứng cho thấy…"
+   ]
+  ],
+  "mistake": "Hay viết 'I enjoy to watch…' hoặc 'interested in become…'. Sau enjoy và sau giới từ phải là V-ing.",
+  "tip": "Listening Part 1: đáp án thường được paraphrase. Nghe 'stop using' có thể là đáp án 'quit'.",
+  "diary": "Viết 3–5 câu về thói quen dùng mạng của bạn, dùng enjoy/avoid + V-ing, decide/plan + to V và stop + V-ing."
+ }
+}

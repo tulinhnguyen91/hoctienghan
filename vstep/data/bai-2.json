@@ -1,0 +1,457 @@
+{
+ "id": "bai-2",
+ "lesson": "Bài 2",
+ "day": null,
+ "date": "2026-11-12",
+ "title": "Công nghệ",
+ "enTitle": "Technology",
+ "past": true,
+ "words": [
+  [
+   "technological advances",
+   "/ˌteknəˈlɒdʒɪkl ədˈvɑːnsɪz/ · n",
+   "những tiến bộ công nghệ",
+   "Rapid technological advances have transformed the way people communicate and work.",
+   "Những tiến bộ công nghệ nhanh chóng đã thay đổi cách con người giao tiếp và làm việc."
+  ],
+  [
+   "be addicted to sth",
+   "/əˈdɪktɪd/ · adj phr",
+   "nghiện cái gì",
+   "Many teenagers are addicted to their smartphones and spend hours online every day.",
+   "Nhiều thiếu niên nghiện điện thoại và dành hàng giờ trên mạng mỗi ngày."
+  ],
+  [
+   "have access to the Internet",
+   "/ˈækses/ · v phr",
+   "được tiếp cận Internet",
+   "In remote areas, a large number of children still do not have access to the Internet.",
+   "Ở vùng sâu vùng xa, nhiều trẻ em vẫn chưa được tiếp cận Internet."
+  ],
+  [
+   "digital literacy",
+   "/ˌdɪdʒɪtl ˈlɪtərəsi/ · n",
+   "năng lực sử dụng công nghệ số",
+   "Schools should place greater emphasis on digital literacy to prepare students for the modern workplace.",
+   "Trường học nên chú trọng hơn đến năng lực số để chuẩn bị cho học sinh bước vào môi trường làm việc hiện đại."
+  ],
+  [
+   "invasion of privacy",
+   "/ɪnˈveɪʒn əv ˈprɪvəsi/ · n",
+   "sự xâm phạm quyền riêng tư",
+   "The collection of personal data by tech companies is often regarded as an invasion of privacy.",
+   "Việc các công ty công nghệ thu thập dữ liệu cá nhân thường bị coi là xâm phạm quyền riêng tư."
+  ],
+  [
+   "cybersecurity",
+   "/ˌsaɪbəsɪˈkjʊərəti/ · n",
+   "an ninh mạng",
+   "Governments need to invest more in cybersecurity to protect citizens from online fraud.",
+   "Chính phủ cần đầu tư nhiều hơn vào an ninh mạng để bảo vệ người dân khỏi lừa đảo trực tuyến."
+  ],
+  [
+   "time-saving devices",
+   "/ˈtaɪm seɪvɪŋ dɪˈvaɪsɪz/ · n",
+   "thiết bị tiết kiệm thời gian",
+   "Time-saving devices such as dishwashers have given families more free time to spend together.",
+   "Các thiết bị tiết kiệm thời gian như máy rửa bát giúp gia đình có thêm thời gian bên nhau."
+  ],
+  [
+   "keep up with the latest trends",
+   "/kiːp ʌp wɪð/ · v phr",
+   "bắt kịp xu hướng mới nhất",
+   "Older people often find it difficult to keep up with the latest technological trends.",
+   "Người lớn tuổi thường thấy khó bắt kịp các xu hướng công nghệ mới nhất."
+  ],
+  [
+   "be overly reliant on technology",
+   "/rɪˈlaɪənt/ · adj phr",
+   "phụ thuộc quá mức vào công nghệ",
+   "If students are overly reliant on technology, they may lose the ability to think independently.",
+   "Nếu học sinh phụ thuộc quá mức vào công nghệ, các em có thể mất khả năng tư duy độc lập."
+  ],
+  [
+   "bridge the digital divide",
+   "/brɪdʒ ðə ˌdɪdʒɪtl dɪˈvaɪd/ · v phr",
+   "thu hẹp khoảng cách số",
+   "Providing free Wi-Fi in rural areas could help bridge the digital divide.",
+   "Cung cấp Wi-Fi miễn phí ở nông thôn có thể giúp thu hẹp khoảng cách số."
+  ],
+  [
+   "user-friendly",
+   "/ˌjuːzə ˈfrendli/ · adj",
+   "dễ sử dụng",
+   "Modern applications are so user-friendly that even young children can use them without help.",
+   "Ứng dụng hiện đại dễ dùng đến mức trẻ nhỏ cũng tự dùng được."
+  ],
+  [
+   "cutting-edge technology",
+   "/ˌkʌtɪŋ ˈedʒ tekˈnɒlədʒi/ · n",
+   "công nghệ tiên tiến nhất",
+   "Hospitals equipped with cutting-edge technology can diagnose diseases more quickly and accurately.",
+   "Bệnh viện có công nghệ tiên tiến nhất có thể chẩn đoán bệnh nhanh và chính xác hơn."
+  ],
+  [
+   "fall victim to online scams",
+   "/ˈvɪktɪm/ · v phr",
+   "trở thành nạn nhân của lừa đảo trực tuyến",
+   "Elderly people are more likely to fall victim to online scams because they lack digital skills.",
+   "Người cao tuổi dễ trở thành nạn nhân của lừa đảo trực tuyến vì thiếu kỹ năng số."
+  ],
+  [
+   "automation",
+   "/ˌɔːtəˈmeɪʃn/ · n",
+   "tự động hóa",
+   "The widespread use of automation in factories has led to job losses among unskilled workers.",
+   "Việc dùng rộng rãi tự động hóa trong nhà máy đã khiến nhiều lao động phổ thông mất việc."
+  ],
+  [
+   "a double-edged sword",
+   "/ˌdʌbl ˈedʒd ˈsɔːd/ · n phr",
+   "con dao hai lưỡi",
+   "Technology is a double-edged sword: it makes life more convenient but also creates new problems.",
+   "Công nghệ là con dao hai lưỡi: nó làm cuộc sống tiện lợi hơn nhưng cũng tạo ra vấn đề mới."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Câu bị động cơ bản: S + be + V3",
+   "meaning": "Chia 'be' theo thì của câu chủ động rồi thêm V3. HTĐ am/is/are + V3 · HTTD am/is/are being + V3 · HTHT have/has been + V3 · QKĐ was/were + V3 · QKTD was/were being + V3 · QKHT had been + V3 · TLĐ will be + V3 · TLHT will have been + V3. Chỉ thêm 'by + O' khi người làm quan trọng.",
+   "examples": [
+    "The flowers are watered every morning. — Hoa được tưới mỗi sáng.",
+    "A new app is being developed by our team. — Một ứng dụng mới đang được nhóm chúng tôi phát triển.",
+    "Millions of jobs have been replaced by automation. — Hàng triệu việc làm đã bị thay thế bởi tự động hóa.",
+    "The first smartphone was invented decades ago. — Chiếc điện thoại thông minh đầu tiên được phát minh cách đây hàng chục năm."
+   ]
+  },
+  {
+   "form": "Bị động với động từ khuyết thiếu + need",
+   "meaning": "S + can/could/should/must/may/might/have to + be + V3. Riêng 'need': need to be + V3 (người hoặc vật) hoặc need + V-ing (vật).",
+   "examples": [
+    "Personal data should be protected by law. — Dữ liệu cá nhân nên được pháp luật bảo vệ.",
+    "This problem can be solved with cutting-edge technology. — Vấn đề này có thể được giải quyết bằng công nghệ tiên tiến.",
+    "The software needs to be updated. = The software needs updating. — Phần mềm cần được cập nhật."
+   ]
+  },
+  {
+   "form": "have/get something done (bị động nhờ bảo)",
+   "meaning": "Chủ động: have sb do sth / get sb to do sth. Bị động: have/get + sth + V3 (+ by sb) = nhờ/thuê ai làm gì.",
+   "examples": [
+    "I had my laptop repaired yesterday. — Hôm qua tôi đã mang laptop đi sửa.",
+    "She got her phone screen replaced. — Cô ấy đã thay màn hình điện thoại.",
+    "I have Linh teach English. → I have English taught by Linh. — Tôi nhờ Linh dạy tiếng Anh."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động đúng",
+   "en": "English ___ all over the world.",
+   "options": [
+    "speaks",
+    "is spoken",
+    "is speaking",
+    "has spoken"
+   ],
+   "answer": "is spoken",
+   "explain": "Sự thật hiện tại → HTĐ bị động: is spoken."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động đúng",
+   "en": "Yesterday, the meeting ___ due to a sudden fire.",
+   "options": [
+    "was cancelled",
+    "is cancelled",
+    "has cancelled",
+    "cancelled"
+   ],
+   "answer": "was cancelled",
+   "explain": "yesterday → QKĐ bị động: was cancelled."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động đúng",
+   "en": "This bridge ___ for nearly twenty years.",
+   "options": [
+    "is built",
+    "has been built",
+    "was building",
+    "builds"
+   ],
+   "answer": "has been built",
+   "explain": "for nearly twenty years → HTHT bị động."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động đúng",
+   "en": "A new app ___ by our team at the moment.",
+   "options": [
+    "is being developed",
+    "is developed",
+    "has developed",
+    "was developing"
+   ],
+   "answer": "is being developed",
+   "explain": "at the moment → HTTD bị động: is being + V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Children should ___ when they help others.",
+   "options": [
+    "reward",
+    "be rewarded",
+    "rewarded",
+    "rewarding"
+   ],
+   "answer": "be rewarded",
+   "explain": "modal + be + V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Have you had your computer ___ yet?",
+   "options": [
+    "repair",
+    "repaired",
+    "repairing",
+    "to repair"
+   ],
+   "answer": "repaired",
+   "explain": "have sth + V3 = nhờ ai làm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Elderly people are more likely to ___ victim to online scams.",
+   "options": [
+    "fall",
+    "become",
+    "get",
+    "make"
+   ],
+   "answer": "fall",
+   "explain": "fall victim to sth = trở thành nạn nhân của."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng bị động của động từ trong ngoặc",
+   "en": "Where can she ___ (find)?",
+   "answer": [
+    "be found"
+   ],
+   "explain": "modal can + be + V3."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng bị động",
+   "en": "We ___ (not allow) to enter this building.",
+   "answer": [
+    "are not allowed",
+    "aren't allowed"
+   ],
+   "explain": "HTĐ bị động phủ định."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The software needs ___ (update).",
+   "answer": [
+    "updating",
+    "to be updated"
+   ],
+   "explain": "need + V-ing hoặc need to be + V3."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Providing free Wi-Fi could help ___ the digital divide.",
+   "answer": [
+    "bridge"
+   ],
+   "explain": "bridge the digital divide = thu hẹp khoảng cách số."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu bị động đúng",
+   "tokens": [
+    "The",
+    "public",
+    "transport",
+    "system",
+    "is",
+    "being",
+    "upgraded",
+    "in",
+    "big",
+    "cities."
+   ],
+   "answer": "The public transport system is being upgraded in big cities.",
+   "explain": "HTTD bị động: is being + V3."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "I",
+    "had",
+    "my",
+    "laptop",
+    "repaired",
+    "yesterday."
+   ],
+   "answer": "I had my laptop repaired yesterday.",
+   "explain": "have + sth + V3."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Dữ liệu cá nhân nên được bảo vệ.",
+   "answer": [
+    "Personal data should be protected.",
+    "Personal information should be protected."
+   ],
+   "explain": "should + be + V3."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Cuốn sách này được viết bởi ai?",
+   "answer": [
+    "Who was this book written by?",
+    "By whom was this book written?"
+   ],
+   "explain": "Bị động câu hỏi Who: By whom was … written? / Who was … written by?"
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Technology is a double-edged sword.",
+   "answer": "Công nghệ là con dao hai lưỡi.",
+   "explain": "a double-edged sword = con dao hai lưỡi."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Smartphones have become a double-edged sword for many families. On the one hand, they allow parents to keep in touch with their children and help students find information quickly. On the other hand, a recent survey found that more than half of teenagers spend over five hours a day on their phones. Doctors warn that young people who are addicted to their devices often sleep badly and find it hard to concentrate. As a result, many schools have decided that phones must be ( ___ ) during lessons.",
+   "options": [
+    "switched off",
+    "switch off",
+    "switching off",
+    "to switch off"
+   ],
+   "answer": "switched off",
+   "explain": "must be + V3 (bị động): must be switched off."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Theo bác sĩ, thanh thiếu niên nghiện điện thoại thường:",
+   "en": "Smartphones have become a double-edged sword for many families. On the one hand, they allow parents to keep in touch with their children and help students find information quickly. On the other hand, a recent survey found that more than half of teenagers spend over five hours a day on their phones. Doctors warn that young people who are addicted to their devices often sleep badly and find it hard to concentrate. As a result, many schools have decided that phones must be ( ___ ) during lessons.",
+   "options": [
+    "ngủ kém và khó tập trung",
+    "học giỏi hơn",
+    "ít dùng mạng xã hội",
+    "dậy sớm hơn"
+   ],
+   "answer": "ngủ kém và khó tập trung",
+   "explain": "Câu 4: often sleep badly and find it hard to concentrate."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao người cao tuổi dễ bị lừa?",
+   "en": "Online scams are becoming more common in Vietnam. Last year, thousands of people lost money after receiving fake messages that seemed to come from their banks. Experts say that elderly people are the most likely to fall victim to these scams because they have not been taught how to recognise them. To deal with the problem, the government has launched free courses on digital literacy, and banks have been asked to send regular warnings to their customers.",
+   "options": [
+    "Họ chưa được hướng dẫn cách nhận biết lừa đảo",
+    "Họ có nhiều tiền",
+    "Họ không dùng ngân hàng",
+    "Họ dùng điện thoại cũ"
+   ],
+   "answer": "Họ chưa được hướng dẫn cách nhận biết lừa đảo",
+   "explain": "'they have not been taught how to recognise them'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Đoạn văn chủ yếu nói về:",
+   "en": "Online scams are becoming more common in Vietnam. Last year, thousands of people lost money after receiving fake messages that seemed to come from their banks. Experts say that elderly people are the most likely to fall victim to these scams because they have not been taught how to recognise them. To deal with the problem, the government has launched free courses on digital literacy, and banks have been asked to send regular warnings to their customers.",
+   "options": [
+    "Lừa đảo trực tuyến và các biện pháp đối phó",
+    "Lịch sử ngành ngân hàng",
+    "Cách dùng điện thoại thông minh",
+    "Khóa học tiếng Anh miễn phí"
+   ],
+   "answer": "Lừa đảo trực tuyến và các biện pháp đối phó",
+   "explain": "Nêu vấn đề (scams) và giải pháp (courses, warnings)."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Advantages & Disadvantages: Quản lý cuộc sống bằng smartphone",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "More and more people are using smartphones to manage their daily life, from banking to shopping.\nWhat are the advantages and disadvantages of this trend?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: In recent years, … has become increasingly popular. + Although this trend brings benefits, it also has drawbacks.",
+   "Thân 1 – ưu điểm: tiết kiệm thời gian (ví dụ ví điện tử, mobile banking), tổ chức cuộc sống",
+   "Thân 2 – nhược điểm: an ninh mạng, lừa đảo (fall victim to online scams), sức khỏe",
+   "Dùng ít nhất 2 câu bị động (are used by millions, is stored on…)",
+   "Kết bài: tóm tắt + lời khuyên dùng công nghệ thông minh"
+  ],
+  "phrases": [
+   "Over the past few years, … has become increasingly popular. — Vài năm gần đây, … ngày càng phổ biến.",
+   "The most obvious advantage is that … — Ưu điểm rõ ràng nhất là …",
+   "One major drawback is that … — Một nhược điểm lớn là …",
+   "Personal information can be stolen if … — Thông tin cá nhân có thể bị đánh cắp nếu …",
+   "Technology is a double-edged sword. — Công nghệ là con dao hai lưỡi."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: giúp bà dùng smartphone",
+  "prompt": "Situation: Your grandmother has just bought a smartphone, but she finds it difficult to use. Which is the best way to help her?\n1. Teach her yourself at weekends\n2. Sign her up for a free digital skills class\n3. Install only a few simple apps for her",
+  "questions": [
+   "Which option do you choose and why?",
+   "Why are the other two options less suitable?"
+  ],
+  "ideas": [
+   "I would choose the first option because …",
+   "This would allow her to …",
+   "Although the second option sounds good, …",
+   "As for the third option, it might …",
+   "All things considered, …"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Technology is best when it brings people together.",
+   "vi": "Công nghệ tốt nhất khi nó kết nối con người."
+  },
+  "pron": {
+   "title": "Trọng âm từ có đuôi -tion, -ic, -ity",
+   "rule": "Trọng âm rơi vào âm tiết ngay TRƯỚC các đuôi -tion, -sion, -ic, -ity.",
+   "examples": [
+    "automation → au-to-MA-tion",
+    "technological → tech-no-LO-gi-cal",
+    "security → se-CU-ri-ty"
+   ]
+  },
+  "phrases": [
+   [
+    "have a profound impact on…",
+    "có ảnh hưởng sâu sắc đến…"
+   ],
+   [
+    "in this day and age",
+    "trong thời đại ngày nay"
+   ],
+   [
+    "there is no denying that…",
+    "không thể phủ nhận rằng…"
+   ]
+  ],
+  "mistake": "Hay quên 'be' trong câu bị động: 'The data should protected' → phải là 'should BE protected'.",
+  "tip": "Writing Task 2 chiếm 2/3 điểm Viết. Nếu hay hụt giờ, làm Task 2 trước rồi mới viết thư.",
+  "diary": "Viết 3–5 câu về công nghệ trong cuộc sống của bạn, dùng ít nhất 2 câu bị động (is used, has been changed, should be limited…)."
+ }
+}

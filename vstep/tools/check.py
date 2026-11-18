@@ -31,5 +31,12 @@ for it in idx['lessons']:
     if W and (W.get('task') not in (1, 2) or not W.get('prompt')): err.append(f'{tag}: writing sai')
     if S and (S.get('part') not in (1, 2, 3) or not S.get('prompt')): err.append(f'{tag}: speaking sai')
     print(f'{tag}: {len(L["words"])} từ, {len(L["patterns"])} mẫu, {len(L["exercises"])} bài tập')
+seen = {}
+for it in idx['lessons']:
+    for w in json.load(open(os.path.join(d, it['id'] + '.json')))['words']:
+        k = re.sub(r'\s*\(.*\)', '', w[0].lower()).strip()
+        if k in seen: err.append(f'trùng từ "{k}" ở {seen[k]} và {it["id"]}')
+        seen[k] = it['id']
+print(f'Tổng {len(seen)} từ/cụm từ khác nhau')
 print('\n'.join(err) if err else 'OK — không có lỗi')
 sys.exit(1 if err else 0)

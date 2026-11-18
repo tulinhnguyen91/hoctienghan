@@ -1,0 +1,501 @@
+{
+ "id": "bai-11",
+ "lesson": "Bài 11",
+ "day": 3,
+ "date": "2026-11-21",
+ "title": "Khoa học & trí tuệ nhân tạo",
+ "enTitle": "Science & AI",
+ "past": false,
+ "words": [
+  [
+   "artificial intelligence",
+   "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/ · n",
+   "trí tuệ nhân tạo",
+   "Artificial intelligence is already used to translate languages and diagnose diseases.",
+   "Trí tuệ nhân tạo đã được dùng để dịch ngôn ngữ và chẩn đoán bệnh."
+  ],
+  [
+   "breakthrough",
+   "/ˈbreɪkθruː/ · n",
+   "bước đột phá",
+   "Scientists have made a major breakthrough in cancer research.",
+   "Các nhà khoa học đã có bước đột phá lớn trong nghiên cứu ung thư."
+  ],
+  [
+   "conduct research",
+   "/kənˈdʌkt rɪˈsɜːtʃ/ · v phr",
+   "tiến hành nghiên cứu",
+   "Universities need more funding to conduct research.",
+   "Các trường đại học cần thêm kinh phí để tiến hành nghiên cứu."
+  ],
+  [
+   "replace human workers",
+   "/rɪˈpleɪs ˈhjuːmən ˈwɜːkəz/ · v phr",
+   "thay thế người lao động",
+   "Many fear that robots will replace human workers in factories.",
+   "Nhiều người lo robot sẽ thay thế người lao động trong nhà máy."
+  ],
+  [
+   "ethical concerns",
+   "/ˈeθɪkl kənˈsɜːnz/ · n",
+   "mối lo ngại về đạo đức",
+   "The use of AI in hiring raises serious ethical concerns.",
+   "Việc dùng AI trong tuyển dụng gây ra nhiều lo ngại về đạo đức."
+  ],
+  [
+   "algorithm",
+   "/ˈælɡərɪðəm/ · n",
+   "thuật toán",
+   "Social media algorithms decide which posts we see first.",
+   "Thuật toán mạng xã hội quyết định bài nào ta thấy trước."
+  ],
+  [
+   "chatbot",
+   "/ˈtʃætbɒt/ · n",
+   "trợ lý ảo trò chuyện",
+   "Many banks now use chatbots to answer customers' questions 24/7.",
+   "Nhiều ngân hàng giờ dùng chatbot để trả lời khách hàng 24/7."
+  ],
+  [
+   "self-driving car",
+   "/ˌself ˈdraɪvɪŋ kɑː/ · n",
+   "xe tự lái",
+   "Self-driving cars could reduce road accidents caused by human error.",
+   "Xe tự lái có thể giảm tai nạn do lỗi của con người."
+  ],
+  [
+   "scientific evidence",
+   "/ˌsaɪənˈtɪfɪk ˈevɪdəns/ · n",
+   "bằng chứng khoa học",
+   "There is strong scientific evidence that smoking causes cancer.",
+   "Có bằng chứng khoa học vững chắc rằng hút thuốc gây ung thư."
+  ],
+  [
+   "funding",
+   "/ˈfʌndɪŋ/ · n",
+   "kinh phí, nguồn tài trợ",
+   "The project was cancelled due to a lack of funding.",
+   "Dự án bị hủy do thiếu kinh phí."
+  ],
+  [
+   "innovation",
+   "/ˌɪnəˈveɪʃn/ · n",
+   "sự đổi mới, sáng kiến",
+   "Innovation is the key to economic growth in the 21st century.",
+   "Đổi mới là chìa khóa cho tăng trưởng kinh tế thế kỷ 21."
+  ],
+  [
+   "pose a threat to",
+   "/pəʊz ə θret tə/ · v phr",
+   "gây đe dọa cho",
+   "Some experts believe that AI could pose a threat to privacy.",
+   "Một số chuyên gia tin rằng AI có thể đe dọa quyền riêng tư."
+  ],
+  [
+   "data analysis",
+   "/ˈdeɪtə əˈnæləsɪs/ · n",
+   "phân tích dữ liệu",
+   "Data analysis helps companies understand what customers want.",
+   "Phân tích dữ liệu giúp công ty hiểu khách hàng muốn gì."
+  ],
+  [
+   "medical research",
+   "/ˈmedɪkl rɪˈsɜːtʃ/ · n",
+   "nghiên cứu y học",
+   "Medical research has led to vaccines for many deadly diseases.",
+   "Nghiên cứu y học đã tạo ra vắc-xin cho nhiều bệnh chết người."
+  ],
+  [
+   "human error",
+   "/ˌhjuːmən ˈerə/ · n",
+   "lỗi do con người",
+   "Most traffic accidents are caused by human error.",
+   "Phần lớn tai nạn giao thông do lỗi con người."
+  ],
+  [
+   "transform",
+   "/trænsˈfɔːm/ · v",
+   "thay đổi hoàn toàn",
+   "AI is expected to transform the way we work.",
+   "AI được kỳ vọng sẽ thay đổi hoàn toàn cách chúng ta làm việc."
+  ],
+  [
+   "labour-intensive",
+   "/ˌleɪbər ɪnˈtensɪv/ · adj",
+   "cần nhiều lao động",
+   "Robots are mainly used for labour-intensive tasks such as packing goods.",
+   "Robot chủ yếu được dùng cho việc cần nhiều sức lao động như đóng gói hàng."
+  ],
+  [
+   "in the foreseeable future",
+   "/fɔːˈsiːəbl ˈfjuːtʃə/ · adv phr",
+   "trong tương lai gần (có thể thấy trước)",
+   "Robots are unlikely to replace teachers in the foreseeable future.",
+   "Robot khó có thể thay thế giáo viên trong tương lai gần."
+  ],
+  [
+   "carry out experiments",
+   "/ˈkæri aʊt ɪkˈsperɪmənts/ · v phr",
+   "thực hiện thí nghiệm",
+   "Students carry out experiments in the lab every Friday.",
+   "Học sinh thực hiện thí nghiệm trong phòng lab mỗi thứ Sáu."
+  ],
+  [
+   "cutting-edge research",
+   "/ˌkʌtɪŋ ˈedʒ rɪˈsɜːtʃ/ · n",
+   "nghiên cứu tiên phong",
+   "The institute is famous for its cutting-edge research in robotics.",
+   "Viện nổi tiếng với nghiên cứu tiên phong về robot."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Future continuous: will be + V-ing",
+   "meaning": "Hành động sẽ ĐANG diễn ra tại một thời điểm trong tương lai (at this time tomorrow, in 2040…). Cũng dùng để hỏi kế hoạch một cách lịch sự.",
+   "examples": [
+    "At this time tomorrow, I will be taking the VSTEP test. — Giờ này ngày mai tôi sẽ đang thi VSTEP.",
+    "In 2040, many people will be travelling in self-driving cars. — Năm 2040, nhiều người sẽ đang đi xe tự lái.",
+    "Will you be using the laptop this evening? — Tối nay bạn có dùng laptop không?"
+   ]
+  },
+  {
+   "form": "Future perfect: will have + V3",
+   "meaning": "Hành động sẽ HOÀN THÀNH trước một mốc tương lai. Dấu hiệu: by + thời gian, by the time + HTĐ, before…",
+   "examples": [
+    "By 2030, AI will have replaced many office jobs. — Đến năm 2030, AI sẽ đã thay thế nhiều công việc văn phòng.",
+    "By the time you arrive, we will have finished the experiment. — Khi bạn đến, chúng tôi sẽ đã làm xong thí nghiệm.",
+    "Scientists will have found a cure before the end of the decade. — Các nhà khoa học sẽ tìm ra cách chữa trước khi hết thập kỷ."
+   ]
+  },
+  {
+   "form": "be likely to / be bound to / be expected to / be set to",
+   "meaning": "be likely to V: có khả năng. be unlikely to V: khó có khả năng. be bound to V: chắc chắn sẽ. be expected to V: được dự kiến. be set to V: sắp, chuẩn bị. Thay cho 'will' giúp câu học thuật hơn. Cũng dùng: It is likely that + mệnh đề.",
+   "examples": [
+    "AI is likely to transform the job market. — AI có khả năng thay đổi thị trường việc làm.",
+    "Robots are unlikely to replace teachers in the foreseeable future. — Robot khó thay thế giáo viên trong tương lai gần.",
+    "Prices are bound to rise if fuel costs increase. — Giá chắc chắn sẽ tăng nếu chi phí nhiên liệu tăng."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn thì đúng",
+   "en": "At this time tomorrow, I ___ the VSTEP test.",
+   "options": [
+    "will be taking",
+    "will take",
+    "will have taken",
+    "take"
+   ],
+   "answer": "will be taking",
+   "explain": "Đang diễn ra tại thời điểm tương lai → tương lai tiếp diễn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn thì đúng",
+   "en": "By 2030, AI ___ many office jobs.",
+   "options": [
+    "will replace",
+    "will be replacing",
+    "will have replaced",
+    "replaces"
+   ],
+   "answer": "will have replaced",
+   "explain": "by + mốc tương lai → tương lai hoàn thành."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn thì đúng",
+   "en": "By the time you arrive, we ___ the experiment.",
+   "options": [
+    "will have finished",
+    "finish",
+    "will be finishing",
+    "finished"
+   ],
+   "answer": "will have finished",
+   "explain": "by the time + HTĐ, mệnh đề chính TLHT."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Robots are ___ to replace teachers in the near future.",
+   "options": [
+    "likely not",
+    "unlikely",
+    "not likely be",
+    "unlike"
+   ],
+   "answer": "unlikely",
+   "explain": "be unlikely to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Prices are bound ___ if fuel costs go up.",
+   "options": [
+    "rise",
+    "rising",
+    "to rise",
+    "risen"
+   ],
+   "answer": "to rise",
+   "explain": "be bound to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Most traffic accidents are caused by human ___.",
+   "options": [
+    "error",
+    "mistake",
+    "fault",
+    "wrong"
+   ],
+   "answer": "error",
+   "explain": "human error = lỗi do con người (collocation)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Scientists have made a major ___ in cancer research.",
+   "options": [
+    "breakthrough",
+    "break",
+    "through",
+    "breakdown"
+   ],
+   "answer": "breakthrough",
+   "explain": "breakthrough = bước đột phá."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "In 2040, many people ___ (travel) in self-driving cars.",
+   "answer": [
+    "will be travelling",
+    "will be traveling"
+   ],
+   "explain": "Đang diễn ra tại thời điểm tương lai."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "Scientists ___ (find) a cure before 2035.",
+   "answer": [
+    "will have found"
+   ],
+   "explain": "before + mốc tương lai → TLHT."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The project was cancelled due to a lack of ___.",
+   "answer": [
+    "funding",
+    "money"
+   ],
+   "explain": "lack of funding = thiếu kinh phí."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Some experts believe AI could ___ a threat to privacy.",
+   "answer": [
+    "pose"
+   ],
+   "explain": "pose a threat to."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "AI",
+    "is",
+    "likely",
+    "to",
+    "transform",
+    "the",
+    "way",
+    "we",
+    "work."
+   ],
+   "answer": "AI is likely to transform the way we work.",
+   "explain": "be likely to V."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "By",
+    "the",
+    "end",
+    "of",
+    "this",
+    "year,",
+    "I",
+    "will",
+    "have",
+    "saved",
+    "enough",
+    "money."
+   ],
+   "answer": "By the end of this year, I will have saved enough money.",
+   "explain": "Tương lai hoàn thành."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Đến năm 2030, robot sẽ đã thay thế nhiều công nhân.",
+   "answer": [
+    "By 2030, robots will have replaced many workers.",
+    "By 2030, robots will have replaced a lot of workers.",
+    "By 2030, robots will have replaced many human workers."
+   ],
+   "explain": "by + năm → will have V3."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Trí tuệ nhân tạo có khả năng thay đổi cách chúng ta học.",
+   "answer": [
+    "Artificial intelligence is likely to change the way we learn.",
+    "AI is likely to change the way we learn.",
+    "Artificial intelligence is likely to change how we learn.",
+    "AI is likely to transform the way we learn.",
+    "It is likely that AI will change the way we learn."
+   ],
+   "explain": "be likely to V."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "The use of AI in hiring raises serious ethical concerns.",
+   "answer": "Việc dùng AI trong tuyển dụng làm dấy lên những lo ngại nghiêm trọng về đạo đức.",
+   "explain": "raise concerns = làm dấy lên lo ngại."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Chatbots powered by artificial intelligence are changing the way people study. Instead of searching through several websites, students can now ask a chatbot to explain a difficult concept in seconds. Supporters say that AI tools are likely to make learning more personal and efficient. Critics, however, warn that students who rely on chatbots to write their essays will not develop their own thinking skills. Many universities are now setting rules on how AI ( ___ ) be used in assignments.",
+   "options": [
+    "should",
+    "is",
+    "are",
+    "does"
+   ],
+   "answer": "should",
+   "explain": "Quy định 'nên được dùng thế nào' → should be used."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Đoạn văn chủ yếu bàn về:",
+   "en": "Chatbots powered by artificial intelligence are changing the way people study. Instead of searching through several websites, students can now ask a chatbot to explain a difficult concept in seconds. Supporters say that AI tools are likely to make learning more personal and efficient. Critics, however, warn that students who rely on chatbots to write their essays will not develop their own thinking skills. Many universities are now setting rules on how AI ( ___ ) be used in assignments.",
+   "options": [
+    "Lợi ích và rủi ro của chatbot AI trong học tập",
+    "Cách viết luận",
+    "Lịch sử internet",
+    "Quy định thi đại học"
+   ],
+   "answer": "Lợi ích và rủi ro của chatbot AI trong học tập",
+   "explain": "Supporters vs Critics về chatbot học tập."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao xe tự lái có thể cứu nhiều mạng người?",
+   "en": "Self-driving cars have been tested on public roads in several countries. Supporters argue that, since most accidents are caused by human error, driverless cars could save thousands of lives. By 2035, they claim, millions of people will be travelling in such vehicles. However, there are still many problems to solve. The technology is expensive, and it is not clear who should be responsible if a self-driving car causes an accident. Most experts agree that ordinary families are unlikely to own one in the next few years.",
+   "options": [
+    "Vì phần lớn tai nạn do lỗi con người",
+    "Vì xe rẻ",
+    "Vì đường tốt hơn",
+    "Vì ai cũng có xe"
+   ],
+   "answer": "Vì phần lớn tai nạn do lỗi con người",
+   "explain": "'since most accidents are caused by human error'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Theo phần lớn chuyên gia, trong vài năm tới:",
+   "en": "Self-driving cars have been tested on public roads in several countries. Supporters argue that, since most accidents are caused by human error, driverless cars could save thousands of lives. By 2035, they claim, millions of people will be travelling in such vehicles. However, there are still many problems to solve. The technology is expensive, and it is not clear who should be responsible if a self-driving car causes an accident. Most experts agree that ordinary families are unlikely to own one in the next few years.",
+   "options": [
+    "gia đình bình thường khó sở hữu xe tự lái",
+    "ai cũng có xe tự lái",
+    "xe tự lái bị cấm",
+    "tai nạn sẽ biến mất"
+   ],
+   "answer": "gia đình bình thường khó sở hữu xe tự lái",
+   "explain": "'unlikely to own one in the next few years'."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Discussion: AI có lấy mất việc làm?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people think that artificial intelligence will create more jobs than it destroys. Others believe it will lead to mass unemployment.\nDiscuss both views and give your opinion.\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: The issue of… has attracted public attention. While some…, others… + thesis",
+   "Thân 1: quan điểm AI tạo việc mới (data analysis, AI training, bảo trì robot)",
+   "Thân 2: quan điểm AI gây thất nghiệp (labour-intensive jobs, chatbots…) + ý kiến của bạn",
+   "Dùng will have V3, be likely to, be bound to để nói về tương lai",
+   "Kết bài: tóm 2 phía + nhấn mạnh vai trò đào tạo lại (retraining)"
+  ],
+  "phrases": [
+   "The issue of … has attracted a lot of public attention recently. — Vấn đề … gần đây thu hút nhiều sự chú ý.",
+   "Those who are optimistic argue that … — Những người lạc quan cho rằng …",
+   "By 2035, AI is likely to have … — Đến năm 2035, AI có khả năng đã …",
+   "Workers in labour-intensive jobs are bound to … — Lao động làm việc chân tay chắc chắn sẽ …",
+   "Governments should invest in retraining programmes. — Chính phủ nên đầu tư vào chương trình đào tạo lại."
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: AI in everyday life",
+  "prompt": "Topic: Artificial intelligence will make our lives better.\nIdeas: • saving time with smart assistants • improving healthcare • helping students learn\nFollow-up: What jobs do you think AI will never replace?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "What jobs do you think AI will never replace?",
+   "Have you ever used an AI tool? What for?"
+  ],
+  "ideas": [
+   "I strongly believe that AI is likely to…",
+   "For instance, smart assistants can… in seconds.",
+   "In the field of medicine, AI is already helping doctors to…",
+   "By the time I'm 40, I think we will have…",
+   "However, jobs that require empathy, such as…, are unlikely to…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "The science of today is the technology of tomorrow.",
+   "vi": "Khoa học của hôm nay là công nghệ của ngày mai."
+  },
+  "pron": {
+   "title": "Âm câm (silent letters)",
+   "rule": "Một số chữ cái không được đọc: k trong kn-, b sau m, g trong gn, t trong -sten/-stle.",
+   "examples": [
+    "knowledge → /ˈnɒlɪdʒ/",
+    "design → /dɪˈzaɪn/",
+    "doubt → /daʊt/"
+   ]
+  },
+  "phrases": [
+   [
+    "a game changer",
+    "nhân tố thay đổi cuộc chơi"
+   ],
+   [
+    "pave the way for…",
+    "mở đường cho…"
+   ],
+   [
+    "in the not-too-distant future",
+    "trong tương lai không xa"
+   ]
+  ],
+  "mistake": "Hay viết 'By 2030, AI will replace…' khi có 'by + mốc'. Đúng là 'will HAVE replaced'.",
+  "tip": "Writing Task 2: thay 'will' bằng 'is likely to / is expected to / is bound to' để câu học thuật hơn, ăn điểm từ vựng.",
+  "diary": "Viết 3–5 câu dự đoán cuộc sống của bạn năm 2035, dùng will be V-ing, will have V3 và be likely to."
+ }
+}

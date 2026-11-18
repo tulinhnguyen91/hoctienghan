@@ -1,214 +1,146 @@
 {
  "id": "bai-1",
  "lesson": "Bài 1",
- "day": 1,
- "date": "2026-11-19",
+ "day": null,
+ "date": "2026-11-11",
  "title": "Giáo dục",
  "enTitle": "Education",
+ "past": true,
  "words": [
   [
-   "tuition fees",
-   "/tjuˈɪʃn fiːz/ · n",
-   "học phí",
-   "Many families struggle to pay rising tuition fees.",
-   "Nhiều gia đình chật vật trả học phí ngày càng tăng."
-  ],
-  [
-   "compulsory",
-   "/kəmˈpʌlsəri/ · adj",
-   "bắt buộc",
-   "English is a compulsory subject in most Vietnamese schools.",
-   "Tiếng Anh là môn bắt buộc ở hầu hết các trường tại Việt Nam."
-  ],
-  [
-   "curriculum",
-   "/kəˈrɪkjələm/ · n",
-   "chương trình học",
-   "The new curriculum focuses more on practical skills.",
-   "Chương trình học mới tập trung hơn vào kỹ năng thực hành."
-  ],
-  [
-   "extracurricular activities",
-   "/ˌekstrəkəˈrɪkjələr ækˈtɪvətiz/ · n",
-   "hoạt động ngoại khóa",
-   "Extracurricular activities help students develop teamwork skills.",
-   "Hoạt động ngoại khóa giúp học sinh phát triển kỹ năng làm việc nhóm."
+   "acquire knowledge",
+   "/əˈkwaɪə ˈnɒlɪdʒ/ · v phr",
+   "tiếp thu kiến thức",
+   "Students acquire knowledge not only from textbooks but also from real-life experience.",
+   "Học sinh tiếp thu kiến thức không chỉ từ sách giáo khoa mà còn từ trải nghiệm thực tế."
   ],
   [
    "academic performance",
    "/ˌækəˈdemɪk pəˈfɔːməns/ · n",
    "kết quả học tập",
-   "Lack of sleep can affect students' academic performance.",
-   "Thiếu ngủ có thể ảnh hưởng đến kết quả học tập của học sinh."
-  ],
-  [
-   "critical thinking",
-   "/ˌkrɪtɪkl ˈθɪŋkɪŋ/ · n",
-   "tư duy phản biện",
-   "Schools should teach critical thinking rather than memorisation.",
-   "Trường học nên dạy tư duy phản biện thay vì học thuộc."
-  ],
-  [
-   "distance learning",
-   "/ˈdɪstəns ˈlɜːnɪŋ/ · n",
-   "học từ xa",
-   "Distance learning allows working adults to study at their own pace.",
-   "Học từ xa cho phép người đi làm học theo tốc độ của mình."
-  ],
-  [
-   "vocational training",
-   "/vəʊˈkeɪʃənl ˈtreɪnɪŋ/ · n",
-   "đào tạo nghề",
-   "Vocational training is a good option for students who prefer practical work.",
-   "Đào tạo nghề là lựa chọn tốt cho học sinh thích công việc thực hành."
-  ],
-  [
-   "acquire knowledge",
-   "/əˈkwaɪə(r) ˈnɒlɪdʒ/ · v phr",
-   "tiếp thu kiến thức",
-   "Children acquire knowledge more quickly when they are curious.",
-   "Trẻ em tiếp thu kiến thức nhanh hơn khi chúng tò mò."
-  ],
-  [
-   "enrol (enroll)",
-   "/ɪnˈrəʊl/ · v",
-   "đăng ký học, ghi danh",
-   "Thousands of students enrol in online courses every year.",
-   "Hàng nghìn sinh viên đăng ký các khóa học trực tuyến mỗi năm."
-  ],
-  [
-   "drop out",
-   "/drɒp aʊt/ · phr v (+ of)",
-   "bỏ học",
-   "Some teenagers drop out of school to support their families.",
-   "Một số thiếu niên bỏ học để phụ giúp gia đình."
-  ],
-  [
-   "tertiary education",
-   "/ˈtɜːʃəri ˌedʒuˈkeɪʃn/ · n",
-   "giáo dục bậc cao (đại học, cao đẳng)",
-   "Access to tertiary education has increased in recent years.",
-   "Cơ hội học đại học, cao đẳng đã tăng lên trong những năm gần đây."
-  ],
-  [
-   "rote learning",
-   "/ˌrəʊt ˈlɜːnɪŋ/ · n",
-   "học vẹt",
-   "Rote learning does not encourage creativity.",
-   "Học vẹt không khuyến khích sự sáng tạo."
-  ],
-  [
-   "scholarship",
-   "/ˈskɒləʃɪp/ · n",
-   "học bổng",
-   "She was awarded a full scholarship to study in Australia.",
-   "Cô ấy nhận được học bổng toàn phần để du học Úc."
-  ],
-  [
-   "well-rounded",
-   "/ˌwel ˈraʊndɪd/ · adj",
-   "phát triển toàn diện",
-   "Parents want their children to become well-rounded individuals.",
-   "Cha mẹ muốn con mình trở thành người phát triển toàn diện."
-  ],
-  [
-   "peer pressure",
-   "/ˈpɪə preʃə(r)/ · n",
-   "áp lực từ bạn bè đồng trang lứa",
-   "Peer pressure can push students to study harder or to behave badly.",
-   "Áp lực bạn bè có thể khiến học sinh học chăm hơn hoặc cư xử tệ đi."
+   "Excessive screen time may have a negative impact on students' academic performance.",
+   "Dùng màn hình quá nhiều có thể ảnh hưởng xấu đến kết quả học tập của học sinh."
   ],
   [
    "hands-on experience",
    "/ˌhændz ˈɒn ɪkˈspɪəriəns/ · n",
    "kinh nghiệm thực tế",
-   "Internships give students valuable hands-on experience.",
-   "Thực tập mang lại cho sinh viên kinh nghiệm thực tế quý giá."
+   "Internships give students valuable hands-on experience before they graduate.",
+   "Thực tập mang lại cho sinh viên kinh nghiệm thực tế quý giá trước khi tốt nghiệp."
   ],
   [
-   "motivate",
-   "/ˈməʊtɪveɪt/ · v",
-   "tạo động lực",
-   "Good teachers know how to motivate their students.",
-   "Giáo viên giỏi biết cách tạo động lực cho học sinh."
+   "soft skills",
+   "/ˈsɒft skɪlz/ · n",
+   "kỹ năng mềm",
+   "Group projects help learners develop soft skills such as teamwork and communication.",
+   "Dự án nhóm giúp người học phát triển kỹ năng mềm như làm việc nhóm và giao tiếp."
   ],
   [
-   "assess",
-   "/əˈses/ · v",
-   "đánh giá",
-   "Teachers assess students through both tests and projects.",
-   "Giáo viên đánh giá học sinh qua cả bài kiểm tra lẫn dự án."
+   "critical thinking",
+   "/ˌkrɪtɪkl ˈθɪŋkɪŋ/ · n",
+   "tư duy phản biện",
+   "Discussion-based lessons encourage critical thinking rather than memorisation.",
+   "Các tiết học dựa trên thảo luận khuyến khích tư duy phản biện thay vì học thuộc."
   ],
   [
-   "meet the requirements",
-   "/miːt ðə rɪˈkwaɪəmənts/ · v phr",
-   "đáp ứng yêu cầu",
-   "Applicants must meet the requirements of the programme.",
-   "Ứng viên phải đáp ứng các yêu cầu của chương trình."
+   "rote learning",
+   "/ˌrəʊt ˈlɜːnɪŋ/ · n",
+   "học vẹt",
+   "Rote learning does little to improve students' real understanding of a subject.",
+   "Học vẹt hầu như không giúp học sinh hiểu thật sự một môn học."
+  ],
+  [
+   "tuition fees",
+   "/tjuˈɪʃn fiːz/ · n",
+   "học phí",
+   "Rising tuition fees prevent many talented students from attending university.",
+   "Học phí tăng cao khiến nhiều sinh viên giỏi không thể vào đại học."
+  ],
+  [
+   "extracurricular activities",
+   "/ˌekstrəkəˈrɪkjələr ækˈtɪvətiz/ · n",
+   "hoạt động ngoại khóa",
+   "Extracurricular activities allow students to broaden their horizons.",
+   "Hoạt động ngoại khóa giúp học sinh mở rộng tầm nhìn."
+  ],
+  [
+   "distance learning",
+   "/ˈdɪstəns ˈlɜːnɪŋ/ · n",
+   "học từ xa, học trực tuyến",
+   "Distance learning enables working adults to study at their own pace.",
+   "Học từ xa giúp người đi làm học theo tốc độ của riêng mình."
+  ],
+  [
+   "face-to-face interaction",
+   "/ˌfeɪs tə ˈfeɪs ˌɪntərˈækʃn/ · n",
+   "tương tác trực tiếp",
+   "Online courses often lack the face-to-face interaction of traditional classrooms.",
+   "Các khóa học trực tuyến thường thiếu sự tương tác trực tiếp của lớp học truyền thống."
+  ],
+  [
+   "exam pressure",
+   "/ɪɡˈzæm ˈpreʃə/ · n",
+   "áp lực thi cử",
+   "Heavy exam pressure can lead to stress and anxiety among teenagers.",
+   "Áp lực thi cử nặng nề có thể gây căng thẳng và lo âu ở thanh thiếu niên."
+  ],
+  [
+   "drop out (of school)",
+   "/drɒp ˈaʊt/ · phr v",
+   "bỏ học",
+   "Financial difficulties force some students to drop out of school.",
+   "Khó khăn tài chính buộc một số học sinh phải bỏ học."
+  ],
+  [
+   "equip sb with sth",
+   "/ɪˈkwɪp/ · v",
+   "trang bị cho ai cái gì",
+   "Schools should equip students with practical skills for the job market.",
+   "Nhà trường nên trang bị cho học sinh những kỹ năng thực tế cho thị trường việc làm."
   ],
   [
    "lifelong learning",
    "/ˌlaɪflɒŋ ˈlɜːnɪŋ/ · n",
    "học tập suốt đời",
-   "Lifelong learning is essential in a fast-changing world.",
-   "Học tập suốt đời là điều thiết yếu trong một thế giới thay đổi nhanh."
+   "In a fast-changing world, lifelong learning has become essential.",
+   "Trong một thế giới thay đổi nhanh, học tập suốt đời đã trở nên thiết yếu."
   ],
   [
-   "qualification",
-   "/ˌkwɒlɪfɪˈkeɪʃn/ · n",
-   "bằng cấp, chứng chỉ",
-   "A B2 certificate is a useful qualification for many jobs.",
-   "Chứng chỉ B2 là bằng cấp hữu ích cho nhiều công việc."
-  ],
-  [
-   "self-discipline",
-   "/ˌself ˈdɪsəplɪn/ · n",
-   "tính tự giác, kỷ luật bản thân",
-   "Online learning requires a great deal of self-discipline.",
-   "Học trực tuyến đòi hỏi rất nhiều sự tự giác."
-  ],
-  [
-   "be equipped with",
-   "/bi ɪˈkwɪpt wɪð/ · v phr",
-   "được trang bị (kiến thức, kỹ năng)",
-   "Graduates should be equipped with skills that employers need.",
-   "Sinh viên tốt nghiệp nên được trang bị những kỹ năng mà nhà tuyển dụng cần."
-  ],
-  [
-   "widen the gap",
-   "/ˈwaɪdn ðə ɡæp/ · v phr",
-   "nới rộng khoảng cách",
-   "Expensive private tutoring may widen the gap between rich and poor students.",
-   "Học thêm đắt đỏ có thể nới rộng khoảng cách giữa học sinh giàu và nghèo."
+   "well-rounded",
+   "/ˌwel ˈraʊndɪd/ · adj",
+   "phát triển toàn diện",
+   "The main goal of education should be to produce well-rounded individuals.",
+   "Mục tiêu chính của giáo dục nên là tạo ra những con người phát triển toàn diện."
   ]
  ],
  "patterns": [
   {
-   "form": "Present perfect vs Past simple",
-   "meaning": "Present perfect (have/has + V3) nói về trải nghiệm hoặc việc còn liên quan đến hiện tại, KHÔNG có mốc thời gian cụ thể; đi với ever, never, already, yet, just, so far, since, for. Past simple (V2/V-ed) dùng khi có mốc thời gian đã kết thúc: yesterday, last year, in 2020, ago. Lỗi hay gặp: 'I have graduated in 2020' → phải là 'I graduated in 2020'.",
+   "form": "Các thì hiện tại",
+   "meaning": "Hiện tại đơn S + V(s/es): thói quen, sự thật (often, usually, every day). Hiện tại tiếp diễn S + am/is/are + V-ing: đang xảy ra (now, at the moment, at present). Hiện tại hoàn thành S + have/has + V3: trải nghiệm, kết quả còn đến hiện tại (already, yet, since, for). HTHT tiếp diễn S + have/has been + V-ing: nhấn mạnh quá trình kéo dài đến bây giờ.",
    "examples": [
-    "I have studied English for ten years. — Tôi đã học tiếng Anh được mười năm (và vẫn đang học).",
-    "I started learning English in 2016. — Tôi bắt đầu học tiếng Anh vào năm 2016.",
-    "Have you ever taken a VSTEP test? — Bạn đã bao giờ thi VSTEP chưa?",
-    "She graduated from university two years ago. — Cô ấy tốt nghiệp đại học hai năm trước."
+    "Students usually acquire knowledge from textbooks. — Học sinh thường tiếp thu kiến thức từ sách giáo khoa.",
+    "At the moment, my sister is preparing for her final exams. — Lúc này chị tôi đang ôn thi cuối kỳ.",
+    "Tuition fees have risen sharply since 2020. — Học phí đã tăng mạnh kể từ năm 2020.",
+    "I have been learning English for ten years. — Tôi đã học tiếng Anh được mười năm."
    ]
   },
   {
-   "form": "Present perfect continuous: have/has been + V-ing",
-   "meaning": "Nhấn mạnh quá trình kéo dài từ quá khứ đến hiện tại (thường vẫn đang tiếp diễn), hoặc giải thích kết quả nhìn thấy được bây giờ. Hay đi với for/since/all day/lately. Không dùng với động từ trạng thái (know, believe, own…).",
+   "form": "Các thì quá khứ",
+   "meaning": "Quá khứ đơn S + V2/V-ed: việc đã kết thúc, có mốc thời gian (yesterday, last year, ago). Quá khứ tiếp diễn S + was/were + V-ing: đang xảy ra tại một thời điểm trong quá khứ, hay đi với when/while. Quá khứ hoàn thành S + had + V3: việc xảy ra TRƯỚC một việc khác trong quá khứ.",
    "examples": [
-    "I have been preparing for the exam since September. — Tôi đã ôn thi từ tháng Chín (đến giờ vẫn ôn).",
-    "She looks tired because she has been studying all night. — Cô ấy trông mệt vì đã học suốt đêm.",
-    "How long have you been learning English? — Bạn học tiếng Anh được bao lâu rồi?"
+    "She dropped out of school two years ago. — Cô ấy bỏ học cách đây hai năm.",
+    "I was doing my homework when the teacher called. — Tôi đang làm bài tập thì cô giáo gọi.",
+    "Before I came home, my mom had cooked dinner. — Trước khi tôi về nhà, mẹ đã nấu xong bữa tối.",
+    "By the time he enrolled, the course had already started. — Lúc anh ấy đăng ký thì khóa học đã bắt đầu rồi."
    ]
   },
   {
-   "form": "used to V / be used to V-ing / get used to V-ing",
-   "meaning": "used to + V: thói quen trong quá khứ, nay không còn. be used to + V-ing/N: đã quen với. get used to + V-ing/N: dần quen với. Sau be/get used to là V-ING, không phải V nguyên mẫu.",
+   "form": "Các thì tương lai",
+   "meaning": "Tương lai đơn S + will + V: quyết định tức thời, dự đoán, lời hứa. Tương lai gần S + am/is/are going to + V: dự định đã có kế hoạch, hoặc dự đoán có dấu hiệu. Tương lai hoàn thành S + will have + V3: việc sẽ HOÀN THÀNH trước một mốc tương lai (by + thời gian).",
    "examples": [
-    "I used to hate English at school. — Hồi đi học tôi từng ghét tiếng Anh.",
-    "Students in Vietnam are used to taking many exams. — Học sinh Việt Nam đã quen với việc thi cử nhiều.",
-    "It took me a month to get used to studying online. — Tôi mất một tháng để quen với việc học trực tuyến."
+    "I think online learning will become more popular. — Tôi nghĩ học trực tuyến sẽ phổ biến hơn.",
+    "We are going to take the VSTEP test next month. — Chúng tôi định thi VSTEP vào tháng sau.",
+    "I will have finished my university by June next year. — Đến tháng Sáu năm sau tôi sẽ học xong đại học."
    ]
   }
  ],
@@ -216,168 +148,160 @@
   {
    "type": "choice",
    "q": "Chọn thì đúng",
-   "en": "I ___ my degree in 2022.",
+   "en": "Look! The students ___ in the library.",
    "options": [
-    "have finished",
-    "finished",
-    "have been finishing",
-    "had been finishing"
+    "are studying",
+    "study",
+    "studied",
+    "have studied"
    ],
-   "answer": "finished",
-   "explain": "Có mốc thời gian đã kết thúc (in 2022) → quá khứ đơn."
+   "answer": "are studying",
+   "explain": "Look! → việc đang xảy ra → hiện tại tiếp diễn."
   },
   {
    "type": "choice",
    "q": "Chọn thì đúng",
-   "en": "She ___ in this school since 2019.",
+   "en": "Tuition fees ___ every year since 2018.",
    "options": [
-    "teaches",
-    "taught",
-    "has taught",
-    "is teaching"
+    "rise",
+    "rose",
+    "have risen",
+    "are rising"
    ],
-   "answer": "has taught",
+   "answer": "have risen",
    "explain": "since + mốc thời gian → hiện tại hoàn thành."
   },
   {
    "type": "choice",
    "q": "Chọn thì đúng",
-   "en": "Look at your eyes! You ___ on your laptop all day.",
+   "en": "I ___ my degree in 2023.",
    "options": [
-    "have been working",
-    "worked",
-    "have worked",
-    "were worked"
+    "have finished",
+    "finished",
+    "had finished",
+    "will finish"
    ],
-   "answer": "have been working",
-   "explain": "Kết quả nhìn thấy bây giờ + all day → hiện tại hoàn thành tiếp diễn."
+   "answer": "finished",
+   "explain": "Có mốc thời gian đã qua (in 2023) → quá khứ đơn."
   },
   {
    "type": "choice",
-   "q": "Chọn đáp án đúng",
-   "en": "When I was a child, I ___ go to school by bike.",
+   "q": "Chọn thì đúng",
+   "en": "When I arrived, the lesson ___.",
    "options": [
-    "used to",
-    "am used to",
-    "got used to",
-    "use to"
+    "had already started",
+    "already starts",
+    "has already started",
+    "will start"
    ],
-   "answer": "used to",
-   "explain": "Thói quen trong quá khứ nay không còn → used to + V."
+   "answer": "had already started",
+   "explain": "Việc bắt đầu TRƯỚC khi tôi đến → quá khứ hoàn thành."
   },
   {
    "type": "choice",
-   "q": "Chọn đáp án đúng",
-   "en": "International students soon get used to ___ in English.",
+   "q": "Chọn thì đúng",
+   "en": "By June next year, I ___ all my exams.",
    "options": [
-    "study",
-    "studying",
-    "studied",
-    "be studying"
+    "finish",
+    "am finishing",
+    "will have finished",
+    "had finished"
    ],
-   "answer": "studying",
-   "explain": "get used to + V-ing."
+   "answer": "will have finished",
+   "explain": "by + mốc tương lai → tương lai hoàn thành."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn thì đúng",
+   "en": "She ___ English for six years and she still enjoys it.",
+   "options": [
+    "has been learning",
+    "learnt",
+    "was learning",
+    "had learnt"
+   ],
+   "answer": "has been learning",
+   "explain": "Quá trình kéo dài đến hiện tại và vẫn tiếp tục → HTHT tiếp diễn."
   },
   {
    "type": "choice",
    "q": "Chọn từ đúng",
-   "en": "Online courses require a lot of ___ because nobody checks on you.",
+   "en": "Online courses often lack the ___ of traditional classrooms.",
    "options": [
-    "self-discipline",
-    "peer pressure",
+    "face-to-face interaction",
+    "rote learning",
     "tuition fees",
-    "curriculum"
+    "exam pressure"
    ],
-   "answer": "self-discipline",
-   "explain": "Không ai kiểm tra → cần tính tự giác."
+   "answer": "face-to-face interaction",
+   "explain": "Học online thiếu tương tác trực tiếp."
   },
   {
    "type": "choice",
    "q": "Chọn từ đúng",
-   "en": "Many students ___ out of university because of financial problems.",
+   "en": "Schools should ___ students with practical skills for the job market.",
    "options": [
+    "equip",
+    "acquire",
     "drop",
-    "give",
-    "take",
-    "fall"
+    "develop"
    ],
-   "answer": "drop",
-   "explain": "drop out (of) = bỏ học."
-  },
-  {
-   "type": "choice",
-   "q": "Chọn collocation đúng",
-   "en": "Schools should help students ___ critical thinking skills.",
-   "options": [
-    "develop",
-    "make",
-    "do",
-    "take"
-   ],
-   "answer": "develop",
-   "explain": "develop skills là collocation chuẩn."
+   "answer": "equip",
+   "explain": "equip sb with sth = trang bị cho ai cái gì."
   },
   {
    "type": "fill",
    "q": "Điền dạng đúng của động từ trong ngoặc",
-   "en": "Have you ever ___ (apply) for a scholarship?",
+   "en": "I ___ (do) my homework when the power went off.",
    "answer": [
-    "applied"
+    "was doing"
    ],
-   "explain": "Have you ever + V3 (applied)."
-  },
-  {
-   "type": "fill",
-   "q": "Điền 1 từ",
-   "en": "I have been learning English ___ five years.",
-   "answer": [
-    "for"
-   ],
-   "explain": "for + khoảng thời gian; since + mốc thời gian."
-  },
-  {
-   "type": "fill",
-   "q": "Điền 1 từ",
-   "en": "Applicants must ___ the requirements of the course.",
-   "answer": [
-    "meet"
-   ],
-   "explain": "meet the requirements = đáp ứng yêu cầu."
-  },
-  {
-   "type": "fill",
-   "q": "Điền dạng đúng của từ trong ngoặc",
-   "en": "Lack of sleep can affect students' ___ performance. (academy)",
-   "answer": [
-    "academic"
-   ],
-   "explain": "Cần tính từ trước danh từ performance → academic."
+   "explain": "Hành động đang diễn ra thì bị cắt ngang → quá khứ tiếp diễn."
   },
   {
    "type": "fill",
    "q": "Điền dạng đúng của động từ",
-   "en": "She isn't used to ___ (wake) up early.",
+   "en": "We ___ (take) the VSTEP test next month. We have already registered.",
    "answer": [
-    "waking"
+    "are going to take",
+    "are taking"
    ],
-   "explain": "be used to + V-ing."
+   "explain": "Dự định đã có kế hoạch → be going to (hoặc hiện tại tiếp diễn cho lịch đã sắp xếp)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Discussion-based lessons encourage ___ thinking.",
+   "answer": [
+    "critical"
+   ],
+   "explain": "critical thinking = tư duy phản biện."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Financial problems force some students to drop ___ of school.",
+   "answer": [
+    "out"
+   ],
+   "explain": "drop out of school = bỏ học."
   },
   {
    "type": "order",
    "q": "Sắp xếp thành câu đúng",
    "tokens": [
-    "She",
-    "has",
-    "been",
-    "preparing",
-    "for",
-    "the",
-    "exam",
-    "since",
-    "September."
+    "Before",
+    "I",
+    "came",
+    "home,",
+    "my",
+    "mom",
+    "had",
+    "cooked",
+    "dinner."
    ],
-   "answer": "She has been preparing for the exam since September.",
-   "explain": "Hiện tại hoàn thành tiếp diễn: S + has been + V-ing + since + mốc."
+   "answer": "Before I came home, my mom had cooked dinner.",
+   "explain": "Quá khứ hoàn thành cho việc xảy ra trước (nấu cơm) việc khác (tôi về nhà)."
   },
   {
    "type": "order",
@@ -385,171 +309,138 @@
    "tokens": [
     "Extracurricular",
     "activities",
-    "help",
+    "allow",
     "students",
-    "become",
-    "well-rounded."
-   ],
-   "answer": "Extracurricular activities help students become well-rounded.",
-   "explain": "help + O + V (nguyên mẫu)."
-  },
-  {
-   "type": "order",
-   "q": "Sắp xếp thành câu đúng",
-   "tokens": [
-    "I",
-    "used",
     "to",
-    "hate",
-    "English",
-    "at",
-    "school."
+    "broaden",
+    "their",
+    "horizons."
    ],
-   "answer": "I used to hate English at school.",
-   "explain": "used to + V: từng (nay không còn)."
+   "answer": "Extracurricular activities allow students to broaden their horizons.",
+   "explain": "allow + O + to V."
   },
   {
    "type": "translate",
-   "q": "Dịch sang tiếng Anh: Tôi đã học tiếng Anh được 10 năm.",
+   "q": "Dịch sang tiếng Anh: Tôi đã học tiếng Anh được mười năm.",
    "answer": [
-    "I have studied English for 10 years.",
-    "I have been studying English for 10 years.",
-    "I have learned English for 10 years.",
-    "I have been learning English for 10 years.",
     "I have studied English for ten years.",
     "I have been studying English for ten years.",
-    "I have learnt English for 10 years.",
-    "I have been learning English for ten years."
+    "I have learned English for ten years.",
+    "I have been learning English for ten years.",
+    "I have learnt English for ten years.",
+    "I have studied English for 10 years.",
+    "I have been learning English for 10 years.",
+    "I have been studying English for 10 years."
    ],
    "explain": "Kéo dài đến hiện tại → have studied / have been studying + for."
   },
   {
    "type": "translate",
-   "q": "Dịch sang tiếng Anh: Cô ấy nhận được học bổng toàn phần năm ngoái.",
+   "q": "Dịch sang tiếng Anh: Học vẹt không giúp học sinh hiểu bài.",
    "answer": [
-    "She received a full scholarship last year.",
-    "She was awarded a full scholarship last year.",
-    "She got a full scholarship last year.",
-    "She won a full scholarship last year."
-   ],
-   "explain": "last year → quá khứ đơn; full scholarship = học bổng toàn phần."
-  },
-  {
-   "type": "translate",
-   "q": "Dịch sang tiếng Anh: Học vẹt không khuyến khích sự sáng tạo.",
-   "answer": [
-    "Rote learning does not encourage creativity.",
-    "Rote learning doesn't encourage creativity.",
-    "Rote learning does not promote creativity.",
-    "Rote learning discourages creativity."
+    "Rote learning does not help students understand the lesson.",
+    "Rote learning doesn't help students understand the lesson.",
+    "Rote learning does not help students understand lessons."
    ],
    "explain": "rote learning là danh từ không đếm được → does not."
   },
   {
    "type": "vi",
    "q": "Dịch sang tiếng Việt",
-   "en": "Lifelong learning is essential in a fast-changing world.",
-   "answer": "Học tập suốt đời là điều thiết yếu trong một thế giới thay đổi nhanh chóng.",
-   "explain": "essential = thiết yếu; fast-changing = thay đổi nhanh."
-  },
-  {
-   "type": "vi",
-   "q": "Dịch sang tiếng Việt",
-   "en": "Expensive private tutoring may widen the gap between rich and poor students.",
-   "answer": "Học thêm đắt đỏ có thể nới rộng khoảng cách giữa học sinh giàu và nghèo.",
-   "explain": "private tutoring = học thêm, gia sư; widen the gap = nới rộng khoảng cách."
+   "en": "Rising tuition fees prevent many talented students from attending university.",
+   "answer": "Học phí tăng cao khiến nhiều sinh viên giỏi không thể vào đại học.",
+   "explain": "prevent sb from V-ing = ngăn ai làm gì."
   },
   {
    "type": "read",
    "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất cho chỗ trống",
-   "en": "In many countries, the number of students taking online courses has risen sharply over the past decade. Supporters argue that distance learning allows people to study at their own pace and saves them the cost of travelling. However, critics point out that online learners often feel isolated, and many of them ( ___ ) before the course ends. Studies have shown that students who lack self-discipline find it particularly difficult to complete online programmes.",
+   "en": "Over the past decade, distance learning has changed the way many Vietnamese adults study. In the past, people who had full-time jobs found it almost impossible to attend university. Today, they can follow lectures in the evening and study at their own pace. However, distance learning is not perfect. Many learners say they miss the face-to-face interaction of traditional classrooms, and some of them ( ___ ) before they finish the course because they lack motivation.",
    "options": [
     "drop out",
     "enrol",
     "graduate early",
-    "meet the requirements"
+    "acquire knowledge"
    ],
    "answer": "drop out",
-   "explain": "Ngữ cảnh 'trước khi khóa học kết thúc' + 'khó hoàn thành' → bỏ học giữa chừng (drop out)."
+   "explain": "'trước khi học xong' + 'thiếu động lực' → bỏ học giữa chừng (drop out)."
   },
   {
    "type": "read",
    "q": "[Đọc hiểu – ý chính] Đoạn văn chủ yếu nói về điều gì?",
-   "en": "In many countries, the number of students taking online courses has risen sharply over the past decade. Supporters argue that distance learning allows people to study at their own pace and saves them the cost of travelling. However, critics point out that online learners often feel isolated, and many of them drop out before the course ends. Studies have shown that students who lack self-discipline find it particularly difficult to complete online programmes.",
+   "en": "Over the past decade, distance learning has changed the way many Vietnamese adults study. In the past, people who had full-time jobs found it almost impossible to attend university. Today, they can follow lectures in the evening and study at their own pace. However, distance learning is not perfect. Many learners say they miss the face-to-face interaction of traditional classrooms, and some of them ( ___ ) before they finish the course because they lack motivation.",
    "options": [
-    "Ưu và nhược điểm của học trực tuyến",
-    "Cách tiết kiệm chi phí đi lại",
-    "Lý do học sinh thích học ở trường",
-    "Cách viết một khóa học trực tuyến"
+    "Lợi ích và hạn chế của học từ xa",
+    "Cách thi đại học",
+    "Lý do người lớn không thích học",
+    "Lịch học buổi tối"
    ],
-   "answer": "Ưu và nhược điểm của học trực tuyến",
-   "explain": "Đoạn văn nêu cả ý của người ủng hộ (Supporters argue…) và người phản đối (critics point out…)."
+   "answer": "Lợi ích và hạn chế của học từ xa",
+   "explain": "Đoạn văn nêu cả mặt lợi (study at their own pace) và hạn chế (not perfect…)."
   },
   {
    "type": "read",
-   "q": "[Đọc hiểu – chi tiết] Theo đoạn văn, vì sao kết quả học tập của Minh đi xuống ở học kỳ đầu?",
-   "en": "When Minh started university, he was not used to managing his own time. At high school, his teachers had always told him exactly what to study. In his first semester, he spent too much time on extracurricular activities and his academic performance suffered. After talking to his tutor, he began to plan his week carefully. By the end of the year, he had become a much more independent learner.",
+   "q": "[Đọc hiểu – chi tiết] Hồi cấp ba, Lan học như thế nào?",
+   "en": "When Lan was at high school, she relied heavily on rote learning. She memorised whole pages of her textbooks the night before each test. Her grades were high, but she had not really understood the subjects. At university, her lecturers asked her to discuss ideas and solve real problems, and she struggled at first. Joining extracurricular activities, such as the debate club, helped her develop critical thinking and soft skills. By the end of her first year, she had become a much more confident student.",
    "options": [
-    "Cậu ấy dành quá nhiều thời gian cho hoạt động ngoại khóa",
-    "Cậu ấy không thích giáo viên",
-    "Cậu ấy phải đi làm thêm",
-    "Cậu ấy bị ốm"
+    "Học thuộc lòng trước mỗi bài kiểm tra",
+    "Tham gia câu lạc bộ tranh biện",
+    "Thảo luận và giải quyết vấn đề",
+    "Học trực tuyến"
    ],
-   "answer": "Cậu ấy dành quá nhiều thời gian cho hoạt động ngoại khóa",
-   "explain": "Câu 3: 'he spent too much time on extracurricular activities and his academic performance suffered'."
+   "answer": "Học thuộc lòng trước mỗi bài kiểm tra",
+   "explain": "Câu 1–2: relied heavily on rote learning, memorised whole pages."
   },
   {
    "type": "read",
-   "q": "[Đọc hiểu – từ vựng trong ngữ cảnh] Từ 'suffered' trong đoạn văn gần nghĩa nhất với:",
-   "en": "When Minh started university, he was not used to managing his own time. At high school, his teachers had always told him exactly what to study. In his first semester, he spent too much time on extracurricular activities and his academic performance suffered. After talking to his tutor, he began to plan his week carefully. By the end of the year, he had become a much more independent learner.",
+   "q": "[Đọc hiểu – từ vựng] Từ 'struggled' gần nghĩa nhất với:",
+   "en": "When Lan was at high school, she relied heavily on rote learning. She memorised whole pages of her textbooks the night before each test. Her grades were high, but she had not really understood the subjects. At university, her lecturers asked her to discuss ideas and solve real problems, and she struggled at first. Joining extracurricular activities, such as the debate club, helped her develop critical thinking and soft skills. By the end of her first year, she had become a much more confident student.",
    "options": [
-    "got worse",
-    "improved",
-    "stayed the same",
-    "was measured"
+    "found it difficult",
+    "enjoyed it",
+    "gave up",
+    "succeeded"
    ],
-   "answer": "got worse",
-   "explain": "performance suffered = kết quả bị ảnh hưởng xấu, đi xuống → got worse."
+   "answer": "found it difficult",
+   "explain": "struggle = gặp khó khăn, chật vật."
   },
   {
    "type": "read",
-   "q": "[Đọc hiểu – suy luận] Có thể suy ra điều gì về Minh?",
-   "en": "When Minh started university, he was not used to managing his own time. At high school, his teachers had always told him exactly what to study. In his first semester, he spent too much time on extracurricular activities and his academic performance suffered. After talking to his tutor, he began to plan his week carefully. By the end of the year, he had become a much more independent learner.",
+   "q": "[Đọc hiểu – suy luận] Điều gì giúp Lan tự tin hơn?",
+   "en": "When Lan was at high school, she relied heavily on rote learning. She memorised whole pages of her textbooks the night before each test. Her grades were high, but she had not really understood the subjects. At university, her lecturers asked her to discuss ideas and solve real problems, and she struggled at first. Joining extracurricular activities, such as the debate club, helped her develop critical thinking and soft skills. By the end of her first year, she had become a much more confident student.",
    "options": [
-    "Cậu ấy đã học được cách tự quản lý việc học",
-    "Cậu ấy đã bỏ học",
-    "Cậu ấy vẫn chưa quen với đại học",
-    "Cậu ấy không cần sự giúp đỡ của ai"
+    "Hoạt động ngoại khóa phát triển tư duy phản biện và kỹ năng mềm",
+    "Điểm cao ở cấp ba",
+    "Học vẹt chăm chỉ hơn",
+    "Giảng viên cho bài dễ hơn"
    ],
-   "answer": "Cậu ấy đã học được cách tự quản lý việc học",
-   "explain": "Câu cuối: 'he had become a much more independent learner'."
+   "answer": "Hoạt động ngoại khóa phát triển tư duy phản biện và kỹ năng mềm",
+   "explain": "Câu 5–6: debate club helped her develop critical thinking and soft skills."
   }
  ],
  "writing": {
-  "task": 1,
-  "title": "Thư phàn nàn về khóa học trực tuyến",
-  "words": 120,
-  "minutes": 20,
-  "prompt": "You recently enrolled in an online English course, but you have had several problems with it.\nWrite an email to the course manager. In your email:\n• explain when and why you enrolled in the course\n• describe the problems you have had\n• say what you would like the manager to do.\nYou should write at least 120 words. You do not need to include your name or address.",
+  "task": 2,
+  "title": "Opinion essay: Học đại học có nên miễn phí?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people think that university education should be free for everyone.\nDo you agree or disagree? Give reasons and relevant examples to support your opinion.\nYou should write at least 250 words.",
   "outline": [
-   "Dear Sir or Madam, → câu mục đích: I am writing to complain about…",
-   "Đoạn 1: đăng ký khi nào, vì sao (dùng present perfect / past simple đúng chỗ)",
-   "Đoạn 2: 2–3 vấn đề cụ thể (video lỗi, giáo viên không trả lời, tài liệu thiếu…)",
-   "Đoạn 3: yêu cầu cụ thể (hoàn tiền một phần, gia hạn khóa học…)",
-   "I look forward to hearing from you. / Yours faithfully,"
+   "Mở bài: paraphrase đề (In recent years, the question of whether…) + thesis (Personally, I strongly agree…)",
+   "Thân 1: lý do 1 – cơ hội công bằng (P–E–E: câu chủ đề, giải thích, ví dụ Việt Nam)",
+   "Thân 2: lý do 2 – lợi ích cho xã hội (lực lượng lao động có trình độ)",
+   "Nhượng bộ ngắn: Admittedly, some people argue that… However, …",
+   "Kết bài: In conclusion, I firmly believe that… (tóm 2 lý do, không thêm ý mới)"
   ],
   "phrases": [
-   "I am writing to express my dissatisfaction with… — Tôi viết thư để bày tỏ sự không hài lòng về…",
-   "I enrolled in the course in order to… — Tôi đăng ký khóa học để…",
-   "To make matters worse, … — Tệ hơn nữa, …",
-   "I would be grateful if you could… — Tôi sẽ rất biết ơn nếu ông/bà có thể…",
-   "I look forward to your prompt reply. — Tôi mong sớm nhận được hồi âm."
+   "In recent years, the question of whether … has become a controversial issue. — Những năm gần đây, câu hỏi liệu … đã trở thành vấn đề gây tranh cãi.",
+   "First and foremost, … — Trước hết và quan trọng nhất, …",
+   "This means that talented students from poor families … — Điều này có nghĩa là sinh viên giỏi từ gia đình nghèo …",
+   "Admittedly, some people argue that … However, … — Phải thừa nhận rằng một số người cho rằng … Tuy nhiên, …",
+   "In conclusion, I firmly believe that … — Tóm lại, tôi tin chắc rằng …"
   ]
  },
  "speaking": {
   "part": 1,
   "title": "Social interaction: studies & learning English",
-  "minutes": 3,
   "prompt": "Let's talk about your studies. Then let's talk about learning English.",
   "questions": [
    "What do you study, or what did you study at university?",
@@ -560,12 +451,13 @@
    "Do you think English should be compulsory in primary schools? Why?"
   ],
   "ideas": [
-   "Actually, I'm currently studying… / I majored in…",
-   "What I like most is that…",
+   "Actually, I majored in …",
+   "What I like most is that …",
    "I've been learning English since I was in grade 3.",
-   "To be honest, the most challenging part is…",
-   "I strongly believe that… because…"
-  ]
+   "To be honest, the most challenging part is …",
+   "I strongly believe that … because …"
+  ],
+  "minutes": 3
  },
  "corner": {
   "quote": {
@@ -577,8 +469,8 @@
    "rule": "Đọc /ɪd/ sau âm /t/, /d/. Đọc /t/ sau âm vô thanh /p, k, f, s, ʃ, tʃ/. Còn lại đọc /d/.",
    "examples": [
     "enrolled → /d/",
-    "assessed → /t/",
-    "motivated → /ɪd/"
+    "finished → /t/",
+    "started → /ɪd/"
    ]
   },
   "phrases": [
@@ -595,8 +487,8 @@
     "theo quan điểm của tôi"
    ]
   ],
-  "mistake": "Hay viết 'I have graduated university in 2020'. Có mốc thời gian (in 2020) thì phải dùng quá khứ đơn, và graduate cần 'from': I graduated from university in 2020.",
+  "mistake": "Hay viết 'I have graduated university in 2020'. Có mốc thời gian thì dùng quá khứ đơn, và graduate cần 'from': I graduated from university in 2020.",
   "tip": "Bài thi VSTEP.3-5 có 4 kỹ năng: Nghe khoảng 40 phút (35 câu), Đọc 60 phút (40 câu), Viết 60 phút (2 task), Nói khoảng 12 phút (3 phần). Đạt trung bình 6.0–8.0 là B2.",
-  "diary": "Bạn đã học tiếng Anh bao lâu rồi? Hồi nhỏ bạn từng học thế nào (used to), và bây giờ bạn đã quen với cách học nào? Viết 3–5 câu."
+  "diary": "Kể về việc học của bạn: hồi trước bạn học thế nào (quá khứ đơn), bạn đã học tiếng Anh bao lâu (hiện tại hoàn thành), và đến năm sau bạn sẽ làm được gì (will have V3)."
  }
 }

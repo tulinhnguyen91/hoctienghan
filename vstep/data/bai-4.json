@@ -1,0 +1,465 @@
+{
+ "id": "bai-4",
+ "lesson": "Bài 4",
+ "day": null,
+ "date": "2026-11-14",
+ "title": "Sức khỏe & lối sống",
+ "enTitle": "Health & Lifestyle",
+ "past": true,
+ "words": [
+  [
+   "sedentary lifestyle",
+   "/ˈsedntri ˈlaɪfstaɪl/ · n",
+   "lối sống ít vận động",
+   "A sedentary lifestyle, combined with long hours in front of screens, increases the risk of heart disease.",
+   "Lối sống ít vận động cùng nhiều giờ trước màn hình làm tăng nguy cơ bệnh tim."
+  ],
+  [
+   "lead a healthy lifestyle",
+   "/liːd ə ˈhelθi ˈlaɪfstaɪl/ · v phr",
+   "sống lành mạnh",
+   "People who lead a healthy lifestyle tend to be more productive at work and less likely to fall ill.",
+   "Người sống lành mạnh thường làm việc hiệu quả hơn và ít ốm hơn."
+  ],
+  [
+   "a balanced diet",
+   "/ˈbælənst ˈdaɪət/ · n",
+   "chế độ ăn uống cân bằng",
+   "Parents should ensure that their children eat a balanced diet rich in fruit, vegetables and whole grains.",
+   "Cha mẹ nên đảm bảo con ăn uống cân bằng, nhiều trái cây, rau và ngũ cốc nguyên hạt."
+  ],
+  [
+   "junk food",
+   "/ˈdʒʌŋk fuːd/ · n",
+   "đồ ăn vặt, đồ ăn nhanh kém dinh dưỡng",
+   "The government should restrict the advertising of junk food, particularly on programmes aimed at children.",
+   "Chính phủ nên hạn chế quảng cáo đồ ăn nhanh, nhất là trên chương trình dành cho trẻ em."
+  ],
+  [
+   "obesity",
+   "/əʊˈbiːsəti/ · n",
+   "bệnh béo phì",
+   "Childhood obesity has become a growing concern in many large cities in Vietnam.",
+   "Béo phì ở trẻ em đã trở thành mối lo ngày càng lớn ở nhiều thành phố lớn của Việt Nam."
+  ],
+  [
+   "engage in regular physical activity",
+   "/ɪnˈɡeɪdʒ ɪn ˈreɡjələ ˈfɪzɪkl ækˈtɪvəti/ · v phr",
+   "vận động thể chất thường xuyên",
+   "Engaging in regular physical activity not only strengthens the body but also reduces stress.",
+   "Vận động thường xuyên không chỉ làm cơ thể khỏe mạnh mà còn giảm căng thẳng."
+  ],
+  [
+   "chronic diseases",
+   "/ˈkrɒnɪk dɪˈziːzɪz/ · n",
+   "các bệnh mãn tính",
+   "Chronic diseases such as diabetes and high blood pressure are increasingly common among young adults.",
+   "Các bệnh mãn tính như tiểu đường và cao huyết áp ngày càng phổ biến ở người trẻ."
+  ],
+  [
+   "life expectancy",
+   "/ˈlaɪf ɪkˌspektənsi/ · n",
+   "tuổi thọ trung bình",
+   "Thanks to improvements in medical care, life expectancy has risen considerably over the past few decades.",
+   "Nhờ y tế tiến bộ, tuổi thọ trung bình đã tăng đáng kể vài thập kỷ qua."
+  ],
+  [
+   "mental well-being",
+   "/ˈmentl ˌwel ˈbiːɪŋ/ · n",
+   "sức khỏe tinh thần",
+   "Employers should pay more attention to the mental well-being of their staff by offering counselling services.",
+   "Nhà tuyển dụng nên quan tâm hơn đến sức khỏe tinh thần của nhân viên bằng dịch vụ tư vấn."
+  ],
+  [
+   "work-life balance",
+   "/ˌwɜːk ˈlaɪf ˈbæləns/ · n",
+   "sự cân bằng công việc và cuộc sống",
+   "Achieving a healthy work-life balance helps employees avoid burnout and stay motivated.",
+   "Cân bằng công việc – cuộc sống giúp nhân viên tránh kiệt sức và giữ động lực."
+  ],
+  [
+   "be prone to sth",
+   "/prəʊn/ · adj phr",
+   "dễ mắc phải, dễ bị điều gì",
+   "Office workers who sit for long periods are more prone to back and neck problems.",
+   "Nhân viên văn phòng ngồi lâu dễ bị đau lưng và cổ hơn."
+  ],
+  [
+   "preventive healthcare",
+   "/prɪˈventɪv ˈhelθkeə/ · n",
+   "chăm sóc sức khỏe dự phòng",
+   "Investing in preventive healthcare is more cost-effective than treating diseases at a later stage.",
+   "Đầu tư vào y tế dự phòng tiết kiệm hơn chữa bệnh khi đã muộn."
+  ],
+  [
+   "cut down on sth",
+   "/kʌt daʊn ɒn/ · phr v",
+   "cắt giảm cái gì",
+   "Doctors advise people to cut down on sugar and salt in order to protect their long-term health.",
+   "Bác sĩ khuyên mọi người giảm đường và muối để bảo vệ sức khỏe lâu dài."
+  ],
+  [
+   "the healthcare system",
+   "/ðə ˈhelθkeə ˈsɪstəm/ · n",
+   "hệ thống y tế",
+   "An ageing population is putting enormous pressure on the national healthcare system.",
+   "Dân số già hóa đang gây áp lực lớn lên hệ thống y tế quốc gia."
+  ],
+  [
+   "take a toll on sth",
+   "/teɪk ə təʊl ɒn/ · v phr",
+   "gây tổn hại đến điều gì",
+   "Long working hours and constant stress can take a toll on both physical and mental health.",
+   "Làm việc nhiều giờ và căng thẳng liên tục có thể gây hại cho cả sức khỏe thể chất lẫn tinh thần."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Câu điều kiện loại 0 và loại 1",
+   "meaning": "Loại 0 (sự thật hiển nhiên): If + HTĐ, HTĐ. Loại 1 (có thể xảy ra ở hiện tại/tương lai): If + HTĐ, S + will/can/may + V. 'Unless' = If… not.",
+   "examples": [
+    "If you boil water, it evaporates. — Nếu đun sôi nước, nước bay hơi.",
+    "If you cut down on sugar, you will feel healthier. — Nếu giảm đường, bạn sẽ thấy khỏe hơn.",
+    "Unless people exercise regularly, they will be prone to chronic diseases. — Nếu không tập thể dục đều, người ta sẽ dễ mắc bệnh mãn tính."
+   ]
+  },
+  {
+   "form": "Câu điều kiện loại 2, loại 3 và hỗn hợp",
+   "meaning": "Loại 2 (không có thật ở hiện tại): If + QKĐ (were cho mọi ngôi), S + would/could + V. Loại 3 (không có thật ở quá khứ): If + had V3, S + would have V3. Hỗn hợp (quá khứ → hiện tại): If + had V3, S + would + V + now.",
+   "examples": [
+    "If I had more free time, I would go to the gym. — Nếu có nhiều thời gian rảnh hơn, tôi sẽ đi tập gym.",
+    "If I hadn't played football, I wouldn't have broken my leg. — Nếu không chơi bóng, tôi đã không gãy chân.",
+    "If I hadn't eaten too much last night, I wouldn't have a stomachache now. — Nếu tối qua không ăn quá nhiều, giờ tôi đã không đau bụng."
+   ]
+  },
+  {
+   "form": "Đảo ngữ câu điều kiện: Should / Were / Had",
+   "meaning": "Loại 1: Should + S + V, … Loại 2: Were + S + to V / Were + S + N/adj, … Loại 3: Had + S + V3, … Bỏ 'if', đảo trợ động từ lên đầu. Phủ định: Should I not…, Were I not…, Had I not…",
+   "examples": [
+    "Should you feel unwell, see a doctor immediately. — Nếu thấy không khỏe, hãy đi khám ngay.",
+    "Were I you, I would cut down on junk food. — Nếu tôi là bạn, tôi sẽ bớt ăn đồ ăn nhanh.",
+    "Had she exercised more, she would have stayed healthier. — Nếu cô ấy tập nhiều hơn thì đã khỏe hơn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng (loại 1)",
+   "en": "If you ___ junk food every day, you will put on weight.",
+   "options": [
+    "eat",
+    "ate",
+    "had eaten",
+    "will eat"
+   ],
+   "answer": "eat",
+   "explain": "Loại 1: If + HTĐ, will + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng (loại 2)",
+   "en": "If I ___ more free time, I would go to the gym.",
+   "options": [
+    "have",
+    "had",
+    "will have",
+    "had had"
+   ],
+   "answer": "had",
+   "explain": "Loại 2: If + QKĐ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng (loại 3)",
+   "en": "If she had slept more, she ___ so tired yesterday.",
+   "options": [
+    "wouldn't be",
+    "won't be",
+    "wouldn't have been",
+    "isn't"
+   ],
+   "answer": "wouldn't have been",
+   "explain": "Loại 3: would have + V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng (hỗn hợp)",
+   "en": "If I hadn't eaten so much last night, I ___ a stomachache now.",
+   "options": [
+    "wouldn't have",
+    "won't have",
+    "wouldn't have had",
+    "don't have"
+   ],
+   "answer": "wouldn't have",
+   "explain": "Quá khứ → hiện tại (now): would + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đảo ngữ đúng",
+   "en": "___ you feel unwell, please call the doctor.",
+   "options": [
+    "Should",
+    "Were",
+    "Had",
+    "If should"
+   ],
+   "answer": "Should",
+   "explain": "Đảo ngữ loại 1: Should + S + V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đảo ngữ đúng",
+   "en": "___ I you, I would cut down on sugar.",
+   "options": [
+    "Should",
+    "Were",
+    "Had",
+    "Did"
+   ],
+   "answer": "Were",
+   "explain": "Đảo ngữ loại 2: Were I you…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Long working hours can take a ___ on your health.",
+   "options": [
+    "toll",
+    "risk",
+    "part",
+    "pressure"
+   ],
+   "answer": "toll",
+   "explain": "take a toll on = gây tổn hại."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "If you boil ice, it ___ (melt).",
+   "answer": [
+    "melts"
+   ],
+   "explain": "Loại 0: sự thật hiển nhiên → HTĐ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "___ (have) she exercised more, she would have stayed healthier.",
+   "answer": [
+    "Had"
+   ],
+   "explain": "Đảo ngữ loại 3: Had + S + V3."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "___ people exercise regularly, they will be prone to chronic diseases.",
+   "answer": [
+    "Unless"
+   ],
+   "explain": "Unless = If … not."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Office workers are more ___ to back problems.",
+   "answer": [
+    "prone",
+    "likely"
+   ],
+   "explain": "be prone to = dễ mắc."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "If",
+    "I",
+    "were",
+    "you,",
+    "I",
+    "would",
+    "eat",
+    "a",
+    "balanced",
+    "diet."
+   ],
+   "answer": "If I were you, I would eat a balanced diet.",
+   "explain": "Loại 2 cho lời khuyên: If I were you, I would…"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Had",
+    "I",
+    "not",
+    "played",
+    "football,",
+    "I",
+    "wouldn't",
+    "have",
+    "broken",
+    "my",
+    "leg."
+   ],
+   "answer": "Had I not played football, I wouldn't have broken my leg.",
+   "explain": "Đảo ngữ loại 3 phủ định: Had I not…"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Nếu tôi là bạn, tôi sẽ tập thể dục thường xuyên.",
+   "answer": [
+    "If I were you, I would exercise regularly.",
+    "Were I you, I would exercise regularly.",
+    "If I were you, I would do exercise regularly."
+   ],
+   "explain": "Lời khuyên: If I were you, I would…"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Nếu bạn giảm đường, bạn sẽ khỏe hơn.",
+   "answer": [
+    "If you cut down on sugar, you will be healthier.",
+    "If you cut down on sugar, you will feel healthier.",
+    "If you reduce sugar, you will be healthier."
+   ],
+   "explain": "Loại 1."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Investing in preventive healthcare is more cost-effective than treating diseases at a later stage.",
+   "answer": "Đầu tư vào y tế dự phòng tiết kiệm chi phí hơn so với chữa bệnh ở giai đoạn muộn.",
+   "explain": "cost-effective = hiệu quả về chi phí."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "A sedentary lifestyle is now one of the biggest health risks in modern cities. Many office workers sit for more than eight hours a day and then spend their evenings in front of screens. Doctors warn that if people do not engage in regular physical activity, they will be more prone to obesity, back pain and heart disease. The good news is that small changes can make a big difference. For example, walking for just thirty minutes a day can ( ___ ) the risk of many chronic diseases.",
+   "options": [
+    "reduce",
+    "increase",
+    "cause",
+    "ignore"
+   ],
+   "answer": "reduce",
+   "explain": "Đi bộ giúp GIẢM nguy cơ bệnh."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Ý chính của đoạn văn là:",
+   "en": "A sedentary lifestyle is now one of the biggest health risks in modern cities. Many office workers sit for more than eight hours a day and then spend their evenings in front of screens. Doctors warn that if people do not engage in regular physical activity, they will be more prone to obesity, back pain and heart disease. The good news is that small changes can make a big difference. For example, walking for just thirty minutes a day can ( ___ ) the risk of many chronic diseases.",
+   "options": [
+    "Lối sống ít vận động gây hại nhưng thay đổi nhỏ có thể giúp",
+    "Nhân viên văn phòng làm việc quá nhiều",
+    "Cách chữa bệnh tim",
+    "Lợi ích của màn hình"
+   ],
+   "answer": "Lối sống ít vận động gây hại nhưng thay đổi nhỏ có thể giúp",
+   "explain": "Nêu vấn đề + 'small changes can make a big difference'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Bác sĩ nói gì với Nam?",
+   "en": "When Nam started his first job, he worked late every night and lived on instant noodles. After a year, he often felt tired and had frequent headaches. A doctor told him that stress and a poor diet were taking a toll on his health. If he had listened to his parents' advice earlier, he would not have become so exhausted. Now he goes swimming twice a week, eats more vegetables and tries to leave the office on time. He says his work-life balance has never been better.",
+   "options": [
+    "Căng thẳng và ăn uống kém đang hại sức khỏe",
+    "Anh ấy cần nghỉ việc",
+    "Anh ấy nên ăn mì nhiều hơn",
+    "Anh ấy bị bệnh tim"
+   ],
+   "answer": "Căng thẳng và ăn uống kém đang hại sức khỏe",
+   "explain": "'stress and a poor diet were taking a toll on his health'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ngữ pháp trong bài] Câu 'If he had listened to his parents' advice earlier…' diễn tả:",
+   "en": "When Nam started his first job, he worked late every night and lived on instant noodles. After a year, he often felt tired and had frequent headaches. A doctor told him that stress and a poor diet were taking a toll on his health. If he had listened to his parents' advice earlier, he would not have become so exhausted. Now he goes swimming twice a week, eats more vegetables and tries to leave the office on time. He says his work-life balance has never been better.",
+   "options": [
+    "Điều không xảy ra trong quá khứ",
+    "Điều sẽ xảy ra",
+    "Sự thật hiển nhiên",
+    "Thói quen hiện tại"
+   ],
+   "answer": "Điều không xảy ra trong quá khứ",
+   "explain": "Câu điều kiện loại 3."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư khuyên bạn sống lành mạnh",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "Your friend Tom has written to you saying that he feels tired all the time because of his busy job.\nWrite an email to Tom. In your email:\n• show sympathy\n• give him some advice about how to lead a healthier lifestyle\n• suggest doing an activity together.\nYou should write at least 120 words.",
+  "outline": [
+   "Hi Tom, + Thanks a lot for your email. I'm sorry to hear that…",
+   "Đoạn 1: thông cảm, nhắc lại vấn đề của bạn",
+   "Đoạn 2: 2 lời khuyên dùng If I were you, I would… / You should…",
+   "Đoạn 3: rủ hoạt động chung (Why don't we…?)",
+   "Kết: I hope my advice helps. Write back soon! / Best wishes, + tên"
+  ],
+  "phrases": [
+   "I'm sorry to hear that you've been feeling … — Mình rất tiếc khi biết bạn đang cảm thấy …",
+   "If I were you, I would … — Nếu là bạn, mình sẽ …",
+   "You should also try to cut down on … — Bạn cũng nên cố bớt …",
+   "Why don't we go … together this weekend? — Cuối tuần này mình cùng đi … nhé?",
+   "I hope my advice helps. Let me know how it goes! — Mong lời khuyên giúp được bạn. Kể mình nghe nhé!"
+  ]
+ },
+ "speaking": {
+  "part": 1,
+  "title": "Social interaction: health & free time",
+  "prompt": "Let's talk about your health. Then let's talk about your free time.",
+  "questions": [
+   "What do you usually do to stay healthy?",
+   "Do you think you have a balanced diet? Why or why not?",
+   "If you had more free time, what sport would you take up?",
+   "How do you usually spend your weekends?",
+   "Do you prefer relaxing at home or going out? Why?",
+   "Has your lifestyle changed in the last few years?"
+  ],
+  "ideas": [
+   "To stay healthy, I try to …",
+   "To be honest, my diet isn't very balanced because …",
+   "If I had more free time, I would definitely take up …",
+   "I'd rather … than …",
+   "Compared to a few years ago, I …"
+  ],
+  "minutes": 3
+ },
+ "corner": {
+  "quote": {
+   "en": "Take care of your body. It's the only place you have to live.",
+   "vi": "Hãy chăm sóc cơ thể bạn. Đó là nơi duy nhất bạn có để sống."
+  },
+  "pron": {
+   "title": "Âm cuối /s/, /z/, /ɪz/ (đuôi -s/-es)",
+   "rule": "Đọc /ɪz/ sau /s, z, ʃ, tʃ, dʒ/. Đọc /s/ sau âm vô thanh /p, t, k, f, θ/. Còn lại đọc /z/. Người Việt hay nuốt âm cuối — nhớ bật rõ!",
+   "examples": [
+    "diseases → /ɪz/",
+    "habits → /s/",
+    "vegetables → /z/"
+   ]
+  },
+  "phrases": [
+   [
+    "prevention is better than cure",
+    "phòng bệnh hơn chữa bệnh"
+   ],
+   [
+    "keep fit",
+    "giữ dáng, giữ sức khỏe"
+   ],
+   [
+    "a vicious circle",
+    "một vòng luẩn quẩn"
+   ]
+  ],
+  "mistake": "Hay viết 'If I am you, I will…'. Lời khuyên giả định phải dùng loại 2: If I WERE you, I WOULD…",
+  "tip": "Writing Task 1: trả lời ĐỦ và ĐÚNG THỨ TỰ từng gạch đầu dòng. Thiếu một ý là mất điểm Task Fulfillment.",
+  "diary": "Viết 3–5 câu về lối sống của bạn, dùng câu điều kiện loại 1, 2 và một câu đảo ngữ (Should…/Were I…)."
+ }
+}

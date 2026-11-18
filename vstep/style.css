@@ -500,3 +500,6 @@ h2::after{content:" ♡";color:var(--pig);font-size:.7em}
 .calc label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--ink-3)}
 .calc input{text-align:center;padding:10px 4px}
 .chips .chip{cursor:pointer}
+.upcoming{margin-top:14px}
+.upcoming a{text-decoration:none;color:var(--ink);font-size:15px}
+.upcoming li{border-top:1px dashed var(--line);padding:6px 0}

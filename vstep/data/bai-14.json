@@ -1,0 +1,494 @@
+{
+ "id": "bai-14",
+ "lesson": "Bài 14",
+ "day": 6,
+ "date": "2026-11-24",
+ "title": "Tội phạm & pháp luật",
+ "enTitle": "Crime & Law",
+ "past": false,
+ "words": [
+  [
+   "commit a crime",
+   "/kəˈmɪt ə kraɪm/ · v phr",
+   "phạm tội",
+   "Young people who commit a crime for the first time should be given a second chance.",
+   "Người trẻ phạm tội lần đầu nên được cho cơ hội thứ hai."
+  ],
+  [
+   "law enforcement",
+   "/ˈlɔː ɪnfɔːsmənt/ · n",
+   "thực thi pháp luật",
+   "Strict law enforcement is needed to reduce drink-driving.",
+   "Cần thực thi pháp luật nghiêm để giảm tình trạng lái xe khi say rượu."
+  ],
+  [
+   "crime rate",
+   "/ˈkraɪm reɪt/ · n",
+   "tỷ lệ tội phạm",
+   "The crime rate has fallen since more street cameras were installed.",
+   "Tỷ lệ tội phạm đã giảm từ khi lắp thêm camera đường phố."
+  ],
+  [
+   "offender",
+   "/əˈfendə/ · n",
+   "người phạm tội",
+   "Repeat offenders should face heavier punishment.",
+   "Người tái phạm nên chịu hình phạt nặng hơn."
+  ],
+  [
+   "victim",
+   "/ˈvɪktɪm/ · n",
+   "nạn nhân",
+   "Victims of crime need emotional and legal support.",
+   "Nạn nhân của tội phạm cần hỗ trợ về tinh thần và pháp lý."
+  ],
+  [
+   "deterrent",
+   "/dɪˈterənt/ · n",
+   "biện pháp răn đe",
+   "Heavy fines act as a deterrent to people who break traffic laws.",
+   "Mức phạt nặng có tác dụng răn đe người vi phạm luật giao thông."
+  ],
+  [
+   "rehabilitation",
+   "/ˌriːəˌbɪlɪˈteɪʃn/ · n",
+   "sự cải tạo, phục hồi",
+   "Prisons should focus on rehabilitation rather than punishment.",
+   "Nhà tù nên tập trung vào cải tạo hơn là trừng phạt."
+  ],
+  [
+   "impose a fine",
+   "/ɪmˈpəʊz ə faɪn/ · v phr",
+   "phạt tiền",
+   "The police imposed a heavy fine on the driver for speeding.",
+   "Cảnh sát phạt nặng tài xế vì chạy quá tốc độ."
+  ],
+  [
+   "juvenile delinquency",
+   "/ˈdʒuːvənaɪl dɪˈlɪŋkwənsi/ · n",
+   "phạm pháp ở trẻ vị thành niên",
+   "Lack of parental care is a major cause of juvenile delinquency.",
+   "Thiếu sự chăm sóc của cha mẹ là nguyên nhân chính gây phạm pháp ở trẻ vị thành niên."
+  ],
+  [
+   "serve a sentence",
+   "/sɜːv ə ˈsentəns/ · v phr",
+   "thụ án",
+   "He is serving a five-year sentence for robbery.",
+   "Anh ta đang thụ án năm năm vì tội cướp."
+  ],
+  [
+   "break the law",
+   "/breɪk ðə lɔː/ · v phr",
+   "vi phạm pháp luật",
+   "Anyone who breaks the law must take responsibility.",
+   "Bất kỳ ai vi phạm pháp luật đều phải chịu trách nhiệm."
+  ],
+  [
+   "surveillance cameras",
+   "/səˈveɪləns ˈkæmərəz/ · n",
+   "camera giám sát",
+   "Surveillance cameras help the police identify criminals.",
+   "Camera giám sát giúp cảnh sát nhận dạng tội phạm."
+  ],
+  [
+   "community service",
+   "/kəˈmjuːnəti ˈsɜːvɪs/ · n",
+   "lao động công ích",
+   "Minor offenders could be ordered to do community service.",
+   "Người phạm tội nhẹ có thể bị yêu cầu lao động công ích."
+  ],
+  [
+   "cybercrime",
+   "/ˈsaɪbəkraɪm/ · n",
+   "tội phạm mạng",
+   "Cybercrime is growing faster than any other type of crime.",
+   "Tội phạm mạng đang tăng nhanh hơn mọi loại tội phạm khác."
+  ],
+  [
+   "drink-driving",
+   "/ˌdrɪŋk ˈdraɪvɪŋ/ · n",
+   "lái xe khi say rượu",
+   "Vietnam has introduced strict penalties for drink-driving.",
+   "Việt Nam đã áp dụng mức phạt nghiêm cho lái xe sau khi uống rượu bia."
+  ],
+  [
+   "law-abiding citizens",
+   "/ˈlɔː əbaɪdɪŋ ˈsɪtɪznz/ · n",
+   "công dân tuân thủ pháp luật",
+   "Most people are law-abiding citizens who never commit any crime.",
+   "Phần lớn mọi người là công dân tuân thủ pháp luật."
+  ],
+  [
+   "legal system",
+   "/ˈliːɡl ˈsɪstəm/ · n",
+   "hệ thống pháp luật",
+   "A fair legal system protects the rights of every citizen.",
+   "Một hệ thống pháp luật công bằng bảo vệ quyền của mọi công dân."
+  ],
+  [
+   "tackle crime",
+   "/ˈtækl kraɪm/ · v phr",
+   "giải quyết, trấn áp tội phạm",
+   "The government has introduced new measures to tackle crime.",
+   "Chính phủ đã đưa ra biện pháp mới để trấn áp tội phạm."
+  ],
+  [
+   "harsh punishment",
+   "/hɑːʃ ˈpʌnɪʃmənt/ · n",
+   "hình phạt nặng",
+   "Some people believe that harsh punishment is the best way to prevent crime.",
+   "Một số người tin hình phạt nặng là cách tốt nhất để ngăn chặn tội phạm."
+  ],
+  [
+   "re-offend",
+   "/ˌriː əˈfend/ · v",
+   "tái phạm",
+   "Prisoners who learn a trade are less likely to re-offend.",
+   "Phạm nhân học nghề ít có khả năng tái phạm hơn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Mệnh đề danh từ: that / whether / wh-",
+   "meaning": "Mệnh đề danh từ làm chủ ngữ, tân ngữ hoặc bổ ngữ. That + S + V (rằng). Whether/if + S + V (liệu). Wh- + S + V (KHÔNG đảo ngữ). Khi làm chủ ngữ: That/What/Whether… + V(số ít).",
+   "examples": [
+    "Many people believe that harsh punishment reduces crime. — Nhiều người tin rằng hình phạt nặng làm giảm tội phạm.",
+    "What the police need is more surveillance cameras. — Điều cảnh sát cần là thêm camera giám sát.",
+    "It is unclear whether the new law will work. — Chưa rõ liệu luật mới có hiệu quả không.",
+    "Nobody knows why he committed the crime. — Không ai biết tại sao anh ta phạm tội."
+   ]
+  },
+  {
+   "form": "Câu giả định: suggest / recommend / insist / demand that + S + V nguyên mẫu",
+   "meaning": "S + suggest/recommend/insist/demand/propose/request + that + S + V (nguyên mẫu, không chia, không -s). Phủ định: that + S + not + V. Trong Anh – Anh có thể dùng should + V.",
+   "examples": [
+    "Experts recommend that the government invest more in rehabilitation. — Chuyên gia khuyến nghị chính phủ đầu tư nhiều hơn vào cải tạo.",
+    "The judge insisted that he pay a heavy fine. — Thẩm phán yêu cầu anh ta phải nộp phạt nặng.",
+    "I suggest that young offenders not be sent to prison. — Tôi đề xuất không đưa người phạm tội trẻ tuổi vào tù."
+   ]
+  },
+  {
+   "form": "It is essential / vital / important that + S + (should) V",
+   "meaning": "It is + essential / vital / crucial / important / necessary / imperative + that + S + V nguyên mẫu (hoặc should + V). Rất trang trọng, hợp Writing Task 2.",
+   "examples": [
+    "It is essential that every citizen obey the law. — Điều thiết yếu là mọi công dân tuân thủ pháp luật.",
+    "It is vital that victims receive proper support. — Điều quan trọng là nạn nhân nhận được hỗ trợ thích đáng.",
+    "It is important that parents should monitor their children's online activities. — Cha mẹ cần theo dõi hoạt động trực tuyến của con."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Experts recommend that the government ___ more in rehabilitation.",
+   "options": [
+    "invests",
+    "invest",
+    "invested",
+    "investing"
+   ],
+   "answer": "invest",
+   "explain": "Câu giả định: recommend that + S + V nguyên mẫu."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The judge insisted that he ___ a heavy fine.",
+   "options": [
+    "pays",
+    "paid",
+    "pay",
+    "paying"
+   ],
+   "answer": "pay",
+   "explain": "insist that + S + V nguyên mẫu."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It is essential that every citizen ___ the law.",
+   "options": [
+    "obeys",
+    "obey",
+    "obeyed",
+    "to obey"
+   ],
+   "answer": "obey",
+   "explain": "It is essential that + S + V nguyên mẫu."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Nobody knows why ___ the crime.",
+   "options": [
+    "did he commit",
+    "he committed",
+    "he did commit",
+    "committed he"
+   ],
+   "answer": "he committed",
+   "explain": "Mệnh đề danh từ Wh- không đảo ngữ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "___ the police need is more surveillance cameras.",
+   "options": [
+    "That",
+    "What",
+    "Which",
+    "Whether"
+   ],
+   "answer": "What",
+   "explain": "What = điều mà (làm chủ ngữ)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It is unclear ___ the new law will reduce crime.",
+   "options": [
+    "that",
+    "what",
+    "whether",
+    "which"
+   ],
+   "answer": "whether",
+   "explain": "whether = liệu (có hay không)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Heavy fines act as a ___ to people who break traffic laws.",
+   "options": [
+    "deterrent",
+    "victim",
+    "sentence",
+    "offender"
+   ],
+   "answer": "deterrent",
+   "explain": "deterrent = biện pháp răn đe."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ (câu giả định)",
+   "en": "I suggest that young offenders ___ be sent to prison.",
+   "answer": [
+    "not"
+   ],
+   "explain": "suggest that + S + not + V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Prisoners who learn a trade are less likely to ___.",
+   "answer": [
+    "re-offend",
+    "reoffend"
+   ],
+   "explain": "re-offend = tái phạm."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "He is serving a five-year ___ for robbery.",
+   "answer": [
+    "sentence"
+   ],
+   "explain": "serve a sentence = thụ án."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The police ___ a heavy fine on the driver.",
+   "answer": [
+    "imposed"
+   ],
+   "explain": "impose a fine on sb."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Many",
+    "people",
+    "believe",
+    "that",
+    "harsh",
+    "punishment",
+    "reduces",
+    "crime."
+   ],
+   "answer": "Many people believe that harsh punishment reduces crime.",
+   "explain": "believe that + mệnh đề."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "It",
+    "is",
+    "vital",
+    "that",
+    "victims",
+    "receive",
+    "proper",
+    "support."
+   ],
+   "answer": "It is vital that victims receive proper support.",
+   "explain": "It is vital that + S + V nguyên mẫu."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi đề nghị rằng chính phủ lắp thêm camera giám sát.",
+   "answer": [
+    "I suggest that the government install more surveillance cameras.",
+    "I suggest that the government should install more surveillance cameras.",
+    "I recommend that the government install more surveillance cameras.",
+    "I propose that the government install more surveillance cameras."
+   ],
+   "explain": "suggest that + S + V nguyên mẫu (install, không -s)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Không ai biết tại sao anh ta vi phạm pháp luật.",
+   "answer": [
+    "Nobody knows why he broke the law.",
+    "No one knows why he broke the law.",
+    "Nobody knows why he has broken the law."
+   ],
+   "explain": "Wh- + S + V, không đảo."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Prisons should focus on rehabilitation rather than punishment.",
+   "answer": "Nhà tù nên tập trung vào việc cải tạo hơn là trừng phạt.",
+   "explain": "rather than = hơn là."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Vietnam introduced much stricter penalties for drink-driving in 2020. Under the new law, drivers who have consumed even a small amount of alcohol can face heavy fines and lose their licence. At first, many people complained that the rules were too harsh. However, police reports show that the number of road accidents caused by alcohol has dropped significantly. Experts say that the law works as an effective deterrent. They recommend that the police ( ___ ) checking drivers regularly, especially during holidays.",
+   "options": [
+    "continue",
+    "continues",
+    "continued",
+    "to continue"
+   ],
+   "answer": "continue",
+   "explain": "recommend that + S + V nguyên mẫu."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Báo cáo của cảnh sát cho thấy:",
+   "en": "Vietnam introduced much stricter penalties for drink-driving in 2020. Under the new law, drivers who have consumed even a small amount of alcohol can face heavy fines and lose their licence. At first, many people complained that the rules were too harsh. However, police reports show that the number of road accidents caused by alcohol has dropped significantly. Experts say that the law works as an effective deterrent. They recommend that the police ( ___ ) checking drivers regularly, especially during holidays.",
+   "options": [
+    "Tai nạn do rượu bia giảm đáng kể",
+    "Mọi người ủng hộ luật ngay từ đầu",
+    "Tiền phạt giảm",
+    "Có nhiều người lái xe hơn"
+   ],
+   "answer": "Tai nạn do rượu bia giảm đáng kể",
+   "explain": "'the number of road accidents caused by alcohol has dropped significantly'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao nhà tù không tốt cho người phạm tội trẻ?",
+   "en": "Should young offenders be sent to prison? Many criminologists believe that they should not. Research shows that teenagers who spend time in prison often meet more experienced criminals and are more likely to re-offend after they are released. Instead, experts suggest that minor offenders do community service or join education programmes. These programmes help young people learn useful skills and find jobs. What is most important, they argue, is that offenders get a second chance to become law-abiding citizens.",
+   "options": [
+    "Họ gặp tội phạm sừng sỏ và dễ tái phạm",
+    "Nhà tù quá đắt",
+    "Họ học được kỹ năng tốt",
+    "Họ không được ăn uống đầy đủ"
+   ],
+   "answer": "Họ gặp tội phạm sừng sỏ và dễ tái phạm",
+   "explain": "'meet more experienced criminals and are more likely to re-offend'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Quan điểm chính của các chuyên gia là:",
+   "en": "Should young offenders be sent to prison? Many criminologists believe that they should not. Research shows that teenagers who spend time in prison often meet more experienced criminals and are more likely to re-offend after they are released. Instead, experts suggest that minor offenders do community service or join education programmes. These programmes help young people learn useful skills and find jobs. What is most important, they argue, is that offenders get a second chance to become law-abiding citizens.",
+   "options": [
+    "Người phạm tội trẻ nên được cơ hội thứ hai qua lao động công ích, giáo dục",
+    "Nên phạt tù thật nặng",
+    "Không cần làm gì",
+    "Chỉ cần phạt tiền"
+   ],
+   "answer": "Người phạm tội trẻ nên được cơ hội thứ hai qua lao động công ích, giáo dục",
+   "explain": "Đoạn cuối: get a second chance."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Causes & Solutions: Tội phạm ở giới trẻ",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "In many countries, the number of crimes committed by teenagers is increasing.\nWhat are the causes of this problem, and what can be done to solve it?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: It is undeniable that… is a growing concern. + thesis",
+   "Thân 1 – nguyên nhân: thiếu quan tâm của cha mẹ, áp lực bạn bè, nội dung bạo lực trên mạng",
+   "Thân 2 – giải pháp: gia đình & trường học (It is vital that parents…), lao động công ích thay vì phạt tù",
+   "Dùng câu giả định: I recommend that… / It is essential that… + V nguyên mẫu",
+   "Kết bài: tóm nguyên nhân + giải pháp"
+  ],
+  "phrases": [
+   "It is undeniable that juvenile delinquency is a growing concern. — Không thể phủ nhận phạm pháp ở trẻ vị thành niên là mối lo ngày càng lớn.",
+   "One of the main reasons is that … — Một trong những lý do chính là …",
+   "What young offenders need most is … — Điều người phạm tội trẻ tuổi cần nhất là …",
+   "It is vital that parents spend more time with … — Điều quan trọng là cha mẹ dành nhiều thời gian hơn cho …",
+   "Experts recommend that minor offenders do community service. — Chuyên gia khuyến nghị người phạm tội nhẹ làm lao động công ích."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: an toàn khu phố",
+  "prompt": "Situation: There have been several thefts in your neighbourhood recently. What is the best way to make it safer?\n1. Install surveillance cameras on every street\n2. Organise a neighbourhood watch group\n3. Ask the police to patrol more often",
+  "questions": [
+   "Which solution do you think is the best? Why?",
+   "Why are the other two solutions less effective?"
+  ],
+  "ideas": [
+   "What our neighbourhood really needs is…",
+   "I would suggest that we…",
+   "The problem with cameras is that…",
+   "It is essential that local residents…",
+   "That is why I believe…"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Injustice anywhere is a threat to justice everywhere.",
+   "vi": "Bất công ở bất cứ đâu cũng là mối đe dọa cho công lý ở mọi nơi."
+  },
+  "pron": {
+   "title": "Trọng âm từ có tiền tố re-, un-, dis-",
+   "rule": "Tiền tố thường không mang trọng âm; trọng âm vẫn giữ ở gốc từ.",
+   "examples": [
+    "re-offend → re-of-FEND",
+    "illegal → il-LE-gal",
+    "unfair → un-FAIR"
+   ]
+  },
+  "phrases": [
+   [
+    "a slap on the wrist",
+    "hình phạt nhẹ, như phạt cho có"
+   ],
+   [
+    "be above the law",
+    "đứng trên pháp luật"
+   ],
+   [
+    "crack down on…",
+    "trấn áp mạnh tay…"
+   ]
+  ],
+  "mistake": "Câu giả định hay bị chia động từ: 'I suggest that he goes…' → đúng: 'I suggest that he GO…' (nguyên mẫu).",
+  "tip": "Writing Task 2 Problem–Solution: mỗi giải pháp nên khớp với một nguyên nhân đã nêu ở thân bài 1.",
+  "diary": "Viết 3–5 câu góp ý cho khu phố của bạn, dùng I suggest that…, It is essential that… và What we need is…"
+ }
+}

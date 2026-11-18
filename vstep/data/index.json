@@ -6,9 +6,153 @@
    "lesson": "Bài 1",
    "title": "Giáo dục",
    "enTitle": "Education",
+   "date": "2026-11-11",
+   "words": 15,
+   "exercises": 22
+  },
+  {
+   "id": "bai-2",
+   "lesson": "Bài 2",
+   "title": "Công nghệ",
+   "enTitle": "Technology",
+   "date": "2026-11-12",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-3",
+   "lesson": "Bài 3",
+   "title": "Môi trường",
+   "enTitle": "Environment",
+   "date": "2026-11-13",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-4",
+   "lesson": "Bài 4",
+   "title": "Sức khỏe & lối sống",
+   "enTitle": "Health & Lifestyle",
+   "date": "2026-11-14",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-5",
+   "lesson": "Bài 5",
+   "title": "Công việc & nghề nghiệp",
+   "enTitle": "Work & Careers",
+   "date": "2026-11-15",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-6",
+   "lesson": "Bài 6",
+   "title": "Gia đình & xã hội",
+   "enTitle": "Family & Society",
+   "date": "2026-11-16",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-7",
+   "lesson": "Bài 7",
+   "title": "Đô thị & giao thông",
+   "enTitle": "Cities & Transport",
+   "date": "2026-11-17",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-8",
+   "lesson": "Bài 8",
+   "title": "Du lịch & văn hóa",
+   "enTitle": "Travel & Culture",
+   "date": "2026-11-18",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-9",
+   "lesson": "Bài 9",
+   "title": "Truyền thông & mạng xã hội",
+   "enTitle": "Media & Social Media",
    "date": "2026-11-19",
-   "words": 25,
-   "exercises": 26
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-10",
+   "lesson": "Bài 10",
+   "title": "Kinh tế & tiêu dùng",
+   "enTitle": "Economy & Consumerism",
+   "date": "2026-11-20",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-11",
+   "lesson": "Bài 11",
+   "title": "Khoa học & trí tuệ nhân tạo",
+   "enTitle": "Science & AI",
+   "date": "2026-11-21",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-12",
+   "lesson": "Bài 12",
+   "title": "Thể thao & giải trí",
+   "enTitle": "Sports & Entertainment",
+   "date": "2026-11-22",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-13",
+   "lesson": "Bài 13",
+   "title": "Toàn cầu hóa",
+   "enTitle": "Globalisation",
+   "date": "2026-11-23",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-14",
+   "lesson": "Bài 14",
+   "title": "Tội phạm & pháp luật",
+   "enTitle": "Crime & Law",
+   "date": "2026-11-24",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-15",
+   "lesson": "Bài 15",
+   "title": "Cụm từ viết thư Task 1",
+   "enTitle": "Letter Phrases",
+   "date": "2026-11-26",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-16",
+   "lesson": "Bài 16",
+   "title": "Từ nối & paraphrase nâng cao",
+   "enTitle": "Linking & Paraphrasing",
+   "date": "2026-11-27",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-17",
+   "lesson": "Bài 17",
+   "title": "Giáo dục đại học & học trực tuyến",
+   "enTitle": "Higher Education & E-learning",
+   "date": "2026-11-28",
+   "words": 20,
+   "exercises": 20
   }
  ]
 }

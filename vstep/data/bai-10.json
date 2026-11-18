@@ -1,0 +1,498 @@
+{
+ "id": "bai-10",
+ "lesson": "Bài 10",
+ "day": 2,
+ "date": "2026-11-20",
+ "title": "Kinh tế & tiêu dùng",
+ "enTitle": "Economy & Consumerism",
+ "past": false,
+ "words": [
+  [
+   "consumerism",
+   "/kənˈsjuːmərɪzəm/ · n",
+   "chủ nghĩa tiêu dùng",
+   "Consumerism encourages people to buy things they do not really need.",
+   "Chủ nghĩa tiêu dùng khuyến khích người ta mua những thứ không thật sự cần."
+  ],
+  [
+   "impulse buying",
+   "/ˈɪmpʌls baɪɪŋ/ · n",
+   "mua sắm bốc đồng",
+   "Flash sales on shopping apps often lead to impulse buying.",
+   "Các đợt giảm giá chớp nhoáng trên ứng dụng thường dẫn đến mua sắm bốc đồng."
+  ],
+  [
+   "disposable income",
+   "/dɪˌspəʊzəbl ˈɪnkʌm/ · n",
+   "thu nhập khả dụng",
+   "As disposable income rises, people spend more on entertainment and travel.",
+   "Khi thu nhập khả dụng tăng, người ta chi nhiều hơn cho giải trí và du lịch."
+  ],
+  [
+   "purchasing power",
+   "/ˈpɜːtʃəsɪŋ paʊə/ · n",
+   "sức mua",
+   "Inflation reduces the purchasing power of ordinary families.",
+   "Lạm phát làm giảm sức mua của các gia đình bình thường."
+  ],
+  [
+   "inflation",
+   "/ɪnˈfleɪʃn/ · n",
+   "lạm phát",
+   "High inflation means that prices keep rising while wages stay the same.",
+   "Lạm phát cao nghĩa là giá cả tăng liên tục trong khi lương vẫn vậy."
+  ],
+  [
+   "economic growth",
+   "/ˌiːkəˈnɒmɪk ɡrəʊθ/ · n",
+   "tăng trưởng kinh tế",
+   "Vietnam has achieved impressive economic growth over the past two decades.",
+   "Việt Nam đã đạt tăng trưởng kinh tế ấn tượng trong hai thập kỷ qua."
+  ],
+  [
+   "live beyond one's means",
+   "/lɪv bɪˈjɒnd wʌnz miːnz/ · v phr",
+   "tiêu xài quá khả năng",
+   "Many young people live beyond their means by using credit cards.",
+   "Nhiều người trẻ tiêu quá khả năng vì dùng thẻ tín dụng."
+  ],
+  [
+   "make ends meet",
+   "/meɪk endz miːt/ · v phr",
+   "xoay xở đủ sống",
+   "With prices rising, many workers struggle to make ends meet.",
+   "Giá cả tăng khiến nhiều người lao động chật vật xoay xở đủ sống."
+  ],
+  [
+   "a refund",
+   "/ˈriːfʌnd/ · n",
+   "khoản hoàn tiền",
+   "I asked the shop for a refund because the shoes were damaged.",
+   "Tôi đề nghị cửa hàng hoàn tiền vì đôi giày bị hỏng."
+  ],
+  [
+   "faulty",
+   "/ˈfɔːlti/ · adj",
+   "bị lỗi, hỏng",
+   "The company agreed to replace the faulty laptop free of charge.",
+   "Công ty đồng ý đổi miễn phí chiếc laptop bị lỗi."
+  ],
+  [
+   "value for money",
+   "/ˌvæljuː fə ˈmʌni/ · n",
+   "đáng đồng tiền",
+   "Local markets often offer better value for money than shopping malls.",
+   "Chợ địa phương thường đáng đồng tiền hơn trung tâm thương mại."
+  ],
+  [
+   "consumer rights",
+   "/kənˈsjuːmə raɪts/ · n",
+   "quyền lợi người tiêu dùng",
+   "Shoppers should know their consumer rights when they buy goods online.",
+   "Người mua nên biết quyền lợi người tiêu dùng khi mua hàng trực tuyến."
+  ],
+  [
+   "brand loyalty",
+   "/brænd ˈlɔɪəlti/ · n",
+   "sự trung thành với thương hiệu",
+   "Apple has built strong brand loyalty among young customers.",
+   "Apple đã xây dựng được sự trung thành thương hiệu mạnh mẽ ở khách hàng trẻ."
+  ],
+  [
+   "second-hand",
+   "/ˌsekənd ˈhænd/ · adj",
+   "đồ cũ, đã qua sử dụng",
+   "Buying second-hand clothes is a good way to save money and reduce waste.",
+   "Mua quần áo cũ là cách tốt để tiết kiệm tiền và giảm rác thải."
+  ],
+  [
+   "splash out on",
+   "/splæʃ ˈaʊt ɒn/ · phr v",
+   "vung tiền mua",
+   "She splashed out on a designer bag after getting her first bonus.",
+   "Cô ấy vung tiền mua túi hàng hiệu sau khi nhận khoản thưởng đầu tiên."
+  ],
+  [
+   "a bargain",
+   "/ˈbɑːɡən/ · n",
+   "món hời",
+   "This jacket was a real bargain at only 200,000 dong.",
+   "Chiếc áo khoác này đúng là món hời chỉ với 200.000 đồng."
+  ],
+  [
+   "materialistic",
+   "/məˌtɪəriəˈlɪstɪk/ · adj",
+   "coi trọng vật chất",
+   "Some people believe that modern society has become too materialistic.",
+   "Một số người cho rằng xã hội hiện đại đã trở nên quá coi trọng vật chất."
+  ],
+  [
+   "the gap between rich and poor",
+   "/ɡæp bɪˈtwiːn rɪtʃ ənd pɔː/ · n phr",
+   "khoảng cách giàu nghèo",
+   "Rapid economic growth has widened the gap between rich and poor.",
+   "Tăng trưởng kinh tế nhanh đã nới rộng khoảng cách giàu nghèo."
+  ],
+  [
+   "cut back on spending",
+   "/kʌt ˈbæk ɒn ˈspendɪŋ/ · phr v",
+   "cắt giảm chi tiêu",
+   "Families have to cut back on spending when prices rise.",
+   "Các gia đình phải cắt giảm chi tiêu khi giá cả tăng."
+  ],
+  [
+   "save up for",
+   "/seɪv ˈʌp fə/ · phr v",
+   "để dành tiền cho",
+   "I am saving up for a trip to Japan next summer.",
+   "Tôi đang để dành tiền cho chuyến đi Nhật hè năm sau."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "wish / if only + quá khứ đơn — ước ở hiện tại",
+   "meaning": "Ước điều trái với hiện tại: S + wish (that) + S + V2 / were. 'If only' mạnh hơn, mang cảm xúc tiếc nuối. Dùng 'were' cho mọi ngôi trong văn viết.",
+   "examples": [
+    "I wish I had more disposable income. — Ước gì tôi có nhiều thu nhập khả dụng hơn.",
+    "If only prices were lower! — Giá mà giá cả thấp hơn!",
+    "She wishes she could afford a new phone. — Cô ấy ước có thể mua nổi điện thoại mới."
+   ]
+  },
+  {
+   "form": "wish + had V3 (quá khứ) / wish + would (phàn nàn)",
+   "meaning": "Ước trái với quá khứ: S + wish + S + had V3. Phàn nàn, muốn người khác thay đổi: S + wish + sb/sth + would + V (không dùng với chính mình).",
+   "examples": [
+    "I wish I hadn't splashed out on that bag. — Ước gì tôi đã không vung tiền mua cái túi đó.",
+    "If only I had saved more money last year. — Giá mà năm ngoái tôi tiết kiệm nhiều hơn.",
+    "I wish shops would stop using plastic bags. — Ước gì các cửa hàng thôi dùng túi nilon."
+   ]
+  },
+  {
+   "form": "It's (high/about) time + S + V2 — đã đến lúc",
+   "meaning": "It's time + S + V2 (quá khứ đơn nhưng nghĩa hiện tại): đã đến lúc ai đó nên làm gì (hàm ý hơi muộn). Hoặc It's time (for sb) + to V. 'high time / about time' nhấn mạnh hơn.",
+   "examples": [
+    "It's time we cut back on spending. — Đã đến lúc chúng ta cắt giảm chi tiêu.",
+    "It's high time the government protected consumer rights. — Đã đến lúc chính phủ bảo vệ quyền người tiêu dùng.",
+    "It's time for you to start saving up. — Đã đến lúc bạn bắt đầu để dành tiền."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I wish I ___ more money right now.",
+   "options": [
+    "have",
+    "had",
+    "will have",
+    "had had"
+   ],
+   "answer": "had",
+   "explain": "Ước ở hiện tại → quá khứ đơn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "If only I ___ that expensive phone last month!",
+   "options": [
+    "didn't buy",
+    "hadn't bought",
+    "don't buy",
+    "wouldn't buy"
+   ],
+   "answer": "hadn't bought",
+   "explain": "Ước về quá khứ (last month) → had V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I wish the neighbours ___ so much noise.",
+   "options": [
+    "wouldn't make",
+    "don't make",
+    "hadn't made",
+    "won't make"
+   ],
+   "answer": "wouldn't make",
+   "explain": "Phàn nàn về người khác → wish + would."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It's high time we ___ on spending.",
+   "options": [
+    "cut back",
+    "will cut back",
+    "are cutting back",
+    "to cut back"
+   ],
+   "answer": "cut back",
+   "explain": "It's time + S + V2 (cut ở quá khứ vẫn là cut)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It's time for you ___ saving up.",
+   "options": [
+    "start",
+    "to start",
+    "started",
+    "starting"
+   ],
+   "answer": "to start",
+   "explain": "It's time for sb + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Inflation reduces the ___ power of ordinary families.",
+   "options": [
+    "purchasing",
+    "buying",
+    "spending",
+    "selling"
+   ],
+   "answer": "purchasing",
+   "explain": "purchasing power = sức mua."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Many workers struggle to make ends ___.",
+   "options": [
+    "meet",
+    "meeting",
+    "met",
+    "join"
+   ],
+   "answer": "meet",
+   "explain": "make ends meet = xoay xở đủ sống."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "She wishes she ___ (be) richer.",
+   "answer": [
+    "were",
+    "was"
+   ],
+   "explain": "wish + were (trang trọng) / was."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của động từ",
+   "en": "I wish I ___ (not / spend) all my bonus last week.",
+   "answer": [
+    "hadn't spent",
+    "had not spent"
+   ],
+   "explain": "Ước về quá khứ → had not V3."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The company agreed to replace the ___ laptop free of charge.",
+   "answer": [
+    "faulty",
+    "damaged",
+    "broken"
+   ],
+   "explain": "faulty = bị lỗi."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Local markets often offer better value for ___ than malls.",
+   "answer": [
+    "money"
+   ],
+   "explain": "value for money = đáng đồng tiền."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "It's",
+    "high",
+    "time",
+    "the",
+    "government",
+    "protected",
+    "consumer",
+    "rights."
+   ],
+   "answer": "It's high time the government protected consumer rights.",
+   "explain": "It's high time + S + V2."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Many",
+    "young",
+    "people",
+    "live",
+    "beyond",
+    "their",
+    "means."
+   ],
+   "answer": "Many young people live beyond their means.",
+   "explain": "live beyond one's means."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Ước gì tôi đã không vung tiền mua chiếc túi đó.",
+   "answer": [
+    "I wish I hadn't splashed out on that bag.",
+    "I wish I had not splashed out on that bag.",
+    "If only I hadn't splashed out on that bag.",
+    "I wish I hadn't bought that bag.",
+    "If only I had not splashed out on that bag."
+   ],
+   "explain": "wish + had not V3."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Đã đến lúc chúng ta cắt giảm chi tiêu.",
+   "answer": [
+    "It's time we cut back on spending.",
+    "It is time we cut back on spending.",
+    "It's time for us to cut back on spending.",
+    "It's high time we cut back on spending.",
+    "It's time we cut down on spending."
+   ],
+   "explain": "It's time + S + V2 / for sb to V."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Rapid economic growth has widened the gap between rich and poor.",
+   "answer": "Tăng trưởng kinh tế nhanh đã nới rộng khoảng cách giàu nghèo.",
+   "explain": "widen = nới rộng."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất",
+   "en": "Online shopping festivals such as '11.11' and Black Friday have become extremely popular in Vietnam. Shopping apps offer huge discounts for just a few hours, which encourages impulse buying. A recent survey showed that one in three young shoppers regretted at least one purchase made during these sales. Many said they wished they ( ___ ) more carefully. Financial experts advise consumers to make a shopping list before the sale begins and to stick to it.",
+   "options": [
+    "had shopped",
+    "shopped",
+    "would shop",
+    "have shopped"
+   ],
+   "answer": "had shopped",
+   "explain": "Ước về việc đã qua → had + V3."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Chuyên gia khuyên người mua làm gì?",
+   "en": "Online shopping festivals such as '11.11' and Black Friday have become extremely popular in Vietnam. Shopping apps offer huge discounts for just a few hours, which encourages impulse buying. A recent survey showed that one in three young shoppers regretted at least one purchase made during these sales. Many said they wished they ( ___ ) more carefully. Financial experts advise consumers to make a shopping list before the sale begins and to stick to it.",
+   "options": [
+    "Lập danh sách mua sắm trước và làm theo",
+    "Không bao giờ mua online",
+    "Chỉ mua vào Black Friday",
+    "Dùng thẻ tín dụng"
+   ],
+   "answer": "Lập danh sách mua sắm trước và làm theo",
+   "explain": "Câu cuối: make a shopping list… stick to it."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao các nhóm môi trường ủng hộ đồ cũ?",
+   "en": "Second-hand fashion is growing fast among Vietnamese students. Shops selling used clothes, often called 'đồ si', can be found in every big city. Students say they like these shops because the clothes are cheap and unique. Environmental groups also support the trend, since the fashion industry produces a huge amount of waste. However, some older people still believe that wearing second-hand clothes is a sign of poverty. It is time, many young people argue, that this attitude changed.",
+   "options": [
+    "Ngành thời trang tạo ra rất nhiều rác thải",
+    "Quần áo cũ rẻ",
+    "Sinh viên thích độc lạ",
+    "Người lớn tuổi ủng hộ"
+   ],
+   "answer": "Ngành thời trang tạo ra rất nhiều rác thải",
+   "explain": "'the fashion industry produces a huge amount of waste'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – thái độ] Người trẻ nghĩ gì về quan niệm của người lớn tuổi?",
+   "en": "Second-hand fashion is growing fast among Vietnamese students. Shops selling used clothes, often called 'đồ si', can be found in every big city. Students say they like these shops because the clothes are cheap and unique. Environmental groups also support the trend, since the fashion industry produces a huge amount of waste. However, some older people still believe that wearing second-hand clothes is a sign of poverty. It is time, many young people argue, that this attitude changed.",
+   "options": [
+    "Quan niệm đó nên thay đổi",
+    "Quan niệm đó đúng",
+    "Họ đồng ý hoàn toàn",
+    "Họ không quan tâm"
+   ],
+   "answer": "Quan niệm đó nên thay đổi",
+   "explain": "'It is time… that this attitude changed'."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư khiếu nại sản phẩm lỗi",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "You recently bought a pair of headphones online, but they stopped working after two days.\nWrite a letter to the online shop. In your letter:\n• describe what you bought and when\n• explain the problem\n• say what you want the shop to do.\nYou should write at least 120 words.",
+  "outline": [
+   "Dear Sir or Madam, + I am writing to complain about… which I ordered from your website on…",
+   "Đoạn 1: mô tả sản phẩm, ngày mua, mã đơn",
+   "Đoạn 2: vấn đề + hậu quả (To make matters worse, …; This has caused me considerable inconvenience)",
+   "Đoạn 3: yêu cầu (a refund / a replacement); có thể dùng It is time / I wish… nhẹ nhàng",
+   "Kết: I look forward to your prompt reply. / Yours faithfully,"
+  ],
+  "phrases": [
+   "I am writing to complain about … which I ordered on … — Tôi viết thư để khiếu nại về … mà tôi đã đặt vào ngày …",
+   "Unfortunately, after only two days, … — Đáng tiếc là chỉ sau hai ngày, …",
+   "To make matters worse, … — Tệ hơn nữa, …",
+   "I would therefore like you to give me a full refund. — Vì vậy tôi muốn quý cửa hàng hoàn lại toàn bộ tiền.",
+   "I hope that this matter will be dealt with as soon as possible. — Tôi mong vấn đề này sẽ sớm được giải quyết."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: tiêu tiền thưởng thế nào",
+  "prompt": "Situation: You have just received a bonus of 10 million dong. What is the best way to use it?\n1. Buy the latest smartphone\n2. Put it into a savings account\n3. Spend it on an English course",
+  "questions": [
+   "Which option would you choose and why?",
+   "Why are the other options less suitable?"
+  ],
+  "ideas": [
+   "If I were in this situation, I would definitely…",
+   "The main reason is that it would allow me to…",
+   "Although buying a new phone sounds tempting, …",
+   "Saving money is sensible, but…",
+   "So, all things considered, I'd go for…"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Too many people spend money they haven't earned, to buy things they don't want, to impress people they don't like.",
+   "vi": "Quá nhiều người tiêu tiền họ chưa kiếm được, để mua thứ họ không cần, nhằm gây ấn tượng với người họ không ưa."
+  },
+  "pron": {
+   "title": "Âm /v/ và /w/",
+   "rule": "/v/: răng trên chạm môi dưới, rung (value). /w/: tròn môi, không chạm răng (wish). Người Việt hay đọc /w/ thành /v/ hoặc ngược lại.",
+   "examples": [
+    "value → /ˈvæljuː/",
+    "wish → /wɪʃ/",
+    "west – vest"
+   ]
+  },
+  "phrases": [
+   [
+    "tighten one's belt",
+    "thắt lưng buộc bụng"
+   ],
+   [
+    "cost an arm and a leg",
+    "đắt cắt cổ"
+   ],
+   [
+    "money doesn't grow on trees",
+    "tiền không phải lá mít"
+   ]
+  ],
+  "mistake": "Hay viết 'I wish I have…'. Ước ở hiện tại phải lùi về quá khứ: I wish I HAD…",
+  "tip": "Writing Task 1 thư khiếu nại: luôn có chi tiết cụ thể (ngày mua, mã đơn, giá) — giám khảo đánh giá cao.",
+  "diary": "Viết 3–5 câu về chuyện tiền bạc, dùng I wish… (hiện tại), If only I had… (quá khứ) và It's time I…"
+ }
+}

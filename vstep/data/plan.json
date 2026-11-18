@@ -1,96 +1,96 @@
 {
- "goal": "Chinh phục VSTEP B2 (6.0–8.0): mỗi ngày 25 từ vựng B2 theo chủ đề, 3 mẫu ngữ pháp, bài tập + đọc hiểu, 1 đề Viết và 1 đề Nói. Cứ 7 ngày ôn tập một lần.",
+ "goal": "Chinh phục VSTEP B2 (6.0–8.0): nối tiếp 8 bài đã học (11–18/11), mỗi ngày 20 từ vựng B2 mới (không trùng sổ từ vựng), 3 mẫu ngữ pháp mới, bài tập + đọc hiểu, 1 đề Viết và 1 đề Nói. Ngày 7, 14, 21 ôn tập, ngày 30 tổng ôn + thi thử.",
  "start": "2026-11-19",
  "days": [
   {
    "day": 1,
    "date": "2026-11-19",
    "type": "learn",
-   "id": "bai-1",
-   "lesson": "Bài 1",
-   "title": "Giáo dục",
-   "topicEn": "Education",
+   "id": "bai-9",
+   "lesson": "Bài 9",
+   "title": "Truyền thông & mạng xã hội",
+   "topicEn": "Media & Social Media",
    "grammar": [
-    "Present perfect vs past simple — hiện tại hoàn thành và quá khứ đơn",
-    "Present perfect continuous — hiện tại hoàn thành tiếp diễn",
-    "used to / be used to / get used to — đã từng / quen với"
+    "Gerund vs infinitive — V-ing hay to V",
+    "stop / remember / try / regret + V-ing / to V — đổi nghĩa",
+    "allow / encourage / persuade + O + to V — động từ + tân ngữ + to V"
    ],
-   "skill": "Viết Task 1 (thư phàn nàn) · Nói Part 1"
+   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 3"
   },
   {
    "day": 2,
    "date": "2026-11-20",
    "type": "learn",
-   "id": "bai-2",
-   "lesson": "Bài 2",
-   "title": "Công nghệ",
-   "topicEn": "Technology",
+   "id": "bai-10",
+   "lesson": "Bài 10",
+   "title": "Kinh tế & tiêu dùng",
+   "topicEn": "Economy & Consumerism",
    "grammar": [
-    "Passive voice — câu bị động các thì",
-    "Modal passive — bị động với động từ khuyết thiếu",
-    "have/get something done — thể nhờ bảo"
+    "wish / if only + quá khứ — ước ở hiện tại",
+    "wish / if only + had V3 / would — ước về quá khứ, phàn nàn",
+    "It's (high) time + S + V2 — đã đến lúc"
    ],
-   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 2"
+   "skill": "Viết Task 1 (thư khiếu nại) · Nói Part 2"
   },
   {
    "day": 3,
    "date": "2026-11-21",
    "type": "learn",
-   "id": "bai-3",
-   "lesson": "Bài 3",
-   "title": "Môi trường",
-   "topicEn": "Environment",
+   "id": "bai-11",
+   "lesson": "Bài 11",
+   "title": "Khoa học & trí tuệ nhân tạo",
+   "topicEn": "Science & AI",
    "grammar": [
-    "First & second conditional — câu điều kiện loại 1, 2",
-    "Third conditional — câu điều kiện loại 3",
-    "Mixed conditional — điều kiện hỗn hợp"
+    "Future continuous: will be V-ing — tương lai tiếp diễn",
+    "Future perfect: will have V3 — tương lai hoàn thành",
+    "be likely to / be bound to / be expected to — khả năng xảy ra"
    ],
-   "skill": "Viết Task 2 (Problems & Solutions) · Nói Part 3"
+   "skill": "Viết Task 2 (Discuss both views) · Nói Part 3"
   },
   {
    "day": 4,
    "date": "2026-11-22",
    "type": "learn",
-   "id": "bai-4",
-   "lesson": "Bài 4",
-   "title": "Sức khỏe & lối sống",
-   "topicEn": "Health & Lifestyle",
+   "id": "bai-12",
+   "lesson": "Bài 12",
+   "title": "Thể thao & giải trí",
+   "topicEn": "Sports & Entertainment",
    "grammar": [
-    "Defining & non-defining relative clauses — mệnh đề quan hệ",
-    "Reduced relative clauses — rút gọn mệnh đề quan hệ",
-    "Preposition + which/whom — giới từ + đại từ quan hệ"
+    "So sánh hơn & nhất (dài/ngắn, bất quy tắc)",
+    "The + so sánh hơn…, the + so sánh hơn — càng… càng",
+    "far / much / a lot / slightly + so sánh hơn; not as… as"
    ],
-   "skill": "Viết Task 1 (thư khuyên bạn) · Nói Part 1"
+   "skill": "Viết Task 1 (thư mời) · Nói Part 1"
   },
   {
    "day": 5,
    "date": "2026-11-23",
    "type": "learn",
-   "id": "bai-5",
-   "lesson": "Bài 5",
-   "title": "Công việc & nghề nghiệp",
-   "topicEn": "Work & Careers",
+   "id": "bai-13",
+   "lesson": "Bài 13",
+   "title": "Toàn cầu hóa",
+   "topicEn": "Globalisation",
    "grammar": [
-    "Gerund vs infinitive — V-ing và to V",
-    "stop/remember/try + V-ing/to V — đổi nghĩa",
-    "too/enough + to V — quá… / đủ… để"
+    "must / can't / might + V — suy đoán ở hiện tại",
+    "must / can't / might + have V3 — suy đoán về quá khứ",
+    "should have V3 / needn't have V3 — lẽ ra nên / lẽ ra không cần"
    ],
-   "skill": "Viết Task 1 (thư xin việc) · Nói Part 2"
+   "skill": "Viết Task 2 (Advantages & Disadvantages) · Nói Part 3"
   },
   {
    "day": 6,
    "date": "2026-11-24",
    "type": "learn",
-   "id": "bai-6",
-   "lesson": "Bài 6",
-   "title": "Gia đình & xã hội",
-   "topicEn": "Family & Society",
+   "id": "bai-14",
+   "lesson": "Bài 14",
+   "title": "Tội phạm & pháp luật",
+   "topicEn": "Crime & Law",
    "grammar": [
-    "must/can't/might have + V3 — suy đoán quá khứ",
-    "should have / needn't have — lẽ ra nên / lẽ ra không cần",
-    "have to / be supposed to — bắt buộc / được cho là phải"
+    "Noun clauses: that / whether / wh- — mệnh đề danh từ",
+    "suggest / recommend / insist that + S + V(nguyên mẫu) — câu giả định",
+    "It is essential / vital that + S + (should) V — giả định với tính từ"
    ],
-   "skill": "Viết Task 2 (Discuss both views) · Nói Part 3"
+   "skill": "Viết Task 2 (Causes & Solutions) · Nói Part 2"
   },
   {
    "day": 7,
@@ -107,91 +107,91 @@
    "day": 8,
    "date": "2026-11-26",
    "type": "learn",
-   "id": "bai-7",
-   "lesson": "Bài 7",
-   "title": "Đô thị & giao thông",
-   "topicEn": "Cities & Transport",
+   "id": "bai-15",
+   "lesson": "Bài 15",
+   "title": "Cụm từ viết thư Task 1",
+   "topicEn": "Letter Phrases",
    "grammar": [
-    "Comparatives & superlatives — so sánh hơn, nhất",
-    "The more…, the more… — so sánh kép",
-    "far/much + comparative; not as…as — nhấn mạnh so sánh"
+    "Indirect questions: Could you tell me where…? — câu hỏi gián tiếp",
+    "I would be grateful / I would appreciate it if… — đề nghị lịch sự",
+    "Formal vs informal — chuyển văn phong trang trọng / thân mật"
    ],
-   "skill": "Viết Task 2 (Advantages & Disadvantages) · Nói Part 2"
+   "skill": "Viết Task 1 (thư hỏi thông tin) · Nói Part 1"
   },
   {
    "day": 9,
    "date": "2026-11-27",
    "type": "learn",
-   "id": "bai-8",
-   "lesson": "Bài 8",
-   "title": "Du lịch & văn hóa",
-   "topicEn": "Travel & Culture",
+   "id": "bai-16",
+   "lesson": "Bài 16",
+   "title": "Từ nối & paraphrase nâng cao",
+   "topicEn": "Linking & Paraphrasing",
    "grammar": [
-    "Reported statements — câu tường thuật",
-    "Reported questions — tường thuật câu hỏi",
-    "Reporting verbs (suggest, advise, deny…) — động từ tường thuật"
+    "whereas / while / in contrast — đối lập hai vế",
+    "consequently / thereby / hence — chỉ kết quả",
+    "Nominalisation — danh từ hóa để paraphrase"
    ],
-   "skill": "Viết Task 1 (thư hỏi thông tin) · Nói Part 1"
+   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 3"
   },
   {
    "day": 10,
    "date": "2026-11-28",
    "type": "learn",
-   "id": "bai-9",
-   "lesson": "Bài 9",
-   "title": "Truyền thông & mạng xã hội",
-   "topicEn": "Media & Social Media",
+   "id": "bai-17",
+   "lesson": "Bài 17",
+   "title": "Giáo dục đại học & học trực tuyến",
+   "topicEn": "Higher Education & E-learning",
    "grammar": [
-    "Not only… but also / Never… — đảo ngữ nhấn mạnh",
-    "Hardly… when / No sooner… than — vừa mới… thì",
-    "Only when / Not until — chỉ khi / mãi đến khi"
+    "Articles a / an / the / Ø — mạo từ",
+    "Quantifiers: few / a few / little / a little / a great deal of — lượng từ",
+    "make vs do — kết hợp từ"
    ],
-   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 3"
+   "skill": "Viết Task 2 (Discuss both views) · Nói Part 2"
   },
   {
    "day": 11,
    "date": "2026-11-29",
    "type": "learn",
-   "id": "bai-10",
-   "lesson": "Bài 10",
-   "title": "Kinh tế & tiêu dùng",
-   "topicEn": "Economy & Consumerism",
+   "id": "bai-18",
+   "lesson": "Bài 18",
+   "title": "Đời sống số & dữ liệu",
+   "topicEn": "Digital Life & Data",
    "grammar": [
-    "wish / if only — ước",
-    "It's (high) time + past — đã đến lúc",
-    "would rather + clause — muốn ai làm gì hơn"
+    "Phrasal verbs tách được / không tách được",
+    "Adjective + preposition (aware of, concerned about…)",
+    "Verb + preposition (rely on, depend on, consist of…)"
    ],
-   "skill": "Viết Task 1 (thư khiếu nại) · Nói Part 2"
+   "skill": "Viết Task 1 (thư góp ý) · Nói Part 2"
   },
   {
    "day": 12,
    "date": "2026-11-30",
    "type": "learn",
-   "id": "bai-11",
-   "lesson": "Bài 11",
-   "title": "Khoa học & trí tuệ nhân tạo",
-   "topicEn": "Science & AI",
+   "id": "bai-19",
+   "lesson": "Bài 19",
+   "title": "Biến đổi khí hậu & năng lượng",
+   "topicEn": "Climate Change & Energy",
    "grammar": [
-    "Future forms — will / be going to / hiện tại tiếp diễn",
-    "Future continuous & future perfect — tương lai tiếp diễn, hoàn thành",
-    "be likely to / be bound to — có khả năng / chắc chắn sẽ"
+    "provided that / as long as / on condition that — điều kiện",
+    "otherwise / or else — nếu không thì",
+    "But for / Without + N — nếu không có"
    ],
-   "skill": "Viết Task 2 (Discuss both views) · Nói Part 3"
+   "skill": "Viết Task 2 (Problems & Solutions) · Nói Part 3"
   },
   {
    "day": 13,
    "date": "2026-12-01",
    "type": "learn",
-   "id": "bai-12",
-   "lesson": "Bài 12",
-   "title": "Thể thao & giải trí",
-   "topicEn": "Sports & Entertainment",
+   "id": "bai-20",
+   "lesson": "Bài 20",
+   "title": "Y tế cộng đồng",
+   "topicEn": "Public Health",
    "grammar": [
-    "It is/was… that… — câu chẻ",
-    "What… is/was… — câu chẻ với What",
-    "Emphatic do/does/did — nhấn mạnh động từ"
+    "in order to / so as to + V — để",
+    "so that / in order that + mệnh đề — để mà",
+    "for fear of / in case — phòng khi, sợ rằng"
    ],
-   "skill": "Viết Task 1 (thư mời) · Nói Part 1"
+   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 1"
   },
   {
    "day": 14,
@@ -208,91 +208,91 @@
    "day": 15,
    "date": "2026-12-03",
    "type": "learn",
-   "id": "bai-13",
-   "lesson": "Bài 13",
-   "title": "Toàn cầu hóa",
-   "topicEn": "Globalisation",
+   "id": "bai-21",
+   "lesson": "Bài 21",
+   "title": "Thị trường việc làm & khởi nghiệp",
+   "topicEn": "Job Market & Start-ups",
    "grammar": [
-    "Participle clauses (V-ing / V3) — mệnh đề phân từ",
-    "Having + V3 — phân từ hoàn thành",
-    "despite / in spite of vs although — mặc dù"
+    "Past perfect continuous: had been V-ing",
+    "Narrative tenses — phối hợp các thì kể chuyện",
+    "by the time / until / as soon as — liên từ thời gian"
    ],
-   "skill": "Viết Task 2 (Advantages & Disadvantages) · Nói Part 3"
+   "skill": "Viết Task 1 (thư xin nghỉ / đổi lịch) · Nói Part 2"
   },
   {
    "day": 16,
    "date": "2026-12-04",
    "type": "learn",
-   "id": "bai-14",
-   "lesson": "Bài 14",
-   "title": "Tội phạm & pháp luật",
-   "topicEn": "Crime & Law",
+   "id": "bai-22",
+   "lesson": "Bài 22",
+   "title": "Giới trẻ & các thế hệ",
+   "topicEn": "Youth & Generations",
    "grammar": [
-    "Noun clauses (that / whether / wh-) — mệnh đề danh từ",
-    "It is said that… / be believed to — bị động khách quan",
-    "recommend/suggest that + S + V(bare) — câu giả định"
+    "would + V vs used to — thói quen quá khứ",
+    "be/get used to + V-ing — quen với (ôn và mở rộng)",
+    "It takes / spend / waste + time — thời gian (ôn và mở rộng)"
    ],
-   "skill": "Viết Task 2 (Causes & Solutions) · Nói Part 2"
+   "skill": "Viết Task 2 (Two-part question) · Nói Part 3"
   },
   {
    "day": 17,
    "date": "2026-12-05",
    "type": "learn",
-   "id": "bai-15",
-   "lesson": "Bài 15",
-   "title": "Cụm từ viết thư Task 1",
-   "topicEn": "Letter phrases",
+   "id": "bai-23",
+   "lesson": "Bài 23",
+   "title": "Nhà ở & quy hoạch đô thị",
+   "topicEn": "Housing & Urban Planning",
    "grammar": [
-    "I would be grateful if… — câu đề nghị lịch sự",
-    "Indirect questions — câu hỏi gián tiếp",
-    "I was wondering if… — làm mềm lời đề nghị"
+    "It is / was … that … — câu chẻ",
+    "What … is / was … — câu chẻ với What",
+    "Emphatic do / does / did — nhấn mạnh"
    ],
-   "skill": "Viết Task 1 (thư trang trọng) · Nói Part 1"
+   "skill": "Viết Task 2 (Causes & Effects) · Nói Part 2"
   },
   {
    "day": 18,
    "date": "2026-12-06",
    "type": "learn",
-   "id": "bai-16",
-   "lesson": "Bài 16",
-   "title": "Từ nối & paraphrase nâng cao",
-   "topicEn": "Linking & Paraphrasing",
+   "id": "bai-24",
+   "lesson": "Bài 24",
+   "title": "Du lịch bền vững & di sản",
+   "topicEn": "Sustainable Tourism & Heritage",
    "grammar": [
-    "however / whereas / while — đối lập",
-    "consequently / thereby / as a result — kết quả",
-    "Nominalisation — danh từ hóa để paraphrase"
+    "Compound adjectives (well-known, time-consuming…)",
+    "Adverbs of degree: quite / rather / fairly / extremely",
+    "Word formation — tiền tố & hậu tố"
    ],
-   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 3"
+   "skill": "Viết Task 1 (thư giới thiệu) · Nói Part 1"
   },
   {
    "day": 19,
    "date": "2026-12-07",
    "type": "learn",
-   "id": "bai-17",
-   "lesson": "Bài 17",
-   "title": "Giáo dục đại học & học trực tuyến",
-   "topicEn": "Higher Education & Online Learning",
+   "id": "bai-25",
+   "lesson": "Bài 25",
+   "title": "Quảng cáo & tin tức",
+   "topicEn": "Advertising & News",
    "grammar": [
-    "Articles a/an/the/zero — mạo từ",
-    "Countable/uncountable & quantifiers — lượng từ",
-    "make vs do collocations — kết hợp từ"
+    "Hedging: tend to / it appears that / may — nói thận trọng",
+    "Impersonal passive (ôn): S is thought to have V3",
+    "Quantifiers for data: the majority of / a small proportion of"
    ],
-   "skill": "Viết Task 2 (Discuss both views) · Nói Part 2"
+   "skill": "Viết Task 2 (Advantages & Disadvantages) · Nói Part 3"
   },
   {
    "day": 20,
    "date": "2026-12-08",
    "type": "learn",
-   "id": "bai-18",
-   "lesson": "Bài 18",
-   "title": "Biến đổi khí hậu & năng lượng",
-   "topicEn": "Climate Change & Energy",
+   "id": "bai-26",
+   "lesson": "Bài 26",
+   "title": "Tiền bạc & thói quen mua sắm",
+   "topicEn": "Money & Spending Habits",
    "grammar": [
-    "unless / provided that / as long as — điều kiện mở rộng",
-    "Should/Were/Had… — đảo ngữ câu điều kiện",
-    "otherwise / or else — nếu không thì"
+    "Relative clauses with prepositions: in which / to whom",
+    "Quantifier + of which / of whom (most of which…)",
+    "whatever / whoever / wherever — bất cứ"
    ],
-   "skill": "Viết Task 2 (Problems & Solutions) · Nói Part 3"
+   "skill": "Viết Task 1 (thư xin lỗi) · Nói Part 2"
   },
   {
    "day": 21,
@@ -309,104 +309,104 @@
    "day": 22,
    "date": "2026-12-10",
    "type": "learn",
-   "id": "bai-19",
-   "lesson": "Bài 19",
-   "title": "Đời sống số & quyền riêng tư",
-   "topicEn": "Digital Life & Privacy",
+   "id": "bai-27",
+   "lesson": "Bài 27",
+   "title": "Không gian & phát minh",
+   "topicEn": "Space & Innovation",
    "grammar": [
-    "Phrasal verbs — cụm động từ tách được/không tách",
-    "Adjective + preposition — tính từ + giới từ",
-    "Verb/noun + preposition — động từ, danh từ + giới từ"
+    "be about to / be on the verge of — sắp sửa",
+    "Future in the past: was going to / would — tương lai trong quá khứ",
+    "may / might / could well — khả năng trong tương lai"
    ],
-   "skill": "Viết Task 1 (thư góp ý) · Nói Part 2"
+   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 3"
   },
   {
    "day": 23,
    "date": "2026-12-11",
    "type": "learn",
-   "id": "bai-20",
-   "lesson": "Bài 20",
-   "title": "Y tế cộng đồng",
-   "topicEn": "Public Health",
+   "id": "bai-28",
+   "lesson": "Bài 28",
+   "title": "Nghệ thuật & giải trí",
+   "topicEn": "Arts & Leisure",
    "grammar": [
-    "so/such… that — quá… đến nỗi",
-    "in order to / so as to / so that — chỉ mục đích",
-    "Purpose vs result linkers — mục đích và kết quả"
+    "-ed vs -ing adjectives (bored / boring)",
+    "Adjective order — trật tự tính từ",
+    "too… for sb to V / enough… for sb to V"
    ],
-   "skill": "Viết Task 2 (Agree/Disagree) · Nói Part 3"
+   "skill": "Viết Task 1 (thư cảm ơn) · Nói Part 1"
   },
   {
    "day": 24,
    "date": "2026-12-12",
    "type": "learn",
-   "id": "bai-21",
-   "lesson": "Bài 21",
-   "title": "Làm việc từ xa & thị trường việc làm",
-   "topicEn": "Remote Work & Job Market",
+   "id": "bai-29",
+   "lesson": "Bài 29",
+   "title": "Ngôn ngữ & di cư",
+   "topicEn": "Languages & Migration",
    "grammar": [
-    "Past perfect & past perfect continuous — quá khứ hoàn thành",
-    "Narrative tenses — các thì kể chuyện",
-    "by the time / until — trước khi / cho đến khi"
+    "Reporting verbs + to V: promise, refuse, offer, agree",
+    "Reporting verbs + O + to V: advise, warn, remind, urge",
+    "Reporting verbs + V-ing / that: admit, deny, suggest, insist on"
    ],
-   "skill": "Viết Task 1 (thư xin nghỉ/đổi lịch) · Nói Part 1"
+   "skill": "Viết Task 2 (Discuss both views) · Nói Part 2"
   },
   {
    "day": 25,
    "date": "2026-12-13",
    "type": "learn",
-   "id": "bai-22",
-   "lesson": "Bài 22",
-   "title": "Già hóa dân số & đô thị hóa",
-   "topicEn": "Ageing & Urbanisation",
+   "id": "bai-30",
+   "lesson": "Bài 30",
+   "title": "Chính phủ & dịch vụ công",
+   "topicEn": "Government & Public Services",
    "grammar": [
-    "Concession: even if / however + adj — nhượng bộ",
-    "Contrast: whereas / while — tương phản",
-    "nevertheless / nonetheless — tuy nhiên"
+    "must / have to / be required to — bắt buộc",
+    "mustn't vs don't have to / needn't — cấm vs không cần",
+    "had better / be supposed to — nên / được cho là phải"
    ],
-   "skill": "Viết Task 2 (Causes & Effects) · Nói Part 3"
+   "skill": "Viết Task 2 (Problems & Solutions) · Nói Part 3"
   },
   {
    "day": 26,
    "date": "2026-12-14",
    "type": "learn",
-   "id": "bai-23",
-   "lesson": "Bài 23",
-   "title": "Du lịch & di sản",
-   "topicEn": "Tourism & Heritage",
+   "id": "bai-31",
+   "lesson": "Bài 31",
+   "title": "Thực phẩm & nông nghiệp",
+   "topicEn": "Food & Agriculture",
    "grammar": [
-    "Compound adjectives — tính từ ghép",
-    "Adverbs of degree (quite, rather, fairly) — trạng từ mức độ",
-    "Word formation (prefix/suffix) — cấu tạo từ"
+    "make / let / help + O + V — sai khiến",
+    "be made to V / be allowed to V — bị động của make, let",
+    "have / get + O + V3 (nâng cao)"
    ],
-   "skill": "Viết Task 1 (thư giới thiệu) · Nói Part 2"
+   "skill": "Viết Task 2 (Causes & Effects) · Nói Part 2"
   },
   {
    "day": 27,
    "date": "2026-12-15",
    "type": "learn",
-   "id": "bai-24",
-   "lesson": "Bài 24",
-   "title": "Quảng cáo & tin tức",
-   "topicEn": "Advertising & News",
+   "id": "bai-32",
+   "lesson": "Bài 32",
+   "title": "Động vật & bảo tồn",
+   "topicEn": "Wildlife & Conservation",
    "grammar": [
-    "Hedging (tend to, it appears that) — nói giảm, thận trọng",
-    "Impersonal passive — bị động khách quan",
-    "Quantifiers for data (the majority of…) — lượng từ số liệu"
+    "Under no circumstances / On no account + đảo ngữ",
+    "Little / At no time / In no way + đảo ngữ",
+    "So + adj + be + S + that / Such + be + N + that"
    ],
-   "skill": "Viết Task 2 (Advantages & Disadvantages) · Nói Part 3"
+   "skill": "Viết Task 1 (thư đề xuất) · Nói Part 3"
   },
   {
    "day": 28,
    "date": "2026-12-16",
    "type": "learn",
-   "id": "bai-25",
-   "lesson": "Bài 25",
+   "id": "bai-33",
+   "lesson": "Bài 33",
    "title": "Kỹ năng Nói Part 1–3",
    "topicEn": "Speaking Skills",
    "grammar": [
-    "Giving opinions — nêu quan điểm",
-    "Speculating — phỏng đoán",
-    "Giving examples & reasons — đưa ví dụ, lý do"
+    "Giving opinions — nêu quan điểm tự nhiên",
+    "Buying time & speculating — kéo dài thời gian, phỏng đoán",
+    "Giving examples & reasons — ví dụ và lý do"
    ],
    "skill": "Nói Part 1 + 2 + 3 · Viết Task 1"
   },
@@ -414,14 +414,14 @@
    "day": 29,
    "date": "2026-12-17",
    "type": "learn",
-   "id": "bai-26",
-   "lesson": "Bài 26",
+   "id": "bai-34",
+   "lesson": "Bài 34",
    "title": "Paraphrase cho Nghe & Đọc",
    "topicEn": "Paraphrasing for Listening & Reading",
    "grammar": [
-    "Synonyms & antonyms — đồng nghĩa, trái nghĩa",
+    "Synonyms — đồng nghĩa hay gặp trong đề",
     "Word families — họ từ",
-    "Collocations — kết hợp từ thường gặp"
+    "Collocations — kết hợp từ cố định"
    ],
    "skill": "Đọc hiểu · Viết Task 2"
   },

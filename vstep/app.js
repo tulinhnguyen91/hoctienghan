@@ -86,7 +86,10 @@ async function loadLesson(id) {
   if (!r.ok) throw new Error('missing');
   return (cache[id] = await r.json());
 }
-async function loadAll() { const idx = await loadIndex(); return Promise.all(idx.lessons.map(l => loadLesson(l.id))); }
+/* bài đã tới ngày học (date ≤ hôm nay); bài tương lai vẫn mở được nhưng không vào ôn tập */
+const isOpen = l => !l.date || l.date <= dayKey();
+async function availableLessons() { const idx = await loadIndex(); const a = idx.lessons.filter(isOpen); return a.length ? a : idx.lessons.slice(0, 1); }
+async function loadAll() { return Promise.all((await availableLessons()).map(l => loadLesson(l.id))); }
 
 /* ---------- kết quả & từ sai ---------- */
 const results = () => store.get('results', []);
@@ -162,8 +165,9 @@ const CHEERS = ['🐷 Heo con cố lên — you can do it!', '🐷 Slow and stea
 const enTitle = l => l.enTitle || l.title;
 async function renderHome() {
   const idx = await loadIndex();
-  const ls = idx.lessons.slice();
-  if (!ls.length) { $app.innerHTML = '<p class="empty">Chưa có bài nào.</p>'; return; }
+  if (!idx.lessons.length) { $app.innerHTML = '<p class="empty">Chưa có bài nào.</p>'; return; }
+  const ls = await availableLessons();
+  const upcoming = idx.lessons.filter(l => !isOpen(l));
   const latest = ls[ls.length - 1];
   const lt = await loadLesson(latest.id);
   const todayDone = results().filter(r => r.day === dayKey()).length;
@@ -180,7 +184,7 @@ async function renderHome() {
       <span class="ghost" lang="en" aria-hidden="true">B2</span>
       <span class="tiara" aria-hidden="true">${PIG('pig hero-pig')}</span>
       <span class="spark s1" aria-hidden="true">✦</span><span class="spark s2" aria-hidden="true">☁</span><span class="spark s3" aria-hidden="true">✦</span>
-      <div class="when">${latest.date ? 'Bài ngày ' + fmtDate(latest.date) : 'Bài mới nhất'}</div>
+      <div class="when">${latest.date === dayKey() ? 'Bài hôm nay · ' + fmtDate(latest.date) : latest.date ? 'Bài ngày ' + fmtDate(latest.date) : 'Bài mới nhất'}</div>
       <span class="hangul" lang="en">${esc(enTitle(latest))}</span>
       <div class="vi">${esc(latest.lesson)} · ${esc(latest.title)}</div>
       <div class="stats"><span><b>${lt.words.length}</b> từ</span><span><b>${lt.patterns.length}</b> ngữ pháp</span><span><b>${lt.exercises.length}</b> bài tập</span></div>
@@ -203,7 +207,10 @@ async function renderHome() {
             <div class="dots" aria-label="Đã làm ${done.length}/${modes.length} dạng bài">${modes.map(m => `<i class="${done.includes(m) ? 'on' : ''}"></i>`).join('')}</div>
           </a></li>`;
       }).join('')}
-    </ol>`;
+    </ol>
+    ${upcoming.length ? `<details class="hint-box upcoming"><summary>📅 Sắp tới · ${upcoming.length} bài đã soạn sẵn</summary>
+      <ul class="ex-list">${upcoming.map(l => `<li><a href="#/${l.id}"><b>${fmtDate(l.date).slice(0, -5)}</b> · ${esc(l.lesson)} · ${esc(l.title)} <span class="muted small" lang="en">(${esc(enTitle(l))})</span></a></li>`).join('')}</ul>
+      <p class="small muted">Bạn có thể mở trước để xem; từ vựng chỉ vào phần Ôn tập khi tới ngày học.</p></details>` : ''}`;
   petals($app.querySelector('.hero'));
   bindHomeExtras(ex);
 }
@@ -211,8 +218,8 @@ async function renderHome() {
 async function todayExtras() {
   const plan = await loadPlan(); const idx = await loadIndex();
   let id = null;
-  if (plan) { const { d } = planToday(plan); if (d && d.id && idx.lessons.some(l => l.id === d.id)) id = d.id; }
-  if (!id && idx.lessons.length) id = idx.lessons[idx.lessons.length - 1].id;
+  if (plan) { const { d, before } = planToday(plan); if (!before && d && d.id && idx.lessons.some(l => l.id === d.id)) id = d.id; }
+  if (!id) { const av = await availableLessons(); if (av.length) id = av[av.length - 1].id; }
   if (!id) return null;
   const L = await loadLesson(id);
   return L.corner ? { ...L.corner, day: L.day || L.lesson } : null;
@@ -282,8 +289,11 @@ async function renderPlan() {
   const plan = await loadPlan(); await loadIndex();
   if (!plan) { $app.innerHTML = '<p class="empty">Chưa có lộ trình.</p>'; return; }
   const t = dayKey(); const ids = INDEX.lessons.map(l => l.id);
+  const before = INDEX.lessons.filter(l => l.date && l.date < plan.days[0].date);
   $app.innerHTML = `<h1>Lộ trình ${plan.days.length} ngày</h1>
     <p class="muted">${esc(plan.goal)}</p>
+    ${before.length ? `<h2>Đã học trước đó</h2><ol class="plan">${before.map(l => `<li class="past"><div class="pd"><b>✓</b><span>${fmtDate(l.date).slice(0, -5)}</span></div>
+      <div class="pc"><a href="#/${l.id}"><div class="pt">${esc(l.lesson)} · ${esc(l.title)}</div></a><div class="small muted" lang="en">${esc(enTitle(l))}</div></div></li>`).join('')}</ol><h2>30 ngày tới</h2>` : ''}
     <ol class="plan">${plan.days.map(d => {
       const st = d.date < t ? 'past' : d.date === t ? 'now' : 'next';
       const link = d.id && ids.includes(d.id);

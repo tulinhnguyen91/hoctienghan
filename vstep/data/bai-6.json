@@ -1,0 +1,463 @@
+{
+ "id": "bai-6",
+ "lesson": "Bài 6",
+ "day": null,
+ "date": "2026-11-16",
+ "title": "Gia đình & xã hội",
+ "enTitle": "Family & Society",
+ "past": true,
+ "words": [
+  [
+   "the generation gap",
+   "/ðə ˌdʒenəˈreɪʃn ɡæp/ · n",
+   "khoảng cách thế hệ",
+   "The generation gap often leads to misunderstandings between parents and their teenage children.",
+   "Khoảng cách thế hệ thường gây hiểu lầm giữa cha mẹ và con tuổi teen."
+  ],
+  [
+   "a nuclear family",
+   "/ˈnjuːkliə ˈfæməli/ · n",
+   "gia đình hạt nhân",
+   "In modern cities, the nuclear family has gradually replaced the traditional multi-generational household.",
+   "Ở thành phố hiện đại, gia đình hạt nhân dần thay thế gia đình nhiều thế hệ truyền thống."
+  ],
+  [
+   "an extended family",
+   "/ɪkˈstendɪd ˈfæməli/ · n",
+   "đại gia đình nhiều thế hệ",
+   "Children who grow up in an extended family can learn valuable life lessons from their grandparents.",
+   "Trẻ lớn lên trong đại gia đình có thể học được bài học quý từ ông bà."
+  ],
+  [
+   "family values",
+   "/ˈfæməli ˈvæljuːz/ · n",
+   "các giá trị gia đình",
+   "Traditional family values such as respect for elders should be preserved in a rapidly changing society.",
+   "Các giá trị gia đình truyền thống như kính trọng người lớn nên được giữ gìn trong xã hội thay đổi nhanh."
+  ],
+  [
+   "strengthen family bonds",
+   "/ˈstreŋθn ˈfæməli bɒndz/ · v phr",
+   "gắn kết tình cảm gia đình",
+   "Sharing meals together on a regular basis is a simple way to strengthen family bonds.",
+   "Thường xuyên ăn cơm cùng nhau là cách đơn giản để gắn kết gia đình."
+  ],
+  [
+   "bring up children",
+   "/brɪŋ ʌp ˈtʃɪldrən/ · phr v",
+   "nuôi dạy con cái",
+   "Bringing up children in a large city is becoming increasingly expensive for young couples.",
+   "Nuôi con ở thành phố lớn ngày càng tốn kém với các cặp vợ chồng trẻ."
+  ],
+  [
+   "parental guidance",
+   "/pəˈrentl ˈɡaɪdns/ · n",
+   "sự định hướng của cha mẹ",
+   "Without proper parental guidance, teenagers may easily be influenced by harmful content online.",
+   "Thiếu sự định hướng của cha mẹ, thiếu niên dễ bị ảnh hưởng bởi nội dung độc hại trên mạng."
+  ],
+  [
+   "an ageing population",
+   "/ˈeɪdʒɪŋ ˌpɒpjuˈleɪʃn/ · n",
+   "dân số già hóa",
+   "An ageing population places considerable pressure on the pension system and public services.",
+   "Dân số già hóa gây áp lực đáng kể lên hệ thống lương hưu và dịch vụ công."
+  ],
+  [
+   "look after elderly parents",
+   "/lʊk ˈɑːftə ˈeldəli ˈpeərənts/ · phr v",
+   "chăm sóc cha mẹ già",
+   "In many Asian cultures, adult children are expected to look after their elderly parents.",
+   "Ở nhiều nền văn hóa châu Á, con cái trưởng thành được kỳ vọng chăm sóc cha mẹ già."
+  ],
+  [
+   "gender equality",
+   "/ˈdʒendər iˈkwɒləti/ · n",
+   "bình đẳng giới",
+   "Promoting gender equality at home means that household chores should be shared fairly between partners.",
+   "Thúc đẩy bình đẳng giới trong gia đình nghĩa là việc nhà nên được chia đều giữa hai vợ chồng."
+  ],
+  [
+   "social inequality",
+   "/ˈsəʊʃl ˌɪnɪˈkwɒləti/ · n",
+   "bất bình đẳng xã hội",
+   "The widening gap between the rich and the poor is a clear sign of growing social inequality.",
+   "Khoảng cách giàu nghèo ngày càng rộng là dấu hiệu rõ của bất bình đẳng xã hội gia tăng."
+  ],
+  [
+   "the divorce rate",
+   "/dɪˈvɔːs reɪt/ · n",
+   "tỷ lệ ly hôn",
+   "Some sociologists argue that financial pressure is one of the main causes of the rising divorce rate.",
+   "Một số nhà xã hội học cho rằng áp lực tài chính là một nguyên nhân chính khiến tỷ lệ ly hôn tăng."
+  ],
+  [
+   "peer pressure",
+   "/ˈpɪə preʃə/ · n",
+   "áp lực từ bạn bè đồng trang lứa",
+   "Many teenagers start smoking as a result of peer pressure rather than personal choice.",
+   "Nhiều thiếu niên bắt đầu hút thuốc vì áp lực bạn bè chứ không phải tự chọn."
+  ],
+  [
+   "community spirit",
+   "/kəˈmjuːnəti ˈspɪrɪt/ · n",
+   "tinh thần cộng đồng",
+   "Local festivals and volunteer activities help to foster a strong community spirit among residents.",
+   "Lễ hội địa phương và hoạt động tình nguyện giúp xây dựng tinh thần cộng đồng mạnh mẽ."
+  ],
+  [
+   "a sense of belonging",
+   "/ə sens əv bɪˈlɒŋɪŋ/ · n",
+   "cảm giác gắn bó, thuộc về",
+   "Being part of a close-knit family gives children a sense of belonging and emotional security.",
+   "Sống trong gia đình gắn bó cho trẻ cảm giác thuộc về và an toàn về cảm xúc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Câu tường thuật: lùi thì",
+   "meaning": "Khi động từ tường thuật ở quá khứ (said, told), lùi thì: HTĐ → QKĐ · HTTD → QKTD · HTHT → QKHT · QKĐ → QKHT · will → would · can → could · may → might · shall → should. KHÔNG lùi khi: động từ tường thuật ở hiện tại (says), sự thật hiển nhiên, câu điều kiện loại 2–3, should/could/might/must/would.",
+   "examples": [
+    "\"I am having dinner,\" Chuan said. → Chuan said that he was having dinner. — Chuẩn nói rằng anh ấy đang ăn tối.",
+    "\"I will visit my grandparents,\" she said. → She said she would visit her grandparents. — Cô ấy nói sẽ về thăm ông bà.",
+    "My mom says she is going to the market. — Mẹ tôi bảo mẹ đang đi chợ (không lùi thì vì says).",
+    "She said that the sun rises in the East. — Cô ấy nói mặt trời mọc ở hướng Đông (sự thật hiển nhiên)."
+   ]
+  },
+  {
+   "form": "Đổi ngôi, trạng từ thời gian – nơi chốn",
+   "meaning": "I → he/she · we → they · my → his/her · here → there · now → then · today → that day · yesterday → the day before · tomorrow → the day after / the next day · ago → before · next week → the following week · last month → the previous month · this → that.",
+   "examples": [
+    "\"I will go to the cinema with you tomorrow,\" he said. → He said that he would go to the cinema with me the next day. — Anh ấy nói hôm sau sẽ đi xem phim với tôi.",
+    "\"We moved here two years ago,\" they said. → They said they had moved there two years before. — Họ nói họ đã chuyển đến đó hai năm trước."
+   ]
+  },
+  {
+   "form": "Tường thuật câu hỏi & động từ tường thuật đặc biệt",
+   "meaning": "Yes/No: S + asked/wanted to know/wondered + if/whether + S + V (KHÔNG đảo ngữ, không dấu ?). Wh-: S + asked + Wh- + S + V. Động từ đặc biệt: accuse sb of V-ing (buộc tội) · blame sb for V-ing (đổ lỗi) · apologise (to sb) for V-ing (xin lỗi).",
+   "examples": [
+    "\"Are you OK?\" my friend asked. → My friend asked if I was OK. — Bạn tôi hỏi tôi có ổn không.",
+    "Chuan asked Linh how many members there were in her family. — Chuẩn hỏi Linh nhà cô ấy có mấy người.",
+    "\"You have broken the vase,\" Linh said. → Linh blamed Chuan for breaking the vase. — Linh đổ lỗi cho Chuẩn làm vỡ bình."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"I am tired,\" she said. → She said that she ___ tired.",
+   "options": [
+    "is",
+    "was",
+    "has been",
+    "will be"
+   ],
+   "answer": "was",
+   "explain": "HTĐ → QKĐ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"I will help you,\" he said. → He said that he ___ me.",
+   "options": [
+    "will help",
+    "would help",
+    "helps",
+    "had helped"
+   ],
+   "answer": "would help",
+   "explain": "will → would; you → me."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"We moved here last year,\" they said. → They said they had moved there ___.",
+   "options": [
+    "last year",
+    "the previous year",
+    "next year",
+    "the year after"
+   ],
+   "answer": "the previous year",
+   "explain": "last year → the previous year."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"Do you live with your grandparents?\" she asked me. → She asked me ___",
+   "options": [
+    "if I lived with my grandparents.",
+    "do I live with my grandparents.",
+    "if did I live with my grandparents.",
+    "that I lived with my grandparents?"
+   ],
+   "answer": "if I lived with my grandparents.",
+   "explain": "Yes/No → if/whether + S + V, không đảo."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu tường thuật đúng",
+   "en": "\"Where are you going?\" Mum asked. → Mum asked where ___.",
+   "options": [
+    "I was going",
+    "was I going",
+    "I am going",
+    "am I going"
+   ],
+   "answer": "I was going",
+   "explain": "Wh- + S + V, lùi thì."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Linh blamed Chuan ___ the vase.",
+   "options": [
+    "of breaking",
+    "for breaking",
+    "to break",
+    "breaking"
+   ],
+   "answer": "for breaking",
+   "explain": "blame sb for V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The police accused him ___ the money.",
+   "options": [
+    "for stealing",
+    "of stealing",
+    "to steal",
+    "steal"
+   ],
+   "answer": "of stealing",
+   "explain": "accuse sb of V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "My mom says she ___ (go) to the market now.",
+   "answer": [
+    "is going"
+   ],
+   "explain": "Động từ tường thuật ở hiện tại (says) → không lùi thì."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "He apologised ___ being late.",
+   "answer": [
+    "for"
+   ],
+   "explain": "apologise for V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Sharing meals together helps strengthen family ___.",
+   "answer": [
+    "bonds"
+   ],
+   "explain": "strengthen family bonds."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Many teenagers start smoking as a result of ___ pressure.",
+   "answer": [
+    "peer"
+   ],
+   "explain": "peer pressure."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Chuan",
+    "asked",
+    "Linh",
+    "how",
+    "many",
+    "members",
+    "there",
+    "were",
+    "in",
+    "her",
+    "family."
+   ],
+   "answer": "Chuan asked Linh how many members there were in her family.",
+   "explain": "Wh- + S + V (there were), không đảo."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "She",
+    "said",
+    "that",
+    "the",
+    "sun",
+    "rises",
+    "in",
+    "the",
+    "East."
+   ],
+   "answer": "She said that the sun rises in the East.",
+   "explain": "Sự thật hiển nhiên → không lùi thì."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Cô ấy hỏi tôi có sống với bố mẹ không.",
+   "answer": [
+    "She asked me if I lived with my parents.",
+    "She asked me whether I lived with my parents.",
+    "She asked if I lived with my parents.",
+    "She asked whether I lived with my parents."
+   ],
+   "explain": "asked (me) if/whether + S + V(lùi thì)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Anh ấy nói rằng anh ấy sẽ chăm sóc bố mẹ già.",
+   "answer": [
+    "He said that he would look after his elderly parents.",
+    "He said he would look after his elderly parents.",
+    "He said that he would take care of his elderly parents.",
+    "He said he would take care of his elderly parents."
+   ],
+   "explain": "will → would."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Being part of a close-knit family gives children a sense of belonging.",
+   "answer": "Sống trong một gia đình gắn bó mang lại cho trẻ cảm giác được thuộc về.",
+   "explain": "close-knit = gắn bó; a sense of belonging = cảm giác thuộc về."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "In Vietnam, the traditional extended family, in which three or four generations live under one roof, is becoming less common. A recent report said that more than sixty percent of young couples in big cities now live in a nuclear family. They explained that they wanted more privacy and independence. However, many grandparents told researchers that they felt lonely and missed seeing their grandchildren every day. Sociologists warn that the generation gap may ( ___ ) if families do not find new ways to stay connected.",
+   "options": [
+    "widen",
+    "narrow",
+    "disappear",
+    "improve"
+   ],
+   "answer": "widen",
+   "explain": "Nếu không kết nối, khoảng cách thế hệ sẽ RỘNG thêm."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Các cặp vợ chồng trẻ giải thích vì sao sống riêng?",
+   "en": "In Vietnam, the traditional extended family, in which three or four generations live under one roof, is becoming less common. A recent report said that more than sixty percent of young couples in big cities now live in a nuclear family. They explained that they wanted more privacy and independence. However, many grandparents told researchers that they felt lonely and missed seeing their grandchildren every day. Sociologists warn that the generation gap may ( ___ ) if families do not find new ways to stay connected.",
+   "options": [
+    "Họ muốn riêng tư và độc lập",
+    "Họ không thích ông bà",
+    "Nhà quá nhỏ",
+    "Họ muốn tiết kiệm tiền"
+   ],
+   "answer": "Họ muốn riêng tư và độc lập",
+   "explain": "'they wanted more privacy and independence'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Bố mẹ Minh đã làm gì?",
+   "en": "When Minh was fifteen, he often argued with his parents. They asked him why he spent so many hours playing online games, and he said that all his friends did the same. Looking back, Minh admits that peer pressure played a big role in his behaviour. His parents did not simply forbid him to play. Instead, they suggested that the whole family should go hiking every Sunday. Over time, these trips helped strengthen their family bonds, and Minh began to spend less time online.",
+   "options": [
+    "Đề nghị cả nhà đi leo núi mỗi Chủ nhật",
+    "Cấm Minh chơi game",
+    "Mua máy tính mới",
+    "Gửi Minh về quê"
+   ],
+   "answer": "Đề nghị cả nhà đi leo núi mỗi Chủ nhật",
+   "explain": "'they suggested that the whole family should go hiking every Sunday'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – từ vựng] 'Looking back' trong đoạn văn có nghĩa là:",
+   "en": "When Minh was fifteen, he often argued with his parents. They asked him why he spent so many hours playing online games, and he said that all his friends did the same. Looking back, Minh admits that peer pressure played a big role in his behaviour. His parents did not simply forbid him to play. Instead, they suggested that the whole family should go hiking every Sunday. Over time, these trips helped strengthen their family bonds, and Minh began to spend less time online.",
+   "options": [
+    "khi nhìn lại quá khứ",
+    "khi quay đầu lại",
+    "trong tương lai",
+    "ngay lúc đó"
+   ],
+   "answer": "khi nhìn lại quá khứ",
+   "explain": "look back = nhớ lại, nhìn lại."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Discussion: Sống riêng hay sống cùng bố mẹ?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people think that young adults should live with their parents until they get married. Others believe they should live independently as soon as they start working.\nDiscuss both views and give your opinion.\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: When it comes to…, people hold different opinions. While some…, others… + thesis",
+   "Thân 1: quan điểm A – sống cùng bố mẹ (tiết kiệm, chăm sóc nhau, gắn kết gia đình)",
+   "Thân 2: quan điểm B – sống độc lập (tự lập, riêng tư) + ý kiến của bạn",
+   "Dùng 1–2 câu tường thuật: Many experts say that… / A survey reported that…",
+   "Kết bài: tóm 2 quan điểm + nhắc lại ý kiến"
+  ],
+  "phrases": [
+   "When it comes to …, people hold different opinions. — Khi nói đến …, mỗi người có ý kiến khác nhau.",
+   "On the one hand, those who support … argue that … — Một mặt, những người ủng hộ … cho rằng …",
+   "On the other hand, there are also strong arguments for … — Mặt khác, cũng có những lập luận mạnh mẽ cho …",
+   "Personally, I side with this view because … — Cá nhân tôi đứng về quan điểm này vì …",
+   "Overall, I am convinced that … — Nhìn chung, tôi tin chắc rằng …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: The role of grandparents",
+  "prompt": "Topic: Grandparents play an important role in modern families.\nIdeas: • looking after grandchildren • passing on family values • giving emotional support\nFollow-up: Is the generation gap getting wider in Vietnam?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Is the generation gap getting wider in Vietnam? Why?",
+   "Should elderly people live with their children or in care homes?"
+  ],
+  "ideas": [
+   "I'd like to talk about the role of grandparents in modern families.",
+   "First of all, many grandparents look after their grandchildren while…",
+   "Secondly, they pass on traditional family values such as…",
+   "My grandmother once told me that…",
+   "To sum up, I believe that grandparents…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Family is not an important thing. It's everything.",
+   "vi": "Gia đình không chỉ là một điều quan trọng. Gia đình là tất cả."
+  },
+  "pron": {
+   "title": "Ngữ điệu câu hỏi",
+   "rule": "Câu hỏi Yes/No lên giọng ở cuối (↗). Câu hỏi Wh- xuống giọng ở cuối (↘). Câu tường thuật câu hỏi đọc như câu kể (↘).",
+   "examples": [
+    "Do you live with your parents? ↗",
+    "Where do you live? ↘",
+    "She asked where I lived. ↘"
+   ]
+  },
+  "phrases": [
+   [
+    "bridge the generation gap",
+    "thu hẹp khoảng cách thế hệ"
+   ],
+   [
+    "a close-knit family",
+    "một gia đình gắn bó"
+   ],
+   [
+    "follow in sb's footsteps",
+    "nối gót ai"
+   ]
+  ],
+  "mistake": "Tường thuật câu hỏi vẫn đảo ngữ: 'She asked me where did I live?' → đúng: 'She asked me where I lived.'",
+  "tip": "Writing Task 2 dạng Discussion: 2 thân bài dài tương đương, ý kiến cá nhân phải có ở mở bài và kết bài.",
+  "diary": "Kể lại 3–5 câu một cuộc nói chuyện gần đây với gia đình bằng câu tường thuật (My mom said that…, She asked me if…)."
+ }
+}

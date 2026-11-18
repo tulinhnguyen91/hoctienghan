@@ -1,0 +1,468 @@
+{
+ "id": "bai-7",
+ "lesson": "Bài 7",
+ "day": null,
+ "date": "2026-11-17",
+ "title": "Đô thị & giao thông",
+ "enTitle": "Cities & Transport",
+ "past": true,
+ "words": [
+  [
+   "urban sprawl",
+   "/ˈɜːbən sprɔːl/ · n",
+   "sự mở rộng đô thị tràn lan",
+   "Uncontrolled urban sprawl has turned large areas of farmland on the outskirts of cities into housing estates.",
+   "Đô thị mở rộng tràn lan đã biến nhiều đất nông nghiệp ven đô thành khu nhà ở."
+  ],
+  [
+   "traffic congestion",
+   "/ˈtræfɪk kənˈdʒestʃən/ · n",
+   "ùn tắc giao thông",
+   "Traffic congestion has become a serious problem in big cities, wasting both time and fuel.",
+   "Ùn tắc giao thông đã thành vấn đề nghiêm trọng ở thành phố lớn, gây lãng phí thời gian và nhiên liệu."
+  ],
+  [
+   "rush hour",
+   "/ˈrʌʃ aʊə/ · n",
+   "giờ cao điểm",
+   "Many office workers spend more than an hour on the road during the morning rush hour.",
+   "Nhiều nhân viên văn phòng mất hơn một tiếng trên đường vào giờ cao điểm sáng."
+  ],
+  [
+   "an efficient public transport system",
+   "/ɪˈfɪʃnt ˈpʌblɪk ˈtrænspɔːt/ · n",
+   "hệ thống giao thông công cộng hiệu quả",
+   "Investing in an efficient public transport system is the most practical way to reduce the number of cars on the road.",
+   "Đầu tư vào giao thông công cộng hiệu quả là cách thiết thực nhất để giảm số xe trên đường."
+  ],
+  [
+   "commute to work",
+   "/kəˈmjuːt tə wɜːk/ · v phr",
+   "đi lại đến nơi làm việc hằng ngày",
+   "A growing number of employees now commute to work by metro instead of by motorbike.",
+   "Ngày càng nhiều nhân viên đi làm bằng tàu điện thay vì xe máy."
+  ],
+  [
+   "private vehicles",
+   "/ˈpraɪvət ˈviːəklz/ · n",
+   "phương tiện cá nhân",
+   "The government should impose higher taxes on private vehicles to discourage people from driving into the city centre.",
+   "Chính phủ nên đánh thuế cao hơn với phương tiện cá nhân để hạn chế người dân lái xe vào trung tâm."
+  ],
+  [
+   "alleviate the pressure on sth",
+   "/əˈliːvieɪt/ · v phr",
+   "giảm bớt áp lực lên cái gì",
+   "Building satellite towns could help alleviate the pressure on housing in the capital.",
+   "Xây đô thị vệ tinh có thể giúp giảm áp lực nhà ở cho thủ đô."
+  ],
+  [
+   "exhaust fumes",
+   "/ɪɡˈzɔːst fjuːmz/ · n",
+   "khí thải từ xe cộ",
+   "Exhaust fumes from millions of motorbikes are a major cause of respiratory illnesses among city residents.",
+   "Khí thải từ hàng triệu xe máy là nguyên nhân chính gây bệnh hô hấp ở cư dân thành phố."
+  ],
+  [
+   "infrastructure development",
+   "/ˈɪnfrəstrʌktʃə dɪˈveləpmənt/ · n",
+   "sự phát triển cơ sở hạ tầng",
+   "Rapid infrastructure development is necessary to keep pace with the growth of the urban population.",
+   "Phát triển hạ tầng nhanh là cần thiết để theo kịp tốc độ tăng dân số đô thị."
+  ],
+  [
+   "overcrowded",
+   "/ˌəʊvəˈkraʊdɪd/ · adj",
+   "quá đông đúc",
+   "Overcrowded schools and hospitals are common consequences of rapid urbanisation.",
+   "Trường học và bệnh viện quá tải là hệ quả phổ biến của đô thị hóa nhanh."
+  ],
+  [
+   "high-rise buildings",
+   "/ˈhaɪ raɪz ˈbɪldɪŋz/ · n",
+   "nhà cao tầng",
+   "The construction of high-rise buildings allows cities to accommodate more people on limited land.",
+   "Xây nhà cao tầng giúp thành phố chứa được nhiều người hơn trên diện tích đất hạn chế."
+  ],
+  [
+   "green spaces",
+   "/ɡriːn ˈspeɪsɪz/ · n",
+   "không gian xanh",
+   "Local authorities should create more green spaces where residents can relax and exercise.",
+   "Chính quyền nên tạo thêm không gian xanh nơi người dân có thể thư giãn và tập thể dục."
+  ],
+  [
+   "the cost of living",
+   "/ðə kɒst əv ˈlɪvɪŋ/ · n",
+   "chi phí sinh hoạt",
+   "The high cost of living in big cities makes it difficult for young graduates to save money.",
+   "Chi phí sinh hoạt cao ở thành phố lớn khiến sinh viên mới ra trường khó tiết kiệm."
+  ],
+  [
+   "migrate from rural to urban areas",
+   "/maɪˈɡreɪt/ · v phr",
+   "di cư từ nông thôn ra thành thị",
+   "Every year, thousands of young people migrate from rural to urban areas in search of better job opportunities.",
+   "Mỗi năm, hàng nghìn người trẻ di cư từ nông thôn ra thành thị để tìm việc tốt hơn."
+  ],
+  [
+   "pedestrian-friendly",
+   "/pəˈdestriən ˈfrendli/ · adj",
+   "thân thiện với người đi bộ",
+   "Pedestrian-friendly streets encourage people to walk more and rely less on their cars.",
+   "Đường phố thân thiện với người đi bộ khuyến khích mọi người đi bộ nhiều hơn và bớt phụ thuộc vào xe hơi."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Mệnh đề quan hệ xác định & không xác định",
+   "meaning": "who/whom (người), which (vật), that (người/vật, chỉ dùng trong MĐQH xác định), whose (của ai), when (= in/at/on which, thời gian), where (= in/at/on which, nơi chốn). MĐQH không xác định có dấu phẩy, bổ sung thông tin cho danh từ đã rõ, KHÔNG dùng that.",
+   "examples": [
+    "The girl who is wearing a yellow dress is my sister. — Cô gái mặc váy vàng là chị tôi.",
+    "Hanoi, which is the capital of Vietnam, suffers from traffic congestion. — Hà Nội, thủ đô Việt Nam, bị ùn tắc giao thông.",
+    "Hanoi, where I often eat bun cha, is beautiful in autumn. — Hà Nội, nơi tôi hay ăn bún chả, đẹp vào mùa thu.",
+    "People whose homes are near the metro save time. — Những người có nhà gần tàu điện tiết kiệm được thời gian."
+   ]
+  },
+  {
+   "form": "Rút gọn mệnh đề quan hệ",
+   "meaning": "Chủ động → V-ing: The girl who is wearing… → The girl wearing… Bị động → V3: The laptop which was bought by me → The laptop bought by me. Sau the first/the last/the only/so sánh nhất → to V. MĐQH không xác định với 'be' + danh từ → bỏ who/which is (đồng vị ngữ).",
+   "examples": [
+    "People living in big cities face high costs of living. — Người sống ở thành phố lớn đối mặt chi phí sinh hoạt cao.",
+    "The bridge built last year has reduced traffic congestion. — Cây cầu được xây năm ngoái đã giảm ùn tắc.",
+    "Linh is the first student to come to class. — Linh là học sinh đầu tiên đến lớp.",
+    "Messi, the best football player in history, is very generous. — Messi, cầu thủ hay nhất lịch sử, rất hào phóng."
+   ]
+  },
+  {
+   "form": "Rút gọn mệnh đề trạng ngữ bằng phân từ",
+   "meaning": "Hai mệnh đề cùng chủ ngữ: chủ động → V-ing; bị động → V3; việc xảy ra trước → Having + V3.",
+   "examples": [
+    "Going to the cinema, I met my old friend. — Khi đi xem phim, tôi gặp lại bạn cũ.",
+    "Bought by my dad, the car is very reliable. — Được bố tôi mua, chiếc xe rất bền.",
+    "Having finished work, she took the metro home. — Làm xong việc, cô ấy đi tàu điện về nhà."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đại từ quan hệ đúng",
+   "en": "The man ___ lives next door works for the metro company.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "where"
+   ],
+   "answer": "who",
+   "explain": "Chỉ người, làm chủ ngữ → who."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đại từ quan hệ đúng",
+   "en": "Hanoi, ___ is the capital of Vietnam, is very crowded.",
+   "options": [
+    "that",
+    "which",
+    "who",
+    "where"
+   ],
+   "answer": "which",
+   "explain": "MĐQH không xác định (có dấu phẩy) → không dùng that."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "This is the park ___ I go jogging every morning.",
+   "options": [
+    "which",
+    "where",
+    "when",
+    "who"
+   ],
+   "answer": "where",
+   "explain": "Nơi chốn + mệnh đề đủ (I go jogging) → where."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Residents ___ homes are near the river are worried about floods.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "whom"
+   ],
+   "answer": "whose",
+   "explain": "whose + danh từ (homes)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng rút gọn đúng",
+   "en": "The students ___ in the library are preparing for exams.",
+   "options": [
+    "studying",
+    "studied",
+    "to study",
+    "who studying"
+   ],
+   "answer": "studying",
+   "explain": "Chủ động → V-ing."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng rút gọn đúng",
+   "en": "The bridge ___ last year has reduced traffic jams.",
+   "options": [
+    "building",
+    "built",
+    "to build",
+    "was built"
+   ],
+   "answer": "built",
+   "explain": "Bị động → V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Linh is the first student ___ to class.",
+   "options": [
+    "coming",
+    "came",
+    "to come",
+    "comes"
+   ],
+   "answer": "to come",
+   "explain": "the first + to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền đại từ quan hệ",
+   "en": "The person ___ I love most is my mother.",
+   "answer": [
+    "whom",
+    "who",
+    "that"
+   ],
+   "explain": "Tân ngữ chỉ người → whom (who/that cũng được trong văn nói)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ (rút gọn bằng phân từ)",
+   "en": "___ finished work, she took the metro home.",
+   "answer": [
+    "Having"
+   ],
+   "explain": "Việc xảy ra trước → Having + V3."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Building satellite towns could help alleviate the ___ on housing.",
+   "answer": [
+    "pressure"
+   ],
+   "explain": "alleviate the pressure on."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Local authorities should create more green ___ for residents.",
+   "answer": [
+    "spaces"
+   ],
+   "explain": "green spaces."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "People",
+    "living",
+    "in",
+    "big",
+    "cities",
+    "face",
+    "a",
+    "high",
+    "cost",
+    "of",
+    "living."
+   ],
+   "answer": "People living in big cities face a high cost of living.",
+   "explain": "Rút gọn chủ động: who live → living."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Hanoi,",
+    "where",
+    "I",
+    "often",
+    "eat",
+    "bun",
+    "cha,",
+    "is",
+    "beautiful",
+    "in",
+    "autumn."
+   ],
+   "answer": "Hanoi, where I often eat bun cha, is beautiful in autumn.",
+   "explain": "where = nơi mà (MĐQH không xác định)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Những người đi làm bằng xe máy thường bị kẹt xe. (dùng MĐQH)",
+   "answer": [
+    "People who commute to work by motorbike are often stuck in traffic.",
+    "People who go to work by motorbike are often stuck in traffic.",
+    "People commuting to work by motorbike are often stuck in traffic.",
+    "People who commute by motorbike often get stuck in traffic."
+   ],
+   "explain": "who + V hoặc rút gọn V-ing."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Đây là con đường đông đúc nhất thành phố.",
+   "answer": [
+    "This is the most crowded street in the city.",
+    "This is the busiest street in the city.",
+    "This is the most crowded road in the city.",
+    "This is the busiest road in the city."
+   ],
+   "explain": "so sánh nhất: the most crowded / the busiest."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Pedestrian-friendly streets encourage people to walk more.",
+   "answer": "Những con phố thân thiện với người đi bộ khuyến khích mọi người đi bộ nhiều hơn.",
+   "explain": "encourage sb to V."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Ho Chi Minh City, which is home to more than nine million people, has one of the highest numbers of motorbikes in the world. Every morning during the rush hour, main roads become seriously congested, and exhaust fumes fill the air. The city's first metro line, ( ___ ) opened in late 2024, was expected to alleviate the pressure on the roads. Officials say that passenger numbers are rising, but most residents still prefer their motorbikes because they can travel door to door.",
+   "options": [
+    "which",
+    "that",
+    "who",
+    "where"
+   ],
+   "answer": "which",
+   "explain": "MĐQH không xác định (có dấu phẩy), chỉ vật → which."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao nhiều người vẫn đi xe máy?",
+   "en": "Ho Chi Minh City, which is home to more than nine million people, has one of the highest numbers of motorbikes in the world. Every morning during the rush hour, main roads become seriously congested, and exhaust fumes fill the air. The city's first metro line, ( ___ ) opened in late 2024, was expected to alleviate the pressure on the roads. Officials say that passenger numbers are rising, but most residents still prefer their motorbikes because they can travel door to door.",
+   "options": [
+    "Đi được tận nơi",
+    "Tàu điện đắt",
+    "Tàu điện chưa mở",
+    "Xe máy ít khói"
+   ],
+   "answer": "Đi được tận nơi",
+   "explain": "'they can travel door to door'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Đoạn văn nói chủ yếu về:",
+   "en": "Urban sprawl is changing the outskirts of many Asian cities. Farmland that once produced rice and vegetables is being replaced by housing estates and shopping malls. People moving to these new areas often have to commute long distances to work, as most jobs remain in the city centre. Planners argue that cities should build compact neighbourhoods where people can live, work and shop within walking distance. Such pedestrian-friendly areas would reduce the need for private vehicles.",
+   "options": [
+    "Đô thị mở rộng và giải pháp quy hoạch",
+    "Trồng lúa ở ngoại ô",
+    "Lịch sử các trung tâm thương mại",
+    "Giá nhà ở trung tâm"
+   ],
+   "answer": "Đô thị mở rộng và giải pháp quy hoạch",
+   "explain": "Nêu vấn đề urban sprawl và đề xuất compact neighbourhoods."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Theo các nhà quy hoạch, khu phố gọn sẽ:",
+   "en": "Urban sprawl is changing the outskirts of many Asian cities. Farmland that once produced rice and vegetables is being replaced by housing estates and shopping malls. People moving to these new areas often have to commute long distances to work, as most jobs remain in the city centre. Planners argue that cities should build compact neighbourhoods where people can live, work and shop within walking distance. Such pedestrian-friendly areas would reduce the need for private vehicles.",
+   "options": [
+    "giảm nhu cầu đi xe riêng",
+    "tăng số trung tâm thương mại",
+    "buộc mọi người chuyển vào trung tâm",
+    "xây thêm đường cao tốc"
+   ],
+   "answer": "giảm nhu cầu đi xe riêng",
+   "explain": "Câu cuối: would reduce the need for private vehicles."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Problem & Solution: Ùn tắc giao thông",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Traffic congestion is becoming a serious problem in many big cities.\nWhat are the causes of this problem, and what measures can be taken to solve it?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: … has become one of the most serious problems in many countries, including Vietnam. + thesis",
+   "Thân 1 – nguyên nhân: quá nhiều phương tiện cá nhân; di cư từ nông thôn; hạ tầng chưa theo kịp",
+   "Thân 2 – giải pháp khớp nguyên nhân: giao thông công cộng hiệu quả, thuế xe cá nhân, đô thị vệ tinh",
+   "Dùng 2–3 mệnh đề quan hệ (which…, where…, people who…)",
+   "Kết bài: In conclusion, … is mainly caused by… However, it can be tackled if…"
+  ],
+  "phrases": [
+   "… has become one of the most serious problems in many countries, including Vietnam. — … đã trở thành một trong những vấn đề nghiêm trọng nhất ở nhiều nước, kể cả Việt Nam.",
+   "This problem is caused by a number of factors. — Vấn đề này do nhiều yếu tố gây ra.",
+   "Another factor that contributes to this problem is … — Một yếu tố khác góp phần gây ra vấn đề này là …",
+   "Firstly, the government should invest in … — Trước hết, chính phủ nên đầu tư vào …",
+   "If these measures are implemented, … will be significantly reduced. — Nếu thực hiện các biện pháp này, … sẽ giảm đáng kể."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: giảm kẹt xe ở thành phố",
+  "prompt": "Situation: Your city is suffering from serious traffic congestion. Which is the best solution?\n1. Build more roads and flyovers\n2. Improve the public transport system\n3. Ban private vehicles from the city centre at rush hour",
+  "questions": [
+   "Which solution do you think is the best? Why?",
+   "Why are the other two solutions less effective?"
+  ],
+  "ideas": [
+   "In my opinion, the most effective solution is …",
+   "This is because people who …",
+   "Building more roads may help in the short term, but …",
+   "Banning private vehicles sounds radical, and …",
+   "Therefore, I would strongly recommend …"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "A good city is like a good party — people stay longer than really necessary.",
+   "vi": "Một thành phố tốt giống như một bữa tiệc vui — người ta ở lại lâu hơn mức cần thiết."
+  },
+  "pron": {
+   "title": "Âm /ʃ/ và /ʒ/",
+   "rule": "/ʃ/ như 'sh' trong 'shop', /ʒ/ có rung như trong 'pleasure'. Đuôi -tion, -sion thường đọc /ʃn/ hoặc /ʒn/.",
+   "examples": [
+    "congestion → /kənˈdʒestʃən/",
+    "pressure → /ˈpreʃə/",
+    "decision → /dɪˈsɪʒn/"
+   ]
+  },
+  "phrases": [
+   [
+    "keep pace with…",
+    "theo kịp…"
+   ],
+   [
+    "a stone's throw from…",
+    "rất gần…"
+   ],
+   [
+    "bumper-to-bumper traffic",
+    "xe nối đuôi nhau, kẹt cứng"
+   ]
+  ],
+  "mistake": "Hay dùng 'that' sau dấu phẩy: 'Hanoi, that is the capital…' → sai. MĐQH không xác định phải dùng which/who.",
+  "tip": "Reading VSTEP: câu hỏi 'which' trong đoạn văn thường hỏi đại từ quan hệ thay cho danh từ nào — đọc ngược lên danh từ ngay trước dấu phẩy.",
+  "diary": "Miêu tả thành phố bạn sống trong 3–5 câu, dùng who, which, where và một câu rút gọn MĐQH."
+ }
+}

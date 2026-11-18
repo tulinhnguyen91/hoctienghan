@@ -1,0 +1,498 @@
+{
+ "id": "bai-17",
+ "lesson": "Bài 17",
+ "day": 10,
+ "date": "2026-11-28",
+ "title": "Giáo dục đại học & học trực tuyến",
+ "enTitle": "Higher Education & E-learning",
+ "past": false,
+ "words": [
+  [
+   "higher education",
+   "/ˌhaɪər ˌedʒuˈkeɪʃn/ · n",
+   "giáo dục đại học",
+   "Access to higher education has expanded rapidly in Vietnam.",
+   "Cơ hội học đại học đã mở rộng nhanh chóng ở Việt Nam."
+  ],
+  [
+   "undergraduate",
+   "/ˌʌndəˈɡrædʒuət/ · n",
+   "sinh viên đại học (chưa tốt nghiệp)",
+   "Most undergraduates live in dormitories during their first year.",
+   "Hầu hết sinh viên đại học ở ký túc xá năm thứ nhất."
+  ],
+  [
+   "major in",
+   "/ˈmeɪdʒər ɪn/ · v",
+   "học chuyên ngành",
+   "She majored in economics at Hanoi University.",
+   "Cô ấy học chuyên ngành kinh tế ở Đại học Hà Nội."
+  ],
+  [
+   "enrol in (enroll in)",
+   "/ɪnˈrəʊl ɪn/ · v",
+   "đăng ký học",
+   "More adults are enrolling in online degree programmes.",
+   "Ngày càng nhiều người lớn đăng ký các chương trình cử nhân trực tuyến."
+  ],
+  [
+   "compulsory",
+   "/kəmˈpʌlsəri/ · adj",
+   "bắt buộc",
+   "English is a compulsory subject at most universities.",
+   "Tiếng Anh là môn bắt buộc ở hầu hết các trường đại học."
+  ],
+  [
+   "curriculum",
+   "/kəˈrɪkjələm/ · n",
+   "chương trình học",
+   "The new curriculum includes more practical projects.",
+   "Chương trình học mới có nhiều dự án thực hành hơn."
+  ],
+  [
+   "scholarship",
+   "/ˈskɒləʃɪp/ · n",
+   "học bổng",
+   "She was awarded a full scholarship to study in Australia.",
+   "Cô ấy giành học bổng toàn phần du học Úc."
+  ],
+  [
+   "graduate from",
+   "/ˈɡrædʒueɪt frəm/ · v",
+   "tốt nghiệp từ",
+   "He graduated from university with a degree in law.",
+   "Anh ấy tốt nghiệp đại học với bằng luật."
+  ],
+  [
+   "a degree in",
+   "/ə dɪˈɡriː ɪn/ · n",
+   "bằng (cử nhân…) về",
+   "A degree in computer science is highly valued.",
+   "Bằng khoa học máy tính được đánh giá rất cao."
+  ],
+  [
+   "self-paced",
+   "/ˌself ˈpeɪst/ · adj",
+   "tự điều chỉnh tốc độ học",
+   "Self-paced courses suit people with busy schedules.",
+   "Khóa học tự điều chỉnh tốc độ phù hợp người bận rộn."
+  ],
+  [
+   "virtual classroom",
+   "/ˈvɜːtʃuəl ˈklɑːsruːm/ · n",
+   "lớp học ảo",
+   "Teachers use virtual classrooms to reach students in remote areas.",
+   "Giáo viên dùng lớp học ảo để tiếp cận học sinh vùng xa."
+  ],
+  [
+   "online platform",
+   "/ˈɒnlaɪn ˈplætfɔːm/ · n",
+   "nền tảng trực tuyến",
+   "Coursera is a popular online platform for adult learners.",
+   "Coursera là nền tảng trực tuyến phổ biến với người học trưởng thành."
+  ],
+  [
+   "academic qualification",
+   "/ˌækəˈdemɪk ˌkwɒlɪfɪˈkeɪʃn/ · n",
+   "bằng cấp học thuật",
+   "Employers still value academic qualifications highly.",
+   "Nhà tuyển dụng vẫn đánh giá cao bằng cấp học thuật."
+  ],
+  [
+   "dormitory",
+   "/ˈdɔːmətri/ · n",
+   "ký túc xá",
+   "The university dormitory is cheap but rather crowded.",
+   "Ký túc xá rẻ nhưng khá đông."
+  ],
+  [
+   "lecturer",
+   "/ˈlektʃərə/ · n",
+   "giảng viên",
+   "Our lecturer encourages us to ask questions in class.",
+   "Giảng viên khuyến khích chúng tôi đặt câu hỏi trên lớp."
+  ],
+  [
+   "thesis",
+   "/ˈθiːsɪs/ · n",
+   "luận văn, khóa luận",
+   "I am writing my graduation thesis on renewable energy.",
+   "Tôi đang viết khóa luận tốt nghiệp về năng lượng tái tạo."
+  ],
+  [
+   "plagiarism",
+   "/ˈpleɪdʒərɪzəm/ · n",
+   "đạo văn",
+   "Plagiarism is taken very seriously at universities.",
+   "Đạo văn bị xử lý rất nghiêm ở đại học."
+  ],
+  [
+   "tuition-free",
+   "/tjuˈɪʃn friː/ · adj",
+   "miễn học phí",
+   "Some European countries offer tuition-free university education.",
+   "Một số nước châu Âu miễn học phí đại học."
+  ],
+  [
+   "study abroad",
+   "/ˈstʌdi əˈbrɔːd/ · v phr",
+   "du học",
+   "Thousands of Vietnamese students study abroad every year.",
+   "Hàng nghìn sinh viên Việt Nam đi du học mỗi năm."
+  ],
+  [
+   "a gap year",
+   "/ə ˈɡæp jɪə/ · n",
+   "năm nghỉ (trước khi vào đại học)",
+   "Taking a gap year can help students decide what they really want to study.",
+   "Nghỉ một năm có thể giúp học sinh quyết định thật sự muốn học gì."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Mạo từ a / an / the / Ø",
+   "meaning": "a/an: danh từ đếm được số ít, nhắc lần đầu hoặc không xác định (an + âm nguyên âm: an hour, a university). the: đã xác định, duy nhất, so sánh nhất, nhạc cụ, tên sông/biển/dãy núi, the + adj (the rich). Ø: danh từ số nhiều/không đếm được nói chung (Education is important), môn học, bữa ăn, ngôn ngữ, go to school/university (đúng mục đích).",
+   "examples": [
+    "She is a student at a university in Hanoi. — Cô ấy là sinh viên một trường đại học ở Hà Nội.",
+    "The university I attend is the oldest in Vietnam. — Trường tôi học là trường lâu đời nhất Việt Nam.",
+    "Education plays a key role in development. — Giáo dục đóng vai trò then chốt trong phát triển.",
+    "The government should help the poor go to university. — Chính phủ nên giúp người nghèo được học đại học."
+   ]
+  },
+  {
+   "form": "Lượng từ: few / a few / little / a little / a great deal of",
+   "meaning": "Đếm được: many, (a) few, a number of, several. Không đếm được: much, (a) little, a great deal of, a large amount of. a few / a little = một vài, một ít (đủ dùng, tích cực). few / little = rất ít (gần như không, tiêu cực). Cả hai: a lot of, plenty of, some, most.",
+   "examples": [
+    "Few students fail the course. — Rất ít sinh viên trượt khóa học.",
+    "I have a few friends who study abroad. — Tôi có vài người bạn đang du học.",
+    "There is little evidence that homework improves results. — Có rất ít bằng chứng cho thấy bài tập về nhà cải thiện kết quả.",
+    "The project requires a great deal of effort. — Dự án đòi hỏi rất nhiều công sức."
+   ]
+  },
+  {
+   "form": "make vs do",
+   "meaning": "make: tạo ra, kết quả mới — make a decision, make progress, make an effort, make a mistake, make money, make friends, make a contribution. do: thực hiện công việc, hoạt động — do homework, do research, do a course, do your best, do harm/good, do business, do exercise.",
+   "examples": [
+    "I have made a lot of progress in English this year. — Năm nay tôi tiến bộ nhiều trong tiếng Anh.",
+    "She is doing a course in data analysis. — Cô ấy đang học một khóa phân tích dữ liệu.",
+    "Online learning can do more harm than good if students are not disciplined. — Học online có thể hại nhiều hơn lợi nếu thiếu kỷ luật."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn mạo từ đúng",
+   "en": "She is ___ student at ___ university in Hanoi.",
+   "options": [
+    "a – a",
+    "an – a",
+    "a – an",
+    "the – an"
+   ],
+   "answer": "a – a",
+   "explain": "'university' bắt đầu bằng âm /j/ → a university."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn mạo từ đúng",
+   "en": "It took me ___ hour to finish the test.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "Ø"
+   ],
+   "answer": "an",
+   "explain": "'hour' bắt đầu bằng âm nguyên âm (h câm) → an."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn mạo từ đúng",
+   "en": "___ education plays a key role in development.",
+   "options": [
+    "The",
+    "A",
+    "Ø (không dùng)",
+    "An"
+   ],
+   "answer": "Ø (không dùng)",
+   "explain": "Danh từ không đếm được nói chung → không dùng mạo từ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn lượng từ đúng",
+   "en": "There is ___ evidence that this method works. It's almost useless.",
+   "options": [
+    "a little",
+    "little",
+    "few",
+    "a few"
+   ],
+   "answer": "little",
+   "explain": "Không đếm được + nghĩa tiêu cực → little."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn lượng từ đúng",
+   "en": "I have ___ friends who study abroad, so I can ask them for advice.",
+   "options": [
+    "few",
+    "little",
+    "a few",
+    "a little"
+   ],
+   "answer": "a few",
+   "explain": "Đếm được + nghĩa tích cực → a few."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn make/do",
+   "en": "I have ___ a lot of progress in English this year.",
+   "options": [
+    "done",
+    "made",
+    "taken",
+    "got"
+   ],
+   "answer": "made",
+   "explain": "make progress."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn make/do",
+   "en": "She is ___ a course in data analysis.",
+   "options": [
+    "making",
+    "doing",
+    "taking part",
+    "going"
+   ],
+   "answer": "doing",
+   "explain": "do a course."
+  },
+  {
+   "type": "fill",
+   "q": "Điền mạo từ (a/an/the) hoặc x nếu không cần",
+   "en": "The government should help ___ poor go to university.",
+   "answer": [
+    "the"
+   ],
+   "explain": "the + adj = nhóm người (the poor)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền make hoặc do (dạng đúng)",
+   "en": "Online learning can ___ more harm than good.",
+   "answer": [
+    "do"
+   ],
+   "explain": "do harm / do good."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "She majored ___ economics at Hanoi University.",
+   "answer": [
+    "in"
+   ],
+   "explain": "major in."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "___ is taken very seriously at universities, so always cite your sources.",
+   "answer": [
+    "Plagiarism"
+   ],
+   "explain": "plagiarism = đạo văn."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "project",
+    "requires",
+    "a",
+    "great",
+    "deal",
+    "of",
+    "effort."
+   ],
+   "answer": "The project requires a great deal of effort.",
+   "explain": "a great deal of + N không đếm được."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Taking",
+    "a",
+    "gap",
+    "year",
+    "can",
+    "help",
+    "students",
+    "make",
+    "a",
+    "decision."
+   ],
+   "answer": "Taking a gap year can help students make a decision.",
+   "explain": "make a decision."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Rất ít sinh viên hoàn thành khóa học trực tuyến.",
+   "answer": [
+    "Few students complete online courses.",
+    "Very few students complete online courses.",
+    "Few students finish online courses.",
+    "Very few students finish online courses.",
+    "Few learners complete online courses."
+   ],
+   "explain": "few + N số nhiều (nghĩa tiêu cực)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi đã mắc rất nhiều lỗi trong bài viết.",
+   "answer": [
+    "I made a lot of mistakes in my essay.",
+    "I made many mistakes in my essay.",
+    "I made a lot of mistakes in my writing.",
+    "I have made a lot of mistakes in my essay."
+   ],
+   "explain": "make a mistake."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Self-paced courses suit people with busy schedules.",
+   "answer": "Các khóa học tự điều chỉnh tốc độ phù hợp với những người có lịch trình bận rộn.",
+   "explain": "suit = phù hợp với."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Online platforms such as Coursera and edX have made higher education available to millions of people. Learners can take courses from top universities without leaving home, and many courses are free. However, studies show that only ( ___ ) learners actually complete these courses — often less than ten percent. Experts believe that self-paced courses require a great deal of self-discipline, which many people lack. Some platforms now offer live sessions with lecturers to keep students motivated.",
+   "options": [
+    "a small number of",
+    "a great deal of",
+    "little",
+    "much"
+   ],
+   "answer": "a small number of",
+   "explain": "'learners' đếm được + 'chỉ một số ít' → a small number of."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao nhiều người không học hết khóa online?",
+   "en": "Online platforms such as Coursera and edX have made higher education available to millions of people. Learners can take courses from top universities without leaving home, and many courses are free. However, studies show that only ( ___ ) learners actually complete these courses — often less than ten percent. Experts believe that self-paced courses require a great deal of self-discipline, which many people lack. Some platforms now offer live sessions with lecturers to keep students motivated.",
+   "options": [
+    "Khóa tự học cần nhiều tự giác mà nhiều người thiếu",
+    "Khóa học quá đắt",
+    "Giảng viên kém",
+    "Không có chứng chỉ"
+   ],
+   "answer": "Khóa tự học cần nhiều tự giác mà nhiều người thiếu",
+   "explain": "'require a great deal of self-discipline, which many people lack'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Ban đầu bố mẹ Nam lo lắng vì:",
+   "en": "Taking a gap year is still unusual in Vietnam, but it is becoming more common. After finishing high school, Nam decided to spend a year working in a café and volunteering in a village in Ha Giang. His parents were worried at first because they thought he might lose interest in studying. In fact, the experience helped him make a decision about his future. He realised that he wanted to become a teacher, and the following year he enrolled in a university of education.",
+   "options": [
+    "Họ sợ Nam mất hứng thú học tập",
+    "Nam không có tiền",
+    "Hà Giang quá xa",
+    "Nam muốn làm quán cà phê"
+   ],
+   "answer": "Họ sợ Nam mất hứng thú học tập",
+   "explain": "'they thought he might lose interest in studying'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Năm nghỉ đã giúp Nam:",
+   "en": "Taking a gap year is still unusual in Vietnam, but it is becoming more common. After finishing high school, Nam decided to spend a year working in a café and volunteering in a village in Ha Giang. His parents were worried at first because they thought he might lose interest in studying. In fact, the experience helped him make a decision about his future. He realised that he wanted to become a teacher, and the following year he enrolled in a university of education.",
+   "options": [
+    "Biết mình muốn làm giáo viên",
+    "Kiếm được nhiều tiền",
+    "Bỏ học hẳn",
+    "Mở quán cà phê"
+   ],
+   "answer": "Biết mình muốn làm giáo viên",
+   "explain": "'the experience helped him make a decision… become a teacher'."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Discussion: Học online hay học trên lớp?",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Some people think that online courses are just as effective as traditional classroom learning. Others believe that studying in a classroom is still the best way to learn.\nDiscuss both views and give your opinion.\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: The issue of… + While some…, others… + thesis",
+   "Thân 1: lợi ích học online (self-paced, chi phí, tiếp cận nền tảng quốc tế)",
+   "Thân 2: lợi ích học trên lớp (lecturer, bạn học, kỷ luật) + ý kiến của bạn",
+   "Chú ý mạo từ (the internet, a degree, Ø education) và lượng từ (few, a great deal of)",
+   "Kết bài: kết hợp cả hai (blended learning)"
+  ],
+  "phrases": [
+   "Online platforms have made higher education available to … — Các nền tảng trực tuyến đã đưa giáo dục đại học đến với …",
+   "One major advantage is that learners can study at their own pace. — Một ưu điểm lớn là người học có thể học theo tốc độ của mình.",
+   "However, few students have the self-discipline to … — Tuy nhiên, rất ít sinh viên đủ tự giác để …",
+   "Classroom learning allows students to make friends and … — Học trên lớp giúp sinh viên kết bạn và …",
+   "In my view, a combination of both is the most effective. — Theo tôi, kết hợp cả hai là hiệu quả nhất."
+  ]
+ },
+ "speaking": {
+  "part": 2,
+  "title": "Solution discussion: học tiếp sau khi tốt nghiệp cấp 3",
+  "prompt": "Situation: Your younger cousin has just finished high school and is not sure what to do next. What would you advise?\n1. Go straight to university\n2. Take a gap year to work and travel\n3. Do a short vocational course",
+  "questions": [
+   "Which option would you recommend and why?",
+   "Why are the other two options less suitable?"
+  ],
+  "ideas": [
+   "If I were my cousin, I would…",
+   "Going straight to university allows students to…",
+   "A gap year might help him make a decision, but…",
+   "A vocational course takes little time and…",
+   "So, on balance, I would recommend…"
+  ],
+  "minutes": 2,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Education is the passport to the future.",
+   "vi": "Giáo dục là tấm hộ chiếu đến tương lai."
+  },
+  "pron": {
+   "title": "Đọc 'the' là /ðə/ hay /ði/",
+   "rule": "Đọc /ðə/ trước âm phụ âm (the book), kể cả 'the university' vì bắt đầu bằng âm /j/. Đọc /ði/ trước âm nguyên âm (the internet, the hour).",
+   "examples": [
+    "the internet → /ði/",
+    "the university → /ðə/",
+    "the hour → /ði/"
+   ]
+  },
+  "phrases": [
+   [
+    "hit the books",
+    "học hành chăm chỉ"
+   ],
+   [
+    "learn the ropes",
+    "học những điều cơ bản"
+   ],
+   [
+    "pass with flying colours",
+    "đậu với kết quả xuất sắc"
+   ]
+  ],
+  "mistake": "Hay viết 'The education is important' hoặc 'I go to the school every day'. Nói chung chung thì không dùng 'the'.",
+  "tip": "Writing: lỗi mạo từ và số ít/số nhiều là lỗi người Việt mắc nhiều nhất. Dành 3 phút cuối chỉ để soát hai lỗi này.",
+  "diary": "Viết 3–5 câu về trường đại học bạn học (hoặc muốn học), chú ý dùng đúng a/an/the, một câu với make và một câu với do."
+ }
+}

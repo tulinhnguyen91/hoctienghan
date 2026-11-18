@@ -1,0 +1,494 @@
+{
+ "id": "bai-13",
+ "lesson": "Bài 13",
+ "day": 5,
+ "date": "2026-11-23",
+ "title": "Toàn cầu hóa",
+ "enTitle": "Globalisation",
+ "past": false,
+ "words": [
+  [
+   "globalisation (globalization)",
+   "/ˌɡləʊbəlaɪˈzeɪʃn/ · n",
+   "toàn cầu hóa",
+   "Globalisation has made it easier for countries to trade with each other.",
+   "Toàn cầu hóa giúp các nước buôn bán với nhau dễ dàng hơn."
+  ],
+  [
+   "multinational corporations",
+   "/ˌmʌltiˈnæʃnəl ˌkɔːpəˈreɪʃnz/ · n",
+   "các tập đoàn đa quốc gia",
+   "Multinational corporations have built many factories in Vietnam.",
+   "Các tập đoàn đa quốc gia đã xây nhiều nhà máy ở Việt Nam."
+  ],
+  [
+   "foreign investment",
+   "/ˈfɒrən ɪnˈvestmənt/ · n",
+   "đầu tư nước ngoài",
+   "Foreign investment has created millions of jobs in industrial zones.",
+   "Đầu tư nước ngoài đã tạo ra hàng triệu việc làm ở các khu công nghiệp."
+  ],
+  [
+   "free trade",
+   "/ˌfriː ˈtreɪd/ · n",
+   "thương mại tự do",
+   "Free trade agreements allow goods to move between countries with lower taxes.",
+   "Hiệp định thương mại tự do cho phép hàng hóa lưu thông giữa các nước với thuế thấp hơn."
+  ],
+  [
+   "the global economy",
+   "/ˈɡləʊbl ɪˈkɒnəmi/ · n",
+   "nền kinh tế toàn cầu",
+   "A crisis in one country can quickly affect the global economy.",
+   "Khủng hoảng ở một nước có thể nhanh chóng ảnh hưởng nền kinh tế toàn cầu."
+  ],
+  [
+   "cultural homogenisation",
+   "/həˌmɒdʒənaɪˈzeɪʃn/ · n",
+   "sự đồng nhất hóa văn hóa",
+   "Some people worry that globalisation leads to cultural homogenisation.",
+   "Một số người lo toàn cầu hóa dẫn đến đồng nhất hóa văn hóa."
+  ],
+  [
+   "interconnected",
+   "/ˌɪntəkəˈnektɪd/ · adj",
+   "gắn kết, liên kết với nhau",
+   "We live in an increasingly interconnected world.",
+   "Chúng ta sống trong một thế giới ngày càng gắn kết."
+  ],
+  [
+   "export",
+   "/ˈekspɔːt/ · n / /ɪkˈspɔːt/ · v",
+   "xuất khẩu",
+   "Vietnam exports rice and coffee to many countries.",
+   "Việt Nam xuất khẩu gạo và cà phê sang nhiều nước."
+  ],
+  [
+   "import",
+   "/ˈɪmpɔːt/ · n / /ɪmˈpɔːt/ · v",
+   "nhập khẩu",
+   "Many luxury goods are imported from Europe.",
+   "Nhiều hàng xa xỉ được nhập khẩu từ châu Âu."
+  ],
+  [
+   "fast-food chains",
+   "/ˌfɑːst fuːd ˈtʃeɪnz/ · n",
+   "chuỗi đồ ăn nhanh",
+   "International fast-food chains can now be found in every big city.",
+   "Các chuỗi đồ ăn nhanh quốc tế giờ có mặt ở mọi thành phố lớn."
+  ],
+  [
+   "a global village",
+   "/ˈɡləʊbl ˈvɪlɪdʒ/ · n",
+   "ngôi làng toàn cầu",
+   "Thanks to the Internet, the world has become a global village.",
+   "Nhờ internet, thế giới đã trở thành một ngôi làng toàn cầu."
+  ],
+  [
+   "cheap labour",
+   "/tʃiːp ˈleɪbə/ · n",
+   "lao động giá rẻ",
+   "Many companies move their factories to countries with cheap labour.",
+   "Nhiều công ty chuyển nhà máy đến các nước có lao động giá rẻ."
+  ],
+  [
+   "exploit",
+   "/ɪkˈsplɔɪt/ · v",
+   "bóc lột, khai thác",
+   "Some factories exploit workers by paying them very low wages.",
+   "Một số nhà máy bóc lột công nhân bằng cách trả lương rất thấp."
+  ],
+  [
+   "local businesses",
+   "/ˈləʊkl ˈbɪznəsɪz/ · n",
+   "doanh nghiệp địa phương",
+   "Local businesses often struggle to compete with international brands.",
+   "Doanh nghiệp địa phương thường khó cạnh tranh với thương hiệu quốc tế."
+  ],
+  [
+   "international cooperation",
+   "/ˌɪntəˈnæʃnəl kəʊˌɒpəˈreɪʃn/ · n",
+   "hợp tác quốc tế",
+   "Climate change can only be solved through international cooperation.",
+   "Biến đổi khí hậu chỉ có thể được giải quyết thông qua hợp tác quốc tế."
+  ],
+  [
+   "standard of living",
+   "/ˌstændəd əv ˈlɪvɪŋ/ · n",
+   "mức sống",
+   "Globalisation has raised the standard of living in many developing countries.",
+   "Toàn cầu hóa đã nâng cao mức sống ở nhiều nước đang phát triển."
+  ],
+  [
+   "lose one's identity",
+   "/luːz wʌnz aɪˈdentəti/ · v phr",
+   "đánh mất bản sắc",
+   "Small communities may lose their identity under foreign influence.",
+   "Các cộng đồng nhỏ có thể đánh mất bản sắc dưới ảnh hưởng nước ngoài."
+  ],
+  [
+   "a lingua franca",
+   "/ˌlɪŋɡwə ˈfræŋkə/ · n",
+   "ngôn ngữ chung",
+   "English has become a lingua franca for international business.",
+   "Tiếng Anh đã trở thành ngôn ngữ chung trong kinh doanh quốc tế."
+  ],
+  [
+   "outsource",
+   "/ˈaʊtsɔːs/ · v",
+   "thuê ngoài",
+   "Many tech companies outsource software development to Vietnam.",
+   "Nhiều công ty công nghệ thuê Việt Nam phát triển phần mềm."
+  ],
+  [
+   "reap the benefits of",
+   "/riːp ðə ˈbenɪfɪts əv/ · v phr",
+   "hưởng lợi từ",
+   "Not everyone reaps the benefits of globalisation equally.",
+   "Không phải ai cũng hưởng lợi từ toàn cầu hóa như nhau."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "must / can't / might / could + V — suy đoán ở hiện tại",
+   "meaning": "must + V: chắc hẳn (chắc chắn ~90%). can't + V: không thể nào (chắc chắn sai). may / might / could + V: có lẽ, có thể. Dựa trên bằng chứng hiện tại.",
+   "examples": [
+    "He speaks English very fluently. He must work for a multinational company. — Anh ấy nói tiếng Anh rất trôi chảy. Chắc hẳn anh ấy làm cho công ty đa quốc gia.",
+    "This bag can't be real Gucci. It's too cheap. — Cái túi này không thể là Gucci thật. Rẻ quá.",
+    "The shop might be closed today because it's a holiday. — Có lẽ hôm nay cửa hàng đóng cửa vì là ngày lễ."
+   ]
+  },
+  {
+   "form": "must / can't / might + have V3 — suy đoán về quá khứ",
+   "meaning": "must have V3: chắc hẳn đã. can't / couldn't have V3: không thể nào đã. may / might / could have V3: có lẽ đã.",
+   "examples": [
+    "The streets are wet. It must have rained last night. — Đường ướt. Chắc hẳn đêm qua trời mưa.",
+    "She can't have finished the report already. She only started an hour ago. — Cô ấy không thể đã xong báo cáo. Cô ấy mới bắt đầu một tiếng trước.",
+    "The package might have been delayed at customs. — Có lẽ gói hàng đã bị giữ ở hải quan."
+   ]
+  },
+  {
+   "form": "should have V3 / shouldn't have V3 / needn't have V3",
+   "meaning": "should have V3: lẽ ra nên làm (nhưng đã không làm) — tiếc nuối, trách. shouldn't have V3: lẽ ra không nên làm (nhưng đã làm). needn't have V3: lẽ ra không cần làm (nhưng đã làm, tốn công vô ích).",
+   "examples": [
+    "Local businesses should have prepared for foreign competition. — Doanh nghiệp địa phương lẽ ra nên chuẩn bị cho cạnh tranh nước ngoài.",
+    "I shouldn't have bought so many imported snacks. — Lẽ ra tôi không nên mua nhiều đồ ăn vặt nhập khẩu như vậy.",
+    "You needn't have brought cash. You can pay by card here. — Bạn đâu cần mang tiền mặt. Ở đây trả thẻ được."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "He speaks perfect English. He ___ abroad for many years.",
+   "options": [
+    "must have lived",
+    "can't have lived",
+    "must live",
+    "should have lived"
+   ],
+   "answer": "must have lived",
+   "explain": "Suy đoán chắc chắn về quá khứ → must have V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "This watch costs only $10. It ___ a real Rolex.",
+   "options": [
+    "must be",
+    "can't be",
+    "might have been",
+    "should be"
+   ],
+   "answer": "can't be",
+   "explain": "Chắc chắn không phải → can't be."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Nobody answered the phone. They ___ out.",
+   "options": [
+    "might be",
+    "can't be",
+    "must have be",
+    "should be"
+   ],
+   "answer": "might be",
+   "explain": "Có lẽ → might be."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "She ___ the report already. She only started an hour ago.",
+   "options": [
+    "must have finished",
+    "can't have finished",
+    "should have finished",
+    "needn't finish"
+   ],
+   "answer": "can't have finished",
+   "explain": "Không thể nào đã → can't have V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I failed the test. I ___ harder.",
+   "options": [
+    "must have studied",
+    "should have studied",
+    "can't have studied",
+    "might study"
+   ],
+   "answer": "should have studied",
+   "explain": "Tiếc nuối việc không làm → should have V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "You ___ cash. You could have paid by card.",
+   "options": [
+    "needn't have brought",
+    "mustn't have brought",
+    "can't have brought",
+    "should have brought"
+   ],
+   "answer": "needn't have brought",
+   "explain": "Không cần mà vẫn làm → needn't have V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "English has become a ___ franca for international business.",
+   "options": [
+    "lingua",
+    "language",
+    "global",
+    "common"
+   ],
+   "answer": "lingua",
+   "explain": "lingua franca = ngôn ngữ chung."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The streets are wet. It ___ have rained last night.",
+   "answer": [
+    "must"
+   ],
+   "explain": "Bằng chứng rõ → must have V3."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Some factories ___ workers by paying very low wages.",
+   "answer": [
+    "exploit"
+   ],
+   "explain": "exploit = bóc lột."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Not everyone reaps the ___ of globalisation equally.",
+   "answer": [
+    "benefits"
+   ],
+   "explain": "reap the benefits of."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Globalisation has raised the ___ of living in many countries.",
+   "answer": [
+    "standard"
+   ],
+   "explain": "standard of living = mức sống."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Local",
+    "businesses",
+    "should",
+    "have",
+    "prepared",
+    "for",
+    "foreign",
+    "competition."
+   ],
+   "answer": "Local businesses should have prepared for foreign competition.",
+   "explain": "should have V3."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Thanks",
+    "to",
+    "the",
+    "Internet,",
+    "the",
+    "world",
+    "has",
+    "become",
+    "a",
+    "global",
+    "village."
+   ],
+   "answer": "Thanks to the Internet, the world has become a global village.",
+   "explain": "a global village."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Lẽ ra tôi nên học tiếng Anh sớm hơn.",
+   "answer": [
+    "I should have learned English earlier.",
+    "I should have learnt English earlier.",
+    "I should have studied English earlier.",
+    "I should have started learning English earlier."
+   ],
+   "explain": "should have V3."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Chắc hẳn anh ấy đã bỏ lỡ chuyến xe buýt.",
+   "answer": [
+    "He must have missed the bus."
+   ],
+   "explain": "must have V3."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Climate change can only be solved through international cooperation.",
+   "answer": "Biến đổi khí hậu chỉ có thể được giải quyết thông qua hợp tác quốc tế.",
+   "explain": "through = thông qua."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất",
+   "en": "Walk down any shopping street in Hanoi today and you will see international fast-food chains, coffee brands and fashion stores. Thirty years ago, most of these brands did not exist in Vietnam. Supporters of globalisation say that foreign investment has created jobs and raised the standard of living. Critics, however, argue that local businesses have suffered. A small café owner told reporters that she ( ___ ) closed her shop if loyal customers had not supported her during the difficult years. Many people now try to support local brands to protect Vietnamese identity.",
+   "options": [
+    "would have",
+    "must have",
+    "should have",
+    "can't have"
+   ],
+   "answer": "would have",
+   "explain": "Câu điều kiện loại 3: if… had not supported → would have closed."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – ý chính] Đoạn văn chủ yếu nói về:",
+   "en": "Walk down any shopping street in Hanoi today and you will see international fast-food chains, coffee brands and fashion stores. Thirty years ago, most of these brands did not exist in Vietnam. Supporters of globalisation say that foreign investment has created jobs and raised the standard of living. Critics, however, argue that local businesses have suffered. A small café owner told reporters that she ( ___ ) closed her shop if loyal customers had not supported her during the difficult years. Many people now try to support local brands to protect Vietnamese identity.",
+   "options": [
+    "Tác động hai mặt của toàn cầu hóa đối với kinh doanh ở Hà Nội",
+    "Cách mở quán cà phê",
+    "Lịch sử Hà Nội",
+    "Thời trang Việt Nam"
+   ],
+   "answer": "Tác động hai mặt của toàn cầu hóa đối với kinh doanh ở Hà Nội",
+   "explain": "Supporters vs critics + doanh nghiệp địa phương."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Điều gì giúp Tuấn xuất khẩu sang châu Âu?",
+   "en": "Ten years ago, Tuan opened a small furniture workshop in Binh Duong. At first, he only sold to local customers. When a free trade agreement came into effect, he started exporting tables and chairs to Europe. His income increased quickly, and he was able to hire twenty workers. 'I should have learned English earlier,' he admits, 'because communicating with foreign buyers was the hardest part.' Today, he encourages his young employees to take English classes in the evening.",
+   "options": [
+    "Hiệp định thương mại tự do có hiệu lực",
+    "Anh ấy học tiếng Anh từ nhỏ",
+    "Khách hàng địa phương giới thiệu",
+    "Anh ấy chuyển sang châu Âu"
+   ],
+   "answer": "Hiệp định thương mại tự do có hiệu lực",
+   "explain": "'When a free trade agreement came into effect…'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Câu 'I should have learned English earlier' cho thấy Tuấn:",
+   "en": "Ten years ago, Tuan opened a small furniture workshop in Binh Duong. At first, he only sold to local customers. When a free trade agreement came into effect, he started exporting tables and chairs to Europe. His income increased quickly, and he was able to hire twenty workers. 'I should have learned English earlier,' he admits, 'because communicating with foreign buyers was the hardest part.' Today, he encourages his young employees to take English classes in the evening.",
+   "options": [
+    "Tiếc vì đã không học tiếng Anh sớm",
+    "Đã học tiếng Anh từ nhỏ",
+    "Không cần tiếng Anh",
+    "Ghét tiếng Anh"
+   ],
+   "answer": "Tiếc vì đã không học tiếng Anh sớm",
+   "explain": "should have V3 = lẽ ra nên (nhưng đã không làm)."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Advantages & Disadvantages: Toàn cầu hóa",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Globalisation has brought many international brands and companies to developing countries such as Vietnam.\nWhat are the advantages and disadvantages of this trend?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: There is a growing trend towards… + Although this brings benefits, it also has drawbacks.",
+   "Thân 1 – lợi ích: foreign investment, việc làm, mức sống, công nghệ",
+   "Thân 2 – bất lợi: doanh nghiệp địa phương khó cạnh tranh, mất bản sắc, lao động giá rẻ bị bóc lột",
+   "Dùng 1–2 câu should have / might have để đánh giá ('Some local firms should have…')",
+   "Kết bài: tóm tắt + đề xuất cân bằng (support local brands)"
+  ],
+  "phrases": [
+   "Over the past few decades, … has become increasingly common. — Vài thập kỷ qua, … ngày càng phổ biến.",
+   "The most obvious benefit is that … — Lợi ích rõ ràng nhất là …",
+   "Foreign investment has created millions of jobs … — Đầu tư nước ngoài đã tạo ra hàng triệu việc làm …",
+   "However, local businesses often struggle to compete with … — Tuy nhiên, doanh nghiệp địa phương thường khó cạnh tranh với …",
+   "In conclusion, while globalisation has …, it is vital to … — Tóm lại, dù toàn cầu hóa đã …, điều quan trọng là …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: English as a global language",
+  "prompt": "Topic: Everyone should learn English in a globalised world.\nIdeas: • better job opportunities • access to information • communicating with people from other countries\nFollow-up: Will English always be the most important international language?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Will English always be the most important international language?",
+   "What would you do differently if you could start learning English again?"
+  ],
+  "ideas": [
+   "In today's interconnected world, English has become…",
+   "First of all, people who speak English can…",
+   "Moreover, most information on the Internet is…",
+   "Looking back, I should have…",
+   "Other languages such as Chinese might become…, but…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "Think globally, act locally.",
+   "vi": "Nghĩ toàn cầu, hành động địa phương."
+  },
+  "pron": {
+   "title": "Dạng yếu của 'have' trong must have / should have",
+   "rule": "Trong văn nói, 'have' sau modal đọc nhẹ thành /əv/ và nối vào modal: must've, should've, might've.",
+   "examples": [
+    "must have → /ˈmʌstəv/",
+    "should have → /ˈʃʊdəv/",
+    "might have → /ˈmaɪtəv/"
+   ]
+  },
+  "phrases": [
+   [
+    "on a global scale",
+    "trên quy mô toàn cầu"
+   ],
+   [
+    "a double-edged effect",
+    "tác động hai mặt"
+   ],
+   [
+    "bring about significant changes",
+    "mang lại những thay đổi đáng kể"
+   ]
+  ],
+  "mistake": "Vì 'should've' nghe như 'should of', nhiều người viết sai 'should of done'. Đúng là 'should HAVE done'.",
+  "tip": "Reading VSTEP: câu hỏi suy luận (infer) thường dựa vào modal như must have / might have — đọc kỹ mức độ chắc chắn.",
+  "diary": "Viết 3–5 câu về một việc bạn tiếc trong quá khứ và đoán về người khác, dùng should have, must have, might have."
+ }
+}

@@ -1,0 +1,501 @@
+{
+ "id": "bai-12",
+ "lesson": "Bài 12",
+ "day": 4,
+ "date": "2026-11-22",
+ "title": "Thể thao & giải trí",
+ "enTitle": "Sports & Entertainment",
+ "past": false,
+ "words": [
+  [
+   "spectator",
+   "/spekˈteɪtə/ · n",
+   "khán giả (xem thể thao)",
+   "More than 40,000 spectators watched the final at My Dinh Stadium.",
+   "Hơn 40.000 khán giả đã xem trận chung kết ở sân Mỹ Đình."
+  ],
+  [
+   "team spirit",
+   "/tiːm ˈspɪrɪt/ · n",
+   "tinh thần đồng đội",
+   "Team sports help children develop team spirit.",
+   "Thể thao đồng đội giúp trẻ phát triển tinh thần đồng đội."
+  ],
+  [
+   "professional athlete",
+   "/prəˈfeʃənl ˈæθliːt/ · n",
+   "vận động viên chuyên nghiệp",
+   "Professional athletes have to train for many hours every day.",
+   "Vận động viên chuyên nghiệp phải tập luyện nhiều giờ mỗi ngày."
+  ],
+  [
+   "take up a sport",
+   "/teɪk ʌp ə spɔːt/ · phr v",
+   "bắt đầu chơi một môn thể thao",
+   "I took up badminton last year to stay fit.",
+   "Tôi bắt đầu chơi cầu lông năm ngoái để giữ dáng."
+  ],
+  [
+   "work out",
+   "/wɜːk ˈaʊt/ · phr v",
+   "tập thể dục, tập gym",
+   "She works out at the gym three times a week.",
+   "Cô ấy tập gym ba lần mỗi tuần."
+  ],
+  [
+   "competitive",
+   "/kəmˈpetətɪv/ · adj",
+   "mang tính cạnh tranh; ham thắng",
+   "Football is one of the most competitive sports in the world.",
+   "Bóng đá là một trong những môn thể thao cạnh tranh nhất thế giới."
+  ],
+  [
+   "sportsmanship",
+   "/ˈspɔːtsmənʃɪp/ · n",
+   "tinh thần thể thao (fair play)",
+   "Shaking hands after a match is a sign of good sportsmanship.",
+   "Bắt tay sau trận đấu là biểu hiện của tinh thần thể thao."
+  ],
+  [
+   "win a medal",
+   "/wɪn ə ˈmedl/ · v phr",
+   "giành huy chương",
+   "Vietnam won a gold medal in weightlifting at the SEA Games.",
+   "Việt Nam giành huy chương vàng cử tạ ở SEA Games."
+  ],
+  [
+   "break a record",
+   "/breɪk ə ˈrekɔːd/ · v phr",
+   "phá kỷ lục",
+   "The young swimmer broke the national record in the 200 metres.",
+   "Kình ngư trẻ phá kỷ lục quốc gia nội dung 200 mét."
+  ],
+  [
+   "the entertainment industry",
+   "/ˌentəˈteɪnmənt ˈɪndəstri/ · n",
+   "ngành công nghiệp giải trí",
+   "The entertainment industry earns billions of dollars every year.",
+   "Ngành giải trí thu về hàng tỷ đô mỗi năm."
+  ],
+  [
+   "streaming service",
+   "/ˈstriːmɪŋ ˈsɜːvɪs/ · n",
+   "dịch vụ xem trực tuyến",
+   "Streaming services like Netflix have changed how people watch films.",
+   "Các dịch vụ xem trực tuyến như Netflix đã thay đổi cách người ta xem phim."
+  ],
+  [
+   "box office",
+   "/ˈbɒks ɒfɪs/ · n",
+   "phòng vé, doanh thu phòng vé",
+   "The Vietnamese film was a huge success at the box office.",
+   "Bộ phim Việt Nam đã thành công lớn về doanh thu phòng vé."
+  ],
+  [
+   "a die-hard fan",
+   "/ˌdaɪ hɑːd ˈfæn/ · n",
+   "người hâm mộ cuồng nhiệt",
+   "My brother is a die-hard fan of Manchester United.",
+   "Anh tôi là fan cuồng nhiệt của Manchester United."
+  ],
+  [
+   "leisure time",
+   "/ˈleʒə taɪm/ · n",
+   "thời gian rảnh rỗi",
+   "People spend their leisure time in very different ways.",
+   "Mọi người dùng thời gian rảnh theo những cách rất khác nhau."
+  ],
+  [
+   "physical fitness",
+   "/ˈfɪzɪkl ˈfɪtnəs/ · n",
+   "thể lực",
+   "Regular swimming improves physical fitness.",
+   "Bơi thường xuyên giúp cải thiện thể lực."
+  ],
+  [
+   "extreme sports",
+   "/ɪkˈstriːm spɔːts/ · n",
+   "thể thao mạo hiểm",
+   "Extreme sports such as paragliding are becoming popular among young people.",
+   "Thể thao mạo hiểm như dù lượn đang ngày càng được giới trẻ ưa chuộng."
+  ],
+  [
+   "a sedentary hobby",
+   "/ˈsedntri ˈhɒbi/ · n",
+   "sở thích tĩnh, ít vận động",
+   "Playing video games is a sedentary hobby.",
+   "Chơi điện tử là một sở thích ít vận động."
+  ],
+  [
+   "live performance",
+   "/laɪv pəˈfɔːməns/ · n",
+   "buổi biểu diễn trực tiếp",
+   "Nothing compares to the atmosphere of a live performance.",
+   "Không gì sánh được không khí của buổi diễn trực tiếp."
+  ],
+  [
+   "sponsorship",
+   "/ˈspɒnsəʃɪp/ · n",
+   "sự tài trợ",
+   "Football clubs earn huge amounts of money from sponsorship.",
+   "Các câu lạc bộ bóng đá kiếm được số tiền khổng lồ từ tài trợ."
+  ],
+  [
+   "host an event",
+   "/həʊst ən ɪˈvent/ · v phr",
+   "đăng cai một sự kiện",
+   "Hosting an international event can boost a country's image.",
+   "Đăng cai một sự kiện quốc tế có thể nâng cao hình ảnh đất nước."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "So sánh hơn và so sánh nhất",
+   "meaning": "Tính từ ngắn: adj-er (than) / the adj-est. Tính từ dài: more/less adj (than) / the most/least adj. Bất quy tắc: good → better → the best; bad → worse → the worst; far → further → the furthest; little → less → the least; much/many → more → the most.",
+   "examples": [
+    "Football is more popular than basketball in Vietnam. — Ở Việt Nam bóng đá phổ biến hơn bóng rổ.",
+    "This is the most exciting match I have ever watched. — Đây là trận đấu hay nhất tôi từng xem.",
+    "My health is better now that I work out regularly. — Sức khỏe tôi tốt hơn từ khi tập đều.",
+    "Streaming services are cheaper than going to the cinema. — Dịch vụ xem trực tuyến rẻ hơn đi rạp."
+   ]
+  },
+  {
+   "form": "The + so sánh hơn…, the + so sánh hơn… (càng… càng…)",
+   "meaning": "The + comparative + S + V, the + comparative + S + V. Có thể dùng 'the more + N' hoặc rút gọn 'The sooner, the better'.",
+   "examples": [
+    "The more you practise, the better you become. — Càng luyện nhiều, bạn càng giỏi.",
+    "The harder athletes train, the more medals they win. — Vận động viên càng tập chăm, càng giành nhiều huy chương.",
+    "The less time you spend on screens, the healthier you will be. — Càng ít dùng màn hình, bạn càng khỏe."
+   ]
+  },
+  {
+   "form": "Nhấn mạnh và so sánh bằng",
+   "meaning": "far / much / a lot / considerably + so sánh hơn (hơn nhiều); slightly / a bit (hơn một chút). by far + so sánh nhất. as + adj + as (bằng), not as/so + adj + as (không bằng), twice/three times as… as (gấp…).",
+   "examples": [
+    "Swimming is far better for your joints than running. — Bơi tốt cho khớp hơn nhiều so với chạy.",
+    "Football is by far the most popular sport in Vietnam. — Bóng đá là môn phổ biến nhất ở Việt Nam, bỏ xa các môn khác.",
+    "Watching a film at home is not as exciting as going to the cinema. — Xem phim ở nhà không hấp dẫn bằng ra rạp.",
+    "Tickets this year are twice as expensive as last year. — Vé năm nay đắt gấp đôi năm ngoái."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng so sánh đúng",
+   "en": "Football is ___ than basketball in Vietnam.",
+   "options": [
+    "popular",
+    "more popular",
+    "most popular",
+    "the more popular"
+   ],
+   "answer": "more popular",
+   "explain": "Tính từ dài → more + adj + than."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng so sánh đúng",
+   "en": "This is ___ match I have ever watched.",
+   "options": [
+    "the more exciting",
+    "the most exciting",
+    "most exciting",
+    "more exciting"
+   ],
+   "answer": "the most exciting",
+   "explain": "So sánh nhất + ever."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng so sánh đúng",
+   "en": "My health is ___ now than last year.",
+   "options": [
+    "gooder",
+    "better",
+    "the best",
+    "more good"
+   ],
+   "answer": "better",
+   "explain": "good → better."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The more you practise, ___ you become.",
+   "options": [
+    "the good",
+    "better",
+    "the better",
+    "the best"
+   ],
+   "answer": "the better",
+   "explain": "The + comparative…, the + comparative."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Swimming is ___ better for your joints than running.",
+   "options": [
+    "very",
+    "far",
+    "too",
+    "so"
+   ],
+   "answer": "far",
+   "explain": "far/much + so sánh hơn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Watching a film at home is not ___ exciting as going to the cinema.",
+   "options": [
+    "more",
+    "than",
+    "as",
+    "so much"
+   ],
+   "answer": "as",
+   "explain": "not as + adj + as."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Shaking hands after a match shows good ___.",
+   "options": [
+    "sportsmanship",
+    "sponsorship",
+    "spectator",
+    "competition"
+   ],
+   "answer": "sportsmanship",
+   "explain": "sportsmanship = tinh thần thể thao."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng của tính từ",
+   "en": "Tickets this year are twice as ___ (expensive) as last year.",
+   "answer": [
+    "expensive"
+   ],
+   "explain": "twice as + adj (nguyên dạng) + as."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng đúng",
+   "en": "Football is by far ___ (popular) sport in Vietnam.",
+   "answer": [
+    "the most popular"
+   ],
+   "explain": "by far + so sánh nhất."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The young swimmer ___ the national record.",
+   "answer": [
+    "broke",
+    "set"
+   ],
+   "explain": "break a record = phá kỷ lục."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "I took ___ badminton last year to stay fit.",
+   "answer": [
+    "up"
+   ],
+   "explain": "take up = bắt đầu (môn thể thao, sở thích)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "The",
+    "harder",
+    "athletes",
+    "train,",
+    "the",
+    "more",
+    "medals",
+    "they",
+    "win."
+   ],
+   "answer": "The harder athletes train, the more medals they win.",
+   "explain": "Càng… càng…"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Streaming",
+    "services",
+    "are",
+    "much",
+    "cheaper",
+    "than",
+    "going",
+    "to",
+    "the",
+    "cinema."
+   ],
+   "answer": "Streaming services are much cheaper than going to the cinema.",
+   "explain": "much + so sánh hơn."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Càng ngủ sớm, bạn càng khỏe.",
+   "answer": [
+    "The earlier you go to bed, the healthier you will be.",
+    "The earlier you sleep, the healthier you will be.",
+    "The earlier you go to bed, the healthier you are.",
+    "The earlier you sleep, the healthier you are."
+   ],
+   "explain": "The + comparative…, the + comparative."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Bóng đá là môn thể thao phổ biến nhất ở Việt Nam.",
+   "answer": [
+    "Football is the most popular sport in Vietnam.",
+    "Football is by far the most popular sport in Vietnam.",
+    "Soccer is the most popular sport in Vietnam."
+   ],
+   "explain": "the most popular."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Hosting an international event can boost a country's image.",
+   "answer": "Đăng cai một sự kiện quốc tế có thể nâng cao hình ảnh của một quốc gia.",
+   "explain": "boost = nâng cao, thúc đẩy."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn cụm phù hợp nhất",
+   "en": "Pickleball, a sport that combines elements of tennis and badminton, has become surprisingly popular in Vietnam. Courts have appeared in parks and on rooftops in Hanoi and Ho Chi Minh City. Players say that it is easier to learn than tennis and far more sociable than going to the gym. Because the court is smaller, older people can also play without getting too tired. The more people try it, ( ___ ) popular it becomes. Some sports experts, however, wonder whether the trend will last.",
+   "options": [
+    "the more",
+    "more",
+    "the most",
+    "most"
+   ],
+   "answer": "the more",
+   "explain": "The more…, the more popular…"
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Vì sao người lớn tuổi chơi được pickleball?",
+   "en": "Pickleball, a sport that combines elements of tennis and badminton, has become surprisingly popular in Vietnam. Courts have appeared in parks and on rooftops in Hanoi and Ho Chi Minh City. Players say that it is easier to learn than tennis and far more sociable than going to the gym. Because the court is smaller, older people can also play without getting too tired. The more people try it, ( ___ ) popular it becomes. Some sports experts, however, wonder whether the trend will last.",
+   "options": [
+    "Sân nhỏ hơn nên đỡ mệt",
+    "Vé rẻ",
+    "Sân ở trên mái nhà",
+    "Giống cầu lông hoàn toàn"
+   ],
+   "answer": "Sân nhỏ hơn nên đỡ mệt",
+   "explain": "'Because the court is smaller, older people can also play without getting too tired'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Chủ rạp chiếu phim cho rằng:",
+   "en": "Streaming services have changed the way people enjoy films and music. Ten years ago, most Vietnamese families watched television together in the evening. Today, each family member often watches different programmes on their own phone. Streaming is cheaper and more convenient than going to the cinema, but some people feel that something has been lost. Cinema owners argue that watching a film on a big screen with other people is a far more emotional experience. Recent box office figures suggest that many young people agree, as ticket sales have started to rise again.",
+   "options": [
+    "Xem phim màn hình lớn cùng mọi người giàu cảm xúc hơn nhiều",
+    "Xem trên điện thoại tiện hơn",
+    "Phim truyền hình hay hơn",
+    "Rạp nên đóng cửa"
+   ],
+   "answer": "Xem phim màn hình lớn cùng mọi người giàu cảm xúc hơn nhiều",
+   "explain": "'a far more emotional experience'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Số liệu phòng vé gần đây cho thấy:",
+   "en": "Streaming services have changed the way people enjoy films and music. Ten years ago, most Vietnamese families watched television together in the evening. Today, each family member often watches different programmes on their own phone. Streaming is cheaper and more convenient than going to the cinema, but some people feel that something has been lost. Cinema owners argue that watching a film on a big screen with other people is a far more emotional experience. Recent box office figures suggest that many young people agree, as ticket sales have started to rise again.",
+   "options": [
+    "Nhiều bạn trẻ lại thích ra rạp",
+    "Rạp chiếu đang đóng cửa",
+    "Không ai xem streaming nữa",
+    "Giá vé giảm mạnh"
+   ],
+   "answer": "Nhiều bạn trẻ lại thích ra rạp",
+   "explain": "'ticket sales have started to rise again'."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư mời bạn đi xem bóng đá",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "You have two tickets for a football match next Saturday.\nWrite an email to your friend. In your email:\n• invite him/her to the match\n• give details about the time and place\n• suggest what you can do after the match.\nYou should write at least 120 words.",
+  "outline": [
+   "Hi + tên, + How are things? I hope you're doing well.",
+   "Đoạn 1: mời (I'm writing to invite you to… on… at…), lý do trận này hấp dẫn (so sánh hơn/nhất)",
+   "Đoạn 2: chi tiết giờ, địa điểm, cách đi, cần mang gì",
+   "Đoạn 3: gợi ý sau trận (Why don't we… / How about…?)",
+   "Kết: Let me know if you can come. Can't wait to see you! / Best wishes,"
+  ],
+  "phrases": [
+   "I'm writing to invite you to … on … at … — Mình viết để mời bạn đi … vào … lúc …",
+   "It's going to be the most exciting match of the season. — Đó sẽ là trận hấp dẫn nhất mùa giải.",
+   "We'd better leave early because … — Mình nên đi sớm vì …",
+   "After the match, how about grabbing something to eat? — Sau trận, mình đi ăn gì đó nhé?",
+   "Let me know if you can make it. — Cho mình biết bạn có đi được không nhé."
+  ]
+ },
+ "speaking": {
+  "part": 1,
+  "title": "Social interaction: sports & entertainment",
+  "prompt": "Let's talk about sports. Then let's talk about films and music.",
+  "questions": [
+   "What sports do you like playing or watching?",
+   "Is sport more popular now than it was in the past?",
+   "Did you do any sports when you were a child?",
+   "How often do you go to the cinema?",
+   "Do you prefer watching films at home or at the cinema? Why?",
+   "What kind of music do you listen to most?"
+  ],
+  "ideas": [
+   "I'm a big fan of… because…",
+   "Compared with ten years ago, people are far more interested in…",
+   "When I was a kid, I used to…",
+   "I'd say watching at home is more convenient, but…",
+   "The more stressed I am, the more I listen to…"
+  ],
+  "minutes": 3
+ },
+ "corner": {
+  "quote": {
+   "en": "The more you sweat in training, the less you bleed in battle.",
+   "vi": "Đổ mồ hôi khi luyện tập càng nhiều, đổ máu trên chiến trường càng ít."
+  },
+  "pron": {
+   "title": "Nối âm phụ âm + nguyên âm (linking)",
+   "rule": "Khi từ trước kết thúc bằng phụ âm và từ sau bắt đầu bằng nguyên âm, đọc nối liền như một từ.",
+   "examples": [
+    "work out → /wɜː kaʊt/",
+    "take up → /teɪ kʌp/",
+    "an event → /ə nɪˈvent/"
+   ]
+  },
+  "phrases": [
+   [
+    "a level playing field",
+    "sân chơi bình đẳng"
+   ],
+   [
+    "be in good shape",
+    "có thể trạng tốt"
+   ],
+   [
+    "blow off steam",
+    "xả stress"
+   ]
+  ],
+  "mistake": "Hay viết 'more better', 'most best' hoặc 'more cheaper'. Tính từ ngắn chỉ thêm -er/-est, không dùng thêm more/most.",
+  "tip": "Speaking Part 1: mỗi câu trả lời 2–3 câu. Dùng một câu so sánh (than ten years ago…) để thể hiện ngữ pháp B2.",
+  "diary": "So sánh 2 môn thể thao hoặc 2 cách giải trí trong 3–5 câu, dùng so sánh hơn, so sánh nhất và 'The more…, the more…'."
+ }
+}

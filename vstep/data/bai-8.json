@@ -1,0 +1,469 @@
+{
+ "id": "bai-8",
+ "lesson": "Bài 8",
+ "day": null,
+ "date": "2026-11-18",
+ "title": "Du lịch & văn hóa",
+ "enTitle": "Travel & Culture",
+ "past": true,
+ "words": [
+  [
+   "cultural heritage",
+   "/ˈkʌltʃərəl ˈherɪtɪdʒ/ · n",
+   "di sản văn hóa",
+   "Ancient temples and traditional festivals are an important part of a nation's cultural heritage and should be protected for future generations.",
+   "Đền chùa cổ và lễ hội truyền thống là một phần quan trọng của di sản văn hóa quốc gia và cần được bảo vệ cho các thế hệ sau."
+  ],
+  [
+   "preserve traditional customs",
+   "/prɪˈzɜːv/ · v phr",
+   "gìn giữ phong tục truyền thống",
+   "Local communities should be encouraged to preserve traditional customs instead of abandoning them for modern lifestyles.",
+   "Cộng đồng địa phương nên được khuyến khích gìn giữ phong tục truyền thống thay vì từ bỏ chúng để chạy theo lối sống hiện đại."
+  ],
+  [
+   "mass tourism",
+   "/ˌmæs ˈtʊərɪzəm/ · n",
+   "du lịch đại trà",
+   "Mass tourism brings considerable income, but it also puts heavy pressure on fragile natural areas.",
+   "Du lịch đại trà mang lại thu nhập đáng kể nhưng cũng gây áp lực lớn lên các khu thiên nhiên mong manh."
+  ],
+  [
+   "eco-tourism",
+   "/ˈiːkəʊ ˌtʊərɪzəm/ · n",
+   "du lịch sinh thái",
+   "Eco-tourism allows visitors to enjoy nature while contributing to the protection of the local environment.",
+   "Du lịch sinh thái cho phép du khách tận hưởng thiên nhiên đồng thời góp phần bảo vệ môi trường địa phương."
+  ],
+  [
+   "a popular tourist destination",
+   "/ˈtʊərɪst ˌdestɪˈneɪʃn/ · n",
+   "điểm đến du lịch nổi tiếng",
+   "Hoi An has become a popular tourist destination thanks to its well-preserved old town.",
+   "Hội An đã trở thành điểm đến nổi tiếng nhờ phố cổ được bảo tồn tốt."
+  ],
+  [
+   "culture shock",
+   "/ˈkʌltʃə ʃɒk/ · n",
+   "sốc văn hóa",
+   "International students often experience culture shock during their first few months abroad.",
+   "Du học sinh thường bị sốc văn hóa trong vài tháng đầu ở nước ngoài."
+  ],
+  [
+   "cultural exchange",
+   "/ˈkʌltʃərəl ɪksˈtʃeɪndʒ/ · n",
+   "giao lưu văn hóa",
+   "Student exchange programmes promote cultural exchange and mutual understanding between countries.",
+   "Chương trình trao đổi sinh viên thúc đẩy giao lưu văn hóa và hiểu biết lẫn nhau giữa các nước."
+  ],
+  [
+   "local cuisine",
+   "/ˈləʊkl kwɪˈziːn/ · n",
+   "ẩm thực địa phương",
+   "Trying local cuisine is one of the best ways for travellers to learn about the culture of a place.",
+   "Thử ẩm thực địa phương là một trong những cách tốt nhất để du khách tìm hiểu văn hóa một nơi."
+  ],
+  [
+   "boost the local economy",
+   "/buːst ðə ˈləʊkl ɪˈkɒnəmi/ · v phr",
+   "thúc đẩy kinh tế địa phương",
+   "The growth of tourism can boost the local economy by creating jobs in hotels, restaurants and transport.",
+   "Du lịch phát triển có thể thúc đẩy kinh tế địa phương nhờ tạo việc làm ở khách sạn, nhà hàng và vận tải."
+  ],
+  [
+   "cultural identity",
+   "/ˈkʌltʃərəl aɪˈdentəti/ · n",
+   "bản sắc văn hóa",
+   "In an increasingly globalised world, young people should be proud of their own cultural identity.",
+   "Trong thế giới ngày càng toàn cầu hóa, người trẻ nên tự hào về bản sắc văn hóa của mình."
+  ],
+  [
+   "historical sites",
+   "/hɪˈstɒrɪkl saɪts/ · n",
+   "di tích lịch sử",
+   "Visiting historical sites gives students a deeper understanding of their country's past.",
+   "Tham quan di tích lịch sử giúp học sinh hiểu sâu hơn về quá khứ đất nước."
+  ],
+  [
+   "the tourism industry",
+   "/ðə ˈtʊərɪzəm ˈɪndəstri/ · n",
+   "ngành du lịch",
+   "The tourism industry was one of the sectors most severely affected by the pandemic.",
+   "Ngành du lịch là một trong những lĩnh vực bị đại dịch ảnh hưởng nặng nề nhất."
+  ],
+  [
+   "off the beaten track",
+   "/ɒf ðə ˈbiːtn træk/ · adv phr",
+   "(đến) nơi ít người biết, còn hoang sơ",
+   "More travellers now prefer to go off the beaten track to avoid crowded tourist spots.",
+   "Ngày càng nhiều du khách thích đến những nơi hoang sơ để tránh điểm du lịch đông đúc."
+  ],
+  [
+   "cultural diversity",
+   "/ˈkʌltʃərəl daɪˈvɜːsəti/ · n",
+   "sự đa dạng văn hóa",
+   "Cultural diversity enriches a society by bringing together different traditions, languages and ideas.",
+   "Đa dạng văn hóa làm phong phú xã hội bằng cách kết hợp các truyền thống, ngôn ngữ và ý tưởng khác nhau."
+  ],
+  [
+   "adapt to a new culture",
+   "/əˈdæpt tə ə njuː ˈkʌltʃə/ · v phr",
+   "thích nghi với nền văn hóa mới",
+   "Learning the local language helps immigrants adapt to a new culture more quickly.",
+   "Học ngôn ngữ địa phương giúp người nhập cư thích nghi với văn hóa mới nhanh hơn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Because / since / as vs because of / due to / owing to",
+   "meaning": "Nhóm 1: because, since, as, for + MỆNH ĐỀ (S + V). Nhóm 2: because of, due to, owing to + N / cụm N / V-ing. Đổi qua lại: because the weather is bad = because of the bad weather.",
+   "examples": [
+    "I didn't go out because the weather was bad. = I didn't go out because of the bad weather. — Tôi không ra ngoài vì trời xấu.",
+    "Many flights were cancelled due to the storm. — Nhiều chuyến bay bị hủy do bão.",
+    "Owing to mass tourism, the beach has become polluted. — Do du lịch đại trà, bãi biển đã bị ô nhiễm."
+   ]
+  },
+  {
+   "form": "Although / though vs despite / in spite of",
+   "meaning": "Although, though, even though + MỆNH ĐỀ. Despite, in spite of + N / cụm N / V-ing, hoặc despite the fact that + mệnh đề. Không dùng 'but' sau although.",
+   "examples": [
+    "Although Hoi An is crowded, tourists love it. — Dù Hội An đông, du khách vẫn yêu nơi đây.",
+    "Despite the hot weather, we went out for a walk. — Dù trời nóng, chúng tôi vẫn đi dạo.",
+    "In spite of being tired, she stayed up late to finish her work. — Dù mệt, cô ấy vẫn thức khuya để làm xong việc."
+   ]
+  },
+  {
+   "form": "Các cấu trúc hay gặp: result in/lead to, it takes, find it, would rather, look forward to",
+   "meaning": "result in / lead to (dẫn đến) >< result from (bắt nguồn từ). It takes sb + time + to V = sb spends + time + V-ing. find it + adj + to V. would rather + V + than + V; would rather + sb + V(quá khứ). look forward to + V-ing. used to V (từng) ≠ be/get used to V-ing (quen với).",
+   "examples": [
+    "Mass tourism can lead to environmental damage. — Du lịch đại trà có thể dẫn đến hủy hoại môi trường.",
+    "It takes me two hours to get to Ha Long Bay. = I spend two hours getting to Ha Long Bay. — Tôi mất hai tiếng để đến vịnh Hạ Long.",
+    "I find it difficult to adapt to a new culture. — Tôi thấy khó thích nghi với văn hóa mới.",
+    "We are looking forward to visiting Hue. — Chúng tôi rất mong được đến Huế."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "We didn't go to the beach ___ the heavy rain.",
+   "options": [
+    "because",
+    "because of",
+    "although",
+    "since"
+   ],
+   "answer": "because of",
+   "explain": "Theo sau là cụm danh từ → because of."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "___ the hot weather, we went out for a walk.",
+   "options": [
+    "Although",
+    "Despite",
+    "Because",
+    "Since"
+   ],
+   "answer": "Despite",
+   "explain": "+ cụm danh từ, ý tương phản → Despite."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "___ Linh felt tired, she stayed up late to finish her work.",
+   "options": [
+    "Despite",
+    "In spite of",
+    "Though",
+    "Because of"
+   ],
+   "answer": "Though",
+   "explain": "+ mệnh đề, tương phản → Though."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Mass tourism can ___ environmental damage.",
+   "options": [
+    "result from",
+    "lead to",
+    "cause by",
+    "due to"
+   ],
+   "answer": "lead to",
+   "explain": "lead to = dẫn đến."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It ___ me two hours to get to Ha Long Bay.",
+   "options": [
+    "spends",
+    "takes",
+    "costs",
+    "makes"
+   ],
+   "answer": "takes",
+   "explain": "It takes sb + time + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "I would rather stay in a homestay ___ in a hotel.",
+   "options": [
+    "to stay",
+    "than stay",
+    "than staying",
+    "rather"
+   ],
+   "answer": "than stay",
+   "explain": "would rather V than V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "We are looking forward to ___ Hue next month.",
+   "options": [
+    "visit",
+    "visiting",
+    "visited",
+    "be visiting"
+   ],
+   "answer": "visiting",
+   "explain": "look forward to + V-ing."
+  },
+  {
+   "type": "fill",
+   "q": "Viết lại câu — điền 1 từ",
+   "en": "I spend five hours playing video games. → It ___ me five hours to play video games.",
+   "answer": [
+    "takes"
+   ],
+   "explain": "It takes sb time to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "___ being tired, she stayed up late.",
+   "answer": [
+    "Despite",
+    "In spite of"
+   ],
+   "explain": "+ V-ing → Despite / In spite of."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "I find ___ difficult to adapt to a new culture.",
+   "answer": [
+    "it"
+   ],
+   "explain": "find it + adj + to V."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Trying local ___ is the best way to learn about a culture.",
+   "answer": [
+    "cuisine",
+    "food"
+   ],
+   "explain": "local cuisine = ẩm thực địa phương."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Many",
+    "flights",
+    "were",
+    "cancelled",
+    "due",
+    "to",
+    "the",
+    "storm."
+   ],
+   "answer": "Many flights were cancelled due to the storm.",
+   "explain": "due to + cụm danh từ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "More",
+    "travellers",
+    "now",
+    "prefer",
+    "to",
+    "go",
+    "off",
+    "the",
+    "beaten",
+    "track."
+   ],
+   "answer": "More travellers now prefer to go off the beaten track.",
+   "explain": "off the beaten track = nơi hoang sơ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Mặc dù trời mưa, chúng tôi vẫn đi tham quan phố cổ.",
+   "answer": [
+    "Although it rained, we still visited the old town.",
+    "Although it was raining, we still visited the old town.",
+    "Despite the rain, we still visited the old town.",
+    "In spite of the rain, we still visited the old town.",
+    "Although it rained, we visited the old town.",
+    "Despite the rain, we visited the old town."
+   ],
+   "explain": "Although + mệnh đề / Despite + N."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Tôi mất ba tiếng để đến Đà Lạt.",
+   "answer": [
+    "It takes me three hours to get to Da Lat.",
+    "It took me three hours to get to Da Lat.",
+    "I spend three hours getting to Da Lat.",
+    "I spent three hours getting to Da Lat.",
+    "It takes me three hours to go to Da Lat."
+   ],
+   "explain": "It takes/took sb time to V."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Cultural diversity enriches a society.",
+   "answer": "Sự đa dạng văn hóa làm phong phú thêm cho xã hội.",
+   "explain": "enrich = làm phong phú."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ nối phù hợp nhất",
+   "en": "Hoi An has become a popular tourist destination thanks to its well-preserved old town. Every year, millions of visitors come to see its yellow houses, lanterns and historical sites. Tourism has boosted the local economy, creating thousands of jobs. ( ___ ), some residents complain that the town is losing its peaceful atmosphere. Many old houses have been turned into souvenir shops, and the streets are often overcrowded. Local authorities have started limiting the number of visitors in the old town during peak hours.",
+   "options": [
+    "However",
+    "Therefore",
+    "Because",
+    "For example"
+   ],
+   "answer": "However",
+   "explain": "Ý trước tích cực, ý sau tiêu cực → However."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Chính quyền Hội An đã làm gì?",
+   "en": "Hoi An has become a popular tourist destination thanks to its well-preserved old town. Every year, millions of visitors come to see its yellow houses, lanterns and historical sites. Tourism has boosted the local economy, creating thousands of jobs. ( ___ ), some residents complain that the town is losing its peaceful atmosphere. Many old houses have been turned into souvenir shops, and the streets are often overcrowded. Local authorities have started limiting the number of visitors in the old town during peak hours.",
+   "options": [
+    "Giới hạn số khách vào phố cổ giờ cao điểm",
+    "Đóng cửa các cửa hàng",
+    "Xây thêm khách sạn",
+    "Cấm đèn lồng"
+   ],
+   "answer": "Giới hạn số khách vào phố cổ giờ cao điểm",
+   "explain": "Câu cuối: limiting the number of visitors during peak hours."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Linh mất bao lâu để thấy thoải mái?",
+   "en": "When Linh moved to Australia to study, she experienced culture shock. She found it difficult to understand the local accent, and she missed Vietnamese food. It took her nearly three months to feel comfortable. Joining a cultural exchange club helped her a lot. There, she cooked Vietnamese dishes for her classmates and learned about their traditions. Despite the difficulties at the beginning, she now says that living abroad was the best decision of her life.",
+   "options": [
+    "Gần ba tháng",
+    "Ba tuần",
+    "Một năm",
+    "Ba ngày"
+   ],
+   "answer": "Gần ba tháng",
+   "explain": "'It took her nearly three months'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Thái độ hiện tại của Linh về việc du học là:",
+   "en": "When Linh moved to Australia to study, she experienced culture shock. She found it difficult to understand the local accent, and she missed Vietnamese food. It took her nearly three months to feel comfortable. Joining a cultural exchange club helped her a lot. There, she cooked Vietnamese dishes for her classmates and learned about their traditions. Despite the difficulties at the beginning, she now says that living abroad was the best decision of her life.",
+   "options": [
+    "Rất tích cực",
+    "Hối hận",
+    "Lo lắng",
+    "Thờ ơ"
+   ],
+   "answer": "Rất tích cực",
+   "explain": "'the best decision of her life'."
+  }
+ ],
+ "writing": {
+  "task": 1,
+  "title": "Thư trả lời bạn, gợi ý du lịch Việt Nam",
+  "words": 120,
+  "minutes": 20,
+  "prompt": "Your friend Tom is coming to Vietnam for a week and has asked for your advice.\nWrite an email to Tom. In your email:\n• suggest places to visit\n• recommend some local food to try\n• offer to meet him.\nYou should write at least 120 words.",
+  "outline": [
+   "Hi Tom, + Thanks so much for your email! I'm really excited that…",
+   "Đoạn 1: gợi ý 2 nơi (dùng because / since + lý do)",
+   "Đoạn 2: món ăn nên thử (local cuisine), dùng although/despite một lần",
+   "Đoạn 3: hẹn gặp (By the way, I'll be free…, so why don't we meet up?)",
+   "Kết: Let me know your plans. Can't wait to see you! / Best wishes, + tên"
+  ],
+  "phrases": [
+   "Thanks so much for your email! — Cảm ơn email của bạn nhiều nhé!",
+   "Since you only have a week, I'd suggest … — Vì bạn chỉ có một tuần, mình gợi ý …",
+   "As for food, you have to try … — Về đồ ăn, bạn nhất định phải thử …",
+   "By the way, I'll be free next weekend, so why don't we meet up? — Nhân tiện, cuối tuần sau mình rảnh, mình gặp nhau nhé?",
+   "Can't wait to see you! — Mong gặp bạn lắm!"
+  ]
+ },
+ "speaking": {
+  "part": 1,
+  "title": "Social interaction: travel & food",
+  "prompt": "Let's talk about travelling. Then let's talk about food.",
+  "questions": [
+   "Do you like travelling? Why or why not?",
+   "What is the most beautiful place you have ever visited?",
+   "Would you rather travel alone or with friends?",
+   "What is your favourite Vietnamese dish?",
+   "Do you prefer eating at home or eating out?",
+   "Which local dish would you recommend to a foreign visitor?"
+  ],
+  "ideas": [
+   "Yes, I love travelling because …",
+   "The most beautiful place I've ever visited is …, where …",
+   "I'd rather travel with friends than alone because …",
+   "Although … is very popular, my favourite dish is …",
+   "I'd definitely recommend … to foreign visitors since …"
+  ],
+  "minutes": 3
+ },
+ "corner": {
+  "quote": {
+   "en": "The world is a book, and those who do not travel read only one page.",
+   "vi": "Thế giới là một cuốn sách, và người không đi du lịch chỉ đọc được một trang."
+  },
+  "pron": {
+   "title": "Âm /ɪ/ ngắn và /iː/ dài",
+   "rule": "/ɪ/ ngắn, thả lỏng (ship, live). /iː/ dài, căng môi như cười (sheep, leave). Đọc sai làm đổi nghĩa từ.",
+   "examples": [
+    "live /lɪv/ – leave /liːv/",
+    "ship /ʃɪp/ – sheep /ʃiːp/",
+    "heritage → /ˈherɪtɪdʒ/"
+   ]
+  },
+  "phrases": [
+   [
+    "broaden one's horizons",
+    "mở mang tầm mắt"
+   ],
+   [
+    "a once-in-a-lifetime experience",
+    "trải nghiệm có một không hai"
+   ],
+   [
+    "soak up the atmosphere",
+    "tận hưởng không khí"
+   ]
+  ],
+  "mistake": "Hay viết 'Although it rained, but we still went out.' Tiếng Anh không dùng cả although và but trong một câu.",
+  "tip": "Writing: dùng từ nối đa dạng. Thay vì 'because' mãi, luân phiên dùng since, as, due to, owing to.",
+  "diary": "Kể về một chuyến đi đáng nhớ trong 3–5 câu, dùng because of, although, despite và It took me…"
+ }
+}

@@ -1,0 +1,459 @@
+{
+ "id": "bai-3",
+ "lesson": "Bài 3",
+ "day": null,
+ "date": "2026-11-13",
+ "title": "Môi trường",
+ "enTitle": "Environment",
+ "past": true,
+ "words": [
+  [
+   "environmental degradation",
+   "/ɪnˌvaɪrənˈmentl ˌdeɡrəˈdeɪʃn/ · n",
+   "sự suy thoái môi trường",
+   "Rapid industrialisation has led to serious environmental degradation in many developing countries.",
+   "Công nghiệp hóa nhanh đã gây suy thoái môi trường nghiêm trọng ở nhiều nước đang phát triển."
+  ],
+  [
+   "greenhouse gas emissions",
+   "/ˈɡriːnhaʊs ɡæs iˈmɪʃnz/ · n",
+   "khí thải nhà kính",
+   "Governments must take decisive action to cut greenhouse gas emissions from factories and vehicles.",
+   "Chính phủ phải hành động quyết liệt để cắt giảm khí thải nhà kính từ nhà máy và xe cộ."
+  ],
+  [
+   "fossil fuels",
+   "/ˈfɒsl ˈfjuːəlz/ · n",
+   "nhiên liệu hóa thạch",
+   "Our heavy dependence on fossil fuels is one of the main causes of global warming.",
+   "Sự phụ thuộc nặng nề vào nhiên liệu hóa thạch là một nguyên nhân chính gây nóng lên toàn cầu."
+  ],
+  [
+   "renewable energy sources",
+   "/rɪˈnjuːəbl ˈenədʒi ˈsɔːsɪz/ · n",
+   "các nguồn năng lượng tái tạo",
+   "Investing in renewable energy sources such as solar and wind power is a sustainable long-term solution.",
+   "Đầu tư vào năng lượng tái tạo như điện mặt trời và điện gió là giải pháp bền vững lâu dài."
+  ],
+  [
+   "carbon footprint",
+   "/ˌkɑːbən ˈfʊtprɪnt/ · n",
+   "lượng khí thải carbon (của một người/tổ chức)",
+   "Individuals can reduce their carbon footprint by using public transport instead of private cars.",
+   "Mỗi người có thể giảm lượng khí thải carbon bằng cách đi phương tiện công cộng thay vì xe riêng."
+  ],
+  [
+   "deforestation",
+   "/diːˌfɒrɪˈsteɪʃn/ · n",
+   "nạn phá rừng",
+   "Deforestation not only destroys wildlife habitats but also contributes to climate change.",
+   "Phá rừng không chỉ phá hủy môi trường sống của động vật hoang dã mà còn góp phần gây biến đổi khí hậu."
+  ],
+  [
+   "single-use plastics",
+   "/ˌsɪŋɡl juːs ˈplæstɪks/ · n",
+   "đồ nhựa dùng một lần",
+   "Banning single-use plastics would significantly reduce the amount of waste ending up in the ocean.",
+   "Cấm đồ nhựa dùng một lần sẽ giảm đáng kể lượng rác đổ ra đại dương."
+  ],
+  [
+   "raise public awareness of sth",
+   "/reɪz ˈpʌblɪk əˈweənəs/ · v phr",
+   "nâng cao nhận thức cộng đồng về điều gì",
+   "Schools and the media play a vital role in raising public awareness of environmental issues.",
+   "Trường học và truyền thông đóng vai trò quan trọng trong việc nâng cao nhận thức về vấn đề môi trường."
+  ],
+  [
+   "take drastic measures",
+   "/ˈdræstɪk ˈmeʒəz/ · v phr",
+   "áp dụng biện pháp quyết liệt",
+   "Unless the authorities take drastic measures, air pollution in major cities will continue to worsen.",
+   "Nếu chính quyền không áp dụng biện pháp quyết liệt, ô nhiễm không khí ở các thành phố lớn sẽ tiếp tục tồi tệ hơn."
+  ],
+  [
+   "impose strict regulations on sth",
+   "/ɪmˈpəʊz strɪkt ˌreɡjuˈleɪʃnz/ · v phr",
+   "áp đặt quy định nghiêm ngặt lên cái gì",
+   "The government should impose strict regulations on companies that discharge waste into rivers.",
+   "Chính phủ nên áp đặt quy định nghiêm ngặt với các công ty xả thải ra sông."
+  ],
+  [
+   "environmentally friendly",
+   "/ɪnˌvaɪrənˌmentəli ˈfrendli/ · adj",
+   "thân thiện với môi trường",
+   "More consumers are now choosing environmentally friendly products, even if they are more expensive.",
+   "Ngày càng nhiều người tiêu dùng chọn sản phẩm thân thiện với môi trường, dù chúng đắt hơn."
+  ],
+  [
+   "endangered species",
+   "/ɪnˈdeɪndʒəd ˈspiːʃiːz/ · n",
+   "các loài có nguy cơ tuyệt chủng",
+   "Stricter laws are needed to protect endangered species from illegal hunting and trade.",
+   "Cần luật nghiêm hơn để bảo vệ các loài có nguy cơ tuyệt chủng khỏi săn bắt và buôn bán trái phép."
+  ],
+  [
+   "natural resources",
+   "/ˌnætʃrəl rɪˈzɔːsɪz/ · n",
+   "tài nguyên thiên nhiên",
+   "If natural resources continue to be exploited at the current rate, future generations will suffer.",
+   "Nếu tài nguyên thiên nhiên tiếp tục bị khai thác như hiện nay, các thế hệ sau sẽ chịu thiệt."
+  ],
+  [
+   "sustainable development",
+   "/səˈsteɪnəbl dɪˈveləpmənt/ · n",
+   "sự phát triển bền vững",
+   "Sustainable development requires a balance between economic growth and environmental protection.",
+   "Phát triển bền vững đòi hỏi cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường."
+  ],
+  [
+   "have a detrimental effect on sth",
+   "/ˌdetrɪˈmentl ɪˈfekt/ · v phr",
+   "gây ảnh hưởng có hại đến điều gì",
+   "Air pollution has a detrimental effect on public health, especially among children and the elderly.",
+   "Ô nhiễm không khí gây hại cho sức khỏe cộng đồng, nhất là trẻ em và người già."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Bị động với động từ có 2 tân ngữ (give, send, lend, offer…)",
+   "meaning": "Chủ động: S + V + O(người) + O(vật). Bị động có 2 cách: (1) Người làm chủ ngữ: Sb + be + V3 + sth. (2) Vật làm chủ ngữ: Sth + be + V3 + to/for + sb.",
+   "examples": [
+    "He sent me a letter. → I was sent a letter. / A letter was sent to me. — Anh ấy gửi cho tôi một lá thư.",
+    "The school gave students free trees. → Students were given free trees. — Học sinh được tặng cây miễn phí.",
+    "My classmate lent me 5 dollars. → 5 dollars were lent to me. — Bạn cùng lớp cho tôi mượn 5 đô."
+   ]
+  },
+  {
+   "form": "Bị động với động từ tường thuật (say, believe, think, report…)",
+   "meaning": "Chủ động: People say that + mệnh đề. Bị động cách 1: It is said that + mệnh đề. Cách 2: S + is said + to V (cùng thì) / to have V3 (việc xảy ra trước).",
+   "examples": [
+    "People say that plastic is harmful. → It is said that plastic is harmful. — Người ta nói rằng nhựa có hại.",
+    "Deforestation is believed to contribute to climate change. — Phá rừng được cho là góp phần gây biến đổi khí hậu.",
+    "The factory is reported to have polluted the river. — Nhà máy được cho là đã gây ô nhiễm dòng sông."
+   ]
+  },
+  {
+   "form": "Rút gọn 'by + O', đại từ bất định & vị trí trạng từ",
+   "meaning": "Bỏ 'by people/someone/they' khi người làm không rõ hoặc không quan trọng. Nobody + V → S + be + not + V3. Trạng từ tần suất/cách thức đứng giữa be và V3; trạng từ nơi chốn đứng trước 'by O'; trạng từ thời gian đứng sau 'by O'.",
+   "examples": [
+    "People recycle a lot of paper. → A lot of paper is recycled. — Rất nhiều giấy được tái chế.",
+    "Nobody cleaned the beach. → The beach was not cleaned. — Bãi biển đã không được dọn.",
+    "Rubbish is usually collected in the morning. — Rác thường được thu gom vào buổi sáng."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn câu bị động đúng",
+   "en": "He sent me a letter yesterday. → ___",
+   "options": [
+    "I was sent a letter yesterday.",
+    "I sent a letter yesterday.",
+    "A letter sent me yesterday.",
+    "I was sending a letter yesterday."
+   ],
+   "answer": "I was sent a letter yesterday.",
+   "explain": "Người nhận làm chủ ngữ: I was sent a letter."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu bị động đúng",
+   "en": "My aunt gave me a new bike. → A new bike ___",
+   "options": [
+    "was given to me by my aunt.",
+    "was given me to my aunt.",
+    "gave to me by my aunt.",
+    "is given by me to my aunt."
+   ],
+   "answer": "was given to me by my aunt.",
+   "explain": "Vật làm chủ ngữ cần giới từ: was given TO me."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "It ___ that plastic takes hundreds of years to break down.",
+   "options": [
+    "is said",
+    "says",
+    "is saying",
+    "said"
+   ],
+   "answer": "is said",
+   "explain": "It is said that + mệnh đề."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "Deforestation is believed ___ to climate change.",
+   "options": [
+    "to contribute",
+    "contributing",
+    "contributes",
+    "to contributed"
+   ],
+   "answer": "to contribute",
+   "explain": "S + is believed + to V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đáp án đúng",
+   "en": "The factory is reported ___ the river last year.",
+   "options": [
+    "to pollute",
+    "to have polluted",
+    "polluting",
+    "polluted"
+   ],
+   "answer": "to have polluted",
+   "explain": "Việc xảy ra trước (last year) → to have + V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn vị trí trạng từ đúng",
+   "en": "The rubbish ___ in the morning.",
+   "options": [
+    "is usually collected",
+    "usually is collected",
+    "is collected usually",
+    "collected usually is"
+   ],
+   "answer": "is usually collected",
+   "explain": "Trạng từ tần suất đứng giữa be và V3."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng",
+   "en": "Individuals can reduce their carbon ___ by cycling to work.",
+   "options": [
+    "footprint",
+    "emissions",
+    "fuels",
+    "resources"
+   ],
+   "answer": "footprint",
+   "explain": "carbon footprint = lượng khí thải carbon."
+  },
+  {
+   "type": "fill",
+   "q": "Viết lại câu bị động — điền phần còn thiếu",
+   "en": "Nobody cleaned the beach. → The beach ___ cleaned.",
+   "answer": [
+    "was not",
+    "wasn't"
+   ],
+   "explain": "Nobody → bị động phủ định: was not cleaned."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Schools play a vital role in raising public ___ of environmental issues.",
+   "answer": [
+    "awareness"
+   ],
+   "explain": "raise public awareness of = nâng cao nhận thức cộng đồng về."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "The government should ___ strict regulations on companies that pollute rivers.",
+   "answer": [
+    "impose"
+   ],
+   "explain": "impose strict regulations on = áp đặt quy định nghiêm ngặt lên."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 1 từ",
+   "en": "Air pollution has a ___ effect on public health.",
+   "answer": [
+    "detrimental",
+    "harmful",
+    "negative"
+   ],
+   "explain": "have a detrimental effect on = gây hại cho."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "It",
+    "is",
+    "said",
+    "that",
+    "renewable",
+    "energy",
+    "is",
+    "the",
+    "solution."
+   ],
+   "answer": "It is said that renewable energy is the solution.",
+   "explain": "It is said that + mệnh đề."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu đúng",
+   "tokens": [
+    "Students",
+    "were",
+    "given",
+    "free",
+    "trees",
+    "to",
+    "plant."
+   ],
+   "answer": "Students were given free trees to plant.",
+   "explain": "Bị động 2 tân ngữ, người làm chủ ngữ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Người ta tin rằng phá rừng gây ra lũ lụt.",
+   "answer": [
+    "It is believed that deforestation causes floods.",
+    "Deforestation is believed to cause floods.",
+    "People believe that deforestation causes floods."
+   ],
+   "explain": "It is believed that… / S is believed to V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Anh: Đồ nhựa dùng một lần nên bị cấm.",
+   "answer": [
+    "Single-use plastics should be banned.",
+    "Single-use plastic should be banned."
+   ],
+   "explain": "should be + V3."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "en": "Sustainable development requires a balance between economic growth and environmental protection.",
+   "answer": "Phát triển bền vững đòi hỏi sự cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường.",
+   "explain": "require = đòi hỏi."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – điền chỗ trống] Chọn từ phù hợp nhất",
+   "en": "Every year, millions of tonnes of single-use plastics end up in the ocean. It is estimated that, by 2050, there could be more plastic than fish in the sea if nothing is done. Plastic bags and bottles are often eaten by sea animals, which may die as a result. In response, several Vietnamese cities have started campaigns to raise public awareness of the problem. Supermarkets have been encouraged to replace plastic bags with ( ___ ) alternatives such as banana leaves and paper bags.",
+   "options": [
+    "environmentally friendly",
+    "endangered",
+    "fossil",
+    "single-use"
+   ],
+   "answer": "environmentally friendly",
+   "explain": "Lá chuối, túi giấy là lựa chọn thân thiện với môi trường."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Theo ước tính, điều gì có thể xảy ra vào năm 2050?",
+   "en": "Every year, millions of tonnes of single-use plastics end up in the ocean. It is estimated that, by 2050, there could be more plastic than fish in the sea if nothing is done. Plastic bags and bottles are often eaten by sea animals, which may die as a result. In response, several Vietnamese cities have started campaigns to raise public awareness of the problem. Supermarkets have been encouraged to replace plastic bags with ( ___ ) alternatives such as banana leaves and paper bags.",
+   "options": [
+    "Nhựa trong biển có thể nhiều hơn cá",
+    "Không còn túi nilon",
+    "Mọi siêu thị dùng lá chuối",
+    "Động vật biển tăng lên"
+   ],
+   "answer": "Nhựa trong biển có thể nhiều hơn cá",
+   "explain": "'there could be more plastic than fish in the sea'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – chi tiết] Mười năm trước, nông dân Hòa Bình được:",
+   "en": "Hoa Binh, a mountainous province, used to suffer from serious deforestation. Large areas of forest were cut down for farming, and floods became more frequent. Ten years ago, local farmers were offered money to plant new trees and protect the remaining forest. Today, the forest cover has increased considerably, and the floods are less severe. Experts believe that the project is a good example of sustainable development because it protects the environment while still providing income for local people.",
+   "options": [
+    "trả tiền để trồng cây và bảo vệ rừng",
+    "yêu cầu chuyển xuống thành phố",
+    "cấm làm nông",
+    "tặng máy móc"
+   ],
+   "answer": "trả tiền để trồng cây và bảo vệ rừng",
+   "explain": "'farmers were offered money to plant new trees'."
+  },
+  {
+   "type": "read",
+   "q": "[Đọc hiểu – suy luận] Vì sao dự án được coi là phát triển bền vững?",
+   "en": "Hoa Binh, a mountainous province, used to suffer from serious deforestation. Large areas of forest were cut down for farming, and floods became more frequent. Ten years ago, local farmers were offered money to plant new trees and protect the remaining forest. Today, the forest cover has increased considerably, and the floods are less severe. Experts believe that the project is a good example of sustainable development because it protects the environment while still providing income for local people.",
+   "options": [
+    "Vừa bảo vệ môi trường vừa tạo thu nhập",
+    "Vì nó rẻ",
+    "Vì không còn lũ lụt",
+    "Vì có nhiều chuyên gia"
+   ],
+   "answer": "Vừa bảo vệ môi trường vừa tạo thu nhập",
+   "explain": "Câu cuối: protects the environment while still providing income."
+  }
+ ],
+ "writing": {
+  "task": 2,
+  "title": "Problem & Solution: Ô nhiễm nhựa",
+  "words": 250,
+  "minutes": 40,
+  "prompt": "Plastic waste is becoming a serious environmental problem in many countries, including Vietnam.\nWhat are the causes of this problem, and what measures can be taken to solve it?\nYou should write at least 250 words.",
+  "outline": [
+   "Mở bài: … has become one of the most serious problems… + This essay will examine the causes and suggest solutions.",
+   "Thân 1 – nguyên nhân: đồ nhựa dùng một lần rẻ, tiện; ý thức người dân; thu gom rác kém",
+   "Thân 2 – giải pháp khớp nguyên nhân: cấm/đánh thuế nhựa (impose strict regulations), nâng cao nhận thức, tái chế",
+   "Dùng câu bị động tường thuật: It is estimated that… / Plastic is believed to…",
+   "Kết bài: tóm nguyên nhân + giải pháp"
+  ],
+  "phrases": [
+   "It is undeniable that … is a growing concern. — Không thể phủ nhận … là mối lo ngày càng lớn.",
+   "The main cause is that … — Nguyên nhân chính là …",
+   "It is estimated that … — Người ta ước tính rằng …",
+   "The government should impose strict regulations on … — Chính phủ nên áp đặt quy định nghiêm ngặt lên …",
+   "If these measures are implemented, … — Nếu các biện pháp này được thực hiện, …"
+  ]
+ },
+ "speaking": {
+  "part": 3,
+  "title": "Topic development: Protecting the environment is everyone's responsibility",
+  "prompt": "Topic: Protecting the environment is the responsibility of every individual.\nIdeas: • saving energy at home • reducing plastic waste • using public transport\nFollow-up: Should governments or individuals do more to protect the environment?",
+  "questions": [
+   "Develop the topic using the three ideas and one idea of your own.",
+   "Should governments or individuals do more to protect the environment?",
+   "What do you personally do to protect the environment?"
+  ],
+  "ideas": [
+   "I'd like to talk about why every individual should…",
+   "Firstly, saving energy at home not only… but also…",
+   "Another simple way is to cut down on single-use plastics.",
+   "In addition, I believe that…",
+   "In my opinion, both governments and individuals…"
+  ],
+  "minutes": 4,
+  "prep": 1
+ },
+ "corner": {
+  "quote": {
+   "en": "The Earth does not belong to us; we belong to the Earth.",
+   "vi": "Trái Đất không thuộc về chúng ta; chúng ta thuộc về Trái Đất."
+  },
+  "pron": {
+   "title": "Âm /θ/ và /ð/ (th)",
+   "rule": "Đặt đầu lưỡi giữa hai răng. /θ/ không rung dây thanh (think), /ð/ có rung (the). Không đọc thành 't' hay 'd'.",
+   "examples": [
+    "think → /θɪŋk/",
+    "earth → /ɜːθ/",
+    "the → /ðə/"
+   ]
+  },
+  "phrases": [
+   [
+    "pose a serious threat to…",
+    "gây ra mối đe dọa nghiêm trọng cho…"
+   ],
+   [
+    "for the sake of future generations",
+    "vì lợi ích của các thế hệ tương lai"
+   ],
+   [
+    "it is high time that…",
+    "đã đến lúc…"
+   ]
+  ],
+  "mistake": "Hay viết 'It is said plastic harmful' (thiếu that và động từ). Đúng: It is said THAT plastic IS harmful.",
+  "tip": "Speaking Part 3: phát triển cả 3 ý trong sơ đồ rồi thêm 1 ý của bạn. Giám khảo đánh giá cao ý tự thêm.",
+  "diary": "Kể 3–5 điều bạn làm để bảo vệ môi trường, dùng câu bị động (is recycled, should be reduced, It is said that…)."
+ }
+}
