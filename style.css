@@ -296,3 +296,59 @@ h1{font-family:var(--deco);font-size:34px;font-weight:700;color:var(--celadon-de
 .tips{padding-left:18px;color:var(--ink-2);font-size:15px}
 .tips li{margin-bottom:8px}
 .bottom a{max-width:120px}
+
+/* ===== princess layer ===== */
+:root{
+  --paper:#FFF4F9; --line:#F5D3E3; --celadon:#E07AA8; --celadon-deep:#B4467F; --celadon-wash:#FCE5F0;
+  --lav:#C9B1F0; --lav-wash:#F1E9FF; --gold:#D9A93E; --gold-soft:#F6E2A8; --hero:#5A2A5C;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#1F1424;--line:#4A3150;--celadon:#F29BC4;--celadon-deep:#FFC0DD;--celadon-wash:#46233F;--lav:#B79CED;--lav-wash:#2E2340;--gold:#E9C46A;--gold-soft:#5A4724;--hero:#3E1C40}}
+:root[data-theme="dark"]{--paper:#1F1424;--line:#4A3150;--celadon:#F29BC4;--celadon-deep:#FFC0DD;--celadon-wash:#46233F;--lav:#B79CED;--lav-wash:#2E2340;--gold:#E9C46A;--gold-soft:#5A4724;--hero:#3E1C40}
+body{background:
+  radial-gradient(55% 35% at 0% 0%,rgba(255,190,220,.55),transparent 70%),
+  radial-gradient(50% 40% at 100% 20%,rgba(214,190,255,.45),transparent 70%),
+  radial-gradient(60% 40% at 50% 100%,rgba(255,214,232,.5),transparent 70%),
+  var(--paper);background-attachment:fixed}
+body::before{opacity:.7;background-image:
+  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220' viewBox='0 0 220 220'%3E%3Cg fill='%23E9C46A' fill-opacity='.55'%3E%3Cpath d='M40 30l2.5 7 7 2.5-7 2.5L40 49l-2.5-7-7-2.5 7-2.5z'/%3E%3Cpath d='M170 120l1.8 5 5 1.8-5 1.8-1.8 5-1.8-5-5-1.8 5-1.8z'/%3E%3C/g%3E%3Cg fill='%23F5B8D0' fill-opacity='.6'%3E%3Ccircle cx='120' cy='60' r='2.2'/%3E%3Ccircle cx='60' cy='170' r='1.8'/%3E%3Ccircle cx='200' cy='200' r='2'/%3E%3C/g%3E%3Cg fill='%23F7C5D5' fill-opacity='.5'%3E%3Cpath d='M95 150c6-10 18-10 20 0-2 8-14 12-20 0z'/%3E%3C/g%3E%3C/svg%3E")}
+.brand{gap:8px;flex-wrap:wrap;font-family:var(--deco);font-size:26px;color:var(--celadon-deep)}
+.brand .crown{width:34px;height:26px;filter:drop-shadow(0 2px 3px rgba(185,134,47,.35))}
+.brand-ko{font-family:var(--kr-deco);font-size:15px;font-weight:700;color:var(--lav);letter-spacing:.02em;margin-left:2px;align-self:flex-end;padding-bottom:4px}
+.hero{background:linear-gradient(140deg,#F49CC3 0%,#D98BC9 38%,#A98BE6 100%);color:#fff;border:2px solid rgba(246,226,168,.9);
+  box-shadow:0 0 0 5px rgba(255,255,255,.55),0 22px 44px -22px rgba(170,70,130,.75)}
+:root[data-theme="dark"] .hero{background:linear-gradient(140deg,#8C3D6E,#6A3E86)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .hero{background:linear-gradient(140deg,#8C3D6E,#6A3E86)}}
+.hero .when{color:#FFF1C9;font-size:24px}
+.hero .hangul{text-shadow:0 2px 0 rgba(150,60,120,.25),0 0 22px rgba(255,255,255,.35)}
+.hero .vi,.hero .stats{color:#FFF0F7}
+.hero .ghost{color:rgba(255,255,255,.12)}
+.hero .tiara{position:absolute;right:18px;top:14px;width:58px;transform:rotate(12deg);filter:drop-shadow(0 4px 6px rgba(120,40,90,.3))}
+.hero .tiara svg{width:100%;height:auto;display:block}
+.hero .btn.line{border-color:rgba(255,255,255,.6)!important}
+.spark{position:absolute;color:#FFF1C9;pointer-events:none;animation:twinkle 2.4s ease-in-out infinite}
+.spark.s1{left:58%;top:18px;font-size:16px}.spark.s2{right:28%;bottom:24px;font-size:20px;animation-delay:.8s}.spark.s3{left:12px;bottom:70px;font-size:12px;animation-delay:1.6s}
+@keyframes twinkle{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.15)}}
+@media (prefers-reduced-motion:reduce){.spark{animation:none;opacity:.7}}
+.btn{background:linear-gradient(135deg,#F28DB8,#C76BB3);box-shadow:0 8px 18px -10px rgba(190,70,130,.8)}
+.btn:hover{background:linear-gradient(135deg,#EE7AAD,#B85BA6)}
+.btn.light{background:#fff;color:#A23B76;box-shadow:0 6px 16px -10px rgba(120,40,90,.6)}
+.btn.line{background:transparent;box-shadow:none}
+h1,h2{font-family:var(--deco);color:var(--celadon-deep)}
+h2::after{content:" ✧";color:var(--gold);font-size:.7em}
+.cheer{color:var(--celadon-deep)}
+.streak-card,.goals,.wod,.lesson-link,.qcard,.pattern,.entry,.words,.mode,.face{border-color:var(--line);
+  box-shadow:0 0 0 3px rgba(255,255,255,.6) inset,0 12px 28px -22px rgba(180,70,130,.6)}
+.streak-n b{color:var(--celadon-deep)}
+.cal i.on{background:linear-gradient(135deg,#F49CC3,#A98BE6)}
+.goal-bar i,.bar i{background:linear-gradient(90deg,#F49CC3,#A98BE6)}
+.wod{background:linear-gradient(160deg,var(--lav-wash),var(--celadon-wash))}
+.lesson-link .kr{color:var(--celadon-deep)}
+.timeline{border-left:2px dotted var(--lav)}
+.timeline li.done::before{content:"♛";background:linear-gradient(135deg,var(--gold-soft),var(--gold));border-color:var(--gold);color:#7A4E10}
+.tabs a.on{background:linear-gradient(135deg,#F28DB8,#B97AD6);border-color:transparent;color:#fff}
+.lesson-head .kr::after{background:linear-gradient(90deg,var(--gold),#F49CC3,var(--lav))}
+.face.back-f{background:linear-gradient(160deg,#FFE4F0,#F1E9FF)}
+.bottom{border-top:1px solid var(--line);box-shadow:0 -10px 24px -18px rgba(180,70,130,.5)}
+.bottom a.on{background:linear-gradient(135deg,var(--celadon-wash),var(--lav-wash))}
+.badge{background:linear-gradient(135deg,#F28DB8,#B97AD6)}
+.pattern h3::before{content:"♕ ";color:var(--gold)}

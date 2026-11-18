@@ -149,7 +149,7 @@ async function route() {
 window.addEventListener('hashchange', route);
 
 /* ---------- trang chủ ---------- */
-const CHEERS = ['화이팅! Cố lên nhé', '천천히, 꾸준히 — chậm mà chắc', '오늘도 한 걸음 — hôm nay thêm một bước', '잘하고 있어요 — bạn đang làm rất tốt'];
+const CHEERS = ['✧ 공주님, 화이팅! Công chúa cố lên nhé ✧', '✧ 천천히, 꾸준히 — chậm mà chắc ✧', '✧ 오늘도 한 걸음 — hôm nay thêm một bước ✧', '✧ 잘하고 있어요 — công chúa học giỏi lắm ✧', '✧ 공주님은 할 수 있어요 — công chúa làm được mà ✧'];
 async function renderHome() {
   const idx = await loadIndex();
   const ls = idx.lessons.slice();
@@ -160,6 +160,8 @@ async function renderHome() {
   $app.innerHTML = `
     <section class="hero" aria-label="Bài mới nhất">
       <span class="ghost" lang="ko" aria-hidden="true">${esc(latest.krTitle.slice(0, 1))}</span>
+      <span class="tiara" aria-hidden="true">${document.querySelector('.brand .crown')?.outerHTML.replace('id="cg"', 'id="cg2"').replace('url(#cg)', 'url(#cg2)') || ''}</span>
+      <span class="spark s1" aria-hidden="true">✦</span><span class="spark s2" aria-hidden="true">✧</span><span class="spark s3" aria-hidden="true">✦</span>
       <div class="when">${latest.date ? 'Bài ngày ' + fmtDate(latest.date) : 'Bài mới nhất'}</div>
       <span class="hangul" lang="ko">${esc(latest.krTitle)}</span>
       <div class="vi">${esc(latest.lesson)} · ${esc(latest.title)}</div>
