@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "lessons": [
   {
    "id": "bai-1",
@@ -45,6 +45,15 @@
    "date": "2026-11-19",
    "words": 37,
    "exercises": 27
+  },
+  {
+   "id": "bai-6",
+   "lesson": "Bài 6",
+   "title": "Công việc trong ngày",
+   "krTitle": "하루 일과",
+   "date": "2026-11-20",
+   "words": 65,
+   "exercises": 30
   }
  ]
 }

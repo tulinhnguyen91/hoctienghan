@@ -1,0 +1,843 @@
+{
+ "id": "bai-6",
+ "lesson": "Bài 6",
+ "title": "Công việc trong ngày",
+ "krTitle": "하루 일과",
+ "date": "2026-11-20",
+ "day": 2,
+ "source": "TOPIK 1 – Bài 5: Công việc trong ngày",
+ "words": [
+  [
+   "하루 일과",
+   "Haru ilgwa",
+   "Công việc trong ngày",
+   "제 하루 일과는 아주 바빠요.",
+   "Công việc trong ngày của tôi rất bận rộn."
+  ],
+  [
+   "오전",
+   "Ojeon",
+   "Buổi sáng (00:00 ~ 12:00)",
+   "오전 아홉 시에 회사에 가요.",
+   "9 giờ sáng tôi đi đến công ty."
+  ],
+  [
+   "오후",
+   "Ohu",
+   "Buổi chiều (12:00 ~ 24:00)",
+   "오후 세 시에 수업이 끝나요.",
+   "3 giờ chiều buổi học kết thúc."
+  ],
+  [
+   "낮",
+   "Nat",
+   "Ban ngày",
+   "낮에는 학교에 가요.",
+   "Ban ngày tôi đi đến trường."
+  ],
+  [
+   "밤",
+   "Bam",
+   "Ban đêm",
+   "밤 열한 시에 자요.",
+   "11 giờ đêm tôi ngủ."
+  ],
+  [
+   "아침",
+   "Achim",
+   "Buổi sáng",
+   "아침에 빵을 먹어요.",
+   "Buổi sáng tôi ăn bánh mì."
+  ],
+  [
+   "점심",
+   "Jeomsim",
+   "Buổi trưa",
+   "점심에 밥을 먹었어요.",
+   "Buổi trưa tôi đã ăn cơm."
+  ],
+  [
+   "저녁",
+   "Jeonyeok",
+   "Buổi tối",
+   "저녁에 숙제를 해요.",
+   "Buổi tối tôi làm bài tập."
+  ],
+  [
+   "새벽",
+   "Saebyeok",
+   "Sáng sớm",
+   "새벽 다섯 시에 일어나요.",
+   "Tôi thức dậy lúc 5 giờ sáng sớm."
+  ],
+  [
+   "일어나다",
+   "Ireonada",
+   "Thức dậy",
+   "저는 아침 일곱 시에 일어나요.",
+   "Tôi thức dậy lúc 7 giờ sáng."
+  ],
+  [
+   "이를 닦다",
+   "Ireul dakda",
+   "Đánh răng",
+   "아침에 이를 닦아요.",
+   "Buổi sáng tôi đánh răng."
+  ],
+  [
+   "세수하다",
+   "Sesuhada",
+   "Rửa mặt",
+   "아침에 세수해요.",
+   "Buổi sáng tôi rửa mặt."
+  ],
+  [
+   "다니다",
+   "Danida",
+   "Đi lại (thường xuyên)",
+   "저는 회사에 다녀요.",
+   "Tôi đi làm ở công ty (hằng ngày)."
+  ],
+  [
+   "배우다",
+   "Baeuda",
+   "Học",
+   "저는 한국어를 배워요.",
+   "Tôi học tiếng Hàn."
+  ],
+  [
+   "숙제하다",
+   "Sukjehada",
+   "Làm bài tập",
+   "어제 저녁에 숙제했어요.",
+   "Tối hôm qua tôi đã làm bài tập."
+  ],
+  [
+   "청소하다",
+   "Cheongsohada",
+   "Dọn vệ sinh",
+   "주말에 방을 청소해요.",
+   "Cuối tuần tôi dọn phòng."
+  ],
+  [
+   "목욕하다",
+   "Mogyokhada",
+   "Tắm",
+   "저녁에 목욕해요.",
+   "Buổi tối tôi tắm."
+  ],
+  [
+   "출근하다",
+   "Chulgeunhada",
+   "Đi làm",
+   "오전 여덟 시에 출근해요.",
+   "8 giờ sáng tôi đi làm."
+  ],
+  [
+   "퇴근하다",
+   "Toegeunhada",
+   "Tan làm",
+   "오후 여섯 시에 퇴근해요.",
+   "6 giờ chiều tôi tan làm."
+  ],
+  [
+   "시작하다",
+   "Sijakhada",
+   "Bắt đầu",
+   "수업은 아홉 시에 시작해요.",
+   "Buổi học bắt đầu lúc 9 giờ."
+  ],
+  [
+   "끝나다",
+   "Kkeutnada",
+   "Xong, kết thúc",
+   "회의가 끝났어요.",
+   "Cuộc họp đã kết thúc."
+  ],
+  [
+   "하나 (한)",
+   "Hana (han)",
+   "Một (1)",
+   "동생이 한 명 있어요.",
+   "Tôi có một đứa em."
+  ],
+  [
+   "둘 (두)",
+   "Dul (du)",
+   "Hai (2)",
+   "커피 두 잔을 마셨어요.",
+   "Tôi đã uống hai cốc cà phê."
+  ],
+  [
+   "셋 (세)",
+   "Set (se)",
+   "Ba (3)",
+   "지금 세 시예요.",
+   "Bây giờ là 3 giờ."
+  ],
+  [
+   "넷 (네)",
+   "Net (ne)",
+   "Bốn (4)",
+   "우리 가족은 네 명이에요.",
+   "Gia đình tôi có bốn người."
+  ],
+  [
+   "다섯",
+   "Daseot",
+   "Năm (5)",
+   "연필이 다섯 개 있어요.",
+   "Có năm cái bút chì."
+  ],
+  [
+   "여섯",
+   "Yeoseot",
+   "Sáu (6)",
+   "여섯 시에 저녁을 먹어요.",
+   "6 giờ tôi ăn tối."
+  ],
+  [
+   "일곱",
+   "Ilgop",
+   "Bảy (7)",
+   "교실에 학생이 일곱 명 있어요.",
+   "Trong lớp có bảy học sinh."
+  ],
+  [
+   "여덟",
+   "Yeodeol",
+   "Tám (8)",
+   "여덟 시에 출근해요.",
+   "8 giờ tôi đi làm."
+  ],
+  [
+   "아홉",
+   "Ahop",
+   "Chín (9)",
+   "밤 아홉 시에 집에 와요.",
+   "9 giờ tối tôi về nhà."
+  ],
+  [
+   "열",
+   "Yeol",
+   "Mười (10)",
+   "아침 열 시에 회의가 있어요.",
+   "10 giờ sáng có cuộc họp."
+  ],
+  [
+   "열하나",
+   "Yeolhana",
+   "Mười một (11)",
+   "사과가 열한 개 있어요.",
+   "Có mười một quả táo."
+  ],
+  [
+   "스물 (스무)",
+   "Seumul (seumu)",
+   "Hai mươi (20)",
+   "제 동생은 스무 살이에요.",
+   "Em tôi 20 tuổi."
+  ],
+  [
+   "서른",
+   "Seoreun",
+   "Ba mươi (30)",
+   "우리 언니는 서른 살이에요.",
+   "Chị tôi 30 tuổi."
+  ],
+  [
+   "마흔",
+   "Maheun",
+   "Bốn mươi (40)",
+   "아버지는 마흔다섯 살이에요.",
+   "Bố tôi 45 tuổi."
+  ],
+  [
+   "쉰",
+   "Swin",
+   "Năm mươi (50)",
+   "어머니는 쉰 살이에요.",
+   "Mẹ tôi 50 tuổi."
+  ],
+  [
+   "예순",
+   "Yesun",
+   "Sáu mươi (60)",
+   "우리 선생님은 예순 살이에요.",
+   "Thầy của chúng tôi 60 tuổi."
+  ],
+  [
+   "일흔",
+   "Ilheun",
+   "Bảy mươi (70)",
+   "할머니는 일흔 살이에요.",
+   "Bà tôi 70 tuổi."
+  ],
+  [
+   "여든",
+   "Yeodeun",
+   "Tám mươi (80)",
+   "할아버지는 여든 살이에요.",
+   "Ông tôi 80 tuổi."
+  ],
+  [
+   "아흔",
+   "Aheun",
+   "Chín mươi (90)",
+   "이 할머니는 아흔 살이에요.",
+   "Bà cụ này 90 tuổi."
+  ],
+  [
+   "겨울",
+   "Gyeoul",
+   "Mùa đông",
+   "겨울 방학에 고향에 갔어요.",
+   "Kỳ nghỉ đông tôi đã về quê."
+  ],
+  [
+   "수업",
+   "Sueop",
+   "Giờ học, buổi học",
+   "오늘 수업은 오후 두 시에 끝나요.",
+   "Buổi học hôm nay kết thúc lúc 2 giờ chiều."
+  ],
+  [
+   "집",
+   "Jip",
+   "Nhà",
+   "저녁 일곱 시에 집에 가요.",
+   "7 giờ tối tôi về nhà."
+  ],
+  [
+   "고향",
+   "Gohyang",
+   "Quê hương",
+   "제 고향은 하노이예요.",
+   "Quê tôi là Hà Nội."
+  ],
+  [
+   "수영",
+   "Suyeong",
+   "Bơi lội",
+   "저는 수영을 좋아해요.",
+   "Tôi thích bơi lội."
+  ],
+  [
+   "출근",
+   "Chulgeun",
+   "Việc đi làm",
+   "출근 시간은 아침 여덟 시예요.",
+   "Giờ đi làm là 8 giờ sáng."
+  ],
+  [
+   "공항",
+   "Gonghang",
+   "Sân bay",
+   "어제 공항에 갔어요.",
+   "Hôm qua tôi đã đi đến sân bay."
+  ],
+  [
+   "시험을 보다",
+   "Siheomeul boda",
+   "Thi",
+   "지난주에 한국어 시험을 봤어요.",
+   "Tuần trước tôi đã thi tiếng Hàn."
+  ],
+  [
+   "출발하다",
+   "Chulbalhada",
+   "Xuất phát",
+   "버스가 오후 세 시에 출발해요.",
+   "Xe buýt xuất phát lúc 3 giờ chiều."
+  ],
+  [
+   "날",
+   "Nal",
+   "Ngày",
+   "그날은 제 생일이었어요.",
+   "Hôm đó là sinh nhật của tôi."
+  ],
+  [
+   "여자",
+   "Yeoja",
+   "Phụ nữ",
+   "그 여자는 제 친구예요.",
+   "Cô gái đó là bạn tôi."
+  ],
+  [
+   "후",
+   "Hu",
+   "Sau, sau khi",
+   "수업 후에 도서관에 가요.",
+   "Sau giờ học tôi đi đến thư viện."
+  ],
+  [
+   "남자",
+   "Namja",
+   "Nam giới",
+   "저 남자는 선생님이에요.",
+   "Người đàn ông kia là giáo viên."
+  ],
+  [
+   "영문과",
+   "Yeongmungwa",
+   "Khoa Ngữ văn Anh",
+   "저는 영문과 학생이에요.",
+   "Tôi là sinh viên khoa Ngữ văn Anh."
+  ],
+  [
+   "회사",
+   "Hoesa",
+   "Công ty",
+   "아버지는 회사에 다녀요.",
+   "Bố tôi đi làm ở công ty."
+  ],
+  [
+   "노래방",
+   "Noraebang",
+   "Quán karaoke",
+   "주말에 노래방에 갔어요.",
+   "Cuối tuần tôi đã đi hát karaoke."
+  ],
+  [
+   "영어",
+   "Yeongeo",
+   "Tiếng Anh",
+   "영어 수업이 재미있어요.",
+   "Giờ học tiếng Anh thú vị."
+  ],
+  [
+   "회의",
+   "Hoeui",
+   "Cuộc họp, hội thảo",
+   "오늘 오후에 회의가 있어요.",
+   "Chiều nay có cuộc họp."
+  ],
+  [
+   "받다",
+   "Batda",
+   "Nhận",
+   "생일에 선물을 받았어요.",
+   "Sinh nhật tôi đã nhận được quà."
+  ],
+  [
+   "운전하다",
+   "Unjeonhada",
+   "Lái xe",
+   "아버지가 차를 운전해요.",
+   "Bố tôi lái xe ô tô."
+  ],
+  [
+   "PC방",
+   "PCbang",
+   "Quán internet",
+   "동생은 주말에 PC방에 가요.",
+   "Cuối tuần em tôi đi quán net."
+  ],
+  [
+   "밥",
+   "Bap",
+   "Cơm",
+   "저는 아침에 밥을 안 먹어요.",
+   "Buổi sáng tôi không ăn cơm."
+  ],
+  [
+   "인터넷",
+   "Inteonet",
+   "Internet",
+   "밤에 인터넷을 해요.",
+   "Ban đêm tôi lên mạng."
+  ],
+  [
+   "부모님",
+   "Bumonim",
+   "Bố mẹ",
+   "주말에 부모님을 만났어요.",
+   "Cuối tuần tôi đã gặp bố mẹ."
+  ],
+  [
+   "일기",
+   "Ilgi",
+   "Nhật ký",
+   "저는 밤에 일기를 써요.",
+   "Ban đêm tôi viết nhật ký."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 에 가다 — Đi đến",
+   "meaning": "Gắn 에 sau danh từ chỉ nơi chốn + động từ di chuyển 가다 (đi), 오다 (đến), 다니다 (đi lại thường xuyên). Không phân biệt patchim: 학교에, 집에. Chia: 가요 / 갔어요, 와요 / 왔어요. Hay nhầm: 에 chỉ ĐÍCH ĐẾN, còn 에서 chỉ NƠI DIỄN RA hành động (도서관에 가요 — đi đến thư viện; 도서관에서 공부해요 — học ở thư viện). Nhà: 집에 가요 = về nhà.",
+   "examples": [
+    "저는 매일 학교에 가요. — Ngày nào tôi cũng đi học.",
+    "어제 공항에 갔어요. — Hôm qua tôi đã đi sân bay.",
+    "친구가 우리 집에 와요. — Bạn đến nhà tôi.",
+    "저는 회사에 다녀요. — Tôi đi làm ở công ty."
+   ]
+  },
+  {
+   "form": "안 + V/A — Không",
+   "meaning": "Đặt 안 ngay TRƯỚC động từ/tính từ để phủ định: 가요 → 안 가요, 먹어요 → 안 먹어요, 바빠요 → 안 바빠요. Với động từ dạng 'Danh từ + 하다' (공부하다, 숙제하다, 청소하다): 안 chen vào giữa → 공부 안 해요 (KHÔNG nói 안 공부해요). Lưu ý: 있다 → 없다, 알다 → 모르다 tự nhiên hơn; danh từ + 이다 thì phủ định bằng 이/가 아니에요. Quá khứ: 안 갔어요.",
+   "examples": [
+    "저는 커피를 안 마셔요. — Tôi không uống cà phê.",
+    "오늘은 학교에 안 가요. — Hôm nay tôi không đi học.",
+    "주말에는 숙제 안 해요. — Cuối tuần tôi không làm bài tập.",
+    "어제는 회사에 안 갔어요. — Hôm qua tôi không đi làm."
+   ]
+  },
+  {
+   "form": "V/A + 았/었 — Đã (quá khứ)",
+   "meaning": "Bỏ 다, xét nguyên âm cuối của gốc: ㅏ, ㅗ → 았어요 (가다 → 갔어요, 보다 → 봤어요, 받다 → 받았어요); nguyên âm khác → 었어요 (먹다 → 먹었어요, 배우다 → 배웠어요, 마시다 → 마셨어요); 하다 → 했어요 (청소하다 → 청소했어요). Trang trọng: 았/었습니다. Danh từ + 이다: có patchim → 이었어요 (생일이었어요), không patchim → 였어요 (친구였어요). Hay nhầm: gốc kết thúc bằng ㅏ thì bắt buộc rút gọn (끝나다 → 끝났어요, không viết 끝나았어요).",
+   "examples": [
+    "어제 고향에 갔어요. — Hôm qua tôi đã về quê.",
+    "점심에 밥을 먹었어요. — Trưa tôi đã ăn cơm.",
+    "주말에 방을 청소했어요. — Cuối tuần tôi đã dọn phòng.",
+    "그날은 제 생일이었어요. — Hôm đó là sinh nhật tôi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Ngày nào tôi cũng đi đến trường.",
+   "kr": "저는 매일 학교___ 가요.",
+   "options": [
+    "에",
+    "에서",
+    "을"
+   ],
+   "answer": "에",
+   "explain": "가다 đi với 에 chỉ đích đến: 학교에 가요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Tôi học ở thư viện.",
+   "kr": "도서관___ 공부해요.",
+   "options": [
+    "에서",
+    "에",
+    "를"
+   ],
+   "answer": "에서",
+   "explain": "공부하다 là hành động diễn ra tại nơi đó → 에서. (Đi đến thư viện thì dùng 도서관에 가요.)"
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Ngày mai tôi đi sân bay.",
+   "kr": "내일 공항___ 가요.",
+   "answer": [
+    "에"
+   ],
+   "explain": "Đích đến của 가다 → 공항에 가요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: Tôi không làm bài tập.",
+   "kr": "",
+   "options": [
+    "숙제 안 해요",
+    "안 숙제해요",
+    "숙제해요 안"
+   ],
+   "answer": "숙제 안 해요",
+   "explain": "Động từ 'N + 하다' thì 안 chen vào giữa: 숙제 안 해요 (hoặc 숙제를 안 해요)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Tôi không uống cà phê.",
+   "kr": "저는 커피를 ___ 마셔요.",
+   "options": [
+    "안",
+    "아니",
+    "없"
+   ],
+   "answer": "안",
+   "explain": "안 đứng ngay trước động từ để phủ định: 안 마셔요."
+  },
+  {
+   "type": "fill",
+   "q": "Viết dạng phủ định (thân mật) của 가다: Hôm nay tôi không đi học.",
+   "kr": "오늘은 학교에 ___.",
+   "answer": [
+    "안 가요",
+    "안 갑니다"
+   ],
+   "explain": "안 + 가요 → 안 가요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia quá khứ 았/었어요: 가다 (đi)",
+   "kr": "어제 고향에 ___.",
+   "answer": [
+    "갔어요",
+    "갔습니다"
+   ],
+   "explain": "가 + 았어요 → 갔어요 (rút gọn bắt buộc)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia quá khứ 았/었어요: 먹다 (ăn)",
+   "kr": "점심에 밥을 ___.",
+   "answer": [
+    "먹었어요",
+    "먹었습니다"
+   ],
+   "explain": "Nguyên âm ㅓ → 었어요: 먹었어요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia quá khứ 았/었어요: 청소하다 (dọn dẹp)",
+   "kr": "주말에 방을 ___.",
+   "answer": [
+    "청소했어요",
+    "청소했습니다"
+   ],
+   "explain": "하다 → 했어요: 청소했어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chia đúng quá khứ của 배우다 (học):",
+   "kr": "한국어를 ___.",
+   "options": [
+    "배웠어요",
+    "배았어요",
+    "배우었어요요"
+   ],
+   "answer": "배웠어요",
+   "explain": "Nguyên âm ㅜ → 었어요: 배우 + 었어요 → 배웠어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chia đúng quá khứ của 보다 trong 시험을 보다 (thi):",
+   "kr": "지난주에 시험을 ___.",
+   "options": [
+    "봤어요",
+    "봣어요",
+    "보었어요"
+   ],
+   "answer": "봤어요",
+   "explain": "Nguyên âm ㅗ → 았어요: 보 + 았어요 → 봤어요 (viết với ㅆ)."
+  },
+  {
+   "type": "choice",
+   "q": "Chia đúng quá khứ của 마시다 (uống):",
+   "kr": "커피를 ___.",
+   "options": [
+    "마셨어요",
+    "마샀어요",
+    "마셔었어요"
+   ],
+   "answer": "마셨어요",
+   "explain": "마시 + 었어요 → 마셨어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chia đúng quá khứ của 끝나다 (kết thúc):",
+   "kr": "회의가 ___.",
+   "options": [
+    "끝났어요",
+    "끝넜어요",
+    "끝나었어요"
+   ],
+   "answer": "끝났어요",
+   "explain": "Gốc kết thúc bằng ㅏ → 았어요, rút gọn: 끝났어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn số đúng: 8 giờ sáng tôi đi làm.",
+   "kr": "오전 ___ 시에 출근해요.",
+   "options": [
+    "여덟",
+    "팔",
+    "여덜"
+   ],
+   "answer": "여덟",
+   "explain": "Giờ dùng số thuần Hàn: 여덟 시 (chú ý chính tả 여덟 có patchim ㄼ)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: 3 giờ 30 phút.",
+   "kr": "",
+   "options": [
+    "세 시 삼십 분",
+    "삼 시 삼십 분",
+    "세 시 서른 분"
+   ],
+   "answer": "세 시 삼십 분",
+   "explain": "Giờ dùng số thuần Hàn (세 시), phút dùng số Hán Hàn (삼십 분)."
+  },
+  {
+   "type": "fill",
+   "q": "Viết số thuần Hàn: 21 tuổi",
+   "kr": "저는 ___ 살이에요.",
+   "answer": [
+    "스물한"
+   ],
+   "explain": "스물하나 → 스물한 khi đứng trước đơn vị 살."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: 6 giờ chiều tôi tan làm.",
+   "kr": "오후 여섯 시에 ___.",
+   "options": [
+    "퇴근해요",
+    "출근해요",
+    "일어나요"
+   ],
+   "answer": "퇴근해요",
+   "explain": "퇴근하다 = tan làm; 출근하다 = đi làm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Buổi sáng tôi đánh răng.",
+   "kr": "아침에 이를 ___.",
+   "options": [
+    "닦아요",
+    "배워요",
+    "받아요"
+   ],
+   "answer": "닦아요",
+   "explain": "이를 닦다 = đánh răng → 닦아요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đúng: Hôm qua là sinh nhật tôi.",
+   "kr": "어제는 제 생일___.",
+   "options": [
+    "이었어요",
+    "였어요",
+    "이에요"
+   ],
+   "answer": "이었어요",
+   "explain": "Quá khứ của 이다: 생일 có patchim → 이었어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi thức dậy lúc 7 giờ sáng.",
+   "tokens": [
+    "저는",
+    "아침 일곱 시에",
+    "일어나요"
+   ],
+   "answer": "저는 아침 일곱 시에 일어나요",
+   "explain": "Chủ ngữ + thời gian + 에 + động từ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tối hôm qua tôi đã đi karaoke.",
+   "tokens": [
+    "어제",
+    "저녁에",
+    "노래방에",
+    "갔어요"
+   ],
+   "answer": "어제 저녁에 노래방에 갔어요",
+   "explain": "어제 (hôm qua) + 저녁에 + nơi đến 에 + 갔어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cuối tuần tôi không đến công ty.",
+   "tokens": [
+    "저는",
+    "주말에",
+    "회사에",
+    "안",
+    "가요"
+   ],
+   "answer": "저는 주말에 회사에 안 가요",
+   "explain": "안 đứng ngay trước động từ 가요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hôm qua tôi đã đi đến sân bay.",
+   "answer": [
+    "어제 공항에 갔어요",
+    "저는 어제 공항에 갔어요",
+    "어제 공항에 갔습니다",
+    "저는 어제 공항에 갔습니다"
+   ],
+   "explain": "어제 + 공항에 (đích đến) + 갔어요 (quá khứ của 가다)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Buổi sáng tôi không ăn cơm.",
+   "answer": [
+    "아침에 밥을 안 먹어요",
+    "저는 아침에 밥을 안 먹어요",
+    "아침에 밥 안 먹어요",
+    "저는 아침에 밥 안 먹어요",
+    "아침에 밥을 안 먹습니다",
+    "저는 아침에 밥을 안 먹습니다"
+   ],
+   "explain": "아침에 + 밥을 + 안 먹어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tuần trước tôi đã thi tiếng Anh.",
+   "answer": [
+    "지난주에 영어 시험을 봤어요",
+    "저는 지난주에 영어 시험을 봤어요",
+    "지난주에 영어 시험을 보았어요",
+    "지난주에 영어 시험을 봤습니다",
+    "저는 지난주에 영어 시험을 봤습니다"
+   ],
+   "explain": "시험을 보다 = thi → quá khứ 봤어요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저는 새벽 다섯 시에 일어나요. 그리고 이를 닦아요.",
+   "answer": "Tôi thức dậy lúc 5 giờ sáng sớm. Và tôi đánh răng.",
+   "explain": "새벽 = sáng sớm; 다섯 시 = 5 giờ; 이를 닦다 = đánh răng."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "어제는 회사에 안 갔어요. 집에서 청소했어요.",
+   "answer": "Hôm qua tôi không đi làm. Tôi đã dọn dẹp ở nhà.",
+   "explain": "안 갔어요 = đã không đi; 집에서 = ở nhà (nơi hành động); 청소했어요 = đã dọn dẹp."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ thích hợp điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "저는 회사원이에요. 아침 여덟 시에 회사에 ( ___ ). 오후 여섯 시에 퇴근해요.",
+   "options": [
+    "출근해요",
+    "퇴근해요",
+    "목욕해요",
+    "졸업해요"
+   ],
+   "answer": "출근해요",
+   "explain": "Sáng 8 giờ đến công ty → 출근해요 (đi làm); chiều mới 퇴근해요 (tan làm)."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "저는 일곱 시에 일어나요. 아홉 시에 출근해요. 여섯 시에 퇴근해요.",
+   "options": [
+    "하루 일과",
+    "주말",
+    "고향",
+    "시험"
+   ],
+   "answer": "하루 일과",
+   "explain": "Thức dậy, đi làm, tan làm theo giờ → công việc trong ngày (하루 일과)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu đúng với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 영문과 학생이에요. 오늘은 오전에 수업이 있었어요. 수업 후에 도서관에 갔어요. 저녁에는 아르바이트를 했어요. 그래서 숙제를 안 했어요.",
+   "options": [
+    "Hôm nay buổi chiều có giờ học.",
+    "Sau giờ học tôi đã về nhà.",
+    "Buổi tối tôi đã đi làm thêm.",
+    "Tôi đã làm xong bài tập."
+   ],
+   "answer": "Buổi tối tôi đã đi làm thêm.",
+   "explain": "저녁에는 아르바이트를 했어요 = buổi tối đã làm thêm. Giờ học là buổi sáng (오전), sau giờ học đi thư viện (도서관에 갔어요), và chưa làm bài tập (숙제를 안 했어요)."
+  }
+ ],
+ "practice": {
+  "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+  "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+ }
+}
