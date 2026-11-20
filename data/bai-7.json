@@ -1,0 +1,734 @@
+{
+ "id": "bai-7",
+ "lesson": "Bài 7",
+ "title": "Cuối tuần",
+ "krTitle": "주말",
+ "date": "2026-11-21",
+ "day": 3,
+ "source": "TOPIK 1 – Bài 6: Cuối tuần",
+ "words": [
+  [
+   "무슨",
+   "Museun",
+   "Gì",
+   "주말에 무슨 영화를 봐요?",
+   "Cuối tuần bạn xem phim gì?"
+  ],
+  [
+   "어떤",
+   "Eotteon",
+   "(Thế) nào",
+   "어떤 음식을 좋아해요?",
+   "Bạn thích món ăn như thế nào?"
+  ],
+  [
+   "어느",
+   "Eoneu",
+   "Nào",
+   "어느 나라 사람이에요?",
+   "Bạn là người nước nào?"
+  ],
+  [
+   "등산하다",
+   "Deungsanhada",
+   "Leo núi",
+   "토요일에 친구하고 등산했어요.",
+   "Thứ bảy tôi đã leo núi cùng bạn."
+  ],
+  [
+   "영화를 보다",
+   "Yeonghwareul boda",
+   "Xem phim",
+   "주말에 같이 영화를 봅시다.",
+   "Cuối tuần cùng xem phim nhé."
+  ],
+  [
+   "운동하다",
+   "Undonghada",
+   "Vận động, tập thể thao",
+   "저는 매일 아침 운동해요.",
+   "Sáng nào tôi cũng tập thể dục."
+  ],
+  [
+   "여행하다",
+   "Yeohaenghada",
+   "Đi du lịch",
+   "방학에 제주도를 여행했어요.",
+   "Kỳ nghỉ tôi đã đi du lịch đảo Jeju."
+  ],
+  [
+   "수영하다",
+   "Suyeonghada",
+   "Bơi",
+   "여름에 바다에서 수영해요.",
+   "Mùa hè tôi bơi ở biển."
+  ],
+  [
+   "외식하다",
+   "Oesikhada",
+   "Ăn ngoài",
+   "일요일에 가족하고 외식했어요.",
+   "Chủ nhật tôi đã đi ăn ngoài cùng gia đình."
+  ],
+  [
+   "친구를 만나다",
+   "Chingureul mannada",
+   "Gặp bạn",
+   "저는 주말에 친구를 만나요.",
+   "Cuối tuần tôi gặp bạn."
+  ],
+  [
+   "소풍가다",
+   "Sopunggada",
+   "Đi dã ngoại",
+   "내일 같이 소풍 갑시다!",
+   "Ngày mai cùng đi dã ngoại nhé!"
+  ],
+  [
+   "책을 읽다",
+   "Chaegeul ikda",
+   "Đọc sách",
+   "저는 주말에 집에서 책을 읽어요.",
+   "Cuối tuần tôi đọc sách ở nhà."
+  ],
+  [
+   "생략",
+   "Saengnyak",
+   "Giản lược",
+   "한국어에서는 '저는'을 자주 생략해요.",
+   "Trong tiếng Hàn người ta hay lược bỏ '저는'."
+  ],
+  [
+   "축약",
+   "Chugyak",
+   "Gộp lại, rút gọn",
+   "'무엇을'의 축약은 '뭘'이에요.",
+   "Dạng rút gọn của '무엇을' là '뭘'."
+  ],
+  [
+   "가수",
+   "Gasu",
+   "Ca sĩ",
+   "제 친구는 가수예요.",
+   "Bạn tôi là ca sĩ."
+  ],
+  [
+   "싫어하다",
+   "Sireohada",
+   "Ghét",
+   "저는 공포 영화를 싫어해요.",
+   "Tôi ghét phim kinh dị."
+  ],
+  [
+   "갈비",
+   "Galbi",
+   "Món sườn nướng",
+   "주말에 가족하고 갈비를 먹었어요.",
+   "Cuối tuần tôi đã ăn sườn nướng cùng gia đình."
+  ],
+  [
+   "라면",
+   "Ramyeon",
+   "Mì gói",
+   "밤에는 라면을 안 먹어요.",
+   "Ban đêm thì tôi không ăn mì gói."
+  ],
+  [
+   "액션 영화",
+   "Aeksyeon yeonghwa",
+   "Phim hành động",
+   "저는 액션 영화를 좋아해요.",
+   "Tôi thích phim hành động."
+  ],
+  [
+   "개",
+   "Gae",
+   "Con chó",
+   "우리 집에 개가 있어요.",
+   "Nhà tôi có một con chó."
+  ],
+  [
+   "야구",
+   "Yagu",
+   "Bóng chày",
+   "동생은 야구를 좋아해요.",
+   "Em tôi thích bóng chày."
+  ],
+  [
+   "고양이",
+   "Goyangi",
+   "Con mèo",
+   "저는 개는 싫어해요. 고양이는 좋아해요.",
+   "Chó thì tôi ghét. Còn mèo thì tôi thích."
+  ],
+  [
+   "바다",
+   "Bada",
+   "Biển",
+   "여름에 같이 바다에 갑시다.",
+   "Mùa hè cùng đi biển nhé."
+  ],
+  [
+   "요리하다",
+   "Yorihada",
+   "Nấu ăn",
+   "저는 주말에 집에서 요리해요.",
+   "Cuối tuần tôi nấu ăn ở nhà."
+  ],
+  [
+   "골프",
+   "Golpeu",
+   "Môn đánh golf",
+   "아버지는 주말에 골프를 쳐요.",
+   "Bố tôi chơi golf vào cuối tuần."
+  ],
+  [
+   "일찍",
+   "Iljjik",
+   "Sớm",
+   "토요일에 일찍 일어났어요.",
+   "Thứ bảy tôi đã dậy sớm."
+  ],
+  [
+   "공포 영화",
+   "Gongpo yeonghwa",
+   "Phim kinh dị",
+   "공포 영화는 안 봐요.",
+   "Phim kinh dị thì tôi không xem."
+  ],
+  [
+   "배",
+   "Bae",
+   "Bụng",
+   "배가 아파요.",
+   "Tôi bị đau bụng."
+  ],
+  [
+   "축구",
+   "Chukgu",
+   "Bóng đá",
+   "어제 친구하고 축구를 했어요.",
+   "Hôm qua tôi đã đá bóng cùng bạn."
+  ],
+  [
+   "과일",
+   "Gwail",
+   "Hoa quả",
+   "저는 과일을 좋아해요.",
+   "Tôi thích hoa quả."
+  ],
+  [
+   "배구",
+   "Baegu",
+   "Bóng chuyền",
+   "학교에서 배구를 해요.",
+   "Tôi chơi bóng chuyền ở trường."
+  ],
+  [
+   "춤을 추다",
+   "Chumeul chuda",
+   "Nhảy múa",
+   "노래방에서 춤을 췄어요.",
+   "Tôi đã nhảy ở quán karaoke."
+  ],
+  [
+   "김밥",
+   "Gimbap",
+   "Cơm cuộn rong biển",
+   "점심에 같이 김밥을 먹읍시다.",
+   "Buổi trưa cùng ăn kimbap nhé."
+  ],
+  [
+   "보내다",
+   "Bonaeda",
+   "Trải qua (thời gian)",
+   "주말 잘 보냈어요?",
+   "Bạn đã trải qua cuối tuần vui chứ?"
+  ],
+  [
+   "치다",
+   "Chida",
+   "Đánh, chơi (bóng, cầu)",
+   "오후에 테니스를 쳐요.",
+   "Buổi chiều tôi chơi quần vợt."
+  ],
+  [
+   "나무",
+   "Namu",
+   "Cây",
+   "산에 나무가 많아요.",
+   "Trên núi có nhiều cây."
+  ],
+  [
+   "불고기",
+   "Bulgogi",
+   "Thịt bò xào kiểu Hàn",
+   "어제 불고기하고 밥을 먹었어요.",
+   "Hôm qua tôi đã ăn bulgogi với cơm."
+  ],
+  [
+   "낚시",
+   "Naksi",
+   "Câu cá",
+   "할아버지는 바다에서 낚시를 해요.",
+   "Ông tôi câu cá ở biển."
+  ],
+  [
+   "비빔밥",
+   "Bibimbap",
+   "Cơm trộn",
+   "저는 점심에 비빔밥을 먹었어요.",
+   "Buổi trưa tôi đã ăn cơm trộn."
+  ],
+  [
+   "테니스",
+   "Teniseu",
+   "Quần vợt",
+   "주말에 같이 테니스를 칩시다.",
+   "Cuối tuần cùng chơi quần vợt nhé."
+  ],
+  [
+   "농구",
+   "Nonggu",
+   "Bóng rổ",
+   "형은 농구를 잘해요.",
+   "Anh tôi chơi bóng rổ giỏi."
+  ],
+  [
+   "빨래하다",
+   "Ppallaehada",
+   "Giặt đồ",
+   "일요일 아침에 빨래했어요.",
+   "Sáng chủ nhật tôi đã giặt đồ."
+  ],
+  [
+   "포도",
+   "Podo",
+   "Quả nho",
+   "마트에서 포도하고 수박을 샀어요.",
+   "Tôi đã mua nho và dưa hấu ở siêu thị."
+  ],
+  [
+   "동물",
+   "Dongmul",
+   "Động vật",
+   "동물원에 동물이 많아요.",
+   "Ở sở thú có nhiều động vật."
+  ],
+  [
+   "새",
+   "Sae",
+   "Chim",
+   "나무에 새가 있어요.",
+   "Trên cây có con chim."
+  ],
+  [
+   "피곤하다",
+   "Pigonhada",
+   "Mệt mỏi",
+   "오늘은 피곤해요. 집에서 쉬어요.",
+   "Hôm nay tôi mệt. Tôi nghỉ ở nhà."
+  ],
+  [
+   "드라마",
+   "Deurama",
+   "Phim truyền hình",
+   "밤에 한국 드라마를 봐요.",
+   "Buổi tối tôi xem phim truyền hình Hàn Quốc."
+  ],
+  [
+   "선물",
+   "Seonmul",
+   "Quà tặng",
+   "생일에 선물을 받았어요.",
+   "Vào sinh nhật tôi đã nhận được quà."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 하고 — Và, cùng",
+   "meaning": "Gắn 하고 sau danh từ để nối hai danh từ (= 'và') hoặc chỉ người cùng làm việc gì (= 'cùng với', hay đi với 같이). Không phân biệt patchim: 김밥하고, 빵하고. 하고 mang tính văn nói, nghĩa giống 와/과 (văn viết, phân biệt patchim: 포도와 / 가족과). Hay nhầm: 하고 chỉ nối DANH TỪ, không nối động từ hay câu (không nói 먹어요하고). Danh từ cuối vẫn mang tiểu từ của nó: 김밥하고 비빔밥을 먹어요.",
+   "examples": [
+    "김밥하고 비빔밥을 먹었어요. — Tôi đã ăn kimbap và cơm trộn.",
+    "친구하고 같이 영화를 봐요. — Tôi xem phim cùng bạn.",
+    "집에 개하고 고양이가 있어요. — Ở nhà có chó và mèo.",
+    "토요일에 가족하고 외식했어요. — Thứ bảy tôi đã ăn ngoài cùng gia đình."
+   ]
+  },
+  {
+   "form": "V + (으)ㅂ시다 — Hãy (cùng)",
+   "meaning": "Đuôi câu rủ rê, đề nghị người nghe CÙNG làm (= 'hãy cùng…, …nhé'). Thân động từ có patchim → 읍시다 (먹다 → 먹읍시다, 읽다 → 읽읍시다); không có patchim → ㅂ시다 (가다 → 갑시다, 보다 → 봅시다, 치다 → 칩시다); patchim ㄹ thì bỏ ㄹ rồi + ㅂ시다 (만들다 → 만듭시다). Hay đi với 같이. Lưu ý: chỉ dùng với ĐỘNG TỪ, không dùng với tính từ (không nói 피곤합시다); không dùng với người lớn tuổi hơn/cấp trên (khi đó nói 같이 가요). Không nhầm với quá khứ: không có '갔읍시다'.",
+   "examples": [
+    "주말에 같이 등산합시다. — Cuối tuần cùng đi leo núi nhé.",
+    "점심에 비빔밥을 먹읍시다. — Trưa nay cùng ăn cơm trộn nhé.",
+    "내일 테니스를 칩시다. — Ngày mai cùng chơi quần vợt nhé.",
+    "같이 김밥을 만듭시다. — Cùng làm kimbap nhé."
+   ]
+  },
+  {
+   "form": "N + 은/는 — Thì (so sánh, đối chiếu)",
+   "meaning": "Ngoài chủ đề câu (Bài 1), 은/는 còn dùng để ĐỐI CHIẾU hai sự vật: 'A thì…, còn B thì…'. Có patchim → 은 (밥은, 오늘은), không patchim → 는 (커피는, 고양이는). Có thể thay cho 을/를 hoặc 이/가: 개를 좋아해요 → 개는 좋아해요 (chó thì thích – ngụ ý con khác thì không). Cũng gắn sau 에, 에서: 주말에는, 집에서는. Hay nhầm: 이/가 nhấn mạnh thông tin mới, còn 은/는 mang ý so sánh/đối lập.",
+   "examples": [
+    "저는 개는 싫어해요. 고양이는 좋아해요. — Chó thì tôi ghét. Mèo thì tôi thích.",
+    "축구는 좋아해요. 야구는 안 좋아해요. — Bóng đá thì tôi thích. Bóng chày thì không.",
+    "토요일에는 운동해요. 일요일에는 쉬어요. — Thứ bảy thì tôi tập thể thao. Chủ nhật thì nghỉ.",
+    "빵은 안 먹어요. 밥은 먹어요. — Bánh mì thì tôi không ăn. Cơm thì ăn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Tôi đã xem phim cùng bạn.",
+   "kr": "친구___ 영화를 봤어요.",
+   "options": [
+    "하고",
+    "을",
+    "에"
+   ],
+   "answer": "하고",
+   "explain": "Chỉ người cùng làm → 친구하고 (cùng với bạn)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Cùng ăn cơm trộn nhé.",
+   "kr": "같이 비빔밥을 ___.",
+   "options": [
+    "먹읍시다",
+    "먹ㅂ시다",
+    "먹습시다",
+    "먹어읍시다"
+   ],
+   "answer": "먹읍시다",
+   "explain": "먹 có patchim ㄱ → + 읍시다: 먹읍시다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Cuối tuần cùng đi leo núi nhé.",
+   "kr": "주말에 같이 산에 ___.",
+   "options": [
+    "갑시다",
+    "가읍시다",
+    "갔읍시다"
+   ],
+   "answer": "갑시다",
+   "explain": "가 không có patchim → + ㅂ시다: 갑시다. (으)ㅂ시다 không chia quá khứ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng (đối chiếu): Tôi thích chó. Còn mèo thì tôi ghét.",
+   "kr": "저는 개를 좋아해요. 고양이___ 싫어해요.",
+   "options": [
+    "는",
+    "은",
+    "가"
+   ],
+   "answer": "는",
+   "explain": "Đối chiếu → 은/는; 고양이 không có patchim → 는."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng (đối chiếu): Bánh mì thì không ăn. Cơm thì ăn.",
+   "kr": "빵은 안 먹어요. 밥___ 먹어요.",
+   "options": [
+    "은",
+    "는",
+    "이"
+   ],
+   "answer": "은",
+   "explain": "밥 có patchim ㅂ → 은. Hai vế đối lập nên dùng 은/는."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn động từ thích hợp: Tôi chơi quần vợt.",
+   "kr": "테니스를 ___.",
+   "options": [
+    "쳐요",
+    "춰요",
+    "읽어요",
+    "봐요"
+   ],
+   "answer": "쳐요",
+   "explain": "Môn đánh bằng vợt/gậy (테니스, 골프, 배드민턴) đi với 치다 → 쳐요. 춤을 추다 → 춰요 là nhảy."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn động từ thích hợp: Tôi nhảy ở quán karaoke.",
+   "kr": "노래방에서 춤을 ___.",
+   "options": [
+    "춰요",
+    "쳐요",
+    "읽어요",
+    "만나요"
+   ],
+   "answer": "춰요",
+   "explain": "춤을 추다 = nhảy múa; 추 + 어요 → 춰요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ để hỏi đúng: Bạn là người nước nào?",
+   "kr": "___ 나라 사람이에요?",
+   "options": [
+    "어느",
+    "무슨",
+    "누구"
+   ],
+   "answer": "어느",
+   "explain": "어느 = nào (chọn trong một số lựa chọn): 어느 나라 = nước nào."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ để hỏi đúng: Bạn thích môn thể thao gì?",
+   "kr": "___ 운동을 좋아해요?",
+   "options": [
+    "무슨",
+    "어디",
+    "언제"
+   ],
+   "answer": "무슨",
+   "explain": "무슨 + danh từ = (danh từ) gì: 무슨 운동 = môn thể thao gì. 어디 = ở đâu, 언제 = khi nào."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu rủ rê ĐÚNG ngữ pháp.",
+   "kr": "",
+   "options": [
+    "같이 피곤합시다",
+    "같이 책을 읽읍시다",
+    "같이 책을 읽ㅂ시다",
+    "같이 좋읍시다"
+   ],
+   "answer": "같이 책을 읽읍시다",
+   "explain": "(으)ㅂ시다 chỉ dùng với động từ; 읽 có patchim → 읽읍시다. 피곤하다, 좋다 là tính từ nên không dùng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Hôm qua tôi đã không đi ăn ngoài.",
+   "kr": "",
+   "options": [
+    "어제 안 외식했어요",
+    "어제 외식 안 했어요",
+    "어제 외식했어요 안",
+    "어제 안 외식해요"
+   ],
+   "answer": "어제 외식 안 했어요",
+   "explain": "Với động từ 'danh từ + 하다', 안 đứng ngay trước 하다: 외식 안 했어요. Quá khứ: 했어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ nối (và): Tôi đã mua nho và dưa hấu.",
+   "kr": "포도___ 수박을 샀어요.",
+   "answer": [
+    "하고",
+    "와"
+   ],
+   "explain": "Nối hai danh từ: 포도하고 (văn nói) hoặc 포도와 (포도 không có patchim → 와)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 보다 với đuôi rủ rê: Cùng xem phim nhé.",
+   "kr": "같이 영화를 ___.",
+   "answer": [
+    "봅시다"
+   ],
+   "explain": "보 không có patchim → 봅시다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 은 hoặc 는: Hôm nay thì tôi mệt.",
+   "kr": "오늘___ 피곤해요.",
+   "answer": [
+    "은"
+   ],
+   "explain": "오늘 có patchim ㄹ → 은."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 만들다 với (으)ㅂ시다: Cùng làm kimbap nhé.",
+   "kr": "같이 김밥을 ___.",
+   "answer": [
+    "만듭시다"
+   ],
+   "explain": "Thân có patchim ㄹ: bỏ ㄹ rồi + ㅂ시다 → 만듭시다 (không phải 만들읍시다)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Tôi đi du lịch cùng gia đình.",
+   "kr": "가족___ 같이 여행해요.",
+   "answer": [
+    "하고",
+    "과"
+   ],
+   "explain": "Cùng với ai → 하고; hoặc 과 vì 가족 có patchim ㄱ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thứ bảy tôi đã leo núi cùng bạn.",
+   "tokens": [
+    "토요일에",
+    "친구하고",
+    "등산했어요"
+   ],
+   "answer": "토요일에 친구하고 등산했어요",
+   "explain": "Thời gian + 에 → người cùng làm + 하고 → động từ quá khứ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cuối tuần cùng đi biển nhé.",
+   "tokens": [
+    "주말에",
+    "같이",
+    "바다에",
+    "갑시다"
+   ],
+   "answer": "주말에 같이 바다에 갑시다",
+   "explain": "Thời gian → 같이 → đích đến + 에 → 갑시다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi thì không thích bóng chày.",
+   "tokens": [
+    "저는",
+    "야구는",
+    "안",
+    "좋아해요"
+   ],
+   "answer": "저는 야구는 안 좋아해요",
+   "explain": "야구는: 은/는 đối chiếu thay cho 를; 안 đứng ngay trước động từ."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đọc sách ở nhà.",
+   "tokens": [
+    "저는",
+    "집에서",
+    "책을",
+    "읽어요"
+   ],
+   "answer": "저는 집에서 책을 읽어요",
+   "explain": "Nơi diễn ra hành động + 에서; tân ngữ + 을; động từ cuối câu."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cùng ăn sườn nướng nhé.",
+   "answer": [
+    "같이 갈비를 먹읍시다",
+    "갈비를 먹읍시다",
+    "같이 갈비 먹읍시다",
+    "갈비 먹읍시다"
+   ],
+   "explain": "갈비를 + 먹다 → 먹읍시다 (có patchim). Thêm 같이 cho tự nhiên."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã ăn kimbap và cơm trộn.",
+   "answer": [
+    "김밥하고 비빔밥을 먹었어요",
+    "저는 김밥하고 비빔밥을 먹었어요",
+    "김밥과 비빔밥을 먹었어요",
+    "저는 김밥과 비빔밥을 먹었어요",
+    "김밥하고 비빔밥을 먹었습니다",
+    "저는 김밥하고 비빔밥을 먹었습니다",
+    "김밥과 비빔밥을 먹었습니다",
+    "저는 김밥과 비빔밥을 먹었습니다"
+   ],
+   "explain": "김밥하고/김밥과 + 비빔밥을 + 먹었어요 (quá khứ)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi ghét phim kinh dị.",
+   "answer": [
+    "저는 공포 영화를 싫어해요",
+    "공포 영화를 싫어해요",
+    "저는 공포 영화를 싫어합니다",
+    "공포 영화를 싫어합니다",
+    "저는 공포 영화가 싫어요",
+    "공포 영화가 싫어요"
+   ],
+   "explain": "싫어하다 là động từ → cần 을/를: 공포 영화를 싫어해요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cuối tuần tôi đã giặt đồ ở nhà.",
+   "answer": [
+    "주말에 집에서 빨래했어요",
+    "저는 주말에 집에서 빨래했어요",
+    "주말에 집에서 빨래했습니다",
+    "저는 주말에 집에서 빨래했습니다",
+    "주말에 집에서 빨래를 했어요",
+    "저는 주말에 집에서 빨래를 했어요"
+   ],
+   "explain": "주말에 (thời gian) + 집에서 (nơi làm) + 빨래했어요 (quá khứ)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "토요일에는 테니스를 쳐요. 일요일에는 집에서 쉬어요.",
+   "answer": "Thứ bảy thì tôi chơi quần vợt. Chủ nhật thì tôi nghỉ ở nhà.",
+   "explain": "에는 = 에 + 는: đối chiếu hai ngày; 쉬다 = nghỉ ngơi."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "주말에 친구하고 소풍 갔어요. 김밥하고 과일을 먹었어요.",
+   "answer": "Cuối tuần tôi đã đi dã ngoại cùng bạn. Tôi đã ăn kimbap và hoa quả.",
+   "explain": "친구하고 = cùng bạn; 김밥하고 과일 = kimbap và hoa quả."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? Chọn đáp án đúng. (Dạng TOPIK câu 31~33)",
+   "kr": "저는 축구를 좋아해요. 형은 야구를 좋아해요.",
+   "options": [
+    "운동",
+    "음식",
+    "선물",
+    "날짜"
+   ],
+   "answer": "운동",
+   "explain": "축구 (bóng đá), 야구 (bóng chày) đều là môn thể thao → 운동."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ thích hợp điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "저는 동물을 좋아해요. 집에 개( ___ ) 고양이가 있어요.",
+   "options": [
+    "하고",
+    "에서",
+    "을",
+    "는"
+   ],
+   "answer": "하고",
+   "explain": "Nối hai danh từ 개 và 고양이 → 개하고 고양이 (chó và mèo)."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu đúng với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 토요일에 일찍 일어나요. 오전에 친구하고 테니스를 쳐요. 오후에는 집에서 빨래를 해요. 일요일에는 가족하고 외식해요.",
+   "options": [
+    "저는 토요일에 늦게 일어나요.",
+    "저는 혼자 테니스를 쳐요.",
+    "저는 토요일 오후에 빨래를 해요.",
+    "저는 일요일에 집에서 요리해요."
+   ],
+   "answer": "저는 토요일 오후에 빨래를 해요.",
+   "explain": "오후에는 집에서 빨래를 해요 → đúng. Sai: dậy sớm (일찍) chứ không muộn (늦게); chơi cùng bạn chứ không một mình (혼자); chủ nhật đi ăn ngoài (외식) chứ không nấu ở nhà."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu thích hợp điền vào chỗ trống. (Dạng TOPIK – suy luận)",
+   "kr": "내일은 토요일이에요. 날씨가 아주 좋아요. ( ___ )",
+   "options": [
+    "같이 산에 갑시다.",
+    "어제 산에 갔어요.",
+    "같이 좋읍시다.",
+    "산을 싫읍시다."
+   ],
+   "answer": "같이 산에 갑시다.",
+   "explain": "Ngày mai thứ bảy, trời đẹp → rủ đi núi: 같이 산에 갑시다. 좋다/싫다 là tính từ, không dùng (으)ㅂ시다; '어제' không hợp ngữ cảnh ngày mai."
+  }
+ ],
+ "practice": {
+  "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+  "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+ }
+}
