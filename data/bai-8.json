@@ -1,0 +1,610 @@
+{
+ "id": "bai-8",
+ "lesson": "Bài 8",
+ "title": "Mua sắm P1",
+ "krTitle": "물건 사기",
+ "date": "2026-11-22",
+ "day": 4,
+ "source": "TOPIK 1 – Bài 7: Mua sắm P1",
+ "words": [
+  [
+   "물건 사기",
+   "Mulgeon sagi",
+   "Mua sắm",
+   "물건 사기는 재미있어요.",
+   "Mua sắm thì thú vị."
+  ],
+  [
+   "여러 개",
+   "Yeoreo gae",
+   "Nhiều cái",
+   "사과를 여러 개 샀어요.",
+   "Tôi đã mua nhiều quả táo."
+  ],
+  [
+   "개",
+   "Gae",
+   "Cái (đơn vị đếm)",
+   "사과 세 개를 샀어요.",
+   "Tôi đã mua ba quả táo."
+  ],
+  [
+   "명/ 사람",
+   "Myeong/ saram",
+   "Người (đơn vị đếm)",
+   "교실에 학생이 다섯 명 있어요.",
+   "Trong lớp có năm học sinh."
+  ],
+  [
+   "마리",
+   "Mari",
+   "Con (đơn vị đếm)",
+   "우리 집에 고양이가 두 마리 있어요.",
+   "Nhà tôi có hai con mèo."
+  ],
+  [
+   "잔",
+   "Jan",
+   "Chén, ly (đơn vị đếm)",
+   "커피 한 잔 마시고 싶어요.",
+   "Tôi muốn uống một ly cà phê."
+  ],
+  [
+   "대",
+   "Dae",
+   "Chiếc (xe, máy)",
+   "집에 컴퓨터가 한 대 있어요.",
+   "Ở nhà có một chiếc máy tính."
+  ],
+  [
+   "병",
+   "Byeong",
+   "Bình, chai",
+   "마트에서 물을 두 병 샀어요.",
+   "Tôi đã mua hai chai nước ở siêu thị."
+  ],
+  [
+   "켤레",
+   "Kyeolle",
+   "Đôi (giày, tất)",
+   "구두 한 켤레를 사고 싶어요.",
+   "Tôi muốn mua một đôi giày da."
+  ],
+  [
+   "권",
+   "Gwon",
+   "Quyển",
+   "소설책 세 권을 읽었어요.",
+   "Tôi đã đọc ba quyển tiểu thuyết."
+  ],
+  [
+   "장",
+   "Jang",
+   "Tờ, trang",
+   "사진을 열 장 찍었어요.",
+   "Tôi đã chụp mười tấm ảnh."
+  ],
+  [
+   "채소",
+   "Chaeso",
+   "Rau",
+   "마트에서 채소를 샀어요.",
+   "Tôi đã mua rau ở siêu thị."
+  ],
+  [
+   "음료수",
+   "Eumnyosu",
+   "Đồ uống",
+   "무슨 음료수를 마시고 싶어요?",
+   "Bạn muốn uống đồ uống gì?"
+  ],
+  [
+   "구두",
+   "Gudu",
+   "Giày da",
+   "이 구두가 예뻐요.",
+   "Đôi giày da này đẹp."
+  ],
+  [
+   "손님",
+   "Sonnim",
+   "Khách",
+   "오늘 가게에 손님이 많아요.",
+   "Hôm nay cửa hàng có nhiều khách."
+  ],
+  [
+   "주인",
+   "Juin",
+   "Chủ cửa hàng",
+   "가게 주인이 아주 바빠요.",
+   "Chủ cửa hàng rất bận."
+  ],
+  [
+   "발음",
+   "Bareum",
+   "Phát âm",
+   "한국어 발음을 연습하고 싶어요.",
+   "Tôi muốn luyện phát âm tiếng Hàn."
+  ],
+  [
+   "과자",
+   "Gwaja",
+   "Bánh quy, bánh kẹo",
+   "동생은 과자를 좋아해요.",
+   "Em tôi thích bánh kẹo."
+  ],
+  [
+   "주스",
+   "Juseu",
+   "Nước hoa quả",
+   "저는 오렌지 주스를 마시겠어요.",
+   "Tôi sẽ uống nước cam."
+  ],
+  [
+   "귤",
+   "Gyul",
+   "Quả quýt",
+   "시장에서 귤을 열 개 샀어요.",
+   "Tôi đã mua mười quả quýt ở chợ."
+  ],
+  [
+   "카메라",
+   "Kamera",
+   "Máy ảnh",
+   "새 카메라를 사고 싶어요.",
+   "Tôi muốn mua máy ảnh mới."
+  ],
+  [
+   "디자인",
+   "Dijain",
+   "Thiết kế",
+   "이 티셔츠는 디자인이 예뻐요.",
+   "Áo phông này thiết kế đẹp."
+  ],
+  [
+   "세일",
+   "Seil",
+   "Hạ giá",
+   "오늘 백화점에서 세일을 해요.",
+   "Hôm nay trung tâm thương mại giảm giá."
+  ],
+  [
+   "티셔츠",
+   "Tisyeocheu",
+   "Áo phông",
+   "이 티셔츠는 너무 커요.",
+   "Cái áo phông này to quá."
+  ],
+  [
+   "마트",
+   "Mateu",
+   "Siêu thị",
+   "주말에 마트에 가겠어요.",
+   "Cuối tuần tôi sẽ đi siêu thị."
+  ],
+  [
+   "소설책",
+   "Soseolchaek",
+   "Sách tiểu thuyết",
+   "서점에서 소설책을 두 권 샀어요.",
+   "Tôi đã mua hai quyển tiểu thuyết ở hiệu sách."
+  ],
+  [
+   "망고",
+   "Manggo",
+   "Xoài",
+   "베트남 망고는 정말 맛있어요.",
+   "Xoài Việt Nam thì thật sự ngon."
+  ],
+  [
+   "수박",
+   "Subak",
+   "Dưa hấu",
+   "여름에는 수박을 먹고 싶어요.",
+   "Mùa hè thì tôi muốn ăn dưa hấu."
+  ],
+  [
+   "문구점",
+   "Mungujeom",
+   "Cửa hàng văn phòng phẩm",
+   "문구점에서 공책을 샀어요.",
+   "Tôi đã mua vở ở cửa hàng văn phòng phẩm."
+  ],
+  [
+   "전자상가",
+   "Jeonjasangga",
+   "Khu bán hàng điện tử",
+   "전자상가에서 카메라를 사겠어요.",
+   "Tôi sẽ mua máy ảnh ở khu bán hàng điện tử."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Giản lược nguyên âm 으",
+   "meaning": "Thân động từ/tính từ kết thúc bằng nguyên âm 으 (쓰다, 크다, 바쁘다, 예쁘다, 아프다, 기쁘다, 나쁘다, 배고프다, 끄다...) khi gặp 아/어 (아요/어요, 았/었) thì 으 bị lược bỏ. Chọn 아 hay 어 theo nguyên âm của âm tiết ĐỨNG TRƯỚC 으: nếu là ㅏ/ㅗ → 아 (바쁘다 → 바빠요, 아프다 → 아파요, 나쁘다 → 나빠요, 배고프다 → 배고파요); nguyên âm khác → 어 (예쁘다 → 예뻐요, 기쁘다 → 기뻐요, 슬프다 → 슬퍼요). Thân chỉ có 1 âm tiết → luôn 어 (쓰다 → 써요, 크다 → 커요, 끄다 → 꺼요). Quá khứ: 썼어요, 바빴어요, 예뻤어요. Lưu ý: đuôi ㅂ/습니다 KHÔNG bị ảnh hưởng (바쁩니다, 큽니다). Hay nhầm: viết 크어요, 바뻐요 — sai.",
+   "examples": [
+    "이 티셔츠는 너무 커요. — Cái áo phông này to quá.",
+    "오늘은 아주 바빠요. — Hôm nay rất bận.",
+    "어제 일기를 썼어요. — Hôm qua tôi đã viết nhật ký.",
+    "그 구두가 정말 예뻐요. — Đôi giày da đó thật đẹp."
+   ]
+  },
+  {
+   "form": "V + 고 싶다 — Muốn",
+   "meaning": "Diễn tả mong muốn của người nói (câu kể) hoặc hỏi mong muốn của người nghe (câu hỏi): 'muốn …'. Gắn 고 싶다 vào thân động từ, KHÔNG phân biệt patchim: 가다 → 가고 싶어요, 먹다 → 먹고 싶어요. Chia 싶다: 싶어요 / 싶습니다 / quá khứ 싶었어요. Phủ định: 안 + V고 싶어요 (안 가고 싶어요). Tân ngữ dùng 을/를 (cũng có thể dùng 이/가): 물을 마시고 싶어요. Hay nhầm: 고 싶다 chỉ gắn sau ĐỘNG TỪ, không gắn sau danh từ ('커피 싶어요' sai → 커피를 마시고 싶어요). Với ngôi thứ 3 người Hàn dùng V고 싶어하다 (동생은 과자를 먹고 싶어해요).",
+   "examples": [
+    "새 카메라를 사고 싶어요. — Tôi muốn mua máy ảnh mới.",
+    "주말에 뭐 하고 싶어요? — Cuối tuần bạn muốn làm gì?",
+    "여름에는 바다에 가고 싶어요. — Mùa hè tôi muốn đi biển.",
+    "오늘은 라면을 안 먹고 싶어요. — Hôm nay tôi không muốn ăn mì gói."
+   ]
+  },
+  {
+   "form": "겠 — Sẽ",
+   "meaning": "겠 gắn vào thân động từ/tính từ, KHÔNG phân biệt patchim (가겠어요, 먹겠어요; trang trọng: 겠습니다). Có 3 cách dùng chính: (1) Ý định, ý chí của người nói (ngôi thứ nhất) = 'sẽ': 제가 하겠어요, 저는 주스를 마시겠어요; trong câu hỏi thì hỏi ý định người nghe: 뭘 사겠어요? (2) Phỏng đoán từ những gì thấy/nghe = 'chắc là …': 맛있겠어요, 바쁘겠어요, 피곤했겠어요 (chắc đã mệt). (3) Câu nói lịch sự cố định: 알겠습니다 (tôi hiểu rồi), 처음 뵙겠습니다 (rất hân hạnh), 잘 먹겠습니다 (mời cả nhà/con xin ăn). Hay nhầm: với chủ ngữ ngôi thứ 3, 겠 là PHỎNG ĐOÁN chứ không phải ý định (친구가 오겠어요 = chắc bạn sẽ đến).",
+   "examples": [
+    "주말에 마트에 가겠어요. — Cuối tuần tôi sẽ đi siêu thị.",
+    "와, 이 수박은 맛있겠어요! — Ồ, quả dưa hấu này chắc ngon lắm!",
+    "알겠습니다. — Tôi hiểu rồi ạ.",
+    "전자상가에서 카메라를 사겠습니다. — Tôi sẽ mua máy ảnh ở khu điện tử."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng của 크다: Cái áo phông này to quá.",
+   "kr": "이 티셔츠는 너무 ___.",
+   "options": [
+    "커요",
+    "크어요",
+    "카요",
+    "크아요"
+   ],
+   "answer": "커요",
+   "explain": "크다 chỉ có 1 âm tiết → + 어요, lược 으: 크 + 어요 → 커요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng của 바쁘다: Hôm nay chủ cửa hàng rất bận.",
+   "kr": "오늘 주인이 아주 ___.",
+   "options": [
+    "바빠요",
+    "바뻐요",
+    "바쁘어요"
+   ],
+   "answer": "바빠요",
+   "explain": "Âm tiết trước 으 là 바 (nguyên âm ㅏ) → + 아요, lược 으: 바빠요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng của 예쁘다: Đôi giày da đó đẹp.",
+   "kr": "그 구두가 ___.",
+   "options": [
+    "예뻐요",
+    "예빠요",
+    "예쁘요"
+   ],
+   "answer": "예뻐요",
+   "explain": "Âm tiết trước 으 là 예 (không phải ㅏ/ㅗ) → + 어요, lược 으: 예뻐요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: Tôi muốn mua máy ảnh.",
+   "kr": "카메라를 ___.",
+   "options": [
+    "사고 싶어요",
+    "사 싶어요",
+    "사어 싶어요",
+    "사고 싶다요"
+   ],
+   "answer": "사고 싶어요",
+   "explain": "Thân động từ 사 + 고 싶다 → 싶어요: 사고 싶어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi sẽ uống nước cam. (ý định)",
+   "kr": "저는 오렌지 주스를 ___.",
+   "options": [
+    "마시겠어요",
+    "마셨어요",
+    "마시겠었요"
+   ],
+   "answer": "마시겠어요",
+   "explain": "Ý định của người nói ở ngôi thứ nhất → 마시 + 겠어요. 마셨어요 là 'đã uống'."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu trả lời hợp lý (phỏng đoán): A nói quả dưa hấu rất to, B đáp 'Ồ, chắc ngon lắm!'",
+   "kr": "A: 이 수박은 아주 커요.\nB: 와, ___!",
+   "options": [
+    "맛있겠어요",
+    "맛있었어요",
+    "맛있고 싶어요"
+   ],
+   "answer": "맛있겠어요",
+   "explain": "Phỏng đoán từ điều nhìn thấy → 겠: 맛있겠어요. 고 싶다 không gắn với tính từ 맛있다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đơn vị đếm đúng: Có hai con mèo.",
+   "kr": "고양이가 두 ___ 있어요.",
+   "options": [
+    "마리",
+    "권",
+    "장",
+    "대"
+   ],
+   "answer": "마리",
+   "explain": "Đếm con vật → 마리. 권: quyển, 장: tờ, 대: chiếc (xe, máy)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đơn vị đếm đúng: Tôi đã mua ba quyển tiểu thuyết.",
+   "kr": "소설책을 세 ___ 샀어요.",
+   "options": [
+    "권",
+    "켤레",
+    "병",
+    "잔"
+   ],
+   "answer": "권",
+   "explain": "Đếm sách → 권: 소설책 세 권."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn số đúng: Tôi muốn mua một đôi giày da.",
+   "kr": "구두 ___ 켤레를 사고 싶어요.",
+   "options": [
+    "한",
+    "하나",
+    "일"
+   ],
+   "answer": "한",
+   "explain": "Trước đơn vị đếm, 하나 đổi thành định từ 한: 한 켤레. Số Hán Hàn 일 không dùng với 켤레."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng quá khứ đúng của 쓰다: Hôm qua tôi đã viết nhật ký.",
+   "kr": "어제 일기를 ___.",
+   "options": [
+    "썼어요",
+    "쓰었어요",
+    "쌌어요"
+   ],
+   "answer": "썼어요",
+   "explain": "쓰 + 었어요, lược 으 → 썼어요. 쌌어요 là quá khứ của 싸다 (rẻ / gói)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 기쁘다 với đuôi 아/어요: Tôi rất vui.",
+   "kr": "저는 아주 ___.",
+   "answer": [
+    "기뻐요"
+   ],
+   "explain": "Âm tiết trước 으 là 기 (ㅣ) → + 어요, lược 으: 기뻐요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền động từ 먹다 với nghĩa 'muốn': Tôi muốn ăn xoài.",
+   "kr": "망고를 ___.",
+   "answer": [
+    "먹고 싶어요",
+    "먹고 싶습니다"
+   ],
+   "explain": "먹 + 고 싶어요 (không phân biệt patchim)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 가다 với 겠 (ý định): Cuối tuần tôi sẽ đi siêu thị.",
+   "kr": "주말에 마트에 ___.",
+   "answer": [
+    "가겠어요",
+    "가겠습니다"
+   ],
+   "explain": "가 + 겠어요 / 겠습니다 → ý định của người nói."
+  },
+  {
+   "type": "fill",
+   "q": "Điền đơn vị đếm người: Trong lớp có năm học sinh.",
+   "kr": "교실에 학생이 다섯 ___ 있어요.",
+   "answer": [
+    "명",
+    "사람"
+   ],
+   "explain": "Đếm người → 명 (hoặc 사람): 다섯 명."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 바쁘다 ở thì quá khứ (đuôi 아/어요): Hôm qua thì tôi đã bận.",
+   "kr": "어제는 ___.",
+   "answer": [
+    "바빴어요"
+   ],
+   "explain": "바쁘 + 았어요, lược 으 → 바빴어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ chỉ nơi diễn ra hành động: Tôi đã mua rau ở siêu thị.",
+   "kr": "마트___ 채소를 샀어요.",
+   "answer": [
+    "에서"
+   ],
+   "explain": "Nơi diễn ra hành động (mua) → 에서: 마트에서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi muốn mua một đôi giày da.",
+   "tokens": [
+    "구두",
+    "한",
+    "켤레를",
+    "사고",
+    "싶어요"
+   ],
+   "answer": "구두 한 켤레를 사고 싶어요",
+   "explain": "Danh từ + số (định từ) + đơn vị đếm + 을/를 → V고 싶어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi sẽ mua máy ảnh ở khu bán hàng điện tử.",
+   "tokens": [
+    "전자상가에서",
+    "카메라를",
+    "사겠어요"
+   ],
+   "answer": "전자상가에서 카메라를 사겠어요",
+   "explain": "Nơi + 에서 → tân ngữ + 를 → 사겠어요 (ý định)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Áo phông này thì thiết kế đẹp.",
+   "tokens": [
+    "이",
+    "티셔츠는",
+    "디자인이",
+    "예뻐요"
+   ],
+   "answer": "이 티셔츠는 디자인이 예뻐요",
+   "explain": "Chủ đề + 는 → chủ ngữ + 이 → 예뻐요 (예쁘다, lược 으)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hôm qua tôi đã mua hai chai nước ở siêu thị.",
+   "tokens": [
+    "어제",
+    "마트에서",
+    "물을",
+    "두",
+    "병",
+    "샀어요"
+   ],
+   "answer": "어제 마트에서 물을 두 병 샀어요",
+   "explain": "Thời gian → nơi + 에서 → tân ngữ + 을 → số + đơn vị đếm → động từ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi muốn uống một ly cà phê.",
+   "answer": [
+    "커피 한 잔 마시고 싶어요",
+    "저는 커피 한 잔 마시고 싶어요",
+    "커피를 한 잔 마시고 싶어요",
+    "저는 커피를 한 잔 마시고 싶어요",
+    "커피 한 잔을 마시고 싶어요",
+    "저는 커피 한 잔을 마시고 싶어요",
+    "커피 한 잔 마시고 싶습니다",
+    "저는 커피 한 잔 마시고 싶습니다",
+    "커피를 한 잔 마시고 싶습니다",
+    "저는 커피를 한 잔 마시고 싶습니다",
+    "커피 한 잔을 마시고 싶습니다",
+    "저는 커피 한 잔을 마시고 싶습니다"
+   ],
+   "explain": "커피 (를) + 한 잔 + 마시고 싶어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cái áo phông này to quá.",
+   "answer": [
+    "이 티셔츠는 너무 커요",
+    "이 티셔츠가 너무 커요",
+    "이 티셔츠는 너무 큽니다",
+    "이 티셔츠가 너무 큽니다"
+   ],
+   "explain": "크다 → 커요 (lược 으); trang trọng 큽니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi sẽ mua nho.",
+   "answer": [
+    "포도를 사겠어요",
+    "저는 포도를 사겠어요",
+    "포도를 사겠습니다",
+    "저는 포도를 사겠습니다",
+    "제가 포도를 사겠어요",
+    "제가 포도를 사겠습니다"
+   ],
+   "explain": "Ý định → 사 + 겠어요: 포도를 사겠어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ở siêu thị có nhiều khách.",
+   "answer": [
+    "마트에 손님이 많아요",
+    "마트에 손님이 많습니다",
+    "마트에는 손님이 많아요",
+    "마트에는 손님이 많습니다"
+   ],
+   "explain": "Nơi chốn + 에 + 손님이 많아요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "전자상가에서 카메라를 사고 싶어요.",
+   "answer": "Tôi muốn mua máy ảnh ở khu bán hàng điện tử.",
+   "explain": "전자상가에서: ở khu điện tử; 사고 싶어요: muốn mua."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "오늘은 바빠요. 내일 문구점에 가겠어요.",
+   "answer": "Hôm nay thì tôi bận. Ngày mai tôi sẽ đi cửa hàng văn phòng phẩm.",
+   "explain": "바빠요: bận (바쁘다); 가겠어요: sẽ đi (ý định)."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? Chọn đáp án đúng. (Dạng TOPIK câu 31~33)",
+   "kr": "망고하고 수박을 샀어요. 귤은 안 샀어요.",
+   "options": [
+    "과일",
+    "운동",
+    "날짜",
+    "가족"
+   ],
+   "answer": "과일",
+   "explain": "망고 (xoài), 수박 (dưa hấu), 귤 (quýt) đều là hoa quả → 과일."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ thích hợp điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "문구점에 갔어요. 공책 두 ( ___ )하고 볼펜 한 개를 샀어요.",
+   "options": [
+    "권",
+    "마리",
+    "잔",
+    "대"
+   ],
+   "answer": "권",
+   "explain": "Đếm vở/sách → 권: 공책 두 권."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu đúng với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 오늘 친구하고 마트에 갔어요. 마트에서 세일을 했어요. 저는 과자하고 음료수를 샀어요. 친구는 티셔츠를 두 장 샀어요. 다음 주에 또 가고 싶어요.",
+   "options": [
+    "저는 혼자 마트에 갔어요.",
+    "저는 티셔츠를 샀어요.",
+    "마트에서 세일을 했어요.",
+    "친구는 과자를 샀어요."
+   ],
+   "answer": "마트에서 세일을 했어요.",
+   "explain": "마트에서 세일을 했어요 → đúng. Sai: đi cùng bạn (친구하고) chứ không một mình; tôi mua bánh kẹo và đồ uống, bạn mới mua áo phông."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu thích hợp điền vào chỗ trống. (Dạng TOPIK – suy luận)",
+   "kr": "이 카메라는 디자인이 예뻐요. 그리고 오늘 세일을 해요. ( ___ )",
+   "options": [
+    "저는 이 카메라를 사겠어요.",
+    "저는 카메라를 안 좋아해요.",
+    "이 카메라는 디자인이 나빠요.",
+    "어제 카메라를 팔았어요."
+   ],
+   "answer": "저는 이 카메라를 사겠어요.",
+   "explain": "Thiết kế đẹp và đang giảm giá → quyết định mua: 사겠어요 (ý định). Các câu khác mâu thuẫn với nội dung."
+  }
+ ],
+ "practice": {
+  "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+  "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+ }
+}
