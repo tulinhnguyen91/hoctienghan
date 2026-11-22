@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "lessons": [
   {
    "id": "bai-1",
@@ -71,6 +71,15 @@
    "krTitle": "물건 사기",
    "date": "2026-11-22",
    "words": 30,
+   "exercises": 30
+  },
+  {
+   "id": "bai-9",
+   "lesson": "Bài 9",
+   "title": "Ẩm thực",
+   "krTitle": "음식",
+   "date": "2026-11-23",
+   "words": 57,
    "exercises": 30
   }
  ]

@@ -1,0 +1,793 @@
+{
+ "id": "bai-9",
+ "lesson": "Bài 9",
+ "title": "Ẩm thực",
+ "krTitle": "음식",
+ "date": "2026-11-23",
+ "day": 5,
+ "source": "TOPIK 1 – Bài 8: Ẩm thực",
+ "words": [
+  [
+   "음식",
+   "Eumsik",
+   "Thức ăn",
+   "저는 한국 음식을 좋아해요.",
+   "Tôi thích món ăn Hàn Quốc."
+  ],
+  [
+   "국",
+   "Guk",
+   "Canh",
+   "저는 아침에 국하고 밥을 먹어요.",
+   "Buổi sáng tôi ăn canh và cơm."
+  ],
+  [
+   "김치",
+   "Gimchi",
+   "Kimchi",
+   "이 김치는 맵지 않아요.",
+   "Kimchi này không cay."
+  ],
+  [
+   "된장찌개",
+   "Doenjangjjigae",
+   "Canh tương đậu",
+   "점심에 된장찌개를 먹었어요.",
+   "Buổi trưa tôi đã ăn canh tương đậu."
+  ],
+  [
+   "냉면",
+   "Naengmyeon",
+   "Mì lạnh",
+   "여름에는 냉면을 먹고 싶어요.",
+   "Mùa hè tôi muốn ăn mì lạnh."
+  ],
+  [
+   "삼겹살",
+   "Samgyeopsal",
+   "Thịt ba chỉ nướng",
+   "저녁에 삼겹살을 먹읍시다.",
+   "Buổi tối chúng ta cùng ăn thịt ba chỉ nướng nhé."
+  ],
+  [
+   "김치찌개",
+   "Gimchijjigae",
+   "Canh kimchi",
+   "김치찌개 하나 주세요.",
+   "Cho tôi một phần canh kimchi."
+  ],
+  [
+   "갈비탕",
+   "Galbitang",
+   "Canh sườn bò",
+   "갈비탕은 맵지 않아요.",
+   "Canh sườn bò thì không cay."
+  ],
+  [
+   "삼계탕",
+   "Samgyetang",
+   "Gà tần sâm",
+   "삼계탕이 정말 맛있어요.",
+   "Gà tần sâm thật ngon."
+  ],
+  [
+   "볶음밥",
+   "Bokkeumbap",
+   "Cơm rang",
+   "저는 볶음밥을 먹겠어요.",
+   "Tôi sẽ ăn cơm rang."
+  ],
+  [
+   "국수",
+   "Guksu",
+   "Mì, bún",
+   "친구가 국수를 만들었어요.",
+   "Bạn tôi đã làm mì."
+  ],
+  [
+   "맛있다",
+   "Masitda",
+   "Ngon",
+   "이 식당 음식은 다 맛있어요.",
+   "Món ăn của quán này đều ngon."
+  ],
+  [
+   "맛없다",
+   "Maseopda",
+   "Không ngon",
+   "그 라면은 맛없어요.",
+   "Mì gói đó không ngon."
+  ],
+  [
+   "달다",
+   "Dalda",
+   "Ngọt",
+   "이 케이크는 너무 달아요.",
+   "Bánh kem này ngọt quá."
+  ],
+  [
+   "쓰다",
+   "Sseuda",
+   "Đắng",
+   "커피가 좀 써요.",
+   "Cà phê hơi đắng."
+  ],
+  [
+   "짜다",
+   "Jjada",
+   "Mặn",
+   "이 김치찌개는 너무 짜요.",
+   "Canh kimchi này mặn quá."
+  ],
+  [
+   "시다",
+   "Sida",
+   "Chua",
+   "레몬이 아주 셔요.",
+   "Chanh rất chua."
+  ],
+  [
+   "맵다",
+   "Maepda",
+   "Cay",
+   "고추가 정말 매워요.",
+   "Ớt thật cay."
+  ],
+  [
+   "싱겁다",
+   "Singgeopda",
+   "Nhạt",
+   "된장찌개가 좀 싱거워요.",
+   "Canh tương đậu hơi nhạt."
+  ],
+  [
+   "숟가락",
+   "Sutgarak",
+   "Thìa",
+   "숟가락 하나 더 주세요.",
+   "Cho tôi thêm một cái thìa."
+  ],
+  [
+   "젓가락",
+   "Jeotgarak",
+   "Đũa",
+   "젓가락이 없어요. 젓가락 좀 주세요.",
+   "Không có đũa. Cho tôi xin đôi đũa."
+  ],
+  [
+   "메뉴",
+   "Menyu",
+   "Thực đơn",
+   "메뉴 좀 주세요.",
+   "Cho tôi xem thực đơn."
+  ],
+  [
+   "컵",
+   "Keop",
+   "Cốc, ly",
+   "컵에 물이 없어요.",
+   "Trong cốc không có nước."
+  ],
+  [
+   "테이블",
+   "Teibeul",
+   "Bàn ăn",
+   "저 테이블에 앉으세요.",
+   "Mời ngồi ở bàn kia."
+  ],
+  [
+   "종업원",
+   "Jongeobwon",
+   "Nhân viên phục vụ",
+   "종업원이 메뉴를 줬어요.",
+   "Nhân viên phục vụ đã đưa thực đơn."
+  ],
+  [
+   "흡연석",
+   "Heubyeonseok",
+   "Chỗ được hút thuốc",
+   "흡연석은 2층에 있어요.",
+   "Chỗ được hút thuốc ở tầng 2."
+  ],
+  [
+   "금연석",
+   "Geumyeonseok",
+   "Chỗ cấm hút thuốc",
+   "금연석으로 주세요.",
+   "Cho tôi chỗ cấm hút thuốc."
+  ],
+  [
+   "영수증",
+   "Yeongsujeung",
+   "Hóa đơn",
+   "영수증 주세요.",
+   "Cho tôi hóa đơn."
+  ],
+  [
+   "주문하다",
+   "Jumunhada",
+   "Gọi món",
+   "비빔밥을 주문했어요.",
+   "Tôi đã gọi cơm trộn."
+  ],
+  [
+   "계산하다",
+   "Gyesanhada",
+   "Tính tiền",
+   "여기서 계산하세요.",
+   "Xin hãy tính tiền ở đây."
+  ],
+  [
+   "계산서",
+   "Gyesanseo",
+   "Phiếu tính tiền",
+   "계산서 좀 주세요.",
+   "Cho tôi phiếu tính tiền."
+  ],
+  [
+   "가지",
+   "Gaji",
+   "Cà tím",
+   "저는 가지를 안 먹어요.",
+   "Tôi không ăn cà tím."
+  ],
+  [
+   "잠깐만",
+   "Jamkkanman",
+   "Chờ một lát",
+   "잠깐만 기다리세요.",
+   "Xin chờ một lát."
+  ],
+  [
+   "고추",
+   "Gochu",
+   "Ớt",
+   "이 고추는 맵지 않아요.",
+   "Quả ớt này không cay."
+  ],
+  [
+   "보통",
+   "Botong",
+   "Bình thường, thông thường",
+   "저는 보통 아침에 빵을 먹어요.",
+   "Tôi thường ăn bánh mì vào buổi sáng."
+  ],
+  [
+   "그래서",
+   "Geuraeseo",
+   "Vì vậy",
+   "배가 고파요. 그래서 라면을 먹었어요.",
+   "Tôi đói bụng. Vì vậy tôi đã ăn mì gói."
+  ],
+  [
+   "기다리다",
+   "Gidarida",
+   "Chờ đợi",
+   "식당 앞에서 친구를 기다려요.",
+   "Tôi đợi bạn trước nhà hàng."
+  ],
+  [
+   "소금",
+   "Sogeum",
+   "Muối",
+   "소금 좀 주세요.",
+   "Cho tôi chút muối."
+  ],
+  [
+   "좀",
+   "Jom",
+   "Một chút",
+   "국이 좀 짜요.",
+   "Canh hơi mặn một chút."
+  ],
+  [
+   "남편",
+   "Nampyeon",
+   "Chồng",
+   "남편은 삼겹살을 좋아해요.",
+   "Chồng tôi thích thịt ba chỉ nướng."
+  ],
+  [
+   "주다",
+   "Juda",
+   "Cho",
+   "커피 한 잔 주세요.",
+   "Cho tôi một ly cà phê."
+  ],
+  [
+   "녹차",
+   "Nokcha",
+   "Trà xanh",
+   "저는 녹차를 마시고 싶어요.",
+   "Tôi muốn uống trà xanh."
+  ],
+  [
+   "앉다",
+   "Anda",
+   "Ngồi",
+   "여기에 앉으세요.",
+   "Mời ngồi đây."
+  ],
+  [
+   "더",
+   "Deo",
+   "Thêm, nữa",
+   "밥 더 주세요.",
+   "Cho tôi thêm cơm."
+  ],
+  [
+   "어서",
+   "Eoseo",
+   "Nhanh lên, mời (vào)",
+   "어서 오세요!",
+   "Xin mời vào!"
+  ],
+  [
+   "드시다",
+   "Deusida",
+   "Dùng bữa (kính ngữ)",
+   "맛있게 드세요.",
+   "Chúc ăn ngon miệng (mời dùng bữa)."
+  ],
+  [
+   "레몬",
+   "Remon",
+   "Chanh",
+   "레몬 주스를 마셨어요.",
+   "Tôi đã uống nước chanh."
+  ],
+  [
+   "만들다",
+   "Mandeulda",
+   "Làm, tạo ra",
+   "저는 주말에 김밥을 만들어요.",
+   "Cuối tuần tôi làm cơm cuộn."
+  ],
+  [
+   "케이크",
+   "Keikeu",
+   "Bánh kem",
+   "생일 파티에서 케이크를 먹었어요.",
+   "Tôi đã ăn bánh kem ở tiệc sinh nhật."
+  ],
+  [
+   "맛있게",
+   "Masitge",
+   "Một cách ngon lành",
+   "맛있게 먹었습니다.",
+   "Tôi đã ăn rất ngon (lời cảm ơn sau bữa ăn)."
+  ],
+  [
+   "콜라",
+   "Kolra",
+   "Coca-cola",
+   "콜라 한 병 주세요.",
+   "Cho tôi một chai coca."
+  ],
+  [
+   "물",
+   "Mul",
+   "Nước",
+   "물이 어디에 있어요?",
+   "Nước ở đâu ạ?"
+  ],
+  [
+   "인삼차",
+   "Insamcha",
+   "Trà sâm",
+   "인삼차는 좀 써요.",
+   "Trà sâm hơi đắng."
+  ],
+  [
+   "특히",
+   "Teukhi",
+   "Đặc biệt",
+   "저는 한국 음식, 특히 비빔밥을 좋아해요.",
+   "Tôi thích món Hàn, đặc biệt là cơm trộn."
+  ],
+  [
+   "반찬",
+   "Banchan",
+   "Món ăn kèm",
+   "한국 식당에는 반찬이 많아요.",
+   "Ở nhà hàng Hàn có nhiều món ăn kèm."
+  ],
+  [
+   "잔",
+   "Jan",
+   "Chén, ly",
+   "주스 두 잔 주세요.",
+   "Cho tôi hai ly nước hoa quả."
+  ],
+  [
+   "항상",
+   "Hangsang",
+   "Luôn luôn",
+   "저는 항상 아침을 먹어요.",
+   "Tôi luôn ăn sáng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 지 않다 — Không",
+   "meaning": "Phủ định động từ/tính từ, nghĩa giống 안 + V/A nhưng trang trọng hơn một chút, hay dùng trong văn viết. Gắn 지 않다 vào thân từ, KHÔNG phân biệt patchim: 먹다 → 먹지 않아요, 가다 → 가지 않아요, 맵다 → 맵지 않아요, 짜다 → 짜지 않아요. Quá khứ: 지 않았어요 (먹지 않았어요). Trang trọng: 지 않습니다. So sánh: 안 đứng TRƯỚC từ (안 먹어요), 지 않다 đứng SAU (먹지 않아요); với N하다 thì 안 chen giữa (공부 안 해요) còn 지 않다 gắn cuối (공부하지 않아요). Lưu ý: 있다 → dùng 없다, 맛있다 → thường dùng 맛없다, N이다 → N이/가 아니다. Hay nhầm: viết 않아요 thành 안아요.",
+   "examples": [
+    "이 김치는 맵지 않아요. — Kimchi này không cay.",
+    "오늘은 바쁘지 않아요. — Hôm nay không bận.",
+    "어제 커피를 마시지 않았어요. — Hôm qua tôi đã không uống cà phê.",
+    "저는 가지를 먹지 않습니다. — Tôi không ăn cà tím."
+   ]
+  },
+  {
+   "form": "V + (으)세요 — Hãy, xin mời",
+   "meaning": "Đuôi câu lịch sự để yêu cầu, đề nghị, mời ai làm gì (lịch sự hơn mệnh lệnh). Thân có patchim → 으세요 (앉다 → 앉으세요, 읽다 → 읽으세요); thân kết thúc nguyên âm → 세요 (가다 → 가세요, 주다 → 주세요, 기다리다 → 기다리세요, 계산하다 → 계산하세요). Từ đặc biệt: 먹다/마시다 → 드세요 (từ 드시다), 있다 → 계세요. Thân có patchim ㄹ: ㄹ rơi rồi + 세요 (만들다 → 만드세요) — sẽ học kỹ ở bài Giản lược ㄹ. Mẫu quen thuộc trong nhà hàng: 어서 오세요, 앉으세요, 주세요, 잠깐만 기다리세요, 맛있게 드세요. Hay nhầm: 앉세요, 기다리으세요 — sai.",
+   "examples": [
+    "여기에 앉으세요. — Mời ngồi đây.",
+    "잠깐만 기다리세요. — Xin chờ một lát.",
+    "맛있게 드세요. — Chúc ăn ngon miệng.",
+    "물 좀 주세요. — Cho tôi chút nước."
+   ]
+  },
+  {
+   "form": "N + (으)로 — Tới, đến (phương hướng)",
+   "meaning": "Gắn sau danh từ chỉ nơi chốn/phía để chỉ HƯỚNG di chuyển, đi với 가다, 오다, 출발하다... Danh từ có patchim → 으로 (식당으로, 공항으로, 이쪽으로); danh từ kết thúc nguyên âm → 로 (학교로, 회사로, 마트로). ĐẶC BIỆT: patchim ㄹ → chỉ thêm 로 (서울로, 교실로). So với 에: N에 가다 nhấn vào ĐÍCH đến, N(으)로 가다 nhấn vào HƯỚNG đi; nhiều câu dùng được cả hai (식당에 가요 / 식당으로 가요), nhưng 이쪽, 저쪽 (phía) thường dùng (으)로. Hay nhầm: 서울으로 — sai.",
+   "examples": [
+    "이쪽으로 오세요. — Mời đi lối này.",
+    "식당으로 갑시다. — Chúng ta cùng đi đến nhà hàng nhé.",
+    "내일 고향으로 출발해요. — Ngày mai tôi xuất phát về quê.",
+    "서울로 가고 싶어요. — Tôi muốn đi đến Seoul."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: Kimchi không cay.",
+   "kr": "김치가 ___.",
+   "options": [
+    "맵지 않아요",
+    "맵지 안아요",
+    "맵지 없어요",
+    "안 맵지요"
+   ],
+   "answer": "맵지 않아요",
+   "explain": "Thân 맵 + 지 않아요. Viết là 않아요 (có ㅎ), không phải 안아요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mời ngồi đây.",
+   "kr": "여기에 ___.",
+   "options": [
+    "앉으세요",
+    "앉세요",
+    "앉아세요",
+    "앉으요"
+   ],
+   "answer": "앉으세요",
+   "explain": "앉다 có patchim (ㄵ) → + 으세요: 앉으세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Xin chờ một lát.",
+   "kr": "잠깐만 ___.",
+   "options": [
+    "기다리세요",
+    "기다리으세요",
+    "기다려세요",
+    "기다리어세요"
+   ],
+   "answer": "기다리세요",
+   "explain": "기다리다 kết thúc bằng nguyên âm → + 세요: 기다리세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Chúng ta cùng đi đến nhà hàng nhé.",
+   "kr": "식당___ 갑시다.",
+   "options": [
+    "으로",
+    "로",
+    "을",
+    "는"
+   ],
+   "answer": "으로",
+   "explain": "식당 có patchim ㅇ → 으로."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Hãy đi đến trường.",
+   "kr": "학교___ 가세요.",
+   "options": [
+    "로",
+    "으로",
+    "를",
+    "가"
+   ],
+   "answer": "로",
+   "explain": "학교 kết thúc bằng nguyên âm → 로."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Ngày mai tôi xuất phát đi Seoul.",
+   "kr": "내일 서울___ 출발해요.",
+   "options": [
+    "로",
+    "으로",
+    "을",
+    "이"
+   ],
+   "answer": "로",
+   "explain": "서울 có patchim ㄹ → đặc biệt chỉ thêm 로 (không dùng 으로)."
+  },
+  {
+   "type": "choice",
+   "q": "Câu mời ăn lịch sự nhất là:",
+   "kr": "맛있게 ___.",
+   "options": [
+    "드세요",
+    "먹으세요",
+    "드으세요",
+    "마셔세요"
+   ],
+   "answer": "드세요",
+   "explain": "Khi mời ăn/uống lịch sự dùng 드세요 (từ 드시다 – kính ngữ của 먹다/마시다)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng của 달다 (đuôi 아/어요): Bánh kem này ngọt quá.",
+   "kr": "이 케이크는 너무 ___.",
+   "options": [
+    "달아요",
+    "달어요",
+    "다라요",
+    "달요"
+   ],
+   "answer": "달아요",
+   "explain": "Nguyên âm của 달 là ㅏ → + 아요: 달아요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng của 쓰다 (đắng): Cà phê hơi đắng.",
+   "kr": "커피가 좀 ___.",
+   "options": [
+    "써요",
+    "쓰어요",
+    "싸요",
+    "쓰요"
+   ],
+   "answer": "써요",
+   "explain": "쓰다 một âm tiết, lược 으 + 어요 → 써요 (Giản lược 으 – bài 8)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hôm qua tôi đã không uống trà xanh.",
+   "kr": "어제 녹차를 마시___.",
+   "options": [
+    "지 않았어요",
+    "지 않아요",
+    "지 않겠어요",
+    "지 않으세요"
+   ],
+   "answer": "지 않았어요",
+   "explain": "Có 어제 (hôm qua) → quá khứ: 지 않았어요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 시다 với 지 않다 (đuôi 아요): Chanh này không chua.",
+   "kr": "이 레몬은 ___.",
+   "answer": [
+    "시지 않아요",
+    "시지 않습니다"
+   ],
+   "explain": "시 + 지 않아요 → 시지 않아요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 주다 với (으)세요: Cho tôi chút nước.",
+   "kr": "물 좀 ___.",
+   "answer": [
+    "주세요"
+   ],
+   "explain": "주다 kết thúc nguyên âm → 주세요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 읽다 với (으)세요: Xin hãy đọc thực đơn.",
+   "kr": "메뉴를 ___.",
+   "answer": [
+    "읽으세요"
+   ],
+   "explain": "읽다 có patchim → 읽으세요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ chỉ hướng: Mời đi lối này.",
+   "kr": "이쪽___ 오세요.",
+   "answer": [
+    "으로"
+   ],
+   "explain": "쪽 có patchim ㄱ → 으로: 이쪽으로."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 짜다 với 지 않다: Canh không mặn.",
+   "kr": "국이 ___.",
+   "answer": [
+    "짜지 않아요",
+    "짜지 않습니다"
+   ],
+   "explain": "짜 + 지 않아요 → 짜지 않아요 (= 안 짜요)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 계산하다 với (으)세요: Xin hãy tính tiền ở đây.",
+   "kr": "여기서 ___.",
+   "answer": [
+    "계산하세요"
+   ],
+   "explain": "계산하다 kết thúc nguyên âm 하 → 계산하세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cho tôi một phần canh kimchi.",
+   "tokens": [
+    "김치찌개",
+    "하나",
+    "주세요"
+   ],
+   "answer": "김치찌개 하나 주세요",
+   "explain": "Món + số lượng + 주세요 – cách gọi món thông dụng."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi không ăn cà tím.",
+   "tokens": [
+    "저는",
+    "가지를",
+    "먹지",
+    "않아요"
+   ],
+   "answer": "저는 가지를 먹지 않아요",
+   "explain": "Chủ ngữ + tân ngữ + V지 않아요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chúng ta hãy cùng đi đến nhà hàng.",
+   "tokens": [
+    "우리",
+    "식당으로",
+    "갑시다"
+   ],
+   "answer": "우리 식당으로 갑시다",
+   "explain": "Nơi chốn + (으)로 + V(으)ㅂ시다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Buổi sáng tôi thường ăn canh và cơm.",
+   "tokens": [
+    "저는",
+    "보통",
+    "아침에",
+    "국하고",
+    "밥을",
+    "먹어요"
+   ],
+   "answer": "저는 보통 아침에 국하고 밥을 먹어요",
+   "explain": "보통 (thường) đứng trước thời gian/động từ; N하고 N: và."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mời ngồi đây.",
+   "answer": [
+    "여기에 앉으세요",
+    "여기 앉으세요",
+    "이쪽에 앉으세요",
+    "이쪽으로 앉으세요"
+   ],
+   "explain": "앉다 + 으세요 → 앉으세요; 여기(에): ở đây."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Món ăn này không mặn.",
+   "answer": [
+    "이 음식은 짜지 않아요",
+    "이 음식이 짜지 않아요",
+    "이 음식은 안 짜요",
+    "이 음식이 안 짜요",
+    "이 음식은 짜지 않습니다",
+    "이 음식이 짜지 않습니다"
+   ],
+   "explain": "짜다 + 지 않아요, hoặc 안 짜요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cho tôi thêm nước.",
+   "answer": [
+    "물 더 주세요",
+    "물을 더 주세요",
+    "물 좀 더 주세요",
+    "물을 좀 더 주세요",
+    "물 좀 더 주시겠어요"
+   ],
+   "explain": "물 (을) + 더 + 주세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Xin hãy đi đến sân bay.",
+   "answer": [
+    "공항으로 가세요",
+    "공항에 가세요"
+   ],
+   "explain": "공항 có patchim → 공항으로; dùng 공항에 cũng đúng."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "인삼차는 좀 써요. 그래서 마시지 않아요.",
+   "answer": "Trà sâm hơi đắng. Vì vậy tôi không uống.",
+   "explain": "써요: đắng (쓰다); 그래서: vì vậy; 마시지 않아요: không uống."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "어서 오세요. 이쪽으로 앉으세요.",
+   "answer": "Xin mời vào. Mời ngồi phía này.",
+   "explain": "어서 오세요: mời vào; 이쪽으로: về phía này; 앉으세요: mời ngồi."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? Chọn đáp án đúng. (Dạng TOPIK câu 31~33)",
+   "kr": "김치찌개는 맵습니다. 냉면은 맵지 않습니다.",
+   "options": [
+    "음식",
+    "운동",
+    "주말",
+    "선물"
+   ],
+   "answer": "음식",
+   "explain": "김치찌개, 냉면 đều là món ăn → 음식."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ đúng điền vào ( ___ ). (Dạng TOPIK câu 34~39)",
+   "kr": "배가 고픕니다. 그래서 식당( ___ ) 갑니다.",
+   "options": [
+    "으로",
+    "로",
+    "를",
+    "은"
+   ],
+   "answer": "으로",
+   "explain": "식당 có patchim ㅇ → 으로 (chỉ hướng đi)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ đúng điền vào ( ___ ). (Dạng TOPIK câu 34~39)",
+   "kr": "식당에 갔습니다. 종업원이 ( ___ )를 주었습니다. 저는 비빔밥을 주문했습니다.",
+   "options": [
+    "메뉴",
+    "소금",
+    "영수증",
+    "숟가락"
+   ],
+   "answer": "메뉴",
+   "explain": "Vào quán, nhân viên đưa thực đơn rồi mới gọi món → 메뉴 (kết thúc nguyên âm nên đi với 를)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu đúng với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 한국 음식을 좋아합니다. 특히 삼계탕을 좋아합니다. 김치찌개는 너무 맵습니다. 그래서 김치찌개는 먹지 않습니다.",
+   "options": [
+    "저는 김치찌개를 좋아합니다.",
+    "김치찌개는 맵지 않습니다.",
+    "저는 삼계탕을 좋아합니다.",
+    "저는 한국 음식을 싫어합니다."
+   ],
+   "answer": "저는 삼계탕을 좋아합니다.",
+   "explain": "Câu 2: 특히 삼계탕을 좋아합니다 → đặc biệt thích gà tần sâm. Kimchi jjigae rất cay nên không ăn."
+  }
+ ],
+ "practice": {
+  "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
+  "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+ }
+}
