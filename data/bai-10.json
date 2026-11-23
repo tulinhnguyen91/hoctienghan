@@ -1,0 +1,821 @@
+{
+ "id": "bai-10",
+ "lesson": "Bài 10",
+ "title": "Nhà ở",
+ "krTitle": "집",
+ "date": "2026-11-24",
+ "day": 6,
+ "source": "TOPIK 1 – Bài 9: Nhà ở",
+ "words": [
+  [
+   "아래",
+   "Arae",
+   "Dưới",
+   "책상 아래에 가방이 있어요.",
+   "Cái cặp ở dưới bàn."
+  ],
+  [
+   "안",
+   "An",
+   "Trong",
+   "방 안에 고양이가 있어요.",
+   "Trong phòng có con mèo."
+  ],
+  [
+   "밖",
+   "Bak",
+   "Ngoài",
+   "친구가 밖에서 기다려요.",
+   "Bạn tôi đang chờ ở bên ngoài."
+  ],
+  [
+   "옆",
+   "Yeop",
+   "Bên cạnh",
+   "은행 옆에 빵집이 있어요.",
+   "Bên cạnh ngân hàng có tiệm bánh."
+  ],
+  [
+   "사이",
+   "Sai",
+   "Giữa",
+   "책장하고 침대 사이에 책상이 있어요.",
+   "Giữa tủ sách và giường có cái bàn học."
+  ],
+  [
+   "앞",
+   "Ap",
+   "Trước",
+   "우리 집 앞에 공원이 있어요.",
+   "Trước nhà tôi có công viên."
+  ],
+  [
+   "뒤",
+   "Dwi",
+   "Sau",
+   "우리 집 뒤에 산이 있어요.",
+   "Sau nhà tôi có núi."
+  ],
+  [
+   "왼쪽",
+   "Oenjjok",
+   "Bên trái",
+   "왼쪽으로 가세요.",
+   "Hãy đi về phía bên trái."
+  ],
+  [
+   "오른쪽",
+   "Oreunjjok",
+   "Bên phải",
+   "화장실은 오른쪽에 있어요.",
+   "Nhà vệ sinh ở bên phải."
+  ],
+  [
+   "양쪽",
+   "Yangjjok",
+   "Hai phía",
+   "길 양쪽에 나무가 있어요.",
+   "Hai bên đường có cây."
+  ],
+  [
+   "건너편/ 맞은편",
+   "Geonneopyeon/ majeunpyeon",
+   "Đối diện",
+   "우체국은 은행 건너편에 있어요.",
+   "Bưu điện ở đối diện ngân hàng."
+  ],
+  [
+   "똑바로/쭉",
+   "Ttokbaro/jjuk",
+   "Thẳng",
+   "쭉 가세요. 그리고 오른쪽으로 가세요.",
+   "Hãy đi thẳng. Rồi rẽ sang bên phải."
+  ],
+  [
+   "동",
+   "Dong",
+   "Đông",
+   "서울 동쪽에 산이 많아요.",
+   "Phía đông Seoul có nhiều núi."
+  ],
+  [
+   "서",
+   "Seo",
+   "Tây",
+   "우리 집은 서울 서쪽에 있어요.",
+   "Nhà tôi ở phía tây Seoul."
+  ],
+  [
+   "남",
+   "Nam",
+   "Nam",
+   "제주도는 한국 남쪽에 있어요.",
+   "Đảo Jeju ở phía nam Hàn Quốc."
+  ],
+  [
+   "북",
+   "Buk",
+   "Bắc",
+   "지하철역 북쪽에 박물관이 있어요.",
+   "Phía bắc ga tàu điện ngầm có bảo tàng."
+  ],
+  [
+   "주택",
+   "Jutaek",
+   "Nhà riêng",
+   "부모님은 주택에서 살아요.",
+   "Bố mẹ tôi sống ở nhà riêng."
+  ],
+  [
+   "아파트",
+   "Apateu",
+   "Chung cư",
+   "저는 아파트 10층에 살아요.",
+   "Tôi sống ở tầng 10 của chung cư."
+  ],
+  [
+   "안방",
+   "Anbang",
+   "Phòng ngủ chính",
+   "안방은 부모님 방이에요.",
+   "Phòng ngủ chính là phòng của bố mẹ."
+  ],
+  [
+   "공부방",
+   "Gongbubang",
+   "Phòng học",
+   "공부방에 책상하고 책장이 있어요.",
+   "Trong phòng học có bàn và tủ sách."
+  ],
+  [
+   "거실",
+   "Geosil",
+   "Phòng khách",
+   "저녁에 거실에서 텔레비전을 봐요.",
+   "Buổi tối tôi xem tivi ở phòng khách."
+  ],
+  [
+   "부엌",
+   "Bueok",
+   "Bếp",
+   "어머니가 부엌에서 요리해요.",
+   "Mẹ đang nấu ăn trong bếp."
+  ],
+  [
+   "현관",
+   "Hyeongwan",
+   "Lối vào, sảnh",
+   "현관에 신발장이 있어요.",
+   "Ở lối vào có tủ giày."
+  ],
+  [
+   "베란다",
+   "Beranda",
+   "Ban công",
+   "베란다에 꽃이 많아요.",
+   "Ngoài ban công có nhiều hoa."
+  ],
+  [
+   "오피스텔",
+   "Opiseutel",
+   "Căn hộ officetel",
+   "저는 오피스텔에서 혼자 살아요.",
+   "Tôi sống một mình ở căn officetel."
+  ],
+  [
+   "세탁실",
+   "Setaksil",
+   "Phòng giặt đồ",
+   "세탁실은 부엌 옆에 있어요.",
+   "Phòng giặt ở bên cạnh bếp."
+  ],
+  [
+   "침실",
+   "Chimsil",
+   "Phòng ngủ",
+   "침실에 침대가 두 개 있어요.",
+   "Trong phòng ngủ có hai cái giường."
+  ],
+  [
+   "침대",
+   "Chimdae",
+   "Giường",
+   "침대 위에 고양이가 있어요.",
+   "Con mèo ở trên giường."
+  ],
+  [
+   "책장",
+   "Chaekjang",
+   "Tủ sách",
+   "책장에 책이 많이 있어요.",
+   "Trên tủ sách có nhiều sách."
+  ],
+  [
+   "옷장",
+   "Otjang",
+   "Tủ quần áo",
+   "옷장 안에 옷이 많아요.",
+   "Trong tủ quần áo có nhiều quần áo."
+  ],
+  [
+   "소파",
+   "Sopa",
+   "Ghế sofa",
+   "소파에 앉으세요.",
+   "Mời ngồi lên ghế sofa."
+  ],
+  [
+   "탁자",
+   "Takja",
+   "Bàn",
+   "탁자 위에 컵이 세 개 있어요.",
+   "Trên bàn có ba cái cốc."
+  ],
+  [
+   "식탁",
+   "Siktak",
+   "Bàn ăn",
+   "가족하고 식탁에서 밥을 먹어요.",
+   "Tôi ăn cơm ở bàn ăn cùng gia đình."
+  ],
+  [
+   "화장대",
+   "Hwajangdae",
+   "Bàn trang điểm",
+   "화장대는 침실에 있어요.",
+   "Bàn trang điểm ở trong phòng ngủ."
+  ],
+  [
+   "신발장",
+   "Sinbaljang",
+   "Tủ giày",
+   "구두는 신발장 안에 있어요.",
+   "Giày da ở trong tủ giày."
+  ],
+  [
+   "장",
+   "Jang",
+   "Tủ (đồ)",
+   "부엌에 장이 하나 있어요.",
+   "Trong bếp có một cái tủ."
+  ],
+  [
+   "경찰서",
+   "Gyeongchalseo",
+   "Sở cảnh sát",
+   "경찰서가 어디에 있어요?",
+   "Sở cảnh sát ở đâu vậy?"
+  ],
+  [
+   "세탁소",
+   "Setakso",
+   "Tiệm giặt ủi",
+   "세탁소는 아파트 1층에 있어요.",
+   "Tiệm giặt ủi ở tầng 1 chung cư."
+  ],
+  [
+   "박물관",
+   "Bangmulgwan",
+   "Viện bảo tàng",
+   "주말에 같이 박물관에 갈래요?",
+   "Cuối tuần cùng đi bảo tàng nhé?"
+  ],
+  [
+   "슈퍼마켓",
+   "Syupeomaket",
+   "Siêu thị",
+   "슈퍼마켓에서 과일을 샀어요.",
+   "Tôi đã mua hoa quả ở siêu thị."
+  ],
+  [
+   "지하철역",
+   "Jihacheollyeok",
+   "Ga tàu điện ngầm",
+   "지하철역이 어디에 있어요?",
+   "Ga tàu điện ngầm ở đâu vậy?"
+  ],
+  [
+   "버스 정류장",
+   "Beoseu jeongnyujang",
+   "Trạm xe buýt",
+   "버스 정류장은 학교 앞에 있어요.",
+   "Trạm xe buýt ở trước trường."
+  ],
+  [
+   "빵집",
+   "Ppangjip",
+   "Tiệm bánh",
+   "빵집에서 빵을 두 개 샀어요.",
+   "Tôi đã mua hai cái bánh mì ở tiệm bánh."
+  ],
+  [
+   "꽃집",
+   "Kkotjip",
+   "Tiệm hoa",
+   "꽃집 옆에 미용실이 있어요.",
+   "Bên cạnh tiệm hoa có tiệm làm tóc."
+  ],
+  [
+   "미용실",
+   "Miyongsil",
+   "Tiệm làm tóc",
+   "주말에 미용실에 가고 싶어요.",
+   "Cuối tuần tôi muốn đi tiệm làm tóc."
+  ],
+  [
+   "기숙사",
+   "Gisuksa",
+   "Ký túc xá",
+   "저는 학교 기숙사에서 살아요.",
+   "Tôi sống ở ký túc xá của trường."
+  ],
+  [
+   "편리하다",
+   "Pyeollihada",
+   "Tiện lợi",
+   "이 아파트는 지하철역 앞에 있어요. 그래서 편리해요.",
+   "Căn hộ này ở trước ga tàu điện ngầm. Vì vậy rất tiện lợi."
+  ],
+  [
+   "단독주택",
+   "Dandokjutaek",
+   "Nhà đơn lập",
+   "우리 집은 단독주택이에요.",
+   "Nhà tôi là nhà đơn lập."
+  ],
+  [
+   "자취 집",
+   "Jachwi jip",
+   "Nhà thuê ở một mình",
+   "제 자취 집은 작아요.",
+   "Nhà thuê ở một mình của tôi nhỏ."
+  ],
+  [
+   "편하다",
+   "Pyeonhada",
+   "Thoải mái",
+   "이 소파는 정말 편해요.",
+   "Ghế sofa này thật thoải mái."
+  ],
+  [
+   "복잡하다",
+   "Bokjaphada",
+   "Phức tạp, đông đúc",
+   "아침에 지하철역은 복잡해요.",
+   "Buổi sáng ga tàu điện ngầm đông đúc."
+  ],
+  [
+   "지내다",
+   "Jinaeda",
+   "Sống, trải qua",
+   "요즘 어떻게 지내요?",
+   "Dạo này bạn sống thế nào?"
+  ],
+  [
+   "하숙집",
+   "Hasukjip",
+   "Nhà trọ (có nấu ăn)",
+   "저는 하숙집에서 지내요.",
+   "Tôi sống ở nhà trọ."
+  ],
+  [
+   "지하",
+   "Jiha",
+   "Tầng hầm",
+   "슈퍼마켓은 지하 1층에 있어요.",
+   "Siêu thị ở tầng hầm 1."
+  ],
+  [
+   "사용하다",
+   "Sayonghada",
+   "Sử dụng",
+   "친구하고 부엌을 같이 사용해요.",
+   "Tôi dùng chung bếp với bạn."
+  ],
+  [
+   "친절하다",
+   "Chinjeolhada",
+   "Thân thiện, tử tế",
+   "하숙집 주인이 친절해요.",
+   "Chủ nhà trọ rất tử tế."
+  ],
+  [
+   "혼자",
+   "Honja",
+   "Một mình",
+   "저는 서울에서 혼자 살아요.",
+   "Tôi sống một mình ở Seoul."
+  ],
+  [
+   "정원",
+   "Jeongwon",
+   "Vườn",
+   "우리 집 정원에 나무가 많아요.",
+   "Trong vườn nhà tôi có nhiều cây."
+  ],
+  [
+   "하숙비",
+   "Hasukbi",
+   "Tiền nhà trọ",
+   "하숙비는 한 달에 오십만 원이에요.",
+   "Tiền nhà trọ là 500.000 won một tháng."
+  ],
+  [
+   "불편하다",
+   "Bulpyeonhada",
+   "Bất tiện",
+   "기숙사는 좀 불편해요.",
+   "Ký túc xá hơi bất tiện."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄹ래요 — Nhé, chứ",
+   "meaning": "Dùng trong văn nói thân mật lịch sự. Câu HỎI: hỏi ý muốn/rủ người nghe (nhé? không?) – nhẹ nhàng hơn (으)ㅂ시다 vì hỏi ý kiến người nghe. Câu TRẦN THUẬT: nói ý định của chính mình (tôi sẽ…/tôi muốn…). Cách chia: thân có patchim → 을래요 (먹다 → 먹을래요, 앉다 → 앉을래요, 읽다 → 읽을래요); không patchim → ㄹ래요 (가다 → 갈래요, 보다 → 볼래요, 마시다 → 마실래요); patchim ㄹ → chỉ thêm 래요 (살다 → 살래요, 만들다 → 만들래요, KHÔNG phải 살을래요). Lưu ý: chỉ dùng cho NGÔI 1 (trần thuật) và NGÔI 2 (câu hỏi), không dùng cho người thứ ba (친구가 갈래요 ✗); không dùng với tính từ. Hỏi bằng (으)ㄹ래요? thì thường trả lời bằng (으)ㄹ래요.",
+   "examples": [
+    "같이 박물관에 갈래요? — Cùng đi bảo tàng nhé?",
+    "커피 마실래요? 녹차 마실래요? — Bạn uống cà phê hay trà xanh?",
+    "저는 비빔밥 먹을래요. — Tôi ăn cơm trộn.",
+    "저는 오늘 집에 있을래요. — Hôm nay tôi ở nhà."
+   ]
+  },
+  {
+   "form": "N + 도 — Cũng",
+   "meaning": "Gắn sau danh từ, nghĩa là “cũng”. Không phân biệt patchim (저도, 집도, 책상도). 도 THAY THẾ cho 이/가, 은/는, 을/를: 저는 → 저도 (không nói 저는도), 사과를 → 사과도 (không nói 사과를도). Với các tiểu từ khác như 에, 에서, 하고 thì 도 gắn SAU: 침실에도, 집에서도, 친구하고도. Lưu ý hay nhầm: 에도 (cũng ở…) với 있다, còn 에서도 (cũng làm ở…) với động từ hành động.",
+   "examples": [
+    "저도 학생이에요. — Tôi cũng là học sinh.",
+    "거실에 소파가 있어요. 침실에도 소파가 있어요. — Phòng khách có sofa. Phòng ngủ cũng có sofa.",
+    "사과를 샀어요. 수박도 샀어요. — Tôi đã mua táo. Tôi cũng mua dưa hấu.",
+    "학교에서 공부해요. 집에서도 공부해요. — Tôi học ở trường. Ở nhà cũng học."
+   ]
+  },
+  {
+   "form": "수 관형사 (2) — Định từ số (2)",
+   "meaning": "Ôn và mở rộng cách dùng số trước danh từ đơn vị. (1) Số THUẦN HÀN (한/두/세/네/다섯…/스무) dùng để ĐẾM: 개, 명, 마리, 잔, 권, 장, 대, 시, 살 → 방 두 개, 의자 네 개, 학생 세 명. (2) Số HÁN HÀN (일/이/삼…) dùng cho số hiệu, tầng, số phòng, tiền, năm/tháng/ngày, phút: 층, 호, 원, 년, 월, 일, 분 → 오 층 (5층), 삼백오 호 (305호), 오십만 원. (3) Thứ tự: 첫 번째 (thứ nhất – không nói 한 번째), 두 번째, 세 번째, 네 번째… (4) Hỏi số lượng: 몇 + đơn vị → 몇 개? 몇 층? 몇 호? Hay nhầm: 다섯 층 ✗ → 오 층 ✓; 이 개 ✗ → 두 개 ✓.",
+   "examples": [
+    "침실에 침대가 두 개 있어요. — Phòng ngủ có hai cái giường.",
+    "제 방은 삼 층 삼백오 호예요. — Phòng tôi là phòng 305 ở tầng 3.",
+    "오른쪽 세 번째 집이 우리 집이에요. — Ngôi nhà thứ ba bên phải là nhà tôi.",
+    "몇 층에 살아요? — Bạn sống ở tầng mấy?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Cùng xem phim nhé?",
+   "kr": "같이 영화를 ___?",
+   "options": [
+    "볼래요",
+    "보을래요",
+    "보래요"
+   ],
+   "answer": "볼래요",
+   "explain": "보다 không có patchim → ㄹ래요: 볼래요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi sẽ sống ở ký túc xá.",
+   "kr": "저는 기숙사에서 ___.",
+   "options": [
+    "살래요",
+    "살을래요",
+    "사을래요"
+   ],
+   "answer": "살래요",
+   "explain": "살다 có patchim ㄹ → chỉ thêm 래요: 살래요 (không thêm 을)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu SAI ngữ pháp.",
+   "kr": "",
+   "options": [
+    "저는 집에 있을래요.",
+    "같이 갈래요?",
+    "친구가 갈래요.",
+    "뭐 마실래요?"
+   ],
+   "answer": "친구가 갈래요.",
+   "explain": "(으)ㄹ래요 chỉ dùng cho ngôi 1 (trần thuật) và ngôi 2 (câu hỏi), không dùng cho người thứ ba như 친구."
+  },
+  {
+   "type": "choice",
+   "q": "Điền tiểu từ: Tôi là học sinh. Bạn tôi cũng là học sinh.",
+   "kr": "저는 학생이에요. 제 친구___ 학생이에요.",
+   "options": [
+    "도",
+    "는도",
+    "가도",
+    "을"
+   ],
+   "answer": "도",
+   "explain": "도 thay thế hẳn 이/가, 은/는 → 친구도. Không ghép 는도, 가도."
+  },
+  {
+   "type": "choice",
+   "q": "Điền tiểu từ: Phòng khách có sofa. Phòng ngủ cũng có sofa.",
+   "kr": "거실에 소파가 있어요. 침실___ 소파가 있어요.",
+   "options": [
+    "에도",
+    "도에",
+    "에서도",
+    "을도"
+   ],
+   "answer": "에도",
+   "explain": "Chỉ vị trí với 있다 dùng 에, thêm 도 vào SAU: 에도. 에서 dùng với động từ hành động nên 에서도 sai ở đây."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: Phòng ngủ có hai cái giường.",
+   "kr": "침실에 침대가 ___ 있어요.",
+   "options": [
+    "두 개",
+    "둘 개",
+    "이 개",
+    "두 명"
+   ],
+   "answer": "두 개",
+   "explain": "Đếm đồ vật dùng số thuần Hàn + 개; 둘 → 두 khi đứng trước đơn vị. 명 dùng đếm người."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: Tôi sống ở tầng 5 chung cư.",
+   "kr": "저는 아파트 ___에 살아요.",
+   "options": [
+    "오 층",
+    "다섯 층",
+    "다섯째 층",
+    "오 번째"
+   ],
+   "answer": "오 층",
+   "explain": "층 (tầng) dùng số Hán Hàn: 오 층 (5층)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: Ngôi nhà thứ ba bên phải là nhà tôi.",
+   "kr": "오른쪽 ___ 집이 우리 집이에요.",
+   "options": [
+    "세 번째",
+    "셋 번째",
+    "삼 번째",
+    "세 번"
+   ],
+   "answer": "세 번째",
+   "explain": "Thứ tự: số thuần Hàn dạng định từ + 번째 → 세 번째. 세 번 là “ba lần”."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Tiệm bánh ở giữa tiệm hoa và tiệm làm tóc.",
+   "kr": "빵집은 꽃집하고 미용실 ___에 있어요.",
+   "options": [
+    "사이",
+    "옆",
+    "앞",
+    "밖"
+   ],
+   "answer": "사이",
+   "explain": "A하고 B 사이에: ở giữa A và B."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ hỏi đúng: Phòng bạn có mấy cái bàn?",
+   "kr": "방에 책상이 ___ 개 있어요?",
+   "options": [
+    "몇",
+    "무슨",
+    "어느",
+    "어떤"
+   ],
+   "answer": "몇",
+   "explain": "Hỏi số lượng: 몇 + đơn vị (몇 개)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 앉다 với (으)ㄹ래요: Bạn ngồi ở đây nhé?",
+   "kr": "여기에 ___?",
+   "answer": [
+    "앉을래요"
+   ],
+   "explain": "앉다 có patchim ㄴㅈ → 을래요: 앉을래요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 만들다 với (으)ㄹ래요: Cuối tuần tôi sẽ làm bánh kem.",
+   "kr": "주말에 케이크를 ___.",
+   "answer": [
+    "만들래요"
+   ],
+   "explain": "만들다 có patchim ㄹ → chỉ thêm 래요: 만들래요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ + 도: Tôi học ở trường. Ở nhà tôi cũng học.",
+   "kr": "학교에서 공부해요. 집___ 공부해요.",
+   "answer": [
+    "에서도"
+   ],
+   "explain": "Nơi diễn ra hành động 공부하다 dùng 에서; thêm 도 phía sau → 에서도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền số (định từ) cho số 4: Bên cạnh bàn có bốn cái ghế.",
+   "kr": "탁자 옆에 의자가 ___ 개 있어요.",
+   "answer": [
+    "네",
+    "4"
+   ],
+   "explain": "넷 → 네 khi đứng trước đơn vị: 네 개."
+  },
+  {
+   "type": "fill",
+   "q": "Viết số phòng 305 bằng chữ Hán Hàn: Phòng tôi là phòng 305.",
+   "kr": "제 방은 ___ 호예요.",
+   "answer": [
+    "삼백오",
+    "305"
+   ],
+   "explain": "Số phòng dùng số Hán Hàn: 305 = 삼백오 → 삼백오 호."
+  },
+  {
+   "type": "fill",
+   "q": "Viết dạng phủ định của 편하다 (đuôi 아/어요 hoặc 습니다): Ký túc xá không thoải mái.",
+   "kr": "기숙사는 ___.",
+   "answer": [
+    "편하지 않아요",
+    "안 편해요",
+    "편하지 않습니다",
+    "안 편합니다"
+   ],
+   "explain": "Có hai cách phủ định: 편하지 않아요 hoặc 안 편해요 (ôn 지 않다 và 안)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhà vệ sinh ở bên phải bếp.",
+   "tokens": [
+    "화장실은",
+    "부엌",
+    "오른쪽에",
+    "있어요"
+   ],
+   "answer": "화장실은 부엌 오른쪽에 있어요",
+   "explain": "N + vị trí (오른쪽) + 에 있어요: ở bên phải N."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cuối tuần đi bảo tàng cùng nhé?",
+   "tokens": [
+    "주말에",
+    "같이",
+    "박물관에",
+    "갈래요?"
+   ],
+   "answer": "주말에 같이 박물관에 갈래요?",
+   "explain": "Thời gian + 같이 + nơi chốn 에 + 갈래요?: rủ người nghe."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi cũng sống một mình.",
+   "tokens": [
+    "저도",
+    "혼자",
+    "살아요"
+   ],
+   "answer": "저도 혼자 살아요",
+   "explain": "저 + 도 → 저도 (không còn 는)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phòng khách có hai cái sofa.",
+   "tokens": [
+    "거실에",
+    "소파가",
+    "두",
+    "개",
+    "있어요"
+   ],
+   "answer": "거실에 소파가 두 개 있어요",
+   "explain": "N에 + vật이/가 + số + đơn vị + 있어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ga tàu điện ngầm ở đâu?",
+   "answer": [
+    "지하철역이 어디에 있어요?",
+    "지하철역은 어디에 있어요?",
+    "지하철역이 어디예요?",
+    "지하철역은 어디예요?",
+    "지하철역이 어디에 있습니까?",
+    "지하철역은 어디에 있습니까?",
+    "지하철역은 어디입니까?"
+   ],
+   "explain": "N이/가 어디에 있어요? hoặc N은/는 어디예요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi cũng thích căn hộ này.",
+   "answer": [
+    "저도 이 아파트를 좋아해요",
+    "저도 이 아파트가 좋아요",
+    "나도 이 아파트를 좋아해요",
+    "나도 이 아파트가 좋아요",
+    "저도 이 아파트를 좋아합니다",
+    "저도 이 아파트가 좋습니다"
+   ],
+   "explain": "저는 → 저도; 이 아파트를 좋아해요 / 이 아파트가 좋아요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn uống trà xanh nhé? (dùng (으)ㄹ래요)",
+   "answer": [
+    "녹차 마실래요?",
+    "녹차를 마실래요?",
+    "녹차 마실래요",
+    "녹차를 마실래요"
+   ],
+   "explain": "마시다 không patchim → 마실래요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tiệm hoa ở đối diện tiệm bánh.",
+   "answer": [
+    "꽃집은 빵집 건너편에 있어요",
+    "꽃집은 빵집 맞은편에 있어요",
+    "꽃집이 빵집 건너편에 있어요",
+    "꽃집이 빵집 맞은편에 있어요",
+    "꽃집은 빵집 건너편에 있습니다",
+    "꽃집은 빵집 맞은편에 있습니다"
+   ],
+   "explain": "A은/는 B 건너편(맞은편)에 있어요: A ở đối diện B."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "기숙사는 학교 안에 있어요. 그래서 편리해요.",
+   "answer": "Ký túc xá ở trong trường. Vì vậy rất tiện lợi.",
+   "explain": "안에 있어요: ở trong; 그래서: vì vậy; 편리해요: tiện lợi."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저는 오피스텔 칠 층에 혼자 살아요. 부엌도 있어요.",
+   "answer": "Tôi sống một mình ở tầng 7 căn officetel. Cũng có cả bếp.",
+   "explain": "칠 층: tầng 7 (số Hán Hàn); 혼자: một mình; 부엌도: bếp cũng (có)."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? Chọn đáp án đúng. (Dạng TOPIK câu 31~33)",
+   "kr": "거실에 소파가 있어요. 부엌에 식탁이 있어요.",
+   "options": [
+    "집",
+    "날씨",
+    "음식",
+    "가족"
+   ],
+   "answer": "집",
+   "explain": "거실, 소파, 부엌, 식탁 đều là phòng/đồ trong nhà → 집."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ đúng điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "저는 학교 기숙사에서 살아요. 기숙사는 학교 ( ___ ) 있어요. 그래서 학교에 일찍 가요.",
+   "options": [
+    "안에",
+    "밖에서",
+    "위를",
+    "에서"
+   ],
+   "answer": "안에",
+   "explain": "Vị trí + 있다 cần 에: 학교 안에 있어요. Ở gần trong trường nên đi học sớm được. 밖에서/위를/에서 sai tiểu từ."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu đúng với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "제 하숙집은 지하철역 앞에 있습니다. 그래서 편리합니다. 하숙비는 한 달에 오십만 원입니다. 하숙집 주인은 아주 친절합니다. 방에는 침대하고 책상이 있습니다. 옷장은 없습니다.",
+   "options": [
+    "하숙집은 지하철역 뒤에 있습니다.",
+    "하숙비는 한 달에 오십만 원입니다.",
+    "방에 옷장이 있습니다.",
+    "하숙집 주인은 친절하지 않습니다."
+   ],
+   "answer": "하숙비는 한 달에 오십만 원입니다.",
+   "explain": "Đoạn văn: nhà trọ ở TRƯỚC ga, tiền trọ 500.000 won/tháng, chủ nhà tử tế, phòng KHÔNG có tủ quần áo."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu đúng với nội dung hội thoại. (Dạng TOPIK – suy luận)",
+   "kr": "가: 주말에 같이 박물관에 갈래요?\n나: 네, 좋아요. 몇 시에 만날래요?\n가: 열 시에 지하철역 앞에서 만납시다.",
+   "options": [
+    "두 사람은 주말에 박물관에 갑니다.",
+    "두 사람은 박물관 안에서 만납니다.",
+    "두 사람은 열두 시에 만납니다.",
+    "나는 박물관에 가고 싶지 않습니다."
+   ],
+   "answer": "두 사람은 주말에 박물관에 갑니다.",
+   "explain": "Hai người hẹn cuối tuần đi bảo tàng, gặp lúc 10 giờ (열 시) ở TRƯỚC ga tàu điện ngầm; 나 đồng ý (좋아요)."
+  }
+ ],
+ "practice": {
+  "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+  "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+ }
+}
