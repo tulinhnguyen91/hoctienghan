@@ -1,0 +1,838 @@
+{
+ "id": "bai-11",
+ "lesson": "Bài 11",
+ "title": "Gia đình",
+ "krTitle": "가족",
+ "date": "2026-11-25",
+ "day": 7,
+ "source": "TOPIK 1 – Bài 10: Gia đình",
+ "practice": {
+  "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+  "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+ },
+ "words": [
+  [
+   "가족",
+   "Gajok",
+   "Gia đình",
+   "우리 가족은 네 명이에요.",
+   "Gia đình tôi có bốn người."
+  ],
+  [
+   "할아버지",
+   "Harabeoji",
+   "Ông nội",
+   "할아버지께서 공원에 가세요.",
+   "Ông nội đi công viên."
+  ],
+  [
+   "할머니",
+   "Halmeoni",
+   "Bà nội",
+   "할머니께서 김치를 만드세요.",
+   "Bà nội làm kimchi."
+  ],
+  [
+   "외할아버지",
+   "Oeharabeoji",
+   "Ông ngoại",
+   "외할아버지께서는 고향에 계세요.",
+   "Ông ngoại ở quê."
+  ],
+  [
+   "외할머니",
+   "Oehalmeoni",
+   "Bà ngoại",
+   "외할머니께서 불고기를 만드셨어요.",
+   "Bà ngoại đã làm món bulgogi."
+  ],
+  [
+   "아버지",
+   "Abeoji",
+   "Bố",
+   "아버지께서 회사에 출근하세요.",
+   "Bố đi làm ở công ty."
+  ],
+  [
+   "어머니",
+   "Eomeoni",
+   "Mẹ",
+   "어머니께서 부엌에서 요리하세요.",
+   "Mẹ nấu ăn trong bếp."
+  ],
+  [
+   "오빠",
+   "Oppa",
+   "Anh trai (em gái gọi)",
+   "오빠는 대학생이에요.",
+   "Anh trai tôi là sinh viên đại học."
+  ],
+  [
+   "언니",
+   "Eonni",
+   "Chị gái (em gái gọi)",
+   "언니하고 같이 마트에 가요.",
+   "Tôi đi siêu thị cùng chị gái."
+  ],
+  [
+   "나",
+   "Na",
+   "Tôi",
+   "나는 한국어를 배워요.",
+   "Tôi học tiếng Hàn."
+  ],
+  [
+   "남동생",
+   "Namdongsaeng",
+   "Em trai",
+   "남동생은 초등학생이에요.",
+   "Em trai tôi là học sinh tiểu học."
+  ],
+  [
+   "누나",
+   "Nuna",
+   "Chị gái (em trai gọi)",
+   "누나는 은행에서 일해요.",
+   "Chị gái (tôi) làm việc ở ngân hàng."
+  ],
+  [
+   "형",
+   "Hyeong",
+   "Anh trai (em trai gọi)",
+   "형은 축구를 좋아해요.",
+   "Anh trai tôi thích bóng đá."
+  ],
+  [
+   "여동생",
+   "Yeodongsaeng",
+   "Em gái",
+   "여동생은 고양이를 좋아해요.",
+   "Em gái tôi thích mèo."
+  ],
+  [
+   "교수",
+   "Gyosu",
+   "Giáo sư",
+   "우리 아버지는 대학교 교수세요.",
+   "Bố tôi là giáo sư đại học."
+  ],
+  [
+   "연구원",
+   "Yeonguwon",
+   "Nhà nghiên cứu",
+   "삼촌은 회사 연구원이에요.",
+   "Chú tôi là nhà nghiên cứu ở công ty."
+  ],
+  [
+   "군인",
+   "Gunin",
+   "Bộ đội",
+   "오빠는 군인이에요.",
+   "Anh trai tôi là bộ đội."
+  ],
+  [
+   "사업가",
+   "Saeopga",
+   "Doanh nhân",
+   "큰아버지께서는 사업가세요.",
+   "Bác trai là doanh nhân."
+  ],
+  [
+   "변호사",
+   "Byeonhosa",
+   "Luật sư",
+   "고모는 변호사세요.",
+   "Cô tôi là luật sư."
+  ],
+  [
+   "경찰관",
+   "Gyeongchalgwan",
+   "Cảnh sát",
+   "경찰관이 경찰서에서 일해요.",
+   "Cảnh sát làm việc ở sở cảnh sát."
+  ],
+  [
+   "통역사",
+   "Tongyeoksa",
+   "Thông dịch viên",
+   "저는 한국어 통역사가 되고 싶어요.",
+   "Tôi muốn trở thành thông dịch viên tiếng Hàn."
+  ],
+  [
+   "농부",
+   "Nongbu",
+   "Nông dân",
+   "외할아버지께서는 농부세요.",
+   "Ông ngoại là nông dân."
+  ],
+  [
+   "사업을 하다",
+   "Saeobeul hada",
+   "Kinh doanh",
+   "아버지께서 베트남에서 사업을 하세요.",
+   "Bố kinh doanh ở Việt Nam."
+  ],
+  [
+   "장사를 하다",
+   "Jangsareul hada",
+   "Buôn bán",
+   "어머니께서 시장에서 장사를 하세요.",
+   "Mẹ buôn bán ở chợ."
+  ],
+  [
+   "출장을 가다",
+   "Chuljangeul gada",
+   "Đi công tác",
+   "남편이 다음 주에 출장을 가요.",
+   "Tuần sau chồng tôi đi công tác."
+  ],
+  [
+   "농사를 짓다",
+   "Nongsareul jitda",
+   "Làm nông",
+   "할아버지께서 고향에서 농사를 지으세요.",
+   "Ông làm nông ở quê."
+  ],
+  [
+   "강아지",
+   "Gangaji",
+   "Chó con, cún con",
+   "우리 집에 강아지가 한 마리 있어요.",
+   "Nhà tôi có một con cún."
+  ],
+  [
+   "되다",
+   "Doeda",
+   "Trở thành",
+   "저는 의사가 되고 싶어요.",
+   "Tôi muốn trở thành bác sĩ."
+  ],
+  [
+   "연세",
+   "Yeonse",
+   "Tuổi (kính ngữ)",
+   "할머니, 연세가 어떻게 되세요?",
+   "Bà ơi, bà bao nhiêu tuổi ạ?"
+  ],
+  [
+   "결혼식",
+   "Gyeolhonsik",
+   "Lễ cưới",
+   "토요일에 언니 결혼식이 있어요.",
+   "Thứ bảy có lễ cưới của chị gái."
+  ],
+  [
+   "열심히",
+   "Yeolsimhi",
+   "Một cách chăm chỉ",
+   "동생은 열심히 공부해요.",
+   "Em tôi học hành chăm chỉ."
+  ],
+  [
+   "계시다",
+   "Gyesida",
+   "Có, ở (kính ngữ)",
+   "할머니께서 방에 계세요.",
+   "Bà đang ở trong phòng."
+  ],
+  [
+   "딸",
+   "Ttal",
+   "Con gái",
+   "우리 딸은 다섯 살이에요.",
+   "Con gái tôi năm tuổi."
+  ],
+  [
+   "올해",
+   "Olhae",
+   "Năm nay",
+   "저는 올해 스물다섯 살이에요.",
+   "Năm nay tôi hai mươi lăm tuổi."
+  ],
+  [
+   "고모",
+   "Gomo",
+   "Cô (chị em gái của bố)",
+   "고모께서 선물을 주셨어요.",
+   "Cô đã cho (tôi) quà."
+  ],
+  [
+   "말씀",
+   "Malsseum",
+   "Lời nói (kính ngữ)",
+   "할아버지 말씀은 항상 재미있어요.",
+   "Lời ông nói lúc nào cũng thú vị."
+  ],
+  [
+   "외동딸",
+   "Oedongttal",
+   "Con gái duy nhất",
+   "저는 외동딸이에요.",
+   "Tôi là con gái duy nhất."
+  ],
+  [
+   "고모부",
+   "Gomobu",
+   "Dượng (chồng của cô)",
+   "고모부께서는 경찰관이세요.",
+   "Dượng là cảnh sát."
+  ],
+  [
+   "말씀하시다",
+   "Malsseumhasida",
+   "Nói (kính ngữ)",
+   "선생님께서 천천히 말씀하세요.",
+   "Thầy giáo nói chậm rãi."
+  ],
+  [
+   "외아들",
+   "Oeadeul",
+   "Con trai duy nhất",
+   "제 친구는 외아들이에요.",
+   "Bạn tôi là con trai duy nhất."
+  ],
+  [
+   "분",
+   "Bun",
+   "Vị, người (kính ngữ)",
+   "저분은 제 고모세요.",
+   "Vị kia là cô của tôi."
+  ],
+  [
+   "유치원생",
+   "Yuchiwonsaeng",
+   "Trẻ mẫu giáo",
+   "제 딸은 유치원생이에요.",
+   "Con gái tôi là trẻ mẫu giáo."
+  ],
+  [
+   "사촌",
+   "Sachon",
+   "Anh chị em họ",
+   "주말에 사촌하고 같이 영화를 봤어요.",
+   "Cuối tuần tôi đã xem phim cùng anh chị em họ."
+  ],
+  [
+   "잡수시다",
+   "Japsusida",
+   "Ăn, dùng (kính ngữ)",
+   "할아버지께서 진지를 잡수세요.",
+   "Ông đang dùng cơm."
+  ],
+  [
+   "근무",
+   "Geunmu",
+   "Việc làm, công tác",
+   "아버지께서는 은행에서 근무하세요.",
+   "Bố công tác ở ngân hàng."
+  ],
+  [
+   "삼촌",
+   "Samchon",
+   "Chú, cậu",
+   "삼촌은 서울에 살아요.",
+   "Chú tôi sống ở Seoul."
+  ],
+  [
+   "전공하다",
+   "Jeongonghada",
+   "Học chuyên ngành",
+   "언니는 대학교에서 영어를 전공해요.",
+   "Chị tôi học chuyên ngành tiếng Anh ở đại học."
+  ],
+  [
+   "근처",
+   "Geuncheo",
+   "Gần, lân cận",
+   "할머니 댁은 우리 집 근처에 있어요.",
+   "Nhà bà ở gần nhà tôi."
+  ],
+  [
+   "생신",
+   "Saengsin",
+   "Sinh nhật (kính ngữ)",
+   "내일은 할아버지 생신이에요.",
+   "Ngày mai là sinh nhật ông."
+  ],
+  [
+   "주무시다",
+   "Jumusida",
+   "Ngủ (kính ngữ)",
+   "할머니께서 지금 주무세요.",
+   "Bà đang ngủ."
+  ],
+  [
+   "나중에",
+   "Najunge",
+   "Sau này",
+   "나중에 또 만납시다.",
+   "Sau này gặp lại nhé."
+  ],
+  [
+   "성함",
+   "Seongham",
+   "Tên (kính ngữ)",
+   "성함이 어떻게 되세요?",
+   "Quý danh của ông/bà là gì ạ?"
+  ],
+  [
+   "진지",
+   "Jinji",
+   "Cơm (kính ngữ)",
+   "할아버지, 진지 드세요.",
+   "Ông ơi, mời ông dùng cơm."
+  ],
+  [
+   "대가족",
+   "Daegajok",
+   "Đại gia đình",
+   "우리 가족은 대가족이에요.",
+   "Gia đình tôi là đại gia đình."
+  ],
+  [
+   "술",
+   "Sul",
+   "Rượu",
+   "아버지께서는 술을 안 드세요.",
+   "Bố không uống rượu."
+  ],
+  [
+   "초등학생",
+   "Chodeunghaksaeng",
+   "Học sinh tiểu học",
+   "여동생은 초등학생이에요.",
+   "Em gái tôi là học sinh tiểu học."
+  ],
+  [
+   "댁",
+   "Daek",
+   "Nhà (kính ngữ)",
+   "주말에 할머니 댁에 가요.",
+   "Cuối tuần tôi đến nhà bà."
+  ],
+  [
+   "아내",
+   "Anae",
+   "Vợ",
+   "제 아내는 요리를 잘해요.",
+   "Vợ tôi nấu ăn giỏi."
+  ],
+  [
+   "큰아버지",
+   "Keunabeoji",
+   "Bác trai",
+   "큰아버지께서는 부산에 사세요.",
+   "Bác trai sống ở Busan."
+  ],
+  [
+   "돌아가시다",
+   "Doragasida",
+   "Qua đời (kính ngữ)",
+   "외할아버지께서는 작년에 돌아가셨어요.",
+   "Ông ngoại đã qua đời năm ngoái."
+  ],
+  [
+   "아들",
+   "Adeul",
+   "Con trai",
+   "아들이 한 명 있어요.",
+   "Tôi có một con trai."
+  ],
+  [
+   "큰어머니",
+   "Keuneomeoni",
+   "Bác gái",
+   "큰어머니께서 케이크를 만드셨어요.",
+   "Bác gái đã làm bánh kem."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "께서 — Tiểu từ chủ ngữ kính ngữ",
+   "meaning": "Thay cho 이/가 khi chủ ngữ là người bề trên (ông bà, bố mẹ, thầy cô, khách…). 께서는 thay cho 은/는 (chủ đề, so sánh). Gắn thẳng vào danh từ, không phân biệt patchim: 할아버지께서, 선생님께서. Khi dùng 께서 thì động từ/tính từ cũng phải có kính ngữ (으)시: 어머니께서 가세요 (✓), 어머니께서 가요 (✗ không tự nhiên). Lưu ý: KHÔNG dùng cho bản thân hay người dưới (저께서 ✗, 동생께서 ✗). Đừng nhầm 께서 (chủ ngữ) với 께 (= 에게, 'cho/tới' người bề trên).",
+   "examples": [
+    "할아버지께서 공원에 가세요. — Ông nội đi công viên.",
+    "어머니께서 김치를 만드세요. — Mẹ làm kimchi.",
+    "아버지께서는 변호사세요. — Bố tôi là luật sư.",
+    "선생님께서 천천히 말씀하세요. — Thầy giáo nói chậm rãi."
+   ]
+  },
+  {
+   "form": "V/A + (으)시 — Kính ngữ",
+   "meaning": "Gắn vào thân động từ/tính từ để tôn trọng CHỦ NGỮ (người được nói tới), không phải người nghe. Thân có patchim → 으시 (읽다 → 읽으세요, 앉다 → 앉으세요); không patchim → 시 (가다 → 가세요, 바쁘다 → 바쁘세요); patchim ㄹ → bỏ ㄹ + 시 (살다 → 사세요, 만들다 → 만드세요). Các thì: hiện tại (으)세요, quá khứ (으)셨어요, trang trọng (으)십니다. Danh từ + 이다: 교수(이)세요, 경찰관이세요. Từ kính ngữ đặc biệt (KHÔNG chia bằng 시): 먹다/마시다 → 드시다 (잡수시다), 자다 → 주무시다, 있다 (ở) → 계시다, 말하다 → 말씀하시다, 죽다 → 돌아가시다. Danh từ: 나이 → 연세, 이름 → 성함, 생일 → 생신, 집 → 댁, 밥 → 진지, 말 → 말씀, 사람 → 분. Lưu ý: (으)세요 kính ngữ trùng hình thức với (으)세요 'hãy/mời' — phân biệt theo ngữ cảnh. Không bao giờ dùng (으)시 cho chính mình (저는 학생이세요 ✗).",
+   "examples": [
+    "할머니께서 지금 주무세요. — Bà đang ngủ.",
+    "할아버지께서 진지를 드세요. — Ông đang dùng cơm.",
+    "큰아버지께서는 부산에 사세요. — Bác trai sống ở Busan.",
+    "외할아버지께서는 작년에 돌아가셨어요. — Ông ngoại đã qua đời năm ngoái."
+   ]
+  },
+  {
+   "form": "Giản lược ㄹ (ㄹ 탈락)",
+   "meaning": "Động từ/tính từ có thân kết thúc bằng ㄹ (살다, 만들다, 알다, 놀다, 팔다, 길다, 멀다, 달다…) sẽ RỤNG ㄹ khi gặp ㄴ, ㅂ, ㅅ, và không thêm 으: 살다 + (으)세요 → 사세요; + ㅂ니다/습니다 → 삽니다; + (으)ㅂ시다 → 삽시다; + (으)시 → 사셨어요. Với (으)ㄹ래요: chỉ thêm 래요 → 살래요, 만들래요. KHÔNG rụng khi gặp 아/어요 (살아요, 만들어요), 았/었 (살았어요), 고 (살고), 지 않다 (살지 않아요), 고 싶다 (만들고 싶어요). Lỗi hay gặp: 살으세요 ✗, 만들습니다 ✗, 알으세요 ✗.",
+   "examples": [
+    "어디에 사세요? — Ông/bà sống ở đâu ạ?",
+    "저는 하노이에 삽니다. — Tôi sống ở Hà Nội.",
+    "같이 케이크를 만듭시다. — Cùng làm bánh kem nào.",
+    "할머니, 이 사람을 아세요? — Bà ơi, bà có biết người này không?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Ông nội đang đọc sách.",
+   "kr": "할아버지___ 책을 읽으세요.",
+   "options": [
+    "께서",
+    "이",
+    "를"
+   ],
+   "answer": "께서",
+   "explain": "Chủ ngữ là ông (bề trên) + động từ có 으시 → dùng 께서 thay cho 이/가."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng kính ngữ đúng: Mẹ đang nấu ăn.",
+   "kr": "어머니께서 요리___.",
+   "options": [
+    "하세요",
+    "해세요",
+    "하으세요"
+   ],
+   "answer": "하세요",
+   "explain": "하다 không có patchim → 시: 하시다 → 하세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Bác trai sống ở Busan.",
+   "kr": "큰아버지께서는 부산에 ___.",
+   "options": [
+    "사세요",
+    "살으세요",
+    "살세요"
+   ],
+   "answer": "사세요",
+   "explain": "살다 có patchim ㄹ: rụng ㄹ trước ㅅ và không thêm 으 → 사세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ kính ngữ đúng: Bà đang ngủ.",
+   "kr": "할머니께서 지금 ___.",
+   "options": [
+    "주무세요",
+    "자세요",
+    "잡수세요"
+   ],
+   "answer": "주무세요",
+   "explain": "자다 có từ kính ngữ riêng là 주무시다 → 주무세요. 잡수시다 là 'ăn'."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Ông ơi, mời ông dùng cơm.",
+   "kr": "할아버지, 진지 ___.",
+   "options": [
+    "드세요",
+    "주무세요",
+    "계세요"
+   ],
+   "answer": "드세요",
+   "explain": "먹다 → 드시다 (hoặc 잡수시다): 진지 드세요 = mời dùng cơm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn danh từ kính ngữ đúng: Bà ơi, bà bao nhiêu tuổi ạ?",
+   "kr": "할머니, ___가 어떻게 되세요?",
+   "options": [
+    "연세",
+    "나이",
+    "성함",
+    "생신"
+   ],
+   "answer": "연세",
+   "explain": "나이 (tuổi) → kính ngữ 연세. 성함 = tên, 생신 = sinh nhật."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Cùng làm bánh kem nào.",
+   "kr": "같이 케이크를 ___.",
+   "options": [
+    "만듭시다",
+    "만들읍시다",
+    "만들습시다"
+   ],
+   "answer": "만듭시다",
+   "explain": "만들다 có ㄹ: gặp ㅂ thì rụng ㄹ → 만드 + ㅂ시다 = 만듭시다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Bố tôi (thì) là luật sư.",
+   "kr": "아버지___ 변호사세요.",
+   "options": [
+    "께서는",
+    "께서가",
+    "께는"
+   ],
+   "answer": "께서는",
+   "explain": "Chủ đề kính ngữ: 은/는 → 께서는. Không ghép 께서 với 가."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ông ngoại đã qua đời năm ngoái.",
+   "kr": "외할아버지께서는 작년에 ___.",
+   "options": [
+    "돌아가셨어요",
+    "돌아가세요",
+    "죽었어요"
+   ],
+   "answer": "돌아가셨어요",
+   "explain": "죽다 với người bề trên → 돌아가시다; quá khứ: 돌아가셨어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG.",
+   "kr": "",
+   "options": [
+    "저는 학생이에요.",
+    "저께서 학생이세요.",
+    "저는 학생이세요."
+   ],
+   "answer": "저는 학생이에요.",
+   "explain": "Không dùng kính ngữ (께서, (으)시) cho chính mình."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng kính ngữ của 있다 (ở): Bà đang ở trong phòng.",
+   "kr": "할머니께서 방에 ___.",
+   "answer": [
+    "계세요",
+    "계십니다"
+   ],
+   "explain": "있다 (ở đâu đó) với người bề trên → 계시다: 계세요."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 알다 với (으)시 (câu hỏi): Ông ơi, ông biết người kia không ạ?",
+   "kr": "할아버지, 저 사람을 ___?",
+   "answer": [
+    "아세요",
+    "아십니까"
+   ],
+   "explain": "알다 có ㄹ → rụng ㄹ trước ㅅ: 아세요 (không phải 알으세요)."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 읽다 kính ngữ quá khứ: Bố đã đọc sách.",
+   "kr": "아버지께서 책을 ___.",
+   "answer": [
+    "읽으셨어요",
+    "읽으셨습니다"
+   ],
+   "explain": "읽다 có patchim → 으시 + 었어요 = 읽으셨어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền số thuần Hàn (định từ): Gia đình tôi có năm người.",
+   "kr": "우리 가족은 ___ 명이에요.",
+   "answer": [
+    "다섯"
+   ],
+   "explain": "Đếm người dùng số thuần Hàn + 명: 다섯 명."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 살다 với đuôi trang trọng -(스)ㅂ니다: Tôi sống ở Hà Nội.",
+   "kr": "저는 하노이에 ___.",
+   "answer": [
+    "삽니다"
+   ],
+   "explain": "살다 có ㄹ → rụng ㄹ trước ㅂ: 사 + ㅂ니다 = 삽니다. Chủ ngữ là 저 nên không dùng 시."
+  },
+  {
+   "type": "fill",
+   "q": "Chia 출장을 가다 kính ngữ quá khứ: Hôm qua dượng đã đi công tác.",
+   "kr": "고모부께서 어제 출장을 ___.",
+   "answer": [
+    "가셨어요",
+    "가셨습니다"
+   ],
+   "explain": "가다 không patchim → 시 + 었어요 = 가셨어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ông làm nông ở quê.",
+   "tokens": [
+    "할아버지께서",
+    "고향에서",
+    "농사를",
+    "지으세요"
+   ],
+   "answer": "할아버지께서 고향에서 농사를 지으세요",
+   "explain": "짓다 (bất quy tắc ㅅ) + 으시 → 지으세요; nơi làm việc dùng 에서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi muốn trở thành thông dịch viên.",
+   "tokens": [
+    "저는",
+    "통역사가",
+    "되고",
+    "싶어요"
+   ],
+   "answer": "저는 통역사가 되고 싶어요",
+   "explain": "N이/가 되다: trở thành N; V + 고 싶다: muốn."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhà bà ở gần nhà tôi.",
+   "tokens": [
+    "할머니",
+    "댁은",
+    "우리",
+    "집",
+    "근처에",
+    "있어요"
+   ],
+   "answer": "할머니 댁은 우리 집 근처에 있어요",
+   "explain": "집 của người bề trên → 댁; N 근처에 있어요: ở gần N."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mẹ buôn bán ở chợ.",
+   "tokens": [
+    "어머니께서",
+    "시장에서",
+    "장사를",
+    "하세요"
+   ],
+   "answer": "어머니께서 시장에서 장사를 하세요",
+   "explain": "께서 + (으)시: 장사를 하세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bố tôi là giáo sư.",
+   "answer": [
+    "아버지께서는 교수세요.",
+    "아버지께서는 교수이세요.",
+    "우리 아버지께서는 교수세요.",
+    "우리 아버지께서는 교수이세요.",
+    "저희 아버지께서는 교수세요.",
+    "저희 아버지께서는 교수이세요.",
+    "아버지는 교수세요.",
+    "아버지는 교수이세요.",
+    "우리 아버지는 교수세요.",
+    "우리 아버지는 교수이세요.",
+    "저희 아버지는 교수세요.",
+    "저희 아버지는 교수이세요.",
+    "아버지께서는 교수십니다.",
+    "아버지께서는 교수이십니다."
+   ],
+   "explain": "N이다 kính ngữ: 교수(이)세요; chủ đề kính ngữ: 께서는."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ông nội đang ngủ.",
+   "answer": [
+    "할아버지께서 주무세요.",
+    "할아버지께서 지금 주무세요.",
+    "할아버지께서는 주무세요.",
+    "할아버지께서는 지금 주무세요.",
+    "할아버지께서 주무십니다.",
+    "할아버지께서 지금 주무십니다.",
+    "할아버지가 주무세요.",
+    "할아버지가 지금 주무세요."
+   ],
+   "explain": "자다 → 주무시다 → 주무세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi là con gái duy nhất.",
+   "answer": [
+    "저는 외동딸이에요.",
+    "저는 외동딸입니다.",
+    "나는 외동딸이에요.",
+    "제가 외동딸이에요."
+   ],
+   "explain": "외동딸: con gái duy nhất; nói về mình không dùng kính ngữ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bà ngoại sống ở Busan.",
+   "answer": [
+    "외할머니께서는 부산에 사세요.",
+    "외할머니께서 부산에 사세요.",
+    "외할머니께서는 부산에 사십니다.",
+    "외할머니께서 부산에 사십니다.",
+    "외할머니는 부산에 사세요.",
+    "외할머니가 부산에 사세요."
+   ],
+   "explain": "살다 + (으)시 → 사세요 (giản lược ㄹ)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "할머니 생신에 가족이 모두 할머니 댁에 갔어요.",
+   "answer": "Vào sinh nhật bà, cả gia đình đã đến nhà bà.",
+   "explain": "생신 = sinh nhật (kính ngữ), 댁 = nhà (kính ngữ), 갔어요 = đã đi."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "큰아버지께서는 사업가세요. 그래서 항상 바쁘세요.",
+   "answer": "Bác trai là doanh nhân. Vì vậy bác luôn bận rộn.",
+   "explain": "사업가세요 = là doanh nhân (kính ngữ); 바쁘세요 = bận (kính ngữ)."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? Chọn đáp án đúng. (Dạng TOPIK câu 31~33)",
+   "kr": "할아버지와 할머니가 계세요. 그리고 부모님하고 오빠가 있어요.",
+   "options": [
+    "가족",
+    "날씨",
+    "음식",
+    "집"
+   ],
+   "answer": "가족",
+   "explain": "Ông bà, bố mẹ, anh trai → nói về gia đình (가족)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ đúng điền vào ( ___ ). (Dạng TOPIK câu 34~39)",
+   "kr": "할머니께서 방에 ( ___ ). 지금 주무세요.",
+   "options": [
+    "계세요",
+    "있어요",
+    "가요",
+    "먹어요"
+   ],
+   "answer": "계세요",
+   "explain": "Bà (bề trên) ở trong phòng → 계세요. 있어요 không có kính ngữ nên chưa đúng."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu đúng với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "우리 가족은 대가족이에요. 할아버지, 할머니, 부모님, 오빠, 그리고 저, 모두 여섯 명이에요. 아버지께서는 변호사세요. 어머니께서는 근처 학교에서 영어를 가르치세요. 오빠는 군인이에요. 그래서 지금 집에 없어요.",
+   "options": [
+    "가족은 모두 다섯 명이에요.",
+    "어머니께서는 변호사세요.",
+    "오빠는 지금 집에 없어요.",
+    "할머니께서 영어를 가르치세요."
+   ],
+   "answer": "오빠는 지금 집에 없어요.",
+   "explain": "Gia đình có 6 người; bố là luật sư; mẹ dạy tiếng Anh; anh trai là bộ đội nên không ở nhà."
+  },
+  {
+   "type": "read",
+   "q": "Chọn nội dung đúng với đoạn văn. (Dạng TOPIK câu suy luận 43~48)",
+   "kr": "저는 외동딸이에요. 언니, 오빠, 동생이 없어요. 그래서 주말에 사촌 언니를 만나요. 사촌 언니하고 같이 영화를 봐요.",
+   "options": [
+    "저는 형제가 많아요.",
+    "저는 주말에 사촌 언니를 만나요.",
+    "사촌 언니는 외동딸이에요.",
+    "저는 주말에 혼자 있어요."
+   ],
+   "answer": "저는 주말에 사촌 언니를 만나요.",
+   "explain": "Người viết là con gái duy nhất, cuối tuần gặp chị họ và xem phim cùng chị."
+  }
+ ]
+}
