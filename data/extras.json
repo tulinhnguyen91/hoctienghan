@@ -496,7 +496,73 @@
    "diary": "Bạn có hẹn với ai tuần này? Khi nào, ở đâu? (dùng (으)ㄹ 때, 아/어 주다)"
   },
   {
-   "day": 16,
+   "quote": {
+    "kr": "세 살 버릇 여든까지 간다.",
+    "vi": "Thói quen lúc ba tuổi theo đến tám mươi – tập thói quen tốt từ hôm nay."
+   },
+   "pron": {
+    "title": "Ôn: nối âm, căng hóa, vòm hóa",
+    "rule": "Đọc to các ví dụ: patchim nối sang nguyên âm sau, âm căng sau ㄱ/ㄷ/ㅂ, ㄷ/ㅌ + 이 thành ㅈ/ㅊ.",
+    "examples": [
+     "약속이 → [약쏘기]",
+     "식사 → [식싸]",
+     "같이 → [가치]"
+    ]
+   },
+   "phrases": [
+    [
+     "오랜만이에요!",
+     "Lâu rồi không gặp!"
+    ],
+    [
+     "요즘 어떻게 지내요?",
+     "Dạo này bạn thế nào?"
+    ],
+    [
+     "다음에 또 만나요.",
+     "Hẹn gặp lại lần sau."
+    ]
+   ],
+   "culture": "Ngày ôn tập đầu tiên của TOPIK 2! Ôn lại bài trong vòng 1–2 ngày sau khi học giúp nhớ lâu hơn hẳn so với học bài mới liên tục.",
+   "tip": "Ngày ôn không cần làm lại cả bài: chỉ làm lại những câu sai và đọc to câu ví dụ của từ hay quên.",
+   "diary": "Viết 4 câu về một cuộc hẹn gần đây với bạn bè hoặc người thân. (dùng (으)러 가다, (으)ㄹ 때, 아/어 주다)",
+   "day": 16
+  },
+  {
+   "quote": {
+    "kr": "아는 길도 물어 가라.",
+    "vi": "Đường quen cũng nên hỏi lại – cẩn thận chẳng bao giờ thừa."
+   },
+   "pron": {
+    "title": "ㅓ và ㅗ",
+    "rule": "ㅓ mở miệng, môi không tròn (gần 'ơ'); ㅗ tròn môi (gần 'ô'). Đọc nhầm là đổi nghĩa.",
+    "examples": [
+     "거기 (ở đó) / 고기 (thịt)",
+     "더 (hơn) / 도 (cũng)",
+     "서울 / 소리"
+    ]
+   },
+   "phrases": [
+    [
+     "내일 시간 있어요?",
+     "Mai bạn có rảnh không?"
+    ],
+    [
+     "그럼 그때 봐요.",
+     "Vậy hẹn gặp lúc đó nhé."
+    ],
+    [
+     "미안해요, 오늘은 시간이 없어요.",
+     "Xin lỗi, hôm nay mình không có thời gian."
+    ]
+   ],
+   "culture": "Câu '언제 밥 한번 먹자' (bữa nào đi ăn nhé) thường chỉ là câu xã giao của người Hàn, chưa phải một lời hẹn thật.",
+   "tip": "Nghe câu 1~4: nếu câu hỏi dạng có/không (네/아니요), đáp án đúng thường lặp lại đúng động từ trong câu hỏi.",
+   "diary": "Hẹn một người bạn đi chơi cuối tuần: khi nào, ở đâu, chỉ đi với ai? (dùng 만, (으)ㄹ 때)",
+   "day": 17
+  },
+  {
+   "day": 18,
    "quote": {
     "kr": "백지장도 맞들면 낫다.",
     "vi": "Tờ giấy mỏng cũng nên hai người cùng nâng – đồng lòng thì dễ."
@@ -529,7 +595,73 @@
    "diary": "Kể về lần mua sắm gần nhất. (dùng (으)니까, 아/어도 되다)"
   },
   {
-   "day": 17,
+   "quote": {
+    "kr": "가랑비에 옷 젖는 줄 모른다.",
+    "vi": "Mưa phùn ướt áo lúc nào không hay – học từng chút rồi sẽ thấm."
+   },
+   "pron": {
+    "title": "Ôn: mũi hóa",
+    "rule": "Patchim ㄱ/ㄷ/ㅂ gặp ㄴ hoặc ㅁ phía sau đọc thành ㅇ/ㄴ/ㅁ.",
+    "examples": [
+     "합니다 → [함니다]",
+     "작년 → [장년]",
+     "몇 명 → [면명]"
+    ]
+   },
+   "phrases": [
+    [
+     "시험 잘 봐요!",
+     "Thi tốt nhé!"
+    ],
+    [
+     "긴장하지 마세요.",
+     "Đừng căng thẳng."
+    ],
+    [
+     "할 수 있어요!",
+     "Bạn làm được mà!"
+    ]
+   ],
+   "culture": "Trước kỳ thi, người Hàn kiêng ăn canh rong biển 미역국 vì nó trơn, sợ 'trượt' (미끄러지다) như trượt thi.",
+   "tip": "Thi thử lần 2: ghi số câu đúng của Nghe và Đọc để so với lần 1 (1/12).",
+   "diary": "Hôm nay thi thử thế nào? Phần nào khó nhất? (dùng (으)니까, 지 말다)",
+   "day": 19
+  },
+  {
+   "quote": {
+    "kr": "돌다리도 두들겨 보고 건너라.",
+    "vi": "Cầu đá cũng gõ thử rồi mới qua – cẩn tắc vô áy náy."
+   },
+   "pron": {
+    "title": "ㅡ và ㅜ",
+    "rule": "ㅡ kéo khóe miệng ngang, không tròn môi (gần 'ư'); ㅜ tròn môi đẩy ra trước (gần 'u').",
+    "examples": [
+     "그 (đó) / 구 (số 9)",
+     "크다 (to) / 쿠키 (bánh quy)",
+     "음식 / 운동"
+    ]
+   },
+   "phrases": [
+    [
+     "좀 깎아 주세요.",
+     "Bớt cho tôi chút nhé."
+    ],
+    [
+     "카드로 계산해도 돼요?",
+     "Tôi trả bằng thẻ được không?"
+    ],
+    [
+     "교환할 수 있어요?",
+     "Đổi hàng được không?"
+    ]
+   ],
+   "culture": "Ở chợ truyền thống như Namdaemun, Dongdaemun có thể mặc cả nhẹ; còn siêu thị và cửa hàng tiện lợi thì giá cố định.",
+   "tip": "Đọc câu 34~39 (điền chỗ trống): nhìn tiểu từ và đuôi câu quanh chỗ trống trước, rồi mới đọc 4 đáp án.",
+   "diary": "Kể lần đi mua quần áo hoặc giày gần nhất: mua gì, mấy 벌/켤레, có được mặc thử không? (dùng 아/어도 되다)",
+   "day": 20
+  },
+  {
+   "day": 21,
    "quote": {
     "kr": "웃음은 최고의 약이다.",
     "vi": "Nụ cười là liều thuốc tốt nhất."
@@ -562,7 +694,40 @@
    "diary": "Miêu tả cơ thể khi bị cảm. (dùng 보다, định ngữ (으)ㄴ/는)"
   },
   {
-   "day": 18,
+   "quote": {
+    "kr": "누워서 떡 먹기.",
+    "vi": "Nằm ăn bánh tteok – dễ như trở bàn tay, khi đã luyện đủ."
+   },
+   "pron": {
+    "title": "Ôn: bật hơi hóa",
+    "rule": "ㄱ/ㄷ/ㅂ/ㅈ đứng cạnh ㅎ thì đọc thành ㅋ/ㅌ/ㅍ/ㅊ.",
+    "examples": [
+     "축하해요 → [추카해요]",
+     "입학 → [이팍]",
+     "좋다 → [조타]"
+    ]
+   },
+   "phrases": [
+    [
+     "어디가 아파요?",
+     "Bạn đau ở đâu?"
+    ],
+    [
+     "머리가 아파요.",
+     "Tôi đau đầu."
+    ],
+    [
+     "푹 쉬세요.",
+     "Nghỉ ngơi cho khỏe nhé."
+    ]
+   ],
+   "culture": "Bị cảm nhẹ, người Hàn thường đến phòng khám nhỏ (의원) gần nhà thay vì bệnh viện lớn, rồi mang đơn sang nhà thuốc (약국) mua thuốc.",
+   "tip": "Ôn định ngữ: A + (으)ㄴ (예쁜 옷), V + 는 (먹는 음식). Dạng này xuất hiện rất nhiều trong phần Đọc.",
+   "diary": "Tả một món đồ bạn mới mua và kể lần gần nhất bạn bị ốm. (dùng (으)ㄴ/는, 보다)",
+   "day": 22
+  },
+  {
+   "day": 23,
    "quote": {
     "kr": "병은 자랑하랬다.",
     "vi": "Có bệnh thì nên nói ra – để được mọi người giúp."
@@ -595,7 +760,7 @@
    "diary": "Khi bị ốm, bạn phải làm gì? (dùng 아/어야 하다, 마다)"
   },
   {
-   "day": 19,
+   "day": 24,
    "quote": {
     "kr": "무소식이 희소식.",
     "vi": "Không có tin gì chính là tin vui."
@@ -628,7 +793,40 @@
    "diary": "Viết một tấm bưu thiếp ngắn gửi bạn. (dùng (으)면, 지 못하다)"
   },
   {
-   "day": 20,
+   "quote": {
+    "kr": "구슬이 서 말이라도 꿰어야 보배.",
+    "vi": "Ngọc nhiều đến mấy cũng phải xâu mới thành báu – học phải đem ra dùng."
+   },
+   "pron": {
+    "title": "Ôn: nhũ âm hóa",
+    "rule": "ㄴ đứng cạnh ㄹ thì đọc thành ㄹ.",
+    "examples": [
+     "연락 → [열락]",
+     "신라 → [실라]",
+     "설날 → [설랄]"
+    ]
+   },
+   "phrases": [
+    [
+     "잘 지내지요?",
+     "Bạn vẫn khỏe chứ?"
+    ],
+    [
+     "편지 고마워요.",
+     "Cảm ơn thư của bạn."
+    ],
+    [
+     "건강 조심하세요.",
+     "Giữ gìn sức khỏe nhé."
+    ]
+   ],
+   "culture": "Người Hàn thường kết thúc thư hoặc tin nhắn bằng '건강하세요' (chúc mạnh khỏe) hay '좋은 하루 보내세요' (chúc một ngày tốt lành).",
+   "tip": "Từ nối 그래서, 그런데, 그러나 rất hay gặp ở câu 34~39 và câu sắp xếp 57~58. Ôn kỹ nghĩa từng từ.",
+   "diary": "Viết một tin nhắn ngắn hỏi thăm người bạn đang bị ốm. (dùng 아/어야 하다, (으)면, một từ nối)",
+   "day": 25
+  },
+  {
+   "day": 26,
    "quote": {
     "kr": "모로 가도 서울만 가면 된다.",
     "vi": "Đi lối nào cũng được, miễn là đến được Seoul – đích đến mới quan trọng."
@@ -661,7 +859,73 @@
    "diary": "Chỉ đường từ nhà bạn đến trường/công ty. (dùng 아/어서, 서수사)"
   },
   {
-   "day": 21,
+   "quote": {
+    "kr": "콩 심은 데 콩 나고 팥 심은 데 팥 난다.",
+    "vi": "Trồng đậu được đậu, trồng đỗ đỏ được đỗ đỏ – gieo gì gặt nấy."
+   },
+   "pron": {
+    "title": "ㅕ và ㅛ",
+    "rule": "ㅕ = [y] + ㅓ (gần 'yơ'); ㅛ = [y] + ㅗ (gần 'yô'). Giữ môi đúng như cặp ㅓ/ㅗ.",
+    "examples": [
+     "여기 (ở đây) / 요리 (nấu ăn)",
+     "열 (mười) / 요일 (thứ)",
+     "병원 / 학교"
+    ]
+   },
+   "phrases": [
+    [
+     "몇 번 출구로 나가요?",
+     "Ra cửa số mấy?"
+    ],
+    [
+     "다음 역에서 갈아타세요.",
+     "Đổi tàu ở ga tiếp theo nhé."
+    ],
+    [
+     "여기서 세워 주세요.",
+     "Dừng ở đây giúp tôi."
+    ]
+   ],
+   "culture": "Tàu điện ở Seoul có ghế màu hồng dành cho bà bầu (임산부 배려석) và ghế ưu tiên người già; người trẻ thường để trống các ghế này.",
+   "tip": "Số thứ tự có hai kiểu: 첫째, 둘째, 셋째… và 첫 번째, 두 번째… Nghe kỹ ở dạng tìm địa điểm và chỉ đường.",
+   "diary": "Chỉ đường từ nhà bạn đến trường hoặc chỗ làm theo thứ tự. (dùng 첫째/둘째 hoặc 첫 번째/두 번째, 아/어서)",
+   "day": 27
+  },
+  {
+   "quote": {
+    "kr": "작은 고추가 더 맵다.",
+    "vi": "Ớt nhỏ lại cay hơn – nhỏ mà có võ."
+   },
+   "pron": {
+    "title": "Ôn: patchim kép",
+    "rule": "Patchim kép gặp nguyên âm phía sau thì âm thứ hai nối sang; riêng ㅎ thì câm.",
+    "examples": [
+     "앉아요 → [안자요]",
+     "읽어요 → [일거요]",
+     "많아요 → [마나요]"
+    ]
+   },
+   "phrases": [
+    [
+     "버스 정류장이 어디예요?",
+     "Trạm xe buýt ở đâu?"
+    ],
+    [
+     "이 버스 시청에 가요?",
+     "Xe buýt này có đi tòa thị chính không?"
+    ],
+    [
+     "다음 정류장에서 내려요.",
+     "Xuống ở trạm tiếp theo."
+    ]
+   ],
+   "culture": "Ở Hàn, lên xe buýt quẹt thẻ và xuống xe cũng quẹt thẻ lại (하차 태그) để được giảm giá khi chuyển tuyến.",
+   "tip": "Thi thử lần 3: đặt mục tiêu cao hơn lần trước. Câu nào phải đoán thì đánh dấu để xem lại sau.",
+   "diary": "Kể cách bạn đi làm hoặc đi học mỗi ngày theo thứ tự. (dùng 아/어서 trình tự, 첫째/둘째)",
+   "day": 28
+  },
+  {
+   "day": 29,
    "quote": {
     "kr": "말이 씨가 된다.",
     "vi": "Lời nói sẽ thành hạt giống – hãy nói điều tốt đẹp."
@@ -694,7 +958,7 @@
    "diary": "Bạn định làm gì trước khi đi ngủ hôm nay? (dùng 기 전에, (으)ㄹ게요)"
   },
   {
-   "day": 22,
+   "day": 30,
    "quote": {
     "kr": "꿈은 이루어진다.",
     "vi": "Ước mơ sẽ thành hiện thực."
@@ -727,7 +991,73 @@
    "diary": "Kể về một bộ phim bạn đã xem. (dùng 겠, 네요, 아/어 보다)"
   },
   {
-   "day": 23,
+   "quote": {
+    "kr": "호랑이도 제 말 하면 온다.",
+    "vi": "Nhắc đến hổ thì hổ tới – nhắc Tào Tháo, Tào Tháo đến."
+   },
+   "pron": {
+    "title": "Ôn: ㅎ câm + ngữ điệu",
+    "rule": "ㅎ ở patchim gặp nguyên âm thì câm. Câu hỏi lên giọng cuối câu.",
+    "examples": [
+     "좋아요 → [조아요]",
+     "많이 → [마니]",
+     "괜찮아요? ↗"
+    ]
+   },
+   "phrases": [
+    [
+     "여보세요?",
+     "A lô?"
+    ],
+    [
+     "잠깐만 기다리세요.",
+     "Xin đợi một chút."
+    ],
+    [
+     "나중에 다시 전화할게요.",
+     "Lát nữa tôi gọi lại nhé."
+    ]
+   ],
+   "culture": "Người Hàn nghe máy bằng '여보세요?'. Khi gọi cho người lớn hoặc công ty, họ chào và tự giới thiệu tên trước.",
+   "tip": "겠 có hai nghĩa: 'sẽ' (ý định của mình) và 'chắc là' (phỏng đoán về người/việc khác). Nhìn chủ ngữ để đoán nghĩa.",
+   "diary": "Kể một cuộc gọi gần đây và cảm nghĩ về một bộ phim bạn thích. (dùng 기 전에, (으)ㄹ게요, 네요)",
+   "day": 31
+  },
+  {
+   "quote": {
+    "kr": "공든 탑이 무너지랴.",
+    "vi": "Tháp xây công phu sao đổ được – công sức bỏ ra không uổng."
+   },
+   "pron": {
+    "title": "ㅙ, ㅚ, ㅞ",
+    "rule": "Trong giao tiếp hiện nay ba nguyên âm này gần như cùng đọc [we] (gần 'uê'). Phân biệt bằng chính tả.",
+    "examples": [
+     "왜 (tại sao)",
+     "회사 (công ty)",
+     "웨이터 (bồi bàn)"
+    ]
+   },
+   "phrases": [
+    [
+     "그 영화 봤어요?",
+     "Bạn xem phim đó chưa?"
+    ],
+    [
+     "정말 재미있네요!",
+     "Hay thật đấy!"
+    ],
+    [
+     "주인공이 누구예요?",
+     "Nhân vật chính là ai?"
+    ]
+   ],
+   "culture": "Rạp phim ở Hàn bán vé theo ghế chỉ định; món ăn vặt quen thuộc ở rạp là bắp rang bơ và mực khô nướng (오징어).",
+   "tip": "아/어 보다 (thử làm) khác 보다 (xem): '먹어 봤어요' = đã ăn thử rồi.",
+   "diary": "Giới thiệu một bộ phim Hàn bạn từng xem và rủ bạn bè xem thử. (dùng 아/어 보다, 네요)",
+   "day": 32
+  },
+  {
+   "day": 33,
    "quote": {
     "kr": "오늘 할 일을 내일로 미루지 말자.",
     "vi": "Việc hôm nay chớ để ngày mai."
@@ -760,7 +1090,40 @@
    "diary": "Ngày nghỉ sắp tới bạn ước làm gì? (dùng (으)면 좋겠다, 기 위해서)"
   },
   {
-   "day": 24,
+   "quote": {
+    "kr": "천천히 가도 멈추지만 않으면 된다.",
+    "vi": "Đi chậm cũng được, miễn là đừng dừng lại."
+   },
+   "pron": {
+    "title": "Ôn: 7 âm cuối đại diện",
+    "rule": "Mọi patchim cuối từ chỉ đọc thành 7 âm: ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ.",
+    "examples": [
+     "옷 → [옫]",
+     "부엌 → [부억]",
+     "앞 → [압]"
+    ]
+   },
+   "phrases": [
+    [
+     "연휴에 뭐 할 거예요?",
+     "Kỳ nghỉ dài bạn sẽ làm gì?"
+    ],
+    [
+     "여행을 가면 좋겠어요.",
+     "Giá mà được đi du lịch."
+    ],
+    [
+     "즐거운 휴일 보내세요!",
+     "Chúc ngày nghỉ vui vẻ!"
+    ]
+   ],
+   "culture": "Hai kỳ nghỉ dài nhất ở Hàn là 설날 (Tết âm lịch) và 추석 (Trung thu), mỗi dịp thường được nghỉ khoảng 3 ngày.",
+   "tip": "(으)면 좋겠다 nói mong muốn 'giá mà…'; đừng nhầm với (으)면 'nếu' đã học.",
+   "diary": "Kỳ nghỉ Tết sắp tới bạn muốn làm gì? (dùng (으)면 좋겠다, (이)나, 기 위해서)",
+   "day": 34
+  },
+  {
+   "day": 35,
    "quote": {
     "kr": "보기 좋은 떡이 먹기도 좋다.",
     "vi": "Bánh đẹp thì ăn cũng ngon – tốt gỗ cũng cần tốt nước sơn."
@@ -793,7 +1156,7 @@
    "diary": "Miêu tả ngoại hình một người bạn thân. (dùng 아/어지다, 기 때문에)"
   },
   {
-   "day": 25,
+   "day": 36,
    "quote": {
     "kr": "백문이 불여일견.",
     "vi": "Trăm nghe không bằng một thấy."
@@ -826,7 +1189,40 @@
    "diary": "Bạn từng đi du lịch ở đâu? (dùng (으)ㄴ 적이 있다, 고 있다)"
   },
   {
-   "day": 26,
+   "quote": {
+    "kr": "실패는 성공의 어머니.",
+    "vi": "Thất bại là mẹ thành công."
+   },
+   "pron": {
+    "title": "Ôn: rút gọn khi nói",
+    "rule": "Khi nói nhanh, đại từ và tiểu từ hay bị rút gọn.",
+    "examples": [
+     "저는 → 전",
+     "무엇을 → 뭘",
+     "이것은 → 이건"
+    ]
+   },
+   "phrases": [
+    [
+     "메리 크리스마스!",
+     "Giáng sinh vui vẻ!"
+    ],
+    [
+     "한국에 가 본 적이 있어요?",
+     "Bạn từng đến Hàn Quốc chưa?"
+    ],
+    [
+     "사진 좀 찍어 주세요.",
+     "Chụp ảnh giúp tôi với."
+    ]
+   ],
+   "culture": "Giáng sinh (성탄절, 25/12) là ngày nghỉ lễ chính thức ở Hàn Quốc; giới trẻ thường coi đây là dịp hẹn hò hơn là lễ gia đình.",
+   "tip": "Thi thử lần 4: so với các lần trước. Phần nào chưa tăng điểm thì mấy ngày cuối tập trung luyện dạng đó trên Migii.",
+   "diary": "Tả ngoại hình một người bạn thân và kể một chuyến du lịch bạn từng đi. (dùng 아/어지다, (으)ㄴ 적이 있다, 고 있다)",
+   "day": 37
+  },
+  {
+   "day": 38,
    "quote": {
     "kr": "로마에 가면 로마법을 따르라.",
     "vi": "Đến Rome thì theo luật Rome – nhập gia tùy tục."
@@ -859,7 +1255,7 @@
    "diary": "Ở thư viện/bệnh viện không được làm gì? (dùng (으)면 안 되다, (으)면서)"
   },
   {
-   "day": 27,
+   "day": 39,
    "quote": {
     "kr": "우물 안 개구리가 되지 말자.",
     "vi": "Đừng làm ếch ngồi đáy giếng."
@@ -892,7 +1288,40 @@
    "diary": "Giới thiệu thành phố quê bạn. (dùng (으)ㄹ 것 같다, (이)나)"
   },
   {
-   "day": 28,
+   "quote": {
+    "kr": "꾸준함이 재능을 이긴다.",
+    "vi": "Sự bền bỉ thắng cả tài năng."
+   },
+   "pron": {
+    "title": "Ôn: đọc số có biến âm",
+    "rule": "Một số tháng và số tiền đọc khác chữ viết.",
+    "examples": [
+     "6월 → [유월]",
+     "10월 → [시월]",
+     "백 원 → [배권]"
+    ]
+   },
+   "phrases": [
+    [
+     "여기서 사진을 찍으면 안 돼요.",
+     "Không được chụp ảnh ở đây."
+    ],
+    [
+     "조용히 해 주세요.",
+     "Xin giữ yên lặng."
+    ],
+    [
+     "서울은 물가가 비싼 것 같아요.",
+     "Hình như vật giá ở Seoul đắt."
+    ]
+   ],
+   "culture": "Trên tàu điện ở Hàn, nói chuyện điện thoại to bị coi là bất lịch sự; mọi người thường để máy ở chế độ rung (진동).",
+   "tip": "Bất quy tắc ㄷ, ㅂ, ㅅ, ㅎ, 르 hay ra ở câu chọn đáp án. Lập bảng 2 động từ mỗi loại và chia thử với 아/어요.",
+   "diary": "So sánh thành phố bạn đang sống với Seoul. (dùng (으)ㄹ 것 같다, (으)면 안 되다, 보다)",
+   "day": 40
+  },
+  {
+   "day": 41,
    "quote": {
     "kr": "뜻이 있는 곳에 길이 있다.",
     "vi": "Ở đâu có ý chí, ở đó có con đường."
@@ -925,7 +1354,7 @@
    "diary": "Kế hoạch của bạn sau khi thi TOPIK. (dùng 기로 하다, (으)ㄴ 후에)"
   },
   {
-   "day": 29,
+   "day": 42,
    "quote": {
     "kr": "낮말은 새가 듣고 밤말은 쥐가 듣는다.",
     "vi": "Lời ban ngày chim nghe, lời ban đêm chuột nghe – tai vách mạch rừng."
@@ -958,7 +1387,7 @@
    "diary": "Nếu sống ở Hàn, điều gì bạn thấy lạ lẫm? (dùng (으)ㄴ/는데, 에게서)"
   },
   {
-   "day": 30,
+   "day": 43,
    "quote": {
     "kr": "하늘은 스스로 돕는 자를 돕는다.",
     "vi": "Trời giúp người biết tự giúp mình."
@@ -986,9 +1415,9 @@
      "Tôi sẽ đỗ TOPIK!"
     ]
    ],
-   "culture": "Chúc mừng công chúa hoàn thành 30 ngày! Ở Hàn có câu '수고했어, 오늘도' – hôm nay bạn cũng vất vả rồi.",
+   "culture": "Chúc mừng công chúa về đích TOPIK 1–2 đúng ngày cuối năm! Ở Hàn có câu '수고했어, 오늘도' – hôm nay bạn cũng vất vả rồi.",
    "tip": "Thi thử lần 2: so sánh với lần 1 để thấy công chúa đã tiến bộ bao nhiêu nhé ♛",
-   "diary": "Viết thư gửi chính mình sau 30 ngày học: bạn đã tiến bộ thế nào?"
+   "diary": "Viết thư gửi chính mình sau hơn 40 ngày học: bạn đã tiến bộ thế nào, năm mới muốn học tiếp gì?"
   }
  ]
 }

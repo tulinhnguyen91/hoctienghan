@@ -398,3 +398,5 @@ h2::after{content:" ✧";color:var(--gold);font-size:.7em}
 .ex-list{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:6px}
 .ex-list li{display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:16px}
 .ex-list .kr{font-size:18px}
+.rev-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}.rev-links .btn{flex:1 1 140px;min-height:40px;font-size:14px}
+.plan li.phase{display:block;background:none;border:0;padding:12px 4px 0;font-family:var(--deco);font-size:18px;color:var(--celadon-deep)}

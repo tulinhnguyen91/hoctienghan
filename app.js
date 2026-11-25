@@ -203,7 +203,7 @@ async function todayExtras() {
   if (!EXTRAS) { try { const r = await fetch('data/extras.json?v=' + Date.now(), { cache: 'no-store' }); if (r.ok) EXTRAS = await r.json(); } catch {} }
   if (!EXTRAS) return null;
   const { d, before, after } = planToday(plan);
-  const n = before ? 1 : after ? 30 : d.day;
+  const n = before ? 1 : after ? plan.days.length : d.day;
   return EXTRAS.days.find(x => x.day === n) || null;
 }
 function extrasHtml(ex, dayLabel) {
@@ -255,6 +255,12 @@ function planToday(plan) {
   if (t > days[days.length - 1].date) return { after: true, d: days[days.length - 1] };
   return { d: days.find(x => x.date === t) };
 }
+function reviewLinks(d, idx) {
+  const ids = (d.review || []).filter(id => idx.includes(id));
+  if (!ids.length) return '';
+  const name = id => (INDEX.lessons.find(l => l.id === id) || {}).lesson || id;
+  return `<div class="rev-links">${ids.map(id => `<a class="btn line" href="#/${id}">Làm lại ${esc(name(id))}</a>`).join('')}</div>`;
+}
 function practiceLinks(plan, d) {
   if (!d.practice) return '';
   return `<ul class="prac">
@@ -266,14 +272,16 @@ async function todayCard(ex) {
   const { d, before, after } = planToday(plan);
   const idx = INDEX ? INDEX.lessons.map(l => l.id) : [];
   const ready = d.id && idx.includes(d.id);
-  const pct = Math.round(100 * Math.max(0, Math.min(30, d.day - (before ? 1 : 0))) / 30);
+  const N = plan.days.length;
+  const pct = Math.round(100 * Math.max(0, Math.min(N, d.day - (before ? 1 : 0))) / N);
   return `<section class="today">
-    <div class="today-h"><span class="day-badge">${before ? 'Sắp bắt đầu' : after ? 'Hoàn thành ♛' : 'Ngày ' + d.day + '/30'}</span>
+    <div class="today-h"><span class="day-badge">${before ? 'Sắp bắt đầu' : after ? 'Hoàn thành ♛' : 'Ngày ' + d.day + '/' + N}</span>
       <a class="small" href="#/lo-trinh">Xem lộ trình</a></div>
     <div class="road"><i style="width:${pct}%"></i><span class="crown-pin" style="left:${pct}%">♛</span></div>
     <h3>${before ? 'Ngày 1 bắt đầu ' + fmtDate(d.date) + ': ' : ''}${esc(d.source || d.title)}</h3>
     ${d.type === 'review' ? `<ul class="prac">${d.tasks.map(t => `<li>${esc(t)}</li>`).join('')}</ul>
-        <a class="btn block" href="#/on-tap">Vào ôn tập</a>`
+        <a class="btn block" href="#/on-tap">Vào ôn tập</a>${reviewLinks(d, idx)}
+        ${d.mock ? `<a class="btn block line" style="margin-top:8px" href="${plan.links.mock}" target="_blank" rel="noopener">Làm đề thi thử TOPIK I</a>` : ''}`
       : `<p class="small muted">${d.words.length} từ · ngữ pháp: <span lang="ko">${d.grammar.map(g => esc(g.split(' — ')[0])).join(', ')}</span></p>
         ${ready ? `<a class="btn block" href="#/${d.id}">Học ${esc(d.lesson)} ngay</a>` : `<p class="note">Bài này sẽ được soạn xong tối hôm trước (20:30). Trong lúc chờ, vào Ôn tập nhé.</p>`}
         <p class="small" style="margin:12px 0 4px"><b>Luyện TOPIK trên Migii hôm nay:</b></p>${practiceLinks(plan, d)}`}
@@ -284,14 +292,16 @@ async function renderPlan() {
   const plan = await loadPlan(); await loadIndex();
   if (!plan) { $app.innerHTML = '<p class="empty">Chưa có lộ trình.</p>'; return; }
   const t = dayKey(); const ids = INDEX.lessons.map(l => l.id);
-  $app.innerHTML = `<h1>Lộ trình 30 ngày</h1>
-    <p class="muted">${esc(plan.goal)}. Mỗi ngày: 1 bài từ vựng Migii, 3 mẫu ngữ pháp, 1 phần Nghe + 1 phần Đọc TOPIK I.</p>
-    <ol class="plan">${plan.days.map(d => {
+  $app.innerHTML = `<h1>Lộ trình ${plan.days.length} ngày</h1>
+    <p class="muted">${esc(plan.goal)}.</p>
+    ${plan.note ? `<p class="note small">${esc(plan.note)}</p>` : ''}
+    <ol class="plan">${plan.days.map((d, i) => {
+      const head = i === 0 || plan.days[i - 1].level !== d.level ? `<li class="phase">${d.level === 2 ? 'TOPIK 2 · 2/12 → 31/12' : 'TOPIK 1 · 19/11 → 1/12'}</li>` : '';
       const st = d.date < t ? 'past' : d.date === t ? 'now' : 'next';
       const link = d.id && ids.includes(d.id);
-      return `<li class="${st} ${d.type}"><div class="pd"><b>${d.day}</b><span>${fmtDate(d.date).slice(0, -5)}</span></div>
+      return head + `<li class="${st} ${d.type}"><div class="pd"><b>${d.day}</b><span>${fmtDate(d.date).slice(0, -5)}</span></div>
         <div class="pc">${link ? `<a href="#/${d.id}">` : ''}<div class="pt">${esc(d.source || d.title)}</div>${link ? '</a>' : ''}
-        <div class="small muted">${d.type === 'review' ? 'Ôn tập + thi thử TOPIK I' : d.words.length + ' từ · <span lang="ko">' + d.grammar.map(g => esc(g.split(' — ')[0])).join(' · ') + '</span>'}</div></div></li>`;
+        <div class="small muted">${d.type === 'review' ? (d.mock ? '📝 Ôn tập + thi thử TOPIK I' : '🔁 Ôn lại bài 2 ngày trước, không học bài mới') : d.words.length + ' từ · <span lang="ko">' + d.grammar.map(g => esc(g.split(' — ')[0])).join(' · ') + '</span>'}</div></div></li>`;
     }).join('')}</ol>`;
   document.querySelector('.plan li.now')?.scrollIntoView({ block: 'center' });
 }

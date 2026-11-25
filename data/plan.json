@@ -1,5 +1,5 @@
 {
- "goal": "Hoàn thành từ vựng + ngữ pháp TOPIK cấp 1–2 trong 30 ngày",
+ "goal": "Hoàn thành từ vựng + ngữ pháp TOPIK cấp 1–2 trước 31/12/2026",
  "start": "2026-11-19",
  "links": {
   "listening": "https://topik.migii.net/vi/practice/topik-i/listening",
@@ -3409,7 +3409,23 @@
     "Làm Ngữ pháp tổng hợp 2 lượt",
     "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật",
     "Dán kết quả + điểm đề thi cho Claude để được phân tích điểm yếu"
-   ]
+   ],
+   "mock": true,
+   "review": [
+    "bai-5",
+    "bai-6",
+    "bai-7",
+    "bai-8",
+    "bai-9",
+    "bai-10",
+    "bai-11",
+    "bai-12",
+    "bai-13",
+    "bai-14",
+    "bai-15",
+    "bai-16"
+   ],
+   "level": 1
   },
   {
    "day": 14,
@@ -3683,9 +3699,9 @@
    "type": "learn",
    "id": "bai-18",
    "lesson": "Bài 18",
-   "source": "TOPIK 2 – Bài 2: Cuộc hẹn",
+   "source": "TOPIK 2 – Bài 2: Cuộc hẹn (phần 1/2)",
    "level": 2,
-   "title": "Cuộc hẹn",
+   "title": "Cuộc hẹn (phần 1/2)",
    "words": [
     [
      "약속하다",
@@ -3821,7 +3837,46 @@
      "절대",
      "Jeoldae",
      "Tuyệt đối"
-    ],
+    ]
+   ],
+   "grammar": [
+    "V/A + (으)ㄹ 때 — Khi, lúc",
+    "V + 아/어 주다 — Làm giúp, xin hãy"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+   }
+  },
+  {
+   "day": 16,
+   "date": "2026-12-04",
+   "type": "review",
+   "mock": false,
+   "title": "Ôn tập: Gặp gỡ · Cuộc hẹn (phần 1/2)",
+   "review": [
+    "bai-17",
+    "bai-18"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 17 Gặp gỡ và Bài 18 Cuộc hẹn (phần 1/2) (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: V + (으)러 가다, V/A + (으)ㄹ 수 없다, N + 의, V/A + (으)ㄹ 때, V + 아/어 주다",
+    "Migii: 1 phần Nghe + 1 phần Đọc TOPIK I bất kỳ (chọn phần hay sai)",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 17,
+   "date": "2026-12-05",
+   "type": "learn",
+   "id": "bai-19",
+   "lesson": "Bài 19",
+   "source": "TOPIK 2 – Bài 2: Cuộc hẹn (phần 2/2)",
+   "level": 2,
+   "title": "Cuộc hẹn (phần 2/2)",
+   "words": [
     [
      "과사무실",
      "Gwasamusil",
@@ -3954,24 +4009,22 @@
     ]
    ],
    "grammar": [
-    "V/A + (으)ㄹ 때 — Khi, lúc",
-    "V + 아/어 주다 — Làm giúp, xin hãy",
     "N + 만 — Chỉ"
    ],
    "practice": {
-    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
-    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
    }
   },
   {
-   "day": 16,
-   "date": "2026-12-04",
+   "day": 18,
+   "date": "2026-12-06",
    "type": "learn",
-   "id": "bai-19",
-   "lesson": "Bài 19",
-   "source": "TOPIK 2 – Bài 3: Mua sắm P2",
+   "id": "bai-20",
+   "lesson": "Bài 20",
+   "source": "TOPIK 2 – Bài 3: Mua sắm P2 (phần 1/2)",
    "level": 2,
-   "title": "Mua sắm P2",
+   "title": "Mua sắm P2 (phần 1/2)",
    "words": [
     [
      "벌",
@@ -4107,7 +4160,46 @@
      "편하다",
      "Pyeonhada",
      "Thoải mái"
-    ],
+    ]
+   ],
+   "grammar": [
+    "V/A + (으)니까 — Vì, do",
+    "V + 지 말다 — Đừng"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+   }
+  },
+  {
+   "day": 19,
+   "date": "2026-12-07",
+   "type": "review",
+   "mock": true,
+   "title": "Ôn tập + thi thử: Cuộc hẹn (phần 2/2) · Mua sắm P2 (phần 1/2)",
+   "review": [
+    "bai-19",
+    "bai-20"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 19 Cuộc hẹn (phần 2/2) và Bài 20 Mua sắm P2 (phần 1/2) (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: N + 만, V/A + (으)니까, V + 지 말다",
+    "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật, rồi dán điểm cho Claude",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 20,
+   "date": "2026-12-08",
+   "type": "learn",
+   "id": "bai-21",
+   "lesson": "Bài 21",
+   "source": "TOPIK 2 – Bài 3: Mua sắm P2 (phần 2/2)",
+   "level": 2,
+   "title": "Mua sắm P2 (phần 2/2)",
+   "words": [
     [
      "불편하다",
      "Bulpyeonhada",
@@ -4240,21 +4332,19 @@
     ]
    ],
    "grammar": [
-    "V/A + (으)니까 — Vì, do",
-    "V + 지 말다 — Đừng",
     "V + 아/어도 되다 — Được phép, làm ... cũng được"
    ],
    "practice": {
-    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
-    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
    }
   },
   {
-   "day": 17,
-   "date": "2026-12-05",
+   "day": 21,
+   "date": "2026-12-09",
    "type": "learn",
-   "id": "bai-20",
-   "lesson": "Bài 20",
+   "id": "bai-22",
+   "lesson": "Bài 22",
    "source": "TOPIK 2 – Bài 4A: Bệnh viện",
    "level": 2,
    "title": "Bệnh viện",
@@ -4496,16 +4586,35 @@
     "V + 는 — Định ngữ động từ hiện tại"
    ],
    "practice": {
-    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
-    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
    }
   },
   {
-   "day": 18,
-   "date": "2026-12-06",
+   "day": 22,
+   "date": "2026-12-10",
+   "type": "review",
+   "mock": false,
+   "title": "Ôn tập: Mua sắm P2 (phần 2/2) · Bệnh viện",
+   "review": [
+    "bai-21",
+    "bai-22"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 21 Mua sắm P2 (phần 2/2) và Bài 22 Bệnh viện (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: V + 아/어도 되다, N + 보다, A + (으)ㄴ, V + 는",
+    "Migii: 1 phần Nghe + 1 phần Đọc TOPIK I bất kỳ (chọn phần hay sai)",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 23,
+   "date": "2026-12-11",
    "type": "learn",
-   "id": "bai-21",
-   "lesson": "Bài 21",
+   "id": "bai-23",
+   "lesson": "Bài 23",
    "source": "TOPIK 2 – Bài 4B: Bệnh viện",
    "level": 2,
    "title": "Bệnh viện",
@@ -4732,16 +4841,16 @@
     "V/A + 아/어야 하다 — Phải"
    ],
    "practice": {
-    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
-    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
    }
   },
   {
-   "day": 19,
-   "date": "2026-12-07",
+   "day": 24,
+   "date": "2026-12-12",
    "type": "learn",
-   "id": "bai-22",
-   "lesson": "Bài 22",
+   "id": "bai-24",
+   "lesson": "Bài 24",
    "source": "TOPIK 2 – Bài 5: Thư tín",
    "level": 2,
    "title": "Thư tín",
@@ -4918,19 +5027,38 @@
     "V + (으)ㄹ — Định ngữ động từ tương lai"
    ],
    "practice": {
-    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
-    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
    }
   },
   {
-   "day": 20,
-   "date": "2026-12-08",
+   "day": 25,
+   "date": "2026-12-13",
+   "type": "review",
+   "mock": false,
+   "title": "Ôn tập: Bệnh viện · Thư tín",
+   "review": [
+    "bai-23",
+    "bai-24"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 23 Bệnh viện và Bài 24 Thư tín (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: V + (으)ㄴ, N + 마다, V/A + 아/어야 하다, V + 지 못하다, V/A + (으)면, V + (으)ㄹ",
+    "Migii: 1 phần Nghe + 1 phần Đọc TOPIK I bất kỳ (chọn phần hay sai)",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 26,
+   "date": "2026-12-14",
    "type": "learn",
-   "id": "bai-23",
-   "lesson": "Bài 23",
-   "source": "TOPIK 2 – Bài 6: Giao thông P2",
+   "id": "bai-25",
+   "lesson": "Bài 25",
+   "source": "TOPIK 2 – Bài 6: Giao thông P2 (phần 1/2)",
    "level": 2,
-   "title": "Giao thông P2",
+   "title": "Giao thông P2 (phần 1/2)",
    "words": [
     [
      "교통수단",
@@ -5081,7 +5209,27 @@
      "우회전하다",
      "Uhoejeonhada",
      "Rẽ phải"
-    ],
+    ]
+   ],
+   "grammar": [
+    "V + 아/어서 — Làm ... rồi (trình tự)",
+    "N/V/A + 지요? — Đúng không, phải không?"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
+    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+   }
+  },
+  {
+   "day": 27,
+   "date": "2026-12-15",
+   "type": "learn",
+   "id": "bai-26",
+   "lesson": "Bài 26",
+   "source": "TOPIK 2 – Bài 6: Giao thông P2 (phần 2/2)",
+   "level": 2,
+   "title": "Giao thông P2 (phần 2/2)",
+   "words": [
     [
      "왼쪽으로 가다",
      "Oenjjogeuro gada",
@@ -5229,21 +5377,38 @@
     ]
    ],
    "grammar": [
-    "V + 아/어서 — Làm ... rồi (trình tự)",
-    "N/V/A + 지요? — Đúng không, phải không?",
     "서수사 — Số thứ tự"
    ],
    "practice": {
-    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
-    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
    }
   },
   {
-   "day": 21,
-   "date": "2026-12-09",
+   "day": 28,
+   "date": "2026-12-16",
+   "type": "review",
+   "mock": true,
+   "title": "Ôn tập + thi thử: Giao thông P2 (phần 1/2) · Giao thông P2 (phần 2/2)",
+   "review": [
+    "bai-25",
+    "bai-26"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 25 Giao thông P2 (phần 1/2) và Bài 26 Giao thông P2 (phần 2/2) (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: V + 아/어서, N/V/A + 지요?, 서수사",
+    "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật, rồi dán điểm cho Claude",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 29,
+   "date": "2026-12-17",
    "type": "learn",
-   "id": "bai-24",
-   "lesson": "Bài 24",
+   "id": "bai-27",
+   "lesson": "Bài 27",
    "source": "TOPIK 2 – Bài 7: Điện thoại liên lạc P2",
    "level": 2,
    "title": "Điện thoại liên lạc P2",
@@ -5485,19 +5650,19 @@
     "V + (으)ㄹ게요 — Sẽ (hứa hẹn)"
    ],
    "practice": {
-    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
-    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
    }
   },
   {
-   "day": 22,
-   "date": "2026-12-10",
+   "day": 30,
+   "date": "2026-12-18",
    "type": "learn",
-   "id": "bai-25",
-   "lesson": "Bài 25",
-   "source": "TOPIK 2 – Bài 8: Phim ảnh",
+   "id": "bai-28",
+   "lesson": "Bài 28",
+   "source": "TOPIK 2 – Bài 8: Phim ảnh (phần 1/2)",
    "level": 2,
-   "title": "Phim ảnh",
+   "title": "Phim ảnh (phần 1/2)",
    "words": [
     [
      "멜로 영화",
@@ -5638,7 +5803,46 @@
      "울다",
      "Ulda",
      "Khóc"
-    ],
+    ]
+   ],
+   "grammar": [
+    "V/A + 겠 — Chắc là (phỏng đoán)",
+    "V/A + 네요 — Nhỉ, thật đấy (cảm thán)"
+   ],
+   "practice": {
+    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+   }
+  },
+  {
+   "day": 31,
+   "date": "2026-12-19",
+   "type": "review",
+   "mock": false,
+   "title": "Ôn tập: Điện thoại liên lạc P2 · Phim ảnh (phần 1/2)",
+   "review": [
+    "bai-27",
+    "bai-28"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 27 Điện thoại liên lạc P2 và Bài 28 Phim ảnh (phần 1/2) (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: V + (으)려고, V + 기 전에, V + (으)ㄹ게요, V/A + 겠, V/A + 네요",
+    "Migii: 1 phần Nghe + 1 phần Đọc TOPIK I bất kỳ (chọn phần hay sai)",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 32,
+   "date": "2026-12-20",
+   "type": "learn",
+   "id": "bai-29",
+   "lesson": "Bài 29",
+   "source": "TOPIK 2 – Bài 8: Phim ảnh (phần 2/2)",
+   "level": 2,
+   "title": "Phim ảnh (phần 2/2)",
+   "words": [
     [
      "신나다",
      "Sinnada",
@@ -5781,21 +5985,19 @@
     ]
    ],
    "grammar": [
-    "V/A + 겠 — Chắc là (phỏng đoán)",
-    "V/A + 네요 — Nhỉ, thật đấy (cảm thán)",
     "V + 아/어 보다 — Thử làm"
    ],
    "practice": {
-    "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
-    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
    }
   },
   {
-   "day": 23,
-   "date": "2026-12-11",
+   "day": 33,
+   "date": "2026-12-21",
    "type": "learn",
-   "id": "bai-26",
-   "lesson": "Bài 26",
+   "id": "bai-30",
+   "lesson": "Bài 30",
    "source": "TOPIK 2 – Bài 9: Ngày nghỉ",
    "level": 2,
    "title": "Ngày nghỉ",
@@ -6042,16 +6244,35 @@
     "V + 기 위해서 — Để, vì"
    ],
    "practice": {
-    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
-    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
    }
   },
   {
-   "day": 24,
-   "date": "2026-12-12",
+   "day": 34,
+   "date": "2026-12-22",
+   "type": "review",
+   "mock": false,
+   "title": "Ôn tập: Phim ảnh (phần 2/2) · Ngày nghỉ",
+   "review": [
+    "bai-29",
+    "bai-30"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 29 Phim ảnh (phần 2/2) và Bài 30 Ngày nghỉ (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: V + 아/어 보다, N + (이)나, V/A + (으)면 좋겠다, V + 기 위해서",
+    "Migii: 1 phần Nghe + 1 phần Đọc TOPIK I bất kỳ (chọn phần hay sai)",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 35,
+   "date": "2026-12-23",
    "type": "learn",
-   "id": "bai-27",
-   "lesson": "Bài 27",
+   "id": "bai-31",
+   "lesson": "Bài 31",
    "source": "TOPIK 2 – Bài 10: Ngoại hình",
    "level": 2,
    "title": "Ngoại hình",
@@ -6268,16 +6489,16 @@
     "Bất quy tắc ㅎ"
    ],
    "practice": {
-    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
-    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
    }
   },
   {
-   "day": 25,
-   "date": "2026-12-13",
+   "day": 36,
+   "date": "2026-12-24",
    "type": "learn",
-   "id": "bai-28",
-   "lesson": "Bài 28",
+   "id": "bai-32",
+   "lesson": "Bài 32",
    "source": "TOPIK 2 – Bài 11: Du lịch",
    "level": 2,
    "title": "Du lịch",
@@ -6479,16 +6700,35 @@
     "V + (으)ㄴ 적이 있다 — Đã từng"
    ],
    "practice": {
-    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
-    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
    }
   },
   {
-   "day": 26,
-   "date": "2026-12-14",
+   "day": 37,
+   "date": "2026-12-25",
+   "type": "review",
+   "mock": true,
+   "title": "Ôn tập + thi thử: Ngoại hình · Du lịch",
+   "review": [
+    "bai-31",
+    "bai-32"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 31 Ngoại hình và Bài 32 Du lịch (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: A + 아/어지다, V/A + 기 때문에, Bất quy tắc ㅎ, V/A + 거나, V + 고 있다, V + (으)ㄴ 적이 있다",
+    "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật, rồi dán điểm cho Claude",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 38,
+   "date": "2026-12-26",
    "type": "learn",
-   "id": "bai-29",
-   "lesson": "Bài 29",
+   "id": "bai-33",
+   "lesson": "Bài 33",
    "source": "TOPIK 2 – Bài 12: Nơi công cộng",
    "level": 2,
    "title": "Nơi công cộng",
@@ -6660,16 +6900,16 @@
     "V + (으)면 안 되다 — Không được"
    ],
    "practice": {
-    "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
-    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+    "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
+    "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
    }
   },
   {
-   "day": 27,
-   "date": "2026-12-15",
+   "day": 39,
+   "date": "2026-12-27",
    "type": "learn",
-   "id": "bai-30",
-   "lesson": "Bài 30",
+   "id": "bai-34",
+   "lesson": "Bài 34",
    "source": "TOPIK 2 – Bài 13: Đô thị",
    "level": 2,
    "title": "Đô thị",
@@ -6886,16 +7126,35 @@
     "Bất quy tắc ㅅ"
    ],
    "practice": {
-    "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
-    "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+    "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+    "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
    }
   },
   {
-   "day": 28,
-   "date": "2026-12-16",
+   "day": 40,
+   "date": "2026-12-28",
+   "type": "review",
+   "mock": false,
+   "title": "Ôn tập: Nơi công cộng · Đô thị",
+   "review": [
+    "bai-33",
+    "bai-34"
+   ],
+   "tasks": [
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Làm lại Luyện từ + Ngữ pháp của Bài 33 Nơi công cộng và Bài 34 Đô thị (chỉ cần làm lại dạng hay sai)",
+    "Đặt 5 câu, mỗi câu dùng 1 mẫu vừa học: V/A + (으)면서, N/trợ từ/đuôi liên kết + 요, V + (으)면 안 되다, N + (이)나, V/A + (으)ㄹ 것 같다, Bất quy tắc ㅅ",
+    "Migii: 1 phần Nghe + 1 phần Đọc TOPIK I bất kỳ (chọn phần hay sai)",
+    "Nộp bài: Copy kết quả rồi dán cho Claude chấm"
+   ],
+   "level": 2
+  },
+  {
+   "day": 41,
+   "date": "2026-12-29",
    "type": "learn",
-   "id": "bai-31",
-   "lesson": "Bài 31",
+   "id": "bai-35",
+   "lesson": "Bài 35",
    "source": "TOPIK 2 – Bài 14: Kế hoạch",
    "level": 2,
    "title": "Kế hoạch",
@@ -7157,16 +7416,16 @@
     "V + 기로 하다 — Quyết định"
    ],
    "practice": {
-    "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
-    "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+    "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+    "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
    }
   },
   {
-   "day": 29,
-   "date": "2026-12-17",
+   "day": 42,
+   "date": "2026-12-30",
    "type": "learn",
-   "id": "bai-32",
-   "lesson": "Bài 32",
+   "id": "bai-36",
+   "lesson": "Bài 36",
    "source": "TOPIK 2 – Bài 15: Đời sống Hàn Quốc",
    "level": 2,
    "title": "Đời sống Hàn Quốc",
@@ -7403,21 +7662,29 @@
     "Bất quy tắc 르"
    ],
    "practice": {
-    "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
-    "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+    "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+    "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
    }
   },
   {
-   "day": 30,
-   "date": "2026-12-18",
+   "day": 43,
+   "date": "2026-12-31",
    "type": "review",
-   "title": "Tổng ôn cấp 1–2 + thi thử",
+   "mock": true,
+   "title": "Tổng ôn TOPIK 1–2 + thi thử",
+   "review": [
+    "bai-35",
+    "bai-36"
+   ],
    "tasks": [
-    "Vào mục Ôn tập: ôn hết từ sắp quên và từ hay sai",
+    "Vào Ôn tập: ôn hết từ sắp quên và từ hay sai",
     "Làm Ngữ pháp tổng hợp 2 lượt",
-    "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật",
-    "Dán kết quả + điểm đề thi cho Claude để được phân tích điểm yếu"
-   ]
+    "Làm 1 đề thi thử TOPIK I trên Migii (Đề thi → TOPIK I), canh giờ như thi thật (Nghe 40 phút + Đọc 60 phút)",
+    "Dán kết quả + điểm đề cho Claude để so với các lần thi thử trước"
+   ],
+   "level": 2
   }
- ]
+ ],
+ "end": "2026-12-31",
+ "note": "TOPIK 1 (19/11–1/12): mỗi ngày 1 bài Migii + 3 mẫu ngữ pháp. TOPIK 2 (2/12–31/12): bài nhẹ hơn (bài dài chia 2 ngày, 1–3 mẫu ngữ pháp), cứ 2 ngày học thì 1 ngày ôn, thi thử 4 lần."
 }
