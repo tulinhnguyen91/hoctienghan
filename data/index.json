@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-25",
  "lessons": [
   {
    "id": "bai-1",
@@ -98,6 +98,15 @@
    "krTitle": "가족",
    "date": "2026-11-25",
    "words": 62,
+   "exercises": 30
+  },
+  {
+   "id": "bai-12",
+   "lesson": "Bài 12",
+   "title": "Thời tiết",
+   "krTitle": "날씨",
+   "date": "2026-11-26",
+   "words": 52,
    "exercises": 30
   }
  ]

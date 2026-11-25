@@ -1,0 +1,754 @@
+{
+ "id": "bai-12",
+ "lesson": "Bài 12",
+ "title": "Thời tiết",
+ "krTitle": "날씨",
+ "date": "2026-11-26",
+ "day": 8,
+ "source": "TOPIK 1 – Bài 11: Thời tiết",
+ "practice": {
+  "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+  "reading": "Đọc – Phần 1: Chủ đề câu nói (31~33)"
+ },
+ "words": [
+  [
+   "날씨",
+   "Nalssi",
+   "Thời tiết",
+   "오늘 날씨가 좋아요.",
+   "Hôm nay thời tiết đẹp."
+  ],
+  [
+   "봄",
+   "Bom",
+   "Mùa xuân",
+   "봄에는 날씨가 따뜻해요.",
+   "Mùa xuân thời tiết ấm áp."
+  ],
+  [
+   "여름",
+   "Yeoreum",
+   "Mùa hè",
+   "여름은 덥고 비가 많이 와요.",
+   "Mùa hè nóng và mưa nhiều."
+  ],
+  [
+   "가을",
+   "Gaeul",
+   "Mùa thu",
+   "가을 하늘이 맑아요.",
+   "Bầu trời mùa thu trong xanh."
+  ],
+  [
+   "따뜻하다",
+   "Ttatteutada",
+   "Ấm áp",
+   "오늘은 날씨가 따뜻해요.",
+   "Hôm nay trời ấm áp."
+  ],
+  [
+   "덥다",
+   "Deopda",
+   "Nóng",
+   "베트남의 여름은 아주 더워요.",
+   "Mùa hè ở Việt Nam rất nóng."
+  ],
+  [
+   "쌀쌀하다",
+   "Ssalssalhada",
+   "Se lạnh",
+   "아침에는 조금 쌀쌀해요.",
+   "Buổi sáng hơi se lạnh."
+  ],
+  [
+   "춥다",
+   "Chupda",
+   "Lạnh",
+   "내일은 추울 거예요.",
+   "Ngày mai trời sẽ lạnh."
+  ],
+  [
+   "비가 오다/내리다",
+   "Biga oda/naerida",
+   "Trời mưa",
+   "지금 밖에 비가 와요.",
+   "Bây giờ bên ngoài trời đang mưa."
+  ],
+  [
+   "비가 그치다",
+   "Biga geuchida",
+   "Tạnh mưa",
+   "오후에 비가 그쳤어요.",
+   "Buổi chiều mưa đã tạnh."
+  ],
+  [
+   "눈이 오다/내리다",
+   "Nuni oda/naerida",
+   "Tuyết rơi",
+   "서울에 눈이 내려요.",
+   "Ở Seoul tuyết đang rơi."
+  ],
+  [
+   "눈이 그치다",
+   "Nuni geuchida",
+   "Tuyết ngừng rơi",
+   "눈이 그치고 해가 나왔어요.",
+   "Tuyết ngừng rơi và mặt trời đã ló ra."
+  ],
+  [
+   "맑다",
+   "Mak-tta",
+   "Trong xanh, quang đãng",
+   "오늘은 하늘이 맑아요.",
+   "Hôm nay bầu trời trong xanh."
+  ],
+  [
+   "흐리다",
+   "Heurida",
+   "Âm u",
+   "오늘은 날씨가 흐려요.",
+   "Hôm nay trời âm u."
+  ],
+  [
+   "바람이 불다",
+   "Barami bulda",
+   "Gió thổi",
+   "바람이 많이 불어요.",
+   "Gió thổi mạnh."
+  ],
+  [
+   "구름이 끼다",
+   "Gureumi kkida",
+   "Nhiều mây",
+   "하늘에 구름이 꼈어요.",
+   "Bầu trời nhiều mây."
+  ],
+  [
+   "해 (태양)",
+   "Hae (taeyang)",
+   "Mặt trời",
+   "오늘은 해가 아주 뜨거워요.",
+   "Hôm nay mặt trời rất gay gắt."
+  ],
+  [
+   "비",
+   "Bi",
+   "Mưa",
+   "어제 비가 많이 왔어요.",
+   "Hôm qua mưa nhiều."
+  ],
+  [
+   "눈",
+   "Nun",
+   "Tuyết; mắt",
+   "저는 눈을 좋아해요.",
+   "Tôi thích tuyết."
+  ],
+  [
+   "구름",
+   "Gureum",
+   "Mây",
+   "하늘에 구름이 많아요.",
+   "Trên trời có nhiều mây."
+  ],
+  [
+   "기온",
+   "Gion",
+   "Nhiệt độ",
+   "오늘 기온은 25도예요.",
+   "Nhiệt độ hôm nay là 25 độ."
+  ],
+  [
+   "영상",
+   "Yeongsang",
+   "Trên 0 độ",
+   "내일 기온은 영상 5도예요.",
+   "Nhiệt độ ngày mai là 5 độ (trên 0)."
+  ],
+  [
+   "영하",
+   "Yeongha",
+   "Dưới 0 độ",
+   "서울의 겨울은 영하 10도까지 내려가요.",
+   "Mùa đông ở Seoul xuống tới âm 10 độ."
+  ],
+  [
+   "도",
+   "Do",
+   "Độ",
+   "지금 몇 도예요?",
+   "Bây giờ là bao nhiêu độ?"
+  ],
+  [
+   "가장",
+   "Gajang",
+   "Nhất",
+   "저는 봄을 가장 좋아해요.",
+   "Tôi thích mùa xuân nhất."
+  ],
+  [
+   "반바지",
+   "Banbaji",
+   "Quần soóc",
+   "동생이 반바지를 입었어요.",
+   "Em tôi đã mặc quần soóc."
+  ],
+  [
+   "입다",
+   "Ipda",
+   "Mặc",
+   "날씨가 추워요. 긴팔 옷을 입으세요.",
+   "Trời lạnh. Hãy mặc áo dài tay."
+  ],
+  [
+   "곱다",
+   "Gopda",
+   "Đẹp, xinh xắn",
+   "단풍이 정말 고와요.",
+   "Lá đỏ thật là đẹp."
+  ],
+  [
+   "반팔 옷",
+   "Banpal ot",
+   "Áo cộc tay",
+   "여름에는 반팔 옷을 입어요.",
+   "Mùa hè tôi mặc áo cộc tay."
+  ],
+  [
+   "장갑",
+   "Janggap",
+   "Găng tay",
+   "눈이 와요. 장갑이 필요해요.",
+   "Tuyết rơi. Cần găng tay."
+  ],
+  [
+   "긴팔 옷",
+   "Ginpal ot",
+   "Áo dài tay",
+   "가을에는 긴팔 옷을 입어요.",
+   "Mùa thu tôi mặc áo dài tay."
+  ],
+  [
+   "부츠",
+   "Bucheu",
+   "Giày bốt",
+   "눈이 많이 와요. 부츠를 신으세요.",
+   "Tuyết rơi nhiều. Hãy đi giày bốt."
+  ],
+  [
+   "좁다",
+   "Jopda",
+   "Hẹp",
+   "이 길은 아주 좁아요.",
+   "Con đường này rất hẹp."
+  ],
+  [
+   "깨끗하다",
+   "Kkaekkeutada",
+   "Sạch sẽ",
+   "비가 그치고 공기가 깨끗해요.",
+   "Mưa tạnh và không khí trong sạch."
+  ],
+  [
+   "비슷하다",
+   "Biseutada",
+   "Tương tự, giống",
+   "하노이의 겨울은 서울의 가을하고 비슷해요.",
+   "Mùa đông Hà Nội giống mùa thu Seoul."
+  ],
+  [
+   "추억",
+   "Chueok",
+   "Kỷ niệm",
+   "스키장에서 좋은 추억을 만들었어요.",
+   "Tôi đã có kỷ niệm đẹp ở khu trượt tuyết."
+  ],
+  [
+   "노란색",
+   "Noransaek",
+   "Màu vàng",
+   "노란색 우산을 샀어요.",
+   "Tôi đã mua một chiếc ô màu vàng."
+  ],
+  [
+   "스노보드",
+   "Seunobodeu",
+   "Ván trượt tuyết",
+   "이번 겨울에 스노보드를 탈 거예요.",
+   "Mùa đông này tôi sẽ trượt ván tuyết."
+  ],
+  [
+   "필요하다",
+   "Piryohada",
+   "Cần thiết",
+   "비가 와요. 우산이 필요해요.",
+   "Trời mưa. Cần ô."
+  ],
+  [
+   "단풍",
+   "Danpung",
+   "Lá đỏ mùa thu",
+   "가을에는 단풍이 아름다워요.",
+   "Mùa thu lá đỏ rất đẹp."
+  ],
+  [
+   "스키",
+   "Seuki",
+   "Trượt tuyết",
+   "친구하고 스키를 탔어요.",
+   "Tôi đã trượt tuyết cùng bạn."
+  ],
+  [
+   "하늘",
+   "Haneul",
+   "Bầu trời",
+   "하늘에 구름이 없어요.",
+   "Trên bầu trời không có mây."
+  ],
+  [
+   "답장",
+   "Dapjang",
+   "Thư hồi âm",
+   "친구의 답장을 받았어요.",
+   "Tôi đã nhận được thư hồi âm của bạn."
+  ],
+  [
+   "스키장",
+   "Seukijang",
+   "Khu trượt tuyết",
+   "주말에 스키장에 갈 거예요.",
+   "Cuối tuần tôi sẽ đi khu trượt tuyết."
+  ],
+  [
+   "하얀 눈",
+   "Hayan nun",
+   "Tuyết trắng",
+   "하얀 눈이 내려요.",
+   "Tuyết trắng đang rơi."
+  ],
+  [
+   "도와주다",
+   "Dowajuda",
+   "Giúp đỡ",
+   "친구가 이사를 도와줬어요.",
+   "Bạn đã giúp tôi chuyển nhà."
+  ],
+  [
+   "시끄럽다",
+   "Sikkeureopda",
+   "Ồn ào",
+   "밖이 너무 시끄러워요.",
+   "Bên ngoài ồn ào quá."
+  ],
+  [
+   "호수",
+   "Hosu",
+   "Hồ",
+   "공원에 큰 호수가 있어요.",
+   "Trong công viên có một cái hồ lớn."
+  ],
+  [
+   "돕다",
+   "Dopda",
+   "Giúp đỡ",
+   "저는 어머니를 도와요.",
+   "Tôi giúp mẹ."
+  ],
+  [
+   "아름답다",
+   "Areumdapda",
+   "Đẹp",
+   "제주도는 정말 아름다워요.",
+   "Đảo Jeju thật sự rất đẹp."
+  ],
+  [
+   "목도리",
+   "Mokdori",
+   "Khăn quàng cổ",
+   "날씨가 추워요. 목도리를 하세요.",
+   "Trời lạnh. Hãy quàng khăn."
+  ],
+  [
+   "우산",
+   "Usan",
+   "Ô, dù",
+   "우산 있어요? 지금 비가 와요.",
+   "Bạn có ô không? Bây giờ trời đang mưa."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 고 — Và, còn",
+   "meaning": "Nối hai hành động, hai trạng thái hoặc hai sự việc ngang hàng (liệt kê). Gắn thẳng vào gốc động/tính từ, KHÔNG phân biệt patchim: 덥다 → 덥고, 맑다 → 맑고, 흐리다 → 흐리고, 불다 → 불고. Với danh từ: N이다 → (이)고 (학생이고, 의사고). Thì (quá khứ, tương lai) thường chỉ chia ở vế cuối: 어제는 비가 오고 바람이 불었어요. Lưu ý: ㅂ bất quy tắc KHÔNG biến đổi trước 고 (춥고 ✓, 추워고 ✗). Đừng nhầm với N + 하고 (danh từ và danh từ) hay V + 고 싶다 (muốn).",
+   "examples": [
+    "오늘은 춥고 바람이 불어요. — Hôm nay trời lạnh và gió thổi.",
+    "봄은 따뜻하고 가을은 쌀쌀해요. — Mùa xuân ấm áp, còn mùa thu se lạnh.",
+    "하늘이 맑고 구름이 없어요. — Bầu trời trong xanh và không có mây.",
+    "어제는 비가 오고 오늘은 눈이 와요. — Hôm qua trời mưa, còn hôm nay tuyết rơi."
+   ]
+  },
+  {
+   "form": "부터~까지 — Từ ~ đến (thời gian)",
+   "meaning": "N(thời gian) + 부터 = 'từ', N + 까지 = 'đến'. Gắn thẳng vào danh từ, không phân biệt patchim: 월요일부터 금요일까지, 아침부터 저녁까지, 12월부터 2월까지. Có thể dùng riêng: 내일부터 (từ ngày mai), 몇 시까지? (đến mấy giờ?). Hỏi: 언제부터 언제까지예요? Lưu ý: với NƠI CHỐN thường dùng 에서~까지 (서울에서 부산까지), còn THỜI GIAN dùng 부터~까지. Đừng thêm 에 vào trước: 9시에부터 ✗ → 9시부터 ✓.",
+   "examples": [
+    "월요일부터 금요일까지 회사에 가요. — Từ thứ Hai đến thứ Sáu tôi đi làm.",
+    "아침부터 저녁까지 비가 왔어요. — Mưa từ sáng đến tối.",
+    "12월부터 2월까지 날씨가 추워요. — Từ tháng 12 đến tháng 2 trời lạnh.",
+    "몇 시부터 몇 시까지 공부해요? — Bạn học từ mấy giờ đến mấy giờ?"
+   ]
+  },
+  {
+   "form": "V + (으)ㄹ 거예요 — Sẽ",
+   "meaning": "Nói về dự định trong tương lai (với động từ) hoặc phỏng đoán (với tính từ, chuyện thời tiết…). Gốc có patchim → 을 거예요 (입다 → 입을 거예요, 먹다 → 먹을 거예요); gốc không có patchim → ㄹ 거예요 (가다 → 갈 거예요, 흐리다 → 흐릴 거예요). Gốc kết thúc bằng ㄹ chỉ thêm 거예요 (불다 → 불 거예요, 놀다 → 놀 거예요; 불을 거예요 ✗). ㅂ bất quy tắc: ㅂ → 우 rồi + ㄹ: 춥다 → 추울 거예요, 덥다 → 더울 거예요. Phát âm 거예요 như [거에요] nhưng phải VIẾT 거예요. Kính ngữ: (으)실 거예요 (오실 거예요). So với 겠: (으)ㄹ 거예요 tự nhiên trong hội thoại hằng ngày; 겠 trang trọng hơn hoặc thể hiện ý chí/phán đoán tức thời.",
+   "examples": [
+    "내일은 비가 올 거예요. — Ngày mai trời sẽ mưa.",
+    "주말에 스키장에 갈 거예요. — Cuối tuần tôi sẽ đi khu trượt tuyết.",
+    "밤에는 바람이 많이 불 거예요. — Ban đêm gió sẽ thổi mạnh.",
+    "내일은 영하 5도예요. 아주 추울 거예요. — Ngày mai âm 5 độ. Chắc sẽ rất lạnh."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hôm nay trời lạnh và gió thổi.",
+   "kr": "오늘은 ___ 바람이 불어요.",
+   "options": [
+    "춥고",
+    "추워고",
+    "춥어고"
+   ],
+   "answer": "춥고",
+   "explain": "고 gắn thẳng vào gốc 춥-. ㅂ bất quy tắc chỉ biến đổi trước nguyên âm (추워요), trước 고 vẫn giữ ㅂ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Từ thứ Hai đến thứ Sáu tôi đi làm.",
+   "kr": "월요일___ 금요일까지 회사에 가요.",
+   "options": [
+    "부터",
+    "까지",
+    "에서"
+   ],
+   "answer": "부터",
+   "explain": "Mốc thời gian bắt đầu dùng 부터, mốc kết thúc dùng 까지."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ngày mai trời sẽ lạnh.",
+   "kr": "내일은 ___.",
+   "options": [
+    "추울 거예요",
+    "춥을 거예요",
+    "춥 거예요"
+   ],
+   "answer": "추울 거예요",
+   "explain": "춥다 là ㅂ bất quy tắc: ㅂ → 우, rồi + ㄹ 거예요 → 추울 거예요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Cuối tuần tôi sẽ đến khu trượt tuyết.",
+   "kr": "주말에 스키장에 ___.",
+   "options": [
+    "갈 거예요",
+    "가을 거예요",
+    "갔을 거예요"
+   ],
+   "answer": "갈 거예요",
+   "explain": "가다 không có patchim → ㄹ 거예요 → 갈 거예요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ngày mai gió sẽ thổi mạnh.",
+   "kr": "내일은 바람이 많이 ___.",
+   "options": [
+    "불 거예요",
+    "불을 거예요",
+    "부를 거예요"
+   ],
+   "answer": "불 거예요",
+   "explain": "Gốc kết thúc bằng ㄹ (불다) chỉ thêm 거예요 → 불 거예요. 부를 거예요 là của 부르다 (hát/gọi)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Trời mưa rồi. Cần ô.",
+   "kr": "비가 와요. ___이 필요해요.",
+   "options": [
+    "우산",
+    "장갑",
+    "부츠",
+    "반바지"
+   ],
+   "answer": "우산",
+   "explain": "우산 = ô, dù. 장갑 = găng tay, 부츠 = giày bốt, 반바지 = quần soóc."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mưa đã tạnh.",
+   "kr": "비가 ___.",
+   "options": [
+    "그쳤어요",
+    "불었어요",
+    "꼈어요"
+   ],
+   "answer": "그쳤어요",
+   "explain": "비가 그치다 = tạnh mưa → quá khứ 그쳤어요. 불다 đi với 바람, 끼다 đi với 구름."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn động từ đúng: Tôi mặc quần soóc.",
+   "kr": "반바지를 ___.",
+   "options": [
+    "입어요",
+    "신어요",
+    "써요"
+   ],
+   "answer": "입어요",
+   "explain": "입다 dùng cho quần áo; 신다 cho giày/tất (부츠를 신어요); 쓰다 cho mũ, ô."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Hôm nay nóng nhất.",
+   "kr": "",
+   "options": [
+    "오늘이 가장 더워요.",
+    "오늘이 가장 덥어요.",
+    "오늘이 가장 더워고요."
+   ],
+   "answer": "오늘이 가장 더워요.",
+   "explain": "덥다 + 어요 → ㅂ thành 우 → 더워요. 가장 = nhất, đứng trước tính từ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ngày mai mẹ sẽ đến Seoul.",
+   "kr": "내일 어머니께서 서울에 ___.",
+   "options": [
+    "오실 거예요",
+    "올 거예요",
+    "오셨어요"
+   ],
+   "answer": "오실 거예요",
+   "explain": "Chủ ngữ bề trên có 께서 → thêm 시: 오시 + ㄹ 거예요 → 오실 거예요. 오셨어요 là quá khứ, không hợp với 내일."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng V/A + 고 của 맑다: Bầu trời trong xanh và ấm áp.",
+   "kr": "하늘이 ___ 따뜻해요.",
+   "answer": [
+    "맑고"
+   ],
+   "explain": "맑다 → bỏ 다 + 고 → 맑고 (đọc [말꼬])."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Tôi làm việc từ 9 giờ đến 6 giờ.",
+   "kr": "아홉 시부터 여섯 시___ 일해요.",
+   "answer": [
+    "까지"
+   ],
+   "explain": "Mốc kết thúc thời gian → 까지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng (으)ㄹ 거예요 của 입다: Ngày mai tôi sẽ mặc áo dài tay.",
+   "kr": "내일은 긴팔 옷을 ___.",
+   "answer": [
+    "입을 거예요"
+   ],
+   "explain": "입다 có patchim ㅂ (KHÔNG phải ㅂ bất quy tắc) → 입을 거예요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng (으)ㄹ 거예요 của 흐리다: Chiều nay trời sẽ âm u.",
+   "kr": "오늘 오후에는 날씨가 ___.",
+   "answer": [
+    "흐릴 거예요"
+   ],
+   "explain": "흐리다 không có patchim → ㄹ 거예요 → 흐릴 거예요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어요 của 아름답다: Cái hồ thật đẹp.",
+   "kr": "호수가 정말 ___.",
+   "answer": [
+    "아름다워요"
+   ],
+   "explain": "아름답다 là ㅂ bất quy tắc: ㅂ → 우 + 어요 → 아름다워요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어요 của 돕다: Tôi giúp mẹ.",
+   "kr": "저는 어머니를 ___.",
+   "answer": [
+    "도와요"
+   ],
+   "explain": "돕다, 곱다 là trường hợp đặc biệt: ㅂ → 오 + 아요 → 도와요, 고와요 (không phải 도워요)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngày mai tuyết sẽ rơi ở Seoul.",
+   "tokens": [
+    "내일",
+    "서울에",
+    "눈이",
+    "올",
+    "거예요"
+   ],
+   "answer": "내일 서울에 눈이 올 거예요",
+   "explain": "눈이 오다 + ㄹ 거예요 → 눈이 올 거예요; nơi chốn + 에."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mùa xuân ấm áp, còn mùa thu se lạnh.",
+   "tokens": [
+    "봄은",
+    "따뜻하고",
+    "가을은",
+    "쌀쌀해요"
+   ],
+   "answer": "봄은 따뜻하고 가을은 쌀쌀해요",
+   "explain": "Hai vế đối chiếu nối bằng 고, mỗi vế có 은/는 để so sánh."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Từ tháng 12 đến tháng 2 trời lạnh.",
+   "tokens": [
+    "12월부터",
+    "2월까지",
+    "날씨가",
+    "추워요"
+   ],
+   "answer": "12월부터 2월까지 날씨가 추워요",
+   "explain": "Thời gian: N부터 N까지 đứng đầu câu; 춥다 → 추워요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi thích mùa thu nhất.",
+   "tokens": [
+    "저는",
+    "가을을",
+    "가장",
+    "좋아해요"
+   ],
+   "answer": "저는 가을을 가장 좋아해요",
+   "explain": "가장 đứng ngay trước động/tính từ: 가장 좋아해요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hôm nay trời mưa và gió thổi.",
+   "answer": [
+    "오늘은 비가 오고 바람이 불어요.",
+    "오늘 비가 오고 바람이 불어요.",
+    "오늘은 비가 내리고 바람이 불어요.",
+    "오늘 비가 내리고 바람이 불어요.",
+    "오늘은 비가 오고 바람도 불어요.",
+    "오늘 비가 오고 바람도 불어요."
+   ],
+   "explain": "Nối hai hiện tượng bằng 고: 비가 오고 + 바람이 불어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ngày mai tôi sẽ đi khu trượt tuyết.",
+   "answer": [
+    "내일 스키장에 갈 거예요.",
+    "내일은 스키장에 갈 거예요.",
+    "저는 내일 스키장에 갈 거예요.",
+    "내일 저는 스키장에 갈 거예요.",
+    "저는 내일은 스키장에 갈 거예요."
+   ],
+   "explain": "Dự định tương lai: 가다 → 갈 거예요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi học tiếng Hàn từ 7 giờ đến 9 giờ.",
+   "answer": [
+    "일곱 시부터 아홉 시까지 한국어를 공부해요.",
+    "일곱 시부터 아홉 시까지 한국어를 배워요.",
+    "저는 일곱 시부터 아홉 시까지 한국어를 공부해요.",
+    "저는 일곱 시부터 아홉 시까지 한국어를 배워요.",
+    "7시부터 9시까지 한국어를 공부해요.",
+    "7시부터 9시까지 한국어를 배워요.",
+    "저는 7시부터 9시까지 한국어를 공부해요.",
+    "저는 7시부터 9시까지 한국어를 배워요."
+   ],
+   "explain": "Giờ dùng số thuần Hàn (일곱 시, 아홉 시) + 부터~까지."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Trời lạnh. Tôi cần găng tay.",
+   "answer": [
+    "추워요. 장갑이 필요해요.",
+    "날씨가 추워요. 장갑이 필요해요.",
+    "추워요. 저는 장갑이 필요해요.",
+    "날씨가 추워요. 저는 장갑이 필요해요."
+   ],
+   "explain": "춥다 → 추워요; 필요하다 đi với 이/가: 장갑이 필요해요 (không dùng 을/를)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "내일은 흐리고 오후부터 비가 올 거예요.",
+   "answer": "Ngày mai trời âm u và từ chiều sẽ có mưa.",
+   "explain": "흐리고 = âm u và; 오후부터 = từ buổi chiều; 올 거예요 = sẽ (đến) mưa."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "단풍이 곱고 하늘이 맑아요.",
+   "answer": "Lá đỏ đẹp và bầu trời trong xanh.",
+   "explain": "곱다 = đẹp (màu sắc, dáng vẻ); 맑다 = trong xanh."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? Chọn đáp án đúng. (Dạng TOPIK câu 31~33)",
+   "kr": "오늘은 비가 와요. 바람도 많이 불어요.",
+   "options": [
+    "날씨",
+    "가족",
+    "음식",
+    "집"
+   ],
+   "answer": "날씨",
+   "explain": "Mưa, gió thổi → nói về thời tiết (날씨)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ đúng điền vào ( ___ ). (Dạng TOPIK câu 34~39)",
+   "kr": "오늘 기온은 영하 10도예요. 아주 추워요. 그래서 ( ___ )를 했어요.",
+   "options": [
+    "목도리",
+    "반바지",
+    "반팔 옷",
+    "우산"
+   ],
+   "answer": "목도리",
+   "explain": "Âm 10 độ, rất lạnh → quàng khăn (목도리를 하다)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu đúng với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 다음 주 월요일부터 금요일까지 회사에 안 가요. 친구하고 같이 스키장에 갈 거예요. 저는 스키를 탈 거예요. 친구는 스노보드를 탈 거예요. 스키장은 눈이 많이 오고 추울 거예요. 그래서 장갑하고 목도리가 필요해요.",
+   "options": [
+    "저는 스노보드를 탈 거예요.",
+    "친구는 스키를 탈 거예요.",
+    "저는 다음 주에 스키장에 갈 거예요.",
+    "스키장은 따뜻할 거예요."
+   ],
+   "answer": "저는 다음 주에 스키장에 갈 거예요.",
+   "explain": "Người viết nghỉ làm từ thứ Hai đến thứ Sáu tuần sau và sẽ đi khu trượt tuyết với bạn. Tôi trượt tuyết (스키), bạn trượt ván (스노보드); khu trượt tuyết sẽ lạnh."
+  },
+  {
+   "type": "read",
+   "q": "Chọn đáp án phù hợp điền vào ( ___ ). (Dạng TOPIK câu suy luận 34~39)",
+   "kr": "내일 서울의 기온은 영하 5도예요. 하늘이 흐리고 아침부터 저녁까지 ( ___ ).",
+   "options": [
+    "눈이 올 거예요",
+    "반바지를 입을 거예요",
+    "아주 더울 거예요",
+    "해가 뜨거울 거예요"
+   ],
+   "answer": "눈이 올 거예요",
+   "explain": "Âm 5 độ, trời âm u → cả ngày sẽ có tuyết rơi. Các lựa chọn khác trái với trời lạnh."
+  }
+ ]
+}
