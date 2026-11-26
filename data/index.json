@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "lessons": [
   {
    "id": "bai-1",
@@ -106,6 +106,15 @@
    "title": "Thời tiết",
    "krTitle": "날씨",
    "date": "2026-11-26",
+   "words": 52,
+   "exercises": 30
+  },
+  {
+   "id": "bai-13",
+   "lesson": "Bài 13",
+   "title": "Điện thoại liên lạc P1",
+   "krTitle": "전화",
+   "date": "2026-11-27",
    "words": 52,
    "exercises": 30
   }
