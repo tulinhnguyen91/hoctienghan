@@ -1,0 +1,737 @@
+{
+ "id": "bai-14",
+ "lesson": "Bài 14",
+ "title": "Sinh nhật",
+ "krTitle": "생일",
+ "date": "2026-11-28",
+ "day": 10,
+ "source": "TOPIK 1 – Bài 13: Sinh nhật",
+ "practice": {
+  "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+  "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+ },
+ "words": [
+  [
+   "생일",
+   "Saengil",
+   "Sinh nhật",
+   "오늘은 제 생일이에요.",
+   "Hôm nay là sinh nhật của tôi."
+  ],
+  [
+   "축하 노래",
+   "Chukha norae",
+   "Bài hát chúc mừng",
+   "친구들이 축하 노래를 불렀어요.",
+   "Các bạn đã hát bài hát chúc mừng."
+  ],
+  [
+   "카드",
+   "Kadeu",
+   "Thiệp",
+   "엄마에게 생일 카드를 쓰려고 해요.",
+   "Tôi định viết thiệp sinh nhật cho mẹ."
+  ],
+  [
+   "잔치",
+   "Janchi",
+   "Tiệc",
+   "토요일에 할머니 생신 잔치가 있어요.",
+   "Thứ Bảy có tiệc mừng sinh nhật bà."
+  ],
+  [
+   "초대",
+   "Chodae",
+   "Lời mời",
+   "초대 감사합니다.",
+   "Cảm ơn lời mời ạ."
+  ],
+  [
+   "나이",
+   "Nai",
+   "Tuổi",
+   "나이가 어떻게 되세요?",
+   "Bạn bao nhiêu tuổi ạ?"
+  ],
+  [
+   "살",
+   "Sal",
+   "Tuổi (đếm bằng số thuần Hàn)",
+   "저는 스물다섯 살이에요.",
+   "Tôi 25 tuổi."
+  ],
+  [
+   "연세",
+   "Yeonse",
+   "Tuổi (kính ngữ của 나이)",
+   "할아버지는 연세가 어떻게 되세요?",
+   "Ông bao nhiêu tuổi ạ?"
+  ],
+  [
+   "세",
+   "Se",
+   "Tuổi (đếm bằng số Hán Hàn)",
+   "제 동생은 올해 십오 세예요.",
+   "Em tôi năm nay 15 tuổi."
+  ],
+  [
+   "화장품",
+   "Hwajangpum",
+   "Mỹ phẩm",
+   "언니에게 화장품을 선물했어요.",
+   "Tôi đã tặng mỹ phẩm cho chị."
+  ],
+  [
+   "손수건",
+   "Sonsugeon",
+   "Khăn tay",
+   "할머니께 손수건을 드렸어요.",
+   "Tôi đã tặng khăn tay cho bà."
+  ],
+  [
+   "넥타이",
+   "Nekthai",
+   "Cà vạt",
+   "아빠 생신에 넥타이를 사려고 해요.",
+   "Tôi định mua cà vạt nhân sinh nhật bố."
+  ],
+  [
+   "귀걸이",
+   "Gwigeori",
+   "Hoa tai, bông tai",
+   "이 귀걸이가 정말 예뻐요.",
+   "Đôi bông tai này đẹp thật."
+  ],
+  [
+   "목걸이",
+   "Mokgeori",
+   "Dây chuyền",
+   "생일에 목걸이를 받았어요.",
+   "Tôi đã nhận được dây chuyền vào sinh nhật."
+  ],
+  [
+   "반지",
+   "Banji",
+   "Nhẫn",
+   "반지가 조금 작아요.",
+   "Chiếc nhẫn hơi nhỏ."
+  ],
+  [
+   "꽃다발",
+   "Kkotdabal",
+   "Bó hoa",
+   "엄마한테 꽃다발을 줄까요?",
+   "Mình tặng bó hoa cho mẹ nhé?"
+  ],
+  [
+   "선물을 주다",
+   "Seonmureul juda",
+   "Tặng quà",
+   "동생에게 선물을 줬어요.",
+   "Tôi đã tặng quà cho em."
+  ],
+  [
+   "선물을 드리다",
+   "Seonmureul deurida",
+   "Kính tặng quà",
+   "선생님께 선물을 드렸어요.",
+   "Tôi đã kính tặng quà cho thầy cô."
+  ],
+  [
+   "선물을 받다",
+   "Seonmureul batda",
+   "Nhận quà",
+   "생일에 선물을 많이 받았어요.",
+   "Vào sinh nhật tôi đã nhận được nhiều quà."
+  ],
+  [
+   "선물을 고르다",
+   "Seonmureul goreuda",
+   "Chọn quà",
+   "같이 선물을 고를까요?",
+   "Cùng chọn quà nhé?"
+  ],
+  [
+   "가볍다",
+   "Gabyeopda",
+   "Nhẹ",
+   "이 가방은 가벼워서 좋아요.",
+   "Cái túi này nhẹ nên tôi thích."
+  ],
+  [
+   "짧다",
+   "Jjalda",
+   "Ngắn",
+   "제 머리는 짧아요.",
+   "Tóc tôi ngắn."
+  ],
+  [
+   "금반지",
+   "Geumbanji",
+   "Nhẫn vàng",
+   "한국에서는 아기의 첫 생일에 금반지를 선물해요.",
+   "Ở Hàn Quốc, người ta tặng nhẫn vàng vào sinh nhật đầu tiên của em bé."
+  ],
+  [
+   "생활",
+   "Saenghwal",
+   "Sinh hoạt, cuộc sống",
+   "한국 생활은 어때요?",
+   "Cuộc sống ở Hàn Quốc thế nào?"
+  ],
+  [
+   "참",
+   "Cham",
+   "Rất, thật là",
+   "오늘 날씨가 참 좋아요.",
+   "Hôm nay thời tiết thật đẹp."
+  ],
+  [
+   "길다",
+   "Gilda",
+   "Dài",
+   "이 치마는 너무 길어요.",
+   "Cái váy này dài quá."
+  ],
+  [
+   "스웨터",
+   "Seuweteo",
+   "Áo len",
+   "추워서 스웨터를 입었어요.",
+   "Vì lạnh nên tôi đã mặc áo len."
+  ],
+  [
+   "첫",
+   "Cheot",
+   "Đầu tiên",
+   "오늘은 한국에서 보내는 첫 생일이에요.",
+   "Hôm nay là sinh nhật đầu tiên tôi đón ở Hàn Quốc."
+  ],
+  [
+   "꼭",
+   "Kkok",
+   "Nhất định",
+   "제 생일 파티에 꼭 오세요.",
+   "Nhất định hãy đến tiệc sinh nhật của tôi nhé."
+  ],
+  [
+   "스파게티",
+   "Seupageti",
+   "Mì Ý",
+   "점심에 스파게티를 먹을까요?",
+   "Trưa nay ăn mì Ý nhé?"
+  ],
+  [
+   "끝나다",
+   "Kkeutnada (đọc: kkeunnada)",
+   "Xong, kết thúc",
+   "수업이 몇 시에 끝나요?",
+   "Lớp học kết thúc lúc mấy giờ?"
+  ],
+  [
+   "시청",
+   "Sicheong",
+   "Tòa thị chính",
+   "시청 앞에서 만날까요?",
+   "Mình gặp nhau trước tòa thị chính nhé?"
+  ],
+  [
+   "한식당",
+   "Hansikdang",
+   "Nhà hàng Hàn Quốc",
+   "저녁에 한식당에 가려고 해요.",
+   "Buổi tối tôi định đi nhà hàng Hàn Quốc."
+  ],
+  [
+   "아빠",
+   "Appa",
+   "Bố",
+   "아빠, 생일 축하해요!",
+   "Bố ơi, chúc mừng sinh nhật bố!"
+  ],
+  [
+   "행복하다",
+   "Haengbokhada",
+   "Hạnh phúc",
+   "가족하고 같이 있어서 행복해요.",
+   "Vì được ở cùng gia đình nên tôi hạnh phúc."
+  ],
+  [
+   "레스토랑",
+   "Reseutorang",
+   "Nhà hàng",
+   "이탈리아 레스토랑에서 저녁을 먹었어요.",
+   "Tôi đã ăn tối ở nhà hàng Ý."
+  ],
+  [
+   "엄마",
+   "Eomma",
+   "Mẹ",
+   "엄마가 생일 케이크를 만드셨어요.",
+   "Mẹ đã làm bánh sinh nhật."
+  ],
+  [
+   "향수",
+   "Hyangsu",
+   "Nước hoa",
+   "언니에게 향수를 선물하려고 해요.",
+   "Tôi định tặng nước hoa cho chị."
+  ],
+  [
+   "먼저",
+   "Meonjeo",
+   "Trước",
+   "먼저 가세요.",
+   "Bạn đi trước đi."
+  ],
+  [
+   "오래간만",
+   "Oraeganman",
+   "Lâu rồi mới gặp",
+   "오래간만이에요. 잘 지냈어요?",
+   "Lâu rồi mới gặp. Bạn khỏe không?"
+  ],
+  [
+   "화장하다",
+   "Hwajanghada",
+   "Trang điểm",
+   "오늘은 화장하지 않았어요.",
+   "Hôm nay tôi không trang điểm."
+  ],
+  [
+   "무겁다",
+   "Mugeopda",
+   "Nặng",
+   "이 선물은 너무 무거워요.",
+   "Món quà này nặng quá."
+  ],
+  [
+   "웃다",
+   "Utda",
+   "Cười",
+   "아기가 많이 웃었어요.",
+   "Em bé đã cười nhiều."
+  ],
+  [
+   "환갑",
+   "Hwangap",
+   "Tiệc mừng thọ 60 tuổi",
+   "다음 달에 아버지 환갑 잔치가 있어요.",
+   "Tháng sau có tiệc mừng thọ 60 tuổi của bố."
+  ],
+  [
+   "번째",
+   "Beonjjae",
+   "Lần thứ",
+   "오늘은 제 스물한 번째 생일이에요.",
+   "Hôm nay là sinh nhật lần thứ 21 của tôi."
+  ],
+  [
+   "이탈리아",
+   "Itallia",
+   "Nước Ý",
+   "이탈리아에 가고 싶어요.",
+   "Tôi muốn đi Ý."
+  ],
+  [
+   "부르다",
+   "Bureuda",
+   "Gọi; hát",
+   "같이 노래를 부를까요?",
+   "Mình cùng hát nhé?"
+  ],
+  [
+   "장미",
+   "Jangmi",
+   "Hoa hồng",
+   "여자 친구에게 장미를 주려고 해요.",
+   "Tôi định tặng hoa hồng cho bạn gái."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)려고 하다 — Định, muốn",
+   "meaning": "Diễn tả dự định, ý định của người nói (định làm gì). Chỉ gắn với ĐỘNG TỪ. Gốc có patchim → 으려고 하다 (먹다 → 먹으려고 해요, 읽다 → 읽으려고 해요); gốc không patchim hoặc patchim ㄹ → 려고 하다 (가다 → 가려고 해요, 만들다 → 만들려고 해요). Bất quy tắc: 듣다 → 들으려고, 돕다 → 도우려고. Quá khứ 려고 했어요 = đã định… (thường là nhưng không làm được). Lưu ý hay nhầm: viết 먹을려고, 갈려고 là văn nói sai chuẩn — đúng là 먹으려고, 가려고. Không dùng với tính từ.",
+   "examples": [
+    "엄마 생일에 향수를 선물하려고 해요. — Tôi định tặng nước hoa vào sinh nhật mẹ.",
+    "주말에 생일 케이크를 만들려고 해요. — Cuối tuần tôi định làm bánh sinh nhật.",
+    "오늘 책을 읽으려고 해요. — Hôm nay tôi định đọc sách.",
+    "어제 친구한테 전화하려고 했지만 너무 바빴어요. — Hôm qua tôi đã định gọi cho bạn nhưng bận quá."
+   ]
+  },
+  {
+   "form": "V/A + 아/어서 — Vì",
+   "meaning": "Nối 2 vế, vế trước là lý do/nguyên nhân của vế sau (vì… nên…). Gốc có nguyên âm ㅏ, ㅗ → 아서 (좋다 → 좋아서, 가다 → 가서); nguyên âm khác → 어서 (먹다 → 먹어서, 길다 → 길어서); 하다 → 해서 (행복하다 → 행복해서); danh từ: N이라서 (có patchim: 생일이라서) / N라서 (không patchim: 주말이라서… 친구라서). Kết hợp bất quy tắc: 춥다 → 추워서, 가볍다 → 가벼워서, 바쁘다 → 바빠서, 예쁘다 → 예뻐서. Lưu ý hay nhầm: (1) KHÔNG chia quá khứ trước 아/어서 (✗ 바빴어서 → ✓ 바빠서), thì để ở vế sau; (2) vế sau KHÔNG dùng mệnh lệnh/rủ rê ((으)세요, (으)ㅂ시다, (으)ㄹ까요).",
+   "examples": [
+    "추워서 스웨터를 입었어요. — Vì lạnh nên tôi đã mặc áo len.",
+    "가방이 가벼워서 좋아요. — Túi nhẹ nên tôi thích.",
+    "어제 바빠서 생일 잔치에 안 갔어요. — Hôm qua vì bận nên tôi đã không đi tiệc sinh nhật.",
+    "오늘은 제 생일이라서 정말 행복해요. — Hôm nay là sinh nhật tôi nên tôi rất hạnh phúc."
+   ]
+  },
+  {
+   "form": "(으)ㄹ까요 — Nhé, nhỉ",
+   "meaning": "(1) Rủ rê: (우리) 같이 V(으)ㄹ까요? = Mình cùng … nhé? Trả lời: 네, 좋아요 / 네, V(으)ㅂ시다 / 네, 같이 V아/어요. (2) Đề nghị làm giúp: 제가 V(으)ㄹ까요? = Để tôi … nhé? (3) Phỏng đoán, hỏi ý kiến: 내일 비가 올까요? = Mai trời có mưa không nhỉ? Gốc có patchim → 을까요 (먹다 → 먹을까요); không patchim → ㄹ까요 (가다 → 갈까요, 고르다 → 고를까요); patchim ㄹ → giản lược ㄹ rồi + ㄹ까요 (만들다 → 만들까요, ✗ 만들을까요); bất quy tắc ㄷ: 듣다 → 들을까요; bất quy tắc ㅂ: 춥다 → 추울까요.",
+   "examples": [
+    "같이 선물을 고를까요? — Mình cùng chọn quà nhé?",
+    "시청 앞에서 몇 시에 만날까요? — Mình gặp trước tòa thị chính lúc mấy giờ nhỉ?",
+    "제가 케이크를 만들까요? — Để tôi làm bánh nhé?",
+    "내일 날씨가 추울까요? — Ngày mai trời có lạnh không nhỉ?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi định mua quà cho mẹ.",
+   "kr": "엄마 선물을 ___.",
+   "options": [
+    "사려고 해요",
+    "살려고 해요",
+    "사으려고 해요"
+   ],
+   "answer": "사려고 해요",
+   "explain": "사다 không có patchim → 려고 해요 → 사려고 해요. 살려고 là của 살다 (sống)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi định đọc thiệp.",
+   "kr": "카드를 ___.",
+   "options": [
+    "읽으려고 해요",
+    "읽려고 해요",
+    "읽을려고 해요"
+   ],
+   "answer": "읽으려고 해요",
+   "explain": "읽다 có patchim → 으려고 해요. 읽을려고 là cách nói sai chuẩn hay gặp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Vì bận nên tôi không đi tiệc.",
+   "kr": "___ 잔치에 안 가요.",
+   "options": [
+    "바빠서",
+    "바빴어서",
+    "바쁘어서"
+   ],
+   "answer": "바빠서",
+   "explain": "바쁘다 giản lược 으 → 바빠서. Không chia quá khứ trước 아/어서 (✗ 바빴어서)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Túi nhẹ nên tôi thích.",
+   "kr": "가방이 ___ 좋아요.",
+   "options": [
+    "가벼워서",
+    "가볍어서",
+    "가벼서"
+   ],
+   "answer": "가벼워서",
+   "explain": "가볍다 bất quy tắc ㅂ: ㅂ → 우 + 어서 → 가벼워서."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mình cùng ăn mì Ý nhé?",
+   "kr": "같이 스파게티를 ___?",
+   "options": [
+    "먹을까요",
+    "먹까요",
+    "먹어까요"
+   ],
+   "answer": "먹을까요",
+   "explain": "먹다 có patchim → 을까요 → 먹을까요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mình cùng làm bánh sinh nhật nhé?",
+   "kr": "같이 생일 케이크를 ___?",
+   "options": [
+    "만들까요",
+    "만들을까요",
+    "만드을까요"
+   ],
+   "answer": "만들까요",
+   "explain": "만들다 có patchim ㄹ → giản lược, chỉ thêm 까요 → 만들까요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu trả lời phù hợp. A: 주말에 같이 영화를 볼까요? B: ___",
+   "kr": "",
+   "options": [
+    "네, 좋아요. 같이 봅시다.",
+    "네, 영화를 봤어요.",
+    "아니요, 영화예요."
+   ],
+   "answer": "네, 좋아요. 같이 봅시다.",
+   "explain": "Trả lời lời rủ (으)ㄹ까요 bằng 네, 좋아요 / (으)ㅂ시다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ đúng: Vì là sinh nhật nên tôi đã nhận được nhiều quà.",
+   "kr": "생일___ 선물을 많이 받았어요.",
+   "options": [
+    "이라서",
+    "라서",
+    "여서"
+   ],
+   "answer": "이라서",
+   "explain": "Danh từ có patchim (생일) → 이라서 (hoặc 이어서). 라서/여서 dùng khi không có patchim."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp khi hỏi tuổi ông (kính ngữ).",
+   "kr": "할아버지, ___가 어떻게 되세요?",
+   "options": [
+    "연세",
+    "살",
+    "세"
+   ],
+   "answer": "연세",
+   "explain": "연세 là kính ngữ của 나이, dùng với người lớn tuổi. 살/세 là đơn vị đếm tuổi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi 20 tuổi.",
+   "kr": "저는 ___ 살이에요.",
+   "options": [
+    "스무",
+    "스물",
+    "이십"
+   ],
+   "answer": "스무",
+   "explain": "Trước đơn vị đếm, 스물 → 스무 (định từ số). 살 đi với số thuần Hàn nên không dùng 이십."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng (으)려고 해요 của 만들다: Tôi định làm thiệp sinh nhật.",
+   "kr": "생일 카드를 ___.",
+   "answer": [
+    "만들려고 해요",
+    "만들려고 합니다"
+   ],
+   "explain": "Patchim ㄹ → + 려고 해요 → 만들려고 해요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어서 của 춥다: Vì lạnh nên tôi đã mặc áo len.",
+   "kr": "___ 스웨터를 입었어요.",
+   "answer": [
+    "추워서"
+   ],
+   "explain": "춥다 bất quy tắc ㅂ → 추워서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng (으)ㄹ까요 của 듣다: Mình cùng nghe nhạc nhé?",
+   "kr": "같이 음악을 ___?",
+   "answer": [
+    "들을까요"
+   ],
+   "explain": "듣다 bất quy tắc ㄷ: ㄷ → ㄹ khi gặp nguyên âm → 들을까요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ kính ngữ: Tôi đã kính tặng khăn tay cho bà.",
+   "kr": "할머니___ 손수건을 드렸어요.",
+   "answer": [
+    "께"
+   ],
+   "explain": "Người nhận là người bề trên + 드리다 → dùng 께."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어서 của 행복하다: Vì hạnh phúc nên tôi đã cười nhiều.",
+   "kr": "___ 많이 웃었어요.",
+   "answer": [
+    "행복해서"
+   ],
+   "explain": "하다 → 해서 → 행복해서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 지만 của 예쁘다: Cái váy đẹp nhưng dài quá.",
+   "kr": "치마가 ___ 너무 길어요.",
+   "answer": [
+    "예쁘지만"
+   ],
+   "explain": "Gốc + 지만 (không đổi gốc) → 예쁘지만."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi định tặng bó hoa cho bạn.",
+   "tokens": [
+    "저는",
+    "친구에게",
+    "꽃다발을",
+    "주려고 해요"
+   ],
+   "explain": "Chủ ngữ + người nhận (에게) + tân ngữ + V(으)려고 해요.",
+   "answer": "저는 친구에게 꽃다발을 주려고 해요"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hôm nay vì là sinh nhật nên tâm trạng tôi tốt.",
+   "tokens": [
+    "오늘은",
+    "생일이라서",
+    "기분이",
+    "좋아요"
+   ],
+   "explain": "Lý do (N이라서) đứng trước, kết quả đứng sau.",
+   "answer": "오늘은 생일이라서 기분이 좋아요"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mình gặp nhau trước tòa thị chính lúc mấy giờ nhỉ?",
+   "tokens": [
+    "시청",
+    "앞에서",
+    "몇 시에",
+    "만날까요"
+   ],
+   "explain": "Nơi chốn (에서) + thời gian (에) + V(으)ㄹ까요.",
+   "answer": "시청 앞에서 몇 시에 만날까요"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Vì quà nặng nên tôi đã đi taxi.",
+   "tokens": [
+    "선물이",
+    "무거워서",
+    "택시를",
+    "탔어요"
+   ],
+   "explain": "무겁다 → 무거워서 (lý do), thì quá khứ đặt ở động từ cuối 탔어요.",
+   "answer": "선물이 무거워서 택시를 탔어요"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi định tặng nước hoa cho mẹ.",
+   "answer": [
+    "엄마에게 향수를 선물하려고 해요.",
+    "저는 엄마에게 향수를 선물하려고 해요.",
+    "엄마한테 향수를 선물하려고 해요.",
+    "저는 엄마한테 향수를 선물하려고 해요.",
+    "엄마에게 향수를 주려고 해요.",
+    "저는 엄마에게 향수를 주려고 해요.",
+    "엄마한테 향수를 주려고 해요.",
+    "저는 엄마한테 향수를 주려고 해요.",
+    "어머니께 향수를 드리려고 해요.",
+    "저는 어머니께 향수를 드리려고 해요.",
+    "어머니께 향수를 선물하려고 해요.",
+    "저는 어머니께 향수를 선물하려고 해요.",
+    "엄마께 향수를 드리려고 해요.",
+    "저는 엄마께 향수를 드리려고 해요.",
+    "어머니께 향수를 선물로 드리려고 해요.",
+    "저는 어머니께 향수를 선물로 드리려고 해요."
+   ],
+   "explain": "Người nhận + 에게/한테/께 + 향수를 + 선물하다/주다/드리다 + (으)려고 해요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hôm qua vì bận nên tôi đã không ăn trưa.",
+   "answer": [
+    "어제 바빠서 점심을 안 먹었어요.",
+    "어제는 바빠서 점심을 안 먹었어요.",
+    "어제 바빠서 점심을 먹지 않았어요.",
+    "어제는 바빠서 점심을 먹지 않았어요.",
+    "어제 바빠서 점심을 안 먹었습니다.",
+    "어제 바빠서 점심을 먹지 않았습니다."
+   ],
+   "explain": "바쁘다 → 바빠서 (không chia quá khứ ở vế lý do), quá khứ ở 안 먹었어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mình cùng hát bài chúc mừng sinh nhật nhé?",
+   "answer": [
+    "같이 생일 축하 노래를 부를까요?",
+    "우리 같이 생일 축하 노래를 부를까요?",
+    "생일 축하 노래를 같이 부를까요?",
+    "같이 축하 노래를 부를까요?",
+    "우리 생일 축하 노래를 같이 부를까요?",
+    "축하 노래를 같이 부를까요?",
+    "같이 생일 축하 노래를 불러요?"
+   ],
+   "explain": "같이 + 노래를 부르다 → 부를까요 (rủ rê)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hôm nay là sinh nhật lần thứ 20 của tôi.",
+   "answer": [
+    "오늘은 제 스무 번째 생일이에요.",
+    "오늘이 제 스무 번째 생일이에요.",
+    "오늘은 저의 스무 번째 생일이에요.",
+    "오늘이 저의 스무 번째 생일이에요.",
+    "오늘은 제 스무 번째 생일입니다.",
+    "오늘이 제 스무 번째 생일입니다."
+   ],
+   "explain": "Lần thứ 20 → 스무 번째 (스물 → 스무 trước đơn vị)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "오래간만이에요. 생일 축하해요! 이 선물은 제가 골랐어요.",
+   "answer": "Lâu rồi mới gặp. Chúc mừng sinh nhật! Món quà này là mình đã chọn đấy.",
+   "explain": "오래간만이에요 = lâu rồi mới gặp; 골랐어요 = 고르다 (bất quy tắc 르) quá khứ → đã chọn."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "날씨가 추워서 아빠에게 스웨터를 선물하려고 해요.",
+   "answer": "Vì trời lạnh nên tôi định tặng áo len cho bố.",
+   "explain": "추워서 = vì lạnh; 선물하려고 해요 = định tặng."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? Chọn đáp án đúng. (Dạng TOPIK câu 31~33)",
+   "kr": "저는 스물두 살이에요. 제 친구 민수 씨는 스물네 살이에요.",
+   "options": [
+    "나이",
+    "이름",
+    "날짜",
+    "선물"
+   ],
+   "answer": "나이",
+   "explain": "스물두 살, 스물네 살 → nói về tuổi (나이)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ thích hợp điền vào ( ___ ). (Dạng TOPIK câu 34~39)",
+   "kr": "다음 주 토요일은 친구 생일이에요. 그래서 친구에게 목걸이를 ( ___ ) 해요.",
+   "options": [
+    "선물하려고",
+    "선물해서",
+    "선물할까요",
+    "선물했지만"
+   ],
+   "answer": "선물하려고",
+   "explain": "Có 해요 phía sau và nói về dự định → V(으)려고 해요: 선물하려고 해요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu KHÔNG đúng với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "<생일 잔치 초대> 민지 씨의 스무 번째 생일 잔치에 초대합니다. 날짜: 12월 5일 토요일 / 시간: 저녁 6시~9시 / 장소: 시청 앞 한식당",
+   "options": [
+    "민지 씨의 스무 번째 생일이에요.",
+    "잔치는 토요일에 해요.",
+    "잔치는 저녁 6시에 끝나요.",
+    "잔치는 한식당에서 해요."
+   ],
+   "answer": "잔치는 저녁 6시에 끝나요.",
+   "explain": "Tiệc từ 6 giờ đến 9 giờ tối → kết thúc lúc 9 giờ (끝나다), không phải 6 giờ."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "어제는 제 생일이었어요. 친구들하고 이탈리아 레스토랑에서 스파게티를 먹었어요. 친구들이 생일 축하 노래를 불렀어요. 그리고 저는 꽃다발을 받았어요. 정말 행복했어요.",
+   "options": [
+    "친구들이 노래를 불렀어요.",
+    "저는 친구 생일 파티에 갔어요.",
+    "저는 한식당에서 저녁을 먹었어요.",
+    "저는 반지를 받았어요."
+   ],
+   "answer": "친구들이 노래를 불렀어요.",
+   "explain": "Đó là sinh nhật của 'tôi', ăn ở nhà hàng Ý (không phải quán Hàn), nhận bó hoa (không phải nhẫn); các bạn hát bài chúc mừng → đáp án 1."
+  }
+ ]
+}
