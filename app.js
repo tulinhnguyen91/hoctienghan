@@ -71,7 +71,12 @@ document.addEventListener('click', e => { const b = e.target.closest('[data-say]
 async function loadIndex() {
   if (INDEX) return INDEX;
   const r = await fetch('data/index.json?v=' + Date.now(), { cache: 'no-store' });
-  INDEX = await r.json(); return INDEX;
+  INDEX = await r.json();
+  /* bài soạn trước cho các ngày sau: chỉ hiện tới bài của ngày mai */
+  const t = new Date(); t.setDate(t.getDate() + 1);
+  const tmr = t.getFullYear() + '-' + String(t.getMonth() + 1).padStart(2, '0') + '-' + String(t.getDate()).padStart(2, '0');
+  INDEX.lessons = INDEX.lessons.filter(l => !l.date || l.date <= tmr);
+  return INDEX;
 }
 async function loadLesson(id) {
   if (cache[id]) return cache[id];
@@ -239,7 +244,7 @@ function bindHomeExtras(ex) {
     e.preventDefault();
     const has = results().some(r => r.day === dayKey() && r.mode === 'migii');
     if (has) store.set('results', results().filter(r => !(r.day === dayKey() && r.mode === 'migii')));
-    else { addResult({ lessonId: 'migii', lesson: 'Migii', mode: 'migii', label: 'Luyện Nghe + Đọc TOPIK I trên Migii', note: b.dataset.tick }); markStudied(); }
+    else { addResult({ lessonId: 'migii', lesson: 'Migii', mode: 'migii', label: 'Luyện Nghe + Đọc TOPIK trên Migii', note: b.dataset.tick }); markStudied(); }
     renderHome();
   });
 }
@@ -261,11 +266,17 @@ function reviewLinks(d, idx) {
   const name = id => (INDEX.lessons.find(l => l.id === id) || {}).lesson || id;
   return `<div class="rev-links">${ids.map(id => `<a class="btn line" href="#/${id}">Làm lại ${esc(name(id))}</a>`).join('')}</div>`;
 }
+const lk = (plan, d) => (d.level >= 3 && plan.links2) ? plan.links2 : plan.links;
+function phaseRange(plan, lv) {
+  const ds = plan.days.filter(x => x.level === lv);
+  const f = s => { const [y, m, dd] = s.split('-'); return +dd + '/' + +m + '/' + y; };
+  return f(ds[0].date) + ' → ' + f(ds[ds.length - 1].date);
+}
 function practiceLinks(plan, d) {
   if (!d.practice) return '';
   return `<ul class="prac">
-    <li><a href="${plan.links.listening}" target="_blank" rel="noopener">🎧 ${esc(d.practice.listening)}</a></li>
-    <li><a href="${plan.links.reading}" target="_blank" rel="noopener">📖 ${esc(d.practice.reading)}</a></li></ul>`;
+    <li><a href="${lk(plan, d).listening}" target="_blank" rel="noopener">🎧 ${esc(d.practice.listening)}</a></li>
+    <li><a href="${lk(plan, d).reading}" target="_blank" rel="noopener">📖 ${esc(d.practice.reading)}</a></li></ul>`;
 }
 async function todayCard(ex) {
   const plan = await loadPlan(); if (!plan) return '';
@@ -281,7 +292,7 @@ async function todayCard(ex) {
     <h3>${before ? 'Ngày 1 bắt đầu ' + fmtDate(d.date) + ': ' : ''}${esc(d.source || d.title)}</h3>
     ${d.type === 'review' ? `<ul class="prac">${d.tasks.map(t => `<li>${esc(t)}</li>`).join('')}</ul>
         <a class="btn block" href="#/on-tap">Vào ôn tập</a>${reviewLinks(d, idx)}
-        ${d.mock ? `<a class="btn block line" style="margin-top:8px" href="${plan.links.mock}" target="_blank" rel="noopener">Làm đề thi thử TOPIK I</a>` : ''}`
+        ${d.mock ? `<a class="btn block line" style="margin-top:8px" href="${lk(plan, d).mock}" target="_blank" rel="noopener">Làm đề thi thử ${d.level >= 3 ? 'TOPIK II' : 'TOPIK I'}</a>` : ''}`
       : `<p class="small muted">${d.words.length} từ · ngữ pháp: <span lang="ko">${d.grammar.map(g => esc(g.split(' — ')[0])).join(', ')}</span></p>
         ${ready ? `<a class="btn block" href="#/${d.id}">Học ${esc(d.lesson)} ngay</a>` : `<p class="note">Bài này sẽ được soạn xong tối hôm trước (20:30). Trong lúc chờ, vào Ôn tập nhé.</p>`}
         <p class="small" style="margin:12px 0 4px"><b>Luyện TOPIK trên Migii hôm nay:</b></p>${practiceLinks(plan, d)}`}
@@ -296,12 +307,12 @@ async function renderPlan() {
     <p class="muted">${esc(plan.goal)}.</p>
     ${plan.note ? `<p class="note small">${esc(plan.note)}</p>` : ''}
     <ol class="plan">${plan.days.map((d, i) => {
-      const head = i === 0 || plan.days[i - 1].level !== d.level ? `<li class="phase">${d.level === 2 ? 'TOPIK 2 · 2/12 → 31/12' : 'TOPIK 1 · 19/11 → 1/12'}</li>` : '';
+      const head = i === 0 || plan.days[i - 1].level !== d.level ? `<li class="phase">TOPIK ${d.level} · ${phaseRange(plan, d.level)}</li>` : '';
       const st = d.date < t ? 'past' : d.date === t ? 'now' : 'next';
       const link = d.id && ids.includes(d.id);
       return head + `<li class="${st} ${d.type}"><div class="pd"><b>${d.day}</b><span>${fmtDate(d.date).slice(0, -5)}</span></div>
         <div class="pc">${link ? `<a href="#/${d.id}">` : ''}<div class="pt">${esc(d.source || d.title)}</div>${link ? '</a>' : ''}
-        <div class="small muted">${d.type === 'review' ? (d.mock ? '📝 Ôn tập + thi thử TOPIK I' : '🔁 Ôn lại bài 2 ngày trước, không học bài mới') : d.words.length + ' từ · <span lang="ko">' + d.grammar.map(g => esc(g.split(' — ')[0])).join(' · ') + '</span>'}</div></div></li>`;
+        <div class="small muted">${d.type === 'review' ? (d.mock ? '📝 Ôn tập + thi thử ' + (d.level >= 3 ? 'TOPIK II' : 'TOPIK I') : '🔁 Ôn lại bài 2 ngày trước, không học bài mới') : d.words.length + ' từ · <span lang="ko">' + d.grammar.map(g => esc(g.split(' — ')[0])).join(' · ') + '</span>'}</div></div></li>`;
     }).join('')}</ol>`;
   document.querySelector('.plan li.now')?.scrollIntoView({ block: 'center' });
 }
@@ -842,7 +853,7 @@ function buildReport(day, list) {
       L.push(`📔 Nhật ký (đề: ${r.prompt})`);
       r.sentences.forEach((s, k) => L.push(`  ${k + 1}. ${s}`));
     } else if (r.mode === 'migii') {
-      L.push(`🎧📖 Đã làm luyện Nghe + Đọc TOPIK I trên Migii`);
+      L.push(`🎧📖 Đã làm luyện Nghe + Đọc TOPIK trên Migii`);
     } else if (r.mode === 'dat-cau') {
       L.push(`✏️ [${r.lesson}] Đặt câu (mẫu: ${r.grammar})`);
       r.sentences.forEach((s, k) => L.push(`  ${k + 1}. ${s}`));
