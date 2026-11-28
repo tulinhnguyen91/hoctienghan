@@ -1,0 +1,377 @@
+{
+ "id": "bai-175",
+ "lesson": "Bài 175",
+ "title": "Nhân vật lịch sử (phần 4/4)",
+ "krTitle": "역사 속 인물 4",
+ "date": "2027-07-29",
+ "day": 253,
+ "source": "TOPIK 5 – Bài 6: Nhân vật lịch sử (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "실험실",
+   "Silheomsil",
+   "Phòng thí nghiệm",
+   "플레밍은 실험실에서 우연히 곰팡이를 발견했어요.",
+   "Fleming tình cờ phát hiện nấm mốc trong phòng thí nghiệm."
+  ],
+  [
+   "유교 사회",
+   "Yugyo sahoe",
+   "Xã hội Nho giáo",
+   "조선은 유교 사회였어요.",
+   "Joseon là một xã hội Nho giáo."
+  ],
+  [
+   "일화",
+   "Ilhwa",
+   "Câu chuyện, mẩu chuyện, giai thoại",
+   "그 위인에게는 재미있는 일화가 많아요.",
+   "Vị vĩ nhân đó có nhiều giai thoại thú vị."
+  ],
+  [
+   "입양",
+   "Ibyang",
+   "Nhận con nuôi",
+   "그 부부는 아이를 입양했어요.",
+   "Cặp vợ chồng đó đã nhận con nuôi."
+  ],
+  [
+   "자긍심",
+   "Jageungsim",
+   "Lòng tự hào, tự tôn",
+   "우리 역사에 자긍심을 가져야 해요.",
+   "Chúng ta phải tự hào về lịch sử của mình."
+  ],
+  [
+   "재조명하다",
+   "Jaejomyeonghada",
+   "Soi sáng lại, đánh giá lại",
+   "잊혀진 여성 독립운동가들을 재조명하는 책이 나왔어요.",
+   "Đã có sách đánh giá lại các nữ nhà hoạt động độc lập bị lãng quên."
+  ],
+  [
+   "저술을 남기다",
+   "Jeosureul namgida",
+   "Để lại trước tác (tác phẩm viết)",
+   "정약용은 500권이 넘는 저술을 남겼어요.",
+   "Jeong Yak-yong đã để lại hơn 500 cuốn trước tác."
+  ],
+  [
+   "주석",
+   "Juseok",
+   "Chủ tịch; chú thích",
+   "어려운 단어에는 주석이 달려 있어요.",
+   "Các từ khó có kèm chú thích."
+  ],
+  [
+   "집현전",
+   "Jiphyeonjeon",
+   "Tập Hiền điện (cung điện được xây dựng làm nơi tập trung nghiên cứu học thuật vào thời xưa ở Hàn Quốc)",
+   "세종대왕은 집현전 학자들과 함께 연구했어요.",
+   "Vua Sejong đã nghiên cứu cùng các học giả ở Tập Hiền điện."
+  ],
+  [
+   "창제하다",
+   "Changjehada",
+   "Sáng tạo ra (chữ viết, chế độ)",
+   "한글은 1443년에 창제되었어요.",
+   "Hangeul được sáng tạo vào năm 1443."
+  ],
+  [
+   "침략",
+   "Chimnyak",
+   "Sự xâm lược",
+   "외적의 침략으로 나라가 위험해졌어요.",
+   "Đất nước lâm nguy vì sự xâm lược của ngoại bang."
+  ],
+  [
+   "타협하다",
+   "Tahyeopada",
+   "Thỏa hiệp",
+   "그는 불의와 끝까지 타협하지 않았어요.",
+   "Ông đến cùng không thỏa hiệp với điều bất công."
+  ],
+  [
+   "페니실린",
+   "Penisillin",
+   "Thuốc kháng sinh penicillin",
+   "페니실린은 많은 사람의 목숨을 구했어요.",
+   "Penicillin đã cứu sống rất nhiều người."
+  ],
+  [
+   "품성",
+   "Pumseong",
+   "Phẩm hạnh",
+   "그는 품성이 바르고 겸손했어요.",
+   "Ông có phẩm hạnh ngay thẳng và khiêm tốn."
+  ],
+  [
+   "함양",
+   "Hamyang",
+   "Sự bồi dưỡng",
+   "독서는 인성 함양에 도움이 돼요.",
+   "Đọc sách giúp bồi dưỡng nhân cách."
+  ],
+  [
+   "항일운동",
+   "Hangirundong",
+   "Phong trào vận động kháng Nhật",
+   "유관순은 항일운동에 참여했어요.",
+   "Yu Gwan-sun đã tham gia phong trào kháng Nhật."
+  ],
+  [
+   "허송세월을 보내다",
+   "Heosongseworeul bonaeda",
+   "Trải qua thời gian một cách vô nghĩa",
+   "젊을 때 허송세월을 보내지 마세요.",
+   "Lúc còn trẻ đừng sống phí thời gian."
+  ],
+  [
+   "호국인물",
+   "Hoguginmul",
+   "Người đấu tranh bảo vệ đất nước",
+   "이순신 장군은 대표적인 호국인물이에요.",
+   "Tướng Yi Sun-sin là nhân vật bảo vệ đất nước tiêu biểu."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 이며 — Vừa là",
+   "meaning": "Nối hai danh từ chỉ cùng một người/vật: 'là A, (đồng thời) cũng là B' — 'vừa là … vừa là …'. Đây là (으)며 (đã học ở Bài 146) gắn với 이다: N이다 → N이며. Danh từ có patchim → 이며 (학자이며); không patchim → 이며 hoặc rút gọn 며 (화가이며 / 화가며). Văn VIẾT, trang trọng (báo chí, thuyết minh, giới thiệu nhân vật). Trong khẩu ngữ dùng N이면서 (đã biết) hoặc N이고. Quá khứ đặt ở cuối câu: 그는 학자이며 정치가였다. Cũng dùng để liệt kê đặc điểm: 서울은 한국의 수도이며 가장 큰 도시이다 (Seoul là thủ đô và cũng là thành phố lớn nhất Hàn Quốc).",
+   "examples": [
+    "정약용은 학자이며 발명가였다. — Jeong Yak-yong là học giả, đồng thời là nhà phát minh.",
+    "세종대왕은 왕이며 뛰어난 과학자였다. — Vua Sejong là vua, cũng là nhà khoa học xuất sắc.",
+    "한글은 한국의 문자이며 세계적인 문화유산이다. — Hangeul là chữ viết của Hàn Quốc và cũng là di sản văn hóa thế giới.",
+    "그녀는 의사이며 두 아이의 엄마예요. — Cô ấy là bác sĩ và là mẹ của hai đứa trẻ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Nơi vua Sejong tập hợp các học giả để nghiên cứu gọi là gì?",
+   "kr": "",
+   "options": [
+    "집현전",
+    "실험실",
+    "유교 사회"
+   ],
+   "answer": "집현전",
+   "explain": "집현전 = Tập Hiền điện."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Penicillin đã cứu sống rất nhiều người.",
+   "kr": "___은 많은 사람의 목숨을 구했어요.",
+   "options": [
+    "페니실린",
+    "주석",
+    "일화"
+   ],
+   "answer": "페니실린",
+   "explain": "페니실린 = penicillin."
+  },
+  {
+   "type": "choice",
+   "q": "'허송세월을 보내다' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Sống phí thời gian vô ích",
+    "Gửi thư cho bạn",
+    "Đón năm mới",
+    "Làm việc chăm chỉ"
+   ],
+   "answer": "Sống phí thời gian vô ích",
+   "explain": "허송 = tiễn đi vô ích; 세월 = năm tháng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ông đến cùng không thỏa hiệp với điều bất công.",
+   "kr": "그는 불의와 끝까지 ___지 않았어요.",
+   "options": [
+    "타협하",
+    "창제하",
+    "재조명하"
+   ],
+   "answer": "타협하",
+   "explain": "타협하다 = thỏa hiệp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Vua Sejong là vua, cũng là nhà khoa học.'",
+   "kr": "",
+   "options": [
+    "세종대왕은 왕이며 과학자였다.",
+    "세종대왕은 왕며 과학자였다.",
+    "세종대왕은 왕이었으며이 과학자였다."
+   ],
+   "answer": "세종대왕은 왕이며 과학자였다.",
+   "explain": "왕 có patchim → 이며."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào là văn NÓI tương đương với '그녀는 의사이며 엄마이다'?",
+   "kr": "",
+   "options": [
+    "그녀는 의사이면서 엄마예요.",
+    "그녀는 의사라서 엄마예요.",
+    "그녀는 의사지만 엄마예요."
+   ],
+   "answer": "그녀는 의사이면서 엄마예요.",
+   "explain": "이며 (viết) ≈ 이면서 (nói)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đất nước lâm nguy vì sự xâm lược của ngoại bang.",
+   "kr": "외적의 ___으로 나라가 위험해졌어요.",
+   "options": [
+    "침략",
+    "함양",
+    "입양"
+   ],
+   "answer": "침략",
+   "explain": "침략 = xâm lược."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đọc sách giúp bồi dưỡng nhân cách.",
+   "kr": "독서는 인성 ___에 도움이 돼요.",
+   "options": [
+    "함양",
+    "품성",
+    "자긍심"
+   ],
+   "answer": "함양",
+   "explain": "인성 함양 = bồi dưỡng nhân cách."
+  },
+  {
+   "type": "fill",
+   "q": "Điền N + 이며: Seoul là thủ đô và là thành phố lớn nhất Hàn Quốc.",
+   "kr": "서울은 한국의 ___ 가장 큰 도시이다.",
+   "answer": [
+    "수도이며",
+    "수도며"
+   ],
+   "explain": "수도 (không patchim) → 수도이며/수도며."
+  },
+  {
+   "type": "fill",
+   "q": "Điền N + 이며: Jeong Yak-yong là học giả, cũng là nhà phát minh.",
+   "kr": "정약용은 ___ 발명가였다.",
+   "answer": [
+    "학자이며",
+    "학자며"
+   ],
+   "explain": "학자이며."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Jeong Yak-yong để lại hơn 500 cuốn trước tác.",
+   "kr": "정약용은 500권이 넘는 ___을 남겼어요.",
+   "answer": [
+    "저술"
+   ],
+   "explain": "저술을 남기다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chúng ta phải tự hào về lịch sử của mình.",
+   "kr": "우리 역사에 ___을 가져야 해요.",
+   "answer": [
+    "자긍심"
+   ],
+   "explain": "자긍심을 가지다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hangeul là chữ viết của Hàn Quốc và là di sản văn hóa thế giới.",
+   "tokens": [
+    "한글은",
+    "한국의",
+    "문자이며",
+    "세계적인",
+    "문화유산이다"
+   ],
+   "answer": "한글은 한국의 문자이며 세계적인 문화유산이다",
+   "explain": "문자이며."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Yu Gwan-sun đã tham gia phong trào kháng Nhật.",
+   "tokens": [
+    "유관순은",
+    "항일운동에",
+    "참여했어요"
+   ],
+   "answer": "유관순은 항일운동에 참여했어요",
+   "explain": "N에 참여하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cô ấy là bác sĩ, cũng là nhà văn. (dùng 이며, văn viết)",
+   "answer": [
+    "그녀는 의사이며 작가이다.",
+    "그녀는 의사이며 작가다.",
+    "그녀는 의사며 작가이다.",
+    "그녀는 의사이며 작가입니다."
+   ],
+   "explain": "N이며 N이다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hangeul được sáng tạo vào năm 1443.",
+   "answer": [
+    "한글은 1443년에 창제되었어요.",
+    "한글은 1443년에 창제됐어요.",
+    "한글은 1443년에 창제되었다."
+   ],
+   "explain": "창제되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Lúc còn trẻ đừng sống phí thời gian.",
+   "answer": [
+    "젊을 때 허송세월을 보내지 마세요.",
+    "젊었을 때 허송세월을 보내지 마세요."
+   ],
+   "explain": "지 마세요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "알렉산더 플레밍은 영국의 의사이며 미생물학자이다. 그는 실험실에서 우연히 페니실린을 발견함으로써 수많은 생명을 구했다.",
+   "answer": "Alexander Fleming là bác sĩ, đồng thời là nhà vi sinh vật học người Anh. Bằng việc tình cờ phát hiện ra penicillin trong phòng thí nghiệm, ông đã cứu vô số sinh mạng.",
+   "explain": "이며; 발견함으로써."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài nói và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "남자: 오늘은 정약용에 대해 이야기해 보겠습니다. 정약용은 조선 후기의 학자이며 발명가였습니다. 그는 거중기라는 기계를 만들어 수원 화성을 짓는 기간을 크게 줄였습니다. 또 귀양을 간 18년 동안에도 허송세월을 보내지 않고 500권이 넘는 저술을 남겼습니다.",
+   "options": [
+    "정약용은 귀양 중에도 많은 책을 썼다.",
+    "정약용은 조선 초기의 왕이었다.",
+    "거중기 때문에 공사 기간이 길어졌다.",
+    "정약용은 귀양 기간에 아무것도 하지 않았다."
+   ],
+   "answer": "정약용은 귀양 중에도 많은 책을 썼다.",
+   "explain": "귀양 18년 동안 500권 넘는 저술."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu ĐÚNG. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【역사 강연 안내】\n주제: 잊혀진 호국인물을 재조명하다\n일시: 8월 15일(일) 오후 2시\n장소: 시립도서관 3층\n※ 강연 후 질문 시간이 있습니다.",
+   "options": [
+    "강연이 끝난 후 질문할 수 있다.",
+    "강연은 오전에 한다.",
+    "장소는 박물관이다.",
+    "주제는 외국 위인이다."
+   ],
+   "answer": "강연이 끝난 후 질문할 수 있다.",
+   "explain": "강연 후 질문 시간."
+  }
+ ]
+}

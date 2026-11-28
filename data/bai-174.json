@@ -1,0 +1,384 @@
+{
+ "id": "bai-174",
+ "lesson": "Bài 174",
+ "title": "Nhân vật lịch sử (phần 3/4)",
+ "krTitle": "역사 속 인물 3",
+ "date": "2027-07-28",
+ "day": 252,
+ "source": "TOPIK 5 – Bài 6: Nhân vật lịch sử (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "귀감으로 삼다",
+   "Gwigameuro samda",
+   "Coi như hình mẫu",
+   "많은 사람들이 그의 삶을 귀감으로 삼고 있어요.",
+   "Nhiều người lấy cuộc đời ông làm hình mẫu."
+  ],
+  [
+   "난중일기",
+   "Nanjungilgi",
+   "Loạn Trung Nhật Ký (tên một cuốn sách)",
+   "난중일기는 이순신 장군이 전쟁 중에 쓴 일기예요.",
+   "Loạn Trung Nhật Ký là nhật ký tướng Yi Sun-sin viết trong chiến tranh."
+  ],
+  [
+   "노예해방",
+   "Noyehaebang",
+   "Giải phóng nô lệ",
+   "링컨은 노예해방을 이끈 대통령이에요.",
+   "Lincoln là tổng thống đã lãnh đạo giải phóng nô lệ."
+  ],
+  [
+   "도산서원",
+   "Dosanseowon",
+   "Đào Sơn thư viện (trường học do học giả Toe-Gye Y-Hwang xây dựng lên để dạy nho học vào thời xưa ở Hàn Quốc)",
+   "안동에 가면 도산서원에 꼭 가 보세요.",
+   "Nếu đến Andong thì nhất định hãy ghé Đào Sơn thư viện."
+  ],
+  [
+   "무력",
+   "Muryeok",
+   "Vũ lực",
+   "문제를 무력으로 해결하면 안 돼요.",
+   "Không được giải quyết vấn đề bằng vũ lực."
+  ],
+  [
+   "문필가",
+   "Munpilga",
+   "Người viết văn",
+   "그는 정치가이면서 뛰어난 문필가였어요.",
+   "Ông vừa là chính trị gia vừa là người viết văn xuất sắc."
+  ],
+  [
+   "미생물학자",
+   "Misaengmulhakja",
+   "Người nghiên cứu vi sinh vật",
+   "파스퇴르는 유명한 미생물학자예요.",
+   "Pasteur là nhà vi sinh vật học nổi tiếng."
+  ],
+  [
+   "바로잡다",
+   "Barojapda",
+   "Sửa lại cho đúng, chỉnh đốn",
+   "잘못된 역사를 바로잡아야 해요.",
+   "Phải sửa lại cho đúng những sai lệch của lịch sử."
+  ],
+  [
+   "벼슬",
+   "Byeoseul",
+   "Chức quan",
+   "옛날에는 시험을 봐서 벼슬을 얻었어요.",
+   "Ngày xưa người ta đi thi để được làm quan."
+  ],
+  [
+   "불매",
+   "Bulmae",
+   "Tẩy chay (không mua)",
+   "시민들이 그 회사 제품을 불매하기 시작했어요.",
+   "Người dân bắt đầu tẩy chay sản phẩm của công ty đó."
+  ],
+  [
+   "사법고시",
+   "Sabeopgosi",
+   "Kỳ thi công chức tư pháp",
+   "형은 사법고시를 준비하고 있어요.",
+   "Anh tôi đang chuẩn bị kỳ thi tư pháp."
+  ],
+  [
+   "사상가",
+   "Sasangga",
+   "Nhà tư tưởng",
+   "그는 조선 시대의 위대한 사상가예요.",
+   "Ông là nhà tư tưởng vĩ đại thời Joseon."
+  ],
+  [
+   "서평",
+   "Seopyeong",
+   "Bình luận sách",
+   "신문에 그 책의 서평이 실렸어요.",
+   "Bài điểm sách về cuốn đó được đăng trên báo."
+  ],
+  [
+   "성리학",
+   "Seongnihak",
+   "Tân Khổng giáo, Tân Nho giáo (Nho giáo theo cách tiếp cận của người Hàn Quốc)",
+   "조선은 성리학을 나라의 이념으로 삼았어요.",
+   "Triều Joseon lấy Tân Nho giáo làm tư tưởng quốc gia."
+  ],
+  [
+   "수재",
+   "Sujae",
+   "Người tài; lũ lụt",
+   "그는 마을에서 소문난 수재였어요.",
+   "Cậu ấy là thần đồng nổi tiếng trong làng."
+  ],
+  [
+   "시조",
+   "Sijo",
+   "Thơ sijo; thủy tổ",
+   "시조는 한국의 전통 시예요.",
+   "Sijo là thể thơ truyền thống của Hàn Quốc."
+  ],
+  [
+   "식민국",
+   "Singminguk",
+   "Nước thực dân (nước có thuộc địa)",
+   "식민국은 식민지의 자원을 빼앗았어요.",
+   "Nước thực dân đã cướp đoạt tài nguyên của thuộc địa."
+  ],
+  [
+   "식민 지배",
+   "Singmin jibae",
+   "Nền thống trị thực dân",
+   "한국은 36년 동안 식민 지배를 받았어요.",
+   "Hàn Quốc chịu ách thống trị thực dân suốt 36 năm."
+  ],
+  [
+   "실천가",
+   "Silcheonga",
+   "Người hành động thực tế",
+   "그는 말보다 행동이 앞서는 실천가였어요.",
+   "Ông là người hành động, làm trước khi nói."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㅁ으로써 — Bằng việc",
+   "meaning": "Nghĩa: 'bằng việc…, thông qua việc…, nhờ việc…' → vế trước là CÁCH THỨC / PHƯƠNG TIỆN dẫn đến kết quả ở vế sau. Cấu tạo: danh từ hóa (으)ㅁ (đã học) + (으)로써 (bằng). Thân có patchim → 음으로써 (읽다 → 읽음으로써); không patchim hoặc ㄹ → ㅁ으로써 (하다 → 함으로써, 만들다 → 만듦으로써). Quá khứ: 았/었음으로써 (ít dùng). Đây là văn VIẾT, trang trọng: hay gặp trong báo, bài luận, bài phát biểu, đề TOPIK câu 51~54. So sánh: 아/어서 (vì, rồi) — khẩu ngữ, chung chung; (으)ㅁ으로써 nhấn mạnh 'chính việc này là phương tiện tạo ra kết quả'. Đừng nhầm với (으)ㅁ으로 (vì, do — chỉ lý do): 비가 옴으로 = vì trời mưa.",
+   "examples": [
+    "세종대왕은 한글을 창제함으로써 백성들이 글을 읽을 수 있게 했다. — Bằng việc sáng tạo Hangeul, vua Sejong đã giúp dân chúng đọc được chữ.",
+    "시민들은 제품을 불매함으로써 회사에 항의했다. — Người dân phản đối công ty bằng cách tẩy chay sản phẩm.",
+    "책을 많이 읽음으로써 생각의 폭을 넓힐 수 있다. — Bằng việc đọc nhiều sách, ta có thể mở rộng tầm suy nghĩ.",
+    "잘못을 인정함으로써 신뢰를 다시 얻었다. — Nhờ thừa nhận sai lầm mà đã lấy lại được lòng tin."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Nhật ký tướng Yi Sun-sin viết trong chiến tranh Nhâm Thìn tên là gì?",
+   "kr": "",
+   "options": [
+    "난중일기",
+    "도산서원",
+    "시조"
+   ],
+   "answer": "난중일기",
+   "explain": "난중 = trong loạn (chiến tranh)."
+  },
+  {
+   "type": "choice",
+   "q": "Không mua sản phẩm để phản đối gọi là gì?",
+   "kr": "",
+   "options": [
+    "불매",
+    "무력",
+    "벼슬"
+   ],
+   "answer": "불매",
+   "explain": "불(không) + 매(mua)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không được giải quyết vấn đề bằng vũ lực.",
+   "kr": "문제를 ___으로 해결하면 안 돼요.",
+   "options": [
+    "무력",
+    "서평",
+    "실천가"
+   ],
+   "answer": "무력",
+   "explain": "무력 = vũ lực."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phải sửa lại cho đúng sai lệch của lịch sử.",
+   "kr": "잘못된 역사를 ___야 해요.",
+   "options": [
+    "바로잡아",
+    "귀감으로 삼아",
+    "불매해"
+   ],
+   "answer": "바로잡아",
+   "explain": "바로잡다 = sửa cho đúng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG của 하다 + (으)ㅁ으로써.",
+   "kr": "",
+   "options": [
+    "함으로써",
+    "하음으로써",
+    "핫음으로써"
+   ],
+   "answer": "함으로써",
+   "explain": "Không patchim → ㅁ으로써."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG của 만들다 + (으)ㅁ으로써.",
+   "kr": "",
+   "options": [
+    "만듦으로써",
+    "만들음으로써",
+    "만들므로써"
+   ],
+   "answer": "만듦으로써",
+   "explain": "Thân ㄹ → thêm ㅁ dưới ㄹ: 만듦."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu dùng (으)ㅁ으로써 ĐÚNG nghĩa 'bằng việc'.",
+   "kr": "",
+   "options": [
+    "책을 많이 읽음으로써 생각의 폭을 넓힐 수 있다.",
+    "날씨가 추움으로써 감기에 걸렸다.",
+    "배가 고픔으로써 밥을 먹었다."
+   ],
+   "answer": "책을 많이 읽음으로써 생각의 폭을 넓힐 수 있다.",
+   "explain": "Vế trước phải là hành động/phương tiện có chủ ý."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hàn Quốc chịu ách thống trị thực dân 36 năm.",
+   "kr": "한국은 36년 동안 ___를 받았어요.",
+   "options": [
+    "식민 지배",
+    "노예해방",
+    "사법고시"
+   ],
+   "answer": "식민 지배",
+   "explain": "식민 지배를 받다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㅁ으로써 với 인정하다: Nhờ thừa nhận sai lầm mà lấy lại được lòng tin.",
+   "kr": "잘못을 ___ 신뢰를 다시 얻었다.",
+   "answer": [
+    "인정함으로써"
+   ],
+   "explain": "인정하다 → 인정함으로써."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㅁ으로써 với 읽다: Bằng việc đọc sách, ta học được nhiều điều.",
+   "kr": "책을 ___ 많은 것을 배울 수 있다.",
+   "answer": [
+    "읽음으로써"
+   ],
+   "explain": "Có patchim → 음으로써."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nhiều người lấy cuộc đời ông làm hình mẫu.",
+   "kr": "많은 사람들이 그의 삶을 ___으로 삼고 있어요.",
+   "answer": [
+    "귀감"
+   ],
+   "explain": "귀감으로 삼다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Pasteur là nhà vi sinh vật học nổi tiếng.",
+   "kr": "파스퇴르는 유명한 ___예요.",
+   "answer": [
+    "미생물학자"
+   ],
+   "explain": "미생물 + 학자."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Người dân phản đối công ty bằng cách tẩy chay sản phẩm.",
+   "tokens": [
+    "시민들은",
+    "제품을",
+    "불매함으로써",
+    "회사에",
+    "항의했다"
+   ],
+   "answer": "시민들은 제품을 불매함으로써 회사에 항의했다",
+   "explain": "불매하다 → 불매함으로써."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Triều Joseon lấy Tân Nho giáo làm tư tưởng quốc gia.",
+   "tokens": [
+    "조선은",
+    "성리학을",
+    "나라의",
+    "이념으로",
+    "삼았어요"
+   ],
+   "answer": "조선은 성리학을 나라의 이념으로 삼았어요",
+   "explain": "N을 N으로 삼다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bằng việc tập thể dục mỗi ngày, có thể giữ sức khỏe. (dùng (으)ㅁ으로써)",
+   "answer": [
+    "매일 운동함으로써 건강을 지킬 수 있다.",
+    "매일 운동을 함으로써 건강을 지킬 수 있다.",
+    "매일 운동함으로써 건강을 지킬 수 있어요.",
+    "매일 운동을 함으로써 건강을 지킬 수 있어요."
+   ],
+   "explain": "운동하다 → 운동함으로써."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh tôi đang chuẩn bị kỳ thi tư pháp.",
+   "answer": [
+    "형은 사법고시를 준비하고 있어요.",
+    "우리 형은 사법고시를 준비하고 있어요.",
+    "오빠는 사법고시를 준비하고 있어요."
+   ],
+   "explain": "사법고시."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ngày xưa người ta đi thi để được làm quan.",
+   "answer": [
+    "옛날에는 시험을 봐서 벼슬을 얻었어요.",
+    "옛날에는 시험을 봐서 벼슬을 했어요.",
+    "옛날 사람들은 시험을 봐서 벼슬을 얻었어요."
+   ],
+   "explain": "벼슬을 얻다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "안창호는 사상가이면서 실천가였다. 그는 학교를 세움으로써 젊은이들에게 교육의 기회를 주었고, 식민 지배에서 벗어나기 위해 평생 노력했다.",
+   "answer": "Ahn Chang-ho vừa là nhà tư tưởng vừa là người hành động. Bằng việc lập trường học, ông đã trao cơ hội học tập cho thanh niên, và suốt đời nỗ lực để thoát khỏi ách thống trị thực dân.",
+   "explain": "N이면서; 세움으로써."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn suy nghĩ chính của người đàn ông. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "여자: 요즘 역사 인물의 일기나 편지를 책으로 많이 내더라고요.\n남자: 네, 좋은 일이에요. 위인들의 기록을 직접 읽음으로써 그 시대 사람들의 생각을 생생하게 알 수 있거든요. 교과서만 읽는 것보다 훨씬 도움이 돼요.",
+   "options": [
+    "위인의 기록을 직접 읽는 것이 역사 이해에 도움이 된다.",
+    "교과서만 읽으면 충분하다.",
+    "일기는 책으로 내면 안 된다.",
+    "역사 공부는 필요 없다."
+   ],
+   "answer": "위인의 기록을 직접 읽는 것이 역사 이해에 도움이 된다.",
+   "explain": "직접 읽음으로써 … 생생하게 알 수 있다."
+  },
+  {
+   "type": "read",
+   "q": "Đọc tiêu đề và chọn câu giải thích đúng. (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "【도산서원 문화 체험】\n· 대상: 초등학생 이상\n· 내용: 성리학 강의 듣기, 시조 짓기, 전통 차 마시기\n· 참가비: 무료 (선착순 30명)",
+   "options": [
+    "시조를 직접 지어 볼 수 있다.",
+    "참가하려면 돈을 내야 한다.",
+    "유치원생도 참가할 수 있다.",
+    "인원 제한이 없다."
+   ],
+   "answer": "시조를 직접 지어 볼 수 있다.",
+   "explain": "내용: 시조 짓기."
+  }
+ ]
+}

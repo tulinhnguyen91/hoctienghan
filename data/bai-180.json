@@ -1,0 +1,393 @@
+{
+ "id": "bai-180",
+ "lesson": "Bài 180",
+ "title": "Quảng cáo (phần 2/3)",
+ "krTitle": "광고 2",
+ "date": "2027-08-06",
+ "day": 261,
+ "source": "TOPIK 5 – Bài 8: Quảng cáo (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "현수막",
+   "Hyeonsumak",
+   "Băng rôn quảng cáo",
+   "학교 앞에 축제 현수막이 걸렸어요.",
+   "Băng rôn lễ hội được treo trước cổng trường."
+  ],
+  [
+   "광고 모델",
+   "Gwanggo model",
+   "Người mẫu quảng cáo",
+   "그 배우가 새 광고 모델이 됐어요.",
+   "Diễn viên đó đã trở thành người mẫu quảng cáo mới."
+  ],
+  [
+   "광고 효과",
+   "Gwanggo hyogwa",
+   "Hiệu quả quảng cáo",
+   "유명 가수를 쓰니까 광고 효과가 컸어요.",
+   "Dùng ca sĩ nổi tiếng nên hiệu quả quảng cáo rất lớn."
+  ],
+  [
+   "광고를 싣다",
+   "Gwanggoreul sitda",
+   "Đăng quảng cáo (lên báo, tạp chí)",
+   "신문에 신제품 광고를 실었어요.",
+   "Đã đăng quảng cáo sản phẩm mới lên báo."
+  ],
+  [
+   "광고 비용",
+   "Gwanggo biyong",
+   "Phí quảng cáo",
+   "광고 비용이 너무 많이 들어요.",
+   "Chi phí quảng cáo tốn quá nhiều."
+  ],
+  [
+   "광고를 내다",
+   "Gwanggoreul naeda",
+   "Đưa ra quảng cáo, đăng quảng cáo",
+   "가게를 열면서 지역 신문에 광고를 냈어요.",
+   "Khi mở cửa hàng tôi đã đăng quảng cáo trên báo địa phương."
+  ],
+  [
+   "과장 광고",
+   "Gwajang gwanggo",
+   "Quảng cáo phóng đại quá mức",
+   "과장 광고에 속지 마세요.",
+   "Đừng bị lừa bởi quảng cáo phóng đại."
+  ],
+  [
+   "광고업계",
+   "Gwanggoeopgye",
+   "Ngành quảng cáo",
+   "그는 졸업 후에 광고업계에서 일하고 싶어 해요.",
+   "Cậu ấy muốn làm việc trong ngành quảng cáo sau khi tốt nghiệp."
+  ],
+  [
+   "광고를 기획하다",
+   "Gwanggoreul gihoekada",
+   "Lên kế hoạch quảng cáo",
+   "우리 팀이 새 광고를 기획하고 있어요.",
+   "Nhóm chúng tôi đang lên kế hoạch quảng cáo mới."
+  ],
+  [
+   "허위 광고",
+   "Heowi gwanggo",
+   "Quảng cáo sai với sự thực, quảng cáo gian dối",
+   "허위 광고를 한 회사가 벌금을 냈어요.",
+   "Công ty làm quảng cáo sai sự thật đã nộp phạt."
+  ],
+  [
+   "광고 수익",
+   "Gwanggo suik",
+   "Doanh thu từ quảng cáo",
+   "그 방송국은 광고 수익이 줄었어요.",
+   "Đài truyền hình đó doanh thu quảng cáo giảm."
+  ],
+  [
+   "광고지를 돌리다",
+   "Gwanggojireul dollida",
+   "Phát tờ quảng cáo",
+   "역 앞에서 광고지를 돌리는 아르바이트를 했어요.",
+   "Tôi làm thêm phát tờ quảng cáo trước ga."
+  ],
+  [
+   "강화하다",
+   "Ganghwahada",
+   "Đẩy mạnh",
+   "정부가 과장 광고 단속을 강화했어요.",
+   "Chính phủ đã tăng cường kiểm soát quảng cáo phóng đại."
+  ],
+  [
+   "개혁",
+   "Gaehyeok",
+   "Sự cải cách",
+   "교육 개혁이 필요하다는 목소리가 높아요.",
+   "Tiếng nói cho rằng cần cải cách giáo dục ngày càng lớn."
+  ],
+  [
+   "계몽하다",
+   "Gyemonghada",
+   "Khai sáng, nâng cao nhận thức",
+   "공익 광고는 시민을 계몽하는 역할을 해요.",
+   "Quảng cáo công ích có vai trò nâng cao nhận thức người dân."
+  ],
+  [
+   "기호",
+   "Giho",
+   "Ký hiệu; sở thích",
+   "이 기호는 재활용할 수 있다는 뜻이에요.",
+   "Ký hiệu này có nghĩa là có thể tái chế."
+  ],
+  [
+   "노출시키다",
+   "Nochulsikida",
+   "Làm cho hiện ra, làm cho phơi bày ra",
+   "간접 광고는 제품을 자연스럽게 노출시켜요.",
+   "Quảng cáo gián tiếp làm sản phẩm xuất hiện một cách tự nhiên."
+  ],
+  [
+   "도모하다",
+   "Domohada",
+   "Mưu cầu, thúc đẩy (lợi ích, phát triển)",
+   "두 회사는 함께 발전을 도모하기로 했어요.",
+   "Hai công ty quyết định cùng thúc đẩy phát triển."
+  ],
+  [
+   "면역력",
+   "Myeonyeongnyeok",
+   "Sức miễn dịch",
+   "면역력을 높이려면 잘 자야 해요.",
+   "Muốn tăng sức đề kháng thì phải ngủ đủ."
+  ],
+  [
+   "부추기다",
+   "Buchugida",
+   "Kích động, xúi giục",
+   "광고가 소비를 부추긴다는 비판도 있어요.",
+   "Cũng có ý kiến phê phán rằng quảng cáo kích thích tiêu dùng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는/(으)ㄹ 듯(이) — Như thể",
+   "meaning": "So sánh, ví von: 'như thể…, giống như là…, như…'. Vế trước mô tả MỨC ĐỘ hoặc DÁNG VẺ của hành động ở vế sau. Chia theo thì: Động từ hiện tại → 는 듯(이) (날아가는 듯이); quá khứ → (으)ㄴ 듯(이) (죽은 듯이); tương lai/phỏng đoán → (으)ㄹ 듯(이) (터질 듯이); Tính từ → (으)ㄴ 듯(이) (아픈 듯이). Có cách gắn thẳng vào thân: V + 듯(이) (cố định trong thành ngữ): 물 쓰듯 (như dùng nước = tiêu hoang), 비 오듯 (như mưa), 밥 먹듯 (như cơm bữa). 이 có thể lược bỏ. Ở cuối câu: (으)ㄴ/는/(으)ㄹ 듯하다 = 'có vẻ như' (≈ 것 같다, văn viết). Hay gặp trong quảng cáo, văn học, TOPIK đọc.",
+   "examples": [
+    "광고 속 모델이 날아갈 듯이 기뻐해요. — Người mẫu trong quảng cáo vui như muốn bay lên.",
+    "그는 아무 일도 없었다는 듯이 웃었어요. — Anh ta cười như thể không có chuyện gì xảy ra.",
+    "땀이 비 오듯 흘렀어요. — Mồ hôi chảy như mưa.",
+    "돈을 물 쓰듯 하면 안 돼요. — Không được tiêu tiền như nước."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Quảng cáo nói sai sự thật về sản phẩm gọi là gì?",
+   "kr": "",
+   "options": [
+    "허위 광고",
+    "공익 광고",
+    "광고 효과"
+   ],
+   "answer": "허위 광고",
+   "explain": "허위 = giả dối."
+  },
+  {
+   "type": "choice",
+   "q": "Quảng cáo nói quá lên so với thực tế gọi là gì?",
+   "kr": "",
+   "options": [
+    "과장 광고",
+    "광고 모델",
+    "광고 수익"
+   ],
+   "answer": "과장 광고",
+   "explain": "과장 = phóng đại."
+  },
+  {
+   "type": "choice",
+   "q": "Băng vải dài treo trên đường ghi thông báo, quảng cáo gọi là gì?",
+   "kr": "",
+   "options": [
+    "현수막",
+    "기호",
+    "광고업계"
+   ],
+   "answer": "현수막",
+   "explain": "현수막 = băng rôn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng tiêu tiền như nước.",
+   "kr": "돈을 물 ___ 하면 안 돼요.",
+   "options": [
+    "쓰듯",
+    "쓰는 듯이야",
+    "쓸 법"
+   ],
+   "answer": "쓰듯",
+   "explain": "물 쓰듯 (thành ngữ)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói ĐÚNG: 'Vui như muốn bay lên' (tương lai/phỏng đoán).",
+   "kr": "",
+   "options": [
+    "날아갈 듯이 기뻐요.",
+    "날아갔는 듯이 기뻐요.",
+    "날아가 듯이 기뻐요."
+   ],
+   "answer": "날아갈 듯이 기뻐요.",
+   "explain": "(으)ㄹ 듯이."
+  },
+  {
+   "type": "choice",
+   "q": "'땀이 비 오듯 흘렀어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Mồ hôi chảy như mưa.",
+    "Trời mưa nên ướt.",
+    "Mồ hôi chảy vì trời mưa."
+   ],
+   "answer": "Mồ hôi chảy như mưa.",
+   "explain": "비 오듯 = như mưa."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Quảng cáo bị phê phán vì kích thích tiêu dùng.",
+   "kr": "광고가 소비를 ___다는 비판이 있어요.",
+   "options": [
+    "부추긴",
+    "도모한",
+    "계몽한"
+   ],
+   "answer": "부추긴",
+   "explain": "부추기다 = xúi giục, kích động."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Muốn tăng sức đề kháng thì phải ngủ đủ.",
+   "kr": "___을 높이려면 잘 자야 해요.",
+   "options": [
+    "면역력",
+    "기호",
+    "개혁"
+   ],
+   "answer": "면역력",
+   "explain": "면역력 = sức miễn dịch."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 듯이 (quá khứ) với 죽다: Anh ấy ngủ say như chết.",
+   "kr": "그는 ___ 잤어요.",
+   "answer": [
+    "죽은 듯이",
+    "죽은 듯"
+   ],
+   "explain": "Quá khứ: (으)ㄴ 듯이."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 듯이 với 알다 (hiện tại): Anh ta nói như thể biết hết mọi chuyện.",
+   "kr": "그는 모든 것을 다 ___ 말했어요.",
+   "answer": [
+    "아는 듯이",
+    "아는 듯"
+   ],
+   "explain": "알다 → 아는 듯이 (bỏ ㄹ)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã đăng quảng cáo sản phẩm mới lên báo.",
+   "kr": "신문에 신제품 광고를 ___.",
+   "answer": [
+    "실었어요",
+    "냈어요"
+   ],
+   "explain": "싣다 (bất quy tắc ㄷ) → 실었어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chi phí quảng cáo tốn quá nhiều.",
+   "kr": "광고 ___이 너무 많이 들어요.",
+   "answer": [
+    "비용"
+   ],
+   "explain": "광고 비용."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Anh ta cười như thể không có chuyện gì.",
+   "tokens": [
+    "그는",
+    "아무",
+    "일도",
+    "없었다는",
+    "듯이",
+    "웃었어요"
+   ],
+   "answer": "그는 아무 일도 없었다는 듯이 웃었어요",
+   "explain": "다는 듯이."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chính phủ đã tăng cường kiểm soát quảng cáo phóng đại.",
+   "tokens": [
+    "정부가",
+    "과장",
+    "광고",
+    "단속을",
+    "강화했어요"
+   ],
+   "answer": "정부가 과장 광고 단속을 강화했어요",
+   "explain": "강화하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mồ hôi chảy như mưa.",
+   "answer": [
+    "땀이 비 오듯 흘렀어요.",
+    "땀이 비 오듯이 흘렀어요.",
+    "땀이 비 오듯 흘러요."
+   ],
+   "explain": "비 오듯."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đừng bị lừa bởi quảng cáo phóng đại.",
+   "answer": [
+    "과장 광고에 속지 마세요.",
+    "과장 광고에 속지 마."
+   ],
+   "explain": "N에 속다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhóm chúng tôi đang lên kế hoạch quảng cáo mới.",
+   "answer": [
+    "우리 팀이 새 광고를 기획하고 있어요.",
+    "우리 팀은 새 광고를 기획하고 있어요.",
+    "저희 팀이 새 광고를 기획하고 있어요."
+   ],
+   "explain": "기획하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "광고 속 모델은 그 음료를 마시고 날아갈 듯이 행복한 표정을 짓는다. 하지만 이런 광고는 소비를 부추긴다는 비판을 받기도 한다.",
+   "answer": "Người mẫu trong quảng cáo uống loại nước đó và làm vẻ mặt hạnh phúc như muốn bay lên. Nhưng những quảng cáo như vậy cũng bị phê phán là kích thích tiêu dùng.",
+   "explain": "날아갈 듯이; 부추기다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 이번 신제품 광고를 기획하고 있는데, 유명 배우를 광고 모델로 쓰는 게 어떨까요?\n남자: 광고 효과는 크겠지만 광고 비용이 너무 많이 들어요. 차라리 SNS 광고를 하면 비용도 적고 젊은 사람들에게 더 많이 노출시킬 수 있어요.\n여자: 그렇군요. 그럼 두 가지 방법의 비용을 비교해 볼게요.",
+   "options": [
+    "남자는 SNS 광고가 비용이 적다고 생각한다.",
+    "여자는 광고를 하지 않기로 했다.",
+    "남자는 유명 배우를 쓰자고 했다.",
+    "두 사람은 신문 광고를 내기로 했다."
+   ],
+   "answer": "남자는 SNS 광고가 비용이 적다고 생각한다.",
+   "explain": "SNS 광고를 하면 비용도 적고…"
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "하루 30분 걷기,\n면역력이 쑥쑥!\n건강한 습관이 병원비를 줄입니다.",
+   "options": [
+    "건강 관리",
+    "병원 안내",
+    "운동화 판매",
+    "여행 상품"
+   ],
+   "answer": "건강 관리",
+   "explain": "걷기, 면역력, 건강한 습관 → quản lý sức khỏe (quảng cáo công ích)."
+  }
+ ]
+}

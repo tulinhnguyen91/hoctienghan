@@ -1,0 +1,53 @@
+{
+ "id": "bai-118",
+ "lesson": "Bài 118",
+ "title": "Lễ tết (phần 4/4)",
+ "krTitle": "명절 4",
+ "date": "2027-05-02",
+ "day": 165,
+ "source": "TOPIK 4 – Bài 7: Lễ tết (phần 4/4)",
+ "practice": {"listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng", "reading": "Đọc – câu 28~50: Đoạn văn dài"},
+ "words": [
+  ["무효", "Muhyo", "Vô hiệu", "규칙을 어기면 경기가 무효가 돼요.", "Vi phạm luật thì trận đấu bị vô hiệu."],
+  ["반죽", "Banjuk", "Bột nhào", "쌀가루로 반죽을 만들었어요.", "Tôi làm bột nhào bằng bột gạo."],
+  ["부럼", "Bureom", "Các loại hạt cứng ăn vào rằm tháng Giêng", "정월 대보름에 부럼을 깨물어요.", "Rằm tháng Giêng người ta cắn hạt cứng."],
+  ["부정을 막다", "Bujeongeul makda", "Xua điều xui rủi", "부럼을 깨물면 부정을 막는대요.", "Nghe nói cắn hạt cứng sẽ xua điều xui."],
+  ["빚다", "Bitda", "Nặn, nhào", "처음 송편을 빚었을 때 모양이 이상했어요.", "Lần đầu nặn songpyeon hình dáng kỳ cục lắm."],
+  ["성묘", "Seongmyo", "Viếng mộ", "성묘 가는 길이 많이 막혔어요.", "Đường đi viếng mộ tắc lắm."],
+  ["수다를 떨다", "Sudareul tteolda", "Tán gẫu", "오랜만에 사촌들과 수다를 떨었어요.", "Lâu rồi mới tán gẫu với anh chị em họ."],
+  ["승부를 겨루다", "Seungbureul gyeoruda", "Phân thắng bại", "윷놀이로 승부를 겨뤘어요.", "Phân thắng bại bằng yutnori."],
+  ["오곡밥", "Ogokbap", "Cơm ngũ cốc", "대보름에는 오곡밥을 먹어요.", "Rằm tháng Giêng ăn cơm ngũ cốc."],
+  ["쟁반", "Jaengban", "Cái khay, cái mâm", "쟁반에 송편을 담았어요.", "Tôi bày songpyeon lên khay."],
+  ["정월 대보름", "Jeongwol daeboreum", "Rằm tháng Giêng", "정월 대보름에 달을 보면서 소원을 빌어요.", "Rằm tháng Giêng ngắm trăng và cầu nguyện."],
+  ["조상", "Josang", "Tổ tiên", "차례는 조상에게 감사하는 의식이에요.", "Lễ cúng là nghi thức tri ân tổ tiên."],
+  ["찜질방", "Jjimjilbang", "Phòng xông hơi (jjimjilbang)", "명절 후에 찜질방에서 쉬었어요.", "Sau Tết tôi nghỉ ngơi ở jjimjilbang."],
+  ["초하루", "Choharu", "Ngày mùng một", "설날은 음력 1월 초하루예요.", "Seollal là mùng 1 tháng Giêng âm lịch."],
+  ["풍습", "Pungseup", "Phong tục", "나라마다 명절 풍습이 달라요.", "Mỗi nước có phong tục lễ tết khác nhau."],
+  ["한식", "Hansik", "Tết Hàn thực; món ăn Hàn", "한식에는 찬 음식을 먹는 풍습이 있었어요.", "Tết Hàn thực có phong tục ăn đồ nguội."]
+ ],
+ "patterns": [
+  {"form": "V/A + 았/었을 때 — Khi đã", "meaning": "Diễn tả thời điểm SAU KHI một hành động đã HOÀN THÀNH, hoặc khi một trạng thái trong quá khứ đã có: 'khi đã…, lúc (đã)…'. Kết hợp thì quá khứ 았/었 với (으)ㄹ 때 (đã học). Chia: ㅏ/ㅗ + 았을 때 (가다 → 갔을 때), nguyên âm khác + 었을 때 (먹다 → 먹었을 때), 하다 → 했을 때, danh từ + 이었을 때/였을 때 (학생이었을 때). So sánh quan trọng: 한국에 갈 때 비행기 안에서 영화를 봤어요 (khi ĐANG ĐI sang Hàn — trên đường đi) / 한국에 갔을 때 친구를 만났어요 (khi ĐÃ ĐẾN Hàn — sau khi tới). Với hành động diễn ra tức thì (도착하다, 들어가다, 만나다), 았/었을 때 nhấn mạnh 'lúc đã xảy ra rồi'. Với 어렸을 때, 학생이었을 때: chỉ một giai đoạn trong quá khứ.", "examples": ["처음 송편을 빚었을 때 모양이 이상했어요. — Lần đầu nặn songpyeon hình dáng kỳ cục.", "고향에 도착했을 때 가족들이 기다리고 있었어요. — Khi tôi về đến quê, cả nhà đang đợi.", "어렸을 때 할머니 댁에서 명절을 보냈어요. — Hồi nhỏ tôi đón Tết ở nhà bà.", "한국에 갈 때 비행기에서 잤어요. / 한국에 갔을 때 친구를 만났어요. — Lúc đang bay sang Hàn tôi ngủ. / Khi đến Hàn tôi gặp bạn."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Khi về ĐẾN quê, cả nhà đang đợi.", "kr": "고향에 ___ 가족들이 기다리고 있었어요.", "options": ["도착했을 때", "도착할 때 가는 길", "도착하자고"], "answer": "도착했을 때", "explain": "Đã đến nơi → 았/었을 때."},
+  {"type": "choice", "q": "Phân biệt: Lúc ĐANG trên đường đi sang Hàn tôi ngủ trên máy bay.", "kr": "한국에 ___ 비행기에서 잤어요.", "options": ["갈 때", "갔을 때", "가자마자"], "answer": "갈 때", "explain": "Đang đi (chưa đến) → (으)ㄹ 때."},
+  {"type": "choice", "q": "Chọn dạng đúng: Hồi còn là sinh viên tôi sống ở Seoul.", "kr": "___ 서울에서 살았어요.", "options": ["대학생이었을 때", "대학생일 때었", "대학생했을 때"], "answer": "대학생이었을 때", "explain": "Danh từ có patchim + 이었을 때."},
+  {"type": "choice", "q": "Chọn dạng đúng: Lần đầu nặn songpyeon...", "kr": "처음 송편을 ___ 모양이 이상했어요.", "options": ["빚었을 때", "빚을까 할 때", "빚게 할 때"], "answer": "빚었을 때", "explain": "빚다 → 빚었을 때."},
+  {"type": "choice", "q": "Chọn câu tự nhiên:", "kr": "", "options": ["집에 들어갔을 때 아무도 없었어요.", "집에 들어갔을 때 아무도 없을 거예요 내일.", "집에 들어갔을 때 들어가세요."], "answer": "집에 들어갔을 때 아무도 없었어요.", "explain": "Khi đã vào nhà thì không có ai."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Rằm tháng Giêng ăn cơm ngũ cốc.", "kr": "대보름에는 ___을 먹어요.", "options": ["오곡밥", "부럼밥", "반죽"], "answer": "오곡밥", "explain": "오곡 (năm loại ngũ cốc) + 밥."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Lâu rồi mới tán gẫu với anh chị em họ.", "kr": "오랜만에 사촌들과 ___.", "options": ["수다를 떨었어요", "승부를 겨뤘어요", "부정을 막았어요"], "answer": "수다를 떨었어요", "explain": "수다를 떨다 = tán gẫu."},
+  {"type": "choice", "q": "Seollal là ngày nào theo âm lịch?", "kr": "", "options": ["음력 1월 초하루", "음력 8월 15일", "음력 1월 15일"], "answer": "음력 1월 초하루", "explain": "초하루 = mùng 1; 8/15 = Chuseok; 1/15 = 대보름."},
+  {"type": "fill", "q": "Điền: Khi tôi gọi điện thì bạn đã ngủ rồi.", "kr": "제가 전화했___ 때 친구는 벌써 자고 있었어요.", "answer": ["을"], "explain": "전화했을 때."},
+  {"type": "fill", "q": "Điền: Hồi nhỏ tôi đón Tết ở nhà bà.", "kr": "어렸___ 때 할머니 댁에서 명절을 보냈어요.", "answer": ["을"], "explain": "어렸을 때."},
+  {"type": "fill", "q": "Điền: Khi xem phim đó lần đầu, tôi đã khóc.", "kr": "그 영화를 처음 봤___ 때 울었어요.", "answer": ["을"], "explain": "봤을 때."},
+  {"type": "fill", "q": "Điền từ: Mỗi nước có phong tục lễ tết khác nhau.", "kr": "나라마다 명절 ___이 달라요.", "answer": ["풍습"], "explain": "풍습."},
+  {"type": "order", "q": "Sắp xếp thành câu: Khi tôi về đến quê, cả nhà đang đợi.", "tokens": ["고향에", "도착했을", "때", "가족들이", "기다리고", "있었어요"], "answer": "고향에 도착했을 때 가족들이 기다리고 있었어요", "explain": "았/었을 때."},
+  {"type": "order", "q": "Sắp xếp thành câu: Rằm tháng Giêng ngắm trăng và cầu nguyện.", "tokens": ["정월", "대보름에", "달을", "보면서", "소원을", "빌어요"], "answer": "정월 대보름에 달을 보면서 소원을 빌어요", "explain": "(으)면서 = vừa… vừa."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Hồi nhỏ tôi đón Tết ở nhà bà.", "answer": ["어렸을 때 할머니 댁에서 명절을 보냈어요.", "어렸을 때 할머니 집에서 명절을 보냈어요.", "어릴 때 할머니 댁에서 명절을 보냈어요."], "explain": "어렸을 때."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Khi đến Hàn, tôi đã gặp bạn.", "answer": ["한국에 갔을 때 친구를 만났어요.", "한국에 왔을 때 친구를 만났어요.", "한국에 도착했을 때 친구를 만났어요."], "explain": "갔을 때."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tôi bày songpyeon lên khay.", "answer": ["쟁반에 송편을 담았어요.", "쟁반에 송편을 놓았어요.", "송편을 쟁반에 담았어요."], "explain": "쟁반에 담다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "정월 대보름에는 오곡밥을 먹고 부럼을 깨물어요. 부럼을 깨물었을 때 '딱' 소리가 크게 나면 한 해 동안 부정을 막는다고 믿었어요.", "answer": "Rằm tháng Giêng người ta ăn cơm ngũ cốc và cắn hạt cứng. Người xưa tin rằng khi cắn hạt mà kêu 'tách' thật to thì cả năm sẽ xua được điều xui rủi.", "explain": "깨물었을 때 = khi đã cắn."},
+  {"type": "read", "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)", "kr": "남자: 한국의 4대 명절은 설날, 한식, 단오, 추석입니다. 이 중에서 한식은 동지에서 105일째 되는 날로, 불을 피우지 않고 찬 음식을 먹는 풍습이 있었습니다. 또 이날 조상의 묘를 찾아 성묘를 했습니다. 하지만 지금은 한식을 기념하는 가정이 많이 줄었습니다.", "options": ["한식에는 불을 쓰지 않고 찬 음식을 먹었다.", "한식은 지금도 가장 큰 명절이다.", "한식에는 성묘를 하지 않았다.", "한식은 동지 다음 날이다."], "answer": "한식에는 불을 쓰지 않고 찬 음식을 먹었다.", "explain": "불을 피우지 않고 찬 음식을 먹는 풍습."},
+  {"type": "read", "q": "Đọc đoạn văn và chọn nội dung đúng. (Dạng TOPIK II câu 28~50)", "kr": "추석에 가족이 모이면 함께 송편을 빚는다. 쌀가루로 반죽을 만든 후에 안에 깨나 콩을 넣고 반달 모양으로 빚는다. 옛날 어른들은 송편을 예쁘게 빚으면 예쁜 딸을 낳는다고 말씀하셨다. 그래서 처음 송편을 빚었을 때 모두 열심히 예쁘게 만들려고 했다.", "options": ["송편은 쌀가루 반죽으로 만든다.", "송편은 보름달 모양으로 빚는다.", "송편 안에는 아무것도 넣지 않는다.", "송편은 설날에만 먹는다."], "answer": "송편은 쌀가루 반죽으로 만든다.", "explain": "쌀가루로 반죽을 만든 후에… hình bán nguyệt (반달)."}
+ ]
+}

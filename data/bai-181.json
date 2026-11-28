@@ -1,0 +1,395 @@
+{
+ "id": "bai-181",
+ "lesson": "Bài 181",
+ "title": "Quảng cáo (phần 3/3)",
+ "krTitle": "광고 3",
+ "date": "2027-08-07",
+ "day": 262,
+ "source": "TOPIK 5 – Bài 8: Quảng cáo (phần 3/3)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "불합리하다",
+   "Bulhamnihada",
+   "Bất hợp lý",
+   "이 규칙은 너무 불합리해요.",
+   "Quy định này quá bất hợp lý."
+  ],
+  [
+   "비참함",
+   "Bichamham",
+   "Sự bi thảm, sự khốn cùng",
+   "그 영화는 전쟁의 비참함을 잘 보여 줘요.",
+   "Bộ phim đó thể hiện rõ sự bi thảm của chiến tranh."
+  ],
+  [
+   "소음",
+   "Soeum",
+   "Tiếng ồn",
+   "밤마다 공사 소음 때문에 잠을 못 자요.",
+   "Đêm nào cũng không ngủ được vì tiếng ồn công trình."
+  ],
+  [
+   "소품",
+   "Sopum",
+   "Đạo cụ, đồ vật nhỏ",
+   "광고 촬영에 쓸 소품을 준비했어요.",
+   "Tôi đã chuẩn bị đạo cụ dùng để quay quảng cáo."
+  ],
+  [
+   "안보 의식",
+   "Anbo uisik",
+   "Ý thức bảo an, ý thức bảo vệ an ninh",
+   "이 공익 광고는 국민의 안보 의식을 높이기 위해 만들었어요.",
+   "Quảng cáo công ích này được làm để nâng cao ý thức an ninh của người dân."
+  ],
+  [
+   "언급하다",
+   "Eongeupada",
+   "Đề cập đến, nhắc đến",
+   "사장님이 회의에서 그 문제를 언급했어요.",
+   "Giám đốc đã đề cập vấn đề đó trong cuộc họp."
+  ],
+  [
+   "열대야",
+   "Yeoldaeya",
+   "Đêm nhiệt đới, đêm hè oi bức",
+   "열대야 때문에 밤에도 너무 더워요.",
+   "Vì đêm nhiệt đới nên ban đêm cũng quá nóng."
+  ],
+  [
+   "우유부단하다",
+   "Uyubudanhada",
+   "Do dự, lưỡng lự, không có tính quyết đoán",
+   "그는 우유부단해서 메뉴 하나 고르는 데도 오래 걸려요.",
+   "Anh ấy thiếu quyết đoán nên chọn một món ăn cũng mất lâu."
+  ],
+  [
+   "유용하다",
+   "Yuyonghada",
+   "Hữu dụng",
+   "이 앱은 여행할 때 아주 유용해요.",
+   "Ứng dụng này rất hữu ích khi du lịch."
+  ],
+  [
+   "지불하다",
+   "Jibulhada",
+   "Chi trả",
+   "요금은 카드로 지불할 수 있어요.",
+   "Có thể thanh toán bằng thẻ."
+  ],
+  [
+   "처벌하다",
+   "Cheobeolhada",
+   "Phạt, trừng phạt",
+   "허위 광고를 한 회사를 처벌해야 해요.",
+   "Phải xử phạt công ty làm quảng cáo sai sự thật."
+  ],
+  [
+   "초라하다",
+   "Chorahada",
+   "Tiều tụy, tồi tàn, khốn khổ",
+   "옛날 집은 초라했지만 따뜻했어요.",
+   "Ngôi nhà ngày xưa tồi tàn nhưng ấm áp."
+  ],
+  [
+   "촉진하다",
+   "Chokjinhada",
+   "Xúc tiến, đẩy nhanh tiến độ công việc",
+   "정부가 소비를 촉진하는 정책을 발표했어요.",
+   "Chính phủ công bố chính sách thúc đẩy tiêu dùng."
+  ],
+  [
+   "추구하다",
+   "Chuguhada",
+   "Theo đuổi, mưu cầu",
+   "그 회사는 친환경을 추구해요.",
+   "Công ty đó theo đuổi sự thân thiện với môi trường."
+  ],
+  [
+   "충동구매",
+   "Chungdonggumae",
+   "Mua hàng ngẫu hứng",
+   "할인 광고를 보고 충동구매를 했어요.",
+   "Xem quảng cáo giảm giá tôi đã mua sắm bốc đồng."
+  ],
+  [
+   "취향",
+   "Chwihyang",
+   "Khuynh hướng, sở thích",
+   "광고는 소비자의 취향에 맞춰야 해요.",
+   "Quảng cáo phải phù hợp với sở thích người tiêu dùng."
+  ],
+  [
+   "탈출하다",
+   "Talchulhada",
+   "Thoát ra khỏi",
+   "불이 나서 사람들이 건물에서 탈출했어요.",
+   "Có cháy nên mọi người đã thoát ra khỏi tòa nhà."
+  ],
+  [
+   "항의",
+   "Hangui",
+   "Sự phản đối, khiếu nại",
+   "소비자들의 항의가 계속되자 회사가 광고를 내렸어요.",
+   "Người tiêu dùng phản đối liên tục nên công ty đã gỡ quảng cáo."
+  ],
+  [
+   "협찬",
+   "Hyeopchan",
+   "Sự tài trợ",
+   "이 프로그램은 여러 기업의 협찬을 받았어요.",
+   "Chương trình này nhận được tài trợ của nhiều doanh nghiệp."
+  ],
+  [
+   "횡단",
+   "Hoengdan",
+   "Sự băng qua (đường)",
+   "무단 횡단은 위험해요.",
+   "Băng qua đường không đúng nơi quy định rất nguy hiểm."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ 테니(까) — Vì (sẽ)",
+   "meaning": "Vế trước là Ý ĐỊNH của người nói (ngôi 1: 'tôi sẽ…') hoặc PHỎNG ĐOÁN (ngôi 3: 'chắc sẽ…'), làm LÝ DO / ĐIỀU KIỆN cho vế sau là lời đề nghị, khuyên, ra lệnh: 'vì (tôi) sẽ… nên (bạn hãy)…', 'chắc là… nên…'. Cấu tạo: (으)ㄹ 터 (dự định) + 이니까. Chia: có patchim → 을 테니까 (먹을 테니까); không patchim/ㄹ → ㄹ 테니까 (갈 테니까, 만들 테니까); quá khứ (phỏng đoán) → 았/었을 테니까 (도착했을 테니까). 까 có thể lược: 할 테니. Vế sau thường là: (으)세요, (으)ㄹ까요?, (으)ㅂ시다, 지 마세요. So sánh: (으)ㄹ 텐데 (đã học) = 'chắc sẽ… (tiếc/lo)'; (으)ㄹ 테니까 = 'vì sẽ… nên hãy…'.",
+   "examples": [
+    "제가 광고 소품을 준비할 테니까 민수 씨는 장소를 알아봐 주세요. — Tôi sẽ chuẩn bị đạo cụ nên anh Min-su tìm địa điểm giúp nhé.",
+    "오늘 밤도 열대야일 테니까 에어컨을 켜고 주무세요. — Đêm nay chắc lại nóng nên hãy bật điều hòa mà ngủ.",
+    "지금 출발하면 길이 막힐 테니까 조금 이따가 가요. — Giờ đi chắc sẽ tắc đường nên lát nữa hãy đi.",
+    "벌써 도착했을 테니까 전화해 보세요. — Chắc đã tới rồi nên thử gọi xem."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Mua hàng không có kế hoạch, chỉ vì bỗng nhiên muốn mua gọi là gì?",
+   "kr": "",
+   "options": [
+    "충동구매",
+    "협찬",
+    "항의"
+   ],
+   "answer": "충동구매",
+   "explain": "충동 = bốc đồng; 구매 = mua."
+  },
+  {
+   "type": "choice",
+   "q": "Đêm hè mà nhiệt độ vẫn trên 25°C gọi là gì?",
+   "kr": "",
+   "options": [
+    "열대야",
+    "소음",
+    "횡단"
+   ],
+   "answer": "열대야",
+   "explain": "열대 = nhiệt đới; 야 = đêm."
+  },
+  {
+   "type": "choice",
+   "q": "Người khó đưa ra quyết định, cứ do dự mãi — tính từ nào?",
+   "kr": "",
+   "options": [
+    "우유부단하다",
+    "유용하다",
+    "초라하다"
+   ],
+   "answer": "우유부단하다",
+   "explain": "우유부단 = do dự, thiếu quyết đoán."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Chương trình nhận tài trợ của nhiều doanh nghiệp.",
+   "kr": "이 프로그램은 여러 기업의 ___을 받았어요.",
+   "options": [
+    "협찬",
+    "취향",
+    "언급"
+   ],
+   "answer": "협찬",
+   "explain": "협찬 = tài trợ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tôi sẽ nấu cơm nên bạn dọn dẹp nhé.'",
+   "kr": "",
+   "options": [
+    "제가 밥을 할 테니까 청소해 주세요.",
+    "제가 밥을 할 텐데 청소해 주세요.",
+    "제가 밥을 하는 테니까 청소해 주세요."
+   ],
+   "answer": "제가 밥을 할 테니까 청소해 주세요.",
+   "explain": "Ý định của tôi + đề nghị → (으)ㄹ 테니까."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Chắc đã đến nơi rồi nên thử gọi xem.'",
+   "kr": "",
+   "options": [
+    "벌써 도착했을 테니까 전화해 보세요.",
+    "벌써 도착할 테니까 전화해 보세요.",
+    "벌써 도착했는 테니까 전화해 보세요."
+   ],
+   "answer": "벌써 도착했을 테니까 전화해 보세요.",
+   "explain": "Phỏng đoán quá khứ: 았/었을 테니까."
+  },
+  {
+   "type": "choice",
+   "q": "'지금 가면 길이 막힐 테니까 이따가 가요.' Vế trước có nghĩa gì?",
+   "kr": "",
+   "options": [
+    "Phỏng đoán: chắc sẽ tắc đường",
+    "Ý định: tôi sẽ làm tắc đường",
+    "Sự thật: đường đã tắc"
+   ],
+   "answer": "Phỏng đoán: chắc sẽ tắc đường",
+   "explain": "Ngôi 3 → phỏng đoán."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Băng qua đường sai chỗ rất nguy hiểm.",
+   "kr": "무단 ___은 위험해요.",
+   "options": [
+    "횡단",
+    "탈출",
+    "지불"
+   ],
+   "answer": "횡단",
+   "explain": "무단 횡단."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 테니까 với 기다리다: Tôi sẽ đợi nên cứ từ từ mà đến.",
+   "kr": "제가 ___ 천천히 오세요.",
+   "answer": [
+    "기다릴 테니까",
+    "기다릴 테니"
+   ],
+   "explain": "Không patchim → ㄹ 테니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 테니까 với 춥다: Chắc trời lạnh nên mặc áo ấm vào.",
+   "kr": "밖이 ___ 따뜻하게 입으세요.",
+   "answer": [
+    "추울 테니까",
+    "추울 테니"
+   ],
+   "explain": "춥다 (bất quy tắc ㅂ) → 추울 테니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Có thể thanh toán bằng thẻ.",
+   "kr": "요금은 카드로 ___할 수 있어요.",
+   "answer": [
+    "지불"
+   ],
+   "explain": "지불하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Quảng cáo phải phù hợp với sở thích người tiêu dùng.",
+   "kr": "광고는 소비자의 ___에 맞춰야 해요.",
+   "answer": [
+    "취향"
+   ],
+   "explain": "취향."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi sẽ chuẩn bị đạo cụ nên anh tìm địa điểm giúp.",
+   "tokens": [
+    "제가",
+    "소품을",
+    "준비할",
+    "테니까",
+    "장소를",
+    "알아봐",
+    "주세요"
+   ],
+   "answer": "제가 소품을 준비할 테니까 장소를 알아봐 주세요",
+   "explain": "(으)ㄹ 테니까 + 아/어 주세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phải xử phạt công ty làm quảng cáo sai sự thật.",
+   "tokens": [
+    "허위",
+    "광고를",
+    "한",
+    "회사를",
+    "처벌해야",
+    "해요"
+   ],
+   "answer": "허위 광고를 한 회사를 처벌해야 해요",
+   "explain": "처벌하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi sẽ trả tiền nên bạn đừng lo. (dùng (으)ㄹ 테니까)",
+   "answer": [
+    "제가 돈을 낼 테니까 걱정하지 마세요.",
+    "제가 계산할 테니까 걱정하지 마세요.",
+    "제가 지불할 테니까 걱정하지 마세요.",
+    "내가 낼 테니까 걱정하지 마."
+   ],
+   "explain": "(으)ㄹ 테니까 + 지 마세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ứng dụng này rất hữu ích khi du lịch.",
+   "answer": [
+    "이 앱은 여행할 때 아주 유용해요.",
+    "이 앱은 여행할 때 매우 유용해요.",
+    "이 앱은 여행할 때 정말 유용해요."
+   ],
+   "explain": "유용하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Xem quảng cáo giảm giá tôi đã mua sắm bốc đồng.",
+   "answer": [
+    "할인 광고를 보고 충동구매를 했어요.",
+    "할인 광고를 보고 충동구매했어요."
+   ],
+   "explain": "충동구매를 하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "할인 광고를 보면 충동구매를 하기 쉽다. 그러니까 쇼핑하기 전에 꼭 필요한 물건을 먼저 적어 두면 쓸데없는 지출을 줄일 수 있을 것이다.",
+   "answer": "Khi xem quảng cáo giảm giá rất dễ mua sắm bốc đồng. Vì vậy nếu trước khi mua sắm ghi sẵn những món thật sự cần thì có lẽ sẽ giảm được chi tiêu không cần thiết.",
+   "explain": "기 쉽다, 아/어 두다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe phỏng vấn và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "기자: 최근 간접 광고에 대한 소비자들의 항의가 늘고 있다고 들었습니다.\n전문가: 네, 드라마 속에서 협찬 제품이 너무 자주, 부자연스럽게 노출되기 때문입니다. 시청자들은 드라마를 보고 싶어 하지 광고를 보고 싶어 하는 게 아니거든요. 협찬을 받아도 이야기의 흐름을 방해하지 않도록 해야 합니다.\n기자: 그렇군요.",
+   "options": [
+    "간접 광고가 부자연스러워서 항의가 늘고 있다.",
+    "시청자들은 간접 광고를 좋아한다.",
+    "전문가는 협찬을 모두 없애자고 했다.",
+    "항의는 점점 줄고 있다."
+   ],
+   "answer": "간접 광고가 부자연스러워서 항의가 늘고 있다.",
+   "explain": "너무 자주, 부자연스럽게 노출되기 때문."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【소음 줄이기 캠페인】\n· 밤 10시 이후 세탁기 사용 자제\n· 실내에서는 슬리퍼 착용\n· 문은 조용히 닫기\n※ 이웃을 배려하는 작은 습관이 행복한 아파트를 만듭니다.",
+   "options": [
+    "밤늦게 세탁기를 쓰지 않는 것이 좋다.",
+    "실내에서는 맨발로 다녀야 한다.",
+    "문을 세게 닫아야 한다.",
+    "이 캠페인은 학교에서 한다."
+   ],
+   "answer": "밤늦게 세탁기를 쓰지 않는 것이 좋다.",
+   "explain": "밤 10시 이후 세탁기 사용 자제."
+  }
+ ]
+}

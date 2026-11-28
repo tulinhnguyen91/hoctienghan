@@ -1,0 +1,358 @@
+{
+ "id": "bai-116",
+ "lesson": "Bài 116",
+ "title": "Lễ tết (phần 2/4)",
+ "krTitle": "명절 2",
+ "date": "2027-04-29",
+ "day": 162,
+ "source": "TOPIK 4 – Bài 7: Lễ tết (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "햅쌀",
+   "Haepssal",
+   "Gạo mới",
+   "햅쌀로 송편을 만들어요.",
+   "Làm bánh songpyeon bằng gạo mới."
+  ],
+  [
+   "햇과일",
+   "Haetgwail",
+   "Hoa quả mới (đầu mùa)",
+   "추석에는 햇과일을 차례상에 올려요.",
+   "Chuseok người ta đặt trái cây đầu mùa lên mâm cúng."
+  ],
+  [
+   "햇곡식",
+   "Haetgoksik",
+   "Ngũ cốc mới",
+   "햇곡식으로 만든 음식이 맛있어요.",
+   "Đồ ăn làm từ ngũ cốc mới rất ngon."
+  ],
+  [
+   "더도 말고 덜도 말고 한가위만 같아라.",
+   "Deodo malgo deoldo malgo hangawiman gatara.",
+   "Không hơn không kém, mong ngày nào cũng như Trung thu.",
+   "옛날부터 '더도 말고 덜도 말고 한가위만 같아라'라는 말이 있어요.",
+   "Từ xưa đã có câu 'không hơn không kém, chỉ mong như Trung thu'."
+  ],
+  [
+   "풍성한 한가위 보내세요.",
+   "Pungseonghan hangawi bonaeseyo.",
+   "Chúc Trung thu sung túc.",
+   "가족과 함께 풍성한 한가위 보내세요.",
+   "Chúc bạn Trung thu sung túc bên gia đình."
+  ],
+  [
+   "명절을 쇠다",
+   "Myeongjeoreul soeda",
+   "Ăn Tết, đón lễ",
+   "올해는 고향에서 명절을 쇠려고 해요.",
+   "Năm nay tôi định ăn Tết ở quê."
+  ],
+  [
+   "웃어른을 찾아뵙다",
+   "Useoreuneul chajaboepda",
+   "Đến thăm người bề trên",
+   "명절에는 웃어른을 찾아뵙고 인사드려요.",
+   "Ngày lễ thì đến thăm và chào người bề trên."
+  ],
+  [
+   "세시 풍속",
+   "Sesi pungsok",
+   "Phong tục theo mùa (lễ tết)",
+   "세시 풍속이 점점 잊히고 있어요.",
+   "Các phong tục lễ tết đang dần bị lãng quên."
+  ],
+  [
+   "황금연휴",
+   "Hwanggeumyeonhyu",
+   "Kỳ nghỉ dài (kỳ nghỉ vàng)",
+   "이번 추석은 황금연휴예요.",
+   "Chuseok lần này là kỳ nghỉ dài."
+  ],
+  [
+   "귀성객",
+   "Gwiseonggaek",
+   "Người về quê dịp lễ",
+   "기차역이 귀성객으로 붐벼요.",
+   "Ga tàu đông nghịt người về quê."
+  ],
+  [
+   "민족대이동",
+   "Minjokdaeidong",
+   "Cuộc đại di cư (dịp lễ)",
+   "명절마다 민족대이동이 시작돼요.",
+   "Mỗi dịp lễ là cuộc đại di cư bắt đầu."
+  ],
+  [
+   "명절 증후군",
+   "Myeongjeol jeunghugun",
+   "Hội chứng căng thẳng dịp lễ tết",
+   "명절 증후군 때문에 힘들어하는 사람이 많아요.",
+   "Nhiều người mệt mỏi vì hội chứng ngày lễ."
+  ],
+  [
+   "윷놀이",
+   "Yunnori",
+   "Yutnori (trò chơi ngày Tết)",
+   "가족끼리 윷놀이를 했어요.",
+   "Cả nhà chơi yutnori với nhau."
+  ],
+  [
+   "연날리기",
+   "Yeonnalligi",
+   "Thả diều",
+   "바람이 불어서 연날리기 좋은 날이에요.",
+   "Có gió nên là ngày đẹp để thả diều."
+  ],
+  [
+   "팽이치기",
+   "Paengichigi",
+   "Chơi quay (con quay)",
+   "아이들이 얼음 위에서 팽이치기를 해요.",
+   "Trẻ con chơi quay trên băng."
+  ],
+  [
+   "제기차기",
+   "Jegichagi",
+   "Đá cầu",
+   "제기차기는 베트남의 đá cầu와 비슷해요.",
+   "Jegichagi giống đá cầu của Việt Nam."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 아/어지다 — Được, bị (bị động)",
+   "meaning": "Cách thứ hai để tạo câu BỊ ĐỘNG, dùng cho những động từ KHÔNG có dạng 피동사 (이/히/리/기, bài 115). Chia: ㅏ/ㅗ + 아지다 (놓다 → 놓아지다), nguyên âm khác + 어지다 (만들다 → 만들어지다, 쓰다 → 써지다, 주다 → 주어지다), 하다 → 해지다 (hiếm, thường dùng 되다 thay: 결정하다 → 결정되다). Ví dụ: 만들다 → 만들어지다 (được làm ra), 지키다 → 지켜지다 (được giữ gìn), 알리다 → 알려지다 (được biết đến), 이루다 → 이루어지다 (được thực hiện), 전하다 → 전해지다 (được truyền lại), 정하다 → 정해지다 (được quyết định), 쓰다 → 써지다 (viết được, bút ra mực). ĐỪNG nhầm với A + 아/어지다 (đã học: trở nên): 추워지다 (trở nên lạnh) — đó là TÍNH TỪ + 아/어지다. Lưu ý: không chồng 2 lần bị động (✗ 잊혀지다 — đúng chuẩn là 잊히다, dù văn nói hay dùng).",
+   "examples": [
+    "송편은 햅쌀로 만들어져요. — Bánh songpyeon được làm từ gạo mới.",
+    "이 풍속은 조선 시대부터 전해졌어요. — Phong tục này được truyền lại từ thời Joseon.",
+    "윷놀이는 외국에도 많이 알려졌어요. — Yutnori đã được biết đến nhiều ở nước ngoài.",
+    "소원이 이루어졌으면 좋겠어요. — Mong điều ước thành hiện thực."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động: Bánh songpyeon được làm từ gạo mới.",
+   "kr": "송편은 햅쌀로 ___.",
+   "options": [
+    "만들어져요",
+    "만들려요",
+    "만들게 해요"
+   ],
+   "answer": "만들어져요",
+   "explain": "만들다 → 만들어지다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động: Phong tục được truyền lại từ thời Joseon.",
+   "kr": "이 풍속은 조선 시대부터 ___.",
+   "options": [
+    "전해졌어요",
+    "전했어요",
+    "전히었어요"
+   ],
+   "answer": "전해졌어요",
+   "explain": "전하다 → 전해지다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động: Yutnori được biết đến nhiều.",
+   "kr": "윷놀이는 외국에도 많이 ___.",
+   "options": [
+    "알려졌어요",
+    "알렸어요",
+    "알아졌어요"
+   ],
+   "answer": "알려졌어요",
+   "explain": "알리다 → 알려지다."
+  },
+  {
+   "type": "choice",
+   "q": "Phân biệt: Câu nào là TÍNH TỪ + 아/어지다 (trở nên)?",
+   "kr": "",
+   "options": [
+    "날씨가 추워졌어요.",
+    "편지가 써졌어요.",
+    "약속이 지켜졌어요."
+   ],
+   "answer": "날씨가 추워졌어요.",
+   "explain": "춥다 (tính từ) → 추워지다 = trở nên lạnh."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng bị động: Mong điều ước thành hiện thực.",
+   "kr": "소원이 ___ 좋겠어요.",
+   "options": [
+    "이루어졌으면",
+    "이뤘으면요",
+    "이루게 했으면"
+   ],
+   "answer": "이루어졌으면",
+   "explain": "이루다 → 이루어지다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ga tàu đông nghịt người về quê.",
+   "kr": "기차역이 ___으로 붐벼요.",
+   "options": [
+    "귀성객",
+    "햅쌀",
+    "제기차기"
+   ],
+   "answer": "귀성객",
+   "explain": "귀성객 = người về quê."
+  },
+  {
+   "type": "choice",
+   "q": "Trò chơi Hàn giống 'đá cầu' của Việt Nam là:",
+   "kr": "",
+   "options": [
+    "제기차기",
+    "팽이치기",
+    "연날리기"
+   ],
+   "answer": "제기차기",
+   "explain": "제기 (quả cầu) + 차기 (đá)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Năm nay tôi định ăn Tết ở quê.",
+   "kr": "올해는 고향에서 명절을 ___ 해요.",
+   "options": [
+    "쇠려고",
+    "빚으려고",
+    "날리려고"
+   ],
+   "answer": "쇠려고",
+   "explain": "명절을 쇠다 = ăn Tết."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (bị động): Lịch họp đã được quyết định.",
+   "kr": "회의 날짜가 정해___.",
+   "answer": [
+    "졌어요"
+   ],
+   "explain": "정하다 → 정해지다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (bị động): Lời hứa đã được giữ.",
+   "kr": "약속이 지켜___.",
+   "answer": [
+    "졌어요"
+   ],
+   "explain": "지키다 → 지켜지다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (bị động): Cây bút này viết tốt (ra mực).",
+   "kr": "이 볼펜은 글씨가 잘 ___.",
+   "answer": [
+    "써져요"
+   ],
+   "explain": "쓰다 → 써지다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chuseok lần này là kỳ nghỉ dài.",
+   "kr": "이번 추석은 ___예요.",
+   "answer": [
+    "황금연휴"
+   ],
+   "explain": "황금연휴."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bánh songpyeon được làm từ gạo mới.",
+   "tokens": [
+    "송편은",
+    "햅쌀로",
+    "만들어져요"
+   ],
+   "answer": "송편은 햅쌀로 만들어져요",
+   "explain": "만들어지다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cả nhà chơi yutnori với nhau.",
+   "tokens": [
+    "가족끼리",
+    "윷놀이를",
+    "했어요"
+   ],
+   "answer": "가족끼리 윷놀이를 했어요",
+   "explain": "끼리 = với nhau (trong nhóm)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mong điều ước thành hiện thực.",
+   "answer": [
+    "소원이 이루어졌으면 좋겠어요.",
+    "소원이 이루어지면 좋겠어요.",
+    "소원이 이뤄졌으면 좋겠어요."
+   ],
+   "explain": "이루어지다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chúc bạn Trung thu sung túc.",
+   "answer": [
+    "풍성한 한가위 보내세요.",
+    "풍성한 한가위 보내세요!",
+    "가족과 함께 풍성한 한가위 보내세요."
+   ],
+   "explain": "Câu chúc cố định."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ngày lễ thì đến thăm người bề trên.",
+   "answer": [
+    "명절에는 웃어른을 찾아뵈어요.",
+    "명절에는 웃어른을 찾아뵙고 인사드려요.",
+    "명절에는 웃어른을 찾아봬요."
+   ],
+   "explain": "찾아뵙다 → 찾아봬요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "윷놀이와 연날리기 같은 세시 풍속은 옛날부터 전해져 왔어요. 하지만 요즘 도시에서는 점점 보기 어려워졌어요.",
+   "answer": "Những phong tục lễ tết như yutnori và thả diều đã được truyền lại từ xưa đến nay. Nhưng dạo này ở thành phố ngày càng khó thấy.",
+   "explain": "전해져 오다 = được truyền lại suốt đến nay."
+  },
+  {
+   "type": "read",
+   "q": "Chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 요즘은 명절에 해외여행을 가는 사람도 많대요.\n여자: 명절을 어떻게 보내는지는 각자의 선택이지만, 저는 그래도 명절은 가족이 모이는 날이라고 생각해요. 그래야 세시 풍속도 지켜지고 아이들도 우리 문화를 배울 수 있잖아요.",
+   "options": [
+    "명절에는 가족이 모여야 전통이 지켜진다.",
+    "명절에는 해외여행을 가야 한다.",
+    "세시 풍속은 필요 없다.",
+    "아이들은 전통을 배울 필요가 없다."
+   ],
+   "answer": "명절에는 가족이 모여야 전통이 지켜진다.",
+   "explain": "가족이 모이는 날 … 그래야 풍속도 지켜지고."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào ( ). (Dạng TOPIK II câu 19~24)",
+   "kr": "명절이 끝나면 '명절 증후군'을 겪는 사람이 많다. 오랜 시간 운전을 하거나 음식을 많이 만들어서 몸과 마음이 ( ___ ) 때문이다. 전문가들은 가족이 일을 나누어 하면 명절 증후군을 줄일 수 있다고 말한다.",
+   "options": [
+    "지치기",
+    "풍성하기",
+    "알려지기",
+    "이루어지기"
+   ],
+   "answer": "지치기",
+   "explain": "Thân và tâm kiệt sức (지치다)."
+  }
+ ]
+}

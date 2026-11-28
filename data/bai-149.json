@@ -1,0 +1,52 @@
+{
+ "id": "bai-149",
+ "lesson": "Bài 149",
+ "title": "Đời sống & môi trường (phần 2/4)",
+ "krTitle": "생활과 환경 2",
+ "date": "2027-06-18",
+ "day": 212,
+ "source": "TOPIK 4 – Bài 14: Đời sống & môi trường (phần 2/4)",
+ "practice": {"listening": "Nghe – câu 1~3: Chọn tranh đúng", "reading": "Đọc – câu 9~12: Chọn nội dung đúng"},
+ "words": [
+  ["생활하수", "Saenghwalhasu", "Nước thải sinh hoạt", "생활하수도 강을 오염시켜요.", "Nước thải sinh hoạt cũng làm ô nhiễm sông."],
+  ["분리 배출", "Bulli baechul", "Vứt rác theo phân loại", "분리 배출을 잘 하면 자원을 아낄 수 있어요.", "Vứt rác đúng phân loại thì tiết kiệm được tài nguyên."],
+  ["에너지 절약", "Eneoji jeoryak", "Tiết kiệm năng lượng", "에너지 절약은 작은 습관에서 시작돼요.", "Tiết kiệm năng lượng bắt đầu từ thói quen nhỏ."],
+  ["그린벨트", "Geurinbelteu", "Vành đai xanh", "그린벨트 지역에는 건물을 지을 수 없어요.", "Ở khu vực vành đai xanh không được xây nhà."],
+  ["무공해 에너지", "Mugonghae eneoji", "Năng lượng sạch", "태양광은 대표적인 무공해 에너지예요.", "Năng lượng mặt trời là năng lượng sạch tiêu biểu."],
+  ["재활용품", "Jaehwaryongpum", "Đồ tái chế", "재활용품으로 장난감을 만들었어요.", "Tôi làm đồ chơi bằng đồ tái chế."],
+  ["환경친화적 제품", "Hwangyeongchinhwajeok jepum", "Sản phẩm thân thiện môi trường", "환경친화적 제품을 사용하는 사람이 늘었어요.", "Người dùng sản phẩm thân thiện môi trường đã tăng."],
+  ["환경보호 단체", "Hwangyeongboho danche", "Tổ chức bảo vệ môi trường", "환경보호 단체에서 봉사하고 있어요.", "Tôi đang tình nguyện ở tổ chức bảo vệ môi trường."],
+  ["환경 지킴이", "Hwangyeong jikimi", "Người gìn giữ môi trường", "우리 반 학생들은 모두 환경 지킴이예요.", "Học sinh lớp tôi đều là người gìn giữ môi trường."],
+  ["인간환경회의", "Inganhwangyeonghoeui", "Hội nghị Môi trường Con người", "1972년에 인간환경회의가 열렸어요.", "Năm 1972 Hội nghị Môi trường Con người được tổ chức."],
+  ["리우환경회의", "Riuhwangyeonghoeui", "Hội nghị Môi trường Rio", "리우환경회의에서 기후 문제를 논의했어요.", "Tại Hội nghị Rio đã thảo luận vấn đề khí hậu."],
+  ["강조", "Gangjo", "Sự nhấn mạnh", "선생님이 환경 보호를 강조하셨어요.", "Thầy nhấn mạnh việc bảo vệ môi trường."],
+  ["기상청", "Gisangcheong", "Cục khí tượng", "기상청에 따르면 내일 비가 온대요.", "Theo cục khí tượng, ngày mai sẽ mưa."],
+  ["나눔", "Nanum", "Sự chia sẻ", "중고품 나눔 행사에 참여했어요.", "Tôi tham gia sự kiện chia sẻ đồ cũ."],
+  ["남한 지역", "Namhan jiyeok", "Khu vực Hàn Quốc (miền Nam)", "남한 지역 전체에 황사가 심했어요.", "Bụi vàng nặng trên toàn khu vực Hàn Quốc."]
+ ],
+ "patterns": [
+  {"form": "V/A + (으)ㄹ 정도이다 — Đến mức", "meaning": "Diễn tả MỨC ĐỘ của một trạng thái bằng cách đưa ra một ví dụ cụ thể (thường phóng đại): '… đến mức (có thể)…'. Thân có patchim + 을 정도이다/을 정도로 (죽을 정도로), không patchim/ㄹ + ㄹ 정도이다 (안 보일 정도로, 울 정도로). Hai dạng hay dùng: (1) Cuối câu: (으)ㄹ 정도예요 — 황사가 앞이 안 보일 정도예요 (bụi vàng đến mức không nhìn thấy phía trước); (2) Giữa câu bổ nghĩa: (으)ㄹ 정도로 + V/A — 눈물이 날 정도로 웃었어요 (cười đến chảy nước mắt). Bổ nghĩa danh từ: (으)ㄹ 정도의 N (믿을 수 없을 정도의 더위 — cái nóng đến mức không thể tin). So sánh: 도록 (bài 143, nghĩa 2) cũng diễn tả mức độ nhưng 정도 hay dùng hơn trong văn nói và dễ dùng hơn.", "examples": ["황사가 심해서 앞이 안 보일 정도예요. — Bụi vàng nặng đến mức không nhìn thấy phía trước.", "공기가 숨쉬기 힘들 정도로 나빠요. — Không khí tệ đến mức khó thở.", "그 영화가 눈물이 날 정도로 감동적이었어요. — Phim cảm động đến mức chảy nước mắt.", "강물이 물고기가 살 수 없을 정도로 오염됐어요. — Nước sông ô nhiễm đến mức cá không sống được."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Bụi vàng đến mức không nhìn thấy phía trước.", "kr": "황사가 앞이 안 ___.", "options": ["보일 정도예요", "보이는 정도예요", "보이도록이에요"], "answer": "보일 정도예요", "explain": "(으)ㄹ 정도이다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Cười đến mức chảy nước mắt.", "kr": "눈물이 ___ 웃었어요.", "options": ["날 정도로", "나는 정도로", "날 정도예요"], "answer": "날 정도로", "explain": "Giữa câu: (으)ㄹ 정도로 + động từ."},
+  {"type": "choice", "q": "Chọn dạng đúng: Không khí tệ đến mức khó thở.", "kr": "공기가 숨쉬기 ___ 나빠요.", "options": ["힘들 정도로", "힘든 정도로", "힘들을 정도로"], "answer": "힘들 정도로", "explain": "힘들다 (patchim ㄹ) → 힘들 정도로."},
+  {"type": "choice", "q": "Chọn dạng đúng: Lạnh đến mức muốn chết.", "kr": "___ 추워요.", "options": ["죽을 정도로", "죽 정도로", "죽는 정도로요"], "answer": "죽을 정도로", "explain": "죽다 có patchim → 죽을 정도로."},
+  {"type": "choice", "q": "Câu nào dùng đúng?", "kr": "", "options": ["배가 터질 정도로 먹었어요.", "배가 터질 정도로 먹으세요요.", "배가 터질 정도예요 먹었어요."], "answer": "배가 터질 정도로 먹었어요.", "explain": "Ăn đến mức căng bụng."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Năng lượng mặt trời là năng lượng sạch.", "kr": "태양광은 대표적인 ___예요.", "options": ["무공해 에너지", "생활하수", "그린벨트"], "answer": "무공해 에너지", "explain": "무공해 = không gây ô nhiễm."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Theo cục khí tượng, mai sẽ mưa.", "kr": "___에 따르면 내일 비가 온대요.", "options": ["기상청", "환경보호 단체", "나눔"], "answer": "기상청", "explain": "기상청 = cục khí tượng."},
+  {"type": "choice", "q": "Khu vực xung quanh thành phố cấm xây dựng để bảo vệ cây xanh:", "kr": "", "options": ["그린벨트", "재활용품", "생활하수"], "answer": "그린벨트", "explain": "그린벨트 = vành đai xanh."},
+  {"type": "fill", "q": "Điền: Nước sông ô nhiễm đến mức cá không sống được.", "kr": "물고기가 살 수 없을 ___ 오염됐어요.", "answer": ["정도로"], "explain": "없을 정도로."},
+  {"type": "fill", "q": "Điền: Đông đến mức không có chỗ đứng.", "kr": "설 자리가 없___ 정도로 사람이 많아요.", "answer": ["을"], "explain": "없을 정도로."},
+  {"type": "fill", "q": "Điền: Nóng đến mức không ngủ được.", "kr": "잠을 못 잘 ___예요.", "answer": ["정도"], "explain": "못 잘 정도예요."},
+  {"type": "fill", "q": "Điền từ: Tôi làm đồ chơi bằng đồ tái chế.", "kr": "___으로 장난감을 만들었어요.", "answer": ["재활용품"], "explain": "재활용품."},
+  {"type": "order", "q": "Sắp xếp thành câu: Phim cảm động đến mức chảy nước mắt.", "tokens": ["그", "영화가", "눈물이", "날", "정도로", "감동적이었어요"], "answer": "그 영화가 눈물이 날 정도로 감동적이었어요", "explain": "(으)ㄹ 정도로."},
+  {"type": "order", "q": "Sắp xếp thành câu: Thầy nhấn mạnh việc bảo vệ môi trường.", "tokens": ["선생님이", "환경", "보호를", "강조하셨어요"], "answer": "선생님이 환경 보호를 강조하셨어요", "explain": "강조하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Không khí tệ đến mức khó thở.", "answer": ["공기가 숨쉬기 힘들 정도로 나빠요.", "공기가 숨쉬기 어려울 정도로 나빠요.", "숨쉬기 힘들 정도로 공기가 나빠요."], "explain": "정도로."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Nóng đến mức không ngủ được.", "answer": ["잠을 못 잘 정도로 더워요.", "잠을 잘 수 없을 정도로 더워요.", "더워서 잠을 못 잘 정도예요."], "explain": "못 잘 정도로."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tôi tham gia sự kiện chia sẻ đồ cũ.", "answer": ["중고품 나눔 행사에 참여했어요.", "중고품 나눔 행사에 참가했어요."], "explain": "나눔."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "기상청에 따르면 오늘 남한 지역 전체에 황사가 심해서 앞이 잘 안 보일 정도래요. 외출할 때는 마스크를 꼭 쓰세요.", "answer": "Theo cục khí tượng, hôm nay bụi vàng nặng trên toàn khu vực Hàn Quốc đến mức khó nhìn thấy phía trước. Khi ra ngoài hãy nhớ đeo khẩu trang.", "explain": "정도래요 = (nghe nói) đến mức."},
+  {"type": "read", "q": "Chọn tranh phù hợp với hội thoại. (Dạng TOPIK II Nghe câu 1~3)", "kr": "여자: 이 플라스틱 병은 어디에 버려요?\n남자: 라벨을 떼고 물로 헹군 다음에 재활용 수거함에 넣으세요.\n여자: 아, 알겠어요. 분리 배출이 생각보다 복잡하네요.", "options": ["두 사람이 분리수거함 앞에서 이야기하는 그림", "여자가 강에서 수영하는 그림", "남자가 공장에서 일하는 그림", "두 사람이 마트에서 물건을 사는 그림"], "answer": "두 사람이 분리수거함 앞에서 이야기하는 그림", "explain": "Phân loại rác chai nhựa."},
+  {"type": "read", "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)", "kr": "【우리 아파트 환경 지킴이 모집】\n· 활동: 분리 배출 안내, 중고품 나눔 장터 운영\n· 대상: 아파트 주민 누구나\n· 기간: 7월 ~ 12월 (매주 토요일 오전)\n· 신청: 관리 사무소", "options": ["아파트 주민이면 누구나 신청할 수 있다.", "활동은 평일 저녁에 한다.", "신청은 인터넷으로만 한다.", "활동 기간은 1년이다."], "answer": "아파트 주민이면 누구나 신청할 수 있다.", "explain": "대상: 아파트 주민 누구나."}
+ ]
+}

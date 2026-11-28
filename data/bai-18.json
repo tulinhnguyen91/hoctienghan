@@ -1,0 +1,463 @@
+{
+ "id": "bai-18",
+ "lesson": "Bài 18",
+ "title": "Cuộc hẹn (phần 1/2)",
+ "krTitle": "약속 1",
+ "date": "2026-12-03",
+ "day": 15,
+ "source": "TOPIK 2 – Bài 2: Cuộc hẹn (phần 1/2)",
+ "practice": {
+  "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+  "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+ },
+ "words": [
+  [
+   "약속하다",
+   "Yaksokhada",
+   "Hẹn, hứa",
+   "친구와 토요일에 만나요. 어제 약속했어요.",
+   "Tôi gặp bạn vào thứ Bảy. Hôm qua chúng tôi đã hẹn."
+  ],
+  [
+   "약속을 지키다",
+   "Yaksogeul jikida",
+   "Giữ lời hứa",
+   "저는 항상 약속을 지켜요.",
+   "Tôi luôn giữ lời hứa."
+  ],
+  [
+   "약속을 안 지키다/못 지키다",
+   "Yaksogeul an jikida/mot jikida",
+   "Thất hứa",
+   "미안해요. 약속을 못 지켰어요.",
+   "Xin lỗi. Tôi đã không giữ được lời hứa."
+  ],
+  [
+   "약속을 취소하다",
+   "Yaksogeul chwisohada",
+   "Hủy cuộc hẹn",
+   "감기에 걸려서 약속을 취소했어요.",
+   "Vì bị cảm nên tôi đã hủy hẹn."
+  ],
+  [
+   "약속을 바꾸다",
+   "Yaksogeul bakkuda",
+   "Đổi cuộc hẹn",
+   "약속 시간을 바꿀 수 있어요?",
+   "Đổi giờ hẹn được không?"
+  ],
+  [
+   "기다리다",
+   "Gidarida",
+   "Chờ đợi",
+   "잠깐만 기다려 주세요.",
+   "Xin hãy đợi một chút."
+  ],
+  [
+   "만나다",
+   "Mannada",
+   "Gặp",
+   "어디에서 만날까요?",
+   "Mình gặp ở đâu nhé?"
+  ],
+  [
+   "헤어지다",
+   "Heeojida",
+   "Chia tay",
+   "친구와 역 앞에서 헤어졌어요.",
+   "Tôi chia tay bạn trước ga."
+  ],
+  [
+   "연락하다",
+   "Yeollakhada",
+   "Liên lạc",
+   "도착할 때 연락해 주세요.",
+   "Khi đến nơi hãy liên lạc cho tôi nhé."
+  ],
+  [
+   "커피숍",
+   "Keopisyop",
+   "Quán cà phê",
+   "커피숍에서 친구를 기다려요.",
+   "Tôi đợi bạn ở quán cà phê."
+  ],
+  [
+   "박물관",
+   "Bangmulgwan",
+   "Viện bảo tàng",
+   "주말에 박물관에 가려고 해요.",
+   "Cuối tuần tôi định đi bảo tàng."
+  ],
+  [
+   "미술관",
+   "Misulgwan",
+   "Bảo tàng mỹ thuật",
+   "미술관에서 그림을 봤어요.",
+   "Tôi đã xem tranh ở bảo tàng mỹ thuật."
+  ],
+  [
+   "만남의 광장",
+   "Mannamui gwangjang",
+   "Nơi gặp gỡ",
+   "고속도로 휴게소의 만남의 광장에서 만나요.",
+   "Gặp nhau ở quảng trường gặp gỡ của trạm dừng chân cao tốc nhé."
+  ],
+  [
+   "호텔",
+   "Hotel",
+   "Khách sạn",
+   "호텔 로비에서 만날까요?",
+   "Mình gặp ở sảnh khách sạn nhé?"
+  ],
+  [
+   "백화점",
+   "Baekhwajeom",
+   "Trung tâm thương mại",
+   "백화점 앞에서 3시에 만나요.",
+   "3 giờ gặp nhau trước trung tâm thương mại nhé."
+  ],
+  [
+   "안내 데스크",
+   "Annae deseukeu",
+   "Quầy hướng dẫn",
+   "안내 데스크 앞에서 기다려 주세요.",
+   "Xin hãy đợi trước quầy hướng dẫn."
+  ],
+  [
+   "정류장",
+   "Jeongnyujang",
+   "Trạm dừng xe",
+   "버스 정류장에서 만났어요.",
+   "Chúng tôi đã gặp nhau ở trạm xe buýt."
+  ],
+  [
+   "쇼핑몰",
+   "Syopingmol",
+   "Khu mua sắm",
+   "쇼핑몰에 옷을 사러 갔어요.",
+   "Tôi đã đến khu mua sắm để mua quần áo."
+  ],
+  [
+   "감기",
+   "Gamgi",
+   "Cảm cúm",
+   "감기에 걸려서 약속에 못 갔어요.",
+   "Vì bị cảm nên tôi không đến chỗ hẹn được."
+  ],
+  [
+   "(손을) 대다",
+   "(soneul) daeda",
+   "Chạm (tay)",
+   "그림에 손을 댈 수 없어요.",
+   "Không được chạm tay vào tranh."
+  ],
+  [
+   "유의 사항",
+   "Yuui sahang",
+   "Điểm cần lưu ý",
+   "박물관의 유의 사항을 읽어 주세요.",
+   "Xin hãy đọc những điểm cần lưu ý của bảo tàng."
+  ],
+  [
+   "갑자기",
+   "Gapjagi",
+   "Đột nhiên",
+   "갑자기 비가 왔어요.",
+   "Đột nhiên trời mưa."
+  ],
+  [
+   "등산화",
+   "Deungsanhwa",
+   "Giày leo núi",
+   "산에 갈 때 등산화를 신어요.",
+   "Khi đi núi thì đi giày leo núi."
+  ],
+  [
+   "잊다",
+   "Itda",
+   "Quên",
+   "약속 시간을 잊었어요.",
+   "Tôi quên giờ hẹn mất rồi."
+  ],
+  [
+   "고치다",
+   "Gochida",
+   "Sửa, chữa",
+   "아버지가 제 자전거를 고쳐 주셨어요.",
+   "Bố đã sửa xe đạp cho tôi."
+  ],
+  [
+   "떠들다",
+   "Tteodeulda",
+   "Làm ồn",
+   "도서관에서 떠들 수 없어요.",
+   "Trong thư viện không được làm ồn."
+  ],
+  [
+   "절대",
+   "Jeoldae",
+   "Tuyệt đối",
+   "약속 시간에 절대 늦을 수 없어요.",
+   "Tuyệt đối không được trễ giờ hẹn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ 때 — Khi, lúc",
+   "meaning": "Chỉ thời điểm một hành động, trạng thái xảy ra: 'khi…, lúc…'. Gốc có patchim + 을 때 (먹을 때); không patchim + ㄹ 때 (갈 때); patchim ㄹ giữ nguyên + 때 (만들 때, 놀 때). Bất quy tắc: 춥다 → 추울 때, 듣다 → 들을 때. Quá khứ: 았/었을 때 = khi đã… (한국에 왔을 때 — khi (đã) đến Hàn Quốc). Với danh từ: N 때 (방학 때, 생일 때, 점심 때) — nhưng KHÔNG nói 아침 때, 오늘 때.",
+   "examples": [
+    "친구를 만날 때 보통 커피숍에서 만나요. — Khi gặp bạn tôi thường gặp ở quán cà phê.",
+    "시간이 없을 때 택시를 타요. — Khi không có thời gian tôi đi taxi.",
+    "추울 때 감기에 잘 걸려요. — Khi trời lạnh hay bị cảm.",
+    "한국에 처음 왔을 때 한국어를 못 했어요. — Khi mới đến Hàn Quốc tôi không nói được tiếng Hàn."
+   ]
+  },
+  {
+   "form": "V + 아/어 주다 — Làm giúp, xin hãy",
+   "meaning": "Làm một việc gì đó vì người khác, giúp người khác: 'làm … cho/giúp'. Chia như 아/어요: 기다리다 → 기다려 주다, 사다 → 사 주다, 하다 → 해 주다. Nhờ vả lịch sự: 아/어 주세요 (xin hãy…). Lịch sự hơn: 아/어 주시겠어요? Khi làm cho người bề trên dùng 아/어 드리다: 할머니를 도와 드려요. Bất quy tắc vẫn áp dụng: 돕다 → 도와주다, 듣다 → 들어 주다.",
+   "examples": [
+    "잠깐만 기다려 주세요. — Xin hãy đợi một chút.",
+    "친구가 생일 선물을 사 줬어요. — Bạn đã mua quà sinh nhật cho tôi.",
+    "도착할 때 연락해 주세요. — Khi đến nơi hãy liên lạc cho tôi.",
+    "할머니께 길을 안내해 드렸어요. — Tôi đã chỉ đường giúp bà."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Khi gặp bạn tôi thường đi quán cà phê.",
+   "kr": "친구를 ___ 보통 커피숍에 가요.",
+   "options": [
+    "만날 때",
+    "만나을 때",
+    "만났을 때를"
+   ],
+   "answer": "만날 때",
+   "explain": "만나다 không patchim → 만나 + ㄹ 때."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Khi ăn cơm chúng tôi nói chuyện nhiều.",
+   "kr": "밥을 ___ 이야기를 많이 해요.",
+   "options": [
+    "먹을 때",
+    "먹 때",
+    "먹ㄹ 때"
+   ],
+   "answer": "먹을 때",
+   "explain": "먹다 có patchim → 먹 + 을 때."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Khi trời lạnh tôi mặc áo len.",
+   "kr": "___ 스웨터를 입어요.",
+   "options": [
+    "추울 때",
+    "춥을 때",
+    "추워 때"
+   ],
+   "answer": "추울 때",
+   "explain": "춥다 bất quy tắc ㅂ: 추우 + ㄹ 때 → 추울 때."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: Kỳ nghỉ (lúc kỳ nghỉ) tôi về quê.",
+   "kr": "___ 고향에 가요.",
+   "options": [
+    "방학 때",
+    "방학할 때에서",
+    "방학을 때"
+   ],
+   "answer": "방학 때",
+   "explain": "Danh từ + 때: 방학 때."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Xin hãy đợi một chút.",
+   "kr": "잠깐만 ___.",
+   "options": [
+    "기다려 주세요",
+    "기다리 주세요",
+    "기다려서 주세요"
+   ],
+   "answer": "기다려 주세요",
+   "explain": "기다리다 → 기다려 (아/어) + 주세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Bố đã sửa xe đạp cho tôi.",
+   "kr": "아버지가 자전거를 ___.",
+   "options": [
+    "고쳐 주셨어요",
+    "고치 주셨어요",
+    "고쳐 드렸어요"
+   ],
+   "answer": "고쳐 주셨어요",
+   "explain": "Bố làm cho tôi → 아/어 주다 + kính ngữ 시: 고쳐 주셨어요. 드리다 dùng khi mình làm cho người trên."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Tôi đã đọc sách cho bà.",
+   "kr": "",
+   "options": [
+    "할머니께 책을 읽어 드렸어요.",
+    "할머니께 책을 읽어 주셨어요.",
+    "할머니한테 책을 읽 줬어요."
+   ],
+   "answer": "할머니께 책을 읽어 드렸어요.",
+   "explain": "Mình làm cho người bề trên → 아/어 드리다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vì bị cảm nên tôi đã hủy hẹn.",
+   "kr": "감기에 걸려서 약속을 ___.",
+   "options": [
+    "취소했어요",
+    "지켰어요",
+    "기다렸어요"
+   ],
+   "answer": "취소했어요",
+   "explain": "약속을 취소하다 = hủy hẹn."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 때 vào 시간이 없다: Khi không có thời gian tôi đi taxi.",
+   "kr": "시간이 ___ 택시를 타요.",
+   "answer": [
+    "없을 때"
+   ],
+   "explain": "없다 có patchim → 없을 때."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 때 (quá khứ) vào 오다: Khi mới đến Hàn Quốc tôi đã rất vất vả.",
+   "kr": "한국에 처음 ___ 정말 힘들었어요.",
+   "answer": [
+    "왔을 때"
+   ],
+   "explain": "Quá khứ: 왔 + 을 때 → 왔을 때."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 주세요 vào 연락하다: Khi đến nơi hãy liên lạc cho tôi.",
+   "kr": "도착할 때 ___.",
+   "answer": [
+    "연락해 주세요"
+   ],
+   "explain": "연락하다 → 연락해 + 주세요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 주세요 vào 바꾸다: Xin hãy đổi giờ hẹn giúp tôi.",
+   "kr": "약속 시간을 ___.",
+   "answer": [
+    "바꿔 주세요"
+   ],
+   "explain": "바꾸다 → 바꿔 + 주세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bạn đã mua quà cho tôi.",
+   "tokens": [
+    "친구가",
+    "선물을",
+    "사",
+    "줬어요"
+   ],
+   "answer": "친구가 선물을 사 줬어요",
+   "explain": "사다 → 사 + 주다 → 사 줬어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Khi đi núi tôi đi giày leo núi.",
+   "tokens": [
+    "산에",
+    "갈",
+    "때",
+    "등산화를",
+    "신어요"
+   ],
+   "answer": "산에 갈 때 등산화를 신어요",
+   "explain": "가다 → 갈 때; 신다 = đi (giày)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Xin hãy đợi một chút.",
+   "answer": [
+    "잠깐만 기다려 주세요.",
+    "잠깐 기다려 주세요.",
+    "조금만 기다려 주세요.",
+    "잠시만 기다려 주세요."
+   ],
+   "explain": "기다리다 → 기다려 주세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Khi rảnh tôi đi bảo tàng.",
+   "answer": [
+    "시간이 있을 때 박물관에 가요.",
+    "한가할 때 박물관에 가요.",
+    "시간 있을 때 박물관에 가요.",
+    "저는 시간이 있을 때 박물관에 가요."
+   ],
+   "explain": "Rảnh = 시간이 있다 / 한가하다 → 있을 때 / 한가할 때."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi quên giờ hẹn rồi.",
+   "answer": [
+    "약속 시간을 잊었어요.",
+    "약속 시간을 잊어버렸어요.",
+    "저는 약속 시간을 잊었어요."
+   ],
+   "explain": "잊다 → 잊었어요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "갑자기 일이 생겨서 약속을 못 지켰어요. 정말 미안해요.",
+   "answer": "Đột nhiên có việc nên tôi đã không giữ được hẹn. Thật xin lỗi.",
+   "explain": "일이 생기다 = có việc; 약속을 못 지키다 = không giữ được hẹn."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "토요일 3시에 백화점 앞에서 만나요. 꼭 오세요.",
+   "options": [
+    "약속",
+    "취미",
+    "가족",
+    "날씨"
+   ],
+   "answer": "약속",
+   "explain": "Thời gian, địa điểm gặp nhau → cuộc hẹn (약속)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu SAI với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "🏛 박물관 유의 사항\n• 작품에 손을 댈 수 없어요.\n• 사진을 찍을 수 없어요.\n• 안에서 음식을 먹을 수 없어요.\n• 궁금할 때 안내 데스크에 물어 주세요.",
+   "options": [
+    "박물관 안에서 사진을 찍을 수 있어요.",
+    "작품을 만질 수 없어요.",
+    "박물관 안에서 음식을 먹을 수 없어요.",
+    "안내 데스크에서 질문할 수 있어요."
+   ],
+   "answer": "박물관 안에서 사진을 찍을 수 있어요.",
+   "explain": "Bảng ghi 사진을 찍을 수 없어요 → không được chụp ảnh."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 59~64)",
+   "kr": "저는 지난 주말에 친구와 미술관에 가려고 했어요. 그런데 그날 아침에 갑자기 감기에 걸렸어요. 그래서 친구에게 전화해서 약속을 다음 주로 바꿨어요. 오후에 친구가 우리 집에 와서 약을 사 줬어요. 아플 때 도와주는 친구가 있어서 정말 고마웠어요.",
+   "options": [
+    "친구가 약을 사 줬어요.",
+    "저는 지난 주말에 미술관에 갔어요.",
+    "친구가 약속을 취소했어요.",
+    "저는 친구에게 화가 났어요."
+   ],
+   "answer": "친구가 약을 사 줬어요.",
+   "explain": "Buổi chiều bạn đến nhà và mua thuốc cho tôi. Tôi bị cảm nên đổi hẹn sang tuần sau, không đi bảo tàng."
+  }
+ ]
+}

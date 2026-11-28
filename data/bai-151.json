@@ -1,0 +1,53 @@
+{
+ "id": "bai-151",
+ "lesson": "Bài 151",
+ "title": "Đời sống & môi trường (phần 4/4)",
+ "krTitle": "생활과 환경 4",
+ "date": "2027-06-21",
+ "day": 215,
+ "source": "TOPIK 4 – Bài 14: Đời sống & môi trường (phần 4/4)",
+ "practice": {"listening": "Nghe – câu 13~16: Chọn nội dung đúng", "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"},
+ "words": [
+  ["영하권", "Yeonghagwon", "Vùng nhiệt độ âm", "내일 아침은 영하권으로 떨어진대요.", "Nghe nói sáng mai nhiệt độ xuống dưới 0."],
+  ["온수", "Onsu", "Nước nóng", "온수를 아껴 쓰면 가스비가 줄어요.", "Dùng tiết kiệm nước nóng thì tiền ga giảm."],
+  ["이산화탄소", "Isanhwatanso", "Khí CO2", "나무는 이산화탄소를 흡수해요.", "Cây hấp thụ khí CO2."],
+  ["이익", "Iik", "Lợi ích", "환경 보호는 모두에게 이익이 돼요.", "Bảo vệ môi trường có lợi cho tất cả."],
+  ["일기", "Ilgi", "Nhật ký; thời tiết", "환경 일기를 쓰자 생활 습관이 바뀌었어요.", "Vừa bắt đầu viết nhật ký môi trường thì thói quen sống thay đổi."],
+  ["자가용", "Jagayong", "Xe riêng", "자가용 대신 버스를 타요.", "Tôi đi xe buýt thay cho xe riêng."],
+  ["자원봉사자", "Jawonbongsaja", "Tình nguyện viên", "자원봉사자들이 해변을 청소했어요.", "Tình nguyện viên đã dọn bãi biển."],
+  ["자율적", "Jayuljeok", "Tự giác", "주민들이 자율적으로 분리 배출을 해요.", "Cư dân tự giác phân loại rác."],
+  ["재활용 수거함", "Jaehwaryong sugeoham", "Thùng thu gom đồ tái chế", "캔은 재활용 수거함에 넣으세요.", "Lon hãy bỏ vào thùng tái chế."],
+  ["진열대", "Jinyeoldae", "Kệ bày hàng", "진열대에 친환경 제품이 많아요.", "Trên kệ có nhiều sản phẩm thân thiện môi trường."],
+  ["톤", "Ton", "Tấn", "하루에 쓰레기가 만 톤씩 나와요.", "Mỗi ngày thải ra mười nghìn tấn rác."],
+  ["평생", "Pyeongsaeng", "Cả đời", "플라스틱은 평생 썩지 않아요.", "Nhựa cả đời không phân hủy."],
+  ["폐", "Pye", "Phổi; sự phiền hà; phế", "미세먼지는 폐에 안 좋아요.", "Bụi mịn không tốt cho phổi."],
+  ["포장", "Pojang", "Bao bì, đóng gói", "과대 포장을 줄여야 해요.", "Phải giảm bao bì quá mức."],
+  ["피해", "Pihae", "Thiệt hại", "태풍으로 농작물 피해가 컸어요.", "Bão gây thiệt hại lớn cho mùa màng."],
+  ["홍수", "Hongsu", "Lũ lụt", "비가 그치자 홍수 피해가 드러났어요.", "Mưa vừa tạnh thì thiệt hại lũ lụt lộ ra."]
+ ],
+ "patterns": [
+  {"form": "V + 자 — Vừa … thì", "meaning": "Diễn tả ngay khi hành động/sự việc ở vế trước XẢY RA thì vế sau lập tức xảy ra tiếp theo (thường là phản ứng, kết quả hoặc một phát hiện), mang tính VĂN VIẾT/kể chuyện: 'vừa… thì…, ngay khi… thì…'. Gắn trực tiếp vào thân động từ: 그치다 → 그치자, 듣다 → 듣자, 도착하다 → 도착하자. Đặc điểm: (1) vế sau luôn ở QUÁ KHỨ, không dùng mệnh lệnh/rủ rê/tương lai; (2) vế trước KHÔNG chia thì; (3) thường diễn tả nguyên nhân–kết quả tự nhiên. So sánh với 자마자 (bài 96): 자마자 = ngay sau khi (nhấn mạnh thời gian liền kề, dùng được cả tương lai, mệnh lệnh: 도착하자마자 전화하세요); 자 = 'vừa… thì (kết quả)', chỉ dùng kể chuyện quá khứ. Ví dụ: 봄이 되자 꽃이 피었다 (vừa sang xuân thì hoa nở). Lưu ý: khác hoàn toàn với đuôi rủ rê 반말 V + 자 (가자 — đi thôi) đã học ở bài 73!", "examples": ["비가 그치자 홍수 피해가 드러났어요. — Mưa vừa tạnh thì thiệt hại lũ lụt lộ ra.", "환경 일기를 쓰자 생활 습관이 바뀌었어요. — Vừa viết nhật ký môi trường thì thói quen sống thay đổi.", "날씨가 영하권으로 떨어지자 난방비가 크게 올랐어요. — Nhiệt độ vừa xuống dưới 0 thì tiền sưởi tăng mạnh.", "그 소식을 듣자 사람들이 모두 놀랐어요. — Vừa nghe tin đó mọi người đều ngạc nhiên."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Mưa vừa tạnh thì thiệt hại lũ lộ ra.", "kr": "비가 ___ 홍수 피해가 드러났어요.", "options": ["그치자", "그쳤자", "그치자고"], "answer": "그치자", "explain": "Vế trước không chia thì: V + 자."},
+  {"type": "choice", "q": "Chọn dạng đúng: Vừa sang xuân thì hoa nở.", "kr": "봄이 ___ 꽃이 피었어요.", "options": ["되자", "되자마자요", "됐자"], "answer": "되자", "explain": "되다 → 되자."},
+  {"type": "choice", "q": "Câu nào SAI?", "kr": "", "options": ["도착하자 전화하세요.", "도착하자마자 전화하세요.", "도착하자 비가 오기 시작했어요."], "answer": "도착하자 전화하세요.", "explain": "자 không dùng với mệnh lệnh; phải dùng 자마자."},
+  {"type": "choice", "q": "Phân biệt: '같이 가자' trong câu này là gì?", "kr": "", "options": ["Đuôi rủ rê 반말 (đi thôi)", "Vừa đi thì…", "Bị động"], "answer": "Đuôi rủ rê 반말 (đi thôi)", "explain": "가자 cuối câu = rủ; V자 giữa câu (+ vế sau quá khứ) = vừa… thì."},
+  {"type": "choice", "q": "Chọn vế sau phù hợp: 그 소식을 듣자 ___", "kr": "", "options": ["사람들이 모두 놀랐어요.", "사람들이 놀랄 거예요.", "놀라지 마세요."], "answer": "사람들이 모두 놀랐어요.", "explain": "Vế sau ở quá khứ."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Cây hấp thụ khí CO2.", "kr": "나무는 ___를 흡수해요.", "options": ["이산화탄소", "온수", "포장"], "answer": "이산화탄소", "explain": "이산화탄소 = CO2."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Phải giảm bao bì quá mức.", "kr": "과대 ___을 줄여야 해요.", "options": ["포장", "홍수", "평생"], "answer": "포장", "explain": "과대 포장 = đóng gói quá mức."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Tôi đi xe buýt thay cho xe riêng.", "kr": "___ 대신 버스를 타요.", "options": ["자가용", "진열대", "재활용 수거함"], "answer": "자가용", "explain": "자가용 = xe riêng."},
+  {"type": "fill", "q": "Điền: Nhiệt độ vừa xuống dưới 0 thì tiền sưởi tăng.", "kr": "날씨가 영하권으로 떨어지___ 난방비가 올랐어요.", "answer": ["자"], "explain": "떨어지자."},
+  {"type": "fill", "q": "Điền: Vừa mở cửa thì gió lạnh ùa vào.", "kr": "문을 열___ 찬 바람이 들어왔어요.", "answer": ["자"], "explain": "열자."},
+  {"type": "fill", "q": "Điền: Vừa nghe tin mọi người đều ngạc nhiên.", "kr": "그 소식을 듣___ 사람들이 모두 놀랐어요.", "answer": ["자"], "explain": "듣자."},
+  {"type": "fill", "q": "Điền từ: Bụi mịn không tốt cho phổi.", "kr": "미세먼지는 ___에 안 좋아요.", "answer": ["폐"], "explain": "폐 = phổi."},
+  {"type": "order", "q": "Sắp xếp thành câu: Mưa vừa tạnh thì thiệt hại lũ lộ ra.", "tokens": ["비가", "그치자", "홍수", "피해가", "드러났어요"], "answer": "비가 그치자 홍수 피해가 드러났어요", "explain": "V + 자."},
+  {"type": "order", "q": "Sắp xếp thành câu: Lon hãy bỏ vào thùng tái chế.", "tokens": ["캔은", "재활용", "수거함에", "넣으세요"], "answer": "캔은 재활용 수거함에 넣으세요", "explain": "수거함."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Vừa sang xuân thì hoa nở.", "answer": ["봄이 되자 꽃이 피었어요.", "봄이 오자 꽃이 피었어요.", "봄이 되자 꽃이 폈어요."], "explain": "되자."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Cây hấp thụ khí CO2.", "answer": ["나무는 이산화탄소를 흡수해요.", "나무는 이산화탄소를 흡수합니다."], "explain": "흡수하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Nhựa cả đời không phân hủy.", "answer": ["플라스틱은 평생 썩지 않아요.", "플라스틱은 평생 안 썩어요."], "explain": "썩다 = phân hủy, thối."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "마트에서 비닐봉지를 유료로 판매하자 장바구니를 가져오는 손님이 크게 늘었어요.", "answer": "Siêu thị vừa bắt đầu bán túi ni lông có thu phí thì số khách mang giỏ đi chợ tăng mạnh.", "explain": "판매하자 = vừa bán thì."},
+  {"type": "read", "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)", "kr": "여자: 지난 주말 자원봉사자 200여 명이 해수욕장 청소에 참여했습니다. 이날 모은 쓰레기는 약 3톤으로, 대부분이 플라스틱 포장이었습니다. 행사를 주최한 환경 단체는 플라스틱이 평생 썩지 않고 바다 생물에게 큰 피해를 준다고 강조했습니다.", "options": ["모은 쓰레기의 대부분은 플라스틱이었다.", "자원봉사자는 20명이었다.", "쓰레기는 약 30톤이었다.", "플라스틱은 바다 생물에게 도움이 된다."], "answer": "모은 쓰레기의 대부분은 플라스틱이었다.", "explain": "대부분이 플라스틱 포장이었습니다."},
+  {"type": "read", "q": "Chọn từ điền vào ( ). (Dạng TOPIK II câu 19~24)", "kr": "한 아파트에서 주민들이 ( ___ ) 음식물 쓰레기 줄이기 운동을 시작했다. 관리 사무소가 정한 규칙이 아니라 주민들이 스스로 결정한 것이다. 운동을 시작하자 한 달 만에 쓰레기가 30%나 줄었다.", "options": ["자율적으로", "평생", "불필요하게", "강제로"], "answer": "자율적으로", "explain": "주민들이 스스로 결정 → 자율적으로."}
+ ]
+}

@@ -1,0 +1,404 @@
+{
+ "id": "bai-183",
+ "lesson": "Bài 183",
+ "title": "Thay đổi sinh hoạt (phần 2/4)",
+ "krTitle": "생활의 변화 2",
+ "date": "2027-08-10",
+ "day": 265,
+ "source": "TOPIK 5 – Bài 9: Thay đổi sinh hoạt (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "임대",
+   "Imdae",
+   "Cho thuê",
+   "이 건물은 사무실로 임대를 하고 있어요.",
+   "Tòa nhà này đang cho thuê làm văn phòng."
+  ],
+  [
+   "시세",
+   "Sise",
+   "Thời giá",
+   "집을 사기 전에 시세를 알아보세요.",
+   "Trước khi mua nhà hãy tìm hiểu thời giá."
+  ],
+  [
+   "수도권",
+   "Sudogwon",
+   "Khu vực thủ đô",
+   "수도권에 인구가 너무 많이 모여 있어요.",
+   "Dân số tập trung quá đông ở vùng thủ đô."
+  ],
+  [
+   "온돌",
+   "Ondol",
+   "Hệ thống sưởi ấm sàn",
+   "겨울에는 온돌방이 정말 따뜻해요.",
+   "Mùa đông phòng sưởi sàn ondol thật ấm."
+  ],
+  [
+   "마당",
+   "Madang",
+   "Sân",
+   "마당에서 아이들이 뛰어놀아요.",
+   "Bọn trẻ chạy chơi ngoài sân."
+  ],
+  [
+   "건넌방",
+   "Geonneonbang",
+   "Phòng đối diện với phòng chính",
+   "손님은 건넌방에서 주무세요.",
+   "Khách hãy ngủ ở phòng đối diện."
+  ],
+  [
+   "대청",
+   "Daecheong",
+   "Gian sảnh giữa (nhà truyền thống)",
+   "여름에는 대청에 앉아 바람을 쐬었어요.",
+   "Mùa hè ngồi ở gian sảnh giữa hóng gió."
+  ],
+  [
+   "굴뚝",
+   "Gulttuk",
+   "Ống khói lò sưởi",
+   "굴뚝에서 연기가 나고 있어요.",
+   "Khói đang bốc lên từ ống khói."
+  ],
+  [
+   "칸",
+   "Kan",
+   "Gian (nhà)",
+   "옛날 집은 세 칸짜리였어요.",
+   "Nhà ngày xưa có ba gian."
+  ],
+  [
+   "대문",
+   "Daemun",
+   "Cửa lớn, cổng",
+   "대문을 열고 들어가니 마당이 넓었어요.",
+   "Mở cổng lớn bước vào thì thấy sân rộng."
+  ],
+  [
+   "안방",
+   "Anbang",
+   "Phòng chính",
+   "할머니는 안방에서 주무세요.",
+   "Bà ngủ ở phòng chính."
+  ],
+  [
+   "사랑방",
+   "Sarangbang",
+   "Phòng cho quý khách",
+   "사랑방에서 손님들이 이야기를 나눴어요.",
+   "Khách trò chuyện ở phòng tiếp khách."
+  ],
+  [
+   "아궁이",
+   "Agungi",
+   "Bếp lò",
+   "아궁이에 불을 때서 방을 데웠어요.",
+   "Đốt lửa ở bếp lò để sưởi phòng."
+  ],
+  [
+   "부뚜막",
+   "Buttumak",
+   "Chạn bếp, khu vực bếp",
+   "어머니는 부뚜막에서 밥을 지으셨어요.",
+   "Mẹ nấu cơm ở chạn bếp."
+  ],
+  [
+   "외양간",
+   "Oeyanggan",
+   "Chuồng",
+   "외양간에 소 두 마리가 있어요.",
+   "Trong chuồng có hai con bò."
+  ],
+  [
+   "투자",
+   "Tuja",
+   "Sự đầu tư",
+   "부동산 투자는 신중하게 해야 해요.",
+   "Đầu tư bất động sản phải thận trọng."
+  ],
+  [
+   "주택 청약",
+   "Jutaeng cheongyak",
+   "Sự đặt chỗ mua nhà",
+   "신혼부부가 주택 청약에 당첨됐어요.",
+   "Cặp vợ chồng mới cưới trúng suất mua nhà."
+  ],
+  [
+   "분양가",
+   "Bunyangga",
+   "Giá bán, giá phân lô",
+   "새 아파트 분양가가 너무 비싸요.",
+   "Giá bán căn hộ mới quá đắt."
+  ],
+  [
+   "부동산 거래",
+   "Budongsan georae",
+   "Giao dịch bất động sản",
+   "부동산 거래가 크게 줄었어요.",
+   "Giao dịch bất động sản giảm mạnh."
+  ],
+  [
+   "부동산 경기 활성화",
+   "Budongsan gyeonggi hwalseonghwa",
+   "Sự sôi động trong kinh doanh bất động sản",
+   "정부는 부동산 경기 활성화 대책을 내놓았어요.",
+   "Chính phủ đưa ra biện pháp kích thích thị trường bất động sản."
+  ],
+  [
+   "재개발",
+   "Jaegaebal",
+   "Sự tái phát triển",
+   "우리 동네는 재개발 예정 지역이에요.",
+   "Khu tôi là khu vực dự kiến tái phát triển."
+  ],
+  [
+   "주택난 해소",
+   "Jutaengnan haeso",
+   "Giảm nạn thiếu nhà ở",
+   "주택난 해소를 위해 집을 더 지어야 해요.",
+   "Phải xây thêm nhà để giải quyết nạn thiếu nhà."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는가 하면 — Có … thì cũng có",
+   "meaning": "Đưa ra HAI MẶT / HAI TRƯỜNG HỢP trái ngược hoặc khác nhau cùng tồn tại: 'có (người/lúc)… thì cũng có (người/lúc)…', 'vừa… lại vừa…'. Chia: Động từ → 는가 하면 (좋아하는가 하면); Tính từ có patchim → 은가 하면 (많은가 하면), không patchim → ㄴ가 하면 (비싼가 하면); Danh từ → 인가 하면; Quá khứ → 았/었는가 하면. Mẫu hay gặp: 'N이/가 있는가 하면 N도 있다' (có… thì cũng có…), 'V는 사람이 있는가 하면 V는 사람도 있다'. Văn viết và thuyết trình, rất hay gặp trong TOPIK Đọc và Viết câu 54 khi so sánh hai quan điểm. Vế sau thường có 도 (cũng).",
+   "examples": [
+    "아파트를 좋아하는 사람이 있는가 하면 한옥을 좋아하는 사람도 있어요. — Có người thích chung cư thì cũng có người thích nhà truyền thống.",
+    "집값이 오르는 지역이 있는가 하면 떨어지는 지역도 있다. — Có khu giá nhà tăng thì cũng có khu giá nhà giảm.",
+    "어떤 날은 날씨가 따뜻한가 하면 어떤 날은 아주 추워요. — Có hôm trời ấm thì cũng có hôm rất lạnh.",
+    "그는 노래를 잘하는가 하면 그림도 잘 그려요. — Anh ấy hát hay lại vẽ cũng đẹp."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Hệ thống sưởi bằng cách đốt nóng nền nhà truyền thống của Hàn Quốc gọi là gì?",
+   "kr": "",
+   "options": [
+    "온돌",
+    "굴뚝",
+    "대청"
+   ],
+   "answer": "온돌",
+   "explain": "온돌 = sưởi sàn."
+  },
+  {
+   "type": "choice",
+   "q": "Nơi nuôi bò, ngựa gọi là gì?",
+   "kr": "",
+   "options": [
+    "외양간",
+    "사랑방",
+    "부뚜막"
+   ],
+   "answer": "외양간",
+   "explain": "외양간 = chuồng gia súc."
+  },
+  {
+   "type": "choice",
+   "q": "Căn phòng chính trong nhà, thường là của người lớn tuổi/chủ nhà nữ gọi là gì?",
+   "kr": "",
+   "options": [
+    "안방",
+    "건넌방",
+    "사랑방"
+   ],
+   "answer": "안방",
+   "explain": "안방 = phòng trong, phòng chính."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trước khi mua nhà hãy tìm hiểu thời giá.",
+   "kr": "집을 사기 전에 ___를 알아보세요.",
+   "options": [
+    "시세",
+    "분양가",
+    "임대"
+   ],
+   "answer": "시세",
+   "explain": "시세 = giá thị trường hiện tại."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Có người thích chung cư thì cũng có người thích nhà truyền thống.'",
+   "kr": "",
+   "options": [
+    "아파트를 좋아하는 사람이 있는가 하면 한옥을 좋아하는 사람도 있어요.",
+    "아파트를 좋아하는 사람이 있은가 하면 한옥을 좋아하는 사람도 있어요.",
+    "아파트를 좋아한 사람이 있는가 하면 한옥을 좋아한 사람이 있어요."
+   ],
+   "answer": "아파트를 좋아하는 사람이 있는가 하면 한옥을 좋아하는 사람도 있어요.",
+   "explain": "있다 → 있는가 하면; vế sau có 도."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với tính từ 비싸다.",
+   "kr": "",
+   "options": [
+    "비싼가 하면",
+    "비싸는가 하면",
+    "비쌀가 하면"
+   ],
+   "answer": "비싼가 하면",
+   "explain": "Tính từ không patchim → ㄴ가 하면."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phải xây thêm nhà để giải quyết nạn thiếu nhà.",
+   "kr": "___ 해소를 위해 집을 더 지어야 해요.",
+   "options": [
+    "주택난",
+    "재개발",
+    "투자"
+   ],
+   "answer": "주택난",
+   "explain": "주택난 = nạn thiếu nhà."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cặp vợ chồng mới cưới trúng suất mua nhà.",
+   "kr": "신혼부부가 주택 ___에 당첨됐어요.",
+   "options": [
+    "청약",
+    "거래",
+    "임대"
+   ],
+   "answer": "청약",
+   "explain": "주택 청약에 당첨되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는가 하면 với 있다: Có người rời vùng thủ đô thì cũng có người ở lại.",
+   "kr": "수도권을 떠나는 사람이 ___ 남는 사람도 있어요.",
+   "answer": [
+    "있는가 하면"
+   ],
+   "explain": "있다 → 있는가 하면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ가 하면 với 따뜻하다: Có hôm trời ấm thì cũng có hôm rất lạnh.",
+   "kr": "어떤 날은 날씨가 ___ 어떤 날은 아주 추워요.",
+   "answer": [
+    "따뜻한가 하면"
+   ],
+   "explain": "Tính từ → (으)ㄴ가 하면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Dân số tập trung quá đông ở vùng thủ đô.",
+   "kr": "___에 인구가 너무 많이 모여 있어요.",
+   "answer": [
+    "수도권"
+   ],
+   "explain": "수도권."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Khu tôi là khu vực dự kiến tái phát triển.",
+   "kr": "우리 동네는 ___ 예정 지역이에요.",
+   "answer": [
+    "재개발"
+   ],
+   "explain": "재개발."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Anh ấy hát hay lại vẽ cũng đẹp.",
+   "tokens": [
+    "그는",
+    "노래를",
+    "잘하는가",
+    "하면",
+    "그림도",
+    "잘",
+    "그려요"
+   ],
+   "answer": "그는 노래를 잘하는가 하면 그림도 잘 그려요",
+   "explain": "는가 하면 + 도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đốt lửa ở bếp lò để sưởi phòng.",
+   "tokens": [
+    "아궁이에",
+    "불을",
+    "때서",
+    "방을",
+    "데웠어요"
+   ],
+   "answer": "아궁이에 불을 때서 방을 데웠어요",
+   "explain": "불을 때다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Có người sống ở thành phố thì cũng có người sống ở nông thôn. (dùng 는가 하면)",
+   "answer": [
+    "도시에 사는 사람이 있는가 하면 시골에 사는 사람도 있어요.",
+    "도시에 사는 사람이 있는가 하면 농촌에 사는 사람도 있어요.",
+    "도시에서 사는 사람이 있는가 하면 시골에서 사는 사람도 있어요."
+   ],
+   "explain": "있는가 하면 … 도 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giá bán căn hộ mới quá đắt.",
+   "answer": [
+    "새 아파트 분양가가 너무 비싸요.",
+    "새 아파트의 분양가가 너무 비싸요."
+   ],
+   "explain": "분양가."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đầu tư bất động sản phải thận trọng.",
+   "answer": [
+    "부동산 투자는 신중하게 해야 해요.",
+    "부동산 투자는 신중히 해야 해요."
+   ],
+   "explain": "신중하게."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한옥은 마당을 중심으로 안방, 건넌방, 대청 등이 있다. 겨울에는 아궁이에 불을 때면 온돌이 데워져 방이 따뜻해진다.",
+   "answer": "Nhà truyền thống Hanok có phòng chính, phòng đối diện, gian sảnh giữa… xoay quanh khoảng sân. Mùa đông nếu đốt lửa ở bếp lò thì sàn ondol nóng lên và phòng trở nên ấm áp.",
+   "explain": "을 중심으로; 데워지다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 이 근처 아파트 시세가 어떻게 되는지 아세요?\n남자: 저도 잘 모르겠어요. 요즘 많이 올랐다고 들었는데요.\n여자: 그럼 부동산에 한번 물어볼까요?\n남자: 좋아요. 제가 지금 전화해 볼게요.",
+   "options": [
+    "부동산에 전화한다.",
+    "아파트를 산다.",
+    "인터넷으로 시세를 찾는다.",
+    "여자에게 돈을 빌린다."
+   ],
+   "answer": "부동산에 전화한다.",
+   "explain": "제가 지금 전화해 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "수도권의 집값이 계속 오르면서 내 집을 마련하기가 점점 어려워지고 있다. 그래서 수도권을 떠나 지방으로 이사하는 사람이 있는가 하면, 비싸도 직장과 가까운 역세권을 고집하는 사람도 있다. 정부는 주택난 해소를 위해 새 아파트를 더 짓겠다고 발표했다.",
+   "options": [
+    "사람들은 집값 문제에 대해 서로 다르게 대응하고 있다.",
+    "모든 사람이 지방으로 이사하고 있다.",
+    "정부는 집을 짓지 않기로 했다.",
+    "수도권 집값이 내리고 있다."
+   ],
+   "answer": "사람들은 집값 문제에 대해 서로 다르게 대응하고 있다.",
+   "explain": "이사하는 사람이 있는가 하면 … 고집하는 사람도 있다."
+  }
+ ]
+}

@@ -1,0 +1,628 @@
+{
+ "id": "bai-17",
+ "lesson": "Bài 17",
+ "title": "Gặp gỡ",
+ "krTitle": "만남",
+ "date": "2026-12-02",
+ "day": 14,
+ "source": "TOPIK 2 – Bài 1: Gặp gỡ",
+ "practice": {
+  "listening": "Nghe – Phần 5: Chọn tranh đúng (15~16)",
+  "reading": "Đọc – Phần 6: Sắp xếp (57~58)"
+ },
+ "words": [
+  [
+   "남편",
+   "Nampyeon",
+   "Chồng",
+   "제 남편은 회사원이에요.",
+   "Chồng tôi là nhân viên công ty."
+  ],
+  [
+   "아내",
+   "Anae",
+   "Vợ",
+   "아내의 생일에 꽃을 샀어요.",
+   "Tôi đã mua hoa vào sinh nhật vợ."
+  ],
+  [
+   "선배",
+   "Seonbae",
+   "Tiền bối, đàn anh/chị",
+   "학교 선배를 만나러 가요.",
+   "Tôi đi gặp đàn anh ở trường."
+  ],
+  [
+   "후배",
+   "Hubae",
+   "Hậu bối, đàn em",
+   "후배에게 책을 줬어요.",
+   "Tôi đã đưa sách cho đàn em."
+  ],
+  [
+   "주인",
+   "Juin",
+   "Chủ nhà",
+   "집 주인이 친절해요.",
+   "Chủ nhà thân thiện."
+  ],
+  [
+   "손님",
+   "Sonnim",
+   "Khách",
+   "오늘 집에 손님이 와요.",
+   "Hôm nay nhà có khách đến."
+  ],
+  [
+   "상사",
+   "Sangsa",
+   "Cấp trên",
+   "상사에게 인사했어요.",
+   "Tôi đã chào cấp trên."
+  ],
+  [
+   "부하",
+   "Buha",
+   "Cấp dưới",
+   "부장님은 부하 직원들에게 친절하세요.",
+   "Trưởng phòng thân thiện với nhân viên cấp dưới."
+  ],
+  [
+   "초대하다",
+   "Chodaehada",
+   "Mời",
+   "친구를 집에 초대했어요.",
+   "Tôi đã mời bạn đến nhà."
+  ],
+  [
+   "초대를 받다",
+   "Chodaereul batda",
+   "Nhận lời mời",
+   "선배의 결혼식 초대를 받았어요.",
+   "Tôi đã nhận được lời mời đám cưới của đàn anh."
+  ],
+  [
+   "방문하다",
+   "Bangmunhada",
+   "Thăm, đến thăm",
+   "주말에 선생님 댁을 방문했어요.",
+   "Cuối tuần tôi đã đến thăm nhà thầy."
+  ],
+  [
+   "소개하다",
+   "Sogaehada",
+   "Giới thiệu",
+   "친구에게 제 동생을 소개했어요.",
+   "Tôi đã giới thiệu em tôi với bạn."
+  ],
+  [
+   "소개를 받다",
+   "Sogaereul batda",
+   "Được giới thiệu",
+   "선배에게 좋은 사람을 소개를 받았어요.",
+   "Tôi được đàn anh giới thiệu một người tốt."
+  ],
+  [
+   "인사하다",
+   "Insahada",
+   "Chào hỏi",
+   "어른을 만날 때 먼저 인사해요.",
+   "Khi gặp người lớn thì chào trước."
+  ],
+  [
+   "잘 먹겠습니다",
+   "Jal meokgetseumnida",
+   "Tôi xin phép ăn ạ (trước khi ăn)",
+   "밥을 먹을 때 먼저 '잘 먹겠습니다' 하고 인사해요.",
+   "Khi ăn cơm, trước tiên chào 'Tôi xin phép ăn ạ'."
+  ],
+  [
+   "잘 먹었습니다",
+   "Jal meogeotseumnida",
+   "Cảm ơn vì bữa ăn (sau khi ăn)",
+   "정말 잘 먹었습니다.",
+   "Cảm ơn vì bữa ăn ngon ạ."
+  ],
+  [
+   "실례하겠습니다",
+   "Sillyehagetseumnida",
+   "Xin phép, xin lỗi (làm phiền)",
+   "실례하겠습니다. 김 선생님 계세요?",
+   "Xin phép ạ. Thầy Kim có ở đây không ạ?"
+  ],
+  [
+   "실례했습니다",
+   "Sillyehaetseumnida",
+   "Xin lỗi đã làm phiền",
+   "늦게 와서 실례했습니다.",
+   "Xin lỗi vì đến muộn ạ."
+  ],
+  [
+   "가져오다",
+   "Gajyeooda",
+   "Mang đến",
+   "손님이 과일을 가져왔어요.",
+   "Khách đã mang hoa quả đến."
+  ],
+  [
+   "비슷하다",
+   "Biseutada",
+   "Tương tự",
+   "한국과 베트남의 예절은 비슷해요.",
+   "Lễ nghi của Hàn Quốc và Việt Nam giống nhau."
+  ],
+  [
+   "예절",
+   "Yejeol",
+   "Lễ nghi, phép tắc",
+   "한국의 식사 예절을 배웠어요.",
+   "Tôi đã học phép lịch sự khi ăn của Hàn Quốc."
+  ],
+  [
+   "걱정",
+   "Geokjeong",
+   "Sự lo lắng",
+   "걱정이 많아서 잠을 잘 수 없어요.",
+   "Lo lắng nhiều nên tôi không ngủ được."
+  ],
+  [
+   "사용하다",
+   "Sayonghada",
+   "Sử dụng",
+   "여기에서는 휴대폰을 사용할 수 없어요.",
+   "Ở đây không được sử dụng điện thoại."
+  ],
+  [
+   "올림",
+   "Ollim",
+   "Kính thư (cuối thư)",
+   "제자 민수 올림",
+   "Học trò Minsu kính thư."
+  ],
+  [
+   "넣다",
+   "Neota",
+   "Cho vào, bỏ vào",
+   "커피에 설탕을 넣었어요.",
+   "Tôi đã cho đường vào cà phê."
+  ],
+  [
+   "상담",
+   "Sangdam",
+   "Tư vấn",
+   "선생님께 상담을 받으러 가요.",
+   "Tôi đi nhận tư vấn từ thầy."
+  ],
+  [
+   "일찍",
+   "Iljjik",
+   "Sớm",
+   "오늘은 일찍 일어났어요.",
+   "Hôm nay tôi dậy sớm."
+  ],
+  [
+   "닫다",
+   "Datda",
+   "Đóng",
+   "문을 닫아요.",
+   "Tôi đóng cửa."
+  ],
+  [
+   "상담소",
+   "Sangdamso",
+   "Văn phòng tư vấn",
+   "외국인 상담소에 전화했어요.",
+   "Tôi đã gọi tới văn phòng tư vấn người nước ngoài."
+  ],
+  [
+   "정장",
+   "Jeongjang",
+   "Trang phục lịch sự, vest",
+   "면접 때 정장을 입어요.",
+   "Khi phỏng vấn tôi mặc vest."
+  ],
+  [
+   "댁",
+   "Daek",
+   "Nhà (kính ngữ)",
+   "할머니 댁에 가요.",
+   "Tôi đến nhà bà."
+  ],
+  [
+   "설탕",
+   "Seoltang",
+   "Đường",
+   "설탕을 많이 먹을 수 없어요.",
+   "Tôi không thể ăn nhiều đường."
+  ],
+  [
+   "조심하다",
+   "Josimhada",
+   "Cẩn thận",
+   "길이 미끄러워요. 조심하세요.",
+   "Đường trơn. Hãy cẩn thận."
+  ],
+  [
+   "들다",
+   "Deulda",
+   "Cầm, xách",
+   "짐을 들고 왔어요.",
+   "Tôi đã xách hành lý đến."
+  ],
+  [
+   "소리를 내다",
+   "Sorireul naeda",
+   "Phát ra tiếng",
+   "한국에서는 밥을 먹을 때 소리를 내지 않아요.",
+   "Ở Hàn khi ăn cơm người ta không phát ra tiếng."
+  ],
+  [
+   "직원",
+   "Jigwon",
+   "Nhân viên",
+   "은행 직원이 친절했어요.",
+   "Nhân viên ngân hàng đã rất thân thiện."
+  ],
+  [
+   "들어가다",
+   "Deureogada",
+   "Đi vào",
+   "방에 들어갈 때 신발을 벗어요.",
+   "Khi vào phòng thì cởi giày."
+  ],
+  [
+   "심심하다",
+   "Simsimhada",
+   "Buồn chán",
+   "주말에 너무 심심했어요.",
+   "Cuối tuần tôi chán quá."
+  ],
+  [
+   "찍다",
+   "Jjikda",
+   "Chụp (ảnh)",
+   "박물관에서는 사진을 찍을 수 없어요.",
+   "Trong bảo tàng không được chụp ảnh."
+  ],
+  [
+   "만지다",
+   "Manjida",
+   "Sờ, chạm vào",
+   "미술관에서는 작품을 만질 수 없어요.",
+   "Trong bảo tàng mỹ thuật không được chạm vào tác phẩm."
+  ],
+  [
+   "씻다",
+   "Ssitda",
+   "Rửa",
+   "밥을 먹을 때 먼저 손을 씻어요.",
+   "Khi ăn cơm thì trước tiên rửa tay."
+  ],
+  [
+   "켜다",
+   "Kyeoda",
+   "Bật (đèn, TV)",
+   "방이 어두워서 불을 켰어요.",
+   "Phòng tối nên tôi đã bật đèn."
+  ],
+  [
+   "먼저",
+   "Meonjeo",
+   "Trước tiên",
+   "어른이 먼저 드세요.",
+   "Mời người lớn dùng trước."
+  ],
+  [
+   "악수하다",
+   "Aksuhada",
+   "Bắt tay",
+   "처음 만나서 악수했어요.",
+   "Lần đầu gặp nên chúng tôi bắt tay."
+  ],
+  [
+   "크림",
+   "Keurim",
+   "Kem",
+   "커피에 크림을 넣을까요?",
+   "Tôi cho kem vào cà phê nhé?"
+  ],
+  [
+   "명함",
+   "Myeongham",
+   "Danh thiếp",
+   "제 명함이에요. 받으세요.",
+   "Đây là danh thiếp của tôi. Xin nhận ạ."
+  ],
+  [
+   "안내",
+   "Annae",
+   "Hướng dẫn, chỉ dẫn",
+   "안내 데스크에 물으세요.",
+   "Hãy hỏi ở quầy hướng dẫn."
+  ],
+  [
+   "벗다",
+   "Beotda",
+   "Cởi ra",
+   "한국 집에서는 신발을 벗어요.",
+   "Trong nhà người Hàn thì cởi giày."
+  ],
+  [
+   "연락",
+   "Yeollak",
+   "Liên lạc",
+   "선배의 연락을 기다려요.",
+   "Tôi đợi đàn anh liên lạc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)러 가다 — Đi để",
+   "meaning": "Diễn tả mục đích của việc đi/đến: 'đi (đến đâu) để làm gì'. Gốc có patchim + 으러 (먹다 → 먹으러); không patchim hoặc patchim ㄹ + 러 (보다 → 보러, 놀다 → 놀러). Theo sau chỉ là động từ di chuyển: 가다, 오다, 다니다, 나가다, 들어가다. Bất quy tắc: 듣다 → 들으러, 걷다 → 걸으러. Thứ tự thường gặp: (nơi chốn)에 V(으)러 가다 hoặc V(으)러 (nơi chốn)에 가다. KHÔNG dùng với 가다/오다 phía trước (가러 가요 ✗).",
+   "examples": [
+    "친구를 만나러 커피숍에 가요. — Tôi đến quán cà phê để gặp bạn.",
+    "점심을 먹으러 식당에 갔어요. — Tôi đã đến nhà hàng để ăn trưa.",
+    "한국어를 배우러 한국에 왔어요. — Tôi đến Hàn Quốc để học tiếng Hàn.",
+    "주말에 친구 집에 놀러 가요. — Cuối tuần tôi đến nhà bạn chơi."
+   ]
+  },
+  {
+   "form": "V/A + (으)ㄹ 수 없다 — Không thể",
+   "meaning": "Phủ định của (으)ㄹ 수 있다: 'không thể…', do không có khả năng hoặc hoàn cảnh không cho phép/bị cấm. Chia giống (으)ㄹ 수 있다: 먹을 수 없어요, 갈 수 없어요, 만들 수 없어요, 들을 수 없어요 (듣다). Hay dùng trong biển báo, quy định: 사진을 찍을 수 없습니다 (không được chụp ảnh). Gần nghĩa với 못 + V nhưng trang trọng và nhấn mạnh hơn.",
+   "examples": [
+    "박물관에서는 사진을 찍을 수 없어요. — Trong bảo tàng không được chụp ảnh.",
+    "약속이 있어서 파티에 갈 수 없어요. — Vì có hẹn nên tôi không thể đi dự tiệc.",
+    "너무 매워서 먹을 수 없어요. — Cay quá nên tôi không ăn được.",
+    "시끄러워서 음악을 들을 수 없어요. — Ồn quá nên không nghe được nhạc."
+   ]
+  },
+  {
+   "form": "N + 의 — Của",
+   "meaning": "Tiểu từ sở hữu: 'của'. Đặt sau người sở hữu, trước vật được sở hữu: 선생님의 책 (sách của thầy). Trong văn nói thường lược bỏ 의: 친구 집, 엄마 생일. Rút gọn với đại từ: 나의 → 내, 저의 → 제, 너의 → 네 (제 이름, 내 가방). Khi là tiểu từ sở hữu, 의 thường được đọc là [에]: 친구의 [친구에].",
+   "examples": [
+    "이것은 선배의 명함이에요. — Đây là danh thiếp của đàn anh.",
+    "한국의 예절을 배워요. — Tôi học lễ nghi của Hàn Quốc.",
+    "제 남편의 이름은 민수예요. — Tên chồng tôi là Minsu.",
+    "친구의 생일 파티에 초대를 받았어요. — Tôi được mời dự tiệc sinh nhật của bạn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đến nhà hàng để ăn trưa.",
+   "kr": "점심을 ___ 식당에 가요.",
+   "options": [
+    "먹으러",
+    "먹러",
+    "먹어러"
+   ],
+   "answer": "먹으러",
+   "explain": "먹다 có patchim → 먹 + 으러."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đến rạp để xem phim.",
+   "kr": "영화를 ___ 극장에 가요.",
+   "options": [
+    "보러",
+    "보으러",
+    "봐러"
+   ],
+   "answer": "보러",
+   "explain": "보다 không patchim → 보 + 러."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đến nhà bạn chơi.",
+   "kr": "친구 집에 ___ 가요.",
+   "options": [
+    "놀러",
+    "놀으러",
+    "노러"
+   ],
+   "answer": "놀러",
+   "explain": "Patchim ㄹ + 러 → 놀러."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đi công viên để đi bộ.",
+   "kr": "공원에 ___ 가요.",
+   "options": [
+    "걸으러",
+    "걷으러",
+    "걸러"
+   ],
+   "answer": "걸으러",
+   "explain": "걷다 bất quy tắc ㄷ: trước 으러 → 걸으러."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào SAI?",
+   "kr": "",
+   "options": [
+    "친구를 만나러 공부해요.",
+    "친구를 만나러 가요.",
+    "책을 사러 서점에 왔어요."
+   ],
+   "answer": "친구를 만나러 공부해요.",
+   "explain": "(으)러 chỉ đi với động từ di chuyển (가다, 오다…), không đi với 공부하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Trong bảo tàng không được chụp ảnh.",
+   "kr": "박물관에서는 사진을 ___.",
+   "options": [
+    "찍을 수 없어요",
+    "찍 수 없어요",
+    "찍을 수 안 있어요"
+   ],
+   "answer": "찍을 수 없어요",
+   "explain": "찍다 có patchim → 찍을 수 없어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ồn quá nên không nghe được.",
+   "kr": "시끄러워서 ___.",
+   "options": [
+    "들을 수 없어요",
+    "듣을 수 없어요",
+    "들 수 없어요"
+   ],
+   "answer": "들을 수 없어요",
+   "explain": "듣다 → 들 + 을 수 없어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói rút gọn đúng của '저의 이름'.",
+   "kr": "",
+   "options": [
+    "제 이름",
+    "저 이름",
+    "내 이름"
+   ],
+   "answer": "제 이름",
+   "explain": "저의 → 제 (khiêm tốn). 내 là rút gọn của 나의 (thân mật)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)러: Tôi đến ngân hàng để gửi tiền (đổi tiền).",
+   "kr": "돈을 ___ 은행에 가요.",
+   "answer": [
+    "바꾸러"
+   ],
+   "explain": "바꾸다 → 바꾸 + 러."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)러: Tôi đến Hàn Quốc để học tiếng Hàn.",
+   "kr": "한국어를 ___ 한국에 왔어요.",
+   "answer": [
+    "배우러"
+   ],
+   "explain": "배우다 → 배우 + 러."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 수 없어요 vào 가다: Vì có hẹn nên tôi không thể đi.",
+   "kr": "약속이 있어서 ___.",
+   "answer": [
+    "갈 수 없어요"
+   ],
+   "explain": "가다 → 갈 수 없어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ sở hữu: Đây là danh thiếp của giám đốc.",
+   "kr": "이것은 사장님___ 명함이에요.",
+   "answer": [
+    "의"
+   ],
+   "explain": "Người sở hữu + 의 + vật."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đến quán cà phê để gặp đàn anh.",
+   "tokens": [
+    "선배를",
+    "만나러",
+    "커피숍에",
+    "가요"
+   ],
+   "answer": "선배를 만나러 커피숍에 가요",
+   "explain": "Mục đích V(으)러 + nơi chốn에 + 가요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi học lễ nghi của Hàn Quốc.",
+   "tokens": [
+    "한국의",
+    "예절을",
+    "배워요"
+   ],
+   "answer": "한국의 예절을 배워요",
+   "explain": "한국의 예절 = lễ nghi của Hàn Quốc."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đến hiệu sách để mua sách.",
+   "answer": [
+    "책을 사러 서점에 가요.",
+    "서점에 책을 사러 가요.",
+    "저는 책을 사러 서점에 가요.",
+    "저는 서점에 책을 사러 가요."
+   ],
+   "explain": "사다 → 사러; 서점에 가요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ở đây không thể sử dụng điện thoại.",
+   "answer": [
+    "여기에서는 휴대폰을 사용할 수 없어요.",
+    "여기서는 휴대폰을 사용할 수 없어요.",
+    "여기에서 휴대폰을 사용할 수 없어요.",
+    "여기서 휴대폰을 사용할 수 없어요.",
+    "여기에서는 핸드폰을 사용할 수 없어요.",
+    "여기서는 핸드폰을 사용할 수 없어요."
+   ],
+   "explain": "사용하다 → 사용할 수 없어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tên chồng tôi là Minsu.",
+   "answer": [
+    "제 남편의 이름은 민수예요.",
+    "제 남편 이름은 민수예요.",
+    "남편의 이름은 민수예요.",
+    "남편 이름은 민수예요."
+   ],
+   "explain": "제 남편(의) 이름은 + 민수예요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국 집에 들어갈 때 신발을 벗어요.",
+   "answer": "Khi vào nhà người Hàn thì cởi giày.",
+   "explain": "들어갈 때 = khi đi vào; 신발을 벗다 = cởi giày."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "처음 만나서 악수했어요. 그리고 명함을 줬어요.",
+   "options": [
+    "만남",
+    "날씨",
+    "쇼핑",
+    "교통"
+   ],
+   "answer": "만남",
+   "explain": "Lần đầu gặp, bắt tay, đưa danh thiếp → gặp gỡ (만남)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự đúng. (Dạng TOPIK câu 57~58)\n(가) 그래서 과일을 사서 선생님 댁에 갔어요.\n(나) 지난주에 선생님의 초대를 받았어요.\n(다) 한국에서는 초대를 받을 때 작은 선물을 가져가요.\n(라) 선생님께서 아주 좋아하셨어요.",
+   "kr": "",
+   "options": [
+    "(나)-(다)-(가)-(라)",
+    "(다)-(나)-(라)-(가)",
+    "(나)-(가)-(다)-(라)",
+    "(가)-(나)-(다)-(라)"
+   ],
+   "answer": "(나)-(다)-(가)-(라)",
+   "explain": "Nhận lời mời (나) → ở Hàn được mời thì mang quà (다) → nên mua hoa quả đến nhà thầy (가) → thầy rất thích (라)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "어제 회사 선배의 집에 놀러 갔어요. 선배의 아내가 맛있는 음식을 많이 만드셨어요. 밥을 먹을 때 먼저 '잘 먹겠습니다' 하고 인사했어요. 저는 매운 음식을 먹을 수 없어서 조금 걱정했지만 음식이 맵지 않았어요.",
+   "options": [
+    "음식이 맵지 않았어요.",
+    "저는 매운 음식을 잘 먹어요.",
+    "선배가 음식을 만들었어요.",
+    "저는 선배를 회사에서 만났어요."
+   ],
+   "answer": "음식이 맵지 않았어요.",
+   "explain": "Món ăn không cay. Tôi không ăn được cay; vợ của đàn anh nấu; gặp ở nhà đàn anh."
+  }
+ ]
+}

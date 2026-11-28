@@ -1,0 +1,52 @@
+{
+ "id": "bai-150",
+ "lesson": "Bài 150",
+ "title": "Đời sống & môi trường (phần 3/4)",
+ "krTitle": "생활과 환경 3",
+ "date": "2027-06-19",
+ "day": 213,
+ "source": "TOPIK 4 – Bài 14: Đời sống & môi trường (phần 3/4)",
+ "practice": {"listening": "Nghe – câu 4~8: Chọn câu nối tiếp", "reading": "Đọc – câu 13~15: Sắp xếp câu"},
+ "words": [
+  ["냉방", "Naengbang", "Làm mát (điều hòa)", "냉방 온도를 26도로 맞추세요.", "Hãy đặt nhiệt độ làm mát ở 26 độ."],
+  ["돗자리", "Dotjari", "Chiếu", "공원에 돗자리를 펴고 앉았어요.", "Tôi trải chiếu ngồi ở công viên."],
+  ["목적", "Mokjeok", "Mục đích", "이 캠페인의 목적은 에너지 절약이에요.", "Mục đích chiến dịch này là tiết kiệm năng lượng."],
+  ["무더위", "Mudeowi", "Nóng oi bức", "무더위가 일주일째 계속되고 있어요.", "Cái nóng oi bức kéo dài một tuần nay."],
+  ["보조 도구", "Bojo dogu", "Dụng cụ hỗ trợ", "부채 같은 보조 도구를 사용하세요.", "Hãy dùng dụng cụ hỗ trợ như quạt tay."],
+  ["분량", "Bullyang", "Lượng, phần", "필요한 분량만 사세요.", "Hãy chỉ mua lượng cần thiết."],
+  ["불필요하다", "Bulpiryohada", "Không cần thiết", "불필요한 포장을 줄여야 해요.", "Phải giảm bao bì không cần thiết."],
+  ["사막화", "Samakwa", "Sa mạc hóa", "사막화 때문에 황사가 심해졌어요.", "Do sa mạc hóa mà bụi vàng nặng hơn."],
+  ["상승", "Sangseung", "Sự tăng lên", "기온 상승으로 바다의 높이가 올라가요.", "Do nhiệt độ tăng mà mực nước biển dâng."],
+  ["생물", "Saengmul", "Sinh vật", "바다에는 다양한 생물이 살아요.", "Ở biển có nhiều sinh vật."],
+  ["생태계", "Saengtaegye", "Hệ sinh thái", "오염 때문에 생태계가 파괴되고 있어요.", "Vì ô nhiễm mà hệ sinh thái đang bị phá hủy."],
+  ["역할", "Yeokal", "Vai trò", "숲은 공기를 깨끗하게 하는 역할을 해요.", "Rừng có vai trò làm sạch không khí."],
+  ["연착하다", "Yeonchakada", "Đến trễ (tàu, máy bay)", "폭설로 비행기가 연착했어요.", "Vì tuyết lớn máy bay bị trễ."],
+  ["열대야 현상", "Yeoldaeya hyeonsang", "Hiện tượng đêm nhiệt đới (đêm nóng trên 25°C)", "열대야 현상 때문에 밤에 잠을 못 자요.", "Vì đêm nhiệt đới nên đêm không ngủ được."],
+  ["열대우림", "Yeoldaeurim", "Rừng mưa nhiệt đới", "열대우림은 지구의 허파라고 불려요.", "Rừng mưa nhiệt đới được gọi là lá phổi trái đất."]
+ ],
+ "patterns": [
+  {"form": "N + 에 따르면 — Theo (nguồn tin)", "meaning": "Dùng để dẫn NGUỒN THÔNG TIN (báo cáo, khảo sát, tin tức, chuyên gia, cơ quan…) trước khi thuật lại nội dung: 'theo N thì…'. Gắn sau danh từ chỉ nguồn: 조사에 따르면 (theo khảo sát), 기상청에 따르면 (theo cục khí tượng), 뉴스에 따르면, 연구 결과에 따르면, 전문가에 따르면. Vế sau GẦN NHƯ LUÔN dùng câu gián tiếp: (는/ㄴ)다고 해요/합니다, 대요, (이)래요, 다고 한다 (văn viết). Bạn đã gặp cấu trúc này nhiều lần ở các bài trước — hôm nay học kỹ. So sánh: N에 따라 (bài 93) = tùy theo N (thay đổi); N에 따르면 = theo nguồn N (dẫn tin). Dạng văn viết đề TOPIK: '…에 따르면 …(으)ㄴ/는 것으로 나타났다' (theo… cho thấy…).", "examples": ["기상청에 따르면 이번 주에 무더위가 계속된대요. — Theo cục khí tượng, tuần này nắng nóng còn tiếp diễn.", "조사에 따르면 열대야 현상이 10년 전보다 두 배 늘었다고 해요. — Theo khảo sát, hiện tượng đêm nhiệt đới tăng gấp đôi so với 10 năm trước.", "전문가에 따르면 사막화가 황사의 원인이래요. — Theo chuyên gia, sa mạc hóa là nguyên nhân bụi vàng.", "연구 결과에 따르면 열대우림이 빠르게 줄고 있는 것으로 나타났다. — Theo kết quả nghiên cứu, rừng mưa nhiệt đới đang giảm nhanh."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Theo cục khí tượng, tuần này nắng nóng tiếp diễn.", "kr": "기상청___ 이번 주에 무더위가 계속된대요.", "options": ["에 따르면", "에 따라", "대로"], "answer": "에 따르면", "explain": "Dẫn nguồn tin → 에 따르면."},
+  {"type": "choice", "q": "Phân biệt: Giá thay đổi tùy theo mùa.", "kr": "계절___ 가격이 달라요.", "options": ["에 따라", "에 따르면", "에다가"], "answer": "에 따라", "explain": "Tùy theo (thay đổi) → 에 따라."},
+  {"type": "choice", "q": "Vế sau phù hợp nhất với '조사에 따르면':", "kr": "조사에 따르면 ___", "options": ["사람들이 환경 문제에 관심이 많대요.", "환경을 보호하세요.", "같이 환경을 보호합시다."], "answer": "사람들이 환경 문제에 관심이 많대요.", "explain": "Vế sau dùng câu gián tiếp (대요)."},
+  {"type": "choice", "q": "Chọn câu ĐÚNG ngữ pháp:", "kr": "", "options": ["뉴스에 따르면 내일 비가 온대요.", "뉴스에 따르면 내일 비가 와요 같이 가요.", "뉴스에 따라면 내일 비가 온대요."], "answer": "뉴스에 따르면 내일 비가 온대요.", "explain": "에 따르면 + 대요."},
+  {"type": "choice", "q": "Mẫu văn viết TOPIK: 'Theo khảo sát, cho thấy…'", "kr": "조사에 따르면 … ___.", "options": ["것으로 나타났다", "것으로 하세요", "것으로 갑시다"], "answer": "것으로 나타났다", "explain": "(으)ㄴ/는 것으로 나타났다 = cho thấy là."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Vì đêm nhiệt đới nên đêm không ngủ được.", "kr": "___ 때문에 밤에 잠을 못 자요.", "options": ["열대야 현상", "열대우림", "사막화"], "answer": "열대야 현상", "explain": "열대야 = đêm nhiệt đới."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Vì ô nhiễm hệ sinh thái đang bị phá hủy.", "kr": "오염 때문에 ___가 파괴되고 있어요.", "options": ["생태계", "돗자리", "분량"], "answer": "생태계", "explain": "생태계 = hệ sinh thái."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Vì tuyết lớn máy bay bị trễ.", "kr": "폭설로 비행기가 ___.", "options": ["연착했어요", "상승했어요", "불필요했어요"], "answer": "연착했어요", "explain": "연착하다 = đến trễ."},
+  {"type": "fill", "q": "Điền: Theo chuyên gia, sa mạc hóa là nguyên nhân bụi vàng.", "kr": "전문가___ 사막화가 황사의 원인이래요.", "answer": ["에 따르면"], "explain": "전문가에 따르면."},
+  {"type": "fill", "q": "Điền: Theo kết quả nghiên cứu, rừng đang giảm.", "kr": "연구 결과에 따르___ 숲이 줄고 있대요.", "answer": ["면"], "explain": "따르면."},
+  {"type": "fill", "q": "Điền từ: Phải giảm bao bì không cần thiết.", "kr": "___ 포장을 줄여야 해요.", "answer": ["불필요한"], "explain": "불필요하다."},
+  {"type": "fill", "q": "Điền từ: Rừng có vai trò làm sạch không khí.", "kr": "숲은 공기를 깨끗하게 하는 ___을 해요.", "answer": ["역할"], "explain": "역할을 하다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Theo cục khí tượng, tuần này nắng nóng tiếp diễn.", "tokens": ["기상청에", "따르면", "이번", "주에", "무더위가", "계속된대요"], "answer": "기상청에 따르면 이번 주에 무더위가 계속된대요", "explain": "에 따르면 + 대요."},
+  {"type": "order", "q": "Sắp xếp thành câu: Tôi trải chiếu ngồi ở công viên.", "tokens": ["공원에", "돗자리를", "펴고", "앉았어요"], "answer": "공원에 돗자리를 펴고 앉았어요", "explain": "돗자리를 펴다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Theo thời sự, mai trời mưa.", "answer": ["뉴스에 따르면 내일 비가 온대요.", "뉴스에 따르면 내일 비가 온다고 해요."], "explain": "에 따르면."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Hãy đặt nhiệt độ làm mát ở 26 độ.", "answer": ["냉방 온도를 26도로 맞추세요.", "냉방 온도를 26도로 하세요."], "explain": "맞추다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Ở biển có nhiều sinh vật.", "answer": ["바다에는 다양한 생물이 살아요.", "바다에는 많은 생물이 살아요.", "바다에 생물이 많이 살아요."], "explain": "생물."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "환경 단체의 보고서에 따르면 매년 축구장 수천 개 크기의 열대우림이 사라지고 있어요. 이 때문에 생물들이 살 곳을 잃고 있대요.", "answer": "Theo báo cáo của tổ chức môi trường, mỗi năm rừng mưa nhiệt đới rộng bằng hàng nghìn sân bóng đá đang biến mất. Vì vậy nghe nói các sinh vật đang mất nơi sống.", "explain": "에 따르면 + 대요."},
+  {"type": "read", "q": "Chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)", "kr": "남자: 요즘 너무 더워서 밤에 잠을 못 자겠어요.\n여자: 열대야 현상 때문이에요. 뉴스에 따르면 다음 주까지 계속된대요.\n남자: ( ___ )", "options": ["정말요? 그럼 에어컨을 좀 더 켜야겠네요.", "생태계가 파괴됐어요.", "비행기가 연착했어요.", "돗자리를 샀어요."], "answer": "정말요? 그럼 에어컨을 좀 더 켜야겠네요.", "explain": "Phản ứng tự nhiên với tin nắng nóng kéo dài."},
+  {"type": "read", "q": "Sắp xếp các câu theo thứ tự đúng. (Dạng TOPIK II câu 13~15)", "kr": "(가) 그 결과 숲이 점점 사라지고 사막이 넓어지고 있다.\n(나) 이 때문에 봄마다 한국에도 황사가 날아온다.\n(다) 중국과 몽골에서는 사람들이 나무를 많이 베었다.\n(라) 그래서 한국과 중국은 함께 나무를 심는 활동을 하고 있다.", "options": ["(다)-(가)-(나)-(라)", "(가)-(다)-(나)-(라)", "(다)-(나)-(가)-(라)", "(나)-(다)-(가)-(라)"], "answer": "(다)-(가)-(나)-(라)", "explain": "Chặt cây (다) → sa mạc hóa (가) → bụi vàng (나) → giải pháp (라)."}
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "id": "bai-176",
+ "lesson": "Bài 176",
+ "title": "Thành ngữ tục ngữ (phần 1/3)",
+ "krTitle": "속담과 관용어 1",
+ "date": "2027-07-31",
+ "day": 255,
+ "source": "TOPIK 5 – Bài 7: Thành ngữ tục ngữ (phần 1/3)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "교훈",
+   "Gyohun",
+   "Sự giáo huấn",
+   "이 이야기에는 중요한 교훈이 담겨 있어요.",
+   "Câu chuyện này chứa đựng một bài học quan trọng."
+  ],
+  [
+   "해학",
+   "Haehak",
+   "Sự hài hước, tính hài hước",
+   "탈춤에는 한국 사람의 해학이 잘 나타나 있어요.",
+   "Múa mặt nạ thể hiện rõ sự hài hước của người Hàn."
+  ],
+  [
+   "비판",
+   "Bipan",
+   "Sự phê phán",
+   "그 정책에 대한 비판이 많아요.",
+   "Có nhiều lời phê phán về chính sách đó."
+  ],
+  [
+   "비유",
+   "Biyu",
+   "Lối ẩn dụ, lối mượn hình ảnh để so sánh",
+   "인생을 여행에 비유하는 경우가 많아요.",
+   "Người ta thường ví cuộc đời như một chuyến đi."
+  ],
+  [
+   "풍자",
+   "Pungja",
+   "Sự trào phúng",
+   "이 소설은 사회를 풍자하고 있어요.",
+   "Cuốn tiểu thuyết này châm biếm xã hội."
+  ],
+  [
+   "격언",
+   "Gyeogeon",
+   "Cách ngôn",
+   "'시간은 금이다'는 유명한 격언이에요.",
+   "'Thời gian là vàng' là một câu cách ngôn nổi tiếng."
+  ],
+  [
+   "가는 말이 고와야 오는 말도 곱다",
+   "Ganeun mari gowaya oneun maldo gopda",
+   "Lời nói đi có êm ái thì lời nói về mới nhẹ nhàng",
+   "가는 말이 고와야 오는 말도 곱다고 하잖아요. 먼저 친절하게 말해 보세요.",
+   "Lời nói đi có đẹp thì lời nói lại mới đẹp mà. Hãy thử nói tử tế trước đi."
+  ],
+  [
+   "낮말은 새가 듣고 밤말은 쥐가 듣는다",
+   "Nanmareun saega deutgo bammareun jwiga deunneunda",
+   "Lời ban ngày có chim nghe, lời nói ban đêm có chuột nghe (tai vách mạch rừng)",
+   "낮말은 새가 듣고 밤말은 쥐가 듣는다고 하니까 말조심하세요.",
+   "Tai vách mạch rừng nên hãy cẩn thận lời nói."
+  ],
+  [
+   "말 한 마디로 천 냥빚을 갚는다",
+   "Mal han madiro cheon nyangbijeul gamneunda",
+   "Một lời nói trả được món nợ ngàn vàng (chim khôn hót tiếng rảnh rang, người khôn nói tiếng dịu dàng dễ nghe)",
+   "말 한 마디로 천 냥빚을 갚는다고 하잖아요. 사과부터 하세요.",
+   "Một lời nói trả được nợ ngàn lượng mà. Hãy xin lỗi trước đã."
+  ],
+  [
+   "말이 씨가 된다",
+   "Mari ssiga doenda",
+   "Lời nói trở thành hạt giống (thận trọng trong lời nói, nếu nói điều xấu thì điều đó có thể trở thành sự thật)",
+   "말이 씨가 된다고 하니까 나쁜 말은 하지 마세요.",
+   "Lời nói thành hạt giống nên đừng nói điều xấu."
+  ],
+  [
+   "발 없는 말이 천 리 간다",
+   "Bal eomneun mari cheon ri ganda",
+   "Lời nói không chân mà đi ngàn dặm",
+   "발 없는 말이 천 리 간다고 소문이 벌써 다 퍼졌어요.",
+   "Đúng là lời nói không chân đi ngàn dặm, tin đồn đã lan khắp rồi."
+  ],
+  [
+   "호랑이도 제 말 하면 온다",
+   "Horangido je mal hamyeon onda",
+   "Con hổ mà nghe nói về nó cũng tìm đến (vừa nhắc Tào Tháo thì Tào Tháo đến)",
+   "호랑이도 제 말 하면 온다고 하잖아요. 마침 민수 씨가 왔네요.",
+   "Đúng là nhắc Tào Tháo thì Tào Tháo đến, Min-su vừa tới kìa."
+  ],
+  [
+   "개구리 올챙이 적 생각 못 한다",
+   "Gaeguri olchaengi jeok saenggak mot handa",
+   "Con ếch không nghĩ đến lúc còn là nòng nọc (bản thân cũng đã từng trải qua những giai đoạn khó khăn, thiếu kinh nghiệm nhưng giờ lại chê trách người khác vì điều đó)",
+   "개구리 올챙이 적 생각 못 한다고, 그분은 신입 때를 잊었나 봐요.",
+   "Đúng là ếch quên thời nòng nọc, có vẻ anh ấy đã quên thời còn là nhân viên mới."
+  ],
+  [
+   "고래 싸움에 새우 등 터진다",
+   "Gorae ssaume saeu deung teojinda",
+   "Cá voi đánh nhau, tôm vỡ lưng (trâu bò húc nhau, ruồi muỗi chết)",
+   "고래 싸움에 새우 등 터진다고 부모님이 싸우면 아이가 힘들어요.",
+   "Trâu bò húc nhau ruồi muỗi chết, bố mẹ cãi nhau thì con cái khổ."
+  ],
+  [
+   "닭 잡아먹고 오리발 내민다",
+   "Dak jabameokgo oribal naeminda",
+   "Bắt gà ăn thịt rồi chìa ra chân vịt (giấu đầu hở đuôi, cố chối quanh một điều gì đó, nói dối, biện minh cho hành động nào đó)",
+   "케이크를 먹고 안 먹었다고 해요? 닭 잡아먹고 오리발 내미는 거네요.",
+   "Ăn bánh rồi mà bảo không ăn à? Đúng là chối quanh rồi."
+  ],
+  [
+   "원숭이도 나무에서 떨어질 때가 있다",
+   "Wonsungido namueseo tteoreojil ttaega itda",
+   "Con khỉ cũng có lúc té cây (thuần thục lắm cũng có khi sai sót)",
+   "원숭이도 나무에서 떨어질 때가 있으니까 너무 실망하지 마세요.",
+   "Khỉ còn có lúc rơi khỏi cây nên đừng quá thất vọng."
+  ],
+  [
+   "꿩 먹고 알 먹고",
+   "Kkwong meokgo al meokgo",
+   "Ăn chim trĩ và ăn luôn cả trứng (một công đôi việc, một ná hai chim)",
+   "운동도 하고 돈도 아끼고, 꿩 먹고 알 먹고네요.",
+   "Vừa tập thể dục vừa tiết kiệm tiền, đúng là một công đôi việc."
+  ],
+  [
+   "우물 안의 개구리",
+   "Umul anui gaeguri",
+   "Ếch ngồi đáy giếng",
+   "여행을 많이 해 보니까 제가 우물 안의 개구리였다는 걸 알았어요.",
+   "Đi du lịch nhiều rồi tôi mới biết mình từng là ếch ngồi đáy giếng."
+  ],
+  [
+   "가슴을 치다",
+   "Gaseumeul chida",
+   "Đấm vào ngực (hối hận, đau buồn)",
+   "시험을 망치고 나서 가슴을 쳤어요.",
+   "Sau khi làm hỏng bài thi, tôi đã đấm ngực hối hận."
+  ],
+  [
+   "눈길을 끌다",
+   "Nungireul kkeulda",
+   "Lôi cuốn tầm nhìn (gây chú ý)",
+   "그 광고는 사람들의 눈길을 끌었어요.",
+   "Quảng cáo đó đã thu hút sự chú ý của mọi người."
+  ],
+  [
+   "눈 가리고 아웅",
+   "Nun garigo aung",
+   "Bịt mắt giả mèo kêu (lấy vải thưa che mắt thánh; cố đánh lừa một điều mà điều đó chắc sẽ bị phát hiện)",
+   "그렇게 숨기는 건 눈 가리고 아웅이에요. 다 알아요.",
+   "Giấu như vậy là lấy vải thưa che mắt thánh thôi. Ai cũng biết."
+  ],
+  [
+   "배보다 배꼽이 크다",
+   "Baeboda baekkobi keuda",
+   "Cái rốn to hơn cái bụng (một đồng gà ba đồng thóc, số tiền phải trả to hơn giá trị thực món hàng nhưng lại vì một chi phí khác)",
+   "택배비가 물건값보다 비싸요. 배보다 배꼽이 크네요.",
+   "Phí ship đắt hơn giá đồ. Đúng là một đồng gà ba đồng thóc."
+  ],
+  [
+   "손이 크다",
+   "Soni keuda",
+   "Tay to (luôn chuẩn bị nhiều hơn cần thiết; rộng rãi, hào phóng)",
+   "우리 어머니는 손이 커서 음식을 항상 많이 하세요.",
+   "Mẹ tôi rộng tay nên lúc nào cũng nấu thật nhiều đồ ăn."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Nhắc Tào Tháo, Tào Tháo đến'?",
+   "kr": "",
+   "options": [
+    "호랑이도 제 말 하면 온다",
+    "말이 씨가 된다",
+    "꿩 먹고 알 먹고"
+   ],
+   "answer": "호랑이도 제 말 하면 온다",
+   "explain": "Nói về con hổ thì hổ đến."
+  },
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Tai vách mạch rừng'?",
+   "kr": "",
+   "options": [
+    "낮말은 새가 듣고 밤말은 쥐가 듣는다",
+    "발 없는 말이 천 리 간다",
+    "가는 말이 고와야 오는 말도 곱다"
+   ],
+   "answer": "낮말은 새가 듣고 밤말은 쥐가 듣는다",
+   "explain": "Ban ngày chim nghe, ban đêm chuột nghe."
+  },
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Ếch ngồi đáy giếng'?",
+   "kr": "",
+   "options": [
+    "우물 안의 개구리",
+    "개구리 올챙이 적 생각 못 한다",
+    "원숭이도 나무에서 떨어질 때가 있다"
+   ],
+   "answer": "우물 안의 개구리",
+   "explain": "우물 = cái giếng."
+  },
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Một công đôi việc / một mũi tên trúng hai đích'?",
+   "kr": "",
+   "options": [
+    "꿩 먹고 알 먹고",
+    "배보다 배꼽이 크다",
+    "눈 가리고 아웅"
+   ],
+   "answer": "꿩 먹고 알 먹고",
+   "explain": "Ăn chim trĩ, ăn luôn trứng."
+  },
+  {
+   "type": "choice",
+   "q": "Phí sửa đắt hơn cả giá mua mới. Dùng câu nào?",
+   "kr": "",
+   "options": [
+    "배보다 배꼽이 크다",
+    "손이 크다",
+    "말이 씨가 된다"
+   ],
+   "answer": "배보다 배꼽이 크다",
+   "explain": "Cái rốn to hơn cái bụng = phụ lớn hơn chính."
+  },
+  {
+   "type": "choice",
+   "q": "Người lớn cãi nhau, người nhỏ chịu thiệt. Dùng câu nào?",
+   "kr": "",
+   "options": [
+    "고래 싸움에 새우 등 터진다",
+    "닭 잡아먹고 오리발 내민다",
+    "호랑이도 제 말 하면 온다"
+   ],
+   "answer": "고래 싸움에 새우 등 터진다",
+   "explain": "Cá voi đánh nhau, tôm vỡ lưng."
+  },
+  {
+   "type": "choice",
+   "q": "Người giỏi cũng có lúc sai. Dùng câu nào?",
+   "kr": "",
+   "options": [
+    "원숭이도 나무에서 떨어질 때가 있다",
+    "우물 안의 개구리",
+    "가슴을 치다"
+   ],
+   "answer": "원숭이도 나무에서 떨어질 때가 있다",
+   "explain": "Khỉ cũng có lúc rơi khỏi cây."
+  },
+  {
+   "type": "choice",
+   "q": "Làm sai rồi chối quanh một cách vụng về. Dùng câu nào?",
+   "kr": "",
+   "options": [
+    "닭 잡아먹고 오리발 내민다",
+    "꿩 먹고 알 먹고",
+    "눈길을 끌다"
+   ],
+   "answer": "닭 잡아먹고 오리발 내민다",
+   "explain": "Ăn gà rồi chìa chân vịt ra (bảo là vịt)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mẹ tôi rộng tay nên lúc nào cũng nấu nhiều.",
+   "kr": "우리 어머니는 ___이 커서 음식을 항상 많이 하세요.",
+   "answer": [
+    "손"
+   ],
+   "explain": "손이 크다 = rộng rãi, làm nhiều."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Quảng cáo đó đã thu hút sự chú ý của mọi người.",
+   "kr": "그 광고는 사람들의 ___을 끌었어요.",
+   "answer": [
+    "눈길"
+   ],
+   "explain": "눈길을 끌다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Lời nói đi có đẹp thì lời nói lại mới đẹp.",
+   "kr": "가는 말이 ___ 오는 말도 곱다.",
+   "answer": [
+    "고와야"
+   ],
+   "explain": "곱다 → 고와야 (bất quy tắc ㅂ)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Lời nói không chân mà đi ngàn dặm.",
+   "kr": "___ 없는 말이 천 리 간다.",
+   "answer": [
+    "발"
+   ],
+   "explain": "말 (lời nói) / 말 (con ngựa) — chơi chữ, 'ngựa không chân'."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu tục ngữ: Lời nói trở thành hạt giống.",
+   "tokens": [
+    "말이",
+    "씨가",
+    "된다"
+   ],
+   "answer": "말이 씨가 된다",
+   "explain": "씨 = hạt giống."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sau khi làm hỏng bài thi, tôi đã đấm ngực hối hận.",
+   "tokens": [
+    "시험을",
+    "망치고",
+    "나서",
+    "가슴을",
+    "쳤어요"
+   ],
+   "answer": "시험을 망치고 나서 가슴을 쳤어요",
+   "explain": "가슴을 치다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Lời nói thành hạt giống nên đừng nói điều xấu.",
+   "answer": [
+    "말이 씨가 된다고 하니까 나쁜 말은 하지 마세요.",
+    "말이 씨가 되니까 나쁜 말은 하지 마세요.",
+    "말이 씨가 된다고 하니까 나쁜 말을 하지 마세요."
+   ],
+   "explain": "Trích tục ngữ: ~다고 하니까."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Quảng cáo đó đã thu hút sự chú ý của mọi người.",
+   "answer": [
+    "그 광고는 사람들의 눈길을 끌었어요.",
+    "그 광고가 사람들의 눈길을 끌었어요."
+   ],
+   "explain": "눈길을 끌다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Phí ship đắt hơn giá đồ.",
+   "answer": [
+    "택배비가 물건값보다 비싸요.",
+    "배송비가 물건값보다 비싸요.",
+    "택배비가 물건 값보다 비싸요."
+   ],
+   "explain": "N보다 비싸다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "속담에는 조상들의 교훈과 해학이 담겨 있다. 예를 들어 '말 한 마디로 천 냥 빚을 갚는다'는 말을 잘하는 것이 얼마나 중요한지 비유적으로 보여 준다.",
+   "answer": "Tục ngữ chứa đựng bài học và sự hài hước của tổ tiên. Ví dụ, câu 'một lời nói trả được nợ ngàn lượng' cho thấy một cách ẩn dụ việc khéo ăn nói quan trọng đến nhường nào.",
+   "explain": "교훈, 해학, 얼마나 …는지, 비유적."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn bức tranh/tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "여자: 어, 지금 마침 민수 씨 이야기를 하고 있었는데!\n남자: 정말요? 무슨 이야기를 했는데요?\n여자: 호랑이도 제 말 하면 온다는 말이 딱 맞네요.",
+   "options": [
+    "두 사람이 이야기하던 중에 민수가 들어왔다.",
+    "민수가 호랑이를 보았다.",
+    "여자가 민수에게 화를 내고 있다.",
+    "민수가 동물원에 갔다."
+   ],
+   "answer": "두 사람이 이야기하던 중에 민수가 들어왔다.",
+   "explain": "Đang nhắc thì người đó tới."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu tục ngữ phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "요즘은 SNS 때문에 소문이 아주 빨리 퍼진다. 한 사람이 올린 글이 하루 만에 전국으로 퍼지기도 한다. (     )는 속담처럼 말은 빠르게 멀리 가기 때문에 인터넷에 글을 쓸 때는 조심해야 한다.",
+   "options": [
+    "발 없는 말이 천 리 간다",
+    "꿩 먹고 알 먹고",
+    "배보다 배꼽이 크다",
+    "손이 크다"
+   ],
+   "answer": "발 없는 말이 천 리 간다",
+   "explain": "Tin đồn lan xa nhanh."
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "id": "bai-173",
+ "lesson": "Bài 173",
+ "title": "Nhân vật lịch sử (phần 2/4)",
+ "krTitle": "역사 속 인물 2",
+ "date": "2027-07-26",
+ "day": 250,
+ "source": "TOPIK 5 – Bài 6: Nhân vật lịch sử (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "일대기",
+   "Ildaegi",
+   "Câu chuyện cả cuộc đời (một người)",
+   "이 책은 이순신 장군의 일대기를 다뤘어요.",
+   "Cuốn sách này kể về cả cuộc đời tướng quân Yi Sun-sin."
+  ],
+  [
+   "평전",
+   "Pyeongjeon",
+   "Tiểu sử kèm bình luận",
+   "그 작가의 평전이 새로 나왔어요.",
+   "Cuốn tiểu sử bình luận về nhà văn đó mới ra."
+  ],
+  [
+   "초상화",
+   "Chosanghwa",
+   "Tranh chân dung",
+   "박물관에서 세종대왕의 초상화를 봤어요.",
+   "Tôi đã xem tranh chân dung vua Sejong ở bảo tàng."
+  ],
+  [
+   "자서전",
+   "Jaseojeon",
+   "Tự truyện",
+   "그는 은퇴 후에 자서전을 썼어요.",
+   "Ông ấy viết tự truyện sau khi nghỉ hưu."
+  ],
+  [
+   "영정",
+   "Yeongjeong",
+   "Ảnh thờ, chân dung",
+   "사당에 장군의 영정이 모셔져 있어요.",
+   "Chân dung thờ của vị tướng được đặt ở từ đường."
+  ],
+  [
+   "맹모삼천",
+   "Maengmosamcheon",
+   "Mạnh mẫu tam thiên (việc nào mẹ cũng làm để cho con đời sống tốt)",
+   "맹모삼천이라는 말처럼 부모는 교육 환경을 중요하게 생각해요.",
+   "Như câu 'Mạnh mẫu tam thiên', cha mẹ coi trọng môi trường giáo dục."
+  ],
+  [
+   "청출어람",
+   "Cheongchureoram",
+   "Thanh xuất ư lam (học trò khá hơn, giỏi hơn thầy)",
+   "제자가 스승보다 뛰어나니 청출어람이네요.",
+   "Học trò giỏi hơn thầy, đúng là thanh xuất ư lam."
+  ],
+  [
+   "영웅호걸",
+   "Yeongunghogeol",
+   "Anh hùng hào kiệt",
+   "옛날이야기에는 영웅호걸이 많이 나와요.",
+   "Trong truyện xưa có nhiều anh hùng hào kiệt."
+  ],
+  [
+   "대가",
+   "Daega",
+   "Bậc thầy; cái giá phải trả",
+   "그는 한국 음악의 대가예요.",
+   "Ông ấy là bậc thầy âm nhạc Hàn Quốc."
+  ],
+  [
+   "군계일학",
+   "Gungyeilhak",
+   "Quần kê nhất hạc (một người xuất chúng trong vạn người bình thường)",
+   "그 학생은 반에서 군계일학이에요.",
+   "Học sinh đó nổi bật nhất lớp như hạc giữa bầy gà."
+  ],
+  [
+   "입신양명",
+   "Ipsinyangmyeong",
+   "Lập thế dương danh (ra đời, xây dựng sự nghiệp, lưu tên hậu thế)",
+   "옛날 선비들은 입신양명을 꿈꿨어요.",
+   "Các nho sĩ xưa mơ ước lập thân dương danh."
+  ],
+  [
+   "개천에서 용 난다",
+   "Gaecheoneseo yong nanda",
+   "Rồng bay ra từ suối nhỏ (xuất thân nghèo khó mà thành đạt)",
+   "개천에서 용 난다는 말이 이제는 어려워졌어요.",
+   "Câu 'rồng bay ra từ suối nhỏ' giờ đã khó thành hiện thực."
+  ],
+  [
+   "가이드라인",
+   "Gaideurain",
+   "Nguyên tắc chỉ đạo, đường lối chỉ đạo (guideline)",
+   "정부가 새로운 가이드라인을 발표했어요.",
+   "Chính phủ đã công bố hướng dẫn mới."
+  ],
+  [
+   "감염성 질병",
+   "Gamyeomseong jilbyeong",
+   "Bệnh truyền nhiễm",
+   "감염성 질병을 막으려면 손을 자주 씻어야 해요.",
+   "Muốn ngăn bệnh truyền nhiễm thì phải rửa tay thường xuyên."
+  ],
+  [
+   "거북선",
+   "Geobukseon",
+   "Thuyền con rùa",
+   "이순신 장군은 거북선으로 전쟁에서 이겼어요.",
+   "Tướng Yi Sun-sin đã thắng trận nhờ thuyền rùa."
+  ],
+  [
+   "고매하다",
+   "Gomaehada",
+   "Cao thượng, cao quý",
+   "그분은 인품이 고매한 학자였어요.",
+   "Ông ấy là học giả có nhân cách cao quý."
+  ],
+  [
+   "고취시키다",
+   "Gochwisikida",
+   "Khơi dậy, cổ vũ (tinh thần)",
+   "그의 연설은 국민들의 애국심을 고취시켰어요.",
+   "Bài diễn văn của ông đã khơi dậy lòng yêu nước của nhân dân."
+  ],
+  [
+   "구제하다",
+   "Gujehada",
+   "Cứu tế, giúp đỡ",
+   "그는 가난한 사람들을 구제하는 데 평생을 바쳤어요.",
+   "Ông đã cống hiến cả đời để cứu giúp người nghèo."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 다시피 — Như đã",
+   "meaning": "Nghĩa: 'như (bạn) đã …', dẫn ra điều mà người nghe ĐÃ BIẾT / ĐÃ THẤY / ĐÃ NGHE để làm căn cứ cho câu sau. Gắn vào thân động từ chỉ nhận thức: 알다 → 알다시피, 보다 → 보다시피, 듣다 → 듣다시피, 느끼다 → 느끼다시피, 배우다 → 배웠다시피. Dạng kính ngữ rất hay dùng khi nói trước đám đông: 아시다시피 (như quý vị đã biết), 보시다시피 (như quý vị thấy), 말씀드렸다시피 (như tôi đã thưa). Có thể dùng quá khứ: 들었다시피, 말했다시피. Không dùng với tính từ. Nghĩa thứ hai (ít gặp hơn, cố định): V + 다시피 하다 = 'gần như, hầu như': 매일 도서관에서 살다시피 했어요 (gần như sống ở thư viện mỗi ngày).",
+   "examples": [
+    "아시다시피 세종대왕은 한글을 만드셨습니다. — Như quý vị đã biết, vua Sejong đã tạo ra Hangeul.",
+    "보시다시피 이 초상화는 아주 오래되었습니다. — Như quý vị thấy, bức chân dung này rất cũ.",
+    "지난번에 말씀드렸다시피 회의는 다음 주로 바뀌었어요. — Như lần trước tôi đã thưa, cuộc họp đổi sang tuần sau.",
+    "시험 기간에는 도서관에서 살다시피 했어요. — Mùa thi tôi gần như sống ở thư viện."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Sách do chính người đó viết về cuộc đời mình gọi là gì?",
+   "kr": "",
+   "options": [
+    "자서전",
+    "평전",
+    "초상화"
+   ],
+   "answer": "자서전",
+   "explain": "자(自: tự) + 서전 → tự truyện."
+  },
+  {
+   "type": "choice",
+   "q": "Thành ngữ nghĩa là 'học trò giỏi hơn thầy'?",
+   "kr": "",
+   "options": [
+    "청출어람",
+    "맹모삼천",
+    "입신양명"
+   ],
+   "answer": "청출어람",
+   "explain": "청출어람: màu xanh từ màu chàm mà ra nhưng xanh hơn chàm."
+  },
+  {
+   "type": "choice",
+   "q": "Thành ngữ chỉ 'một người xuất chúng giữa đám đông bình thường'?",
+   "kr": "",
+   "options": [
+    "군계일학",
+    "영웅호걸",
+    "청출어람"
+   ],
+   "answer": "군계일학",
+   "explain": "군계일학 = hạc giữa bầy gà."
+  },
+  {
+   "type": "choice",
+   "q": "'개천에서 용 난다' nói về điều gì?",
+   "kr": "",
+   "options": [
+    "Người xuất thân nghèo khó mà thành công lớn",
+    "Người giàu càng giàu thêm",
+    "Rồng sống ở dưới suối",
+    "Học trò giỏi hơn thầy"
+   ],
+   "answer": "Người xuất thân nghèo khó mà thành công lớn",
+   "explain": "개천 = con suối nhỏ, nơi tầm thường."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói ĐÚNG khi phát biểu: 'Như quý vị đã biết, …'",
+   "kr": "",
+   "options": [
+    "아시다시피",
+    "알으시다시피",
+    "아신다시피"
+   ],
+   "answer": "아시다시피",
+   "explain": "알다 → 아시다 → 아시다시피."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG ngữ pháp.",
+   "kr": "",
+   "options": [
+    "보시다시피 이 그림은 아주 오래됐어요.",
+    "예쁘다시피 이 그림은 아주 오래됐어요.",
+    "보시다시피 이 그림은 오래됐다시피."
+   ],
+   "answer": "보시다시피 이 그림은 아주 오래됐어요.",
+   "explain": "다시피 không dùng với tính từ (예쁘다)."
+  },
+  {
+   "type": "choice",
+   "q": "'매일 도서관에서 살다시피 했어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Ngày nào tôi cũng gần như sống ở thư viện.",
+    "Như đã biết, tôi sống ở thư viện.",
+    "Tôi muốn sống ở thư viện."
+   ],
+   "answer": "Ngày nào tôi cũng gần như sống ở thư viện.",
+   "explain": "V다시피 하다 = gần như, hầu như."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tướng Yi Sun-sin thắng trận nhờ thuyền rùa.",
+   "kr": "이순신 장군은 ___으로 전쟁에서 이겼어요.",
+   "options": [
+    "거북선",
+    "영정",
+    "가이드라인"
+   ],
+   "answer": "거북선",
+   "explain": "거북 = con rùa; 선 = thuyền."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다시피 (quá khứ) với 말하다: Như tôi đã nói, cuộc họp đổi sang tuần sau.",
+   "kr": "제가 ___ 회의는 다음 주로 바뀌었어요.",
+   "answer": [
+    "말했다시피"
+   ],
+   "explain": "말하다 → 말했다시피."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다시피 với 듣다 (kính ngữ): Như quý vị đã nghe, …",
+   "kr": "___ 이번 행사는 취소되었습니다.",
+   "answer": [
+    "들으셨다시피",
+    "들으시다시피"
+   ],
+   "explain": "듣다 (bất quy tắc ㄷ) → 들으시다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ông ấy là bậc thầy âm nhạc Hàn Quốc.",
+   "kr": "그는 한국 음악의 ___예요.",
+   "answer": [
+    "대가"
+   ],
+   "explain": "대가 = bậc thầy."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chính phủ đã công bố hướng dẫn mới.",
+   "kr": "정부가 새로운 ___을 발표했어요.",
+   "answer": [
+    "가이드라인"
+   ],
+   "explain": "가이드라인 = guideline."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Như quý vị đã biết, vua Sejong đã tạo ra Hangeul.",
+   "tokens": [
+    "아시다시피",
+    "세종대왕은",
+    "한글을",
+    "만드셨습니다"
+   ],
+   "answer": "아시다시피 세종대왕은 한글을 만드셨습니다",
+   "explain": "아시다시피 đứng đầu câu."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ông đã cống hiến cả đời để cứu giúp người nghèo.",
+   "tokens": [
+    "그는",
+    "가난한",
+    "사람들을",
+    "구제하는",
+    "데",
+    "평생을",
+    "바쳤어요"
+   ],
+   "answer": "그는 가난한 사람들을 구제하는 데 평생을 바쳤어요",
+   "explain": "V는 데 평생을 바치다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Như quý vị thấy, bức chân dung này rất cũ.",
+   "answer": [
+    "보시다시피 이 초상화는 아주 오래되었습니다.",
+    "보시다시피 이 초상화는 아주 오래됐어요.",
+    "보시다시피 이 초상화는 매우 오래되었습니다.",
+    "보시다시피 이 초상화는 아주 오래되었어요."
+   ],
+   "explain": "보시다시피."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ông ấy viết tự truyện sau khi nghỉ hưu.",
+   "answer": [
+    "그는 은퇴 후에 자서전을 썼어요.",
+    "그는 은퇴한 후에 자서전을 썼어요.",
+    "그분은 은퇴 후에 자서전을 쓰셨어요."
+   ],
+   "explain": "은퇴 후에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Muốn ngăn bệnh truyền nhiễm thì phải rửa tay thường xuyên.",
+   "answer": [
+    "감염성 질병을 막으려면 손을 자주 씻어야 해요.",
+    "감염성 질병을 예방하려면 손을 자주 씻어야 해요."
+   ],
+   "explain": "(으)려면 + 아/어야 하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "여러분도 아시다시피 이순신 장군은 거북선을 만들어 나라를 지켰습니다. 그의 일대기는 지금도 많은 사람들에게 감동을 줍니다.",
+   "answer": "Như các bạn cũng đã biết, tướng Yi Sun-sin đã làm ra thuyền rùa và bảo vệ đất nước. Câu chuyện cuộc đời ông đến nay vẫn làm xúc động nhiều người.",
+   "explain": "아시다시피, 일대기."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nơi người đàn ông đang ở. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 보시다시피 이 방에는 조선 시대 왕들의 초상화가 있습니다. 사진은 찍으셔도 되지만 플래시는 사용하시면 안 됩니다.\n남자: 네, 알겠습니다. 이 그림이 세종대왕의 초상화인가요?\n여자: 네, 맞습니다.",
+   "options": [
+    "박물관",
+    "병원",
+    "서점",
+    "학교 교실"
+   ],
+   "answer": "박물관",
+   "explain": "초상화가 있는 방, 사진 촬영 규칙 → bảo tàng."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "맹모삼천은 맹자의 어머니가 아들의 교육을 위해 세 번이나 이사를 했다는 이야기에서 나온 말이다. 처음에는 묘지 근처, 다음에는 시장 근처에 살았지만 아들이 나쁜 것을 따라 하자 마지막으로 서당 근처로 이사했다. 이 말은 교육에서 환경이 중요하다는 것을 보여 준다.",
+   "options": [
+    "맹자의 어머니는 교육 환경 때문에 세 번 이사했다.",
+    "맹자는 처음부터 서당 근처에 살았다.",
+    "맹자의 어머니는 시장에서 일했다.",
+    "이 이야기는 돈의 중요성을 말한다."
+   ],
+   "answer": "맹자의 어머니는 교육 환경 때문에 세 번 이사했다.",
+   "explain": "세 번이나 이사 → 환경이 중요."
+  }
+ ]
+}

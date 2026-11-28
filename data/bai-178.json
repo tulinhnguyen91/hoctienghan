@@ -1,0 +1,410 @@
+{
+ "id": "bai-178",
+ "lesson": "Bài 178",
+ "title": "Thành ngữ tục ngữ (phần 3/3)",
+ "krTitle": "속담과 관용어 3",
+ "date": "2027-08-03",
+ "day": 258,
+ "source": "TOPIK 5 – Bài 7: Thành ngữ tục ngữ (phần 3/3)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "부풀려지다",
+   "Bupullyeojida",
+   "Bị thổi phồng lên",
+   "작은 사건이 언론 때문에 부풀려졌어요.",
+   "Sự việc nhỏ đã bị báo chí thổi phồng."
+  ],
+  [
+   "뻔히",
+   "Ppeonhi",
+   "Một cách rõ ràng",
+   "거짓말인 줄 뻔히 알면서도 속았어요.",
+   "Biết rõ là nói dối mà vẫn bị lừa."
+  ],
+  [
+   "비 온 뒤에 땅이 굳어진다",
+   "Bi on dwie ttangi gudeojinda",
+   "Sau khi mưa thì đất chắc hơn (lửa thử vàng, gian nan thử sức)",
+   "비 온 뒤에 땅이 굳어진다고 싸운 후에 더 친해졌어요.",
+   "Sau mưa đất cứng, cãi nhau xong lại thân hơn."
+  ],
+  [
+   "사은품",
+   "Saeunpum",
+   "Tặng phẩm, quà tặng khuyến mãi",
+   "이 제품을 사면 사은품을 드려요.",
+   "Mua sản phẩm này sẽ được tặng quà."
+  ],
+  [
+   "서민",
+   "Seomin",
+   "Dân thường",
+   "물가가 올라서 서민들의 생활이 힘들어요.",
+   "Giá cả tăng nên cuộc sống người dân thường vất vả."
+  ],
+  [
+   "속셈",
+   "Soksem",
+   "Ý đồ, mưu đồ",
+   "그 사람의 속셈을 모르겠어요.",
+   "Tôi không biết ý đồ của người đó."
+  ],
+  [
+   "슬쩍",
+   "Seuljjeok",
+   "Lén, khẽ, nhẹ nhàng",
+   "그는 슬쩍 교실에서 나갔어요.",
+   "Cậu ấy lén ra khỏi lớp."
+  ],
+  [
+   "시작이 반이다",
+   "Sijagi banida",
+   "Bắt đầu đã là một nửa (bắt đầu khởi sự là đã thành công một nửa)",
+   "시작이 반이라고 일단 시작해 보세요.",
+   "Có câu bắt đầu là đã xong một nửa, cứ bắt đầu thử đi."
+  ],
+  [
+   "시중",
+   "Sijung",
+   "Trên thị trường",
+   "이 제품은 시중에서 쉽게 살 수 있어요.",
+   "Sản phẩm này có thể dễ dàng mua trên thị trường."
+  ],
+  [
+   "신중하다",
+   "Sinjunghada",
+   "Thận trọng",
+   "중요한 결정은 신중하게 해야 해요.",
+   "Quyết định quan trọng phải làm thận trọng."
+  ],
+  [
+   "씀씀이",
+   "Sseumsseumi",
+   "Sự chi tiêu",
+   "월급이 오르니까 씀씀이도 커졌어요.",
+   "Lương tăng nên chi tiêu cũng lớn hơn."
+  ],
+  [
+   "연관시키다",
+   "Yeongwansikida",
+   "Làm cho có liên quan",
+   "새 단어를 아는 단어와 연관시켜서 외우세요.",
+   "Hãy liên hệ từ mới với từ đã biết để học thuộc."
+  ],
+  [
+   "옷깃",
+   "Otgit",
+   "Ve áo, gấu áo",
+   "옷깃만 스쳐도 인연이라고 해요.",
+   "Người ta nói chỉ cần chạm vạt áo cũng là duyên."
+  ],
+  [
+   "요건",
+   "Yogeon",
+   "Điều kiện",
+   "지원 요건을 먼저 확인하세요.",
+   "Hãy kiểm tra điều kiện ứng tuyển trước."
+  ],
+  [
+   "용량",
+   "Yongnyang",
+   "Dung lượng",
+   "휴대폰 용량이 부족해요.",
+   "Dung lượng điện thoại không đủ."
+  ],
+  [
+   "입에 쓴 약이 몸에 좋다",
+   "Ibe sseun yagi mome jota",
+   "Thuốc đắng thì tốt cho cơ thể (thuốc đắng giã tật)",
+   "입에 쓴 약이 몸에 좋다고 선생님의 충고를 잘 들으세요.",
+   "Thuốc đắng dã tật, hãy nghe lời khuyên của thầy."
+  ],
+  [
+   "자격증",
+   "Jagyeokjeung",
+   "Bằng cấp, chứng chỉ",
+   "취업하려고 자격증을 땄어요.",
+   "Tôi đã lấy chứng chỉ để xin việc."
+  ],
+  [
+   "저출산",
+   "Jeochulsan",
+   "Tỉ lệ sinh thấp",
+   "저출산은 한국의 큰 사회 문제예요.",
+   "Tỉ lệ sinh thấp là vấn đề xã hội lớn của Hàn Quốc."
+  ],
+  [
+   "정형화",
+   "Jeonghyeonghwa",
+   "Sự khuôn mẫu hóa, rập khuôn",
+   "정형화된 답보다 자기 생각을 쓰세요.",
+   "Hãy viết suy nghĩ của mình thay vì câu trả lời rập khuôn."
+  ],
+  [
+   "쥐구멍에도 볕 들 날 있다",
+   "Jwigumeongedo byeon deul nal itda",
+   "Trong ổ chuột cũng có ngày có nắng (không ai giàu ba họ, không ai khó ba đời, vận may có ngày sẽ đến)",
+   "쥐구멍에도 볕 들 날 있다고 언젠가는 좋은 날이 올 거예요.",
+   "Không ai khó ba đời, rồi sẽ có ngày tốt đẹp."
+  ],
+  [
+   "축소판",
+   "Chuksopan",
+   "Bản thu nhỏ",
+   "가족은 사회의 축소판이라고 해요.",
+   "Người ta nói gia đình là xã hội thu nhỏ."
+  ],
+  [
+   "천 리 길도 한 걸음부터",
+   "Cheon ri gildo han georeumbuteo",
+   "Nghìn dặm đường cũng bắt đầu từ bước một (tháp cao chín tầng cũng bắt đầu từ từng nắm đất; việc gì cũng bắt đầu từ cái nhỏ nhất)",
+   "천 리 길도 한 걸음부터라고 매일 단어 열 개씩 외워요.",
+   "Đi nghìn dặm bắt đầu từ một bước, mỗi ngày tôi học 10 từ."
+  ],
+  [
+   "후하게",
+   "Huhage",
+   "Một cách rộng rãi",
+   "그 식당은 음식을 후하게 줘요.",
+   "Quán đó cho đồ ăn rất hào phóng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)다고 — Có câu rằng",
+   "meaning": "Dẫn một CÂU TỤC NGỮ, câu nói nổi tiếng hoặc điều mọi người hay nói làm CĂN CỨ cho câu sau: 'có câu rằng… nên…, người ta nói… đúng là…'. Đây là dạng rút gọn của (ㄴ/는)다고 하듯이 / (ㄴ/는)다고 하더니. Chia như câu gián tiếp: Động từ có patchim → 는다고 (듣는다고); không patchim → ㄴ다고 (온다고, 간다고); Tính từ → 다고 (좋다고, 곱다고); Danh từ → (이)라고 (시작이 반이라고, 그림의 떡이라고). Sau đó là câu của người nói, thường áp dụng câu tục ngữ vào tình huống thực tế. Rất hay dùng trong hội thoại và đề Nghe TOPIK.",
+   "examples": [
+    "시작이 반이라고 일단 시작해 보세요. — Có câu 'bắt đầu là xong một nửa', cứ bắt đầu thử đi.",
+    "호랑이도 제 말 하면 온다고 마침 민수 씨가 왔네요. — Đúng là nhắc Tào Tháo thì Tào Tháo đến, Min-su vừa tới.",
+    "입에 쓴 약이 몸에 좋다고 충고를 잘 들으세요. — Thuốc đắng dã tật, hãy nghe lời khuyên.",
+    "비 온 뒤에 땅이 굳어진다고 싸운 후에 더 친해졌어요. — Sau mưa trời lại sáng, cãi nhau xong càng thân hơn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Thuốc đắng dã tật'?",
+   "kr": "",
+   "options": [
+    "입에 쓴 약이 몸에 좋다",
+    "시작이 반이다",
+    "천 리 길도 한 걸음부터"
+   ],
+   "answer": "입에 쓴 약이 몸에 좋다",
+   "explain": "Thuốc đắng miệng thì tốt cho cơ thể."
+  },
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ nghĩa 'không ai khó ba đời, vận may rồi sẽ đến'?",
+   "kr": "",
+   "options": [
+    "쥐구멍에도 볕 들 날 있다",
+    "비 온 뒤에 땅이 굳어진다",
+    "시작이 반이다"
+   ],
+   "answer": "쥐구멍에도 볕 들 날 있다",
+   "explain": "Hang chuột cũng có ngày có nắng."
+  },
+  {
+   "type": "choice",
+   "q": "Sau khó khăn, mối quan hệ càng bền chặt. Dùng câu nào?",
+   "kr": "",
+   "options": [
+    "비 온 뒤에 땅이 굳어진다",
+    "입에 쓴 약이 몸에 좋다",
+    "천 리 길도 한 걸음부터"
+   ],
+   "answer": "비 온 뒤에 땅이 굳어진다",
+   "explain": "Sau mưa đất cứng lại."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách dẫn tục ngữ ĐÚNG: '시작이 반이다' + khuyên bắt đầu.",
+   "kr": "",
+   "options": [
+    "시작이 반이라고 일단 해 보세요.",
+    "시작이 반이다고 일단 해 보세요.",
+    "시작이 반는다고 일단 해 보세요."
+   ],
+   "answer": "시작이 반이라고 일단 해 보세요.",
+   "explain": "Danh từ + 이다 → (이)라고."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách dẫn ĐÚNG: '천 리 길도 한 걸음부터' + 매일 조금씩 공부해요.",
+   "kr": "",
+   "options": [
+    "천 리 길도 한 걸음부터라고 매일 조금씩 공부해요.",
+    "천 리 길도 한 걸음부터다고 매일 조금씩 공부해요.",
+    "천 리 길도 한 걸음부터는다고 매일 조금씩 공부해요."
+   ],
+   "answer": "천 리 길도 한 걸음부터라고 매일 조금씩 공부해요.",
+   "explain": "Kết thúc bằng danh từ/trợ từ → 라고."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mua sản phẩm này sẽ được tặng quà.",
+   "kr": "이 제품을 사면 ___을 드려요.",
+   "options": [
+    "사은품",
+    "축소판",
+    "자격증"
+   ],
+   "answer": "사은품",
+   "explain": "사은품 = quà khuyến mãi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Dung lượng điện thoại không đủ.",
+   "kr": "휴대폰 ___이 부족해요.",
+   "options": [
+    "용량",
+    "요건",
+    "속셈"
+   ],
+   "answer": "용량",
+   "explain": "용량 = dung lượng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Quyết định quan trọng phải làm thận trọng.",
+   "kr": "중요한 결정은 ___ 해야 해요.",
+   "options": [
+    "신중하게",
+    "후하게",
+    "슬쩍"
+   ],
+   "answer": "신중하게",
+   "explain": "신중하다 = thận trọng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다고 với 굳어지다: Sau mưa đất cứng, cãi nhau xong lại thân hơn.",
+   "kr": "비 온 뒤에 땅이 ___ 싸운 후에 더 친해졌어요.",
+   "answer": [
+    "굳어진다고"
+   ],
+   "explain": "Động từ không patchim → ㄴ다고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다고 với 좋다: Thuốc đắng dã tật, hãy nghe lời khuyên.",
+   "kr": "입에 쓴 약이 몸에 ___ 충고를 잘 들으세요.",
+   "answer": [
+    "좋다고"
+   ],
+   "explain": "Tính từ → 다고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tỉ lệ sinh thấp là vấn đề xã hội lớn của Hàn Quốc.",
+   "kr": "___은 한국의 큰 사회 문제예요.",
+   "answer": [
+    "저출산"
+   ],
+   "explain": "저(thấp) + 출산(sinh)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đã lấy chứng chỉ để xin việc.",
+   "kr": "취업하려고 ___을 땄어요.",
+   "answer": [
+    "자격증"
+   ],
+   "explain": "자격증을 따다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Có câu bắt đầu là xong một nửa, cứ bắt đầu thử đi.",
+   "tokens": [
+    "시작이",
+    "반이라고",
+    "일단",
+    "시작해",
+    "보세요"
+   ],
+   "answer": "시작이 반이라고 일단 시작해 보세요",
+   "explain": "N(이)라고."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Lương tăng nên chi tiêu cũng lớn hơn.",
+   "tokens": [
+    "월급이",
+    "오르니까",
+    "씀씀이도",
+    "커졌어요"
+   ],
+   "answer": "월급이 오르니까 씀씀이도 커졌어요",
+   "explain": "씀씀이가 커지다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy kiểm tra điều kiện ứng tuyển trước.",
+   "answer": [
+    "지원 요건을 먼저 확인하세요.",
+    "지원 요건부터 확인하세요.",
+    "먼저 지원 요건을 확인하세요."
+   ],
+   "explain": "요건."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sản phẩm này có thể dễ dàng mua trên thị trường.",
+   "answer": [
+    "이 제품은 시중에서 쉽게 살 수 있어요.",
+    "이 제품은 시중에서 쉽게 구할 수 있어요.",
+    "이 제품은 시중에서 쉽게 구입할 수 있어요."
+   ],
+   "explain": "시중에서."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Quán đó cho đồ ăn rất hào phóng.",
+   "answer": [
+    "그 식당은 음식을 후하게 줘요.",
+    "그 식당은 음식을 아주 후하게 줘요.",
+    "그 식당은 음식을 정말 후하게 줘요."
+   ],
+   "explain": "후하게."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "광고에서는 제품의 장점을 부풀리는 경우가 많다. 사은품을 준다는 말에 슬쩍 넘어가지 말고 신중하게 비교한 후에 사는 것이 좋다.",
+   "answer": "Trong quảng cáo thường có trường hợp thổi phồng ưu điểm của sản phẩm. Đừng dễ dàng bị cuốn theo lời hứa tặng quà mà nên so sánh thận trọng rồi mới mua.",
+   "explain": "부풀리다, 사은품, 슬쩍, 신중하게."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "남자: 요즘 자격증 공부를 시작했는데 너무 어려워서 포기하고 싶어요.\n여자: 천 리 길도 한 걸음부터라고 하루에 조금씩만 해 보세요. 저도 그렇게 해서 작년에 자격증을 땄어요.\n남자: 그래요? 그럼 저도 오늘부터 하루에 한 시간씩 해 볼게요.",
+   "options": [
+    "여자는 작년에 자격증을 땄다.",
+    "남자는 이미 자격증이 있다.",
+    "여자는 하루에 열 시간씩 공부하라고 했다.",
+    "남자는 공부를 포기했다."
+   ],
+   "answer": "여자는 작년에 자격증을 땄다.",
+   "explain": "저도 그렇게 해서 작년에 자격증을 땄어요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "저출산 문제가 심각해지면서 정부는 다양한 지원 정책을 내놓고 있다. 그러나 지원을 받기 위한 요건이 까다로워 실제로 도움을 받는 가정은 많지 않다. 전문가들은 요건을 완화하고 서민 가정이 체감할 수 있는 정책이 필요하다고 지적한다.",
+   "options": [
+    "지원 요건이 까다로워서 혜택을 받는 가정이 적다.",
+    "저출산 문제는 해결되었다.",
+    "모든 가정이 지원을 받고 있다.",
+    "전문가들은 요건을 더 엄격하게 하자고 한다."
+   ],
+   "answer": "지원 요건이 까다로워서 혜택을 받는 가정이 적다.",
+   "explain": "요건이 까다로워 … 많지 않다."
+  }
+ ]
+}

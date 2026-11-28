@@ -1,0 +1,390 @@
+{
+ "id": "bai-171",
+ "lesson": "Bài 171",
+ "title": "Tin tức và báo chí (phần 4/4)",
+ "krTitle": "언론과 보도 4",
+ "date": "2027-07-23",
+ "day": 247,
+ "source": "TOPIK 5 – Bài 5: Tin tức và báo chí (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "성역할",
+   "Seongyeokal",
+   "Vai trò của giới tính, vai trò của phái",
+   "드라마 속 성역할이 많이 바뀌었어요.",
+   "Vai trò giới trong phim truyền hình đã thay đổi nhiều."
+  ],
+  [
+   "섹션",
+   "Seksyeon",
+   "Bộ phận, phần",
+   "저는 신문의 경제 섹션부터 읽어요.",
+   "Tôi đọc mục kinh tế của báo trước."
+  ],
+  [
+   "속보성",
+   "Sokboseong",
+   "Tính thời sự (đưa tin nhanh)",
+   "인터넷 뉴스는 속보성이 강해요.",
+   "Tin tức trên mạng có tính thời sự (đưa tin nhanh) rất cao."
+  ],
+  [
+   "순방",
+   "Sunbang",
+   "Chuyến viếng thăm, sự viếng thăm",
+   "대통령이 유럽 순방을 마치고 돌아왔어요.",
+   "Tổng thống đã kết thúc chuyến công du châu Âu và trở về."
+  ],
+  [
+   "숨지다",
+   "Sumjida",
+   "Qua đời, tử vong",
+   "교통사고로 두 명이 숨졌다고 해요.",
+   "Nghe nói hai người đã tử vong vì tai nạn giao thông."
+  ],
+  [
+   "악플",
+   "Akpeul",
+   "Câu đáp từ có ác ý, lời bình có ác ý (악성댓글)",
+   "악플 때문에 상처를 받는 연예인이 많아요.",
+   "Nhiều người nổi tiếng bị tổn thương vì bình luận ác ý."
+  ],
+  [
+   "앤틱",
+   "Aentik",
+   "Đồ cổ (antique)",
+   "그 가게는 앤틱 가구를 팔아요.",
+   "Cửa hàng đó bán đồ nội thất cổ."
+  ],
+  [
+   "오락성",
+   "Orakseong",
+   "Tính giải trí",
+   "요즘 뉴스도 오락성을 중요하게 생각해요.",
+   "Dạo này tin tức cũng coi trọng tính giải trí."
+  ],
+  [
+   "유가지",
+   "Yugaji",
+   "Báo bán, báo có tính tiền (유료 신문)",
+   "유가지 판매 부수가 계속 줄고 있어요.",
+   "Số lượng báo có thu phí bán ra liên tục giảm."
+  ],
+  [
+   "자체적으로",
+   "Jachejeogeuro",
+   "Mang tính tự mình, mang tính tự bản thân",
+   "회사가 자체적으로 조사를 시작했어요.",
+   "Công ty đã tự mình bắt đầu điều tra."
+  ],
+  [
+   "정제",
+   "Jeongje",
+   "Sự tinh lọc, gọt giũa",
+   "기사는 정제된 표현으로 써야 해요.",
+   "Bài báo phải viết bằng cách diễn đạt đã được gọt giũa."
+  ],
+  [
+   "제약",
+   "Jeyak",
+   "Sự hạn chế",
+   "시간 제약 때문에 다 보도하지 못했어요.",
+   "Vì hạn chế về thời gian nên không đưa tin hết được."
+  ],
+  [
+   "종속",
+   "Jongsok",
+   "Sự lệ thuộc, sự phụ thuộc",
+   "언론이 광고주에게 종속되면 안 돼요.",
+   "Báo chí không được lệ thuộc vào nhà quảng cáo."
+  ],
+  [
+   "주류",
+   "Juryu",
+   "Dòng chính, xu hướng chủ đạo",
+   "이제는 인터넷 언론이 주류가 됐어요.",
+   "Giờ đây báo mạng đã trở thành dòng chính."
+  ],
+  [
+   "주저하다",
+   "Jujeohada",
+   "Ngần ngại, do dự",
+   "기자는 질문하는 것을 주저하면 안 돼요.",
+   "Phóng viên không được do dự khi đặt câu hỏi."
+  ],
+  [
+   "합의점",
+   "Habuijeom",
+   "Điểm thống nhất chung",
+   "양측이 드디어 합의점을 찾았어요.",
+   "Hai bên cuối cùng đã tìm được điểm thống nhất."
+  ],
+  [
+   "해당",
+   "Haedang",
+   "Tương ứng, liên quan",
+   "해당 기사는 삭제되었습니다.",
+   "Bài báo liên quan đã bị xóa."
+  ],
+  [
+   "허물다",
+   "Heomulda",
+   "Phá bỏ, dỡ bỏ (rào cản)",
+   "세대 간의 벽을 허물어야 해요.",
+   "Phải phá bỏ bức tường giữa các thế hệ."
+  ],
+  [
+   "현장감",
+   "Hyeonjanggam",
+   "Cảm giác thật với hiện trường, cảm giác thật",
+   "생중계는 현장감이 있어서 좋아요.",
+   "Truyền hình trực tiếp hay vì có cảm giác như ở hiện trường."
+  ],
+  [
+   "희귀하다",
+   "Huigwihada",
+   "Hiếm có, quý hiếm",
+   "이 새는 아주 희귀해서 보기 어려워요.",
+   "Loài chim này rất hiếm nên khó thấy."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)다지요? — Nghe nói … phải không",
+   "meaning": "Dùng khi bạn ĐÃ NGHE ở đâu đó một thông tin và muốn HỎI LẠI người nghe để xác nhận: 'Nghe nói … phải không?'. Đây là dạng rút gọn của (ㄴ/는)다고 하지요?. Cách chia giống câu gián tiếp: Động từ có patchim → 는다지요? (먹다 → 먹는다지요?); không patchim → ㄴ다지요? (가다 → 간다지요?); Tính từ → 다지요? (춥다 → 춥다지요?); Quá khứ → 았/었다지요? (숨졌다지요?); Danh từ → (이)라지요? (기자라지요?). Thường nói nhanh thành 다죠?: 결혼한다죠?. So sánh: 다면서요? cũng 'nghe nói… phải không' nhưng thân mật, có chút ngạc nhiên; 다지요? nhẹ nhàng, lịch sự hơn, người nói khá chắc thông tin là đúng.",
+   "examples": [
+    "어제 큰 사고가 났다지요? — Nghe nói hôm qua có tai nạn lớn phải không?",
+    "대통령이 다음 주에 순방을 떠난다지요? — Nghe nói tuần sau tổng thống đi công du phải không?",
+    "그 배우가 악플 때문에 힘들어한다지요? — Nghe nói diễn viên đó khổ sở vì bình luận ác ý phải không?",
+    "그분이 유명한 기자라지요? — Nghe nói người đó là phóng viên nổi tiếng phải không?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Bình luận ác ý trên mạng (악성 댓글) gọi tắt là gì?",
+   "kr": "",
+   "options": [
+    "악플",
+    "섹션",
+    "주류"
+   ],
+   "answer": "악플",
+   "explain": "악플 = 악성 댓글."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tin tức trên mạng có tính thời sự rất cao.",
+   "kr": "인터넷 뉴스는 ___이 강해요.",
+   "options": [
+    "속보성",
+    "오락성",
+    "현장감"
+   ],
+   "answer": "속보성",
+   "explain": "속보성 = tính đưa tin nhanh."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tổng thống kết thúc chuyến công du châu Âu.",
+   "kr": "대통령이 유럽 ___을 마치고 돌아왔어요.",
+   "options": [
+    "순방",
+    "합의점",
+    "제약"
+   ],
+   "answer": "순방",
+   "explain": "순방 = công du nhiều nước."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hai bên cuối cùng đã tìm được điểm thống nhất.",
+   "kr": "양측이 드디어 ___을 찾았어요.",
+   "options": [
+    "합의점",
+    "성역할",
+    "유가지"
+   ],
+   "answer": "합의점",
+   "explain": "합의 = thỏa thuận; 점 = điểm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói ĐÚNG: 'Nghe nói hôm qua có tai nạn lớn phải không?'",
+   "kr": "",
+   "options": [
+    "어제 큰 사고가 났다지요?",
+    "어제 큰 사고가 난다지요?",
+    "어제 큰 사고가 났는다지요?"
+   ],
+   "answer": "어제 큰 사고가 났다지요?",
+   "explain": "Quá khứ: 았/었다지요?"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói ĐÚNG: 'Nghe nói dạo này trời lạnh phải không?' (춥다 là tính từ)",
+   "kr": "",
+   "options": [
+    "요즘 춥다지요?",
+    "요즘 춥는다지요?",
+    "요즘 춥ㄴ다지요?"
+   ],
+   "answer": "요즘 춥다지요?",
+   "explain": "Tính từ + 다지요?"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói ĐÚNG: 'Nghe nói người đó là phóng viên phải không?'",
+   "kr": "",
+   "options": [
+    "그분이 기자라지요?",
+    "그분이 기자다지요?",
+    "그분이 기자는다지요?"
+   ],
+   "answer": "그분이 기자라지요?",
+   "explain": "Danh từ không patchim + 라지요?"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phải phá bỏ bức tường giữa các thế hệ.",
+   "kr": "세대 간의 벽을 ___야 해요.",
+   "options": [
+    "허물어",
+    "주저해",
+    "숨져"
+   ],
+   "answer": "허물어",
+   "explain": "벽을 허물다 = phá bỏ rào cản."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 다지요? của 먹다: Nghe nói người Hàn ăn kimchi mỗi ngày phải không?",
+   "kr": "한국 사람들은 매일 김치를 ___?",
+   "answer": [
+    "먹는다지요",
+    "먹는다죠"
+   ],
+   "explain": "Động từ có patchim + 는다지요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 다지요? của 떠나다: Nghe nói tuần sau anh ấy đi du học phải không?",
+   "kr": "그 사람이 다음 주에 유학을 ___?",
+   "answer": [
+    "떠난다지요",
+    "떠난다죠"
+   ],
+   "explain": "Không patchim + ㄴ다지요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Công ty đã tự mình bắt đầu điều tra.",
+   "kr": "회사가 ___ 조사를 시작했어요.",
+   "answer": [
+    "자체적으로"
+   ],
+   "explain": "자체적으로 = tự (cơ quan đó) làm."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Truyền hình trực tiếp có cảm giác như ở hiện trường.",
+   "kr": "생중계는 ___이 있어서 좋아요.",
+   "answer": [
+    "현장감"
+   ],
+   "explain": "현장감."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nghe nói bài báo đó đã bị xóa phải không?",
+   "tokens": [
+    "그",
+    "기사가",
+    "삭제됐다지요?"
+   ],
+   "answer": "그 기사가 삭제됐다지요?",
+   "explain": "삭제되다 → 삭제됐다지요?"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Báo chí không được lệ thuộc vào nhà quảng cáo.",
+   "tokens": [
+    "언론이",
+    "광고주에게",
+    "종속되면",
+    "안",
+    "돼요"
+   ],
+   "answer": "언론이 광고주에게 종속되면 안 돼요",
+   "explain": "N에게 종속되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nghe nói loài chim này rất hiếm phải không?",
+   "answer": [
+    "이 새는 아주 희귀하다지요?",
+    "이 새가 아주 희귀하다지요?",
+    "이 새는 매우 희귀하다지요?",
+    "이 새는 아주 희귀하다죠?"
+   ],
+   "explain": "Tính từ + 다지요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhiều người nổi tiếng bị tổn thương vì bình luận ác ý.",
+   "answer": [
+    "악플 때문에 상처를 받는 연예인이 많아요.",
+    "악플 때문에 상처받는 연예인이 많아요."
+   ],
+   "explain": "N 때문에, 상처를 받다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Phóng viên không được do dự khi đặt câu hỏi.",
+   "answer": [
+    "기자는 질문하는 것을 주저하면 안 돼요.",
+    "기자는 질문을 주저하면 안 돼요.",
+    "기자는 질문할 때 주저하면 안 돼요."
+   ],
+   "explain": "주저하다 + 면 안 되다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "인터넷 뉴스는 속보성이 강하지만 정확성이 떨어지는 경우도 있다. 그래서 해당 기사를 다른 언론의 보도와 비교해 보는 것이 좋다.",
+   "answer": "Tin tức trên mạng có tính đưa tin nhanh cao nhưng cũng có trường hợp độ chính xác kém. Vì vậy nên so sánh bài báo đó với tin của các báo khác.",
+   "explain": "속보성, 해당, 비교하다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn nội dung đúng với đoạn hội thoại. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "여자: 민수 씨, 그 배우가 악플 때문에 활동을 쉰다지요?\n남자: 네, 저도 뉴스에서 봤어요. 요즘 악플 문제가 정말 심각한 것 같아요.\n여자: 맞아요. 댓글을 쓸 때 더 조심해야겠어요.",
+   "options": [
+    "여자는 배우가 활동을 쉰다는 이야기를 들었다.",
+    "남자는 그 뉴스를 처음 듣는다.",
+    "배우는 칭찬 댓글 때문에 쉰다.",
+    "두 사람은 댓글을 쓰지 말자고 했다."
+   ],
+   "answer": "여자는 배우가 활동을 쉰다는 이야기를 들었다.",
+   "explain": "쉰다지요? = nghe nói đang nghỉ."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "과거에는 신문을 돈을 내고 사서 보는 유가지가 주류였다. 그러나 인터넷이 발달하면서 사람들은 무료로 뉴스를 보게 되었다. 그 결과 많은 신문사가 오락성이 강한 기사를 늘리고 있는데, 이것이 언론의 질을 떨어뜨린다는 비판도 있다.",
+   "options": [
+    "인터넷의 발달로 유가지가 예전보다 덜 읽힌다.",
+    "요즘도 유가지가 주류이다.",
+    "오락성 기사는 모두 좋은 평가를 받는다.",
+    "신문사들은 기사를 줄이고 있다."
+   ],
+   "answer": "인터넷의 발달로 유가지가 예전보다 덜 읽힌다.",
+   "explain": "Trước đây 유가지 là chủ đạo → nay người ta đọc miễn phí."
+  }
+ ]
+}

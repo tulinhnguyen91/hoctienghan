@@ -1,0 +1,708 @@
+{
+ "id": "bai-16",
+ "lesson": "Bài 16",
+ "title": "Giao thông P1",
+ "krTitle": "교통",
+ "date": "2026-11-30",
+ "day": 12,
+ "source": "TOPIK 1 – Bài 15: Giao thông P1",
+ "practice": {
+  "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+  "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+ },
+ "words": [
+  [
+   "교통",
+   "Gyotong",
+   "Giao thông",
+   "서울은 교통이 편리해요.",
+   "Giao thông ở Seoul thuận tiện."
+  ],
+  [
+   "버스",
+   "Beoseu",
+   "Xe buýt",
+   "저는 버스로 학교에 가요.",
+   "Tôi đến trường bằng xe buýt."
+  ],
+  [
+   "택시",
+   "Taeksi",
+   "Taxi",
+   "늦어서 택시를 탔어요.",
+   "Vì muộn nên tôi đã đi taxi."
+  ],
+  [
+   "지하철",
+   "Jihacheol",
+   "Tàu điện ngầm",
+   "지하철이 빠르고 편해요.",
+   "Tàu điện ngầm nhanh và tiện."
+  ],
+  [
+   "자동차",
+   "Jadongcha",
+   "Ô tô",
+   "아버지는 자동차로 회사에 가세요.",
+   "Bố tôi đi làm bằng ô tô."
+  ],
+  [
+   "배",
+   "Bae",
+   "Thuyền, tàu thủy",
+   "제주도에 배로 갈 수 있어요.",
+   "Có thể đi Jeju bằng tàu thủy."
+  ],
+  [
+   "비행기",
+   "Bihaenggi",
+   "Máy bay",
+   "하노이에서 서울까지 비행기로 다섯 시간 걸려요.",
+   "Từ Hà Nội đến Seoul đi máy bay mất 5 tiếng."
+  ],
+  [
+   "자전거",
+   "Jajeongeo",
+   "Xe đạp",
+   "공원에서 자전거를 탔어요.",
+   "Tôi đã đạp xe ở công viên."
+  ],
+  [
+   "전차",
+   "Jeoncha",
+   "Tàu điện",
+   "옛날에 서울에도 전차가 있었어요.",
+   "Ngày xưa ở Seoul cũng có tàu điện."
+  ],
+  [
+   "오토바이 택시",
+   "Otobai taeksi",
+   "Xe ôm",
+   "베트남에서는 오토바이 택시를 많이 타요.",
+   "Ở Việt Nam người ta hay đi xe ôm."
+  ],
+  [
+   "시클로",
+   "Sikeullo",
+   "Xích lô",
+   "하노이에서 시클로를 타고 싶어요.",
+   "Tôi muốn đi xích lô ở Hà Nội."
+  ],
+  [
+   "어떻게",
+   "Eotteoke",
+   "Như thế nào",
+   "명동에 어떻게 가요?",
+   "Đến Myeongdong đi thế nào?"
+  ],
+  [
+   "왜",
+   "Wae",
+   "Tại sao",
+   "왜 지각했어요?",
+   "Tại sao bạn đến muộn?"
+  ],
+  [
+   "모범택시",
+   "Mobeomtaeksi",
+   "Taxi cao cấp",
+   "모범택시는 요금이 비싸요.",
+   "Taxi cao cấp cước đắt."
+  ],
+  [
+   "개인택시",
+   "Gaeintaeksi",
+   "Taxi cá nhân",
+   "개인택시를 탔어요.",
+   "Tôi đã đi taxi cá nhân."
+  ],
+  [
+   "요금",
+   "Yogeum",
+   "Cước phí, tiền vé",
+   "버스 요금이 얼마예요?",
+   "Tiền vé xe buýt bao nhiêu?"
+  ],
+  [
+   "버스 정류장 (정거장)",
+   "Beoseu jeongnyujang (jeonggeojang)",
+   "Trạm xe buýt",
+   "버스 정류장에서 친구를 기다려요.",
+   "Tôi đợi bạn ở trạm xe buýt."
+  ],
+  [
+   "고속버스",
+   "Gosokbeoseu",
+   "Xe buýt cao tốc",
+   "부산까지 고속버스로 가요.",
+   "Tôi đi Busan bằng xe buýt cao tốc."
+  ],
+  [
+   "시내버스",
+   "Sinaebeoseu",
+   "Xe buýt nội thành",
+   "시내버스는 파랗습니다.",
+   "Xe buýt nội thành màu xanh dương."
+  ],
+  [
+   "버스 터미널",
+   "Beoseu teomineol",
+   "Bến xe khách",
+   "버스 터미널에서 표를 샀어요.",
+   "Tôi đã mua vé ở bến xe."
+  ],
+  [
+   "교통 카드",
+   "Gyotong kadeu",
+   "Thẻ giao thông",
+   "교통 카드로 버스를 탈 수 있어요.",
+   "Có thể đi xe buýt bằng thẻ giao thông."
+  ],
+  [
+   "마을버스",
+   "Maeulbeoseu",
+   "Xe buýt tuyến ngắn",
+   "집까지 마을버스를 타요.",
+   "Tôi đi xe buýt tuyến ngắn về đến nhà."
+  ],
+  [
+   "매표소",
+   "Maepyoso",
+   "Quầy bán vé",
+   "매표소가 어디에 있어요?",
+   "Quầy bán vé ở đâu?"
+  ],
+  [
+   "지하철 노선도",
+   "Jihacheol noseondo",
+   "Bản đồ tuyến tàu điện ngầm",
+   "지하철 노선도를 봤어요.",
+   "Tôi đã xem bản đồ tuyến tàu điện ngầm."
+  ],
+  [
+   "기차역",
+   "Gichayeok",
+   "Ga tàu hỏa",
+   "서울역은 큰 기차역이에요.",
+   "Ga Seoul là một ga tàu lớn."
+  ],
+  [
+   "주차장",
+   "Juchajang",
+   "Bãi đỗ xe",
+   "주차장에 차가 많아요.",
+   "Bãi đỗ xe có nhiều xe."
+  ],
+  [
+   "주유소",
+   "Juyuso",
+   "Trạm xăng",
+   "주유소에 들렀어요.",
+   "Tôi đã ghé trạm xăng."
+  ],
+  [
+   "횡단보도",
+   "Hoengdanbodo",
+   "Vạch qua đường",
+   "횡단보도에서 길을 건너세요.",
+   "Hãy qua đường ở vạch dành cho người đi bộ."
+  ],
+  [
+   "육교",
+   "Yukgyo",
+   "Cầu vượt",
+   "육교를 건너서 가세요.",
+   "Hãy đi qua cầu vượt."
+  ],
+  [
+   "지하도",
+   "Jihado",
+   "Đường hầm đi bộ",
+   "지하도로 길을 건넜어요.",
+   "Tôi đã qua đường bằng hầm đi bộ."
+  ],
+  [
+   "신호등",
+   "Sinhodeung",
+   "Đèn giao thông",
+   "신호등이 빨갛습니다. 기다리세요.",
+   "Đèn giao thông đang đỏ. Hãy đợi."
+  ],
+  [
+   "고속도로",
+   "Gosokdoro",
+   "Đường cao tốc",
+   "고속도로에 차가 많아요.",
+   "Trên đường cao tốc có nhiều xe."
+  ],
+  [
+   "도로",
+   "Doro",
+   "Đường, đại lộ",
+   "이 도로는 아주 넓어요.",
+   "Con đường này rất rộng."
+  ],
+  [
+   "타다",
+   "Tada",
+   "Lên, đi (phương tiện)",
+   "지하철을 탈까요?",
+   "Mình đi tàu điện ngầm nhé?"
+  ],
+  [
+   "내리다",
+   "Naerida",
+   "Xuống (xe)",
+   "시청역에서 내리세요.",
+   "Hãy xuống ở ga Tòa thị chính."
+  ],
+  [
+   "갈아타다",
+   "Garatada",
+   "Đổi (xe, tuyến)",
+   "서울역에서 4호선으로 갈아타세요.",
+   "Hãy đổi sang tuyến số 4 ở ga Seoul."
+  ],
+  [
+   "길이 막히다",
+   "Giri makhida",
+   "Tắc đường",
+   "출근 시간에는 길이 많이 막혀요.",
+   "Giờ đi làm đường tắc nhiều."
+  ],
+  [
+   "시간이 걸리다",
+   "Sigani geollida",
+   "Mất thời gian",
+   "집에서 회사까지 한 시간 걸려요.",
+   "Từ nhà đến công ty mất một tiếng."
+  ],
+  [
+   "교통사고가 나다",
+   "Gyotongsagoga nada",
+   "Xảy ra tai nạn giao thông",
+   "어제 이 길에서 교통사고가 났어요.",
+   "Hôm qua trên con đường này xảy ra tai nạn giao thông."
+  ],
+  [
+   "간식",
+   "Gansik",
+   "Đồ ăn vặt",
+   "버스에서 간식을 먹었어요.",
+   "Tôi đã ăn vặt trên xe buýt."
+  ],
+  [
+   "빨갛다",
+   "Ppalgata",
+   "Đỏ",
+   "가을에 단풍이 빨갛습니다.",
+   "Mùa thu lá phong đỏ."
+  ],
+  [
+   "파랗다",
+   "Parata",
+   "Xanh dương",
+   "오늘은 하늘이 파랗습니다.",
+   "Hôm nay bầu trời xanh."
+  ],
+  [
+   "남산",
+   "Namsan",
+   "Núi Namsan",
+   "남산에서 서울 야경을 봤어요.",
+   "Tôi đã ngắm cảnh đêm Seoul trên núi Namsan."
+  ],
+  [
+   "시내",
+   "Sinae",
+   "Trung tâm thành phố",
+   "주말에 시내에서 쇼핑했어요.",
+   "Cuối tuần tôi đã mua sắm ở trung tâm thành phố."
+  ],
+  [
+   "편의점",
+   "Pyeonuijeom",
+   "Cửa hàng tiện lợi",
+   "편의점에서 교통 카드를 살 수 있어요.",
+   "Có thể mua thẻ giao thông ở cửa hàng tiện lợi."
+  ],
+  [
+   "노랗다",
+   "Norata",
+   "Vàng",
+   "학교 버스는 노랗습니다.",
+   "Xe buýt trường học màu vàng."
+  ],
+  [
+   "야경",
+   "Yagyeong",
+   "Cảnh đêm",
+   "서울의 야경이 아름다워요.",
+   "Cảnh đêm Seoul đẹp."
+  ],
+  [
+   "학생회관",
+   "Haksaenghoegwan",
+   "Hội quán sinh viên",
+   "학생회관에서 점심을 먹어요.",
+   "Tôi ăn trưa ở hội quán sinh viên."
+  ],
+  [
+   "리무진 버스",
+   "Rimujin beoseu",
+   "Xe buýt limousine",
+   "공항까지 리무진 버스로 가요.",
+   "Tôi đi xe buýt limousine ra sân bay."
+  ],
+  [
+   "요리 학원",
+   "Yori hagwon",
+   "Trung tâm dạy nấu ăn",
+   "주말에 요리 학원에 다녀요.",
+   "Cuối tuần tôi đi học ở trung tâm nấu ăn."
+  ],
+  [
+   "지각하다",
+   "Jigakhada",
+   "Đến muộn",
+   "길이 막혀서 지각했어요.",
+   "Vì tắc đường nên tôi đến muộn."
+  ],
+  [
+   "KTX",
+   "KTX",
+   "Tàu cao tốc KTX",
+   "서울에서 부산까지 KTX로 두 시간 반 걸려요.",
+   "Từ Seoul đến Busan đi KTX mất hai tiếng rưỡi."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "Bất quy tắc ㄷ",
+   "meaning": "Một số động từ có gốc kết thúc bằng patchim ㄷ (걷다, 듣다, 묻다 'hỏi', 싣다…) khi gặp đuôi bắt đầu bằng nguyên âm (아/어요, 았/었, (으)세요, (으)ㄹ 수 있다…) thì ㄷ biến thành ㄹ: 걷다 → 걸어요, 듣다 → 들어요, 묻다 → 물어요, 걸으세요, 들을 수 있어요. Gặp phụ âm thì giữ nguyên: 걷고, 듣지만, 걷는 것. Một số từ KHÔNG bất quy tắc: 받다 → 받아요, 닫다 → 닫아요, 믿다 → 믿어요, 얻다 → 얻어요.",
+   "examples": [
+    "매일 공원에서 걸어요. — Ngày nào tôi cũng đi bộ ở công viên.",
+    "버스에서 음악을 들어요. — Tôi nghe nhạc trên xe buýt.",
+    "길을 몰라서 경찰한테 물었어요. — Vì không biết đường nên tôi đã hỏi cảnh sát.",
+    "문을 닫아요. — Tôi đóng cửa. (닫다 không biến đổi)"
+   ]
+  },
+  {
+   "form": "에서~까지 — Từ ~ đến (nơi chốn)",
+   "meaning": "Chỉ điểm xuất phát và điểm đến về không gian: 'từ (nơi) A đến (nơi) B'. Gắn thẳng sau danh từ chỉ nơi chốn, không phân biệt patchim: 집에서 학교까지. Hay đi với 걸리다 (mất thời gian), 가다/오다, 멀다/가깝다. Phân biệt: với THỜI GIAN thì dùng 부터~까지 (9시부터 6시까지). 까지 cũng có thể dùng một mình: 부산까지 가요 (đi đến tận Busan).",
+   "examples": [
+    "집에서 회사까지 버스로 30분 걸려요. — Từ nhà đến công ty đi xe buýt mất 30 phút.",
+    "하노이에서 서울까지 비행기로 가요. — Tôi đi từ Hà Nội đến Seoul bằng máy bay.",
+    "여기에서 시청까지 멀어요? — Từ đây đến tòa thị chính có xa không?",
+    "학교에서 집까지 걸어서 가요. — Tôi đi bộ từ trường về nhà."
+   ]
+  },
+  {
+   "form": "N + (으)로 — Bằng (phương tiện)",
+   "meaning": "Chỉ phương tiện, công cụ, cách thức: 'bằng…'. Danh từ có patchim + 으로 (볼펜으로, 손으로); không patchim + 로 (버스로, 택시로, 비행기로, 카드로); patchim ㄹ chỉ + 로, không thêm 으 (지하철로, 연필로). Cũng dùng chỉ ngôn ngữ: 한국어로 (bằng tiếng Hàn). Đã học (으)로 chỉ phương hướng (오른쪽으로); nghĩa 'bằng' dùng với công cụ, phương tiện. 'Đi bộ' KHÔNG nói 발로 mà nói 걸어서 가요.",
+   "examples": [
+    "저는 지하철로 학교에 가요. — Tôi đến trường bằng tàu điện ngầm.",
+    "택시로 공항에 갔어요. — Tôi đã ra sân bay bằng taxi.",
+    "교통 카드로 요금을 내요. — Tôi trả tiền vé bằng thẻ giao thông.",
+    "한국어로 길을 물었어요. — Tôi đã hỏi đường bằng tiếng Hàn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đi bộ ở công viên.",
+   "kr": "공원에서 ___.",
+   "options": [
+    "걸어요",
+    "걷어요",
+    "거러요"
+   ],
+   "answer": "걸어요",
+   "explain": "걷다 bất quy tắc ㄷ: ㄷ → ㄹ trước nguyên âm → 걸어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi nghe nhạc trên tàu điện ngầm.",
+   "kr": "지하철에서 음악을 ___.",
+   "options": [
+    "들어요",
+    "듣어요",
+    "들러요"
+   ],
+   "answer": "들어요",
+   "explain": "듣다 → 들 + 어요 → 들어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đã nhận thẻ giao thông.",
+   "kr": "교통 카드를 ___.",
+   "options": [
+    "받았어요",
+    "발았어요",
+    "받었어요"
+   ],
+   "answer": "받았어요",
+   "explain": "받다 KHÔNG phải bất quy tắc ㄷ → 받았어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đã hỏi đường.",
+   "kr": "길을 ___.",
+   "options": [
+    "물었어요",
+    "묻었어요",
+    "무렀어요"
+   ],
+   "answer": "물었어요",
+   "explain": "묻다 (hỏi) → 물 + 었어요 → 물었어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đi bộ và nghe nhạc.",
+   "kr": "___ 음악을 들어요.",
+   "options": [
+    "걷고",
+    "걸고",
+    "걸어고"
+   ],
+   "answer": "걷고",
+   "explain": "Trước phụ âm (고) ㄷ giữ nguyên: 걷고."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Từ nhà đến trường mất 20 phút.",
+   "kr": "집___ 학교까지 20분 걸려요.",
+   "options": [
+    "에서",
+    "부터",
+    "에게"
+   ],
+   "answer": "에서",
+   "explain": "Nơi chốn → 에서~까지. 부터 dùng với thời gian."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Từ 9 giờ đến 6 giờ.",
+   "kr": "9시___ 6시까지 일해요.",
+   "options": [
+    "부터",
+    "에서",
+    "로"
+   ],
+   "answer": "부터",
+   "explain": "Thời gian → 부터~까지."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đi bằng tàu điện ngầm.",
+   "kr": "___ 가요.",
+   "options": [
+    "지하철로",
+    "지하철으로",
+    "지하철에서"
+   ],
+   "answer": "지하철로",
+   "explain": "Patchim ㄹ + 로 (không thêm 으): 지하철로."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đi bằng xe buýt.",
+   "kr": "___ 가요.",
+   "options": [
+    "버스로",
+    "버스으로",
+    "버스에"
+   ],
+   "answer": "버스로",
+   "explain": "Không patchim + 로: 버스로."
+  },
+  {
+   "type": "choice",
+   "q": "Cách nói đúng 'Tôi đi bộ đến trường' là?",
+   "kr": "",
+   "options": [
+    "학교에 걸어서 가요.",
+    "학교에 발로 가요.",
+    "학교에 걷어서 가요."
+   ],
+   "answer": "학교에 걸어서 가요.",
+   "explain": "Đi bộ = 걸어서 가다 (걷다 → 걸어서). Không nói 발로."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어요 của 듣다: Tôi nghe radio trên xe buýt.",
+   "kr": "버스에서 라디오를 ___.",
+   "answer": [
+    "들어요"
+   ],
+   "explain": "듣다 → 들어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng quá khứ của 걷다: Hôm qua tôi đã đi bộ nhiều.",
+   "kr": "어제 많이 ___.",
+   "answer": [
+    "걸었어요"
+   ],
+   "explain": "걷다 → 걸 + 었어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ: Từ Seoul đến Busan đi KTX mất 2 tiếng rưỡi.",
+   "kr": "서울에서 부산___ KTX로 두 시간 반 걸려요.",
+   "answer": [
+    "까지"
+   ],
+   "explain": "에서~까지: từ ~ đến."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)로: Tôi ra sân bay bằng taxi.",
+   "kr": "___ 공항에 가요.",
+   "answer": [
+    "택시로"
+   ],
+   "explain": "택시 không patchim → 택시로."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)로: Hãy trả bằng thẻ giao thông.",
+   "kr": "교통 ___ 내세요.",
+   "answer": [
+    "카드로"
+   ],
+   "explain": "카드 không patchim → 카드로."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Từ nhà đến công ty mất một tiếng.",
+   "tokens": [
+    "집에서",
+    "회사까지",
+    "한",
+    "시간",
+    "걸려요"
+   ],
+   "answer": "집에서 회사까지 한 시간 걸려요",
+   "explain": "에서~까지 + thời gian + 걸려요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hãy đổi sang tuyến số 2 ở ga Tòa thị chính.",
+   "tokens": [
+    "시청역에서",
+    "2호선으로",
+    "갈아타세요"
+   ],
+   "answer": "시청역에서 2호선으로 갈아타세요",
+   "explain": "Đổi sang tuyến nào: N + (으)로 갈아타다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Vì tắc đường nên tôi đến muộn.",
+   "tokens": [
+    "길이",
+    "막혀서",
+    "지각했어요"
+   ],
+   "answer": "길이 막혀서 지각했어요",
+   "explain": "막히다 → 막혀서 (vì)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đến trường bằng xe buýt.",
+   "answer": [
+    "저는 버스로 학교에 가요.",
+    "버스로 학교에 가요.",
+    "저는 학교에 버스로 가요.",
+    "학교에 버스로 가요."
+   ],
+   "explain": "버스 + 로 + 학교에 가요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Từ đây đến ga Seoul có xa không?",
+   "answer": [
+    "여기에서 서울역까지 멀어요?",
+    "여기서 서울역까지 멀어요?"
+   ],
+   "explain": "여기에서(여기서) ~ 서울역까지 + 멀어요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi nghe nhạc trên tàu điện ngầm.",
+   "answer": [
+    "지하철에서 음악을 들어요.",
+    "저는 지하철에서 음악을 들어요."
+   ],
+   "explain": "Nơi diễn ra hành động + 에서; 듣다 → 들어요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "출근 시간에는 길이 많이 막혀서 지하철로 가요.",
+   "answer": "Giờ đi làm đường tắc nhiều nên tôi đi bằng tàu điện ngầm.",
+   "explain": "출근 시간 = giờ đi làm; 막혀서 = vì tắc; 지하철로 = bằng tàu điện ngầm."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "명동에 어떻게 가요? — 시청역에서 4호선으로 갈아타세요.",
+   "answer": "Đến Myeongdong đi thế nào? — Hãy đổi sang tuyến số 4 ở ga Tòa thị chính.",
+   "explain": "어떻게 가요? = đi thế nào; 갈아타다 = đổi tuyến."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "저는 지하철을 타요. 형은 버스를 타요.",
+   "options": [
+    "교통",
+    "취미",
+    "날씨",
+    "음식"
+   ],
+   "answer": "교통",
+   "explain": "Đi tàu điện ngầm, xe buýt → giao thông (교통)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "길이 많이 막혔어요. 그래서 회사에 ( ___ ).",
+   "options": [
+    "지각했어요",
+    "일찍 왔어요",
+    "걸어요",
+    "내려요"
+   ],
+   "answer": "지각했어요",
+   "explain": "Đường tắc nhiều → đến công ty muộn (지각했어요)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 집에서 학교까지 지하철로 가요. 지하철로 40분 걸려요. 지하철에서 한국 노래를 들어요. 아침에는 사람이 많아서 앉을 수 없어요. 그래서 조금 힘들어요.",
+   "options": [
+    "아침에 지하철에서 앉을 수 없어요.",
+    "저는 버스로 학교에 가요.",
+    "학교까지 한 시간 걸려요.",
+    "지하철에서 책을 읽어요."
+   ],
+   "answer": "아침에 지하철에서 앉을 수 없어요.",
+   "explain": "Buổi sáng đông người nên không ngồi được. Đi tàu điện ngầm, mất 40 phút, nghe nhạc."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu SAI với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "🚌 공항 리무진 버스\n서울역 → 인천공항\n첫차: 오전 5시 / 막차: 오후 11시\n요금: 17,000원 (교통 카드 OK)\n시간: 약 1시간",
+   "options": [
+    "교통 카드로 요금을 낼 수 없어요.",
+    "서울역에서 인천공항까지 가요.",
+    "오후 11시에 막차가 있어요.",
+    "공항까지 한 시간쯤 걸려요."
+   ],
+   "answer": "교통 카드로 요금을 낼 수 없어요.",
+   "explain": "Bảng ghi 교통 카드 OK → trả bằng thẻ giao thông được."
+  }
+ ]
+}

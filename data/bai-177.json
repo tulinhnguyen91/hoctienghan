@@ -1,0 +1,403 @@
+{
+ "id": "bai-177",
+ "lesson": "Bài 177",
+ "title": "Thành ngữ tục ngữ (phần 2/3)",
+ "krTitle": "속담과 관용어 2",
+ "date": "2027-08-01",
+ "day": 256,
+ "source": "TOPIK 5 – Bài 7: Thành ngữ tục ngữ (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "어깨가 무겁다",
+   "Eokkaega mugeopda",
+   "Vai nặng (nặng quằn vai; trách nhiệm nặng nề)",
+   "팀장이 되니까 어깨가 무거워요.",
+   "Làm trưởng nhóm rồi nên thấy trách nhiệm nặng nề."
+  ],
+  [
+   "발 벗고 나서다",
+   "Bal beotgo naseoda",
+   "Cởi giày xông vào trước (luôn xông xáo; tinh thần tiên phong)",
+   "그는 어려운 이웃을 돕는 일에 발 벗고 나서요.",
+   "Anh ấy luôn xông xáo giúp đỡ hàng xóm khó khăn."
+  ],
+  [
+   "발품을 팔다",
+   "Balpumeul palda",
+   "Vất vả đôi chân (cất công khó nhọc)",
+   "싼 집을 찾으려고 발품을 많이 팔았어요.",
+   "Tôi đã cất công đi rất nhiều để tìm nhà rẻ."
+  ],
+  [
+   "두 발 뻗고 자다",
+   "Du bal ppeotgo jada",
+   "Thẳng hai chân mà ngủ (yên tâm; không lo âu)",
+   "시험이 끝나서 이제 두 발 뻗고 잘 수 있어요.",
+   "Thi xong rồi nên giờ có thể ngủ yên rồi."
+  ],
+  [
+   "도둑이 제 발 저리다",
+   "Dodugi je bal jeorida",
+   "Trộm bị tê chân (có tật giật mình)",
+   "도둑이 제 발 저리다고 그는 묻지도 않았는데 변명했어요.",
+   "Có tật giật mình, chưa ai hỏi mà anh ta đã biện minh."
+  ],
+  [
+   "발등에 불이 떨어지다",
+   "Baldeunge buri tteoreojida",
+   "Lửa rớt xuống chân (nước tới chân, trong tình huống nguy cấp)",
+   "발등에 불이 떨어져서 밤새 숙제를 했어요.",
+   "Nước đến chân nên tôi làm bài tập suốt đêm."
+  ],
+  [
+   "팔은 안으로 굽는다",
+   "Pareun aneuro gumneunda",
+   "Tay gập vào trong (đồng hội đồng thuyền phải giúp nhau; môi hở răng lạnh)",
+   "팔은 안으로 굽는다고 엄마는 항상 내 편이에요.",
+   "Tay gập vào trong, mẹ lúc nào cũng đứng về phía tôi."
+  ],
+  [
+   "각색",
+   "Gaksaek",
+   "Chuyển thể, cải biên (kịch bản)",
+   "이 영화는 소설을 각색한 거예요.",
+   "Bộ phim này được chuyển thể từ tiểu thuyết."
+  ],
+  [
+   "경계하다",
+   "Gyeonggyehada",
+   "Cảnh giác",
+   "인터넷 사기를 항상 경계해야 해요.",
+   "Phải luôn cảnh giác với lừa đảo trên mạng."
+  ],
+  [
+   "고생 끝에 낙이 온다",
+   "Gosaeng kkeute nagi onda",
+   "Hết cơn bĩ cực đến hồi thái lai",
+   "고생 끝에 낙이 온다고 드디어 합격했어요.",
+   "Hết cơn bĩ cực đến hồi thái lai, cuối cùng tôi đã đỗ."
+  ],
+  [
+   "규모",
+   "Gyumo",
+   "Quy mô",
+   "행사 규모가 생각보다 컸어요.",
+   "Quy mô sự kiện lớn hơn tôi nghĩ."
+  ],
+  [
+   "기존",
+   "Gijon",
+   "Sự có sẵn",
+   "기존의 방법으로는 해결할 수 없어요.",
+   "Không thể giải quyết bằng phương pháp có sẵn."
+  ],
+  [
+   "길고 짧은 것은 대봐야 안다",
+   "Gilgo jjalbeun geoseun daebwaya anda",
+   "Dài hay ngắn phải đo mới biết (có đo mới biết dài ngắn; phải trải qua thì mới biết thực hư thế nào)",
+   "길고 짧은 것은 대봐야 안다고, 경기는 끝까지 봐야 해요.",
+   "Dài ngắn phải đo mới biết, trận đấu phải xem đến cuối."
+  ],
+  [
+   "꺼리다",
+   "Kkeorida",
+   "Né tránh",
+   "그는 사람들 앞에서 말하는 것을 꺼려요.",
+   "Anh ấy ngại nói trước đám đông."
+  ],
+  [
+   "그림의 떡",
+   "Geurimui tteok",
+   "Bánh tteok trong tranh (mơ điều nằm ngoài tầm tay)",
+   "그 비싼 차는 저한테 그림의 떡이에요.",
+   "Chiếc xe đắt tiền đó với tôi chỉ là bánh vẽ."
+  ],
+  [
+   "누워서 떡먹기",
+   "Nuwoseo tteongmeokgi",
+   "Dễ như ăn bánh tteok (dễ như chơi; dễ như trở bàn tay)",
+   "이 문제는 누워서 떡 먹기예요.",
+   "Bài này dễ như trở bàn tay."
+  ],
+  [
+   "떡 줄 사람은 생각도 않는데 김칫국부터 마신다",
+   "Tteong jul sarameun saenggakdo anneunde gimchitgukbuteo masinda",
+   "Người cho tteok còn chưa nghĩ tới đã lo uống nước kim chi (chưa giàu đã lo ăn cướp; mơ tưởng viển vông)",
+   "아직 합격도 안 했는데 떡 줄 사람은 생각도 않는데 김칫국부터 마시네요.",
+   "Chưa đỗ mà đã tính chuyện xa, đúng là mơ tưởng viển vông."
+  ],
+  [
+   "돌다리도 두들겨 보고 건너라",
+   "Doldarido dudeulgyeo bogo geonneora",
+   "Cầu đá cũng phải gõ vào rồi mới đi qua (cẩn tắc vô ưu; cẩn thận trước vẫn tốt hơn)",
+   "돌다리도 두들겨 보고 건너라는 말처럼 계약서를 꼼꼼히 읽으세요.",
+   "Như câu cẩn tắc vô ưu, hãy đọc kỹ hợp đồng."
+  ],
+  [
+   "무방하다",
+   "Mubanghada",
+   "Không sao, không có vấn đề gì",
+   "연필로 써도 무방해요.",
+   "Viết bằng bút chì cũng không sao."
+  ],
+  [
+   "문맥",
+   "Munmaek",
+   "Mạch văn, ngữ cảnh",
+   "모르는 단어는 문맥을 보고 뜻을 짐작해 보세요.",
+   "Từ không biết thì hãy xem ngữ cảnh mà đoán nghĩa."
+  ],
+  [
+   "바늘 가는 데 실 간다",
+   "Baneul ganeun de sil ganda",
+   "Kim đâu chỉ đó (như cá với nước)",
+   "바늘 가는 데 실 간다고 두 사람은 늘 같이 다녀요.",
+   "Kim đâu chỉ đó, hai người lúc nào cũng đi cùng nhau."
+  ],
+  [
+   "번지다",
+   "Beonjida",
+   "Lan ra",
+   "산불이 빠르게 번지고 있어요.",
+   "Cháy rừng đang lan nhanh."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 았/었더라면 — Giá mà đã",
+   "meaning": "Giả định NGƯỢC VỚI QUÁ KHỨ: 'giá mà (lúc đó) đã…, nếu như đã…' → thể hiện sự TIẾC NUỐI hoặc may mắn vì điều đó đã không xảy ra. Chia: 았/었 + 더라면: 가다 → 갔더라면, 먹다 → 먹었더라면, 하다 → 했더라면; Danh từ → 였더라면/이었더라면 (학생이었더라면). Vế sau thường là: (으)ㄹ 텐데 (đã học), 았/었을 거예요 (chắc đã…), 았/었을 텐데요. Phủ định: 안 했더라면 / 지 않았더라면 (giá mà đã không…). So sánh: 았/었으면 좋았을 텐데 (cũng tiếc nuối, khẩu ngữ hơn); 았/었더라면 mạnh hơn, hay dùng trong văn viết và lời tâm sự. Lưu ý: chỉ nói về điều KHÔNG XẢY RA trong quá khứ.",
+   "examples": [
+    "조금만 더 일찍 출발했더라면 기차를 탈 수 있었을 거예요. — Giá mà xuất phát sớm hơn một chút thì đã kịp tàu rồi.",
+    "돌다리도 두들겨 보고 건넜더라면 사기를 당하지 않았을 텐데요. — Giá mà cẩn thận hơn thì đã không bị lừa.",
+    "그때 열심히 공부했더라면 지금 후회하지 않을 거예요. — Giá mà hồi đó học chăm thì bây giờ đã không hối hận.",
+    "당신이 없었더라면 저는 포기했을 거예요. — Nếu không có anh thì tôi đã bỏ cuộc rồi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Có tật giật mình'?",
+   "kr": "",
+   "options": [
+    "도둑이 제 발 저리다",
+    "팔은 안으로 굽는다",
+    "바늘 가는 데 실 간다"
+   ],
+   "answer": "도둑이 제 발 저리다",
+   "explain": "Tên trộm tự thấy tê chân."
+  },
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Cẩn tắc vô ưu'?",
+   "kr": "",
+   "options": [
+    "돌다리도 두들겨 보고 건너라",
+    "누워서 떡 먹기",
+    "그림의 떡"
+   ],
+   "answer": "돌다리도 두들겨 보고 건너라",
+   "explain": "Cầu đá cũng gõ thử rồi mới qua."
+  },
+  {
+   "type": "choice",
+   "q": "Thứ mình muốn nhưng không thể có được gọi là gì?",
+   "kr": "",
+   "options": [
+    "그림의 떡",
+    "누워서 떡 먹기",
+    "발품을 팔다"
+   ],
+   "answer": "그림의 떡",
+   "explain": "Bánh trong tranh = bánh vẽ."
+  },
+  {
+   "type": "choice",
+   "q": "Tình huống gấp, 'nước đến chân' dùng câu nào?",
+   "kr": "",
+   "options": [
+    "발등에 불이 떨어지다",
+    "두 발 뻗고 자다",
+    "발 벗고 나서다"
+   ],
+   "answer": "발등에 불이 떨어지다",
+   "explain": "Lửa rơi xuống mu bàn chân."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Giá mà xuất phát sớm hơn thì đã kịp tàu.'",
+   "kr": "",
+   "options": [
+    "일찍 출발했더라면 기차를 탈 수 있었을 거예요.",
+    "일찍 출발하더라면 기차를 탈 수 있었을 거예요.",
+    "일찍 출발했더라면 기차를 탈 수 있어요."
+   ],
+   "answer": "일찍 출발했더라면 기차를 탈 수 있었을 거예요.",
+   "explain": "았/었더라면 + 았/었을 거예요."
+  },
+  {
+   "type": "choice",
+   "q": "'당신이 없었더라면 포기했을 거예요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Nếu không có anh thì tôi đã bỏ cuộc.",
+    "Vì không có anh nên tôi đã bỏ cuộc.",
+    "Dù không có anh, tôi không bỏ cuộc."
+   ],
+   "answer": "Nếu không có anh thì tôi đã bỏ cuộc.",
+   "explain": "Thực tế: có anh → tôi không bỏ cuộc."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bộ phim này được chuyển thể từ tiểu thuyết.",
+   "kr": "이 영화는 소설을 ___한 거예요.",
+   "options": [
+    "각색",
+    "경계",
+    "규모"
+   ],
+   "answer": "각색",
+   "explain": "각색하다 = chuyển thể."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Viết bằng bút chì cũng không sao.",
+   "kr": "연필로 써도 ___해요.",
+   "options": [
+    "무방",
+    "꺼려",
+    "번져"
+   ],
+   "answer": "무방",
+   "explain": "아/어도 무방하다 = làm cũng không sao."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 았/었더라면 với 알다: Giá mà biết trước thì đã không đến.",
+   "kr": "미리 ___ 안 왔을 거예요.",
+   "answer": [
+    "알았더라면"
+   ],
+   "explain": "알다 → 알았더라면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 았/었더라면 với 공부하다: Giá mà hồi đó học chăm hơn…",
+   "kr": "그때 더 열심히 ___ 좋았을 텐데요.",
+   "answer": [
+    "공부했더라면"
+   ],
+   "explain": "하다 → 했더라면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đã cất công đi rất nhiều để tìm nhà rẻ.",
+   "kr": "싼 집을 찾으려고 ___을 많이 팔았어요.",
+   "answer": [
+    "발품"
+   ],
+   "explain": "발품을 팔다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Từ không biết thì hãy xem ngữ cảnh mà đoán nghĩa.",
+   "kr": "모르는 단어는 ___을 보고 뜻을 짐작해 보세요.",
+   "answer": [
+    "문맥"
+   ],
+   "explain": "문맥 = ngữ cảnh."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Làm trưởng nhóm rồi nên trách nhiệm nặng nề.",
+   "tokens": [
+    "팀장이",
+    "되니까",
+    "어깨가",
+    "무거워요"
+   ],
+   "answer": "팀장이 되니까 어깨가 무거워요",
+   "explain": "어깨가 무겁다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Giá mà có anh ở đó thì tốt biết mấy.",
+   "tokens": [
+    "당신이",
+    "거기",
+    "있었더라면",
+    "좋았을",
+    "텐데요"
+   ],
+   "answer": "당신이 거기 있었더라면 좋았을 텐데요",
+   "explain": "있었더라면 + 좋았을 텐데요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giá mà tôi đã đọc kỹ hợp đồng thì đã không bị lừa.",
+   "answer": [
+    "계약서를 꼼꼼히 읽었더라면 사기를 당하지 않았을 거예요.",
+    "계약서를 꼼꼼하게 읽었더라면 사기를 당하지 않았을 거예요.",
+    "계약서를 자세히 읽었더라면 사기를 당하지 않았을 거예요.",
+    "계약서를 꼼꼼히 읽었더라면 사기를 안 당했을 거예요."
+   ],
+   "explain": "았/었더라면 + 지 않았을 거예요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bài này dễ như trở bàn tay.",
+   "answer": [
+    "이 문제는 누워서 떡 먹기예요.",
+    "이건 누워서 떡 먹기예요."
+   ],
+   "explain": "누워서 떡 먹기."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy ngại nói trước đám đông.",
+   "answer": [
+    "그는 사람들 앞에서 말하는 것을 꺼려요.",
+    "그 사람은 사람들 앞에서 말하는 것을 꺼려요.",
+    "그는 사람들 앞에서 말하기를 꺼려요."
+   ],
+   "explain": "꺼리다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "시험 전날 발등에 불이 떨어져서 공부를 시작했다. 미리 준비했더라면 이렇게 밤을 새우지 않았을 것이다.",
+   "answer": "Hôm trước ngày thi, nước đến chân tôi mới bắt đầu học. Giá mà chuẩn bị trước thì đã không phải thức trắng đêm thế này.",
+   "explain": "발등에 불이 떨어지다; 했더라면."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 지난주에 산 노트북이 벌써 고장 났어요. 너무 싸게 팔아서 바로 샀는데….\n남자: 좀 더 알아보고 샀더라면 좋았을 텐데요.\n여자: ( )",
+   "options": [
+    "맞아요. 다음에는 돌다리도 두들겨 보고 건너야겠어요.",
+    "네, 노트북이 정말 튼튼해요.",
+    "저는 노트북이 없어요.",
+    "그럼 같이 영화 보러 가요."
+   ],
+   "answer": "맞아요. 다음에는 돌다리도 두들겨 보고 건너야겠어요.",
+   "explain": "Tiếc vì không tìm hiểu kỹ → lần sau phải cẩn thận."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu phù hợp với suy nghĩ người viết. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "속담은 짧지만 그 안에 조상들의 지혜가 담겨 있다. 예를 들어 '고생 끝에 낙이 온다'는 지금 힘들어도 참고 노력하면 좋은 날이 온다는 뜻이다. 이처럼 속담을 문맥에 맞게 사용하면 말이 더 풍부해진다.",
+   "options": [
+    "속담을 상황에 맞게 쓰면 말이 풍부해진다.",
+    "속담은 길어서 외우기 어렵다.",
+    "속담은 요즘 쓰면 안 된다.",
+    "고생하면 반드시 실패한다."
+   ],
+   "answer": "속담을 상황에 맞게 쓰면 말이 풍부해진다.",
+   "explain": "문맥에 맞게 사용하면 말이 더 풍부해진다."
+  }
+ ]
+}

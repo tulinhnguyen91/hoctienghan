@@ -1,0 +1,53 @@
+{
+ "id": "bai-100",
+ "lesson": "Bài 100",
+ "title": "Cảm xúc (phần 1/3)",
+ "krTitle": "감정 1",
+ "date": "2027-04-05",
+ "day": 138,
+ "source": "TOPIK 4 – Bài 3: Cảm xúc (phần 1/3)",
+ "practice": {"listening": "Nghe – câu 13~16: Chọn nội dung đúng", "reading": "Đọc – câu 28~50: Đoạn văn dài"},
+ "words": [
+  ["감정", "Gamjeong", "Tình cảm, cảm xúc", "감정을 솔직하게 말하는 게 좋아요.", "Nói thật cảm xúc của mình thì tốt hơn."],
+  ["기쁘다", "Gippeuda", "Vui mừng", "합격 소식을 듣고 정말 기뻤어요.", "Nghe tin đỗ tôi vui thật sự."],
+  ["행복하다", "Haengbokada", "Hạnh phúc", "가족과 함께 있을 때 행복해요.", "Khi ở bên gia đình tôi thấy hạnh phúc."],
+  ["흐뭇하다", "Heumutada", "Mãn nguyện, hài lòng", "아이가 잘 자라는 모습을 보니 흐뭇해요.", "Thấy con lớn khôn tôi thấy mãn nguyện."],
+  ["슬프다", "Seulpeuda", "Buồn", "친구가 이사 가서 슬펐어요.", "Bạn chuyển nhà nên tôi buồn."],
+  ["괴롭다", "Goeropda", "Đau khổ, khổ sở", "헤어진 후에 한동안 괴로웠어요.", "Sau khi chia tay tôi khổ sở một thời gian."],
+  ["우울하다", "Uulhada", "Buồn bã, trầm cảm", "비가 오면 기분이 우울해져요.", "Trời mưa là tâm trạng buồn bã."],
+  ["떨리다", "Tteollida", "Run, hồi hộp", "발표 전에 너무 떨렸어요.", "Trước khi thuyết trình tôi run quá."],
+  ["긴장되다", "Ginjangdoeda", "Căng thẳng, hồi hộp", "면접 때 긴장돼서 말을 잘 못했어요.", "Lúc phỏng vấn hồi hộp nên nói không tốt."],
+  ["불안하다", "Buranhada", "Bất an", "결과를 몰라서 불안해요.", "Không biết kết quả nên thấy bất an."],
+  ["부끄럽다", "Bukkeureopda", "Ngượng ngùng", "칭찬을 들으니까 부끄러웠어요.", "Được khen nên tôi ngượng."],
+  ["창피하다", "Changpihada", "Xấu hổ", "사람들 앞에서 넘어져서 창피했어요.", "Ngã trước mặt mọi người nên xấu hổ."],
+  ["불쾌하다", "Bulkwaehada", "Khó chịu", "그 사람의 말이 좀 불쾌했어요.", "Lời người đó hơi khó chịu."],
+  ["아쉽다", "Aswipda", "Tiếc nuối", "여행이 벌써 끝나서 아쉬워요.", "Chuyến đi đã hết rồi nên tiếc."],
+  ["만족하다", "Manjokada", "Hài lòng", "저는 지금 생활에 만족해요.", "Tôi hài lòng với cuộc sống hiện tại."],
+  ["불만스럽다", "Bulmanseureopda", "Bất mãn", "서비스가 불만스러웠어요.", "Dịch vụ làm tôi bất mãn."]
+ ],
+ "patterns": [
+  {"form": "V/A + 았/었었 — Đã từng (đã khác)", "meaning": "Quá khứ kép (대과거): diễn tả một sự việc/trạng thái ĐÃ XẢY RA trong quá khứ nhưng NAY KHÔNG CÒN như vậy nữa, hoặc đã cách hiện tại khá lâu — nhấn mạnh sự 'đứt quãng' với hiện tại. Chia: ㅏ/ㅗ + 았었 (가다 → 갔었어요), nguyên âm khác + 었었 (먹다 → 먹었었어요), 하다 → 했었어요, danh từ + 이었었/였었 (학생이었었어요). So sánh: 작년에 제주도에 갔어요 (năm ngoái tôi đã đi Jeju — chỉ kể sự việc); 작년에 제주도에 갔었어요 (năm ngoái tôi từng đi Jeju — giờ đã về, hàm ý đối lập). 어렸을 때 키가 작았었어요 (hồi nhỏ thấp — giờ thì không). Hay đi với: 옛날에, 예전에, 어렸을 때, 전에는.", "examples": ["어렸을 때는 성격이 부끄러움이 많았었어요. — Hồi nhỏ tôi từng rất hay ngượng (giờ thì không).", "예전에 이 근처에 살았었어요. — Trước đây tôi từng sống gần đây (giờ chuyển rồi).", "한국에 오기 전에는 매일 불안했었어요. — Trước khi sang Hàn tôi từng ngày nào cũng bất an.", "작년에 그 식당에 갔었는데 지금은 없어졌어요. — Năm ngoái tôi từng đến quán đó nhưng giờ nó mất rồi."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Trước đây tôi từng sống gần đây (giờ thì không).", "kr": "예전에 이 근처에 ___.", "options": ["살았었어요", "살아 왔어요", "살고 있어요"], "answer": "살았었어요", "explain": "Đã từng, nay khác → 았/었었."},
+  {"type": "choice", "q": "Câu nào hàm ý 'giờ đã khác'?", "kr": "", "options": ["어렸을 때 키가 작았었어요.", "어렸을 때 키가 작아요.", "어렸을 때 키가 작았으면 좋겠어요."], "answer": "어렸을 때 키가 작았었어요.", "explain": "작았었어요 = từng thấp (giờ cao rồi)."},
+  {"type": "choice", "q": "Chia đúng: 하다 + 았/었었 + 어요", "kr": "", "options": ["했었어요", "하었었어요", "했어었요"], "answer": "했었어요", "explain": "하다 → 했었어요."},
+  {"type": "choice", "q": "Chia đúng: 먹다 + 았/었었 + 어요", "kr": "", "options": ["먹었었어요", "먹았었어요", "먹었어었요"], "answer": "먹었었어요", "explain": "먹었 + 었어요."},
+  {"type": "choice", "q": "Chọn câu tự nhiên nhất:", "kr": "", "options": ["전에는 담배를 피웠었는데 지금은 끊었어요.", "전에는 담배를 피웠었는데 지금도 피워요 많이.", "내일 담배를 피웠었어요."], "answer": "전에는 담배를 피웠었는데 지금은 끊었어요.", "explain": "Từng hút → nay bỏ: đúng ý nghĩa đối lập."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Trước khi thuyết trình tôi run quá.", "kr": "발표 전에 너무 ___.", "options": ["떨렸어요", "흐뭇했어요", "만족했어요"], "answer": "떨렸어요", "explain": "떨리다 = run, hồi hộp."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Chuyến đi hết rồi nên tiếc.", "kr": "여행이 벌써 끝나서 ___.", "options": ["아쉬워요", "불쾌해요", "기뻐요"], "answer": "아쉬워요", "explain": "아쉽다 = tiếc nuối (bất quy tắc ㅂ)."},
+  {"type": "choice", "q": "Từ nào TRÁI NGHĨA với 만족하다?", "kr": "", "options": ["불만스럽다", "흐뭇하다", "행복하다"], "answer": "불만스럽다", "explain": "만족 (hài lòng) ↔ 불만 (bất mãn)."},
+  {"type": "fill", "q": "Điền: Hồi nhỏ tôi từng ghét rau (giờ thì thích).", "kr": "어렸을 때는 채소를 싫어했___.", "answer": ["었어요"], "explain": "싫어했었어요."},
+  {"type": "fill", "q": "Điền: Năm ngoái tôi từng đến Jeju.", "kr": "작년에 제주도에 갔___.", "answer": ["었어요"], "explain": "갔었어요."},
+  {"type": "fill", "q": "Điền: Trước khi sang Hàn tôi từng ngày nào cũng bất an.", "kr": "한국에 오기 전에는 매일 불안했___.", "answer": ["었어요"], "explain": "불안했었어요."},
+  {"type": "fill", "q": "Điền từ: Thấy con lớn khôn tôi thấy mãn nguyện.", "kr": "아이가 잘 자라는 모습을 보니 ___.", "answer": ["흐뭇해요"], "explain": "흐뭇하다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Trước đây tôi từng sống gần đây.", "tokens": ["예전에", "이", "근처에", "살았었어요"], "answer": "예전에 이 근처에 살았었어요", "explain": "았/었었."},
+  {"type": "order", "q": "Sắp xếp thành câu: Lúc phỏng vấn hồi hộp nên nói không tốt.", "tokens": ["면접", "때", "긴장돼서", "말을", "잘", "못했어요"], "answer": "면접 때 긴장돼서 말을 잘 못했어요", "explain": "긴장되다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Hồi nhỏ tôi từng rất nhút nhát (giờ thì không).", "answer": ["어렸을 때는 부끄러움이 많았었어요.", "어렸을 때는 수줍음이 많았었어요.", "어릴 때는 부끄러움이 많았었어요."], "explain": "많았었어요."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tôi hài lòng với cuộc sống hiện tại.", "answer": ["저는 지금 생활에 만족해요.", "지금 생활에 만족해요.", "저는 현재 생활에 만족해요."], "explain": "N에 만족하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Trời mưa là tâm trạng buồn bã.", "answer": ["비가 오면 기분이 우울해져요.", "비가 오면 우울해져요.", "비가 오면 기분이 우울해요."], "explain": "우울해지다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "처음 한국에 왔을 때는 말이 안 통해서 매일 우울했었어요. 하지만 지금은 친구도 많고 생활에 만족해요.", "answer": "Lần đầu sang Hàn vì không nói được nên ngày nào tôi cũng từng buồn bã. Nhưng bây giờ có nhiều bạn và tôi hài lòng với cuộc sống.", "explain": "우울했었어요 → giờ đã khác."},
+  {"type": "read", "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)", "kr": "남자: 지난주 발표 어땠어요? 많이 긴장했죠?\n여자: 네, 발표 전날 밤에는 너무 불안해서 잠을 못 잤었어요. 그런데 막상 시작하니까 괜찮았어요. 교수님도 만족하셨어요.\n남자: 정말 잘됐네요.", "options": ["여자는 발표 전날 잠을 잘 못 잤다.", "여자는 발표를 하지 못했다.", "교수님은 발표에 불만스러워했다.", "여자는 발표 중에 계속 떨었다."], "answer": "여자는 발표 전날 잠을 잘 못 잤다.", "explain": "전날 밤에는 … 잠을 못 잤었어요."},
+  {"type": "read", "q": "Đọc đoạn văn và chọn nội dung đúng. (Dạng TOPIK II câu 28~50)", "kr": "사람들은 보통 기쁘거나 행복한 감정은 좋고 슬프거나 불안한 감정은 나쁘다고 생각한다. 하지만 심리학자들은 모든 감정에 역할이 있다고 말한다. 예를 들어 시험 전에 느끼는 불안은 우리가 더 열심히 준비하게 한다. 또 슬픔은 다른 사람의 도움을 받게 해 준다. 그러므로 부정적인 감정도 무조건 피할 필요는 없다.", "options": ["불안한 감정이 도움이 될 때도 있다.", "슬픈 감정은 항상 나쁘다.", "기쁜 감정만 역할이 있다.", "부정적인 감정은 무조건 피해야 한다."], "answer": "불안한 감정이 도움이 될 때도 있다.", "explain": "불안은 더 열심히 준비하게 한다."}
+ ]
+}

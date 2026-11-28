@@ -1,0 +1,53 @@
+{
+ "id": "bai-115",
+ "lesson": "Bài 115",
+ "title": "Lễ tết (phần 1/4)",
+ "krTitle": "명절 1",
+ "date": "2027-04-28",
+ "day": 161,
+ "source": "TOPIK 4 – Bài 7: Lễ tết (phần 1/4)",
+ "practice": {"listening": "Nghe – câu 13~16: Chọn nội dung đúng", "reading": "Đọc – câu 16~18: Điền vào đoạn văn"},
+ "words": [
+  ["명절", "Myeongjeol", "Ngày lễ tết", "한국의 큰 명절은 설날과 추석이에요.", "Lễ tết lớn của Hàn là Seollal và Chuseok."],
+  ["세배를 하다", "Sebaereul hada", "Lạy chào ngày Tết", "설날 아침에 할아버지께 세배를 했어요.", "Sáng mùng 1 Tết tôi lạy chào ông."],
+  ["덕담을 하다", "Deokdameul hada", "Nói lời chúc tốt đẹp", "할머니께서 덕담을 해 주셨어요.", "Bà đã nói lời chúc tốt đẹp."],
+  ["떡국을 먹다", "Tteokgugeul meokda", "Ăn canh bánh gạo (tteokguk)", "떡국을 먹으면 한 살을 더 먹는대요.", "Nghe nói ăn tteokguk là thêm một tuổi."],
+  ["세뱃돈", "Sebaetdon", "Tiền mừng tuổi", "아이들이 세뱃돈을 받고 좋아해요.", "Trẻ con được tiền mừng tuổi thì thích."],
+  ["설빔을 입다", "Seolbimeul ipda", "Mặc quần áo Tết", "아이들이 설빔을 입고 세배를 해요.", "Trẻ con mặc đồ Tết rồi lạy chào."],
+  ["새해 복 많이 받으세요.", "Saehae bong mani badeuseyo.", "Chúc năm mới nhiều phúc.", "\"새해 복 많이 받으세요!\" 하고 인사했어요.", "Tôi chào: 'Chúc mừng năm mới!'"],
+  ["만수무강하세요/오래 사세요.", "Mansumuganghaseyo/orae saseyo.", "Chúc (ông, bà) sống lâu trăm tuổi.", "할아버지, 만수무강하세요.", "Ông ơi, chúc ông sống lâu trăm tuổi."],
+  ["소원 성취 하세요.", "Sowon seongchwi haseyo.", "Chúc (bạn) đạt mọi điều ước.", "올해 소원 성취 하세요!", "Năm nay chúc bạn đạt mọi điều ước!"],
+  ["올 한 해도 건강하세요.", "Ol han haedo geonganghaseyo.", "Chúc mạnh khỏe cả năm.", "선생님, 올 한 해도 건강하세요.", "Thầy ơi, chúc thầy cả năm mạnh khỏe."],
+  ["차례를 지내다", "Charyereul jinaeda", "Cúng tổ tiên (ngày lễ)", "추석 아침에 차례를 지내요.", "Sáng Chuseok làm lễ cúng tổ tiên."],
+  ["송편을 빚다", "Songpyeoneul bitda", "Nặn bánh songpyeon", "가족이 모여서 송편을 빚었어요.", "Cả nhà quây quần nặn bánh songpyeon."],
+  ["벌초를 하다", "Beolchoreul hada", "Phát cỏ mộ", "추석 전에 벌초를 해요.", "Trước Chuseok người ta phát cỏ mộ."],
+  ["성묘를 가다", "Seongmyoreul gada", "Đi viếng mộ", "차례를 지낸 후에 성묘를 가요.", "Cúng xong thì đi viếng mộ."],
+  ["추수를 하다", "Chusureul hada", "Thu hoạch", "가을에 쌀을 추수해요.", "Mùa thu thu hoạch lúa."],
+  ["보름달", "Boreumdal", "Trăng rằm", "추석에는 보름달이 보여요.", "Chuseok thì thấy trăng rằm."]
+ ],
+ "patterns": [
+  {"form": "피동사 — Động từ bị động", "meaning": "피동사 (động từ bị động) diễn tả chủ ngữ BỊ / ĐƯỢC tác động bởi hành động (không tự làm): 'bị…, được…'. Tạo bằng cách gắn hậu tố 이/히/리/기 vào thân động từ (giống 사동사 ở bài 97, nên dễ nhầm — phải xem nghĩa trong câu!). Nhóm thường gặp: 이: 보다 → 보이다 (được nhìn thấy), 쓰다 → 쓰이다 (được viết/dùng), 놓다 → 놓이다 (được đặt), 바꾸다 → 바뀌다 (bị đổi); 히: 먹다 → 먹히다 (bị ăn), 잡다 → 잡히다 (bị bắt), 닫다 → 닫히다 (bị đóng), 읽다 → 읽히다 (được đọc), 막다 → 막히다 (bị tắc); 리: 열다 → 열리다 (được mở, được tổ chức), 듣다 → 들리다 (được nghe thấy), 팔다 → 팔리다 (được bán), 풀다 → 풀리다 (được gỡ); 기: 안다 → 안기다 (được ôm), 쫓다 → 쫓기다 (bị đuổi), 끊다 → 끊기다 (bị cắt), 잠그다 → 잠기다 (bị khóa). Câu chủ động: 경찰이 도둑을 잡았어요 → bị động: 도둑이 경찰에게 잡혔어요. Bạn đã gặp: 길이 막히다, 문이 잠기다, 전기가 끊기다, 소리가 들리다 — đều là 피동사!", "examples": ["추석에는 보름달이 잘 보여요. — Chuseok trăng rằm được nhìn thấy rõ.", "설날에는 고속도로가 많이 막혀요. — Tết đường cao tốc bị tắc nhiều.", "마을 광장에서 명절 행사가 열렸어요. — Sự kiện ngày lễ được tổ chức ở quảng trường làng.", "명절 선물 세트가 다 팔렸어요. — Bộ quà Tết đã được bán hết."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn bị động của 보다 (được nhìn thấy):", "kr": "추석에는 보름달이 잘 ___.", "options": ["보여요", "봐요", "보게 해요"], "answer": "보여요", "explain": "보다 → 보이다."},
+  {"type": "choice", "q": "Chọn bị động của 막다 (bị tắc):", "kr": "설날에는 길이 많이 ___.", "options": ["막혀요", "막아요", "막겨요"], "answer": "막혀요", "explain": "막다 → 막히다."},
+  {"type": "choice", "q": "Chọn bị động của 열다 (được tổ chức):", "kr": "광장에서 행사가 ___.", "options": ["열렸어요", "열었어요", "열혔어요"], "answer": "열렸어요", "explain": "열다 → 열리다."},
+  {"type": "choice", "q": "Chọn bị động của 팔다 (được bán):", "kr": "선물 세트가 다 ___.", "options": ["팔렸어요", "팔았어요", "팔혔어요"], "answer": "팔렸어요", "explain": "팔다 → 팔리다."},
+  {"type": "choice", "q": "Chọn bị động của 잡다 (bị bắt):", "kr": "도둑이 경찰에게 ___.", "options": ["잡혔어요", "잡았어요", "잡겼어요"], "answer": "잡혔어요", "explain": "잡다 → 잡히다."},
+  {"type": "choice", "q": "Câu '아이에게 밥을 먹여요' dùng loại động từ nào?", "kr": "", "options": ["사동사 (gây khiến)", "피동사 (bị động)", "형용사"], "answer": "사동사 (gây khiến)", "explain": "먹이다 = cho ăn (gây khiến); 먹히다 = bị ăn (bị động)."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Trẻ con được tiền mừng tuổi thì thích.", "kr": "아이들이 ___을 받고 좋아해요.", "options": ["세뱃돈", "설빔", "덕담"], "answer": "세뱃돈", "explain": "세뱃돈 = tiền mừng tuổi."},
+  {"type": "choice", "q": "Lời chúc phù hợp với ông bà ngày Tết:", "kr": "", "options": ["만수무강하세요.", "소원 성취 하세요 친구야.", "공부 열심히 해."], "answer": "만수무강하세요.", "explain": "만수무강 = sống lâu trăm tuổi."},
+  {"type": "fill", "q": "Điền (bị động của 듣다): Tôi nghe thấy tiếng nhạc.", "kr": "음악 소리가 ___.", "answer": ["들려요", "들렸어요"], "explain": "듣다 → 들리다."},
+  {"type": "fill", "q": "Điền (bị động của 닫다): Cửa bị đóng.", "kr": "문이 ___.", "answer": ["닫혔어요", "닫혀요"], "explain": "닫다 → 닫히다."},
+  {"type": "fill", "q": "Điền (bị động của 바꾸다): Lịch trình bị đổi.", "kr": "일정이 ___.", "answer": ["바뀌었어요", "바뀌어요", "바뀌었습니다"], "explain": "바꾸다 → 바뀌다."},
+  {"type": "fill", "q": "Điền từ: Sáng Chuseok làm lễ cúng tổ tiên.", "kr": "추석 아침에 ___를 지내요.", "answer": ["차례"], "explain": "차례를 지내다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Tết đường cao tốc bị tắc nhiều.", "tokens": ["설날에는", "고속도로가", "많이", "막혀요"], "answer": "설날에는 고속도로가 많이 막혀요", "explain": "막히다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Cả nhà quây quần nặn bánh songpyeon.", "tokens": ["가족이", "모여서", "송편을", "빚었어요"], "answer": "가족이 모여서 송편을 빚었어요", "explain": "송편을 빚다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Chuseok trăng rằm được nhìn thấy rõ.", "answer": ["추석에는 보름달이 잘 보여요.", "추석에 보름달이 잘 보여요."], "explain": "보이다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Bộ quà Tết đã được bán hết.", "answer": ["명절 선물 세트가 다 팔렸어요.", "선물 세트가 다 팔렸어요.", "명절 선물 세트가 모두 팔렸어요."], "explain": "팔리다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Sáng mùng 1 Tết tôi lạy chào ông.", "answer": ["설날 아침에 할아버지께 세배를 했어요.", "설날 아침에 할아버지께 세배했어요.", "설날 아침에 할아버지에게 세배를 했어요."], "explain": "세배를 하다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "설날 아침에 아이들은 설빔을 입고 어른들께 세배를 해요. 그러면 어른들은 덕담을 해 주시고 세뱃돈을 주세요.", "answer": "Sáng mùng 1 Tết trẻ con mặc đồ Tết và lạy chào người lớn. Rồi người lớn nói lời chúc tốt đẹp và cho tiền mừng tuổi.", "explain": "Phong tục Seollal."},
+  {"type": "read", "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)", "kr": "여자: 이번 추석 연휴에는 고속도로가 많이 막힐 것으로 보입니다. 특히 추석 전날 오전이 가장 막히겠습니다. 성묘를 가시는 분들은 이른 아침이나 저녁에 출발하시는 것이 좋겠습니다. 한편 추석 당일 밤에는 전국에서 보름달이 잘 보이겠습니다.", "options": ["추석 전날 오전에 길이 가장 막힐 것이다.", "추석에는 보름달을 볼 수 없다.", "고속도로가 막히지 않을 것이다.", "성묘는 낮에 가는 것이 좋다."], "answer": "추석 전날 오전에 길이 가장 막힐 것이다.", "explain": "추석 전날 오전이 가장 막히겠습니다."},
+  {"type": "read", "q": "Chọn từ điền vào ( ). (Dạng TOPIK II câu 16~18)", "kr": "추석은 한 해의 농사를 마치고 ( ___ ) 곡식과 과일로 조상에게 감사하는 날이다. 사람들은 아침에 차례를 지내고 성묘를 간다. 그리고 밤에는 보름달을 보면서 소원을 빈다.", "options": ["추수한", "막힌", "팔린", "잠긴"], "answer": "추수한", "explain": "Ngũ cốc đã thu hoạch (추수한)."}
+ ]
+}

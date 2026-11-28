@@ -1,0 +1,380 @@
+{
+ "id": "bai-172",
+ "lesson": "Bài 172",
+ "title": "Nhân vật lịch sử (phần 1/4)",
+ "krTitle": "역사 속 인물 1",
+ "date": "2027-07-25",
+ "day": 249,
+ "source": "TOPIK 5 – Bài 6: Nhân vật lịch sử (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "위인",
+   "Wiin",
+   "Vĩ nhân",
+   "어릴 때 위인의 이야기를 많이 들었어요.",
+   "Hồi nhỏ tôi đã nghe nhiều câu chuyện về vĩ nhân."
+  ],
+  [
+   "선구자",
+   "Seonguja",
+   "Người tiên phong",
+   "그분은 여성 교육의 선구자였어요.",
+   "Bà ấy là người tiên phong của giáo dục nữ giới."
+  ],
+  [
+   "인물평",
+   "Inmulpyeong",
+   "Bình luận nhân vật, đánh giá con người",
+   "신문에 그 정치인에 대한 인물평이 실렸어요.",
+   "Bài nhận xét về chính trị gia đó được đăng trên báo."
+  ],
+  [
+   "역사 인물",
+   "Yeoksa inmul",
+   "Nhân vật lịch sử",
+   "제가 가장 존경하는 역사 인물은 세종대왕이에요.",
+   "Nhân vật lịch sử tôi kính trọng nhất là vua Sejong."
+  ],
+  [
+   "인명사전",
+   "Inmyeongsajeon",
+   "Từ điển danh nhân",
+   "모르는 이름은 인명사전에서 찾아보세요.",
+   "Tên nào không biết thì hãy tra trong từ điển nhân danh."
+  ],
+  [
+   "업적",
+   "Eopjeok",
+   "Sự nghiệp",
+   "세종대왕의 가장 큰 업적은 한글 창제예요.",
+   "Thành tựu lớn nhất của vua Sejong là sáng tạo ra Hangeul."
+  ],
+  [
+   "시대 인물",
+   "Sidae inmul",
+   "Nhân vật thời đại",
+   "그는 그 시대 인물 중에서 가장 유명했어요.",
+   "Ông ấy nổi tiếng nhất trong số các nhân vật của thời đại đó."
+  ],
+  [
+   "인물상",
+   "Inmulsang",
+   "Hình mẫu nhân vật",
+   "회사가 원하는 인물상은 성실한 사람이에요.",
+   "Hình mẫu nhân vật mà công ty muốn là người chăm chỉ."
+  ],
+  [
+   "평판",
+   "Pyeongpan",
+   "Tiếng tăm, danh tiếng, tên tuổi",
+   "그 의사는 동네에서 평판이 좋아요.",
+   "Bác sĩ đó có tiếng tốt trong khu phố."
+  ],
+  [
+   "평범하다",
+   "Pyeongbeomhada",
+   "Bình thường",
+   "그는 평범한 농부의 아들로 태어났어요.",
+   "Ông ấy sinh ra là con trai của một người nông dân bình thường."
+  ],
+  [
+   "위대하다",
+   "Widaehada",
+   "Vĩ đại",
+   "위대한 사람은 어려움 앞에서 포기하지 않아요.",
+   "Người vĩ đại không bỏ cuộc trước khó khăn."
+  ],
+  [
+   "모범이 되다",
+   "Mobeomi doeda",
+   "Trở thành tấm gương, trở thành hình mẫu",
+   "그의 삶은 많은 젊은이에게 모범이 됐어요.",
+   "Cuộc đời ông đã trở thành tấm gương cho nhiều người trẻ."
+  ],
+  [
+   "훌륭하다",
+   "Hullyunghada",
+   "Kiệt xuất, xuất chúng, tuyệt vời",
+   "훌륭한 지도자는 국민의 말을 들어요.",
+   "Nhà lãnh đạo giỏi biết lắng nghe nhân dân."
+  ],
+  [
+   "빛내다",
+   "Binnaeda",
+   "Làm rạng danh",
+   "그 선수는 나라의 이름을 빛냈어요.",
+   "Vận động viên đó đã làm rạng danh đất nước."
+  ],
+  [
+   "비범하다",
+   "Bibeomhada",
+   "Phi phàm",
+   "그는 어릴 때부터 비범한 재능을 보였어요.",
+   "Ông ấy thể hiện tài năng phi thường từ nhỏ."
+  ],
+  [
+   "빛나다",
+   "Binnada",
+   "Tỏa sáng",
+   "그의 업적은 지금도 빛나고 있어요.",
+   "Thành tựu của ông đến nay vẫn tỏa sáng."
+  ],
+  [
+   "후세에 전하다",
+   "Husee jeonhada",
+   "Truyền cho thế hệ sau",
+   "조상들의 지혜를 후세에 전해야 해요.",
+   "Phải truyền lại trí tuệ của tổ tiên cho đời sau."
+  ],
+  [
+   "위인전",
+   "Wiinjeon",
+   "Tiểu sử vĩ nhân",
+   "아이에게 위인전을 읽어 주었어요.",
+   "Tôi đã đọc truyện danh nhân cho con nghe."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 한 — Chừng nào còn",
+   "meaning": "Nêu ĐIỀU KIỆN kéo dài: 'chừng nào còn…, miễn là còn…, một khi còn…' thì vế sau sẽ xảy ra / tiếp tục. Gắn 는 한 vào thân động từ (cả có và không patchim): 살다 → 사는 한, 노력하다 → 노력하는 한. Phủ định: 지 않는 한 = 'trừ khi…, nếu không…': 노력하지 않는 한 성공할 수 없어요 (trừ khi cố gắng, không thể thành công). Với 있다/없다: 있는 한, 없는 한. Danh từ: N이/가 아닌 한 (trừ khi không phải…). Thường đi với vế sau mang tính khẳng định mạnh: 'nhất định…, không thể…'. So sánh với (으)면: (으)면 chỉ là 'nếu'; 는 한 nhấn mạnh 'trong suốt thời gian điều kiện đó còn đúng'. Hay gặp: 제가 살아 있는 한 (chừng nào tôi còn sống), 가능한 한 (trong khả năng có thể).",
+   "examples": [
+    "제가 살아 있는 한 그 은혜를 잊지 않겠어요. — Chừng nào tôi còn sống, tôi sẽ không quên ơn đó.",
+    "포기하지 않는 한 기회는 또 와요. — Chừng nào không bỏ cuộc thì cơ hội sẽ lại đến.",
+    "역사를 기억하는 한 위인들의 업적은 빛날 거예요. — Chừng nào còn nhớ lịch sử, thành tựu của các vĩ nhân sẽ còn tỏa sáng.",
+    "특별한 일이 없는 한 내일 갈게요. — Trừ khi có việc đặc biệt, mai tôi sẽ đi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Sách kể về cuộc đời của các vĩ nhân gọi là gì?",
+   "kr": "",
+   "options": [
+    "위인전",
+    "인명사전",
+    "인물평"
+   ],
+   "answer": "위인전",
+   "explain": "위인 + 전(傳: truyện)."
+  },
+  {
+   "type": "choice",
+   "q": "Người đi đầu, mở đường trong một lĩnh vực gọi là gì?",
+   "kr": "",
+   "options": [
+    "선구자",
+    "평판",
+    "인물상"
+   ],
+   "answer": "선구자",
+   "explain": "선구자 = người tiên phong."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Thành tựu lớn nhất của vua Sejong là sáng tạo ra Hangeul.",
+   "kr": "세종대왕의 가장 큰 ___은 한글 창제예요.",
+   "options": [
+    "업적",
+    "평판",
+    "위인"
+   ],
+   "answer": "업적",
+   "explain": "업적 = thành tựu, công lao."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bác sĩ đó có tiếng tốt trong khu phố.",
+   "kr": "그 의사는 동네에서 ___이 좋아요.",
+   "options": [
+    "평판",
+    "인물평",
+    "선구자"
+   ],
+   "answer": "평판",
+   "explain": "평판이 좋다 = có tiếng tốt."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 평범하다 là gì?",
+   "kr": "",
+   "options": [
+    "비범하다",
+    "훌륭하다",
+    "빛나다"
+   ],
+   "answer": "비범하다",
+   "explain": "평범하다 (bình thường) ↔ 비범하다 (phi thường)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói ĐÚNG: 'Chừng nào không bỏ cuộc thì cơ hội sẽ lại đến.'",
+   "kr": "",
+   "options": [
+    "포기하지 않는 한 기회는 또 와요.",
+    "포기하지 않은 한 기회는 또 와요.",
+    "포기하지 않을 한 기회는 또 와요."
+   ],
+   "answer": "포기하지 않는 한 기회는 또 와요.",
+   "explain": "Luôn dùng 는 한 (hiện tại)."
+  },
+  {
+   "type": "choice",
+   "q": "'특별한 일이 없는 한 내일 갈게요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Trừ khi có việc đặc biệt, mai tôi sẽ đi.",
+    "Vì không có việc đặc biệt nên mai tôi đi.",
+    "Dù có việc đặc biệt, mai tôi vẫn đi."
+   ],
+   "answer": "Trừ khi có việc đặc biệt, mai tôi sẽ đi.",
+   "explain": "없는 한 = chừng nào không có = trừ khi có."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vận động viên đó đã làm rạng danh đất nước.",
+   "kr": "그 선수는 나라의 이름을 ___.",
+   "options": [
+    "빛냈어요",
+    "빛났어요",
+    "평범했어요"
+   ],
+   "answer": "빛냈어요",
+   "explain": "빛내다 (làm cho sáng, ngoại động) — 빛나다 (tự sáng, nội động)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 한 với 살다: Chừng nào tôi còn sống, tôi sẽ không quên.",
+   "kr": "제가 ___ 잊지 않겠어요.",
+   "answer": [
+    "사는 한",
+    "살아 있는 한"
+   ],
+   "explain": "살다 → 사는 한 (bỏ ㄹ trước 는)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 한 với 노력하다 (phủ định): Trừ khi cố gắng, không thể thành công.",
+   "kr": "___ 성공할 수 없어요.",
+   "answer": [
+    "노력하지 않는 한"
+   ],
+   "explain": "지 않는 한 = trừ khi."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cuộc đời ông đã trở thành tấm gương cho nhiều người trẻ.",
+   "kr": "그의 삶은 많은 젊은이에게 ___이 됐어요.",
+   "answer": [
+    "모범"
+   ],
+   "explain": "모범이 되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phải truyền lại trí tuệ của tổ tiên cho đời sau.",
+   "kr": "조상들의 지혜를 ___에 전해야 해요.",
+   "answer": [
+    "후세"
+   ],
+   "explain": "후세에 전하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chừng nào còn nhớ lịch sử, thành tựu của vĩ nhân sẽ còn tỏa sáng.",
+   "tokens": [
+    "역사를",
+    "기억하는",
+    "한",
+    "위인들의",
+    "업적은",
+    "빛날",
+    "거예요"
+   ],
+   "answer": "역사를 기억하는 한 위인들의 업적은 빛날 거예요",
+   "explain": "V는 한 + (으)ㄹ 거예요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ông ấy thể hiện tài năng phi thường từ nhỏ.",
+   "tokens": [
+    "그는",
+    "어릴",
+    "때부터",
+    "비범한",
+    "재능을",
+    "보였어요"
+   ],
+   "answer": "그는 어릴 때부터 비범한 재능을 보였어요",
+   "explain": "비범한 재능."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhân vật lịch sử tôi kính trọng nhất là vua Sejong.",
+   "answer": [
+    "제가 가장 존경하는 역사 인물은 세종대왕이에요.",
+    "제가 제일 존경하는 역사 인물은 세종대왕이에요.",
+    "내가 가장 존경하는 역사 인물은 세종대왕이에요."
+   ],
+   "explain": "존경하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chừng nào còn mưa thì không thể đi được. (dùng 는 한)",
+   "answer": [
+    "비가 오는 한 갈 수 없어요.",
+    "비가 오는 한 못 가요.",
+    "비가 내리는 한 갈 수 없어요."
+   ],
+   "explain": "오다 → 오는 한."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhà lãnh đạo giỏi biết lắng nghe nhân dân.",
+   "answer": [
+    "훌륭한 지도자는 국민의 말을 들어요.",
+    "훌륭한 지도자는 국민의 말을 잘 들어요.",
+    "훌륭한 지도자는 국민의 목소리를 들어요."
+   ],
+   "explain": "훌륭하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "그는 평범한 집안에서 태어났지만 비범한 노력으로 큰 업적을 남겼다. 그의 이야기는 지금도 위인전으로 후세에 전해지고 있다.",
+   "answer": "Ông sinh ra trong một gia đình bình thường nhưng nhờ nỗ lực phi thường đã để lại thành tựu lớn. Câu chuyện của ông đến nay vẫn được truyền lại cho đời sau qua truyện danh nhân.",
+   "explain": "평범하다, 비범하다, 후세에 전해지다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 이번 숙제가 존경하는 역사 인물에 대해 쓰는 거지요?\n여자: 네. 그런데 그 인물의 정확한 생일을 모르겠어요.\n남자: 그럼 도서관에 있는 인명사전을 찾아보는 게 어때요?\n여자: 좋은 생각이네요. 지금 가 볼게요.",
+   "options": [
+    "도서관에 가서 인명사전을 찾아본다.",
+    "남자에게 숙제를 부탁한다.",
+    "위인전을 산다.",
+    "인물의 생일을 남자에게 묻는다."
+   ],
+   "answer": "도서관에 가서 인명사전을 찾아본다.",
+   "explain": "지금 가 볼게요 → đi thư viện."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu thể hiện chủ đề của tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "'평범한 교사에서 교육의 선구자로' … 시골 학교 김 선생, 30년 노력 빛나",
+   "options": [
+    "평범했던 교사가 30년 동안 노력해서 교육의 선구자가 되었다.",
+    "김 선생은 처음부터 유명한 교사였다.",
+    "김 선생은 30년 동안 학교를 쉬었다.",
+    "시골 학교가 문을 닫았다."
+   ],
+   "answer": "평범했던 교사가 30년 동안 노력해서 교육의 선구자가 되었다.",
+   "explain": "평범한 교사에서 → 선구자로; 노력 빛나 = nỗ lực được ghi nhận."
+  }
+ ]
+}

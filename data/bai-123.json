@@ -1,0 +1,367 @@
+{
+ "id": "bai-123",
+ "lesson": "Bài 123",
+ "title": "Nơi làm việc (phần 1/5)",
+ "krTitle": "직장 1",
+ "date": "2027-05-10",
+ "day": 173,
+ "source": "TOPIK 4 – Bài 9: Nơi làm việc (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "직장",
+   "Jikjang",
+   "Nơi làm việc",
+   "새 직장은 분위기가 좋더라고요.",
+   "Tôi thấy chỗ làm mới không khí tốt lắm."
+  ],
+  [
+   "입사",
+   "Ipsa",
+   "Vào công ty",
+   "입사한 지 벌써 1년이 됐어요.",
+   "Vào công ty đã được 1 năm rồi."
+  ],
+  [
+   "퇴사",
+   "Toesa",
+   "Nghỉ việc (rời công ty)",
+   "선배가 다음 달에 퇴사한대요.",
+   "Nghe nói tháng sau đàn anh nghỉ việc."
+  ],
+  [
+   "승진",
+   "Seungjin",
+   "Thăng chức",
+   "승진 축하해요!",
+   "Chúc mừng thăng chức!"
+  ],
+  [
+   "출장",
+   "Chuljang",
+   "Đi công tác",
+   "다음 주에 부산으로 출장을 가요.",
+   "Tuần sau tôi đi công tác Busan."
+  ],
+  [
+   "전근",
+   "Jeongeun",
+   "Chuyển công tác (nơi khác, cùng công ty)",
+   "아버지가 지방으로 전근을 가셨어요.",
+   "Bố được chuyển công tác về tỉnh."
+  ],
+  [
+   "이직",
+   "Ijik",
+   "Chuyển việc",
+   "연봉 때문에 이직을 고민하고 있어요.",
+   "Tôi đang cân nhắc chuyển việc vì lương."
+  ],
+  [
+   "(회사를) 옮기다",
+   "(hoesareul) omgida",
+   "Chuyển công ty",
+   "작년에 회사를 옮겼어요.",
+   "Năm ngoái tôi chuyển công ty."
+  ],
+  [
+   "(회사를) 그만두다",
+   "(hoesareul) geumanduda",
+   "Thôi việc (ở công ty)",
+   "건강 때문에 회사를 그만뒀어요.",
+   "Vì sức khỏe tôi đã thôi việc."
+  ],
+  [
+   "정년퇴직",
+   "Jeongnyeontoejik",
+   "Về hưu theo tuổi",
+   "아버지는 작년에 정년퇴직을 하셨어요.",
+   "Bố tôi về hưu năm ngoái."
+  ],
+  [
+   "사직서",
+   "Sajikseo",
+   "Đơn thôi việc",
+   "팀장님께 사직서를 냈어요.",
+   "Tôi nộp đơn thôi việc cho trưởng nhóm."
+  ],
+  [
+   "퇴직금",
+   "Toejikgeum",
+   "Trợ cấp thôi việc",
+   "퇴직금으로 가게를 차렸어요.",
+   "Tôi mở cửa hàng bằng tiền trợ cấp thôi việc."
+  ],
+  [
+   "출근",
+   "Chulgeun",
+   "Đi làm",
+   "출근 시간에는 지하철이 복잡하더라고요.",
+   "Tôi thấy giờ đi làm tàu điện đông lắm."
+  ],
+  [
+   "퇴근",
+   "Toegeun",
+   "Tan làm",
+   "오늘은 일찍 퇴근할 수 있어요.",
+   "Hôm nay có thể về sớm."
+  ],
+  [
+   "외근",
+   "Oegeun",
+   "Làm việc bên ngoài",
+   "오후에는 외근이 있어요.",
+   "Buổi chiều tôi có việc bên ngoài."
+  ],
+  [
+   "결근",
+   "Gyeolgeun",
+   "Nghỉ làm (vắng mặt)",
+   "감기 때문에 결근했어요.",
+   "Vì cảm nên tôi nghỉ làm."
+  ],
+  [
+   "조퇴",
+   "Jotoe",
+   "Về sớm (trước giờ)",
+   "몸이 안 좋아서 조퇴했어요.",
+   "Không khỏe nên tôi về sớm."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 더라고(요) — Tôi thấy (hồi tưởng)",
+   "meaning": "Người nói kể lại điều mình TRỰC TIẾP THẤY / NGHE / CẢM NHẬN được trong quá khứ (một phát hiện mới), như đang nhớ lại: 'tôi thấy…, hóa ra…'. Gắn trực tiếp vào thân: 좋다 → 좋더라고요, 복잡하다 → 복잡하더라고요, 먹다 → 먹더라고요; danh từ + (이)더라고요 (학생이더라고요). Quá khứ hoàn thành 았/었더라고요 (đã… rồi, khi tôi thấy thì việc đó đã xong: 벌써 퇴근했더라고요 — tôi đến thì anh ấy đã về rồi). So sánh với 던데요 (bài 86): cùng là hồi tưởng; 던데요 thường để ngỏ, chờ phản ứng hoặc làm nền; 더라고요 kết thúc câu, kể chắc chắn. Lưu ý: (1) chỉ kể điều người nói trực tiếp trải nghiệm; (2) không dùng cho hành động của chính mình (✗ 제가 밥을 먹더라고요), nhưng dùng được cho cảm giác bản thân khi phát hiện: 저는 그 일이 재미있더라고요 (tôi thấy việc đó hay).",
+   "examples": [
+    "새 직장은 분위기가 좋더라고요. — Tôi thấy chỗ làm mới không khí tốt lắm.",
+    "출근 시간에는 지하철이 정말 복잡하더라고요. — Tôi thấy giờ đi làm tàu điện đông kinh khủng.",
+    "사무실에 가 보니까 다들 벌써 퇴근했더라고요. — Tôi đến văn phòng thì hóa ra mọi người đã về hết.",
+    "그 부장님은 생각보다 친절하시더라고요. — Tôi thấy trưởng phòng đó tử tế hơn tôi nghĩ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi thấy chỗ làm mới không khí tốt lắm.",
+   "kr": "새 직장은 분위기가 ___.",
+   "options": [
+    "좋더라고요",
+    "좋았으면 좋겠어요",
+    "좋자고요"
+   ],
+   "answer": "좋더라고요",
+   "explain": "Kể điều đã trực tiếp cảm nhận → 더라고요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đến thì mọi người đã về hết.",
+   "kr": "다들 벌써 ___.",
+   "options": [
+    "퇴근했더라고요",
+    "퇴근하더라고요 내일",
+    "퇴근하자마자요"
+   ],
+   "answer": "퇴근했더라고요",
+   "explain": "Đã xong khi tôi thấy → 았/었더라고요."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào SAI?",
+   "kr": "",
+   "options": [
+    "제가 어제 밥을 먹더라고요.",
+    "그 식당 음식이 맛있더라고요.",
+    "민수 씨가 열심히 일하더라고요."
+   ],
+   "answer": "제가 어제 밥을 먹더라고요.",
+   "explain": "Không dùng 더라고요 cho hành động của chính mình."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: (Tôi thấy) người đó là giám đốc.",
+   "kr": "그분이 사장님이___.",
+   "options": [
+    "더라고요",
+    "거든요",
+    "자고요"
+   ],
+   "answer": "더라고요",
+   "explain": "사장님 có patchim → 사장님 + 이더라고요 = 사장님이더라고요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu nối tiếp tự nhiên: A: 새 회사는 어때요? B: ___",
+   "kr": "",
+   "options": [
+    "동료들이 정말 친절하더라고요.",
+    "동료들이 친절하자고 해요.",
+    "동료들이 친절해야겠어요."
+   ],
+   "answer": "동료들이 정말 친절하더라고요.",
+   "explain": "Kể lại trải nghiệm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không khỏe nên tôi về sớm.",
+   "kr": "몸이 안 좋아서 ___했어요.",
+   "options": [
+    "조퇴",
+    "외근",
+    "승진"
+   ],
+   "answer": "조퇴",
+   "explain": "조퇴 = về sớm (giữa giờ)."
+  },
+  {
+   "type": "choice",
+   "q": "Phân biệt: Chuyển sang công ty KHÁC gọi là gì?",
+   "kr": "",
+   "options": [
+    "이직",
+    "전근",
+    "출장"
+   ],
+   "answer": "이직",
+   "explain": "이직 = đổi việc/công ty; 전근 = chuyển chi nhánh trong cùng công ty."
+  },
+  {
+   "type": "choice",
+   "q": "Nghỉ hưu khi đến tuổi quy định gọi là gì?",
+   "kr": "",
+   "options": [
+    "정년퇴직",
+    "퇴사 사직서",
+    "결근"
+   ],
+   "answer": "정년퇴직",
+   "explain": "정년 = tuổi về hưu."
+  },
+  {
+   "type": "fill",
+   "q": "Điền: Tôi thấy tàu điện giờ đi làm đông lắm.",
+   "kr": "출근 시간에는 지하철이 복잡하___.",
+   "answer": [
+    "더라고요"
+   ],
+   "explain": "복잡하더라고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền: Tôi thấy trưởng phòng tử tế hơn tôi nghĩ.",
+   "kr": "부장님이 생각보다 친절하시___.",
+   "answer": [
+    "더라고요"
+   ],
+   "explain": "친절하시더라고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền: Tôi đến thì cửa hàng đã đóng cửa rồi.",
+   "kr": "가게에 가 보니까 벌써 문을 닫았___.",
+   "answer": [
+    "더라고요"
+   ],
+   "explain": "닫았더라고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi nộp đơn thôi việc.",
+   "kr": "팀장님께 ___를 냈어요.",
+   "answer": [
+    "사직서"
+   ],
+   "explain": "사직서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi thấy chỗ làm mới không khí tốt lắm.",
+   "tokens": [
+    "새",
+    "직장은",
+    "분위기가",
+    "좋더라고요"
+   ],
+   "answer": "새 직장은 분위기가 좋더라고요",
+   "explain": "더라고요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tuần sau tôi đi công tác Busan.",
+   "tokens": [
+    "다음",
+    "주에",
+    "부산으로",
+    "출장을",
+    "가요"
+   ],
+   "answer": "다음 주에 부산으로 출장을 가요",
+   "explain": "출장을 가다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi thấy đồng nghiệp rất tử tế.",
+   "answer": [
+    "동료들이 정말 친절하더라고요.",
+    "동료들이 아주 친절하더라고요.",
+    "동료들이 친절하더라고요."
+   ],
+   "explain": "더라고요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đang cân nhắc chuyển việc.",
+   "answer": [
+    "이직을 고민하고 있어요.",
+    "저는 이직을 고민하고 있어요.",
+    "회사를 옮길까 고민하고 있어요."
+   ],
+   "explain": "이직을 고민하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vì cảm nên tôi nghỉ làm.",
+   "answer": [
+    "감기 때문에 결근했어요.",
+    "감기에 걸려서 결근했어요."
+   ],
+   "explain": "결근하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "처음 출장을 가 보니까 생각보다 힘들더라고요. 하루에 회의가 세 개나 있었어요.",
+   "answer": "Lần đầu đi công tác tôi thấy vất vả hơn mình nghĩ. Một ngày có tới ba cuộc họp.",
+   "explain": "힘들더라고요 = (tôi thấy) vất vả; N(이)나 = tới (nhấn mạnh số lượng)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn tranh phù hợp với hội thoại. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "여자: 부장님, 이거 사직서입니다.\n남자: 갑자기 무슨 일이에요? 다시 생각해 보면 안 돼요?\n여자: 죄송합니다. 오래 고민하고 결정했습니다.",
+   "options": [
+    "여자가 남자에게 서류를 건네는 그림",
+    "두 사람이 출장을 가는 그림",
+    "남자가 승진 축하를 받는 그림",
+    "여자가 퇴근하는 그림"
+   ],
+   "answer": "여자가 남자에게 서류를 건네는 그림",
+   "explain": "Nộp đơn thôi việc."
+  },
+  {
+   "type": "read",
+   "q": "Đọc đoạn văn và chọn nội dung đúng. (Dạng TOPIK II câu 28~50)",
+   "kr": "예전에는 한 회사에 입사하면 정년퇴직할 때까지 일하는 사람이 많았다. 하지만 요즘 젊은 직장인들은 더 좋은 조건을 찾아 이직하는 것을 자연스럽게 생각한다. 한 조사에 따르면 직장인의 70% 이상이 이직을 경험했다고 한다. 회사들도 이런 변화에 맞춰 직원들이 오래 일하고 싶은 환경을 만들려고 노력하고 있다.",
+   "options": [
+    "요즘 직장인들은 이직을 자연스럽게 생각한다.",
+    "요즘도 대부분 정년까지 한 회사에서 일한다.",
+    "이직을 경험한 직장인은 30%이다.",
+    "회사들은 아무 노력도 하지 않는다."
+   ],
+   "answer": "요즘 직장인들은 이직을 자연스럽게 생각한다.",
+   "explain": "이직하는 것을 자연스럽게 생각한다."
+  }
+ ]
+}

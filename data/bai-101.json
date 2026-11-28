@@ -1,0 +1,52 @@
+{
+ "id": "bai-101",
+ "lesson": "Bài 101",
+ "title": "Cảm xúc (phần 2/3)",
+ "krTitle": "감정 2",
+ "date": "2027-04-07",
+ "day": 140,
+ "source": "TOPIK 4 – Bài 3: Cảm xúc (phần 2/3)",
+ "practice": {"listening": "Nghe – câu 17~20: Ý chính của người nói", "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"},
+ "words": [
+  ["무섭다", "Museopda", "Sợ hãi", "어렸을 때 무섭던 개가 지금은 귀여워요.", "Con chó hồi nhỏ thấy sợ giờ lại thấy đáng yêu."],
+  ["화가 나다", "Hwaga nada", "Cáu giận", "친구가 약속을 안 지켜서 화가 났어요.", "Bạn không giữ hẹn nên tôi giận."],
+  ["짜증이 나다", "Jjajeungi nada", "Bực bội", "차가 막혀서 짜증이 났어요.", "Tắc đường nên bực mình."],
+  ["심심하다", "Simsimhada", "Buồn chán (không có gì làm)", "주말에 할 일이 없어서 심심해요.", "Cuối tuần không có việc gì làm nên chán."],
+  ["지루하다", "Jiruhada", "Nhàm chán, tẻ nhạt", "영화가 너무 지루해서 잠이 들었어요.", "Phim chán quá nên tôi ngủ quên."],
+  ["감정이 드러나다", "Gamjeongi deureonada", "Cảm xúc lộ ra", "그 사람은 얼굴에 감정이 다 드러나요.", "Người đó lộ hết cảm xúc trên mặt."],
+  ["감정을 숨기다", "Gamjeongeul sumgida", "Giấu cảm xúc", "슬펐지만 감정을 숨기고 웃었어요.", "Buồn nhưng tôi giấu cảm xúc và cười."],
+  ["감정을 표현하다", "Gamjeongeul pyohyeonhada", "Biểu hiện cảm xúc", "한국 사람들은 감정을 잘 표현하지 않는 편이에요.", "Người Hàn khá ít biểu lộ cảm xúc."],
+  ["감정을 드러내다", "Gamjeongeul deureonaeda", "Bộc lộ cảm xúc", "회의에서 감정을 드러내면 안 돼요.", "Không được bộc lộ cảm xúc trong cuộc họp."],
+  ["감정을 억누르다", "Gamjeongeul eongnureuda", "Kìm nén cảm xúc", "감정을 너무 억누르면 건강에 안 좋아요.", "Kìm nén cảm xúc quá thì không tốt cho sức khỏe."],
+  ["감정이 풍부하다", "Gamjeongi pungbuhada", "Giàu cảm xúc", "그 배우는 감정이 풍부해서 연기를 잘해요.", "Diễn viên đó giàu cảm xúc nên diễn giỏi."],
+  ["화를 내다", "Hwareul naeda", "Nổi cáu", "작은 일에 화를 내지 마세요.", "Đừng nổi cáu vì chuyện nhỏ."],
+  ["화를 풀다", "Hwareul pulda", "Nguôi giận", "미안해. 이제 화 풀어.", "Xin lỗi mà. Giờ nguôi giận đi."],
+  ["공손하다", "Gongsonhada", "Lễ phép, cung kính", "그 학생은 항상 공손하게 인사해요.", "Học sinh đó luôn chào hỏi lễ phép."],
+  ["모", "Mo", "(Một) ... nào đó (모 씨)", "모 회사의 직원이 인터뷰를 했어요.", "Một nhân viên của công ty nọ đã phỏng vấn."]
+ ],
+ "patterns": [
+  {"form": "V/A + 던 — Từng (hồi tưởng, chưa xong)", "meaning": "Định ngữ HỒI TƯỞNG, bổ nghĩa cho danh từ, gợi lại một hành động/trạng thái trong quá khứ. Gắn trực tiếp vào thân: 먹다 → 먹던, 무섭다 → 무섭던, 학생이다 → 학생이던. Có 3 cách dùng chính: (1) Với ĐỘNG TỪ: hành động đang làm dở trong quá khứ, CHƯA XONG: 먹던 빵 (cái bánh đang ăn dở), 읽던 책 (cuốn sách đang đọc dở); (2) Hành động LẶP LẠI thường xuyên trong quá khứ: 자주 가던 카페 (quán cà phê hay đến), 어렸을 때 살던 집 (ngôi nhà hồi nhỏ sống); (3) Với TÍNH TỪ: trạng thái trong quá khứ (nay có thể đã khác): 무섭던 개 (con chó từng đáng sợ). So sánh với V + (으)ㄴ (đã học, định ngữ quá khứ): 먹은 빵 = bánh đã ăn (xong) / 먹던 빵 = bánh đang ăn dở. Bài sau sẽ học 았/었던 (đã hoàn thành).", "examples": ["제가 먹던 빵을 누가 먹었어요? — Ai ăn cái bánh tôi đang ăn dở vậy?", "어렸을 때 살던 집에 다시 가 봤어요. — Tôi đã thử quay lại ngôi nhà hồi nhỏ sống.", "자주 가던 카페가 문을 닫았어요. — Quán cà phê tôi hay đến đã đóng cửa.", "무섭던 선생님이 지금은 친구처럼 편해요. — Thầy từng đáng sợ giờ lại thoải mái như bạn."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: cái bánh tôi đang ăn dở", "kr": "제가 ___ 빵", "options": ["먹던", "먹은", "먹을"], "answer": "먹던", "explain": "Đang làm dở, chưa xong → 던."},
+  {"type": "choice", "q": "Chọn dạng đúng: ngôi nhà hồi nhỏ tôi sống", "kr": "어렸을 때 ___ 집", "options": ["살던", "살", "사는"], "answer": "살던", "explain": "Lặp lại/kéo dài trong quá khứ → 던."},
+  {"type": "choice", "q": "Phân biệt: cuốn sách đã đọc XONG", "kr": "", "options": ["다 읽은 책", "읽던 책", "읽을 책"], "answer": "다 읽은 책", "explain": "Xong → (으)ㄴ; dở dang → 던."},
+  {"type": "choice", "q": "Chọn dạng đúng: quán cà phê tôi hay đến", "kr": "자주 ___ 카페", "options": ["가던", "간던", "가는던"], "answer": "가던", "explain": "Thói quen quá khứ: 가던."},
+  {"type": "choice", "q": "Chọn dạng đúng: thầy giáo từng đáng sợ", "kr": "___ 선생님", "options": ["무섭던", "무서운던", "무섭은"], "answer": "무섭던", "explain": "Tính từ + 던 = trạng thái trong quá khứ."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Tắc đường nên bực mình.", "kr": "차가 막혀서 ___.", "options": ["짜증이 났어요", "화를 풀었어요", "공손했어요"], "answer": "짜증이 났어요", "explain": "짜증이 나다 = bực bội."},
+  {"type": "choice", "q": "Phân biệt: Cuối tuần không có việc gì làm nên chán.", "kr": "주말에 할 일이 없어서 ___.", "options": ["심심해요", "지루해요 영화", "무서워요"], "answer": "심심해요", "explain": "심심하다 = chán vì rảnh; 지루하다 = cái gì đó tẻ nhạt."},
+  {"type": "choice", "q": "Từ nào TRÁI NGHĨA với 감정을 숨기다?", "kr": "", "options": ["감정을 드러내다", "감정을 억누르다", "화를 풀다"], "answer": "감정을 드러내다", "explain": "숨기다 (giấu) ↔ 드러내다 (bộc lộ)."},
+  {"type": "fill", "q": "Điền: Ai ăn cái bánh tôi đang ăn dở vậy?", "kr": "제가 먹___ 빵을 누가 먹었어요?", "answer": ["던"], "explain": "먹던."},
+  {"type": "fill", "q": "Điền: Đây là bài hát tôi hay nghe hồi cấp ba.", "kr": "고등학교 때 자주 듣___ 노래예요.", "answer": ["던"], "explain": "듣던."},
+  {"type": "fill", "q": "Điền: Tôi gặp lại người bạn từng thân hồi nhỏ.", "kr": "어렸을 때 친하___ 친구를 다시 만났어요.", "answer": ["던"], "explain": "친하다 → 친하던."},
+  {"type": "fill", "q": "Điền từ: Xin lỗi mà. Giờ nguôi giận đi.", "kr": "미안해. 이제 화 ___.", "answer": ["풀어"], "explain": "화를 풀다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Quán cà phê tôi hay đến đã đóng cửa.", "tokens": ["자주", "가던", "카페가", "문을", "닫았어요"], "answer": "자주 가던 카페가 문을 닫았어요", "explain": "가던 + N."},
+  {"type": "order", "q": "Sắp xếp thành câu: Đừng nổi cáu vì chuyện nhỏ.", "tokens": ["작은", "일에", "화를", "내지", "마세요"], "answer": "작은 일에 화를 내지 마세요", "explain": "화를 내다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tôi đã quay lại ngôi nhà hồi nhỏ sống.", "answer": ["어렸을 때 살던 집에 다시 가 봤어요.", "어렸을 때 살던 집에 다시 갔어요.", "어릴 때 살던 집에 다시 가 봤어요."], "explain": "살던 집."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Buồn nhưng tôi giấu cảm xúc và cười.", "answer": ["슬펐지만 감정을 숨기고 웃었어요.", "슬펐지만 감정을 숨기고 웃었습니다."], "explain": "감정을 숨기다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Phim chán quá nên tôi ngủ quên.", "answer": ["영화가 너무 지루해서 잠이 들었어요.", "영화가 너무 지루해서 잠들었어요.", "영화가 너무 지루해서 잤어요."], "explain": "지루하다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "어렸을 때 자주 가던 공원에 오랜만에 가 봤어요. 크던 나무들이 생각보다 작아 보였어요.", "answer": "Lâu rồi tôi mới quay lại công viên hồi nhỏ hay đến. Những cái cây từng to lớn trông nhỏ hơn tôi nghĩ.", "explain": "가던 (hay đến), 크던 (từng to)."},
+  {"type": "read", "q": "Chọn ý chính của người đàn ông. (Dạng TOPIK II Nghe câu 17~20)", "kr": "여자: 저는 화가 나도 그냥 참아요. 감정을 드러내면 싸움이 되잖아요.\n남자: 하지만 감정을 계속 억누르면 나중에 더 크게 폭발할 수 있어요. 화를 내는 게 아니라, 공손하게 자기 감정을 표현하는 방법을 배우는 것이 중요해요.", "options": ["감정을 참지 말고 바르게 표현해야 한다.", "화가 나면 크게 화를 내야 한다.", "감정은 항상 숨겨야 한다.", "싸움은 피할 수 없다."], "answer": "감정을 참지 말고 바르게 표현해야 한다.", "explain": "공손하게 감정을 표현하는 방법이 중요해요."},
+  {"type": "read", "q": "Chọn cách nói có nghĩa gần nhất với phần gạch chân. (Dạng TOPIK II câu 3~4)", "kr": "그 사람은 기분이 나빠도 [감정을 드러내지 않아요].", "options": ["감정을 숨겨요", "감정이 풍부해요", "화를 내요", "짜증을 내요"], "answer": "감정을 숨겨요", "explain": "Không bộc lộ = giấu."}
+ ]
+}

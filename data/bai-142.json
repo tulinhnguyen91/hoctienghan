@@ -1,0 +1,53 @@
+{
+ "id": "bai-142",
+ "lesson": "Bài 142",
+ "title": "Sự kiện và tai nạn (phần 4/4)",
+ "krTitle": "사건과 사고 4",
+ "date": "2027-06-07",
+ "day": 201,
+ "source": "TOPIK 4 – Bài 12: Sự kiện và tai nạn (phần 4/4)",
+ "practice": {"listening": "Nghe – câu 17~20: Ý chính của người nói", "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"},
+ "words": [
+  ["심장", "Simjang", "Tim", "갑자기 심장이 멈춘 환자를 구했어요.", "Đã cứu bệnh nhân bị ngừng tim đột ngột."],
+  ["쓰러지다", "Sseureojida", "Ngã, ngất xỉu", "길에 사람이 쓰러져 있어요.", "Có người ngã nằm trên đường."],
+  ["유출 사고", "Yuchul sago", "Sự cố rò rỉ (dầu, thông tin)", "바다에 기름 유출 사고가 났어요.", "Xảy ra sự cố tràn dầu trên biển."],
+  ["음주 운전", "Eumju unjeon", "Lái xe khi say rượu", "음주 운전은 절대 하면 안 돼요.", "Tuyệt đối không được lái xe khi say."],
+  ["(환자가) 의식이 있다/없다", "(hwanjaga) uisigi itda/eopda", "(Bệnh nhân) còn/mất ý thức", "환자가 의식이 없어서 바로 119에 신고했어요.", "Bệnh nhân mất ý thức nên tôi báo 119 ngay."],
+  ["인터넷 보안", "Inteonet boan", "Bảo mật internet", "인터넷 보안이 강화되어 있어요.", "Bảo mật internet đang được tăng cường."],
+  ["절벽", "Jeolbyeok", "Vách đá dựng đứng", "절벽 가까이 가지 마세요.", "Đừng lại gần vách đá."],
+  ["조난 사고", "Jonan sago", "Tai nạn gặp nạn (lạc, mắc kẹt)", "겨울 산에서 조난 사고가 많아요.", "Núi mùa đông hay xảy ra tai nạn mắc kẹt."],
+  ["조치를 취하다", "Jochireul chwihada", "Áp dụng biện pháp, xử trí", "경찰이 바로 조치를 취했어요.", "Cảnh sát lập tức xử trí."],
+  ["찜질하다", "Jjimjilhada", "Chườm (nóng/lạnh)", "발목을 삐었을 때는 얼음으로 찜질하세요.", "Khi trẹo cổ chân hãy chườm đá."],
+  ["(야외에서의) 취사 행위", "(yaoeeseoui) chwisa haengwi", "Việc nấu nướng (ngoài trời)", "국립공원에서는 취사 행위가 금지되어 있어요.", "Trong công viên quốc gia việc nấu nướng bị cấm."],
+  ["통계", "Tonggye", "Thống kê", "통계에 따르면 사고가 줄었어요.", "Theo thống kê, tai nạn đã giảm."],
+  ["평평하다", "Pyeongpyeonghada", "Bằng phẳng", "텐트는 평평한 곳에 쳐야 해요.", "Lều phải dựng ở chỗ bằng phẳng."],
+  ["피서객", "Piseogaek", "Khách nghỉ mát", "해수욕장에 피서객이 많이 모여 있어요.", "Bãi biển tập trung nhiều khách nghỉ mát."],
+  ["하천", "Hacheon", "Sông suối", "비가 많이 와서 하천 물이 불어 있어요.", "Mưa nhiều nên nước sông suối đang dâng."],
+  ["화제가 되다", "Hwajega doeda", "Trở thành đề tài bàn tán", "시민의 구조 영상이 화제가 됐어요.", "Video người dân cứu hộ đã thành đề tài bàn tán."]
+ ],
+ "patterns": [
+  {"form": "V + 아/어 있다 — Đang (trạng thái)", "meaning": "Diễn tả TRẠNG THÁI còn tiếp tục SAU KHI một hành động đã hoàn tất: 'đang (ở trong trạng thái)…'. Dùng với động từ KHÔNG có tân ngữ (tự động từ) hoặc động từ bị động: 앉다 (ngồi) → 앉아 있다 (đang ngồi — đã ngồi xuống và vẫn ngồi), 서다 → 서 있다 (đang đứng), 열리다 → 열려 있다 (đang mở), 쓰러지다 → 쓰러져 있다 (đang nằm gục), 붙다 → 붙어 있다 (đang dán), 모이다 → 모여 있다, 금지되다 → 금지되어 있다 (đang bị cấm). Chia: ㅏ/ㅗ + 아 있다, nguyên âm khác + 어 있다, 하다 → 해 있다. Kính ngữ: 아/어 계시다 (앉아 계세요). SO SÁNH QUAN TRỌNG với 고 있다 (đã học — đang làm, hành động đang diễn ra): 옷을 입고 있어요 (đang mặc áo/đang trong trạng thái mặc — với động từ có tân ngữ) / 의자에 앉아 있어요 (đang ngồi trên ghế). 문을 열고 있어요 (đang mở cửa — hành động) / 문이 열려 있어요 (cửa đang mở — trạng thái). Lưu ý: ✗ 앉고 있어요 (khi muốn nói 'đang ngồi').", "examples": ["길에 사람이 쓰러져 있어요. — Có người ngã nằm trên đường.", "국립공원에서는 취사 행위가 금지되어 있어요. — Trong công viên quốc gia việc nấu nướng bị cấm.", "문이 열려 있어서 도둑이 들어왔어요. — Cửa đang mở nên trộm vào.", "할머니께서 의자에 앉아 계세요. — Bà đang ngồi trên ghế."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Có người ngã nằm trên đường.", "kr": "길에 사람이 ___.", "options": ["쓰러져 있어요", "쓰러지고 있어요", "쓰러지게 해요"], "answer": "쓰러져 있어요", "explain": "Trạng thái sau khi ngã → 아/어 있다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Cửa đang mở (trạng thái).", "kr": "문이 ___.", "options": ["열려 있어요", "열고 있어요", "열어 있어요"], "answer": "열려 있어요", "explain": "열리다 (bị động) + 어 있다."},
+  {"type": "choice", "q": "Phân biệt: Anh ấy đang mở cửa (hành động).", "kr": "그가 문을 ___.", "options": ["열고 있어요", "열려 있어요", "열어 있어요"], "answer": "열고 있어요", "explain": "Có tân ngữ, hành động → 고 있다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Tôi đang ngồi trên ghế.", "kr": "의자에 ___.", "options": ["앉아 있어요", "앉고 있어요", "앉혀 있어요"], "answer": "앉아 있어요", "explain": "앉다 + 아 있다 (không dùng 앉고 있다)."},
+  {"type": "choice", "q": "Kính ngữ: Bà đang ngồi trên ghế.", "kr": "할머니께서 의자에 ___.", "options": ["앉아 계세요", "앉아 있으세요", "앉고 계세요"], "answer": "앉아 계세요", "explain": "아/어 있다 → kính ngữ 아/어 계시다."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Tuyệt đối không được lái xe khi say.", "kr": "___은 절대 하면 안 돼요.", "options": ["음주 운전", "인터넷 보안", "취사 행위"], "answer": "음주 운전", "explain": "음주 (uống rượu) + 운전."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Khi trẹo cổ chân hãy chườm đá.", "kr": "얼음으로 ___.", "options": ["찜질하세요", "쓰러지세요", "조치하세요"], "answer": "찜질하세요", "explain": "찜질하다 = chườm."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Video đã thành đề tài bàn tán.", "kr": "구조 영상이 ___.", "options": ["화제가 됐어요", "평평해졌어요", "통계가 됐어요"], "answer": "화제가 됐어요", "explain": "화제가 되다."},
+  {"type": "fill", "q": "Điền: Trên tường có dán poster (trạng thái).", "kr": "벽에 포스터가 붙___ 있어요.", "answer": ["어"], "explain": "붙다 → 붙어 있다."},
+  {"type": "fill", "q": "Điền: Mọi người đang tập trung ở quảng trường.", "kr": "사람들이 광장에 모여 ___.", "answer": ["있어요"], "explain": "모이다 → 모여 있다."},
+  {"type": "fill", "q": "Điền: Học sinh đang đứng ở cửa.", "kr": "학생이 문 앞에 서 ___.", "answer": ["있어요"], "explain": "서다 → 서 있다."},
+  {"type": "fill", "q": "Điền từ: Lều phải dựng ở chỗ bằng phẳng.", "kr": "텐트는 ___ 곳에 쳐야 해요.", "answer": ["평평한"], "explain": "평평하다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Trong công viên quốc gia việc nấu nướng bị cấm.", "tokens": ["국립공원에서는", "취사", "행위가", "금지되어", "있어요"], "answer": "국립공원에서는 취사 행위가 금지되어 있어요", "explain": "금지되어 있다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Cửa đang mở nên trộm vào.", "tokens": ["문이", "열려", "있어서", "도둑이", "들어왔어요"], "answer": "문이 열려 있어서 도둑이 들어왔어요", "explain": "열려 있다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Có người ngã nằm trên đường.", "answer": ["길에 사람이 쓰러져 있어요.", "길에 누가 쓰러져 있어요."], "explain": "쓰러져 있다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Bà đang ngồi trên ghế.", "answer": ["할머니께서 의자에 앉아 계세요.", "할머니가 의자에 앉아 계세요.", "할머니께서 의자에 앉아 계십니다."], "explain": "앉아 계시다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tuyệt đối không được lái xe khi say.", "answer": ["음주 운전은 절대 하면 안 돼요.", "절대 음주 운전을 하면 안 돼요.", "음주 운전은 절대 안 돼요."], "explain": "음주 운전."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "지하철역에 한 남자가 쓰러져 있었어요. 의식이 없어서 한 시민이 바로 심폐소생술을 했고, 이 영상이 인터넷에서 화제가 됐어요.", "answer": "Ở ga tàu điện có một người đàn ông ngã gục. Vì người đó mất ý thức nên một người dân đã lập tức làm hồi sức tim phổi, và video này đã thành đề tài bàn tán trên mạng.", "explain": "쓰러져 있었어요 = (đang trong trạng thái) ngã gục."},
+  {"type": "read", "q": "Chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)", "kr": "남자: 캠핑장에서 조금 요리하는 건 괜찮지 않아요?\n여자: 국립공원 안에서는 취사 행위가 금지되어 있어요. 작은 불도 큰 화재로 이어질 수 있거든요. 규칙을 지키는 것이 자연과 우리 모두를 지키는 방법이에요.", "options": ["국립공원에서는 규칙대로 요리를 하면 안 된다.", "작은 불은 괜찮다.", "캠핑장에서는 마음대로 요리해도 된다.", "화재는 자연에 도움이 된다."], "answer": "국립공원에서는 규칙대로 요리를 하면 안 된다.", "explain": "취사 행위가 금지되어 있어요 … 규칙을 지키는 것."},
+  {"type": "read", "q": "Chọn cách nói có nghĩa gần nhất với phần gạch chân. (Dạng TOPIK II câu 3~4)", "kr": "이곳은 수영이 [금지되어 있습니다].", "options": ["수영을 하면 안 됩니다", "수영을 해도 됩니다", "수영을 해야 합니다", "수영을 하고 있습니다"], "answer": "수영을 하면 안 됩니다", "explain": "금지되어 있다 = bị cấm = (으)면 안 되다."}
+ ]
+}

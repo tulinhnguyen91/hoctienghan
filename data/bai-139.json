@@ -1,0 +1,53 @@
+{
+ "id": "bai-139",
+ "lesson": "Bài 139",
+ "title": "Sự kiện và tai nạn (phần 1/4)",
+ "krTitle": "사건과 사고 1",
+ "date": "2027-06-03",
+ "day": 197,
+ "source": "TOPIK 4 – Bài 12: Sự kiện và tai nạn (phần 1/4)",
+ "practice": {"listening": "Nghe – câu 4~8: Chọn câu nối tiếp", "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"},
+ "words": [
+  ["사건과 사고", "Sageongwa sago", "Sự kiện và tai nạn", "뉴스에 사건과 사고 소식이 많아요.", "Thời sự có nhiều tin vụ việc và tai nạn."],
+  ["집중호우", "Jipjunghou", "Mưa lớn tập trung", "집중호우로 도로가 물에 잠겼어요.", "Vì mưa lớn đường bị ngập."],
+  ["자연재해", "Jayeonjaehae", "Thiên tai", "태풍은 대표적인 자연재해예요.", "Bão là thiên tai tiêu biểu."],
+  ["인명 피해", "Inmyeong pihae", "Thiệt hại về người", "다행히 인명 피해는 없었어요.", "May là không có thiệt hại về người."],
+  ["응급처치", "Eunggeupcheochi", "Sơ cứu", "응급처치를 배워 보니까 생각보다 쉽더라고요.", "Học thử sơ cứu thì thấy dễ hơn tôi nghĩ."],
+  ["구조대원", "Gujodaewon", "Nhân viên cứu hộ", "구조대원들이 사람들을 구했어요.", "Nhân viên cứu hộ đã cứu mọi người."],
+  ["신고하다", "Singohada", "Báo (cảnh sát, cứu hỏa)", "불이 나서 119에 신고했어요.", "Cháy nên tôi báo 119."],
+  ["구조하다", "Gujohada", "Cứu hộ", "물에 빠진 아이를 구조했어요.", "Đã cứu đứa trẻ bị rơi xuống nước."],
+  ["사건이 발생하다", "Sageoni balsaenghada", "Vụ việc xảy ra", "어젯밤 우리 동네에서 사건이 발생했어요.", "Tối qua ở khu tôi đã xảy ra vụ việc."],
+  ["사건을 해결하다", "Sageoneul haegyeolhada", "Giải quyết vụ việc", "경찰이 사건을 빨리 해결했어요.", "Cảnh sát đã giải quyết vụ việc nhanh chóng."],
+  ["교통사고", "Gyotongsago", "Tai nạn giao thông", "교통사고가 나서 길이 막혀요.", "Có tai nạn giao thông nên đường tắc."],
+  ["안전사고", "Anjeonsago", "Tai nạn do mất an toàn", "공사장에서 안전사고가 자주 일어나요.", "Ở công trường hay xảy ra tai nạn do mất an toàn."],
+  ["인명 사고", "Inmyeong sago", "Tai nạn chết người", "인명 사고를 막기 위해 안전 교육을 해요.", "Để ngăn tai nạn chết người người ta giáo dục an toàn."],
+  ["대형 사고", "Daehyeong sago", "Tai nạn lớn", "작은 실수가 대형 사고로 이어질 수 있어요.", "Lỗi nhỏ có thể dẫn đến tai nạn lớn."],
+  ["과속 운전", "Gwasok unjeon", "Lái xe quá tốc độ", "과속 운전은 정말 위험해요.", "Lái xe quá tốc độ thật nguy hiểm."],
+  ["화재가 나다", "Hwajaega nada", "Xảy ra hỏa hoạn", "아파트에 화재가 났어요.", "Chung cư bị cháy."]
+ ],
+ "patterns": [
+  {"form": "V + 아/어 보니(까) — Thử … thì thấy", "meaning": "Kết hợp 아/어 보다 (thử, đã học) + (으)니까 (phát hiện): diễn tả sau khi THỬ LÀM / TRẢI NGHIỆM việc ở vế trước thì PHÁT HIỆN ra điều ở vế sau: 'làm thử thì thấy…, … rồi mới biết…'. Chia: ㅏ/ㅗ + 아 보니까 (가 보니까), nguyên âm khác + 어 보니까 (먹어 보니까), 하다 → 해 보니까. Có thể rút gọn 아/어 보니. Vế sau là điều PHÁT HIỆN, thường ở thì quá khứ hoặc hiện tại, hay đi với 더라고요 (bài 123), 네요, (으)ㄴ/는 것 같다. Lưu ý: vế sau không dùng mệnh lệnh/rủ rê. Mẫu đặc biệt: 알고 보니(까) = hóa ra (biết rồi thì…): 알고 보니 그 사람이 범인이었어요 (hóa ra người đó là thủ phạm). So sánh với 다가 보면 (bài 75): 다 보면 = cứ làm thì (sẽ); 아/어 보니까 = làm thử thì (đã thấy).", "examples": ["응급처치를 배워 보니까 생각보다 쉽더라고요. — Học thử sơ cứu thì thấy dễ hơn tôi nghĩ.", "사고 현장에 가 보니까 차가 많이 부서졌어요. — Đến hiện trường tai nạn thì thấy xe hư hỏng nặng.", "뉴스를 들어 보니 집중호우로 인명 피해가 있었대요. — Nghe thời sự thì biết có thiệt hại về người do mưa lớn.", "알고 보니 그 사람이 범인이었어요. — Hóa ra người đó là thủ phạm."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Học thử sơ cứu thì thấy dễ.", "kr": "응급처치를 ___ 쉽더라고요.", "options": ["배워 보니까", "배우다 보면", "배워 보면서"], "answer": "배워 보니까", "explain": "Thử rồi phát hiện → 아/어 보니까."},
+  {"type": "choice", "q": "Chọn dạng đúng: Đến hiện trường thì thấy xe hỏng nặng.", "kr": "사고 현장에 ___ 차가 많이 부서졌어요.", "options": ["가 보니까", "가다 보니까 내일", "갈 보니까"], "answer": "가 보니까", "explain": "가다 → 가 보니까."},
+  {"type": "choice", "q": "'알고 보니' nghĩa là gì?", "kr": "", "options": ["Hóa ra", "Biết rồi mà", "Không biết"], "answer": "Hóa ra", "explain": "알고 보니 = sau khi biết thì hóa ra."},
+  {"type": "choice", "q": "Câu nào SAI?", "kr": "", "options": ["먹어 보니까 드세요.", "먹어 보니까 맛있네요.", "먹어 보니까 맵더라고요."], "answer": "먹어 보니까 드세요.", "explain": "Vế sau không dùng mệnh lệnh."},
+  {"type": "choice", "q": "Phân biệt: 'Cứ luyện mỗi ngày thì sẽ giỏi' dùng gì?", "kr": "", "options": ["연습하다 보면", "연습해 보니까", "연습할까 봐"], "answer": "연습하다 보면", "explain": "다 보면 = cứ… thì sẽ (tương lai); 아/어 보니까 = thử thì (đã) thấy."},
+  {"type": "choice", "q": "Chọn từ phù hợp: May là không có thiệt hại về người.", "kr": "다행히 ___는 없었어요.", "options": ["인명 피해", "응급처치", "구조대원"], "answer": "인명 피해", "explain": "인명 = mạng người; 피해 = thiệt hại."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Lái xe quá tốc độ thật nguy hiểm.", "kr": "___은 정말 위험해요.", "options": ["과속 운전", "집중호우", "자연재해"], "answer": "과속 운전", "explain": "과속 = quá tốc độ."},
+  {"type": "choice", "q": "Ở Hàn, cháy nhà thì gọi số mấy?", "kr": "", "options": ["119", "112", "1330"], "answer": "119", "explain": "119 = cứu hỏa, cấp cứu."},
+  {"type": "fill", "q": "Điền: Mặc thử thì thấy hơi chật.", "kr": "입어 ___ 좀 작네요.", "answer": ["보니까", "보니"], "explain": "입어 보니까."},
+  {"type": "fill", "q": "Điền: Hóa ra người đó là thủ phạm.", "kr": "알고 ___ 그 사람이 범인이었어요.", "answer": ["보니", "보니까"], "explain": "알고 보니."},
+  {"type": "fill", "q": "Điền: Nghe thời sự thì biết có tai nạn.", "kr": "뉴스를 들어 ___ 사고가 났대요.", "answer": ["보니까", "보니"], "explain": "들어 보니까."},
+  {"type": "fill", "q": "Điền từ: Cháy nên tôi báo 119.", "kr": "불이 나서 119에 ___.", "answer": ["신고했어요"], "explain": "신고하다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Học thử sơ cứu thì thấy dễ hơn tôi nghĩ.", "tokens": ["응급처치를", "배워", "보니까", "생각보다", "쉽더라고요"], "answer": "응급처치를 배워 보니까 생각보다 쉽더라고요", "explain": "아/어 보니까 + 더라고요."},
+  {"type": "order", "q": "Sắp xếp thành câu: Có tai nạn giao thông nên đường tắc.", "tokens": ["교통사고가", "나서", "길이", "막혀요"], "answer": "교통사고가 나서 길이 막혀요", "explain": "사고가 나다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Ăn thử thì thấy ngon.", "answer": ["먹어 보니까 맛있네요.", "먹어 보니까 맛있더라고요.", "먹어 보니 맛있어요.", "먹어 보니까 맛있어요."], "explain": "먹어 보니까."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Hóa ra người đó là thủ phạm.", "answer": ["알고 보니 그 사람이 범인이었어요.", "알고 보니까 그 사람이 범인이었어요."], "explain": "알고 보니."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Bão là thiên tai tiêu biểu.", "answer": ["태풍은 대표적인 자연재해예요.", "태풍은 대표적인 자연재해입니다."], "explain": "자연재해."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "아침에 뉴스를 들어 보니까 밤사이 집중호우로 도로가 물에 잠겼대요. 다행히 구조대원들이 빨리 와서 인명 피해는 없었대요.", "answer": "Sáng nghe thời sự thì biết qua đêm đường bị ngập do mưa lớn. May là nhân viên cứu hộ đến nhanh nên không có thiệt hại về người.", "explain": "들어 보니까 + 대요."},
+  {"type": "read", "q": "Chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)", "kr": "남자: 어제 퇴근길에 큰 교통사고가 났다고 들었는데 괜찮았어요?\n여자: 네, 저는 괜찮아요. 가 보니까 과속 운전 때문이었대요.\n남자: ( ___ )", "options": ["정말 다행이네요. 다친 사람은 없대요?", "저도 과속 운전을 해 보려고요.", "응급처치를 배워 왔어요.", "화재가 났어요."], "answer": "정말 다행이네요. 다친 사람은 없대요?", "explain": "Lo lắng hỏi thăm về người bị thương."},
+  {"type": "read", "q": "Chọn từ điền vào ( ). (Dạng TOPIK II câu 19~24)", "kr": "사고가 났을 때 구조대원이 오기 전까지의 몇 분이 매우 중요하다. 이때 올바른 ( ___ )를 하면 생명을 구할 수 있다. 그래서 많은 회사와 학교에서 심폐소생술 교육을 실시하고 있다.", "options": ["응급처치", "과속 운전", "자연재해", "신고하기만"], "answer": "응급처치", "explain": "Sơ cứu đúng cách có thể cứu sống."}
+ ]
+}

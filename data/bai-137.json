@@ -1,0 +1,375 @@
+{
+ "id": "bai-137",
+ "lesson": "Bài 137",
+ "title": "Kết hôn (phần 4/5)",
+ "krTitle": "결혼 4",
+ "date": "2027-05-31",
+ "day": 194,
+ "source": "TOPIK 4 – Bài 11: Kết hôn (phần 4/5)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "밝히다",
+   "Balkida",
+   "Làm rõ, công bố",
+   "조사 결과를 밝혔어요.",
+   "Đã công bố kết quả khảo sát."
+  ],
+  [
+   "방송국",
+   "Bangsongguk",
+   "Đài truyền hình",
+   "방송국에서 결혼 특집 프로그램을 만들어요.",
+   "Đài truyền hình làm chương trình đặc biệt về hôn nhân."
+  ],
+  [
+   "부담을 갖다",
+   "Budameul gatda",
+   "Cảm thấy áp lực",
+   "결혼 비용에 부담을 갖는 사람이 많아요.",
+   "Nhiều người thấy áp lực vì chi phí cưới."
+  ],
+  [
+   "비율",
+   "Biyul",
+   "Tỷ lệ",
+   "연상 연하 커플의 비율이 늘었어요.",
+   "Tỷ lệ cặp vợ lớn tuổi hơn chồng đã tăng."
+  ],
+  [
+   "서양식",
+   "Seoyangsik",
+   "Kiểu phương Tây",
+   "요즘은 서양식 결혼식이 대부분이에요.",
+   "Ngày nay phần lớn là đám cưới kiểu Tây."
+  ],
+  [
+   "세대 차이",
+   "Sedae chai",
+   "Khoảng cách thế hệ",
+   "부모님과 세대 차이를 느껴요.",
+   "Tôi cảm thấy khoảng cách thế hệ với bố mẹ."
+  ],
+  [
+   "수행하다",
+   "Suhaenghada",
+   "Thực hiện, thi hành",
+   "맡은 일을 잘 수행했어요.",
+   "Tôi đã thực hiện tốt việc được giao."
+  ],
+  [
+   "양식",
+   "Yangsik",
+   "Hình thức, kiểu",
+   "결혼식 양식이 다양해졌어요.",
+   "Hình thức đám cưới đã đa dạng hơn."
+  ],
+  [
+   "-에 그치다",
+   "-e geuchida",
+   "Chỉ dừng ở mức",
+   "찬성은 30%에 그쳤어요.",
+   "Ủng hộ chỉ dừng ở mức 30%."
+  ],
+  [
+   "-에 따르면",
+   "-e ttareumyeon",
+   "Theo (nguồn)…",
+   "조사에 따르면 결혼 비용이 늘었대요.",
+   "Theo khảo sát, chi phí cưới đã tăng."
+  ],
+  [
+   "-에 불과하다",
+   "-e bulgwahada",
+   "Chỉ là, không quá",
+   "전통 혼례는 1%에 불과해요.",
+   "Hôn lễ truyền thống chỉ chiếm 1%."
+  ],
+  [
+   "연상",
+   "Yeonsang",
+   "Người lớn tuổi hơn (trong tình yêu)",
+   "남편이 저보다 세 살 연상이에요.",
+   "Chồng tôi hơn tôi ba tuổi."
+  ],
+  [
+   "연하",
+   "Yeonha",
+   "Người nhỏ tuổi hơn",
+   "연하 남자와 결혼하는 여성이 늘었어요.",
+   "Phụ nữ cưới chồng ít tuổi hơn đã tăng."
+  ],
+  [
+   "이루다",
+   "Iruda",
+   "Đạt được, tạo nên",
+   "행복한 가정을 이루고 싶어요.",
+   "Tôi muốn xây dựng gia đình hạnh phúc."
+  ],
+  [
+   "이루어지다",
+   "Irueojida",
+   "Được thực hiện, thành",
+   "두 사람의 사랑이 결혼으로 이루어졌어요.",
+   "Tình yêu của hai người đã thành hôn nhân."
+  ],
+  [
+   "인식",
+   "Insik",
+   "Nhận thức",
+   "결혼에 대한 인식이 바뀌고 있어요.",
+   "Nhận thức về hôn nhân đang thay đổi."
+  ],
+  [
+   "일부",
+   "Ilbu",
+   "Một phần",
+   "일부 사람들은 결혼을 안 할 생각이에요.",
+   "Một bộ phận người không định kết hôn."
+  ],
+  [
+   "자손이 번성하다",
+   "Jasoni beonseonghada",
+   "Con cháu đông đúc",
+   "옛날에는 자손이 번성하기를 바랐어요.",
+   "Ngày xưa người ta mong con cháu đông đúc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ 텐데 — Chắc là … (vậy mà)",
+   "meaning": "Người nói đưa ra PHỎNG ĐOÁN / DỰ ĐOÁN mạnh (chắc chắn là…) rồi nói tiếp vế sau là lời khuyên, lo lắng, hoặc điều trái ngược: 'chắc là… nên/mà…'. Cấu tạo: (으)ㄹ 터 (dự đoán) + 이다 + (으)ㄴ데. Thân có patchim + 을 텐데 (많을 텐데), không patchim/ㄹ + ㄹ 텐데 (바쁠 텐데, 힘들 텐데); quá khứ 았/었을 텐데 (도착했을 텐데 — chắc đã đến rồi); danh từ + 일 텐데. Cách dùng thường gặp: (1) Quan tâm/khuyên: 피곤할 텐데 좀 쉬세요 (chắc mệt rồi, nghỉ chút đi); (2) Đối lập với thực tế: 지금 출발하면 늦을 텐데 왜 아직 안 가요? (đi bây giờ chắc trễ, sao vẫn chưa đi?); (3) Tiếc nuối (với 았/었으면): 시간이 있었으면 좋았을 텐데 (giá có thời gian thì tốt biết mấy). Đuôi câu: (으)ㄹ 텐데요 — 'chắc là… đấy'.",
+   "examples": [
+    "결혼 준비하느라 피곤할 텐데 좀 쉬세요. — Chuẩn bị cưới chắc mệt lắm, nghỉ chút đi.",
+    "지금 출발하면 늦을 텐데 택시를 타세요. — Đi bây giờ chắc trễ, đi taxi đi.",
+    "부모님이 반대하실 텐데 어떻게 하지요? — Chắc bố mẹ sẽ phản đối, làm sao bây giờ?",
+    "그때 말했으면 좋았을 텐데…. — Giá mà lúc đó nói ra thì tốt biết mấy…"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Chắc mệt lắm, nghỉ chút đi.",
+   "kr": "___ 좀 쉬세요.",
+   "options": [
+    "피곤할 텐데",
+    "피곤해서 텐데",
+    "피곤한 텐데"
+   ],
+   "answer": "피곤할 텐데",
+   "explain": "Dự đoán + lời khuyên: (으)ㄹ 텐데."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Đi bây giờ chắc trễ, đi taxi đi.",
+   "kr": "지금 출발하면 ___ 택시를 타세요.",
+   "options": [
+    "늦을 텐데",
+    "늦는 텐데",
+    "늦었을까 봐"
+   ],
+   "answer": "늦을 텐데",
+   "explain": "늦다 có patchim → 을 텐데."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (tiếc nuối): Giá có thời gian thì tốt biết mấy.",
+   "kr": "시간이 있었으면 ___.",
+   "options": [
+    "좋았을 텐데",
+    "좋자고 해요",
+    "좋았는데 텐데"
+   ],
+   "answer": "좋았을 텐데",
+   "explain": "았/었으면 + 았/었을 텐데 = giá mà."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Chắc giờ này anh ấy đã đến rồi.",
+   "kr": "지금쯤 ___.",
+   "options": [
+    "도착했을 텐데요",
+    "도착할 텐데었어요",
+    "도착하는 텐데요"
+   ],
+   "answer": "도착했을 텐데요",
+   "explain": "Quá khứ: 았/었을 텐데."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào thể hiện sự QUAN TÂM?",
+   "kr": "",
+   "options": [
+    "추울 텐데 코트를 입고 가세요.",
+    "추워서 코트를 입었어요.",
+    "추우니까 코트를 샀어요."
+   ],
+   "answer": "추울 텐데 코트를 입고 가세요.",
+   "explain": "Chắc lạnh, mặc áo khoác đi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hôn lễ truyền thống chỉ chiếm 1%.",
+   "kr": "전통 혼례는 1%___.",
+   "options": [
+    "에 불과해요",
+    "에 따르면",
+    "를 밝혀요"
+   ],
+   "answer": "에 불과해요",
+   "explain": "N에 불과하다 = chỉ là."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Theo khảo sát, chi phí cưới đã tăng.",
+   "kr": "조사___ 결혼 비용이 늘었대요.",
+   "options": [
+    "에 따르면",
+    "에 그치면",
+    "에 불과하면"
+   ],
+   "answer": "에 따르면",
+   "explain": "N에 따르면 = theo N."
+  },
+  {
+   "type": "choice",
+   "q": "'남편이 세 살 연상이에요' nghĩa là:",
+   "kr": "",
+   "options": [
+    "Chồng hơn tôi ba tuổi",
+    "Chồng kém tôi ba tuổi",
+    "Chồng ba tuổi"
+   ],
+   "answer": "Chồng hơn tôi ba tuổi",
+   "explain": "연상 = lớn tuổi hơn; 연하 = nhỏ tuổi hơn."
+  },
+  {
+   "type": "fill",
+   "q": "Điền: Chắc bố mẹ sẽ phản đối, làm sao đây?",
+   "kr": "부모님이 반대하실 ___ 어떻게 하지요?",
+   "answer": [
+    "텐데"
+   ],
+   "explain": "반대하실 텐데."
+  },
+  {
+   "type": "fill",
+   "q": "Điền: Chắc đói rồi, ăn đi.",
+   "kr": "배___ 텐데 먹어.",
+   "answer": [
+    "고플"
+   ],
+   "explain": "배고프다 → 배고플 텐데."
+  },
+  {
+   "type": "fill",
+   "q": "Điền: Chắc đường đông lắm, đi tàu điện đi.",
+   "kr": "길이 막힐 ___ 지하철을 타세요.",
+   "answer": [
+    "텐데"
+   ],
+   "explain": "막힐 텐데."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi cảm thấy khoảng cách thế hệ với bố mẹ.",
+   "kr": "부모님과 ___ 차이를 느껴요.",
+   "answer": [
+    "세대"
+   ],
+   "explain": "세대 차이."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chuẩn bị cưới chắc mệt, nghỉ chút đi.",
+   "tokens": [
+    "결혼",
+    "준비하느라",
+    "피곤할",
+    "텐데",
+    "좀",
+    "쉬세요"
+   ],
+   "answer": "결혼 준비하느라 피곤할 텐데 좀 쉬세요",
+   "explain": "느라 + (으)ㄹ 텐데."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhận thức về hôn nhân đang thay đổi.",
+   "tokens": [
+    "결혼에",
+    "대한",
+    "인식이",
+    "바뀌고",
+    "있어요"
+   ],
+   "answer": "결혼에 대한 인식이 바뀌고 있어요",
+   "explain": "N에 대한 = về N."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chắc lạnh, mặc áo khoác đi.",
+   "answer": [
+    "추울 텐데 코트를 입고 가세요.",
+    "추울 텐데 코트를 입으세요.",
+    "추울 텐데 외투를 입으세요."
+   ],
+   "explain": "추울 텐데."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giá có thời gian thì tốt biết mấy.",
+   "answer": [
+    "시간이 있었으면 좋았을 텐데요.",
+    "시간이 있었으면 좋았을 텐데."
+   ],
+   "explain": "았/었으면 좋았을 텐데."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi muốn xây dựng gia đình hạnh phúc.",
+   "answer": [
+    "행복한 가정을 이루고 싶어요.",
+    "행복한 가정을 만들고 싶어요."
+   ],
+   "explain": "가정을 이루다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한 방송국의 조사에 따르면 결혼을 꼭 해야 한다고 생각하는 20대는 30%에 그쳤어요. 결혼 비용에 부담을 갖는 젊은이가 많은 것으로 밝혀졌어요.",
+   "answer": "Theo khảo sát của một đài truyền hình, người ở độ tuổi 20 nghĩ rằng nhất định phải kết hôn chỉ dừng ở mức 30%. Kết quả cho thấy nhiều người trẻ thấy áp lực vì chi phí cưới.",
+   "explain": "에 따르면, 에 그치다, 밝혀지다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 남자 친구가 저보다 다섯 살 연하라서 부모님이 반대하실 텐데 걱정이에요.\n남자: 요즘은 연상 연하 커플이 많잖아요. 조사에 따르면 결혼하는 부부 다섯 쌍 중 한 쌍이 연상 연하래요.\n여자: 그래요? 그럼 용기를 내서 이번 주말에 부모님께 말씀드려야겠어요.",
+   "options": [
+    "여자는 주말에 부모님께 남자 친구 이야기를 할 것이다.",
+    "여자의 남자 친구는 여자보다 나이가 많다.",
+    "연상 연하 부부는 거의 없다.",
+    "부모님은 이미 결혼을 허락하셨다."
+   ],
+   "answer": "여자는 주말에 부모님께 남자 친구 이야기를 할 것이다.",
+   "explain": "이번 주말에 부모님께 말씀드려야겠어요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)",
+   "kr": "【결혼식 양식 조사 (2027년)】\n· 예식장 결혼식: 62%\n· 작은 결혼식 (가족만): 25%\n· 야외 결혼식: 12%\n· 전통 혼례: 1%",
+   "options": [
+    "전통 혼례는 1%에 불과하다.",
+    "작은 결혼식이 가장 많다.",
+    "야외 결혼식은 25%이다.",
+    "예식장 결혼식은 절반이 안 된다."
+   ],
+   "answer": "전통 혼례는 1%에 불과하다.",
+   "explain": "전통 혼례: 1%."
+  }
+ ]
+}
