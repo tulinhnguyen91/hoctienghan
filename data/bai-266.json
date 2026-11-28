@@ -1,0 +1,415 @@
+{
+ "id": "bai-266",
+ "lesson": "Bài 266",
+ "title": "Thông tin và truyền thông (phần 3/4)",
+ "krTitle": "정보와 통신 3",
+ "date": "2027-12-13",
+ "day": 390,
+ "source": "TOPIK 6 – Bài 13: Thông tin và truyền thông (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "구현하다",
+   "Guhyeonhada",
+   "Hiện thực hóa",
+   "새 기술로 스마트 도시를 구현했어요.",
+   "Đã hiện thực hóa thành phố thông minh bằng công nghệ mới."
+  ],
+  [
+   "기틀",
+   "Giteul",
+   "Nền móng",
+   "이 정책은 디지털 경제의 기틀을 마련했어요.",
+   "Chính sách này đã đặt nền móng cho kinh tế số."
+  ],
+  [
+   "다짐하다",
+   "Dajimhada",
+   "Hứa, cam đoan",
+   "그는 다시는 늦지 않겠다고 다짐했어요.",
+   "Anh ấy hứa sẽ không bao giờ đến muộn nữa."
+  ],
+  [
+   "단속",
+   "Dansok",
+   "Kiểm soát, kiểm tra",
+   "경찰이 음주 운전을 단속하고 있어요.",
+   "Cảnh sát đang kiểm soát lái xe khi say."
+  ],
+  [
+   "당사자",
+   "Dangsaja",
+   "Đương sự, người có liên quan trực tiếp",
+   "문제는 당사자끼리 해결하세요.",
+   "Vấn đề hãy để các đương sự tự giải quyết."
+  ],
+  [
+   "대두하다",
+   "Daeduhada",
+   "Nổi lên",
+   "개인 정보 보호 문제가 새롭게 대두했어요.",
+   "Vấn đề bảo vệ thông tin cá nhân mới nổi lên."
+  ],
+  [
+   "미개봉",
+   "Migaebong",
+   "Chưa mở (hộp); chưa công chiếu",
+   "미개봉 상품은 환불이 가능해요.",
+   "Hàng chưa mở hộp có thể hoàn tiền."
+  ],
+  [
+   "미아",
+   "Mia",
+   "Đứa trẻ bị mất tích",
+   "CCTV 덕분에 미아를 빨리 찾았어요.",
+   "Nhờ CCTV mà tìm được trẻ lạc nhanh."
+  ],
+  [
+   "방범",
+   "Bangbeom",
+   "Ngăn chặn tội phạm",
+   "골목에 방범 카메라를 설치했어요.",
+   "Đã lắp camera phòng chống tội phạm trong hẻm."
+  ],
+  [
+   "뺑소니",
+   "Ppaengsoni",
+   "Gây tai nạn rồi bỏ trốn",
+   "경찰이 뺑소니 차량을 잡았어요.",
+   "Cảnh sát đã bắt được xe gây tai nạn bỏ trốn."
+  ],
+  [
+   "보급",
+   "Bogeup",
+   "Cung cấp, phổ cập",
+   "스마트폰 보급으로 생활이 바뀌었어요.",
+   "Nhờ phổ cập điện thoại thông minh mà cuộc sống thay đổi."
+  ],
+  [
+   "분비물",
+   "Bunbimul",
+   "Nước bài tiết, chất bài tiết",
+   "상처에서 분비물이 나오면 병원에 가세요.",
+   "Nếu vết thương tiết dịch thì hãy đi viện."
+  ],
+  [
+   "비방",
+   "Bibang",
+   "Sự phỉ báng; bí phương",
+   "인터넷에서 남을 비방하면 처벌받아요.",
+   "Phỉ báng người khác trên mạng sẽ bị xử phạt."
+  ],
+  [
+   "삽입",
+   "Sabip",
+   "Sự chèn vào",
+   "그림 파일을 문서에 삽입했어요.",
+   "Đã chèn tệp hình ảnh vào văn bản."
+  ],
+  [
+   "상거래",
+   "Sanggeorae",
+   "Giao dịch mua bán",
+   "전자 상거래가 크게 성장했어요.",
+   "Thương mại điện tử đã phát triển mạnh."
+  ],
+  [
+   "상용",
+   "Sangyong",
+   "Thường dùng",
+   "5G가 상용 서비스를 시작했어요.",
+   "5G đã bắt đầu dịch vụ thương mại."
+  ],
+  [
+   "소모",
+   "Somo",
+   "Tiêu thụ",
+   "게임을 하면 배터리 소모가 빨라요.",
+   "Chơi game thì hao pin nhanh."
+  ],
+  [
+   "손해배상",
+   "Sonhaebaesang",
+   "Bồi thường tổn hại",
+   "피해자는 손해배상을 청구했어요.",
+   "Người bị hại đã yêu cầu bồi thường thiệt hại."
+  ],
+  [
+   "수상하다",
+   "Susanghada",
+   "Đáng ngờ, khả nghi",
+   "수상한 메일은 열지 마세요.",
+   "Đừng mở email đáng ngờ."
+  ],
+  [
+   "스며들다",
+   "Seumyeodeulda",
+   "Thấm vào",
+   "빗물이 벽으로 스며들었어요.",
+   "Nước mưa đã thấm vào tường."
+  ],
+  [
+   "시가지",
+   "Sigaji",
+   "Khu phố, nội thành",
+   "시가지에는 차가 많아요.",
+   "Khu phố có nhiều xe."
+  ],
+  [
+   "악용",
+   "Agyong",
+   "Sử dụng với mục đích xấu",
+   "개인 정보를 악용하는 범죄가 늘고 있어요.",
+   "Tội phạm lạm dụng thông tin cá nhân đang tăng."
+  ],
+  [
+   "애플리케이션",
+   "Aepeullikeisyeon",
+   "Ứng dụng 앱",
+   "이 애플리케이션은 무료예요.",
+   "Ứng dụng này miễn phí."
+  ],
+  [
+   "연동하다",
+   "Yeondonghada",
+   "Liên kết, kết nối (thiết bị)",
+   "스마트워치를 휴대폰과 연동했어요.",
+   "Đã kết nối đồng hồ thông minh với điện thoại."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)려니와 — Đã … lại còn",
+   "meaning": "Văn phong CỔ / VĂN VIẾT, gần nghĩa 거니와 (Bài 261): THỪA NHẬN vế trước (thường mang tính PHỎNG ĐOÁN / đương nhiên) và THÊM ý ở vế sau: 'đã… (chắc chắn rồi) lại còn…, không những… mà…'. Cấu tạo: (으)려 (phỏng đoán) + 니와. Chia: có patchim → 으려니와 (좋으려니와 – 좋다 có patchim); không patchim/ㄹ → 려니와 (편리하려니와, 크려니와). Hay dùng: 말할 것도 없으려니와 (khỏi phải nói… lại còn…). Ví dụ: 이 앱은 편리하려니와 무료이기까지 해요 (ứng dụng này đã tiện lợi lại còn miễn phí nữa). Vế sau thường có 도, 까지. Rất ít dùng trong hội thoại thường; gặp trong văn bản, bài viết TOPIK 6. So sánh: 거니와 (sự thật được thừa nhận); (으)려니와 (sự đương nhiên/phỏng đoán được thừa nhận); (으)ㄹ뿐더러 (Bài 237) – thông dụng nhất.",
+   "examples": [
+    "스마트폰은 편리하려니와 다양한 기능까지 갖추고 있어요. — Điện thoại thông minh đã tiện lợi lại còn có đủ chức năng đa dạng.",
+    "개인 정보를 악용하면 처벌도 받으려니와 신뢰도 잃게 된다. — Lạm dụng thông tin cá nhân thì đã bị xử phạt lại còn mất lòng tin.",
+    "그 일은 시간도 많이 걸리려니와 비용도 많이 든다. — Việc đó đã tốn nhiều thời gian lại còn tốn nhiều chi phí.",
+    "실력은 말할 것도 없으려니와 성격도 좋아요. — Năng lực thì khỏi phải nói, tính cách lại còn tốt nữa."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Gây tai nạn giao thông rồi bỏ chạy gọi là gì?",
+   "kr": "",
+   "options": [
+    "뺑소니",
+    "방범",
+    "미아"
+   ],
+   "answer": "뺑소니",
+   "explain": "뺑소니 = bỏ chạy."
+  },
+  {
+   "type": "choice",
+   "q": "Đứa trẻ bị lạc gọi là gì?",
+   "kr": "",
+   "options": [
+    "미아",
+    "당사자",
+    "시가지"
+   ],
+   "answer": "미아",
+   "explain": "미아 = trẻ lạc."
+  },
+  {
+   "type": "choice",
+   "q": "Dùng điều tốt vào mục đích xấu gọi là gì?",
+   "kr": "",
+   "options": [
+    "악용",
+    "상용",
+    "보급"
+   ],
+   "answer": "악용",
+   "explain": "악용 (lạm dụng xấu)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng mở email đáng ngờ.",
+   "kr": "___ 메일은 열지 마세요.",
+   "options": [
+    "수상한",
+    "미개봉",
+    "상용"
+   ],
+   "answer": "수상한",
+   "explain": "수상하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Điện thoại đã tiện lợi lại còn đủ chức năng.'",
+   "kr": "",
+   "options": [
+    "스마트폰은 편리하려니와 다양한 기능까지 갖추고 있어요.",
+    "스마트폰은 편리할려니와 다양한 기능까지 갖추고 있어요.",
+    "스마트폰은 편리하려니와 기능이 없어요."
+   ],
+   "answer": "스마트폰은 편리하려니와 다양한 기능까지 갖추고 있어요.",
+   "explain": "A려니와 + vế cùng chiều."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 좋다.",
+   "kr": "",
+   "options": [
+    "좋으려니와",
+    "좋려니와",
+    "좋을려니와"
+   ],
+   "answer": "좋으려니와",
+   "explain": "Có patchim → 으려니와."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào THÔNG DỤNG NHẤT với nghĩa 'không những… mà còn'?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ뿐더러 / (으)ㄹ 뿐만 아니라",
+    "(으)려니와",
+    "거니와"
+   ],
+   "answer": "(으)ㄹ뿐더러 / (으)ㄹ 뿐만 아니라",
+   "explain": "려니와, 거니와 mang tính văn chương."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đã kết nối đồng hồ với điện thoại.",
+   "kr": "스마트워치를 휴대폰과 ___.",
+   "options": [
+    "연동했어요",
+    "삽입했어요",
+    "비방했어요"
+   ],
+   "answer": "연동했어요",
+   "explain": "연동하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)려니와 với 걸리다: Việc đó đã tốn thời gian lại còn tốn chi phí.",
+   "kr": "그 일은 시간도 많이 ___ 비용도 많이 든다.",
+   "answer": [
+    "걸리려니와"
+   ],
+   "explain": "걸리려니와."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)려니와 với 받다: Lạm dụng thì đã bị xử phạt lại còn mất lòng tin.",
+   "kr": "개인 정보를 악용하면 처벌도 ___ 신뢰도 잃게 된다.",
+   "answer": [
+    "받으려니와"
+   ],
+   "explain": "받으려니와."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cảnh sát đang kiểm soát lái xe khi say.",
+   "kr": "경찰이 음주 운전을 ___하고 있어요.",
+   "answer": [
+    "단속"
+   ],
+   "explain": "단속하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hàng chưa mở hộp có thể hoàn tiền.",
+   "kr": "___ 상품은 환불이 가능해요.",
+   "answer": [
+    "미개봉"
+   ],
+   "explain": "미개봉."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Năng lực khỏi phải nói, tính cách lại còn tốt.",
+   "tokens": [
+    "실력은",
+    "말할",
+    "것도",
+    "없으려니와",
+    "성격도",
+    "좋아요"
+   ],
+   "answer": "실력은 말할 것도 없으려니와 성격도 좋아요",
+   "explain": "말할 것도 없으려니와."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Người bị hại yêu cầu bồi thường.",
+   "tokens": [
+    "피해자는",
+    "손해배상을",
+    "청구했어요"
+   ],
+   "answer": "피해자는 손해배상을 청구했어요",
+   "explain": "청구하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đã lắp camera phòng chống tội phạm trong hẻm.",
+   "answer": [
+    "골목에 방범 카메라를 설치했어요.",
+    "골목에 방범 카메라를 달았어요."
+   ],
+   "explain": "방범."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chơi game thì hao pin nhanh.",
+   "answer": [
+    "게임을 하면 배터리 소모가 빨라요.",
+    "게임을 하면 배터리가 빨리 소모돼요."
+   ],
+   "explain": "소모."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy hứa sẽ không đến muộn nữa.",
+   "answer": [
+    "그는 다시는 늦지 않겠다고 다짐했어요.",
+    "그 사람은 다시는 늦지 않겠다고 다짐했어요.",
+    "그는 다시 늦지 않겠다고 다짐했어요."
+   ],
+   "explain": "겠다고 다짐하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "도시 곳곳에 설치된 방범 카메라는 범죄 예방에 도움이 되려니와 미아를 찾거나 뺑소니 차량을 잡는 데에도 큰 역할을 한다. 그러나 사생활 침해라는 문제도 함께 대두하고 있다.",
+   "answer": "Camera phòng chống tội phạm lắp khắp thành phố không những giúp phòng ngừa tội phạm mà còn đóng vai trò lớn trong việc tìm trẻ lạc hay bắt xe gây tai nạn bỏ trốn. Nhưng vấn đề xâm phạm đời tư cũng đang nổi lên cùng lúc.",
+   "explain": "(으)려니와."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 인터넷에서 산 이어폰이 고장 나서 환불하고 싶은데요.\n남자: 미개봉 상품만 환불이 가능합니다. 고장이 났으면 교환은 해 드릴 수 있어요.\n여자: 그럼 교환해 주세요. 언제 받을 수 있어요?\n남자: 제품을 보내 주시면 일주일 안에 새 제품을 보내 드리겠습니다.",
+   "options": [
+    "여자는 이어폰을 교환하기로 했다.",
+    "여자는 이어폰을 환불받았다.",
+    "교환에는 한 달이 걸린다.",
+    "개봉한 제품도 환불할 수 있다."
+   ],
+   "answer": "여자는 이어폰을 교환하기로 했다.",
+   "explain": "그럼 교환해 주세요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "개인 정보 보호가 새로운 사회 문제로 <대두하고> 있다.",
+   "options": [
+    "떠오르고",
+    "사라지고",
+    "줄어들고",
+    "해결되고"
+   ],
+   "answer": "떠오르고",
+   "explain": "대두하다 = 떠오르다 (nổi lên)."
+  }
+ ]
+}

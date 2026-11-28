@@ -1,0 +1,379 @@
+{
+ "id": "bai-62",
+ "lesson": "Bài 62",
+ "title": "Sai sót, mắc lỗi (phần 1/3)",
+ "krTitle": "실수 1",
+ "date": "2027-02-07",
+ "day": 81,
+ "source": "TOPIK 3 – Bài 8: Sai sót, mắc lỗi (phần 1/3)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "실수하다",
+   "Silsuhada",
+   "Sai sót, mắc lỗi",
+   "발표할 때 긴장해서 실수했어요.",
+   "Khi thuyết trình vì hồi hộp nên tôi mắc lỗi."
+  ],
+  [
+   "잘못하다",
+   "Jalmotada",
+   "Làm sai",
+   "제가 잘못했어요. 죄송합니다.",
+   "Tôi đã sai rồi. Xin lỗi."
+  ],
+  [
+   "잃어버리다",
+   "Ireobeorida",
+   "Mất, đánh mất",
+   "버스에서 우산을 잃어버렸어요.",
+   "Tôi làm mất ô trên xe buýt."
+  ],
+  [
+   "오해하다",
+   "Ohaehada",
+   "Hiểu nhầm",
+   "제 말을 오해하지 마세요.",
+   "Đừng hiểu lầm lời tôi."
+  ],
+  [
+   "쏟다",
+   "Ssotda",
+   "Làm đổ (chất lỏng)",
+   "커피를 노트북에 쏟았어요.",
+   "Tôi làm đổ cà phê lên laptop."
+  ],
+  [
+   "찢다",
+   "Jjitda",
+   "Xé",
+   "실수로 서류를 찢었어요.",
+   "Tôi lỡ tay xé tài liệu."
+  ],
+  [
+   "넘어지다",
+   "Neomeojida",
+   "Ngã",
+   "길이 미끄러워서 넘어졌어요.",
+   "Đường trơn nên tôi bị ngã."
+  ],
+  [
+   "떨어뜨리다",
+   "Tteoreotteurida",
+   "Làm rơi",
+   "휴대폰을 떨어뜨려서 화면이 깨졌어요.",
+   "Làm rơi điện thoại nên màn hình vỡ."
+  ],
+  [
+   "깨뜨리다",
+   "Kkaetteurida",
+   "Làm vỡ",
+   "설거지하다가 접시를 깨뜨렸어요.",
+   "Đang rửa bát thì làm vỡ đĩa."
+  ],
+  [
+   "문제가 생기다",
+   "Munjega saenggida",
+   "Có vấn đề nảy sinh",
+   "시스템에 문제가 생겨서 지금 확인하는 중이에요.",
+   "Hệ thống có vấn đề nên đang kiểm tra."
+  ],
+  [
+   "사과하다",
+   "Sagwahada",
+   "Xin lỗi",
+   "친구에게 진심으로 사과했어요.",
+   "Tôi đã xin lỗi bạn chân thành."
+  ],
+  [
+   "양해를 구하다",
+   "Yanghaereul guhada",
+   "Xin thông cảm",
+   "늦어서 손님들께 양해를 구했어요.",
+   "Vì đến muộn nên tôi xin khách thông cảm."
+  ],
+  [
+   "변명하다",
+   "Byeonmyeonghada",
+   "Biện minh, thanh minh",
+   "실수했을 때 변명하지 마세요. 먼저 사과하세요.",
+   "Khi mắc lỗi đừng biện minh, hãy xin lỗi."
+  ],
+  [
+   "핑계를 대다",
+   "Pinggyereul daeda",
+   "Viện cớ",
+   "숙제를 안 하고 핑계를 댔어요.",
+   "Không làm bài tập rồi viện cớ."
+  ],
+  [
+   "잊어버리다",
+   "Ijeobeorida",
+   "Quên mất",
+   "친구 생일을 잊어버렸어요.",
+   "Tôi quên mất sinh nhật bạn."
+  ],
+  [
+   "깜빡하다",
+   "Kkamppakada",
+   "Quên khuấy mất",
+   "숙제를 깜빡했어요.",
+   "Tôi quên béng bài tập."
+  ],
+  [
+   "헷갈리다",
+   "Hetgallida",
+   "Lẫn lộn",
+   "두 단어가 비슷해서 헷갈려요.",
+   "Hai từ giống nhau nên dễ lẫn."
+  ],
+  [
+   "생각이 나다",
+   "Saenggagi nada",
+   "Nghĩ ra, nhớ ra",
+   "갑자기 비밀번호가 생각이 났어요.",
+   "Đột nhiên tôi nhớ ra mật khẩu."
+  ],
+  [
+   "착각하다",
+   "Chakgakada",
+   "Nhầm lẫn, lầm tưởng",
+   "오늘을 금요일로 착각했어요.",
+   "Tôi nhầm hôm nay là thứ Sáu."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 중이다 — Đang trong quá trình",
+   "meaning": "Diễn tả một việc ĐANG được tiến hành (thường kéo dài, hoặc đang bận việc đó): 'đang trong lúc…, đang…'. Gắn 는 중이다 vào gốc động từ: 확인하다 → 확인하는 중이에요, 찾다 → 찾는 중이에요. Với danh từ chỉ hoạt động: N 중이다 (회의 중이에요, 통화 중이에요, 공사 중 — đang thi công). So với 고 있다: 는 중이다 nhấn mạnh 'đang bận, đang giữa chừng' nên rất hay dùng khi trả lời điện thoại, thông báo. Không dùng với tính từ, và không dùng với động từ chỉ trạng thái tự nhiên (비가 오는 중이에요 — ít dùng).",
+   "examples": [
+    "지금 문제를 확인하는 중이에요. — Hiện chúng tôi đang kiểm tra vấn đề.",
+    "잃어버린 지갑을 찾는 중이에요. — Tôi đang tìm cái ví bị mất.",
+    "부장님은 지금 회의 중이세요. — Trưởng phòng đang họp ạ.",
+    "한국어를 공부하는 중이에요. — Tôi đang trong quá trình học tiếng Hàn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Chúng tôi đang kiểm tra vấn đề.",
+   "kr": "지금 문제를 ___.",
+   "options": [
+    "확인하는 중이에요",
+    "확인한 중이에요",
+    "확인할 중이에요"
+   ],
+   "answer": "확인하는 중이에요",
+   "explain": "Động từ + 는 중이다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Trưởng phòng đang họp ạ.",
+   "kr": "부장님은 지금 ___.",
+   "options": [
+    "회의 중이세요",
+    "회의하는 중이에요세요",
+    "회의 중에요"
+   ],
+   "answer": "회의 중이세요",
+   "explain": "N 중이다 + kính ngữ: 회의 중이세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đang tìm ví.",
+   "kr": "지갑을 ___.",
+   "options": [
+    "찾는 중이에요",
+    "찾은 중이에요",
+    "찾을 중이에요"
+   ],
+   "answer": "찾는 중이에요",
+   "explain": "찾 + 는 중이에요."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào SAI?",
+   "kr": "",
+   "options": [
+    "저는 지금 바쁜 중이에요.",
+    "저는 지금 공부하는 중이에요.",
+    "지금 통화 중이에요."
+   ],
+   "answer": "저는 지금 바쁜 중이에요.",
+   "explain": "는 중이다 không dùng với tính từ (바쁘다)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi làm đổ cà phê lên laptop.",
+   "kr": "커피를 노트북에 ___.",
+   "options": [
+    "쏟았어요",
+    "찢었어요",
+    "착각했어요"
+   ],
+   "answer": "쏟았어요",
+   "explain": "쏟다 = làm đổ (chất lỏng)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Làm rơi điện thoại nên màn hình vỡ.",
+   "kr": "휴대폰을 ___ 화면이 깨졌어요.",
+   "options": [
+    "떨어뜨려서",
+    "깨뜨려서",
+    "잃어버려서"
+   ],
+   "answer": "떨어뜨려서",
+   "explain": "떨어뜨리다 = làm rơi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hai từ giống nhau nên dễ lẫn.",
+   "kr": "두 단어가 비슷해서 ___.",
+   "options": [
+    "헷갈려요",
+    "생각이 나요",
+    "사과해요"
+   ],
+   "answer": "헷갈려요",
+   "explain": "헷갈리다 = lẫn lộn."
+  },
+  {
+   "type": "choice",
+   "q": "Khi mắc lỗi, người Hàn khuyên nên làm gì thay vì '핑계를 대다'?",
+   "kr": "",
+   "options": [
+    "사과하다",
+    "변명하다",
+    "오해하다"
+   ],
+   "answer": "사과하다",
+   "explain": "Đừng viện cớ (핑계를 대다), hãy xin lỗi (사과하다)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 중이에요 vào 공부하다: Tôi đang học tiếng Hàn.",
+   "kr": "한국어를 ___.",
+   "answer": [
+    "공부하는 중이에요"
+   ],
+   "explain": "공부하 + 는 중이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 중이에요 sau danh từ: Máy đang bận (đang gọi).",
+   "kr": "지금 통화 ___.",
+   "answer": [
+    "중이에요"
+   ],
+   "explain": "N 중이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 중이에요 vào 만들다: Tôi đang làm bánh.",
+   "kr": "케이크를 ___.",
+   "answer": [
+    "만드는 중이에요"
+   ],
+   "explain": "만들다 → ㄹ mất: 만드는 중이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi quên béng bài tập.",
+   "kr": "숙제를 ___했어요.",
+   "answer": [
+    "깜빡"
+   ],
+   "explain": "깜빡하다 = quên khuấy."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hệ thống có vấn đề nên đang kiểm tra.",
+   "tokens": [
+    "문제가",
+    "생겨서",
+    "지금",
+    "확인하는",
+    "중이에요"
+   ],
+   "answer": "문제가 생겨서 지금 확인하는 중이에요",
+   "explain": "생기다 → 생겨서; 확인하는 중이에요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đang rửa bát thì làm vỡ đĩa.",
+   "tokens": [
+    "설거지하다가",
+    "접시를",
+    "깨뜨렸어요"
+   ],
+   "answer": "설거지하다가 접시를 깨뜨렸어요",
+   "explain": "다가 (Bài 53) + 깨뜨리다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đang tìm cái ô bị mất.",
+   "answer": [
+    "잃어버린 우산을 찾는 중이에요.",
+    "잃어버린 우산을 찾고 있어요."
+   ],
+   "explain": "잃어버린 우산 + 찾는 중이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi sai rồi. Xin lỗi.",
+   "answer": [
+    "제가 잘못했어요. 죄송합니다.",
+    "제가 잘못했어요. 미안해요.",
+    "제가 잘못했습니다. 죄송합니다."
+   ],
+   "explain": "잘못하다 → 잘못했어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đừng hiểu lầm.",
+   "answer": [
+    "오해하지 마세요.",
+    "오해하지 마."
+   ],
+   "explain": "오해하다 + 지 마세요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "실수했을 때는 핑계를 대거나 변명하는 것보다 바로 사과하는 게 좋아요.",
+   "answer": "Khi mắc lỗi, nên xin lỗi ngay hơn là viện cớ hay biện minh.",
+   "explain": "것보다 = hơn là; 는 게 좋아요 = nên."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)",
+   "kr": "【공지】 홈페이지 접속 문제 안내\n현재 시스템에 문제가 생겨서 홈페이지에 들어갈 수 없습니다.\n지금 원인을 확인하는 중입니다.\n이용에 불편을 드려 죄송합니다. 양해를 부탁드립니다.",
+   "options": [
+    "지금 원인을 확인하고 있다.",
+    "홈페이지를 지금 이용할 수 있다.",
+    "시스템에는 문제가 없다.",
+    "회사는 사과하지 않았다."
+   ],
+   "answer": "지금 원인을 확인하고 있다.",
+   "explain": "확인하는 중입니다 = đang kiểm tra nguyên nhân."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung bài giảng. (Dạng TOPIK II câu 31~50)",
+   "kr": "여자: 실수를 하면 누구나 숨기고 싶습니다. 하지만 실수를 숨기면 문제가 더 커질 수 있습니다. 실수를 했을 때는 먼저 솔직히 인정하고 사과하는 것이 중요합니다. 그리고 같은 실수를 다시 하지 않기 위해서 원인을 찾아야 합니다.",
+   "options": [
+    "실수를 하면 솔직히 인정하는 것이 중요하다.",
+    "실수는 숨기는 것이 좋다.",
+    "실수의 원인은 찾을 필요가 없다.",
+    "사과하면 문제가 커진다."
+   ],
+   "answer": "실수를 하면 솔직히 인정하는 것이 중요하다.",
+   "explain": "Khi mắc lỗi điều quan trọng là thẳng thắn thừa nhận và xin lỗi."
+  }
+ ]
+}

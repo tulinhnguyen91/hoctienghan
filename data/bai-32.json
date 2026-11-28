@@ -1,0 +1,538 @@
+{
+ "id": "bai-32",
+ "lesson": "Bài 32",
+ "title": "Du lịch",
+ "krTitle": "여행",
+ "date": "2026-12-24",
+ "day": 36,
+ "source": "TOPIK 2 – Bài 11: Du lịch",
+ "practice": {
+  "listening": "Nghe – Phần 4: Chủ đề hội thoại (11~14)",
+  "reading": "Đọc – Phần 7: Đoạn văn ngắn – khó (59~64)"
+ },
+ "words": [
+  [
+   "국내 여행",
+   "Gungnae yeohaeng",
+   "Du lịch trong nước",
+   "이번 휴가에는 국내 여행을 하려고 해요.",
+   "Kỳ nghỉ này tôi định du lịch trong nước."
+  ],
+  [
+   "신혼여행",
+   "Sinhonyeohaeng",
+   "Tuần trăng mật",
+   "언니는 제주도로 신혼여행을 갔어요.",
+   "Chị tôi đi tuần trăng mật ở Jeju."
+  ],
+  [
+   "가족 여행",
+   "Gajok yeohaeng",
+   "Du lịch gia đình",
+   "가족 여행을 간 적이 있어요?",
+   "Bạn đã từng đi du lịch cùng gia đình chưa?"
+  ],
+  [
+   "해외여행",
+   "Haeoeyeohaeng",
+   "Du lịch nước ngoài",
+   "해외여행을 한 적이 없어요.",
+   "Tôi chưa từng du lịch nước ngoài."
+  ],
+  [
+   "배낭여행",
+   "Baenangyeohaeng",
+   "Du lịch ba lô",
+   "대학생 때 유럽으로 배낭여행을 갔어요.",
+   "Hồi sinh viên tôi đi du lịch ba lô châu Âu."
+  ],
+  [
+   "여행 상품",
+   "Yeohaeng sangpum",
+   "Tour du lịch",
+   "여행사에서 여행 상품을 알아보고 있어요.",
+   "Tôi đang tìm hiểu tour ở công ty du lịch."
+  ],
+  [
+   "민박",
+   "Minbak",
+   "Nhà nghỉ dân dã (homestay)",
+   "시골 민박에서 묵은 적이 있어요.",
+   "Tôi từng ở homestay ở nông thôn."
+  ],
+  [
+   "1박 2일",
+   "Ilbak iil",
+   "2 ngày 1 đêm",
+   "1박 2일로 부산에 다녀왔어요.",
+   "Tôi đã đi Busan 2 ngày 1 đêm."
+  ],
+  [
+   "관광지",
+   "Gwangwangji",
+   "Điểm du lịch",
+   "경주는 유명한 관광지예요.",
+   "Gyeongju là điểm du lịch nổi tiếng."
+  ],
+  [
+   "입장료",
+   "Ipjangnyo",
+   "Vé vào cửa",
+   "박물관 입장료가 얼마예요?",
+   "Vé vào bảo tàng bao nhiêu?"
+  ],
+  [
+   "여행사",
+   "Yeohaengsa",
+   "Công ty du lịch",
+   "여행사에 전화해서 예약했어요.",
+   "Tôi gọi công ty du lịch để đặt."
+  ],
+  [
+   "예약",
+   "Yeyak",
+   "Sự đặt trước",
+   "호텔 예약을 확인하고 있어요.",
+   "Tôi đang kiểm tra đặt phòng khách sạn."
+  ],
+  [
+   "예매",
+   "Yemae",
+   "Đặt mua vé trước",
+   "기차표를 미리 예매하세요.",
+   "Hãy đặt vé tàu trước."
+  ],
+  [
+   "조식",
+   "Josik",
+   "Bữa sáng",
+   "호텔 조식이 맛있었어요.",
+   "Bữa sáng ở khách sạn ngon."
+  ],
+  [
+   "보험",
+   "Boheom",
+   "Bảo hiểm",
+   "해외여행 가기 전에 여행자 보험에 들었어요.",
+   "Trước khi đi nước ngoài tôi đã mua bảo hiểm du lịch."
+  ],
+  [
+   "비상약",
+   "Bisangyak",
+   "Thuốc dự phòng",
+   "여행 갈 때 비상약을 챙기세요.",
+   "Khi đi du lịch hãy mang thuốc dự phòng."
+  ],
+  [
+   "신용카드",
+   "Sinyongkadeu",
+   "Thẻ tín dụng",
+   "현금이나 신용카드로 계산할 수 있어요.",
+   "Có thể trả bằng tiền mặt hoặc thẻ tín dụng."
+  ],
+  [
+   "슬리퍼",
+   "Seullipeo",
+   "Dép lê",
+   "호텔에 슬리퍼가 있어요.",
+   "Khách sạn có dép lê."
+  ],
+  [
+   "세면도구",
+   "Semyeondogu",
+   "Đồ dùng vệ sinh cá nhân",
+   "민박에는 세면도구를 가져가야 해요.",
+   "Ở homestay phải mang theo đồ vệ sinh cá nhân."
+  ],
+  [
+   "선글라스",
+   "Seongeullaseu",
+   "Kính râm",
+   "바다에 가니까 선글라스를 쓰세요.",
+   "Đi biển nên hãy đeo kính râm."
+  ],
+  [
+   "카메라",
+   "Kamera",
+   "Máy ảnh",
+   "카메라로 경치를 찍고 있어요.",
+   "Tôi đang chụp phong cảnh bằng máy ảnh."
+  ],
+  [
+   "환전",
+   "Hwanjeon",
+   "Đổi tiền",
+   "공항에서 환전했어요.",
+   "Tôi đã đổi tiền ở sân bay."
+  ],
+  [
+   "비행기표",
+   "Bihaenggipyo",
+   "Vé máy bay",
+   "싼 비행기표를 찾고 있어요.",
+   "Tôi đang tìm vé máy bay rẻ."
+  ],
+  [
+   "가방을 싸다",
+   "Gabangeul ssada",
+   "Xếp đồ vào túi",
+   "내일 떠나니까 지금 가방을 싸고 있어요.",
+   "Mai đi nên giờ tôi đang xếp đồ."
+  ],
+  [
+   "여권을 만들다",
+   "Yeogwoneul mandeulda",
+   "Làm hộ chiếu",
+   "해외여행을 하기 위해서 여권을 만들었어요.",
+   "Tôi làm hộ chiếu để đi du lịch nước ngoài."
+  ],
+  [
+   "비자를 받다",
+   "Bijareul batda",
+   "Nhận visa",
+   "한국 비자를 받은 적이 있어요.",
+   "Tôi từng nhận visa Hàn Quốc."
+  ],
+  [
+   "궁전",
+   "Gungjeon",
+   "Cung điện",
+   "경복궁은 아름다운 궁전이에요.",
+   "Gyeongbokgung là cung điện đẹp."
+  ],
+  [
+   "방문",
+   "Bangmun",
+   "Chuyến thăm",
+   "한국 방문은 이번이 처음이에요.",
+   "Lần này là lần đầu tôi đến thăm Hàn Quốc."
+  ],
+  [
+   "일정",
+   "Iljeong",
+   "Lịch trình",
+   "여행 일정을 짜고 있어요.",
+   "Tôi đang lên lịch trình du lịch."
+  ],
+  [
+   "독립광장",
+   "Dongnipgwangjang",
+   "Quảng trường Độc lập",
+   "독립광장에서 사진을 찍었어요.",
+   "Tôi đã chụp ảnh ở quảng trường Độc lập."
+  ],
+  [
+   "쇼",
+   "Syo",
+   "Buổi trình diễn",
+   "저녁에 전통 쇼를 봤어요.",
+   "Buổi tối tôi xem chương trình biểu diễn truyền thống."
+  ],
+  [
+   "일출",
+   "Ilchul",
+   "Mặt trời mọc",
+   "동해에서 일출을 본 적이 있어요.",
+   "Tôi từng ngắm mặt trời mọc ở biển Đông."
+  ],
+  [
+   "마차",
+   "Macha",
+   "Xe ngựa",
+   "마차를 타 본 적이 있어요?",
+   "Bạn đã từng đi xe ngựa chưa?"
+  ],
+  [
+   "약수",
+   "Yaksu",
+   "Nước suối khoáng",
+   "산에서 약수를 마셨어요.",
+   "Tôi đã uống nước suối trên núi."
+  ],
+  [
+   "전통 놀이",
+   "Jeontong nori",
+   "Trò chơi truyền thống",
+   "민속촌에서 전통 놀이를 해 봤어요.",
+   "Tôi đã thử trò chơi truyền thống ở làng dân gian."
+  ],
+  [
+   "문화재",
+   "Munhwajae",
+   "Di sản văn hóa",
+   "경주에는 문화재가 많아요.",
+   "Gyeongju có nhiều di sản văn hóa."
+  ],
+  [
+   "유람선",
+   "Yuramseon",
+   "Du thuyền",
+   "한강에서 유람선을 탔어요.",
+   "Tôi đã đi du thuyền trên sông Hàn."
+  ],
+  [
+   "한옥",
+   "Hanok",
+   "Nhà truyền thống Hàn Quốc (hanok)",
+   "한옥에서 하룻밤 묵고 싶어요.",
+   "Tôi muốn ngủ một đêm ở nhà hanok."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 거나 — Hoặc, hay",
+   "meaning": "Nối hai động từ/tính từ để chọn một trong hai: 'làm A hoặc làm B'. Gắn thẳng vào gốc, không phân biệt patchim: 쉬다 → 쉬거나, 읽다 → 읽거나. Thì của câu đặt ở vế cuối. Với DANH TỪ dùng (이)나 (Bài 30): 커피나 차; với động/tính từ dùng 거나: 커피를 마시거나 차를 마셔요.",
+   "examples": [
+    "휴일에는 집에서 쉬거나 친구를 만나요. — Ngày nghỉ tôi nghỉ ở nhà hoặc gặp bạn.",
+    "여행 가면 사진을 찍거나 맛있는 음식을 먹어요. — Đi du lịch tôi chụp ảnh hoặc ăn món ngon.",
+    "현금으로 내거나 카드로 계산하세요. — Hãy trả tiền mặt hoặc quẹt thẻ.",
+    "피곤하거나 아프면 일찍 주무세요. — Nếu mệt hoặc ốm thì hãy ngủ sớm."
+   ]
+  },
+  {
+   "form": "V + 고 있다 — Đang",
+   "meaning": "Diễn tả hành động đang diễn ra: 'đang…'. Gắn 고 있다 thẳng vào gốc động từ: 싸다 → 싸고 있어요, 찾다 → 찾고 있어요. Kính ngữ: 고 계시다 (할머니가 주무시고 계세요). Quá khứ: 고 있었어요 (đã đang…). Cũng dùng cho trạng thái mặc/đeo đang kéo dài: 안경을 쓰고 있어요, 가방을 메고 있어요. Chỉ dùng với động từ.",
+   "examples": [
+    "지금 가방을 싸고 있어요. — Bây giờ tôi đang xếp đồ.",
+    "싼 비행기표를 찾고 있어요. — Tôi đang tìm vé máy bay rẻ.",
+    "할아버지께서 신문을 읽고 계세요. — Ông đang đọc báo.",
+    "그때 저는 여행 일정을 짜고 있었어요. — Lúc đó tôi đang lên lịch trình du lịch."
+   ]
+  },
+  {
+   "form": "V + (으)ㄴ 적이 있다 — Đã từng",
+   "meaning": "Nói về kinh nghiệm trong quá khứ: 'đã từng…'. Phủ định: (으)ㄴ 적이 없다 (chưa từng). Gốc có patchim + 은 적이 있다 (먹은 적이 있어요); không patchim + ㄴ 적이 있다 (간 적이 있어요); patchim ㄹ bỏ ㄹ (만들다 → 만든 적이 있어요). Rất hay kết hợp với 아/어 보다: 가 본 적이 있어요 (đã từng đi thử). Không dùng cho việc thường ngày, lặp lại (밥을 먹은 적이 있어요 ✗ — kỳ quặc).",
+   "examples": [
+    "제주도에 간 적이 있어요. — Tôi đã từng đi Jeju.",
+    "해외여행을 한 적이 없어요. — Tôi chưa từng du lịch nước ngoài.",
+    "한옥에서 묵어 본 적이 있어요? — Bạn đã từng ở nhà hanok chưa?",
+    "동해에서 일출을 본 적이 있어요. — Tôi từng ngắm mặt trời mọc ở biển Đông."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ngày nghỉ tôi nghỉ ở nhà hoặc gặp bạn.",
+   "kr": "휴일에는 집에서 ___ 친구를 만나요.",
+   "options": [
+    "쉬거나",
+    "쉬나",
+    "쉬이나"
+   ],
+   "answer": "쉬거나",
+   "explain": "Động từ + 거나."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Uống cà phê hoặc trà.",
+   "kr": "커피___ 차를 마셔요.",
+   "options": [
+    "나",
+    "거나",
+    "이나"
+   ],
+   "answer": "나",
+   "explain": "Danh từ không patchim + 나; 거나 dùng cho động/tính từ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đang xếp đồ.",
+   "kr": "가방을 ___.",
+   "options": [
+    "싸고 있어요",
+    "싸서 있어요",
+    "싸 있어요"
+   ],
+   "answer": "싸고 있어요",
+   "explain": "V + 고 있다 = đang."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (kính ngữ): Ông đang đọc báo.",
+   "kr": "할아버지께서 신문을 ___.",
+   "options": [
+    "읽고 계세요",
+    "읽고 있으세요",
+    "읽으고 있어요"
+   ],
+   "answer": "읽고 계세요",
+   "explain": "Kính ngữ của 고 있다 là 고 계시다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đã từng đi Jeju.",
+   "kr": "제주도에 ___.",
+   "options": [
+    "간 적이 있어요",
+    "가는 적이 있어요",
+    "갈 적이 있어요"
+   ],
+   "answer": "간 적이 있어요",
+   "explain": "Kinh nghiệm quá khứ: 가 + ㄴ 적이 있다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi chưa từng ăn món này.",
+   "kr": "이 음식을 ___.",
+   "options": [
+    "먹은 적이 없어요",
+    "먹은 적이 안 있어요",
+    "먹는 적이 없어요"
+   ],
+   "answer": "먹은 적이 없어요",
+   "explain": "Phủ định: (으)ㄴ 적이 없다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi từng làm kimchi.",
+   "kr": "김치를 ___.",
+   "options": [
+    "만든 적이 있어요",
+    "만들은 적이 있어요",
+    "만드는 적이 있어요"
+   ],
+   "answer": "만든 적이 있어요",
+   "explain": "Patchim ㄹ: bỏ ㄹ + ㄴ → 만든."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trước khi đi nước ngoài, tôi đã đổi tiền.",
+   "kr": "해외여행 가기 전에 ___을 했어요.",
+   "options": [
+    "환전",
+    "조식",
+    "일출"
+   ],
+   "answer": "환전",
+   "explain": "환전 = đổi tiền."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 거나: Hãy trả tiền mặt hoặc quẹt thẻ.",
+   "kr": "현금으로 ___ 카드로 계산하세요.",
+   "answer": [
+    "내거나"
+   ],
+   "explain": "내다 → 내거나."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고 있어요: Tôi đang tìm vé máy bay rẻ.",
+   "kr": "싼 비행기표를 ___.",
+   "answer": [
+    "찾고 있어요"
+   ],
+   "explain": "찾다 → 찾고 있어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 적이 있어요 vào 타다: Tôi từng đi du thuyền.",
+   "kr": "유람선을 ___.",
+   "answer": [
+    "탄 적이 있어요",
+    "타 본 적이 있어요"
+   ],
+   "explain": "타다 → 탄 적이 있어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 적이 없어요 vào 하다: Tôi chưa từng du lịch nước ngoài.",
+   "kr": "해외여행을 ___.",
+   "answer": [
+    "한 적이 없어요",
+    "해 본 적이 없어요"
+   ],
+   "explain": "하다 → 한 적이 없어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bạn đã từng ở nhà hanok chưa?",
+   "tokens": [
+    "한옥에서",
+    "묵은",
+    "적이",
+    "있어요"
+   ],
+   "answer": "한옥에서 묵은 적이 있어요",
+   "explain": "묵다 → 묵은 적이 있어요?"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bây giờ tôi đang lên lịch trình du lịch.",
+   "tokens": [
+    "지금",
+    "여행",
+    "일정을",
+    "짜고",
+    "있어요"
+   ],
+   "answer": "지금 여행 일정을 짜고 있어요",
+   "explain": "일정을 짜다 = lên lịch trình; 고 있어요 = đang."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã từng đi Hàn Quốc.",
+   "answer": [
+    "한국에 간 적이 있어요.",
+    "한국에 가 본 적이 있어요.",
+    "저는 한국에 간 적이 있어요.",
+    "저는 한국에 가 본 적이 있어요."
+   ],
+   "explain": "가다 → 간 적이 있어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đang đổi tiền ở sân bay.",
+   "answer": [
+    "공항에서 환전하고 있어요.",
+    "공항에서 돈을 바꾸고 있어요.",
+    "저는 공항에서 환전하고 있어요."
+   ],
+   "explain": "환전하다 → 환전하고 있어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cuối tuần tôi đọc sách hoặc xem phim.",
+   "answer": [
+    "주말에 책을 읽거나 영화를 봐요.",
+    "주말에는 책을 읽거나 영화를 봐요.",
+    "저는 주말에 책을 읽거나 영화를 봐요."
+   ],
+   "explain": "읽다 → 읽거나 + 영화를 봐요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "해외여행을 가기 전에 여권을 만들고 여행자 보험에 드세요.",
+   "answer": "Trước khi đi du lịch nước ngoài, hãy làm hộ chiếu và mua bảo hiểm du lịch.",
+   "explain": "보험에 들다 = mua/tham gia bảo hiểm."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "비행기표를 예매했어요. 지금 가방을 싸고 있어요.",
+   "options": [
+    "여행",
+    "음식",
+    "날씨",
+    "공부"
+   ],
+   "answer": "여행",
+   "explain": "Đặt vé máy bay, xếp đồ → du lịch."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 59~64)",
+   "kr": "저는 지난달에 가족과 함께 경주로 1박 2일 여행을 갔어요. 경주는 신라의 수도였기 때문에 문화재가 아주 많아요. 첫째 날에는 불국사와 석굴암을 구경했어요. 저녁에는 한옥 민박에서 묵었어요. 방이 따뜻하고 조용했어요. 둘째 날에는 자전거를 빌려서 관광지를 돌아다니거나 전통 시장에서 맛있는 음식을 먹었어요. 저는 한옥에서 잔 적이 없어서 정말 특별한 경험이었어요.",
+   "options": [
+    "저는 이번에 처음으로 한옥에서 잤어요.",
+    "저는 경주에서 이틀 동안 묵었어요.",
+    "둘째 날에는 버스를 타고 다녔어요.",
+    "저는 친구들과 함께 여행했어요."
+   ],
+   "answer": "저는 이번에 처음으로 한옥에서 잤어요.",
+   "explain": "Chưa từng ngủ ở hanok nên rất đặc biệt → lần đầu ngủ hanok. Đi 2 ngày 1 đêm (ngủ 1 đêm), thuê xe đạp, đi cùng gia đình."
+  }
+ ]
+}

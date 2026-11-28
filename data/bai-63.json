@@ -1,0 +1,371 @@
+{
+ "id": "bai-63",
+ "lesson": "Bài 63",
+ "title": "Sai sót, mắc lỗi (phần 2/3)",
+ "krTitle": "실수 2",
+ "date": "2027-02-09",
+ "day": 83,
+ "source": "TOPIK 3 – Bài 8: Sai sót, mắc lỗi (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "건망증이 있다",
+   "Geonmangjeungi itda",
+   "Đãng trí, hay quên",
+   "저는 건망증이 있어서 열쇠를 자주 잃어버려요.",
+   "Tôi hay quên nên thường làm mất chìa khóa."
+  ],
+  [
+   "갑자기",
+   "Gapjagi",
+   "Bất ngờ, đột nhiên",
+   "갑자기 휴대폰이 꺼졌어요.",
+   "Điện thoại đột nhiên tắt."
+  ],
+  [
+   "떼다",
+   "Tteda",
+   "Bóc ra, gỡ ra",
+   "상표를 떼면 교환할 수 없어요.",
+   "Bóc nhãn ra thì không đổi được."
+  ],
+  [
+   "알아보다",
+   "Araboda",
+   "Tìm hiểu",
+   "이사하기 전에 집을 잘 알아보세요.",
+   "Trước khi chuyển nhà hãy tìm hiểu kỹ."
+  ],
+  [
+   "강력 접착제",
+   "Gangnyeok jeopchakje",
+   "Keo dán siêu dính",
+   "깨진 컵을 강력 접착제로 붙였어요.",
+   "Tôi dán cái cốc vỡ bằng keo siêu dính."
+  ],
+  [
+   "명심하다",
+   "Myeongsimhada",
+   "Ghi nhớ, khắc cốt ghi tâm",
+   "선생님 말씀을 명심하겠습니다.",
+   "Em sẽ ghi nhớ lời thầy."
+  ],
+  [
+   "어쩔 수 없다",
+   "Eojjeol su eopda",
+   "Đành chịu, không thể khác",
+   "버스를 놓쳐서 어쩔 수 없이 택시를 탔어요.",
+   "Lỡ xe buýt nên đành phải đi taxi."
+  ],
+  [
+   "경로석",
+   "Gyeongnoseok",
+   "Ghế dành cho người già",
+   "지하철에서 경로석에 앉으면 안 돼요.",
+   "Trên tàu điện không được ngồi ghế dành cho người già."
+  ],
+  [
+   "미리",
+   "Miri",
+   "Trước, sẵn",
+   "약속 장소를 미리 확인하세요.",
+   "Hãy kiểm tra trước địa điểm hẹn."
+  ],
+  [
+   "위대하다",
+   "Widaehada",
+   "Vĩ đại",
+   "세종대왕은 위대한 왕이에요.",
+   "Vua Sejong là vị vua vĩ đại."
+  ],
+  [
+   "곰곰이",
+   "Gomgomi",
+   "Kỹ càng (suy nghĩ)",
+   "곰곰이 생각했어요. 제가 잘못했어요.",
+   "Tôi đã suy nghĩ kỹ. Tôi đã sai."
+  ],
+  [
+   "바르다",
+   "Bareuda",
+   "Đúng đắn, ngay thẳng",
+   "그 학생은 예의가 바르군요.",
+   "Học sinh đó lễ phép nhỉ."
+  ],
+  [
+   "이상하다",
+   "Isanghada",
+   "Lạ lùng, khác thường",
+   "컴퓨터 소리가 이상해요.",
+   "Máy tính kêu lạ."
+  ],
+  [
+   "과제",
+   "Gwaje",
+   "Bài tập (lớn), nhiệm vụ",
+   "과제를 깜빡하고 안 냈어요.",
+   "Tôi quên béng không nộp bài tập."
+  ],
+  [
+   "반말",
+   "Banmal",
+   "Lối nói trống không (thân mật)",
+   "처음 만난 사람에게 반말을 하면 실례예요.",
+   "Nói trống không với người mới gặp là bất lịch sự."
+  ],
+  [
+   "적응하다",
+   "Jeogeunghada",
+   "Thích nghi",
+   "새 회사에 적응하는 중이에요.",
+   "Tôi đang thích nghi với công ty mới."
+  ],
+  [
+   "반복하다",
+   "Banbokada",
+   "Lặp lại",
+   "같은 실수를 반복하지 마세요.",
+   "Đừng lặp lại cùng một lỗi."
+  ],
+  [
+   "젖다",
+   "Jeotda",
+   "Ướt",
+   "비를 맞아서 옷이 다 젖었어요.",
+   "Dính mưa nên quần áo ướt hết."
+  ],
+  [
+   "기억하다",
+   "Gieokada",
+   "Nhớ, ghi nhớ",
+   "제 이름을 기억해요?",
+   "Bạn có nhớ tên tôi không?"
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi hay quên nên thường mất chìa khóa.",
+   "kr": "저는 ___ 열쇠를 자주 잃어버려요.",
+   "options": [
+    "건망증이 있어서",
+    "예의가 발라서",
+    "적응해서"
+   ],
+   "answer": "건망증이 있어서",
+   "explain": "건망증이 있다 = đãng trí."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lỡ xe buýt nên đành đi taxi.",
+   "kr": "버스를 놓쳐서 ___ 택시를 탔어요.",
+   "options": [
+    "어쩔 수 없이",
+    "곰곰이",
+    "미리"
+   ],
+   "answer": "어쩔 수 없이",
+   "explain": "어쩔 수 없이 = đành phải."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng lặp lại cùng một lỗi.",
+   "kr": "같은 실수를 ___ 마세요.",
+   "options": [
+    "반복하지",
+    "기억하지",
+    "명심하지"
+   ],
+   "answer": "반복하지",
+   "explain": "반복하다 = lặp lại."
+  },
+  {
+   "type": "choice",
+   "q": "'반말' là gì?",
+   "kr": "",
+   "options": [
+    "Cách nói trống không, thân mật",
+    "Cách nói kính ngữ",
+    "Tiếng địa phương"
+   ],
+   "answer": "Cách nói trống không, thân mật",
+   "explain": "반말 ↔ 존댓말 (kính ngữ)."
+  },
+  {
+   "type": "choice",
+   "q": "Ôn ngữ pháp (는 중이다): Tôi đang thích nghi với công ty mới.",
+   "kr": "새 회사에 ___.",
+   "options": [
+    "적응하는 중이에요",
+    "적응한 중이에요",
+    "적응할 중이에요"
+   ],
+   "answer": "적응하는 중이에요",
+   "explain": "V + 는 중이다 (Bài 62)."
+  },
+  {
+   "type": "choice",
+   "q": "Ôn ngữ pháp (는 바람에): Vì đột nhiên trời mưa nên ướt hết.",
+   "kr": "갑자기 비가 ___ 옷이 다 젖었어요.",
+   "options": [
+    "오는 바람에",
+    "온 덕분에",
+    "오는 편이라서"
+   ],
+   "answer": "오는 바람에",
+   "explain": "Lý do bất ngờ + kết quả xấu → 는 바람에 (Bài 61)."
+  },
+  {
+   "type": "choice",
+   "q": "Ôn ngữ pháp (군요): Học sinh đó lễ phép nhỉ.",
+   "kr": "그 학생은 예의가 ___.",
+   "options": [
+    "바르군요",
+    "바르는군요",
+    "발라군요"
+   ],
+   "answer": "바르군요",
+   "explain": "Tính từ + 군요 (Bài 59)."
+  },
+  {
+   "type": "choice",
+   "q": "Ôn ngữ pháp (기 쉽다): Chìa khóa dễ bị mất.",
+   "kr": "열쇠는 ___.",
+   "options": [
+    "잃어버리기 쉬워요",
+    "잃어버리게 쉬워요",
+    "잃어버린 쉬워요"
+   ],
+   "answer": "잃어버리기 쉬워요",
+   "explain": "V + 기 쉽다 (Bài 55)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어요 của 바르다 (bất quy tắc 르): Bạn ấy rất ngay thẳng.",
+   "kr": "그 친구는 정말 ___.",
+   "answer": [
+    "발라요"
+   ],
+   "explain": "바르다 → 발라요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hãy kiểm tra trước địa điểm hẹn.",
+   "kr": "약속 장소를 ___ 확인하세요.",
+   "answer": [
+    "미리"
+   ],
+   "explain": "미리 = trước."
+  },
+  {
+   "type": "fill",
+   "q": "Ôn ngữ pháp (으)려면: Muốn không mắc lỗi thì hãy kiểm tra trước.",
+   "kr": "실수하지 ___ 미리 확인하세요.",
+   "answer": [
+    "않으려면"
+   ],
+   "explain": "않다 → 않으려면 (Bài 57)."
+  },
+  {
+   "type": "fill",
+   "q": "Ôn ngữ pháp (으)ㄴ/는 편이다: Tôi thuộc loại hay quên.",
+   "kr": "저는 잘 ___.",
+   "answer": [
+    "잊어버리는 편이에요",
+    "잊는 편이에요"
+   ],
+   "explain": "Động từ + 는 편이다 (Bài 60)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sau khi suy nghĩ kỹ, tôi đã xin lỗi.",
+   "tokens": [
+    "곰곰이",
+    "생각한",
+    "후에",
+    "사과했어요"
+   ],
+   "answer": "곰곰이 생각한 후에 사과했어요",
+   "explain": "곰곰이 = kỹ càng."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Em sẽ ghi nhớ lời thầy.",
+   "tokens": [
+    "선생님",
+    "말씀을",
+    "명심하겠습니다"
+   ],
+   "answer": "선생님 말씀을 명심하겠습니다",
+   "explain": "명심하다 = khắc ghi."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn có nhớ tên tôi không?",
+   "answer": [
+    "제 이름을 기억해요?",
+    "제 이름 기억해요?",
+    "제 이름을 기억하세요?",
+    "제 이름 기억하세요?"
+   ],
+   "explain": "기억하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Máy tính kêu lạ.",
+   "answer": [
+    "컴퓨터 소리가 이상해요.",
+    "컴퓨터에서 이상한 소리가 나요."
+   ],
+   "explain": "이상하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đừng nói trống không với người mới gặp.",
+   "answer": [
+    "처음 만난 사람에게 반말을 하지 마세요.",
+    "처음 만난 사람한테 반말을 하지 마세요.",
+    "처음 만난 사람에게 반말하지 마세요.",
+    "처음 만난 사람한테 반말하지 마세요."
+   ],
+   "explain": "반말을 하다 + 지 마세요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "건망증이 있는 사람은 중요한 일을 수첩에 미리 적는 게 좋아요.",
+   "answer": "Người hay quên nên ghi trước những việc quan trọng vào sổ tay.",
+   "explain": "적다 = ghi; 는 게 좋아요 = nên."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 어제 지하철에서 할아버지께 반말을 하는 바람에 혼났어요.\n남자: ( ___ )",
+   "options": [
+    "한국에서는 어른께 존댓말을 써야 해요.",
+    "지하철이 정말 빠르군요.",
+    "저도 할아버지가 있어요.",
+    "반말이 더 예의 바르죠."
+   ],
+   "answer": "한국에서는 어른께 존댓말을 써야 해요.",
+   "explain": "Lời khuyên phù hợp: với người lớn phải dùng kính ngữ."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào chỗ trống. (Dạng TOPIK II câu 16~18)",
+   "kr": "실수는 누구나 할 수 있습니다. 중요한 것은 같은 실수를 ( ___ ) 않는 것입니다. 그래서 실수한 이유를 곰곰이 생각해 보고 명심해야 합니다.",
+   "options": [
+    "반복하지",
+    "기억하지",
+    "알아보지",
+    "적응하지"
+   ],
+   "answer": "반복하지",
+   "explain": "Điều quan trọng là không lặp lại lỗi."
+  }
+ ]
+}

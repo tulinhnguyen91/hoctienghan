@@ -1,0 +1,626 @@
+{
+ "id": "bai-35",
+ "lesson": "Bài 35",
+ "title": "Kế hoạch",
+ "krTitle": "계획",
+ "date": "2026-12-29",
+ "day": 41,
+ "source": "TOPIK 2 – Bài 14: Kế hoạch",
+ "practice": {
+  "listening": "Nghe – Phần 7: Chọn suy nghĩ (22~24)",
+  "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+ },
+ "words": [
+  [
+   "진학",
+   "Jinhak",
+   "Học lên (cấp cao hơn)",
+   "졸업한 후에 대학원 진학을 생각하고 있어요.",
+   "Sau khi tốt nghiệp tôi đang nghĩ đến việc học lên."
+  ],
+  [
+   "유학",
+   "Yuhak",
+   "Du học",
+   "내년에 한국으로 유학을 가기로 했어요.",
+   "Tôi đã quyết định sang Hàn du học năm sau."
+  ],
+  [
+   "어학연수",
+   "Eohagyeonsu",
+   "Học tiếng (khóa ngôn ngữ)",
+   "어학연수를 시작한 지 6개월이 됐어요.",
+   "Tôi bắt đầu học khóa tiếng được 6 tháng rồi."
+  ],
+  [
+   "대학원",
+   "Daehagwon",
+   "Cao học",
+   "대학원에서 경영학을 공부하고 싶어요.",
+   "Tôi muốn học quản trị kinh doanh ở cao học."
+  ],
+  [
+   "직업",
+   "Jigeop",
+   "Nghề nghiệp",
+   "직업이 뭐예요?",
+   "Bạn làm nghề gì?"
+  ],
+  [
+   "연구자",
+   "Yeonguja",
+   "Nhà nghiên cứu",
+   "제 꿈은 연구자가 되는 것이에요.",
+   "Ước mơ của tôi là trở thành nhà nghiên cứu."
+  ],
+  [
+   "변호사",
+   "Byeonhosa",
+   "Luật sư",
+   "형은 변호사가 되기로 했어요.",
+   "Anh tôi đã quyết định trở thành luật sư."
+  ],
+  [
+   "아나운서",
+   "Anaunseo",
+   "Phát thanh viên",
+   "그 아나운서는 발음이 정확해요.",
+   "Phát thanh viên đó phát âm chuẩn."
+  ],
+  [
+   "미용사",
+   "Miyongsa",
+   "Thợ làm tóc, chuyên viên làm đẹp",
+   "미용사가 제 머리를 해 줬어요.",
+   "Thợ làm tóc đã làm tóc cho tôi."
+  ],
+  [
+   "경영자",
+   "Gyeongyeongja",
+   "Nhà quản lý, chủ doanh nghiệp",
+   "아버지는 작은 회사의 경영자예요.",
+   "Bố tôi là chủ một công ty nhỏ."
+  ],
+  [
+   "주부",
+   "Jubu",
+   "Nội trợ",
+   "어머니는 주부세요.",
+   "Mẹ tôi là nội trợ."
+  ],
+  [
+   "직장",
+   "Jikjang",
+   "Nơi làm việc",
+   "직장에 다닌 지 3년이 됐어요.",
+   "Tôi đi làm được 3 năm rồi."
+  ],
+  [
+   "항공사",
+   "Hanggongsa",
+   "Hãng hàng không",
+   "항공사에 취직하고 싶어요.",
+   "Tôi muốn xin việc ở hãng hàng không."
+  ],
+  [
+   "신문사",
+   "Sinmunsa",
+   "Tòa soạn báo",
+   "신문사에서 기자로 일해요.",
+   "Tôi làm phóng viên ở tòa soạn báo."
+  ],
+  [
+   "방송국",
+   "Bangsongguk",
+   "Đài truyền hình",
+   "방송국에 견학을 갔어요.",
+   "Tôi đã đi tham quan đài truyền hình."
+  ],
+  [
+   "출판사",
+   "Chulpansa",
+   "Nhà xuất bản",
+   "출판사에서 한국어 책을 만들어요.",
+   "Ở nhà xuất bản người ta làm sách tiếng Hàn."
+  ],
+  [
+   "무역 회사",
+   "Muyeok hoesa",
+   "Công ty thương mại",
+   "무역 회사에서 통역을 해요.",
+   "Tôi làm phiên dịch ở công ty thương mại."
+  ],
+  [
+   "건설 회사",
+   "Geonseol hoesa",
+   "Công ty xây dựng",
+   "한국 건설 회사가 베트남에 많아요.",
+   "Ở Việt Nam có nhiều công ty xây dựng Hàn Quốc."
+  ],
+  [
+   "계획투자부",
+   "Gyehoektujabu",
+   "Bộ Kế hoạch và Đầu tư",
+   "언니는 계획투자부에서 일해요.",
+   "Chị tôi làm ở Bộ Kế hoạch và Đầu tư."
+  ],
+  [
+   "자문 회사",
+   "Jamun hoesa",
+   "Công ty tư vấn",
+   "자문 회사에 면접을 보러 가요.",
+   "Tôi đi phỏng vấn ở công ty tư vấn."
+  ],
+  [
+   "공사",
+   "Gongsa",
+   "Công ty nhà nước",
+   "한국전력공사는 큰 공사예요.",
+   "Tổng công ty Điện lực Hàn Quốc là công ty nhà nước lớn."
+  ],
+  [
+   "산업 단지",
+   "Saneop danji",
+   "Khu công nghiệp",
+   "박닌에는 산업 단지가 많아요.",
+   "Bắc Ninh có nhiều khu công nghiệp."
+  ],
+  [
+   "협력 회사",
+   "Hyeomnyeok hoesa",
+   "Công ty đối tác",
+   "협력 회사와 회의를 했어요.",
+   "Chúng tôi đã họp với công ty đối tác."
+  ],
+  [
+   "외국 투자 회사",
+   "Oeguk tuja hoesa",
+   "Công ty có vốn nước ngoài",
+   "외국 투자 회사는 월급이 높아요.",
+   "Công ty có vốn nước ngoài lương cao."
+  ],
+  [
+   "합작사",
+   "Hapjaksa",
+   "Công ty liên doanh",
+   "한국과 베트남의 합작사에서 일해요.",
+   "Tôi làm ở công ty liên doanh Hàn–Việt."
+  ],
+  [
+   "과목",
+   "Gwamok",
+   "Môn học",
+   "제일 좋아하는 과목은 한국어예요.",
+   "Môn tôi thích nhất là tiếng Hàn."
+  ],
+  [
+   "동안",
+   "Dongan",
+   "Trong suốt (khoảng thời gian)",
+   "방학 동안 아르바이트를 하기로 했어요.",
+   "Tôi quyết định làm thêm trong kỳ nghỉ."
+  ],
+  [
+   "인기상",
+   "Ingisang",
+   "Giải được yêu thích nhất",
+   "말하기 대회에서 인기상을 받았어요.",
+   "Tôi nhận giải được yêu thích ở cuộc thi nói."
+  ],
+  [
+   "등록금",
+   "Deungnokgeum",
+   "Học phí",
+   "등록금을 낸 후에 수강 신청을 하세요.",
+   "Sau khi nộp học phí hãy đăng ký môn học."
+  ],
+  [
+   "일시",
+   "Ilsi",
+   "Ngày giờ",
+   "행사 일시를 확인해 주세요.",
+   "Xin hãy kiểm tra ngày giờ sự kiện."
+  ],
+  [
+   "글쓰기",
+   "Geulsseugi",
+   "Viết văn",
+   "글쓰기 연습을 매일 하기로 했어요.",
+   "Tôi quyết định luyện viết mỗi ngày."
+  ],
+  [
+   "벌써",
+   "Beolsseo",
+   "Đã ... rồi",
+   "한국에 온 지 벌써 1년이 됐어요.",
+   "Đến Hàn đã một năm rồi."
+  ],
+  [
+   "입학",
+   "Ipak",
+   "Nhập học",
+   "입학한 지 한 달이 지났어요.",
+   "Nhập học được một tháng rồi."
+  ],
+  [
+   "기타",
+   "Gita",
+   "Khác; đàn ghi-ta",
+   "기타를 배운 지 2년 됐어요.",
+   "Tôi học ghi-ta được 2 năm."
+  ],
+  [
+   "봉사 활동",
+   "Bongsa hwaldong",
+   "Hoạt động tình nguyện",
+   "주말마다 봉사 활동을 하기로 했어요.",
+   "Tôi quyết định đi tình nguyện mỗi cuối tuần."
+  ],
+  [
+   "자르다",
+   "Jareuda",
+   "Cắt",
+   "내일 머리를 자르기로 했어요.",
+   "Tôi quyết định mai đi cắt tóc."
+  ],
+  [
+   "꿈",
+   "Kkum",
+   "Ước mơ, giấc mơ",
+   "제 꿈은 한국어 선생님이 되는 것이에요.",
+   "Ước mơ của tôi là trở thành giáo viên tiếng Hàn."
+  ],
+  [
+   "졸업",
+   "Joreop",
+   "Tốt nghiệp",
+   "졸업 후에 취직하고 싶어요.",
+   "Sau khi tốt nghiệp tôi muốn đi làm."
+  ],
+  [
+   "끊다",
+   "Kkeunta",
+   "Cắt, cai, bỏ",
+   "아버지가 담배를 끊기로 하셨어요.",
+   "Bố tôi đã quyết định bỏ thuốc lá."
+  ],
+  [
+   "언제든지",
+   "Eonjedeunji",
+   "Bất cứ lúc nào",
+   "궁금한 것이 있으면 언제든지 연락하세요.",
+   "Có thắc mắc gì thì liên lạc bất cứ lúc nào."
+  ],
+  [
+   "최우수상",
+   "Choeususang",
+   "Giải xuất sắc nhất",
+   "동생이 미술 대회에서 최우수상을 받았어요.",
+   "Em tôi được giải xuất sắc nhất cuộc thi mỹ thuật."
+  ],
+  [
+   "내려가다",
+   "Naeryeogada",
+   "Đi xuống",
+   "방학이 시작한 후에 고향에 내려가요.",
+   "Sau khi kỳ nghỉ bắt đầu tôi về quê."
+  ],
+  [
+   "우수상",
+   "Ususang",
+   "Giải xuất sắc",
+   "우수상을 받아서 기뻐요.",
+   "Được giải xuất sắc nên tôi vui."
+  ],
+  [
+   "취직",
+   "Chwijik",
+   "Xin được việc",
+   "취직한 지 얼마나 됐어요?",
+   "Bạn đi làm được bao lâu rồi?"
+  ],
+  [
+   "다녀오다",
+   "Danyeooda",
+   "Đi rồi về",
+   "회사에 다녀올게요.",
+   "Con đi làm đây (rồi sẽ về)."
+  ],
+  [
+   "운동장",
+   "Undongjang",
+   "Sân vận động",
+   "수업이 끝난 후에 운동장에서 축구를 해요.",
+   "Sau khi tan học tôi đá bóng ở sân vận động."
+  ],
+  [
+   "특히",
+   "Teuki",
+   "Đặc biệt",
+   "저는 운동을 좋아해요. 특히 수영을 좋아해요.",
+   "Tôi thích thể thao. Đặc biệt là bơi."
+  ],
+  [
+   "대상",
+   "Daesang",
+   "Giải nhất",
+   "말하기 대회에서 대상을 받았어요.",
+   "Tôi đạt giải nhất cuộc thi nói."
+  ],
+  [
+   "응원",
+   "Eungwon",
+   "Cổ vũ",
+   "친구들이 응원해 줘서 힘이 났어요.",
+   "Bạn bè cổ vũ nên tôi có thêm sức."
+  ],
+  [
+   "학기",
+   "Hakgi",
+   "Học kỳ",
+   "이번 학기가 끝난 후에 여행을 가기로 했어요.",
+   "Tôi quyết định đi du lịch sau khi học kỳ này kết thúc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄴ 지 — Đã ... được (bao lâu)",
+   "meaning": "Nói khoảng thời gian đã trôi qua kể từ khi làm một việc: 'làm … được (bao lâu) rồi'. Cấu trúc: V + (으)ㄴ 지 + thời gian + 되다/지나다/넘다. Gốc có patchim + 은 지 (먹은 지); không patchim + ㄴ 지 (온 지, 배운 지); patchim ㄹ bỏ ㄹ (살다 → 산 지). Hỏi: 얼마나 됐어요? (được bao lâu rồi?). Ví dụ: 한국에 온 지 1년이 됐어요 = Tôi đến Hàn được 1 năm rồi.",
+   "examples": [
+    "한국에 온 지 벌써 1년이 됐어요. — Tôi đến Hàn đã được một năm rồi.",
+    "한국어를 배운 지 6개월이 지났어요. — Tôi học tiếng Hàn được 6 tháng rồi.",
+    "이 집에 산 지 얼마나 됐어요? — Bạn sống ở nhà này được bao lâu rồi?",
+    "밥을 먹은 지 한 시간이 넘었어요. — Ăn cơm được hơn một tiếng rồi."
+   ]
+  },
+  {
+   "form": "V + (으)ㄴ 후에 — Sau khi",
+   "meaning": "Hành động ở vế sau xảy ra SAU hành động ở vế trước: 'sau khi…'. Gốc có patchim + 은 후에 (먹은 후에); không patchim + ㄴ 후에 (졸업한 후에); patchim ㄹ bỏ ㄹ (만든 후에). Có thể thay 후에 bằng 다음에, 뒤에 (끝난 다음에). Với danh từ: N 후에 (졸업 후에, 식사 후에). Đối lập với 기 전에 (trước khi).",
+   "examples": [
+    "졸업한 후에 한국 회사에 취직하고 싶어요. — Sau khi tốt nghiệp tôi muốn làm ở công ty Hàn.",
+    "수업이 끝난 후에 운동장에서 축구를 해요. — Sau khi tan học tôi đá bóng.",
+    "등록금을 낸 후에 수강 신청을 하세요. — Sau khi nộp học phí hãy đăng ký môn.",
+    "밥을 먹은 후에 약을 드세요. — Hãy uống thuốc sau khi ăn."
+   ]
+  },
+  {
+   "form": "V + 기로 하다 — Quyết định",
+   "meaning": "Diễn tả quyết định, kế hoạch hoặc lời hẹn với người khác: 'quyết định…, hẹn sẽ…'. Gắn 기로 하다 vào gốc động từ: 가다 → 가기로 하다, 끊다 → 끊기로 하다. Thường dùng ở quá khứ 기로 했어요 (đã quyết định / đã hẹn). Có thể dùng với người khác: 친구와 만나기로 했어요 (tôi đã hẹn gặp bạn). Thay 하다 bằng 결심하다 (quyết tâm), 약속하다 (hứa).",
+   "examples": [
+    "내년에 한국으로 유학을 가기로 했어요. — Tôi đã quyết định sang Hàn du học năm sau.",
+    "아버지가 담배를 끊기로 하셨어요. — Bố tôi đã quyết định bỏ thuốc lá.",
+    "친구와 토요일에 만나기로 했어요. — Tôi đã hẹn gặp bạn vào thứ Bảy.",
+    "매일 한국어 단어를 10개씩 외우기로 했어요. — Tôi quyết định mỗi ngày học thuộc 10 từ tiếng Hàn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đến Hàn được 1 năm rồi.",
+   "kr": "한국에 ___ 1년이 됐어요.",
+   "options": [
+    "온 지",
+    "오는 지",
+    "올 지"
+   ],
+   "answer": "온 지",
+   "explain": "오다 → 온 지 + thời gian + 됐어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi sống ở đây được 3 năm.",
+   "kr": "여기에서 ___ 3년이 됐어요.",
+   "options": [
+    "산 지",
+    "살은 지",
+    "사는 지"
+   ],
+   "answer": "산 지",
+   "explain": "살다 patchim ㄹ: bỏ ㄹ + ㄴ 지 → 산 지."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Sau khi tốt nghiệp tôi muốn đi làm.",
+   "kr": "___ 취직하고 싶어요.",
+   "options": [
+    "졸업한 후에",
+    "졸업하는 후에",
+    "졸업할 후에"
+   ],
+   "answer": "졸업한 후에",
+   "explain": "졸업하다 → 졸업한 후에."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hãy uống thuốc sau khi ăn.",
+   "kr": "밥을 ___ 약을 드세요.",
+   "options": [
+    "먹은 후에",
+    "먹기 후에",
+    "먹는 후에"
+   ],
+   "answer": "먹은 후에",
+   "explain": "먹다 → 먹은 후에. (Trước khi = 먹기 전에)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đã quyết định đi du học.",
+   "kr": "유학을 ___.",
+   "options": [
+    "가기로 했어요",
+    "가기로 해서요요",
+    "갈기로 했어요"
+   ],
+   "answer": "가기로 했어요",
+   "explain": "가다 → 가기로 했어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Bố quyết định bỏ thuốc lá.",
+   "kr": "아버지가 담배를 ___.",
+   "options": [
+    "끊기로 하셨어요",
+    "끊으기로 하셨어요",
+    "끊기로 했어시요"
+   ],
+   "answer": "끊기로 하셨어요",
+   "explain": "끊 + 기로 하다 + kính ngữ 시 → 끊기로 하셨어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi muốn học lên cao học.",
+   "kr": "___에 진학하고 싶어요.",
+   "options": [
+    "대학원",
+    "운동장",
+    "방송국"
+   ],
+   "answer": "대학원",
+   "explain": "대학원 = cao học."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi đạt giải nhất cuộc thi nói.",
+   "kr": "말하기 대회에서 ___을 받았어요.",
+   "options": [
+    "대상",
+    "대학원",
+    "등록금"
+   ],
+   "answer": "대상",
+   "explain": "대상 = giải nhất (giải cao nhất)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 지 vào 배우다: Tôi học tiếng Hàn được 6 tháng.",
+   "kr": "한국어를 ___ 6개월이 됐어요.",
+   "answer": [
+    "배운 지"
+   ],
+   "explain": "배우다 → 배운 지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 후에 vào 끝나다: Sau khi học kỳ kết thúc tôi đi du lịch.",
+   "kr": "학기가 ___ 여행을 가요.",
+   "answer": [
+    "끝난 후에",
+    "끝난 다음에",
+    "끝난 뒤에"
+   ],
+   "explain": "끝나다 → 끝난 후에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기로 했어요 vào 하다: Tôi quyết định đi tình nguyện mỗi cuối tuần.",
+   "kr": "주말마다 봉사 활동을 ___.",
+   "answer": [
+    "하기로 했어요"
+   ],
+   "explain": "하다 → 하기로 했어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기로 했어요 vào 만나다: Tôi đã hẹn gặp bạn thứ Bảy.",
+   "kr": "친구와 토요일에 ___.",
+   "answer": [
+    "만나기로 했어요"
+   ],
+   "explain": "만나다 → 만나기로 했어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đến Hàn đã một năm rồi.",
+   "tokens": [
+    "한국에",
+    "온",
+    "지",
+    "벌써",
+    "1년이",
+    "됐어요"
+   ],
+   "answer": "한국에 온 지 벌써 1년이 됐어요",
+   "explain": "온 지 + 벌써 + thời gian + 됐어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sau khi nộp học phí hãy đăng ký môn.",
+   "tokens": [
+    "등록금을",
+    "낸",
+    "후에",
+    "수강",
+    "신청을",
+    "하세요"
+   ],
+   "answer": "등록금을 낸 후에 수강 신청을 하세요",
+   "explain": "내다 → 낸 후에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã quyết định sang Hàn du học.",
+   "answer": [
+    "한국으로 유학을 가기로 했어요.",
+    "한국에 유학을 가기로 했어요.",
+    "한국에 유학 가기로 했어요.",
+    "한국으로 유학 가기로 했어요."
+   ],
+   "explain": "유학을 가다 → 가기로 했어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn học tiếng Hàn được bao lâu rồi?",
+   "answer": [
+    "한국어를 배운 지 얼마나 됐어요?",
+    "한국어를 공부한 지 얼마나 됐어요?",
+    "한국어 배운 지 얼마나 됐어요?"
+   ],
+   "explain": "배운 지 + 얼마나 됐어요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sau khi tốt nghiệp tôi muốn làm ở công ty thương mại.",
+   "answer": [
+    "졸업한 후에 무역 회사에서 일하고 싶어요.",
+    "졸업 후에 무역 회사에서 일하고 싶어요.",
+    "졸업한 후에 무역 회사에 취직하고 싶어요.",
+    "졸업 후에 무역 회사에 취직하고 싶어요."
+   ],
+   "explain": "졸업한 후에 + 일하고 싶어요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "어학연수를 시작한 지 6개월이 됐어요. 내년에는 대학원에 진학하기로 했어요.",
+   "answer": "Tôi bắt đầu khóa học tiếng được 6 tháng rồi. Năm sau tôi đã quyết định học lên cao học.",
+   "explain": "시작한 지 6개월 = bắt đầu được 6 tháng; 진학하기로 했어요 = đã quyết định học lên."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu SAI với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "🎤 외국인 한국어 말하기 대회\n일시: 1월 20일 (토) 오후 2시\n장소: 한국대학교 학생회관\n상: 대상 1명, 최우수상 2명, 우수상 3명, 인기상 1명\n신청: 1월 10일까지 이메일로",
+   "options": [
+    "대회는 오전에 시작해요.",
+    "1월 10일까지 신청해야 해요.",
+    "우수상은 세 명이 받아요.",
+    "대회는 학생회관에서 해요."
+   ],
+   "answer": "대회는 오전에 시작해요.",
+   "explain": "일시: 오후 2시 → bắt đầu buổi chiều."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 베트남에서 대학교를 졸업한 후에 한국에 왔어요. 한국에 온 지 벌써 1년이 됐어요. 지금은 어학연수를 하고 있어요. 제 꿈은 한국 회사와 베트남 회사를 연결하는 통역사가 되는 것이에요. 그래서 내년에 대학원에 진학해서 통역을 공부하기로 했어요.",
+   "options": [
+    "저는 대학원에서 통역을 공부하려고 해요.",
+    "저는 한국에서 대학교를 졸업했어요.",
+    "저는 한국에 온 지 2년이 됐어요.",
+    "저는 지금 한국 회사에서 일하고 있어요."
+   ],
+   "answer": "저는 대학원에서 통역을 공부하려고 해요.",
+   "explain": "Quyết định học thông dịch ở cao học năm sau. Tốt nghiệp ở VN; đến Hàn 1 năm; đang học tiếng."
+  }
+ ]
+}

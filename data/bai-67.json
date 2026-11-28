@@ -1,0 +1,52 @@
+{
+ "id": "bai-67",
+ "lesson": "Bài 67",
+ "title": "Chuyển chỗ ở (phần 3/4)",
+ "krTitle": "이사 3",
+ "date": "2027-02-15",
+ "day": 89,
+ "source": "TOPIK 3 – Bài 9: Chuyển chỗ ở (phần 3/4)",
+ "practice": {"listening": "Nghe – câu 1~3: Chọn tranh đúng", "reading": "Đọc – câu 9~12: Chọn nội dung đúng"},
+ "words": [
+  ["중앙난방", "Jungangnanbang", "Hệ thống sưởi trung tâm", "중앙난방은 개별난방에 비해 난방비가 싼 편이에요.", "Sưởi trung tâm so với sưởi riêng thì tiền sưởi khá rẻ."],
+  ["가루비누", "Garubinu", "Xà phòng bột", "가루비누로 빨래를 해요.", "Tôi giặt đồ bằng xà phòng bột."],
+  ["사라지다", "Sarajida", "Biến mất", "이삿짐 중에서 상자 하나가 사라졌어요.", "Trong đồ chuyển nhà mất một cái hộp."],
+  ["전망", "Jeonmang", "Tầm nhìn (cảnh); triển vọng", "이 집은 전망이 좋아서 강이 보여요.", "Nhà này tầm nhìn đẹp, nhìn thấy sông."],
+  ["관리비", "Gwallibi", "Phí quản lý", "아파트는 빌라에 비해 관리비가 비싸요.", "Chung cư so với villa thì phí quản lý đắt."],
+  ["세제", "Seje", "Chất tẩy rửa, bột giặt", "설거지할 때 세제를 조금만 쓰세요.", "Khi rửa bát hãy dùng ít nước rửa thôi."],
+  ["전액 배상", "Jeonaek baesang", "Bồi thường toàn bộ", "짐이 깨지면 전액 배상해 드려요.", "Đồ bị vỡ chúng tôi bồi thường toàn bộ."],
+  ["관습", "Gwanseup", "Phong tục, tập quán", "이사할 때 떡을 돌리는 관습이 있어요.", "Có phong tục chia bánh tteok khi chuyển nhà."],
+  ["신축", "Sinchuk", "Mới xây", "신축 원룸이라서 깨끗해요.", "Phòng mới xây nên sạch sẽ."],
+  ["점검하다", "Jeomgeomhada", "Kiểm tra", "이사하기 전에 보일러를 점검했어요.", "Trước khi chuyển nhà tôi kiểm tra máy sưởi."],
+  ["난방비", "Nanbangbi", "Phí sưởi ấm", "겨울에는 난방비가 많이 나와요.", "Mùa đông tiền sưởi nhiều."],
+  ["안심하다", "Ansimhada", "An tâm", "보증금을 돌려받아서 안심했어요.", "Nhận lại tiền cọc nên tôi yên tâm."],
+  ["제공하다", "Jegonghada", "Cung cấp", "이 원룸은 침대와 냉장고를 제공해요.", "Phòng này có cung cấp giường và tủ lạnh."],
+  ["도보", "Dobo", "Đi bộ", "역에서 도보로 5분 걸려요.", "Từ ga đi bộ mất 5 phút."],
+  ["역세권", "Yeoksegwon", "Khu vực gần ga tàu", "역세권 집은 다른 집에 비해 비싸요.", "Nhà gần ga so với nhà khác thì đắt."]
+ ],
+ "patterns": [
+  {"form": "N + 에 비해(서) — So với", "meaning": "Dùng để so sánh, đánh giá A dựa trên chuẩn B: 'so với B thì A…'. Gắn thẳng sau danh từ làm mốc so sánh: 아파트에 비해(서) (so với chung cư), 작년에 비해(서) (so với năm ngoái). Có thể bỏ 서. Khác với N보다 (Bài 22): 보다 so sánh trực tiếp 'hơn'; 에 비해(서) trang trọng hơn, hay dùng trong văn viết, tin tức, mô tả biểu đồ (Viết câu 53 TOPIK II!). Với động/tính từ: V/A + 는 것에 비해, (으)ㄴ 것에 비해 (가격이 싼 것에 비해 품질이 좋아요 — so với giá rẻ thì chất lượng tốt).", "examples": ["아파트는 빌라에 비해 관리비가 비싸요. — Chung cư so với villa thì phí quản lý đắt hơn.", "역세권 집은 다른 집에 비해서 월세가 높아요. — Nhà gần ga so với nhà khác thì tiền thuê cao hơn.", "올해는 작년에 비해 이사하는 사람이 늘었습니다. — So với năm ngoái, năm nay người chuyển nhà đã tăng lên.", "이 집은 가격에 비해 넓어요. — Nhà này so với giá thì rộng."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: So với villa thì chung cư phí quản lý đắt.", "kr": "아파트는 빌라___ 관리비가 비싸요.", "options": ["에 비해", "를 비해", "에서 비해"], "answer": "에 비해", "explain": "N + 에 비해(서)."},
+  {"type": "choice", "q": "Chọn dạng đúng: So với năm ngoái, người chuyển nhà tăng.", "kr": "작년___ 이사하는 사람이 늘었습니다.", "options": ["에 비해서", "보다 비해", "에 비하고"], "answer": "에 비해서", "explain": "에 비해서 (có 서 cũng đúng)."},
+  {"type": "choice", "q": "Câu nào CÙNG NGHĨA với '이 집은 저 집에 비해 넓어요'?", "kr": "", "options": ["이 집이 저 집보다 넓어요.", "저 집이 이 집보다 넓어요.", "두 집은 넓이가 같아요."], "answer": "이 집이 저 집보다 넓어요.", "explain": "A는 B에 비해 넓다 ≈ A가 B보다 넓다."},
+  {"type": "choice", "q": "Mẫu nào thường dùng khi mô tả biểu đồ trong bài Viết TOPIK II?", "kr": "", "options": ["작년에 비해 증가했다", "작년처럼 많아요", "작년이라서 늘었어요"], "answer": "작년에 비해 증가했다", "explain": "에 비해 trang trọng, rất hay dùng trong câu 53 (mô tả biểu đồ)."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Từ ga đi bộ mất 5 phút.", "kr": "역에서 ___로 5분 걸려요.", "options": ["도보", "전망", "신축"], "answer": "도보", "explain": "도보 = đi bộ (trang trọng)."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Nhà này tầm nhìn đẹp.", "kr": "이 집은 ___이 좋아요.", "options": ["전망", "관습", "세제"], "answer": "전망", "explain": "전망 = tầm nhìn, quang cảnh."},
+  {"type": "choice", "q": "Khu nhà gần ga tàu điện ngầm gọi là gì?", "kr": "", "options": ["역세권", "주택가", "산업 단지"], "answer": "역세권", "explain": "역세권 = khu quanh ga."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Nhận lại tiền cọc nên yên tâm.", "kr": "보증금을 돌려받아서 ___.", "options": ["안심했어요", "점검했어요", "사라졌어요"], "answer": "안심했어요", "explain": "안심하다 = yên tâm."},
+  {"type": "fill", "q": "Điền 에 비해: Nhà này so với giá thì rộng.", "kr": "이 집은 가격___ 넓어요.", "answer": ["에 비해", "에 비해서"], "explain": "가격에 비해."},
+  {"type": "fill", "q": "Điền 에 비해: Mùa đông so với mùa hè thì tiền sưởi nhiều.", "kr": "겨울은 여름___ 난방비가 많이 나와요.", "answer": ["에 비해", "에 비해서"], "explain": "여름에 비해."},
+  {"type": "fill", "q": "Điền từ: Phòng này có cung cấp giường.", "kr": "이 원룸은 침대를 ___해요.", "answer": ["제공"], "explain": "제공하다 = cung cấp."},
+  {"type": "fill", "q": "Điền từ: Trước khi chuyển tôi kiểm tra máy sưởi.", "kr": "이사하기 전에 보일러를 ___했어요.", "answer": ["점검"], "explain": "점검하다 = kiểm tra (thiết bị)."},
+  {"type": "order", "q": "Sắp xếp thành câu: Nhà gần ga so với nhà khác thì đắt.", "tokens": ["역세권", "집은", "다른", "집에", "비해", "비싸요"], "answer": "역세권 집은 다른 집에 비해 비싸요", "explain": "N에 비해."},
+  {"type": "order", "q": "Sắp xếp thành câu: Phòng mới xây nên sạch.", "tokens": ["신축", "원룸이라서", "깨끗해요"], "answer": "신축 원룸이라서 깨끗해요", "explain": "N이라서 = vì là."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: So với năm ngoái, tiền thuê nhà đã tăng.", "answer": ["작년에 비해 월세가 올랐어요.", "작년에 비해서 월세가 올랐어요.", "작년에 비해 집세가 올랐어요.", "작년에 비해서 집세가 올랐어요.", "작년에 비해 월세가 올랐습니다."], "explain": "작년에 비해 + 오르다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Từ ga đi bộ mất 10 phút.", "answer": ["역에서 도보로 10분 걸려요.", "역에서 걸어서 10분 걸려요.", "역에서 도보로 십 분 걸려요."], "explain": "도보로 = bằng đi bộ."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Có phong tục chia bánh tteok khi chuyển nhà.", "answer": ["이사할 때 떡을 돌리는 관습이 있어요.", "이사하면 떡을 돌리는 관습이 있어요."], "explain": "떡을 돌리다 + 관습."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "신축 건물은 오래된 건물에 비해 관리비가 비싼 대신에 시설이 좋아요.", "answer": "Tòa nhà mới xây so với tòa nhà cũ thì phí quản lý đắt, nhưng bù lại tiện nghi tốt.", "explain": "에 비해 = so với; (으)ㄴ 대신에 = bù lại."},
+  {"type": "read", "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)", "kr": "【원룸 임대】\n• 위치: 행복역 도보 3분 (역세권)\n• 보증금 500만 원 / 월세 45만 원\n• 관리비 5만 원 (인터넷 포함)\n• 신축, 남향, 침대·냉장고 제공\n• 주차 불가", "options": ["역에서 걸어서 3분이면 갈 수 있다.", "관리비에 인터넷은 포함되지 않는다.", "차를 세울 수 있다.", "가구는 제공되지 않는다."], "answer": "역에서 걸어서 3분이면 갈 수 있다.", "explain": "도보 3분 = đi bộ 3 phút. Có internet; không đỗ xe; có giường, tủ lạnh."},
+  {"type": "read", "q": "Chọn tranh/tình huống đúng. (Dạng TOPIK II Nghe câu 1~3, đọc lời thoại)", "kr": "남자: 이 상자는 어디에 놓을까요?\n여자: 부엌에 놓아 주세요. 그릇이 들어 있어서 조심하세요.", "options": ["이삿짐을 옮기는 모습", "식당에서 주문하는 모습", "은행에서 돈을 찾는 모습", "병원에서 진찰받는 모습"], "answer": "이삿짐을 옮기는 모습", "explain": "Hỏi đặt thùng ở đâu, trong có bát đĩa → cảnh chuyển nhà."}
+ ]
+}

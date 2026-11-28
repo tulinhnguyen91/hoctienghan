@@ -1,0 +1,443 @@
+{
+ "id": "bai-29",
+ "lesson": "Bài 29",
+ "title": "Phim ảnh (phần 2/2)",
+ "krTitle": "영화 2",
+ "date": "2026-12-20",
+ "day": 32,
+ "source": "TOPIK 2 – Bài 8: Phim ảnh (phần 2/2)",
+ "practice": {
+  "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+  "reading": "Đọc – Phần 4: Câu suy luận (43~48)"
+ },
+ "words": [
+  [
+   "신나다",
+   "Sinnada",
+   "Hào hứng",
+   "콘서트에 가서 정말 신났어요.",
+   "Đi xem hòa nhạc nên tôi rất hào hứng."
+  ],
+  [
+   "화나다",
+   "Hwanada",
+   "Tức giận",
+   "친구가 늦어서 화났어요.",
+   "Bạn đến muộn nên tôi tức."
+  ],
+  [
+   "졸리다",
+   "Jollida",
+   "Buồn ngủ",
+   "영화가 지루해서 졸렸어요.",
+   "Phim chán nên tôi buồn ngủ."
+  ],
+  [
+   "그립다",
+   "Geuripda",
+   "Nhớ nhung",
+   "고향 음식이 그리워요.",
+   "Tôi nhớ món ăn quê nhà."
+  ],
+  [
+   "값",
+   "Gap",
+   "Giá",
+   "영화표 값이 정말 비싸네요.",
+   "Giá vé xem phim đắt thật."
+  ],
+  [
+   "상상하다",
+   "Sangsanghada",
+   "Tưởng tượng",
+   "미래의 모습을 상상해 보세요.",
+   "Hãy thử tưởng tượng hình ảnh tương lai."
+  ],
+  [
+   "이별",
+   "Ibyeol",
+   "Chia ly",
+   "이 영화는 이별 이야기예요.",
+   "Phim này là câu chuyện chia ly."
+  ],
+  [
+   "검색하다",
+   "Geomsaekhada",
+   "Tìm kiếm",
+   "인터넷에서 상영 시간을 검색해 봤어요.",
+   "Tôi đã thử tìm giờ chiếu trên mạng."
+  ],
+  [
+   "상영 시간",
+   "Sangyeong sigan",
+   "Giờ chiếu",
+   "상영 시간이 두 시간이에요.",
+   "Thời lượng chiếu là hai tiếng."
+  ],
+  [
+   "인기",
+   "Ingi",
+   "Sự nổi tiếng, được yêu thích",
+   "이 영화는 요즘 인기가 많아요.",
+   "Phim này dạo này rất được yêu thích."
+  ],
+  [
+   "경치",
+   "Gyeongchi",
+   "Phong cảnh",
+   "영화 속 경치가 아름다웠어요.",
+   "Phong cảnh trong phim rất đẹp."
+  ],
+  [
+   "소중하다",
+   "Sojunghada",
+   "Quý giá",
+   "가족은 정말 소중해요.",
+   "Gia đình thật quý giá."
+  ],
+  [
+   "잘생기다",
+   "Jalsaenggida",
+   "Đẹp trai",
+   "주인공이 정말 잘생겼네요.",
+   "Nhân vật chính đẹp trai thật."
+  ],
+  [
+   "기사",
+   "Gisa",
+   "Tài xế; bài báo",
+   "영화에 대한 기사를 읽어 봤어요.",
+   "Tôi đã đọc thử bài báo về bộ phim."
+  ],
+  [
+   "속",
+   "Sok",
+   "Bên trong",
+   "영화 속 주인공이 멋있어요.",
+   "Nhân vật chính trong phim thật ngầu."
+  ],
+  [
+   "전쟁",
+   "Jeonjaeng",
+   "Chiến tranh",
+   "전쟁 영화를 보고 많이 울었어요.",
+   "Xem phim chiến tranh tôi đã khóc nhiều."
+  ],
+  [
+   "날씬하다",
+   "Nalssinhada",
+   "Thon thả",
+   "그 배우는 키가 크고 날씬해요.",
+   "Diễn viên đó cao và thon thả."
+  ],
+  [
+   "애인",
+   "Aein",
+   "Người yêu",
+   "애인과 영화관에 갔어요.",
+   "Tôi đã đi rạp với người yêu."
+  ],
+  [
+   "최고",
+   "Choego",
+   "Tuyệt nhất",
+   "이 영화가 올해 최고예요.",
+   "Phim này hay nhất năm nay."
+  ],
+  [
+   "매진",
+   "Maejin",
+   "Bán hết vé",
+   "인기 영화라서 표가 매진됐어요.",
+   "Phim ăn khách nên vé đã bán hết."
+  ],
+  [
+   "판매",
+   "Panmae",
+   "Việc bán",
+   "영화표 판매는 내일부터 시작해요.",
+   "Việc bán vé bắt đầu từ ngày mai."
+  ],
+  [
+   "미래",
+   "Mirae",
+   "Tương lai",
+   "미래의 도시는 어떨까요?",
+   "Thành phố tương lai sẽ thế nào nhỉ?"
+  ],
+  [
+   "영화관",
+   "Yeonghwagwan",
+   "Rạp chiếu phim",
+   "영화관에서 팝콘을 샀어요.",
+   "Tôi đã mua bắp rang ở rạp."
+  ],
+  [
+   "편",
+   "Pyeon",
+   "Bộ (phim), phía",
+   "이번 달에 영화를 세 편 봤어요.",
+   "Tháng này tôi đã xem ba bộ phim."
+  ],
+  [
+   "바다낚시",
+   "Badanaksi",
+   "Câu cá biển",
+   "아버지와 바다낚시를 해 봤어요.",
+   "Tôi đã thử đi câu cá biển với bố."
+  ],
+  [
+   "예매",
+   "Yemae",
+   "Đặt mua trước",
+   "인터넷으로 영화표를 예매했어요.",
+   "Tôi đã đặt vé xem phim qua mạng."
+  ],
+  [
+   "사랑",
+   "Sarang",
+   "Tình yêu",
+   "이 영화는 첫사랑 이야기예요.",
+   "Phim này kể về mối tình đầu."
+  ],
+  [
+   "우주",
+   "Uju",
+   "Vũ trụ",
+   "우주 여행을 해 보고 싶어요.",
+   "Tôi muốn thử du hành vũ trụ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 아/어 보다 — Thử làm",
+   "meaning": "Diễn tả việc thử làm một việc gì đó, hoặc kinh nghiệm đã từng làm: 'thử…, đã từng…'. Chia như 아/어요: 먹다 → 먹어 보다, 가다 → 가 보다, 하다 → 해 보다. Các dạng hay dùng: 아/어 보세요 (hãy thử…, lời khuyên), 아/어 보고 싶다 (muốn thử), 아/어 봤어요 (đã thử, đã từng): 한국 영화를 봐 봤어요 → thường nói gọn 봤어요; 제주도에 가 봤어요 (tôi đã từng đi Jeju). Lưu ý: 보다 (xem) + 아/어 보다 → 봐 보다 nghe thừa, người Hàn thường chỉ nói 봤어요.",
+   "examples": [
+    "이 영화 정말 재미있어요. 한번 봐 보세요. — Phim này hay lắm. Bạn xem thử đi.",
+    "김치를 먹어 봤어요? — Bạn đã ăn thử kimchi chưa?",
+    "우주 여행을 해 보고 싶어요. — Tôi muốn thử du hành vũ trụ.",
+    "제주도에 가 봤어요. — Tôi đã từng đi Jeju."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Bạn ăn thử món này đi.",
+   "kr": "이 음식을 ___.",
+   "options": [
+    "먹어 보세요",
+    "먹아 보세요",
+    "먹어 봐세요"
+   ],
+   "answer": "먹어 보세요",
+   "explain": "먹다 → 먹어 + 보세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đã từng đi Jeju.",
+   "kr": "제주도에 ___.",
+   "options": [
+    "가 봤어요",
+    "가아 봤어요",
+    "갔어 봐요"
+   ],
+   "answer": "가 봤어요",
+   "explain": "가다 → 가 + 봤어요 (đã từng)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi muốn thử câu cá biển.",
+   "kr": "바다낚시를 ___.",
+   "options": [
+    "해 보고 싶어요",
+    "하 보고 싶어요",
+    "해 봐고 싶어요"
+   ],
+   "answer": "해 보고 싶어요",
+   "explain": "하다 → 해 + 보고 싶어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hãy thử mặc áo này.",
+   "kr": "이 옷을 ___.",
+   "options": [
+    "입어 보세요",
+    "입아 보세요",
+    "입 보세요"
+   ],
+   "answer": "입어 보세요",
+   "explain": "입다 → 입어 보세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phim ăn khách nên vé đã bán hết.",
+   "kr": "인기 영화라서 표가 ___됐어요.",
+   "options": [
+    "매진",
+    "예매",
+    "판매"
+   ],
+   "answer": "매진",
+   "explain": "매진되다 = bán hết vé."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phim chán nên tôi buồn ngủ.",
+   "kr": "영화가 지루해서 ___.",
+   "options": [
+    "졸렸어요",
+    "신났어요",
+    "그리웠어요"
+   ],
+   "answer": "졸렸어요",
+   "explain": "졸리다 = buồn ngủ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi nhớ quê.",
+   "kr": "고향이 ___.",
+   "options": [
+    "그리워요",
+    "그립어요",
+    "그리우요"
+   ],
+   "answer": "그리워요",
+   "explain": "그립다 bất quy tắc ㅂ → 그리워요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 보세요 vào 상상하다: Hãy thử tưởng tượng.",
+   "kr": "미래의 모습을 ___.",
+   "answer": [
+    "상상해 보세요"
+   ],
+   "explain": "상상하다 → 상상해 보세요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 봤어요 vào 타다: Tôi đã thử đi KTX.",
+   "kr": "KTX를 ___.",
+   "answer": [
+    "타 봤어요"
+   ],
+   "explain": "타다 → 타 봤어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 볼까요? vào 검색하다: Mình thử tìm trên mạng nhé?",
+   "kr": "인터넷에서 ___?",
+   "answer": [
+    "검색해 볼까요"
+   ],
+   "explain": "검색하다 → 검색해 볼까요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền đơn vị đếm phim: Tháng này tôi đã xem ba bộ phim.",
+   "kr": "이번 달에 영화를 세 ___ 봤어요.",
+   "answer": [
+    "편"
+   ],
+   "explain": "Phim đếm bằng 편."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bạn đã ăn thử kimchi chưa?",
+   "tokens": [
+    "김치를",
+    "먹어",
+    "봤어요"
+   ],
+   "answer": "김치를 먹어 봤어요",
+   "explain": "먹어 봤어요? = đã ăn thử chưa?"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đã đặt vé xem phim qua mạng.",
+   "tokens": [
+    "인터넷으로",
+    "영화표를",
+    "예매했어요"
+   ],
+   "answer": "인터넷으로 영화표를 예매했어요",
+   "explain": "인터넷으로 = qua mạng; 예매하다 = đặt trước."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn đã từng đến Hàn Quốc chưa?",
+   "answer": [
+    "한국에 가 봤어요?",
+    "한국에 가 본 적이 있어요?",
+    "한국에 와 봤어요?"
+   ],
+   "explain": "가 보다 + 았어요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy thử mặc áo này.",
+   "answer": [
+    "이 옷을 입어 보세요.",
+    "이 옷 입어 보세요."
+   ],
+   "explain": "입다 → 입어 보세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Gia đình rất quý giá.",
+   "answer": [
+    "가족은 정말 소중해요.",
+    "가족은 아주 소중해요.",
+    "가족은 소중해요.",
+    "가족이 정말 소중해요."
+   ],
+   "explain": "소중하다 → 소중해요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "이 영화는 정말 감동적이에요. 시간이 있으면 꼭 한번 봐 보세요.",
+   "answer": "Phim này thật cảm động. Nếu có thời gian, nhất định hãy xem thử một lần.",
+   "explain": "꼭 한번 = nhất định một lần; 봐 보세요 = xem thử đi."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "인터넷으로 표를 예매했어요. 저녁 7시에 영화를 봐요.",
+   "options": [
+    "영화",
+    "운동",
+    "여행",
+    "쇼핑"
+   ],
+   "answer": "영화",
+   "explain": "Đặt vé, xem lúc 7 giờ tối → phim."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp với nội dung. (Dạng TOPIK câu 43~48)",
+   "kr": "저는 지난 주말에 처음으로 바다낚시를 해 봤어요. 처음에는 물고기를 한 마리도 못 잡아서 화났어요. 그런데 오후에 큰 물고기를 잡아서 정말 신났어요.",
+   "options": [
+    "저는 처음으로 바다낚시를 했어요.",
+    "저는 바다낚시를 자주 해요.",
+    "저는 물고기를 한 마리도 못 잡았어요.",
+    "저는 하루 종일 화가 났어요."
+   ],
+   "answer": "저는 처음으로 바다낚시를 했어요.",
+   "explain": "처음으로 해 봤어요 = lần đầu thử; buổi chiều bắt được cá to nên rất vui."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "요즘 우주 영화 '별의 미래'가 인기가 많아요. 그래서 주말 표는 벌써 매진됐어요. 저는 평일 저녁에 애인과 같이 보려고 인터넷으로 예매했어요. 영화 속 우주의 경치가 정말 아름다워서 꼭 영화관에서 보고 싶어요.",
+   "options": [
+    "저는 평일에 영화를 볼 거예요.",
+    "주말 표를 아직 살 수 있어요.",
+    "저는 혼자 영화를 볼 거예요.",
+    "저는 영화관에서 표를 샀어요."
+   ],
+   "answer": "저는 평일에 영화를 볼 거예요.",
+   "explain": "Vé cuối tuần hết; tôi đặt vé tối ngày thường qua mạng, đi cùng người yêu."
+  }
+ ]
+}

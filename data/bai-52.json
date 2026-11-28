@@ -1,0 +1,379 @@
+{
+ "id": "bai-52",
+ "lesson": "Bài 52",
+ "title": "Nấu ăn (phần 4/6)",
+ "krTitle": "요리 4",
+ "date": "2027-01-23",
+ "day": 66,
+ "source": "TOPIK 3 – Bài 5: Nấu ăn (phần 4/6)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "채썰다",
+   "Chaesseolda",
+   "Thái sợi",
+   "당근을 채썰어서 볶아요.",
+   "Thái sợi cà rốt rồi xào."
+  ],
+  [
+   "고춧가루",
+   "Gochutgaru",
+   "Bột ớt",
+   "김치는 고춧가루로 만들어요.",
+   "Kimchi được làm bằng bột ớt."
+  ],
+  [
+   "든든하다",
+   "Deundeunhada",
+   "No lâu, chắc bụng",
+   "아침을 많이 먹어서 든든해요.",
+   "Ăn sáng nhiều nên thấy chắc bụng."
+  ],
+  [
+   "소스",
+   "Soseu",
+   "Nước sốt",
+   "간장으로 소스를 만들었어요.",
+   "Tôi làm nước sốt bằng xì dầu."
+  ],
+  [
+   "청주",
+   "Cheongju",
+   "Rượu gạo trong (cheongju)",
+   "고기 냄새를 없애려고 청주를 넣어요.",
+   "Cho rượu gạo để khử mùi thịt."
+  ],
+  [
+   "궁중",
+   "Gungjung",
+   "Trong cung",
+   "궁중 떡볶이는 맵지 않아요.",
+   "Tteokbokki cung đình không cay."
+  ],
+  [
+   "등뼈",
+   "Deungppyeo",
+   "Xương sống",
+   "감자탕은 돼지 등뼈로 만들어요.",
+   "Gamjatang được nấu bằng xương sống lợn."
+  ],
+  [
+   "순두부",
+   "Sundubu",
+   "Đậu non",
+   "순두부는 부드러워요.",
+   "Đậu non mềm."
+  ],
+  [
+   "카네이션",
+   "Kaneisyeon",
+   "Hoa cẩm chướng",
+   "어버이날에 카네이션을 드려요.",
+   "Ngày cha mẹ người ta tặng hoa cẩm chướng."
+  ],
+  [
+   "깎다",
+   "Kkakda",
+   "Gọt",
+   "사과 껍질을 칼로 깎아요.",
+   "Gọt vỏ táo bằng dao."
+  ],
+  [
+   "마늘",
+   "Maneul",
+   "Tỏi",
+   "한국 요리에는 마늘을 많이 넣어요.",
+   "Món Hàn cho nhiều tỏi."
+  ],
+  [
+   "식품",
+   "Sikpum",
+   "Thực phẩm",
+   "건강 식품을 사려고 해요.",
+   "Tôi định mua thực phẩm chức năng."
+  ],
+  [
+   "콩",
+   "Kong",
+   "Đậu, đỗ",
+   "두부는 콩으로 만들어요.",
+   "Đậu phụ được làm từ đậu nành."
+  ],
+  [
+   "깨소금",
+   "Kkaesogeum",
+   "Muối vừng",
+   "나물에 깨소금을 뿌려요.",
+   "Rắc muối vừng lên rau trộn."
+  ],
+  [
+   "매력적",
+   "Maeryeokjeok",
+   "Có sức hấp dẫn",
+   "한국 음식은 매운 맛이 매력적이에요.",
+   "Món Hàn hấp dẫn ở vị cay."
+  ],
+  [
+   "싸먹다",
+   "Ssameokda",
+   "Gói vào ăn (kiểu như ăn nem cuốn)",
+   "고기를 상추에 싸 먹어요.",
+   "Cuốn thịt vào rau diếp để ăn."
+  ],
+  [
+   "특유",
+   "Teugyu",
+   "Đặc biệt, riêng biệt",
+   "된장은 특유의 냄새가 있어요.",
+   "Tương đậu có mùi đặc trưng."
+  ],
+  [
+   "껍질",
+   "Kkeopjil",
+   "Vỏ",
+   "감자 껍질을 벗기세요.",
+   "Hãy bóc vỏ khoai tây."
+  ],
+  [
+   "멥쌀",
+   "Mepssal",
+   "Gạo tẻ",
+   "떡은 멥쌀이나 찹쌀로 만들어요.",
+   "Bánh tteok làm bằng gạo tẻ hoặc gạo nếp."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + (으)로 — Bằng (chất liệu, cách thức)",
+   "meaning": "Đã học (으)로 = bằng (phương tiện: 버스로) ở Bài 16. Ở TOPIK 3 mở rộng sang: 1) NGUYÊN LIỆU, chất liệu làm ra thứ gì: 두부는 콩으로 만들어요 (đậu phụ làm từ đậu nành); 2) DỤNG CỤ: 칼로 깎아요 (gọt bằng dao); 3) CÁCH THỨC, phương pháp: 소금으로 간을 해요 (nêm bằng muối), 이메일로 보내요. Danh từ có patchim + 으로 (콩으로, 간장으로); không patchim hoặc patchim ㄹ + 로 (소스로, 칼로, 쌀로). Hay đi với 만들다, 하다, 쓰다, 먹다, 바꾸다.",
+   "examples": [
+    "두부는 콩으로 만들어요. — Đậu phụ làm từ đậu nành.",
+    "사과 껍질을 칼로 깎아요. — Gọt vỏ táo bằng dao.",
+    "김치는 배추와 고춧가루로 만들어요. — Kimchi làm từ cải thảo và bột ớt.",
+    "고기를 상추로 싸 먹어요. — Cuốn thịt bằng rau diếp để ăn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Đậu phụ làm từ đậu nành.",
+   "kr": "두부는 콩___ 만들어요.",
+   "options": [
+    "으로",
+    "로",
+    "에서"
+   ],
+   "answer": "으로",
+   "explain": "콩 có patchim ㅇ → 으로."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Gọt táo bằng dao.",
+   "kr": "사과를 칼___ 깎아요.",
+   "options": [
+    "로",
+    "으로",
+    "에"
+   ],
+   "answer": "로",
+   "explain": "칼 có patchim ㄹ → chỉ + 로."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Làm nước sốt bằng xì dầu.",
+   "kr": "간장___ 소스를 만들어요.",
+   "options": [
+    "으로",
+    "로",
+    "을"
+   ],
+   "answer": "으로",
+   "explain": "간장 có patchim ㅇ → 으로."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn tiểu từ đúng: Bánh làm bằng gạo tẻ.",
+   "kr": "떡은 멥쌀___ 만들어요.",
+   "options": [
+    "로",
+    "으로",
+    "에게"
+   ],
+   "answer": "로",
+   "explain": "멥쌀 patchim ㄹ → 로."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng (으)로 với nghĩa 'cách thức'?",
+   "kr": "",
+   "options": [
+    "소금으로 간을 해요.",
+    "학교로 가요.",
+    "버스로 가요."
+   ],
+   "answer": "소금으로 간을 해요.",
+   "explain": "Nêm bằng muối = cách thức; 학교로 = hướng; 버스로 = phương tiện."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ngày cha mẹ người ta tặng hoa cẩm chướng.",
+   "kr": "어버이날에 ___을 드려요.",
+   "options": [
+    "카네이션",
+    "깨소금",
+    "등뼈"
+   ],
+   "answer": "카네이션",
+   "explain": "카네이션 = hoa cẩm chướng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hãy bóc vỏ khoai tây.",
+   "kr": "감자 ___을 벗기세요.",
+   "options": [
+    "껍질",
+    "식품",
+    "특유"
+   ],
+   "answer": "껍질",
+   "explain": "껍질 = vỏ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ăn sáng nhiều nên thấy chắc bụng.",
+   "kr": "아침을 많이 먹어서 ___.",
+   "options": [
+    "든든해요",
+    "매력적이에요",
+    "특유해요"
+   ],
+   "answer": "든든해요",
+   "explain": "든든하다 = no lâu, chắc bụng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)로: Kimchi làm bằng bột ớt.",
+   "kr": "김치는 고춧가루___ 만들어요.",
+   "answer": [
+    "로"
+   ],
+   "explain": "고춧가루 không patchim → 로."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)로: Cuốn thịt bằng rau diếp ăn.",
+   "kr": "고기를 상추___ 싸 먹어요.",
+   "answer": [
+    "로"
+   ],
+   "explain": "상추 không patchim → 로."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)로: Gamjatang nấu bằng xương sống lợn.",
+   "kr": "감자탕은 돼지 등뼈___ 만들어요.",
+   "answer": [
+    "로"
+   ],
+   "explain": "등뼈 không patchim → 로."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Món Hàn cho nhiều tỏi.",
+   "kr": "한국 요리에는 ___을 많이 넣어요.",
+   "answer": [
+    "마늘"
+   ],
+   "explain": "마늘 = tỏi."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đậu phụ làm từ đậu nành.",
+   "tokens": [
+    "두부는",
+    "콩으로",
+    "만들어요"
+   ],
+   "answer": "두부는 콩으로 만들어요",
+   "explain": "N(으)로 만들다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Rắc muối vừng lên rau trộn.",
+   "tokens": [
+    "나물에",
+    "깨소금을",
+    "뿌려요"
+   ],
+   "answer": "나물에 깨소금을 뿌려요",
+   "explain": "뿌리다 = rắc."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đậu phụ làm từ đậu nành.",
+   "answer": [
+    "두부는 콩으로 만들어요.",
+    "두부는 콩으로 만듭니다.",
+    "두부는 콩으로 만들어져요."
+   ],
+   "explain": "콩으로 만들어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Gọt vỏ táo bằng dao.",
+   "answer": [
+    "사과 껍질을 칼로 깎아요.",
+    "칼로 사과 껍질을 깎아요.",
+    "사과를 칼로 깎아요."
+   ],
+   "explain": "칼로 깎다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tương đậu có mùi đặc trưng.",
+   "answer": [
+    "된장은 특유의 냄새가 있어요.",
+    "된장에는 특유의 냄새가 있어요.",
+    "된장은 특유의 향이 있어요."
+   ],
+   "explain": "특유의 냄새 = mùi đặc trưng."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국 사람들은 고기를 상추나 깻잎으로 싸 먹는 것을 좋아해요.",
+   "answer": "Người Hàn thích cuốn thịt bằng rau diếp hoặc lá vừng để ăn.",
+   "explain": "깻잎 = lá vừng (tía tô Hàn); 싸 먹다 = cuốn ăn."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp nhất với nội dung. (Dạng TOPIK II câu 19~24)",
+   "kr": "궁중 떡볶이는 옛날 왕이 먹은 음식입니다. 요즘 떡볶이는 고추장으로 만들어서 맵지만 궁중 떡볶이는 간장으로 만들어서 맵지 않습니다. 그래서 매운 음식을 못 먹는 아이들이나 외국인들도 ( ___ ) 먹을 수 있습니다.",
+   "options": [
+    "부담 없이",
+    "맵게",
+    "조금밖에",
+    "혼자서만"
+   ],
+   "answer": "부담 없이",
+   "explain": "Không cay nên người không ăn được cay cũng ăn thoải mái (부담 없이)."
+  },
+  {
+   "type": "read",
+   "q": "Nội dung đúng với đoạn văn trên là gì? (Dạng TOPIK II câu 19~24)",
+   "kr": "궁중 떡볶이는 옛날 왕이 먹은 음식입니다. 요즘 떡볶이는 고추장으로 만들어서 맵지만 궁중 떡볶이는 간장으로 만들어서 맵지 않습니다.",
+   "options": [
+    "궁중 떡볶이는 간장으로 만든다.",
+    "궁중 떡볶이는 고추장으로 만든다.",
+    "요즘 떡볶이는 맵지 않다.",
+    "궁중 떡볶이는 요즘 생긴 음식이다."
+   ],
+   "answer": "궁중 떡볶이는 간장으로 만든다.",
+   "explain": "Tteokbokki cung đình làm bằng xì dầu nên không cay."
+  }
+ ]
+}

@@ -1,0 +1,553 @@
+{
+ "id": "bai-34",
+ "lesson": "Bài 34",
+ "title": "Đô thị",
+ "krTitle": "도시",
+ "date": "2026-12-27",
+ "day": 39,
+ "source": "TOPIK 2 – Bài 13: Đô thị",
+ "practice": {
+  "listening": "Nghe – Phần 6: Nội dung hội thoại (17~21)",
+  "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+ },
+ "words": [
+  [
+   "인구",
+   "Ingu",
+   "Dân số",
+   "서울의 인구는 천만 명쯤 돼요.",
+   "Dân số Seoul khoảng mười triệu người."
+  ],
+  [
+   "면적",
+   "Myeonjeok",
+   "Diện tích",
+   "제주도는 면적이 넓어요.",
+   "Đảo Jeju có diện tích rộng."
+  ],
+  [
+   "위치",
+   "Wichi",
+   "Vị trí",
+   "부산은 한국의 남쪽에 있어요.",
+   "Busan ở phía nam Hàn Quốc."
+  ],
+  [
+   "물가",
+   "Mulga",
+   "Giá cả, vật giá",
+   "서울은 물가가 비싼 것 같아요.",
+   "Hình như vật giá ở Seoul đắt."
+  ],
+  [
+   "지역",
+   "Jiyeok",
+   "Khu vực",
+   "이 지역은 겨울에 눈이 많이 와요.",
+   "Khu vực này mùa đông tuyết rơi nhiều."
+  ],
+  [
+   "중심지",
+   "Jungsimji",
+   "Trung tâm",
+   "명동은 쇼핑의 중심지예요.",
+   "Myeongdong là trung tâm mua sắm."
+  ],
+  [
+   "육지",
+   "Yukji",
+   "Đất liền",
+   "제주도는 육지에서 멀어요.",
+   "Jeju xa đất liền."
+  ],
+  [
+   "바다",
+   "Bada",
+   "Biển",
+   "부산에는 아름다운 바다가 있어요.",
+   "Busan có biển đẹp."
+  ],
+  [
+   "섬",
+   "Seom",
+   "Đảo",
+   "한국에는 섬이 3,000개나 있어요.",
+   "Hàn Quốc có tới 3.000 hòn đảo."
+  ],
+  [
+   "최고",
+   "Choego",
+   "Cao nhất",
+   "오늘 최고 기온은 30도예요.",
+   "Nhiệt độ cao nhất hôm nay là 30 độ."
+  ],
+  [
+   "최대",
+   "Choedae",
+   "Lớn nhất",
+   "부산은 한국 최대의 항구 도시예요.",
+   "Busan là thành phố cảng lớn nhất Hàn Quốc."
+  ],
+  [
+   "수도",
+   "Sudo",
+   "Thủ đô",
+   "한국의 수도는 서울이에요.",
+   "Thủ đô của Hàn Quốc là Seoul."
+  ],
+  [
+   "도시",
+   "Dosi",
+   "Thành phố",
+   "도시는 편리하지만 복잡해요.",
+   "Thành phố tiện lợi nhưng phức tạp."
+  ],
+  [
+   "시골",
+   "Sigol",
+   "Nông thôn",
+   "할머니는 시골에 사세요.",
+   "Bà tôi sống ở nông thôn."
+  ],
+  [
+   "공업",
+   "Gongeop",
+   "Công nghiệp",
+   "울산은 공업 도시예요.",
+   "Ulsan là thành phố công nghiệp."
+  ],
+  [
+   "상업",
+   "Sangeop",
+   "Thương mại",
+   "이 지역은 상업이 발달했어요.",
+   "Khu vực này thương mại phát triển."
+  ],
+  [
+   "농업",
+   "Nongeop",
+   "Nông nghiệp",
+   "시골에서는 농업을 많이 해요.",
+   "Ở nông thôn người ta làm nông nghiệp nhiều."
+  ],
+  [
+   "관광업",
+   "Gwangwangeop",
+   "Ngành du lịch",
+   "제주도는 관광업이 유명해요.",
+   "Jeju nổi tiếng về ngành du lịch."
+  ],
+  [
+   "유명하다",
+   "Yumyeonghada",
+   "Nổi tiếng",
+   "이천은 도자기로 유명해요.",
+   "Icheon nổi tiếng về gốm sứ."
+  ],
+  [
+   "경치가 아름답다",
+   "Gyeongchiga areumdapda",
+   "Phong cảnh đẹp",
+   "설악산은 경치가 아름다워요.",
+   "Núi Seorak phong cảnh đẹp."
+  ],
+  [
+   "역사가 깊다",
+   "Yeoksaga gipda",
+   "Lịch sử lâu đời",
+   "경주는 역사가 깊은 도시예요.",
+   "Gyeongju là thành phố lịch sử lâu đời."
+  ],
+  [
+   "방향",
+   "Banghyang",
+   "Phương hướng",
+   "이 방향으로 가면 바다가 나와요.",
+   "Đi theo hướng này sẽ thấy biển."
+  ],
+  [
+   "(감기가) 낫다",
+   "(gamgiga) natda",
+   "Khỏi (cảm)",
+   "약을 먹어서 감기가 다 나았어요.",
+   "Uống thuốc nên tôi khỏi cảm rồi."
+  ],
+  [
+   "도자기",
+   "Dojagi",
+   "Đồ gốm sứ",
+   "이천에서 도자기를 만들어 봤어요.",
+   "Tôi đã thử làm gốm ở Icheon."
+  ],
+  [
+   "상업 도시",
+   "Sangeop dosi",
+   "Thành phố thương mại",
+   "홍콩은 큰 상업 도시예요.",
+   "Hồng Kông là thành phố thương mại lớn."
+  ],
+  [
+   "경제 자유 구역",
+   "Gyeongje jayu guyeok",
+   "Khu kinh tế tự do",
+   "인천에는 경제 자유 구역이 있어요.",
+   "Incheon có khu kinh tế tự do."
+  ],
+  [
+   "(도자기 굽는) 가마",
+   "(dojagi gumneun) gama",
+   "Lò nung (gốm)",
+   "가마에서 도자기를 구워요.",
+   "Người ta nung gốm trong lò."
+  ],
+  [
+   "예술",
+   "Yesul",
+   "Nghệ thuật",
+   "광주는 예술의 도시예요.",
+   "Gwangju là thành phố nghệ thuật."
+  ],
+  [
+   "국제 무역항",
+   "Gukje muyeokhang",
+   "Cảng thương mại quốc tế",
+   "부산항은 국제 무역항이에요.",
+   "Cảng Busan là cảng thương mại quốc tế."
+  ],
+  [
+   "예전",
+   "Yejeon",
+   "Trước đây",
+   "예전에는 이곳이 작은 마을이었어요.",
+   "Trước đây nơi này là một làng nhỏ."
+  ],
+  [
+   "굽다",
+   "Gupda",
+   "Nướng, nung",
+   "고기를 구워서 먹을까요?",
+   "Mình nướng thịt ăn nhé?"
+  ],
+  [
+   "진흙",
+   "Jinheuk",
+   "Đất sét, bùn",
+   "도자기는 진흙으로 만들어요.",
+   "Gốm được làm từ đất sét."
+  ],
+  [
+   "단군신화",
+   "Dangunsinhwa",
+   "Thần thoại Dangun",
+   "단군신화는 한국의 건국 신화예요.",
+   "Thần thoại Dangun là thần thoại lập quốc của Hàn Quốc."
+  ],
+  [
+   "불꽃 축제",
+   "Bulkkot chukje",
+   "Lễ hội pháo hoa",
+   "부산 불꽃 축제에 사람이 10만 명이나 왔어요.",
+   "Lễ hội pháo hoa Busan có tới 100.000 người đến."
+  ],
+  [
+   "해수욕장",
+   "Haesuyokjang",
+   "Bãi tắm biển",
+   "해운대 해수욕장은 여름에 사람이 많아요.",
+   "Bãi biển Haeundae mùa hè đông người."
+  ],
+  [
+   "단군왕검",
+   "Dangunwanggeom",
+   "Dangun Wanggeom",
+   "단군왕검이 고조선을 세웠어요.",
+   "Dangun Wanggeom đã lập nên Gojoseon."
+  ],
+  [
+   "(얼굴이) 붓다",
+   "(eolguri) butda",
+   "(Mặt) bị sưng",
+   "어젯밤에 라면을 먹어서 얼굴이 부었어요.",
+   "Tối qua ăn mì nên mặt bị sưng."
+  ],
+  [
+   "단오 (음력 5월 5일)",
+   "Dano (eumnyeok 5wol 5il)",
+   "Tết Đoan ngọ (5/5 âm lịch)",
+   "강릉에서는 단오 축제가 열려요.",
+   "Ở Gangneung có lễ hội Tết Đoan ngọ."
+  ],
+  [
+   "비엔날레",
+   "Biennalle",
+   "Triển lãm Biennale",
+   "광주 비엔날레는 유명한 미술 행사예요.",
+   "Gwangju Biennale là sự kiện mỹ thuật nổi tiếng."
+  ],
+  [
+   "계획",
+   "Gyehoek",
+   "Kế hoạch",
+   "이번 방학 계획이 뭐예요?",
+   "Kế hoạch kỳ nghỉ này của bạn là gì?"
+  ],
+  [
+   "학업",
+   "Hageop",
+   "Việc học hành",
+   "학업 때문에 고향에 못 가요.",
+   "Vì việc học nên tôi không về quê được."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + (이)나 — Tới, đến tận (nhấn mạnh số lượng)",
+   "meaning": "Gắn sau số lượng để nhấn mạnh rằng con số đó NHIỀU hơn mong đợi, khiến người nói ngạc nhiên: 'tới…, những…, đến tận…'. Từ chỉ số lượng có patchim + 이나 (한 시간이나, 10만 명이나, 다섯 잔이나); không patchim + 나 (3,000개나, 두 개나). Khác với (이)나 'hoặc' ở Bài 30 vì đứng sau số lượng. Trong câu hỏi về số lượng: 몇 명이나 왔어요? (đến bao nhiêu người vậy?).",
+   "examples": [
+    "한국에는 섬이 3,000개나 있어요. — Hàn Quốc có tới 3.000 hòn đảo.",
+    "버스를 한 시간이나 기다렸어요. — Tôi đã đợi xe buýt tới một tiếng.",
+    "불꽃 축제에 사람이 10만 명이나 왔어요. — Lễ hội pháo hoa có tới 100.000 người.",
+    "커피를 다섯 잔이나 마셨어요. — Tôi đã uống tới năm cốc cà phê."
+   ]
+  },
+  {
+   "form": "V/A + (으)ㄹ 것 같다 — Có lẽ, hình như",
+   "meaning": "Phỏng đoán điều chưa chắc chắn (thường về tương lai hoặc dựa trên cảm giác): 'có lẽ…, hình như…, chắc là…'. Gốc có patchim + 을 것 같아요 (많을 것 같아요); không patchim + ㄹ 것 같아요 (비가 올 것 같아요); patchim ㄹ giữ nguyên (멀 것 같아요). Bất quy tắc: 춥다 → 추울 것 같아요, 낫다 → 나을 것 같아요. Cũng dùng để nói ý kiến nhẹ nhàng, khiêm tốn: 이게 더 좋을 것 같아요 (cái này có lẽ tốt hơn).",
+   "examples": [
+    "하늘을 보니까 비가 올 것 같아요. — Nhìn trời có lẽ sắp mưa.",
+    "주말에는 사람이 많을 것 같아요. — Cuối tuần chắc đông người.",
+    "약을 먹었으니까 내일은 나을 것 같아요. — Uống thuốc rồi nên chắc mai sẽ khỏi.",
+    "서울은 물가가 비쌀 것 같아요. — Có lẽ vật giá ở Seoul đắt."
+   ]
+  },
+  {
+   "form": "Bất quy tắc ㅅ",
+   "meaning": "Một số động/tính từ có gốc kết thúc bằng ㅅ (낫다 'khỏi; tốt hơn', 붓다 'sưng; rót', 짓다 'xây, nấu', 젓다 'khuấy') khi gặp nguyên âm thì ㅅ BỊ MẤT: 낫다 → 나아요, 나을 것 같아요; 붓다 → 부어요; 짓다 → 지어요, 지었어요. Gặp phụ âm thì giữ nguyên: 낫고, 짓지만. Chú ý: sau khi ㅅ mất, KHÔNG rút gọn nguyên âm (나아요 chứ không phải 나요). Những từ KHÔNG bất quy tắc: 웃다 → 웃어요, 씻다 → 씻어요, 벗다 → 벗어요.",
+   "examples": [
+    "감기가 다 나았어요. — Tôi khỏi cảm hẳn rồi.",
+    "얼굴이 많이 부었어요. — Mặt sưng nhiều quá.",
+    "이 집은 할아버지가 지으셨어요. — Ngôi nhà này do ông tôi xây.",
+    "손을 씻어요. — Tôi rửa tay. (씻다 không bất quy tắc)"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đã đợi tới một tiếng.",
+   "kr": "한 시간___ 기다렸어요.",
+   "options": [
+    "이나",
+    "나",
+    "거나"
+   ],
+   "answer": "이나",
+   "explain": "시간 có patchim → 이나 (nhấn mạnh nhiều)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi uống tới năm cốc cà phê.",
+   "kr": "커피를 다섯 잔___ 마셨어요.",
+   "options": [
+    "이나",
+    "나",
+    "만"
+   ],
+   "answer": "이나",
+   "explain": "잔 có patchim → 이나."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào nhấn mạnh 'nhiều hơn mong đợi'?",
+   "kr": "",
+   "options": [
+    "사과를 열 개나 먹었어요.",
+    "사과를 열 개만 먹었어요.",
+    "사과나 배를 먹었어요."
+   ],
+   "answer": "사과를 열 개나 먹었어요.",
+   "explain": "Số lượng + (이)나 = tới (nhiều). 만 = chỉ; 사과나 배 = táo hoặc lê."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Có lẽ sắp mưa.",
+   "kr": "비가 ___.",
+   "options": [
+    "올 것 같아요",
+    "오을 것 같아요",
+    "왔을 것 같아요요"
+   ],
+   "answer": "올 것 같아요",
+   "explain": "오다 → 올 것 같아요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Chắc là lạnh lắm.",
+   "kr": "날씨가 ___.",
+   "options": [
+    "추울 것 같아요",
+    "춥을 것 같아요",
+    "추워 것 같아요"
+   ],
+   "answer": "추울 것 같아요",
+   "explain": "춥다 bất quy tắc ㅂ → 추울."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi khỏi cảm rồi.",
+   "kr": "감기가 다 ___.",
+   "options": [
+    "나았어요",
+    "낫았어요",
+    "났어요"
+   ],
+   "answer": "나았어요",
+   "explain": "낫다 bất quy tắc ㅅ: ㅅ mất → 나았어요 (không rút gọn)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (KHÔNG bất quy tắc): Tôi cười.",
+   "kr": "저는 ___.",
+   "options": [
+    "웃어요",
+    "우어요",
+    "웃아요"
+   ],
+   "answer": "웃어요",
+   "explain": "웃다 không bất quy tắc ㅅ → 웃어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ở nông thôn người ta làm nông nghiệp nhiều.",
+   "kr": "시골에서는 ___을 많이 해요.",
+   "options": [
+    "농업",
+    "공업",
+    "상업"
+   ],
+   "answer": "농업",
+   "explain": "농업 = nông nghiệp; 공업 = công nghiệp; 상업 = thương mại."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng quá khứ của 붓다: Mặt tôi bị sưng.",
+   "kr": "얼굴이 ___.",
+   "answer": [
+    "부었어요"
+   ],
+   "explain": "붓다 → 부 + 었어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 것 같아요 vào 많다: Cuối tuần chắc đông người.",
+   "kr": "주말에는 사람이 ___.",
+   "answer": [
+    "많을 것 같아요"
+   ],
+   "explain": "많다 → 많을 것 같아요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 것 같아요 vào 낫다: Chắc mai sẽ khỏi.",
+   "kr": "내일은 ___.",
+   "answer": [
+    "나을 것 같아요"
+   ],
+   "explain": "낫다 → 나을 것 같아요 (ㅅ mất)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)나: Hàn Quốc có tới 3.000 hòn đảo.",
+   "kr": "한국에는 섬이 3,000개___ 있어요.",
+   "answer": [
+    "나"
+   ],
+   "explain": "개 không patchim → 나."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thủ đô của Hàn Quốc là Seoul.",
+   "tokens": [
+    "한국의",
+    "수도는",
+    "서울이에요"
+   ],
+   "answer": "한국의 수도는 서울이에요",
+   "explain": "N의 수도 = thủ đô của N."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Có lẽ vật giá ở Seoul đắt.",
+   "tokens": [
+    "서울은",
+    "물가가",
+    "비쌀",
+    "것",
+    "같아요"
+   ],
+   "answer": "서울은 물가가 비쌀 것 같아요",
+   "explain": "비싸다 → 비쌀 것 같아요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hôm nay có lẽ sẽ mưa.",
+   "answer": [
+    "오늘 비가 올 것 같아요.",
+    "오늘은 비가 올 것 같아요."
+   ],
+   "explain": "비가 오다 → 올 것 같아요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Gyeongju là thành phố lịch sử lâu đời.",
+   "answer": [
+    "경주는 역사가 깊은 도시예요.",
+    "경주는 역사가 오래된 도시예요."
+   ],
+   "explain": "역사가 깊다 → 깊은 도시."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã đợi xe buýt tới 40 phút.",
+   "answer": [
+    "버스를 40분이나 기다렸어요.",
+    "버스를 사십 분이나 기다렸어요.",
+    "버스를 40분 동안이나 기다렸어요."
+   ],
+   "explain": "40분 (có patchim) + 이나."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "부산은 한국 최대의 항구 도시이고 여름에는 해수욕장에 사람이 아주 많아요.",
+   "answer": "Busan là thành phố cảng lớn nhất Hàn Quốc, và vào mùa hè bãi tắm biển rất đông người.",
+   "explain": "최대의 = lớn nhất; 항구 도시 = thành phố cảng."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "하늘에 구름이 많고 바람이 불어요. 곧 비가 ( ___ ).",
+   "options": [
+    "올 것 같아요",
+    "왔어요",
+    "오고 있었어요",
+    "온 적이 있어요"
+   ],
+   "answer": "올 것 같아요",
+   "explain": "Nhiều mây, gió thổi → phỏng đoán sắp mưa."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "이천은 서울에서 한 시간쯤 걸리는 작은 도시예요. 이천은 도자기로 유명해요. 예전부터 좋은 진흙이 많아서 도자기를 많이 만들었어요. 매년 봄에는 도자기 축제가 열려요. 축제에는 사람이 수십만 명이나 와요. 축제에서는 직접 도자기를 만들어 볼 수 있어요.",
+   "options": [
+    "축제에서 도자기를 만들어 볼 수 있어요.",
+    "이천은 서울에서 아주 멀어요.",
+    "도자기 축제는 가을에 열려요.",
+    "축제에 오는 사람이 적어요."
+   ],
+   "answer": "축제에서 도자기를 만들어 볼 수 있어요.",
+   "explain": "Ở lễ hội có thể tự tay làm thử gốm. Cách Seoul 1 tiếng; lễ hội mùa xuân; hàng trăm nghìn người."
+  }
+ ]
+}

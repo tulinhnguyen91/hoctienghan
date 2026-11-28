@@ -1,0 +1,389 @@
+{
+ "id": "bai-271",
+ "lesson": "Bài 271",
+ "title": "Vấn đề xã hội hiện đại (phần 4/5)",
+ "krTitle": "현대 사회의 문제 4",
+ "date": "2027-12-20",
+ "day": 397,
+ "source": "TOPIK 6 – Bài 14: Vấn đề xã hội hiện đại (phần 4/5)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "무기력하다",
+   "Mugiryeokada",
+   "Uể oải, mất sức sống",
+   "퇴직 후에 무기력하게 지내는 사람이 많아요.",
+   "Nhiều người sống uể oải sau khi nghỉ hưu."
+  ],
+  [
+   "무용지물",
+   "Muyongjimul",
+   "Người vô dụng, vật vô dụng",
+   "사용법을 모르면 좋은 기계도 무용지물이에요.",
+   "Không biết cách dùng thì máy tốt cũng vô dụng."
+  ],
+  [
+   "미흡하다",
+   "Miheupada",
+   "Không đủ, thiếu, không thỏa mãn",
+   "안전 대책이 아직 미흡해요.",
+   "Biện pháp an toàn vẫn còn thiếu sót."
+  ],
+  [
+   "방황하다",
+   "Banghwanghada",
+   "Đi lang thang, đi lệch hướng",
+   "그는 젊었을 때 진로 때문에 방황했어요.",
+   "Hồi trẻ anh ấy lạc lối vì chuyện hướng đi."
+  ],
+  [
+   "부정부패",
+   "Bujeongbupae",
+   "Sự thối nát, sự tham nhũng",
+   "부정부패를 없애야 나라가 발전해요.",
+   "Phải xóa bỏ tham nhũng thì đất nước mới phát triển."
+  ],
+  [
+   "사유재산",
+   "Sayujaesan",
+   "Tài sản tư hữu",
+   "사유재산은 법으로 보호돼요.",
+   "Tài sản tư hữu được pháp luật bảo vệ."
+  ],
+  [
+   "사칭하다",
+   "Sachinghada",
+   "Giả danh",
+   "은행 직원을 사칭한 사기가 늘었어요.",
+   "Lừa đảo mạo danh nhân viên ngân hàng đã tăng."
+  ],
+  [
+   "솔선수범",
+   "Solseonsubeom",
+   "Gương mẫu, sự làm gương cho người khác noi theo",
+   "사장님이 솔선수범해서 일찍 출근하세요.",
+   "Giám đốc làm gương bằng cách đi làm sớm."
+  ],
+  [
+   "수법",
+   "Subeop",
+   "Phương pháp, cách thức",
+   "사기 수법이 점점 다양해지고 있어요.",
+   "Thủ đoạn lừa đảo ngày càng đa dạng."
+  ],
+  [
+   "시급하다",
+   "Sigeupada",
+   "Cấp bách, nguy cấp",
+   "환경 문제 해결이 시급해요.",
+   "Giải quyết vấn đề môi trường là cấp bách."
+  ],
+  [
+   "악성 댓글",
+   "Akseong daetgeul",
+   "Lời bình phẩm ác ý",
+   "악성 댓글로 상처받는 사람이 많아요.",
+   "Nhiều người bị tổn thương vì bình luận ác ý."
+  ],
+  [
+   "안주하다",
+   "Anjuhada",
+   "An phận, bằng lòng với hiện tại",
+   "현실에 안주하면 발전할 수 없어요.",
+   "An phận với hiện tại thì không thể phát triển."
+  ],
+  [
+   "야기되다",
+   "Yagidoeda",
+   "Nảy sinh, xảy ra",
+   "작은 실수로 큰 문제가 야기되었어요.",
+   "Một sai sót nhỏ đã gây ra vấn đề lớn."
+  ],
+  [
+   "약화시키다",
+   "Yakwasikida",
+   "Làm suy yếu",
+   "지나친 경쟁은 공동체 의식을 약화시켜요.",
+   "Cạnh tranh thái quá làm suy yếu ý thức cộng đồng."
+  ],
+  [
+   "언어 습득",
+   "Eoneo seupdeuk",
+   "Tiếp nhận ngôn ngữ, học ngôn ngữ",
+   "어린아이의 언어 습득 속도는 놀라워요.",
+   "Tốc độ tiếp thu ngôn ngữ của trẻ nhỏ thật đáng kinh ngạc."
+  ],
+  [
+   "위기감",
+   "Wigigam",
+   "Cảm giác sợ hãi, cảm giác khủng hoảng",
+   "저출산에 대한 위기감이 커지고 있어요.",
+   "Cảm giác khủng hoảng về tỷ lệ sinh thấp đang lớn dần."
+  ],
+  [
+   "위협하다",
+   "Wihyeopada",
+   "Uy hiếp",
+   "미세먼지가 건강을 위협하고 있어요.",
+   "Bụi mịn đang đe dọa sức khỏe."
+  ],
+  [
+   "유발",
+   "Yubal",
+   "Sự dẫn đến",
+   "스트레스는 여러 질병을 유발해요.",
+   "Căng thẳng gây ra nhiều bệnh."
+  ],
+  [
+   "유아기",
+   "Yuagi",
+   "Thời kỳ ấu nhi (trẻ nhỏ)",
+   "유아기의 경험은 성격에 큰 영향을 줘요.",
+   "Trải nghiệm thời thơ ấu ảnh hưởng lớn đến tính cách."
+  ],
+  [
+   "의식 전환",
+   "Uising jeonhwan",
+   "Chuyển đổi/thay đổi ý thức",
+   "환경 보호를 위해서는 의식 전환이 필요해요.",
+   "Để bảo vệ môi trường cần thay đổi ý thức."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 기 나름이다 — Tùy vào",
+   "meaning": "Kết quả PHỤ THUỘC vào CÁCH LÀM / CÁCH NGHĨ của chủ thể: 'tùy vào cách…, … thế nào là do mình'. 나름 = tùy thuộc, theo cách riêng. Gắn 기 나름이다 vào thân động từ: 생각하다 → 생각하기 나름이다 (tùy cách nghĩ), 하다 → 하기 나름이다 (tùy cách làm), 노력하다 → 노력하기 나름이다, 키우다 → 키우기 나름이다. Thường có cấu trúc: A는/은 B기 나름이다 — 행복은 생각하기 나름이에요 (hạnh phúc là tùy cách nghĩ). Danh từ: N 나름이다 (사람 나름이에요 = tùy người). Mẫu liên quan: N 나름대로 (theo cách riêng của…). Văn nói và viết, mang tính khuyên nhủ, triết lý. So sánh: 에 따라 다르다 (khác nhau tùy…) – trung tính; 기 나름이다 nhấn mạnh 'kết quả do bản thân quyết định'.",
+   "examples": [
+    "행복은 생각하기 나름이에요. — Hạnh phúc là tùy vào cách nghĩ.",
+    "아이의 성격은 부모가 키우기 나름이에요. — Tính cách đứa trẻ tùy vào cách bố mẹ nuôi dạy.",
+    "성공은 노력하기 나름이니까 포기하지 마세요. — Thành công là tùy vào nỗ lực nên đừng bỏ cuộc.",
+    "좋은 기계도 쓰기 나름이에요. — Máy tốt cũng tùy vào cách sử dụng."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Vật / người vô dụng gọi là gì?",
+   "kr": "",
+   "options": [
+    "무용지물",
+    "솔선수범",
+    "사유재산"
+   ],
+   "answer": "무용지물",
+   "explain": "무용지물 = vô dụng chi vật."
+  },
+  {
+   "type": "choice",
+   "q": "Tự mình làm gương trước cho người khác gọi là gì?",
+   "kr": "",
+   "options": [
+    "솔선수범",
+    "부정부패",
+    "의식 전환"
+   ],
+   "answer": "솔선수범",
+   "explain": "솔선 = đi trước; 수범 = làm gương."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Giải quyết môi trường là cấp bách.",
+   "kr": "환경 문제 해결이 ___.",
+   "options": [
+    "시급해요",
+    "미흡해요",
+    "무기력해요"
+   ],
+   "answer": "시급해요",
+   "explain": "시급하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: An phận với hiện tại thì không phát triển.",
+   "kr": "현실에 ___ 발전할 수 없어요.",
+   "options": [
+    "안주하면",
+    "방황하면",
+    "위협하면"
+   ],
+   "answer": "안주하면",
+   "explain": "안주하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Hạnh phúc là tùy vào cách nghĩ.'",
+   "kr": "",
+   "options": [
+    "행복은 생각하기 나름이에요.",
+    "행복은 생각한 나름이에요.",
+    "행복은 생각하는 나름이에요."
+   ],
+   "answer": "행복은 생각하기 나름이에요.",
+   "explain": "V기 나름이다."
+  },
+  {
+   "type": "choice",
+   "q": "'사람 나름이에요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Tùy người.",
+    "Người đó rất tốt.",
+    "Tất cả mọi người."
+   ],
+   "answer": "Tùy người.",
+   "explain": "N 나름이다."
+  },
+  {
+   "type": "choice",
+   "q": "기 나름이다 nhấn mạnh điều gì?",
+   "kr": "",
+   "options": [
+    "Kết quả do cách làm/cách nghĩ của bản thân quyết định",
+    "Kết quả đã cố định",
+    "Sự hối tiếc"
+   ],
+   "answer": "Kết quả do cách làm/cách nghĩ của bản thân quyết định",
+   "explain": "나름 = tùy thuộc."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bụi mịn đang đe dọa sức khỏe.",
+   "kr": "미세먼지가 건강을 ___ 있어요.",
+   "options": [
+    "위협하고",
+    "유발하고",
+    "안주하고"
+   ],
+   "answer": "위협하고",
+   "explain": "위협하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 나름이다 với 키우다: Tính cách trẻ tùy vào cách bố mẹ nuôi dạy.",
+   "kr": "아이의 성격은 부모가 ___.",
+   "answer": [
+    "키우기 나름이에요",
+    "키우기 나름이다"
+   ],
+   "explain": "키우기 나름."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 나름이다 với 노력하다: Thành công tùy vào nỗ lực.",
+   "kr": "성공은 ___ 포기하지 마세요.",
+   "answer": [
+    "노력하기 나름이니까"
+   ],
+   "explain": "노력하기 나름이니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Thủ đoạn lừa đảo ngày càng đa dạng.",
+   "kr": "사기 ___이 점점 다양해지고 있어요.",
+   "answer": [
+    "수법"
+   ],
+   "explain": "수법."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Căng thẳng gây ra nhiều bệnh.",
+   "kr": "스트레스는 여러 질병을 ___해요.",
+   "answer": [
+    "유발"
+   ],
+   "explain": "유발하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Máy tốt cũng tùy cách sử dụng.",
+   "tokens": [
+    "좋은",
+    "기계도",
+    "쓰기",
+    "나름이에요"
+   ],
+   "answer": "좋은 기계도 쓰기 나름이에요",
+   "explain": "기 나름이다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phải xóa bỏ tham nhũng thì đất nước mới phát triển.",
+   "tokens": [
+    "부정부패를",
+    "없애야",
+    "나라가",
+    "발전해요"
+   ],
+   "answer": "부정부패를 없애야 나라가 발전해요",
+   "explain": "아/어야."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Kết quả kỳ thi tùy vào cách bạn chuẩn bị. (dùng 기 나름이다)",
+   "answer": [
+    "시험 결과는 준비하기 나름이에요.",
+    "시험 결과는 네가 준비하기 나름이야.",
+    "시험 결과는 어떻게 준비하기 나름이에요.",
+    "시험 결과는 당신이 준비하기 나름이에요."
+   ],
+   "explain": "준비하기 나름."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhiều người bị tổn thương vì bình luận ác ý.",
+   "answer": [
+    "악성 댓글로 상처받는 사람이 많아요.",
+    "악성 댓글 때문에 상처받는 사람이 많아요.",
+    "악플 때문에 상처받는 사람이 많아요."
+   ],
+   "explain": "악성 댓글."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Để bảo vệ môi trường cần thay đổi ý thức.",
+   "answer": [
+    "환경 보호를 위해서는 의식 전환이 필요해요.",
+    "환경을 보호하려면 의식 전환이 필요해요."
+   ],
+   "explain": "의식 전환."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "은퇴 후에 무기력하게 지내는 노인도 있지만, 새로운 취미를 배우며 활기차게 사는 노인도 있다. 결국 노후의 삶은 스스로 어떻게 준비하고 생각하기 나름이다.",
+   "answer": "Có những người già sống uể oải sau khi nghỉ hưu, nhưng cũng có người học sở thích mới và sống tràn đầy sức sống. Rốt cuộc, cuộc sống tuổi già tùy vào cách bản thân chuẩn bị và suy nghĩ.",
+   "explain": "기 나름이다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 스마트폰 때문에 아이들이 책을 안 읽는 것 같아 걱정이에요.\n여자: 스마트폰도 쓰기 나름이에요. 무조건 못 쓰게 하는 것보다 전자책이나 교육 앱처럼 좋은 방향으로 사용하도록 부모가 함께 이끌어 주는 것이 더 중요하다고 생각해요.",
+   "options": [
+    "스마트폰을 좋은 방향으로 쓰도록 이끌어 주는 것이 중요하다.",
+    "아이들에게 스마트폰을 절대 주면 안 된다.",
+    "책은 읽을 필요가 없다.",
+    "교육 앱은 도움이 안 된다."
+   ],
+   "answer": "스마트폰을 좋은 방향으로 쓰도록 이끌어 주는 것이 중요하다.",
+   "explain": "좋은 방향으로 사용하도록 … 더 중요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "'은행원 사칭' 보이스 피싱 기승… 수법 갈수록 지능화",
+   "options": [
+    "은행 직원인 척하는 전화 사기가 늘고 수법도 점점 교묘해지고 있다.",
+    "은행원이 크게 늘었다.",
+    "보이스 피싱이 사라졌다.",
+    "은행이 새로운 상품을 출시했다."
+   ],
+   "answer": "은행 직원인 척하는 전화 사기가 늘고 수법도 점점 교묘해지고 있다.",
+   "explain": "기승 = hoành hành; 지능화 = tinh vi hóa."
+  }
+ ]
+}

@@ -1,0 +1,417 @@
+{
+ "id": "bai-267",
+ "lesson": "Bài 267",
+ "title": "Thông tin và truyền thông (phần 4/4)",
+ "krTitle": "정보와 통신 4",
+ "date": "2027-12-14",
+ "day": 391,
+ "source": "TOPIK 6 – Bài 13: Thông tin và truyền thông (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "열람",
+   "Yeollam",
+   "Sự xem, tra cứu (tài liệu)",
+   "도서관에서 옛날 신문을 열람했어요.",
+   "Đã tra cứu báo cũ ở thư viện."
+  ],
+  [
+   "유포",
+   "Yupo",
+   "Sự lan truyền",
+   "가짜 뉴스를 유포하면 처벌받아요.",
+   "Phát tán tin giả sẽ bị xử phạt."
+  ],
+  [
+   "융합",
+   "Yunghap",
+   "Sự dung hợp",
+   "IT와 의료의 융합이 새로운 산업을 만들어요.",
+   "Sự dung hợp IT và y tế tạo ra ngành mới."
+  ],
+  [
+   "위축되다",
+   "Wichukdoeda",
+   "Bị co lại, chùn bước",
+   "경기가 나빠져서 소비가 위축되었어요.",
+   "Kinh tế xấu đi nên tiêu dùng bị co lại."
+  ],
+  [
+   "익명성",
+   "Ingmyeongseong",
+   "Tình trạng nặc danh",
+   "인터넷의 익명성 때문에 악플이 많아요.",
+   "Vì tính ẩn danh của internet mà bình luận ác ý nhiều."
+  ],
+  [
+   "인수하다",
+   "Insuhada",
+   "Tiếp quản, mua lại",
+   "대기업이 작은 회사를 인수했어요.",
+   "Tập đoàn lớn đã mua lại công ty nhỏ."
+  ],
+  [
+   "자기 계발",
+   "Jagi gyebal",
+   "Phát triển bản thân",
+   "퇴근 후에 자기 계발을 위해 공부해요.",
+   "Sau giờ làm tôi học để phát triển bản thân."
+  ],
+  [
+   "자못",
+   "Jamot",
+   "Khá, rất",
+   "그의 발표는 자못 흥미로웠어요.",
+   "Bài thuyết trình của anh ấy khá thú vị."
+  ],
+  [
+   "저해",
+   "Jeohae",
+   "Trở lực, chướng ngại",
+   "지나친 규제는 산업 발전을 저해해요.",
+   "Quy định quá mức cản trở sự phát triển ngành."
+  ],
+  [
+   "절도",
+   "Jeoldo",
+   "Sự trộm cắp",
+   "CCTV 덕분에 절도범을 잡았어요.",
+   "Nhờ CCTV mà bắt được kẻ trộm."
+  ],
+  [
+   "주치의",
+   "Juchiui",
+   "Bác sĩ điều trị riêng",
+   "할머니에게는 주치의가 있어요.",
+   "Bà có bác sĩ điều trị riêng."
+  ],
+  [
+   "증대되다",
+   "Jeungdaedoeda",
+   "Được tăng lên",
+   "인터넷 사용자가 크게 증대되었어요.",
+   "Người dùng internet đã tăng mạnh."
+  ],
+  [
+   "지배적이다",
+   "Jibaejeogida",
+   "Chiếm ưu thế",
+   "전문가들 사이에서는 반대 의견이 지배적이에요.",
+   "Ý kiến phản đối chiếm ưu thế trong giới chuyên gia."
+  ],
+  [
+   "착용하다",
+   "Chagyonghada",
+   "Đeo, mặc (thiết bị)",
+   "운전할 때 안전벨트를 착용하세요.",
+   "Khi lái xe hãy thắt dây an toàn."
+  ],
+  [
+   "촬영하다",
+   "Chwaryeonghada",
+   "Quay hình, thu hình",
+   "공연장에서는 사진을 촬영할 수 없어요.",
+   "Không được chụp ảnh trong nhà hát."
+  ],
+  [
+   "침해",
+   "Chimhae",
+   "Sự xâm hại",
+   "개인 정보 침해 사건이 늘고 있어요.",
+   "Các vụ xâm phạm thông tin cá nhân đang tăng."
+  ],
+  [
+   "패러다임",
+   "Paereodaim",
+   "Mô thức",
+   "인공지능이 산업의 패러다임을 바꾸고 있어요.",
+   "Trí tuệ nhân tạo đang thay đổi mô thức công nghiệp."
+  ],
+  [
+   "해상도",
+   "Haesangdo",
+   "Độ phân giải",
+   "이 카메라는 해상도가 높아요.",
+   "Máy ảnh này có độ phân giải cao."
+  ],
+  [
+   "헐값",
+   "Heolgap",
+   "Giá rẻ mạt",
+   "오래된 휴대폰을 헐값에 팔았어요.",
+   "Đã bán điện thoại cũ với giá rẻ mạt."
+  ],
+  [
+   "현장",
+   "Hyeonjang",
+   "Hiện trường",
+   "기자가 사고 현장에서 보도했어요.",
+   "Phóng viên đưa tin tại hiện trường tai nạn."
+  ],
+  [
+   "호출",
+   "Hochul",
+   "Sự gọi (gọi xe, gọi đến)",
+   "앱으로 택시를 호출했어요.",
+   "Đã gọi taxi bằng ứng dụng."
+  ],
+  [
+   "화두가 되다",
+   "Hwaduga doeda",
+   "Trở thành đề tài bàn tán",
+   "인공지능 윤리가 화두가 되었어요.",
+   "Đạo đức AI đã trở thành chủ đề nóng."
+  ],
+  [
+   "화창하다",
+   "Hwachanghada",
+   "Trời đẹp, nắng ráo",
+   "오늘은 날씨가 화창해요.",
+   "Hôm nay trời nắng đẹp."
+  ],
+  [
+   "황폐화되다",
+   "Hwangpyehwadoeda",
+   "Bị bỏ hoang, bị bỏ rơi",
+   "사람이 떠난 마을이 황폐화되었어요.",
+   "Ngôi làng người đi hết đã trở nên hoang tàn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 을/를 막론하고 — Bất kể",
+   "meaning": "'Bất kể…, không phân biệt…, bất luận…': nhấn mạnh rằng điều ở vế sau ĐÚNG VỚI TẤT CẢ, không có ngoại lệ. Gắn sau DANH TỪ (thường là danh từ chỉ phạm vi, loại, hoặc cặp đối lập): có patchim → 을 막론하고 (동서양을 막론하고, 계절을 막론하고); không patchim → 를 막론하고 (나이를 막론하고, 남녀노소를 막론하고). Hay dùng: 남녀노소, 동서고금, 국내외, 이유, 지위, 누구, 어떤 이유. Mẫu: 이유를 막론하고 (bất kể lý do gì): 이유를 막론하고 폭력은 안 돼요. Văn VIẾT trang trọng. Gần nghĩa: N에 관계없이 (không liên quan), N(이)나 N(이)나 할 것 없이 (Bài 226 – văn nói hơn), N을/를 불문하고 (rất trang trọng).",
+   "examples": [
+    "스마트폰은 남녀노소를 막론하고 모두 사용해요. — Điện thoại thông minh thì bất kể nam nữ già trẻ ai cũng dùng.",
+    "이유를 막론하고 개인 정보를 유포하면 처벌받아요. — Bất kể lý do gì, phát tán thông tin cá nhân sẽ bị xử phạt.",
+    "동서양을 막론하고 사람들은 행복을 추구해요. — Bất kể phương Đông hay phương Tây, con người đều theo đuổi hạnh phúc.",
+    "지위를 막론하고 법을 어기면 처벌을 받아야 해요. — Bất kể địa vị, vi phạm pháp luật thì phải bị xử phạt."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Tính chất không biết danh tính người viết trên mạng gọi là gì?",
+   "kr": "",
+   "options": [
+    "익명성",
+    "해상도",
+    "패러다임"
+   ],
+   "answer": "익명성",
+   "explain": "익명 = ẩn danh."
+  },
+  {
+   "type": "choice",
+   "q": "Lan truyền thông tin (thường là xấu) rộng rãi gọi là gì?",
+   "kr": "",
+   "options": [
+    "유포",
+    "열람",
+    "인수"
+   ],
+   "answer": "유포",
+   "explain": "유포 = phát tán."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Máy ảnh này có độ phân giải cao.",
+   "kr": "이 카메라는 ___가 높아요.",
+   "options": [
+    "해상도",
+    "익명성",
+    "주치의"
+   ],
+   "answer": "해상도",
+   "explain": "해상도."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tập đoàn lớn đã mua lại công ty nhỏ.",
+   "kr": "대기업이 작은 회사를 ___.",
+   "options": [
+    "인수했어요",
+    "유포했어요",
+    "착용했어요"
+   ],
+   "answer": "인수했어요",
+   "explain": "인수하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Bất kể nam nữ già trẻ ai cũng dùng.'",
+   "kr": "",
+   "options": [
+    "남녀노소를 막론하고 모두 사용해요.",
+    "남녀노소을 막론하고 모두 사용해요.",
+    "남녀노소를 막론해서 아무도 사용하지 않아요."
+   ],
+   "answer": "남녀노소를 막론하고 모두 사용해요.",
+   "explain": "노소 (không patchim) → 를 막론하고."
+  },
+  {
+   "type": "choice",
+   "q": "'이유를 막론하고 폭력은 안 돼요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Bất kể lý do gì, bạo lực là không được.",
+    "Có lý do thì bạo lực được.",
+    "Hãy nói lý do bạo lực."
+   ],
+   "answer": "Bất kể lý do gì, bạo lực là không được.",
+   "explain": "이유를 막론하고."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với N을/를 막론하고?",
+   "kr": "",
+   "options": [
+    "N에 관계없이",
+    "N 덕분에",
+    "N(으)로 말미암아"
+   ],
+   "answer": "N에 관계없이",
+   "explain": "Không liên quan = bất kể."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hôm nay trời nắng đẹp.",
+   "kr": "오늘은 날씨가 ___.",
+   "options": [
+    "화창해요",
+    "위축돼요",
+    "지배적이에요"
+   ],
+   "answer": "화창해요",
+   "explain": "화창하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 을/를 막론하고: Bất kể Đông hay Tây, con người theo đuổi hạnh phúc.",
+   "kr": "___ 사람들은 행복을 추구해요.",
+   "answer": [
+    "동서양을 막론하고"
+   ],
+   "explain": "동서양 (patchim) → 을 막론하고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 을/를 막론하고: Bất kể địa vị, vi phạm luật phải bị xử phạt.",
+   "kr": "___ 법을 어기면 처벌을 받아야 해요.",
+   "answer": [
+    "지위를 막론하고"
+   ],
+   "explain": "지위를 막론하고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Khi lái xe hãy thắt dây an toàn.",
+   "kr": "운전할 때 안전벨트를 ___하세요.",
+   "answer": [
+    "착용"
+   ],
+   "explain": "착용하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã gọi taxi bằng ứng dụng.",
+   "kr": "앱으로 택시를 ___했어요.",
+   "answer": [
+    "호출"
+   ],
+   "explain": "호출하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bất kể lý do, phát tán thông tin cá nhân bị xử phạt.",
+   "tokens": [
+    "이유를",
+    "막론하고",
+    "개인",
+    "정보를",
+    "유포하면",
+    "처벌받아요"
+   ],
+   "answer": "이유를 막론하고 개인 정보를 유포하면 처벌받아요",
+   "explain": "이유를 막론하고."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: AI đang thay đổi mô thức công nghiệp.",
+   "tokens": [
+    "인공지능이",
+    "산업의",
+    "패러다임을",
+    "바꾸고",
+    "있어요"
+   ],
+   "answer": "인공지능이 산업의 패러다임을 바꾸고 있어요",
+   "explain": "패러다임."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bất kể tuổi tác, ai cũng có thể tham gia. (dùng 막론하고)",
+   "answer": [
+    "나이를 막론하고 누구나 참가할 수 있어요.",
+    "나이를 막론하고 누구나 참여할 수 있어요.",
+    "나이를 막론하고 모두 참가할 수 있어요."
+   ],
+   "explain": "나이를 막론하고."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sau giờ làm tôi học để phát triển bản thân.",
+   "answer": [
+    "퇴근 후에 자기 계발을 위해 공부해요.",
+    "퇴근 후 자기 계발을 위해 공부해요."
+   ],
+   "explain": "자기 계발."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đã bán điện thoại cũ với giá rẻ mạt.",
+   "answer": [
+    "오래된 휴대폰을 헐값에 팔았어요.",
+    "낡은 휴대폰을 헐값에 팔았어요."
+   ],
+   "explain": "헐값에."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "인터넷의 익명성은 자유로운 의견 표현을 가능하게 하지만, 악플이나 가짜 뉴스 유포 같은 문제도 낳는다. 따라서 이유를 막론하고 타인의 명예를 침해하는 행위는 처벌받아야 한다는 의견이 지배적이다.",
+   "answer": "Tính ẩn danh của internet giúp tự do bày tỏ ý kiến nhưng cũng sinh ra vấn đề như bình luận ác ý hay phát tán tin giả. Vì vậy ý kiến chiếm ưu thế là bất kể lý do gì, hành vi xâm phạm danh dự người khác phải bị xử phạt.",
+   "explain": "막론하고; 지배적."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 정보 통신 기술은 우리의 삶을 풍요롭게 만들었습니다. 그러나 개인 정보 침해, 사이버 범죄 같은 부작용도 증대되었습니다. 이런 문제는 나이와 지위를 막론하고 누구에게나 일어날 수 있습니다. 그러므로 기술을 사용하는 사람 모두가 정보 윤리를 갖추는 것이 중요합니다.",
+   "options": [
+    "정보 윤리는 기술을 쓰는 모든 사람에게 필요하다.",
+    "사이버 범죄는 노인에게만 일어난다.",
+    "정보 통신 기술에는 부작용이 없다.",
+    "정보 윤리는 전문가만 갖추면 된다."
+   ],
+   "answer": "정보 윤리는 기술을 쓰는 모든 사람에게 필요하다.",
+   "explain": "사용하는 사람 모두가 정보 윤리를…"
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "한 번의 클릭, 평생의 상처.\n악성 댓글과 가짜 뉴스 유포, 이제 그만!\n건강한 인터넷 문화를 함께 만들어요.",
+   "options": [
+    "인터넷 예절 캠페인",
+    "휴대폰 광고",
+    "뉴스 프로그램 소개",
+    "컴퓨터 판매"
+   ],
+   "answer": "인터넷 예절 캠페인",
+   "explain": "악성 댓글, 가짜 뉴스 → 건강한 인터넷 문화."
+  }
+ ]
+}

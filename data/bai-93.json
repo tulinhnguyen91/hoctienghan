@@ -1,0 +1,53 @@
+{
+ "id": "bai-93",
+ "lesson": "Bài 93",
+ "title": "Thời trang (phần 3/4)",
+ "krTitle": "유행 3",
+ "date": "2027-03-26",
+ "day": 128,
+ "source": "TOPIK 4 – Bài 1: Thời trang (phần 3/4)",
+ "practice": {"listening": "Nghe – câu 1~3: Chọn tranh đúng", "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"},
+ "words": [
+  ["세련되다", "Seryeondoeda", "Tinh tế, sành điệu", "그 코트를 입으니까 정말 세련돼 보여요.", "Mặc áo khoác đó trông thật sành điệu."],
+  ["촌스럽다", "Chonseureopda", "Quê mùa", "이 색깔은 좀 촌스러운 것 같아요.", "Màu này có vẻ hơi quê."],
+  ["화려하다", "Hwaryeohada", "Rực rỡ, sặc sỡ", "파티에는 화려한 옷을 입어요.", "Đi tiệc thì mặc đồ rực rỡ."],
+  ["단순하다", "Dansunhada", "Đơn giản", "저는 단순한 디자인을 좋아해요.", "Tôi thích thiết kế đơn giản."],
+  ["평범하다", "Pyeongbeomhada", "Bình thường", "오늘은 평범하게 청바지를 입었어요.", "Hôm nay tôi mặc quần jean bình thường."],
+  ["단정하다", "Danjeonghada", "Chỉnh tề", "면접에서는 단정한 옷차림이 중요해요.", "Đi phỏng vấn thì ăn mặc chỉnh tề là quan trọng."],
+  ["차려입다", "Charyeoipda", "Diện, ăn mặc chỉnh tề", "결혼식에 가려고 차려입었어요.", "Tôi diện đồ để đi đám cưới."],
+  ["어울리다", "Eoullida", "Phù hợp, hợp", "그 머리가 얼굴에 잘 어울려요.", "Kiểu tóc đó rất hợp với khuôn mặt."],
+  ["감각이 있다", "Gamgagi itda", "Có gu, có khiếu", "언니는 옷 고르는 감각이 있어요.", "Chị tôi có gu chọn quần áo."],
+  ["볼거리", "Bolgeori", "Cái để xem", "패션쇼에는 볼거리가 많아요.", "Buổi trình diễn thời trang có nhiều thứ để xem."],
+  ["장례식", "Jangnyesik", "Lễ tang", "장례식에는 검은색 옷을 입어요.", "Đi đám tang thì mặc đồ đen."],
+  ["괴이하다", "Goeihada", "Kỳ quặc, quái dị", "그 사람의 옷차림이 좀 괴이했어요.", "Cách ăn mặc của người đó hơi kỳ quặc."],
+  ["블라우스", "Beullauseu", "Áo sơ mi nữ (blouse)", "하얀 블라우스에 검은 치마를 입었어요.", "Tôi mặc áo blouse trắng với váy đen."],
+  ["철저하다", "Cheoljeohada", "Kỹ lưỡng, tỉ mỉ", "그 디자이너는 준비가 철저해요.", "Nhà thiết kế đó chuẩn bị rất kỹ."],
+  ["깔끔하다", "Kkalkkeumhada", "Gọn gàng, ngăn nắp", "깔끔한 옷차림이 좋은 인상을 줘요.", "Ăn mặc gọn gàng tạo ấn tượng tốt."],
+  ["비정상적", "Bijeongsangjeok", "Không bình thường, khác thường", "날씨가 비정상적으로 더워요.", "Thời tiết nóng bất thường."]
+ ],
+ "patterns": [
+  {"form": "N + 에 따라 — Tùy theo", "meaning": "Diễn tả kết quả ở vế sau THAY ĐỔI tùy theo N (điều kiện, tiêu chuẩn): 'tùy theo N, theo N'. Gắn sau danh từ: 나이에 따라 (tùy tuổi), 사람에 따라 (tùy người), 날씨에 따라, 장소에 따라, 상황에 따라. Có thể nói 에 따라서 (đầy đủ hơn). Khi bổ nghĩa cho danh từ: N에 따른 N (나이에 따른 차이 — sự khác biệt theo độ tuổi). Vế sau thường là 다르다 (khác), 달라지다 (trở nên khác), 바뀌다. So sánh với N + 대로 (đã học): 대로 = làm ĐÚNG theo N (không đổi); 에 따라 = THAY ĐỔI tùy N. Nghĩa thứ hai: 'theo (quy định, chỉ thị)': 법에 따라 (theo luật).", "examples": ["장소에 따라 옷차림이 달라져요. — Cách ăn mặc thay đổi tùy theo nơi chốn.", "사람에 따라 어울리는 색깔이 달라요. — Màu hợp với mỗi người khác nhau.", "날씨에 따라 기분도 바뀌어요. — Tâm trạng cũng thay đổi theo thời tiết.", "나이에 따라 좋아하는 스타일이 달라요. — Phong cách yêu thích khác nhau tùy độ tuổi."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Cách ăn mặc thay đổi tùy nơi chốn.", "kr": "장소___ 옷차림이 달라져요.", "options": ["에 따라", "대로", "처럼"], "answer": "에 따라", "explain": "Thay đổi tùy N → 에 따라."},
+  {"type": "choice", "q": "Phân biệt: Hãy làm đúng theo kế hoạch (không đổi).", "kr": "계획___ 하세요.", "options": ["대로", "에 따라 달라", "에 따른"], "answer": "대로", "explain": "Đúng theo → 대로."},
+  {"type": "choice", "q": "Chọn dạng đúng: sự khác biệt theo độ tuổi", "kr": "나이___ 차이", "options": ["에 따른", "에 따라", "대로의"], "answer": "에 따른", "explain": "Bổ nghĩa danh từ → N에 따른 N."},
+  {"type": "choice", "q": "Vế sau nào phù hợp nhất? 사람에 따라 ___", "kr": "", "options": ["생각이 달라요.", "생각이 같아요 항상.", "생각해 왔어요."], "answer": "생각이 달라요.", "explain": "에 따라 + 다르다."},
+  {"type": "choice", "q": "Ở Hàn, đi 장례식 nên mặc gì?", "kr": "", "options": ["검은색 옷", "화려한 옷", "핫팬츠"], "answer": "검은색 옷", "explain": "Lễ tang → đồ đen, chỉnh tề."},
+  {"type": "choice", "q": "Từ nào TRÁI NGHĨA với 세련되다?", "kr": "", "options": ["촌스럽다", "깔끔하다", "단정하다"], "answer": "촌스럽다", "explain": "세련되다 (sành điệu) ↔ 촌스럽다 (quê mùa)."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Kiểu tóc đó rất hợp với khuôn mặt.", "kr": "그 머리가 얼굴에 잘 ___.", "options": ["어울려요", "차려입어요", "철저해요"], "answer": "어울려요", "explain": "N에 어울리다."},
+  {"type": "choice", "q": "Từ nào TRÁI NGHĨA với 화려하다?", "kr": "", "options": ["단순하다", "괴이하다", "비정상적이다"], "answer": "단순하다", "explain": "화려하다 (rực rỡ) ↔ 단순하다 (đơn giản)."},
+  {"type": "fill", "q": "Điền: Tâm trạng cũng thay đổi theo thời tiết.", "kr": "날씨에 ___ 기분도 바뀌어요.", "answer": ["따라", "따라서"], "explain": "에 따라."},
+  {"type": "fill", "q": "Điền: Giá khác nhau tùy theo kích cỡ.", "kr": "크기___ 따라 가격이 달라요.", "answer": ["에"], "explain": "크기에 따라."},
+  {"type": "fill", "q": "Điền: Phong cách yêu thích khác nhau tùy độ tuổi.", "kr": "나이에 따라 좋아하는 스타일이 ___.", "answer": ["달라요"], "explain": "다르다 → 달라요."},
+  {"type": "fill", "q": "Điền từ: Tôi diện đồ để đi đám cưới.", "kr": "결혼식에 가려고 ___.", "answer": ["차려입었어요"], "explain": "차려입다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Cách ăn mặc thay đổi tùy theo nơi chốn.", "tokens": ["장소에", "따라", "옷차림이", "달라져요"], "answer": "장소에 따라 옷차림이 달라져요", "explain": "에 따라 + 달라지다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Ăn mặc gọn gàng tạo ấn tượng tốt.", "tokens": ["깔끔한", "옷차림이", "좋은", "인상을", "줘요"], "answer": "깔끔한 옷차림이 좋은 인상을 줘요", "explain": "인상을 주다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Màu hợp với mỗi người khác nhau.", "answer": ["사람에 따라 어울리는 색깔이 달라요.", "사람에 따라 어울리는 색이 달라요.", "사람마다 어울리는 색깔이 달라요."], "explain": "사람에 따라."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Đi tiệc thì mặc đồ rực rỡ.", "answer": ["파티에는 화려한 옷을 입어요.", "파티에 갈 때는 화려한 옷을 입어요."], "explain": "화려하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tôi thích thiết kế đơn giản.", "answer": ["저는 단순한 디자인을 좋아해요.", "단순한 디자인을 좋아해요."], "explain": "단순하다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "옷차림은 장소와 상황에 따라 달라야 해요. 결혼식에는 단정하게 차려입고, 장례식에는 화려한 옷을 피해야 해요.", "answer": "Cách ăn mặc phải khác nhau tùy theo nơi chốn và hoàn cảnh. Đi đám cưới thì diện chỉnh tề, đi đám tang thì phải tránh đồ sặc sỡ.", "explain": "에 따라 + 아/어야 하다."},
+  {"type": "read", "q": "Chọn tranh phù hợp với hội thoại. (Dạng TOPIK II Nghe câu 1~3)", "kr": "남자: 이 넥타이 어때요? 너무 화려하지 않아요?\n여자: 괜찮아요. 하지만 면접이니까 이 단순한 파란색이 더 단정해 보여요.\n남자: 그럼 이걸로 할게요.", "options": ["남자가 가게에서 넥타이를 고르는 그림", "여자가 블라우스를 입어 보는 그림", "두 사람이 장례식장에 있는 그림", "남자가 면접을 보는 그림"], "answer": "남자가 가게에서 넥타이를 고르는 그림", "explain": "Đang chọn cà vạt."},
+  {"type": "read", "q": "Chọn từ điền vào ( ). (Dạng TOPIK II câu 19~24)", "kr": "어울리는 색깔은 피부색에 ( ___ ) 다르다. 피부가 하얀 사람은 밝은 색이 잘 어울리고, 피부가 까만 사람은 진한 색이 더 세련돼 보인다. 따라서 유행하는 색깔보다 자기에게 어울리는 색깔을 고르는 감각이 필요하다.", "options": ["따라", "대로", "처럼", "마다"], "answer": "따라", "explain": "피부색에 따라 다르다 = khác nhau tùy màu da."}
+ ]
+}

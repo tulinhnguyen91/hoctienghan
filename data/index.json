@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28",
+ "updated": "2026-11-25",
  "lessons": [
   {
    "id": "bai-1",
@@ -116,7 +116,7 @@
    "krTitle": "전화",
    "date": "2026-11-27",
    "words": 52,
-   "exercises": 30
+   "exercises": 28
   },
   {
    "id": "bai-14",
@@ -125,7 +125,2356 @@
    "krTitle": "생일",
    "date": "2026-11-28",
    "words": 48,
-   "exercises": 30
+   "exercises": 27
+  },
+  {
+   "id": "bai-15",
+   "lesson": "Bài 15",
+   "title": "Sở thích và đam mê",
+   "krTitle": "취미",
+   "date": "2026-11-29",
+   "words": 65,
+   "exercises": 27
+  },
+  {
+   "id": "bai-16",
+   "lesson": "Bài 16",
+   "title": "Giao thông P1",
+   "krTitle": "교통",
+   "date": "2026-11-30",
+   "words": 52,
+   "exercises": 27
+  },
+  {
+   "id": "bai-17",
+   "lesson": "Bài 17",
+   "title": "Gặp gỡ",
+   "krTitle": "만남",
+   "date": "2026-12-02",
+   "words": 49,
+   "exercises": 21
+  },
+  {
+   "id": "bai-18",
+   "lesson": "Bài 18",
+   "title": "Cuộc hẹn (phần 1/2)",
+   "krTitle": "약속 1",
+   "date": "2026-12-03",
+   "words": 27,
+   "exercises": 21
+  },
+  {
+   "id": "bai-19",
+   "lesson": "Bài 19",
+   "title": "Cuộc hẹn (phần 2/2)",
+   "krTitle": "약속 2",
+   "date": "2026-12-05",
+   "words": 26,
+   "exercises": 20
+  },
+  {
+   "id": "bai-20",
+   "lesson": "Bài 20",
+   "title": "Mua sắm P2 (phần 1/2)",
+   "krTitle": "쇼핑 1",
+   "date": "2026-12-06",
+   "words": 27,
+   "exercises": 21
+  },
+  {
+   "id": "bai-21",
+   "lesson": "Bài 21",
+   "title": "Mua sắm P2 (phần 2/2)",
+   "krTitle": "쇼핑 2",
+   "date": "2026-12-08",
+   "words": 26,
+   "exercises": 20
+  },
+  {
+   "id": "bai-22",
+   "lesson": "Bài 22",
+   "title": "Bệnh viện",
+   "krTitle": "몸과 병",
+   "date": "2026-12-09",
+   "words": 46,
+   "exercises": 21
+  },
+  {
+   "id": "bai-23",
+   "lesson": "Bài 23",
+   "title": "Bệnh viện",
+   "krTitle": "병원",
+   "date": "2026-12-11",
+   "words": 43,
+   "exercises": 22
+  },
+  {
+   "id": "bai-24",
+   "lesson": "Bài 24",
+   "title": "Thư tín",
+   "krTitle": "편지",
+   "date": "2026-12-12",
+   "words": 33,
+   "exercises": 22
+  },
+  {
+   "id": "bai-25",
+   "lesson": "Bài 25",
+   "title": "Giao thông P2 (phần 1/2)",
+   "krTitle": "길 찾기 1",
+   "date": "2026-12-14",
+   "words": 30,
+   "exercises": 20
+  },
+  {
+   "id": "bai-26",
+   "lesson": "Bài 26",
+   "title": "Giao thông P2 (phần 2/2)",
+   "krTitle": "길 찾기 2",
+   "date": "2026-12-15",
+   "words": 29,
+   "exercises": 20
+  },
+  {
+   "id": "bai-27",
+   "lesson": "Bài 27",
+   "title": "Điện thoại liên lạc P2",
+   "krTitle": "통화",
+   "date": "2026-12-17",
+   "words": 46,
+   "exercises": 20
+  },
+  {
+   "id": "bai-28",
+   "lesson": "Bài 28",
+   "title": "Phim ảnh (phần 1/2)",
+   "krTitle": "영화 1",
+   "date": "2026-12-18",
+   "words": 28,
+   "exercises": 20
+  },
+  {
+   "id": "bai-29",
+   "lesson": "Bài 29",
+   "title": "Phim ảnh (phần 2/2)",
+   "krTitle": "영화 2",
+   "date": "2026-12-20",
+   "words": 28,
+   "exercises": 20
+  },
+  {
+   "id": "bai-30",
+   "lesson": "Bài 30",
+   "title": "Ngày nghỉ",
+   "krTitle": "휴일과 명절",
+   "date": "2026-12-21",
+   "words": 47,
+   "exercises": 20
+  },
+  {
+   "id": "bai-31",
+   "lesson": "Bài 31",
+   "title": "Ngoại hình",
+   "krTitle": "외모",
+   "date": "2026-12-23",
+   "words": 41,
+   "exercises": 21
+  },
+  {
+   "id": "bai-32",
+   "lesson": "Bài 32",
+   "title": "Du lịch",
+   "krTitle": "여행",
+   "date": "2026-12-24",
+   "words": 38,
+   "exercises": 20
+  },
+  {
+   "id": "bai-33",
+   "lesson": "Bài 33",
+   "title": "Nơi công cộng",
+   "krTitle": "공공장소",
+   "date": "2026-12-26",
+   "words": 32,
+   "exercises": 20
+  },
+  {
+   "id": "bai-34",
+   "lesson": "Bài 34",
+   "title": "Đô thị",
+   "krTitle": "도시",
+   "date": "2026-12-27",
+   "words": 41,
+   "exercises": 20
+  },
+  {
+   "id": "bai-35",
+   "lesson": "Bài 35",
+   "title": "Kế hoạch",
+   "krTitle": "계획",
+   "date": "2026-12-29",
+   "words": 50,
+   "exercises": 20
+  },
+  {
+   "id": "bai-36",
+   "lesson": "Bài 36",
+   "title": "Đời sống Hàn Quốc",
+   "krTitle": "한국 생활",
+   "date": "2026-12-30",
+   "words": 45,
+   "exercises": 20
+  },
+  {
+   "id": "bai-37",
+   "lesson": "Bài 37",
+   "title": "Sinh hoạt ở trường (phần 1/3)",
+   "krTitle": "학교생활 1",
+   "date": "2027-01-01",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-38",
+   "lesson": "Bài 38",
+   "title": "Sinh hoạt ở trường (phần 2/3)",
+   "krTitle": "학교생활 2",
+   "date": "2027-01-02",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-39",
+   "lesson": "Bài 39",
+   "title": "Sinh hoạt ở trường (phần 3/3)",
+   "krTitle": "학교생활 3",
+   "date": "2027-01-04",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-40",
+   "lesson": "Bài 40",
+   "title": "Đối nhân xử thế (phần 1/3)",
+   "krTitle": "대인 관계 1",
+   "date": "2027-01-05",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-41",
+   "lesson": "Bài 41",
+   "title": "Đối nhân xử thế (phần 2/3)",
+   "krTitle": "대인 관계 2",
+   "date": "2027-01-07",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-42",
+   "lesson": "Bài 42",
+   "title": "Đối nhân xử thế (phần 3/3)",
+   "krTitle": "대인 관계 3",
+   "date": "2027-01-08",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-43",
+   "lesson": "Bài 43",
+   "title": "Sức khỏe (phần 1/3)",
+   "krTitle": "건강 1",
+   "date": "2027-01-10",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-44",
+   "lesson": "Bài 44",
+   "title": "Sức khỏe (phần 2/3)",
+   "krTitle": "건강 2",
+   "date": "2027-01-11",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-45",
+   "lesson": "Bài 45",
+   "title": "Sức khỏe (phần 3/3)",
+   "krTitle": "건강 3",
+   "date": "2027-01-13",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-46",
+   "lesson": "Bài 46",
+   "title": "Mua sắm (phần 1/3)",
+   "krTitle": "쇼핑 1",
+   "date": "2027-01-14",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-47",
+   "lesson": "Bài 47",
+   "title": "Mua sắm (phần 2/3)",
+   "krTitle": "쇼핑 2",
+   "date": "2027-01-16",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-48",
+   "lesson": "Bài 48",
+   "title": "Mua sắm (phần 3/3)",
+   "krTitle": "쇼핑 3",
+   "date": "2027-01-17",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-49",
+   "lesson": "Bài 49",
+   "title": "Nấu ăn (phần 1/6)",
+   "krTitle": "요리 1",
+   "date": "2027-01-19",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-50",
+   "lesson": "Bài 50",
+   "title": "Nấu ăn (phần 2/6)",
+   "krTitle": "요리 2",
+   "date": "2027-01-20",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-51",
+   "lesson": "Bài 51",
+   "title": "Nấu ăn (phần 3/6)",
+   "krTitle": "요리 3",
+   "date": "2027-01-22",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-52",
+   "lesson": "Bài 52",
+   "title": "Nấu ăn (phần 4/6)",
+   "krTitle": "요리 4",
+   "date": "2027-01-23",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-53",
+   "lesson": "Bài 53",
+   "title": "Nấu ăn (phần 5/6)",
+   "krTitle": "요리 5",
+   "date": "2027-01-25",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-54",
+   "lesson": "Bài 54",
+   "title": "Nấu ăn (phần 6/6)",
+   "krTitle": "요리 6",
+   "date": "2027-01-26",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-55",
+   "lesson": "Bài 55",
+   "title": "Ngân hàng (phần 1/3)",
+   "krTitle": "은행 1",
+   "date": "2027-01-28",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-56",
+   "lesson": "Bài 56",
+   "title": "Ngân hàng (phần 2/3)",
+   "krTitle": "은행 2",
+   "date": "2027-01-29",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-57",
+   "lesson": "Bài 57",
+   "title": "Ngân hàng (phần 3/3)",
+   "krTitle": "은행 3",
+   "date": "2027-01-31",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-58",
+   "lesson": "Bài 58",
+   "title": "Tính cách (phần 1/4)",
+   "krTitle": "성격 1",
+   "date": "2027-02-01",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-59",
+   "lesson": "Bài 59",
+   "title": "Tính cách (phần 2/4)",
+   "krTitle": "성격 2",
+   "date": "2027-02-03",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-60",
+   "lesson": "Bài 60",
+   "title": "Tính cách (phần 3/4)",
+   "krTitle": "성격 3",
+   "date": "2027-02-04",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-61",
+   "lesson": "Bài 61",
+   "title": "Tính cách (phần 4/4)",
+   "krTitle": "성격 4",
+   "date": "2027-02-06",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-62",
+   "lesson": "Bài 62",
+   "title": "Sai sót, mắc lỗi (phần 1/3)",
+   "krTitle": "실수 1",
+   "date": "2027-02-07",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-63",
+   "lesson": "Bài 63",
+   "title": "Sai sót, mắc lỗi (phần 2/3)",
+   "krTitle": "실수 2",
+   "date": "2027-02-09",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-64",
+   "lesson": "Bài 64",
+   "title": "Sai sót, mắc lỗi (phần 3/3)",
+   "krTitle": "실수 3",
+   "date": "2027-02-10",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-65",
+   "lesson": "Bài 65",
+   "title": "Chuyển chỗ ở (phần 1/4)",
+   "krTitle": "이사 1",
+   "date": "2027-02-12",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-66",
+   "lesson": "Bài 66",
+   "title": "Chuyển chỗ ở (phần 2/4)",
+   "krTitle": "이사 2",
+   "date": "2027-02-13",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-67",
+   "lesson": "Bài 67",
+   "title": "Chuyển chỗ ở (phần 3/4)",
+   "krTitle": "이사 3",
+   "date": "2027-02-15",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-68",
+   "lesson": "Bài 68",
+   "title": "Chuyển chỗ ở (phần 4/4)",
+   "krTitle": "이사 4",
+   "date": "2027-02-16",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-69",
+   "lesson": "Bài 69",
+   "title": "Du lịch (phần 1/3)",
+   "krTitle": "여행 1",
+   "date": "2027-02-18",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-70",
+   "lesson": "Bài 70",
+   "title": "Du lịch (phần 2/3)",
+   "krTitle": "여행 2",
+   "date": "2027-02-19",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-71",
+   "lesson": "Bài 71",
+   "title": "Du lịch (phần 3/3)",
+   "krTitle": "여행 3",
+   "date": "2027-02-21",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-72",
+   "lesson": "Bài 72",
+   "title": "Sự lo lắng (phần 1/4)",
+   "krTitle": "고민 1",
+   "date": "2027-02-22",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-73",
+   "lesson": "Bài 73",
+   "title": "Sự lo lắng (phần 2/4)",
+   "krTitle": "고민 2",
+   "date": "2027-02-24",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-74",
+   "lesson": "Bài 74",
+   "title": "Sự lo lắng (phần 3/4)",
+   "krTitle": "고민 3",
+   "date": "2027-02-25",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-75",
+   "lesson": "Bài 75",
+   "title": "Sự lo lắng (phần 4/4)",
+   "krTitle": "고민 4",
+   "date": "2027-02-27",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-76",
+   "lesson": "Bài 76",
+   "title": "Mạng internet (phần 1/3)",
+   "krTitle": "인터넷 1",
+   "date": "2027-02-28",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-77",
+   "lesson": "Bài 77",
+   "title": "Mạng internet (phần 2/3)",
+   "krTitle": "인터넷 2",
+   "date": "2027-03-02",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-78",
+   "lesson": "Bài 78",
+   "title": "Mạng internet (phần 3/3)",
+   "krTitle": "인터넷 3",
+   "date": "2027-03-03",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-79",
+   "lesson": "Bài 79",
+   "title": "Niềm hy vọng (phần 1/5)",
+   "krTitle": "희망 1",
+   "date": "2027-03-05",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-80",
+   "lesson": "Bài 80",
+   "title": "Niềm hy vọng (phần 2/5)",
+   "krTitle": "희망 2",
+   "date": "2027-03-06",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-81",
+   "lesson": "Bài 81",
+   "title": "Niềm hy vọng (phần 3/5)",
+   "krTitle": "희망 3",
+   "date": "2027-03-08",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-82",
+   "lesson": "Bài 82",
+   "title": "Niềm hy vọng (phần 4/5)",
+   "krTitle": "희망 4",
+   "date": "2027-03-09",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-83",
+   "lesson": "Bài 83",
+   "title": "Niềm hy vọng (phần 5/5)",
+   "krTitle": "희망 5",
+   "date": "2027-03-11",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-84",
+   "lesson": "Bài 84",
+   "title": "Phim ảnh (phần 1/4)",
+   "krTitle": "영화 1",
+   "date": "2027-03-12",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-85",
+   "lesson": "Bài 85",
+   "title": "Phim ảnh (phần 2/4)",
+   "krTitle": "영화 2",
+   "date": "2027-03-14",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-86",
+   "lesson": "Bài 86",
+   "title": "Phim ảnh (phần 3/4)",
+   "krTitle": "영화 3",
+   "date": "2027-03-15",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-87",
+   "lesson": "Bài 87",
+   "title": "Phim ảnh (phần 4/4)",
+   "krTitle": "영화 4",
+   "date": "2027-03-17",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-88",
+   "lesson": "Bài 88",
+   "title": "Phép lịch sự và quy tắc (phần 1/3)",
+   "krTitle": "예절과 규칙 1",
+   "date": "2027-03-18",
+   "words": 14,
+   "exercises": 20
+  },
+  {
+   "id": "bai-89",
+   "lesson": "Bài 89",
+   "title": "Phép lịch sự và quy tắc (phần 2/3)",
+   "krTitle": "예절과 규칙 2",
+   "date": "2027-03-20",
+   "words": 13,
+   "exercises": 20
+  },
+  {
+   "id": "bai-90",
+   "lesson": "Bài 90",
+   "title": "Phép lịch sự và quy tắc (phần 3/3)",
+   "krTitle": "예절과 규칙 3",
+   "date": "2027-03-21",
+   "words": 14,
+   "exercises": 20
+  },
+  {
+   "id": "bai-91",
+   "lesson": "Bài 91",
+   "title": "Thời trang (phần 1/4)",
+   "krTitle": "유행 1",
+   "date": "2027-03-23",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-92",
+   "lesson": "Bài 92",
+   "title": "Thời trang (phần 2/4)",
+   "krTitle": "유행 2",
+   "date": "2027-03-24",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-93",
+   "lesson": "Bài 93",
+   "title": "Thời trang (phần 3/4)",
+   "krTitle": "유행 3",
+   "date": "2027-03-26",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-94",
+   "lesson": "Bài 94",
+   "title": "Thời trang (phần 4/4)",
+   "krTitle": "유행 4",
+   "date": "2027-03-27",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-95",
+   "lesson": "Bài 95",
+   "title": "Việc nhà (phần 1/5)",
+   "krTitle": "집안일 1",
+   "date": "2027-03-29",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-96",
+   "lesson": "Bài 96",
+   "title": "Việc nhà (phần 2/5)",
+   "krTitle": "집안일 2",
+   "date": "2027-03-30",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-97",
+   "lesson": "Bài 97",
+   "title": "Việc nhà (phần 3/5)",
+   "krTitle": "집안일 3",
+   "date": "2027-04-01",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-98",
+   "lesson": "Bài 98",
+   "title": "Việc nhà (phần 4/5)",
+   "krTitle": "집안일 4",
+   "date": "2027-04-02",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-99",
+   "lesson": "Bài 99",
+   "title": "Việc nhà (phần 5/5)",
+   "krTitle": "집안일 5",
+   "date": "2027-04-04",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-100",
+   "lesson": "Bài 100",
+   "title": "Cảm xúc (phần 1/3)",
+   "krTitle": "감정 1",
+   "date": "2027-04-05",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-101",
+   "lesson": "Bài 101",
+   "title": "Cảm xúc (phần 2/3)",
+   "krTitle": "감정 2",
+   "date": "2027-04-07",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-102",
+   "lesson": "Bài 102",
+   "title": "Cảm xúc (phần 3/3)",
+   "krTitle": "감정 3",
+   "date": "2027-04-08",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-103",
+   "lesson": "Bài 103",
+   "title": "Thông tin sinh hoạt (phần 1/4)",
+   "krTitle": "생활 정보 1",
+   "date": "2027-04-10",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-104",
+   "lesson": "Bài 104",
+   "title": "Thông tin sinh hoạt (phần 2/4)",
+   "krTitle": "생활 정보 2",
+   "date": "2027-04-11",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-105",
+   "lesson": "Bài 105",
+   "title": "Thông tin sinh hoạt (phần 3/4)",
+   "krTitle": "생활 정보 3",
+   "date": "2027-04-13",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-106",
+   "lesson": "Bài 106",
+   "title": "Thông tin sinh hoạt (phần 4/4)",
+   "krTitle": "생활 정보 4",
+   "date": "2027-04-14",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-107",
+   "lesson": "Bài 107",
+   "title": "Việc làm (phần 1/4)",
+   "krTitle": "취업 1",
+   "date": "2027-04-16",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-108",
+   "lesson": "Bài 108",
+   "title": "Việc làm (phần 2/4)",
+   "krTitle": "취업 2",
+   "date": "2027-04-17",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-109",
+   "lesson": "Bài 109",
+   "title": "Việc làm (phần 3/4)",
+   "krTitle": "취업 3",
+   "date": "2027-04-19",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-110",
+   "lesson": "Bài 110",
+   "title": "Việc làm (phần 4/4)",
+   "krTitle": "취업 4",
+   "date": "2027-04-20",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-111",
+   "lesson": "Bài 111",
+   "title": "Hỏng hóc, bảo hành (phần 1/4)",
+   "krTitle": "고장 1",
+   "date": "2027-04-22",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-112",
+   "lesson": "Bài 112",
+   "title": "Hỏng hóc, bảo hành (phần 2/4)",
+   "krTitle": "고장 2",
+   "date": "2027-04-23",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-113",
+   "lesson": "Bài 113",
+   "title": "Hỏng hóc, bảo hành (phần 3/4)",
+   "krTitle": "고장 3",
+   "date": "2027-04-25",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-114",
+   "lesson": "Bài 114",
+   "title": "Hỏng hóc, bảo hành (phần 4/4)",
+   "krTitle": "고장 4",
+   "date": "2027-04-26",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-115",
+   "lesson": "Bài 115",
+   "title": "Lễ tết (phần 1/4)",
+   "krTitle": "명절 1",
+   "date": "2027-04-28",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-116",
+   "lesson": "Bài 116",
+   "title": "Lễ tết (phần 2/4)",
+   "krTitle": "명절 2",
+   "date": "2027-04-29",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-117",
+   "lesson": "Bài 117",
+   "title": "Lễ tết (phần 3/4)",
+   "krTitle": "명절 3",
+   "date": "2027-05-01",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-118",
+   "lesson": "Bài 118",
+   "title": "Lễ tết (phần 4/4)",
+   "krTitle": "명절 4",
+   "date": "2027-05-02",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-119",
+   "lesson": "Bài 119",
+   "title": "Cuộc sống giải trí (phần 1/4)",
+   "krTitle": "여가 생활 1",
+   "date": "2027-05-04",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-120",
+   "lesson": "Bài 120",
+   "title": "Cuộc sống giải trí (phần 2/4)",
+   "krTitle": "여가 생활 2",
+   "date": "2027-05-05",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-121",
+   "lesson": "Bài 121",
+   "title": "Cuộc sống giải trí (phần 3/4)",
+   "krTitle": "여가 생활 3",
+   "date": "2027-05-07",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-122",
+   "lesson": "Bài 122",
+   "title": "Cuộc sống giải trí (phần 4/4)",
+   "krTitle": "여가 생활 4",
+   "date": "2027-05-08",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-123",
+   "lesson": "Bài 123",
+   "title": "Nơi làm việc (phần 1/5)",
+   "krTitle": "직장 1",
+   "date": "2027-05-10",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-124",
+   "lesson": "Bài 124",
+   "title": "Nơi làm việc (phần 2/5)",
+   "krTitle": "직장 2",
+   "date": "2027-05-11",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-125",
+   "lesson": "Bài 125",
+   "title": "Nơi làm việc (phần 3/5)",
+   "krTitle": "직장 3",
+   "date": "2027-05-13",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-126",
+   "lesson": "Bài 126",
+   "title": "Nơi làm việc (phần 4/5)",
+   "krTitle": "직장 4",
+   "date": "2027-05-14",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-127",
+   "lesson": "Bài 127",
+   "title": "Nơi làm việc (phần 5/5)",
+   "krTitle": "직장 5",
+   "date": "2027-05-16",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-128",
+   "lesson": "Bài 128",
+   "title": "Tiết kiệm (phần 1/6)",
+   "krTitle": "절약 1",
+   "date": "2027-05-17",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-129",
+   "lesson": "Bài 129",
+   "title": "Tiết kiệm (phần 2/6)",
+   "krTitle": "절약 2",
+   "date": "2027-05-19",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-130",
+   "lesson": "Bài 130",
+   "title": "Tiết kiệm (phần 3/6)",
+   "krTitle": "절약 3",
+   "date": "2027-05-20",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-131",
+   "lesson": "Bài 131",
+   "title": "Tiết kiệm (phần 4/6)",
+   "krTitle": "절약 4",
+   "date": "2027-05-22",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-132",
+   "lesson": "Bài 132",
+   "title": "Tiết kiệm (phần 5/6)",
+   "krTitle": "절약 5",
+   "date": "2027-05-23",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-133",
+   "lesson": "Bài 133",
+   "title": "Tiết kiệm (phần 6/6)",
+   "krTitle": "절약 6",
+   "date": "2027-05-25",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-134",
+   "lesson": "Bài 134",
+   "title": "Kết hôn (phần 1/5)",
+   "krTitle": "결혼 1",
+   "date": "2027-05-26",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-135",
+   "lesson": "Bài 135",
+   "title": "Kết hôn (phần 2/5)",
+   "krTitle": "결혼 2",
+   "date": "2027-05-28",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-136",
+   "lesson": "Bài 136",
+   "title": "Kết hôn (phần 3/5)",
+   "krTitle": "결혼 3",
+   "date": "2027-05-29",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-137",
+   "lesson": "Bài 137",
+   "title": "Kết hôn (phần 4/5)",
+   "krTitle": "결혼 4",
+   "date": "2027-05-31",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-138",
+   "lesson": "Bài 138",
+   "title": "Kết hôn (phần 5/5)",
+   "krTitle": "결혼 5",
+   "date": "2027-06-01",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-139",
+   "lesson": "Bài 139",
+   "title": "Sự kiện và tai nạn (phần 1/4)",
+   "krTitle": "사건과 사고 1",
+   "date": "2027-06-03",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-140",
+   "lesson": "Bài 140",
+   "title": "Sự kiện và tai nạn (phần 2/4)",
+   "krTitle": "사건과 사고 2",
+   "date": "2027-06-04",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-141",
+   "lesson": "Bài 141",
+   "title": "Sự kiện và tai nạn (phần 3/4)",
+   "krTitle": "사건과 사고 3",
+   "date": "2027-06-06",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-142",
+   "lesson": "Bài 142",
+   "title": "Sự kiện và tai nạn (phần 4/4)",
+   "krTitle": "사건과 사고 4",
+   "date": "2027-06-07",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-143",
+   "lesson": "Bài 143",
+   "title": "Chế độ giáo dục (phần 1/5)",
+   "krTitle": "교육 제도 1",
+   "date": "2027-06-09",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-144",
+   "lesson": "Bài 144",
+   "title": "Chế độ giáo dục (phần 2/5)",
+   "krTitle": "교육 제도 2",
+   "date": "2027-06-10",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-145",
+   "lesson": "Bài 145",
+   "title": "Chế độ giáo dục (phần 3/5)",
+   "krTitle": "교육 제도 3",
+   "date": "2027-06-12",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-146",
+   "lesson": "Bài 146",
+   "title": "Chế độ giáo dục (phần 4/5)",
+   "krTitle": "교육 제도 4",
+   "date": "2027-06-13",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-147",
+   "lesson": "Bài 147",
+   "title": "Chế độ giáo dục (phần 5/5)",
+   "krTitle": "교육 제도 5",
+   "date": "2027-06-15",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-148",
+   "lesson": "Bài 148",
+   "title": "Đời sống & môi trường (phần 1/4)",
+   "krTitle": "생활과 환경 1",
+   "date": "2027-06-16",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-149",
+   "lesson": "Bài 149",
+   "title": "Đời sống & môi trường (phần 2/4)",
+   "krTitle": "생활과 환경 2",
+   "date": "2027-06-18",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-150",
+   "lesson": "Bài 150",
+   "title": "Đời sống & môi trường (phần 3/4)",
+   "krTitle": "생활과 환경 3",
+   "date": "2027-06-19",
+   "words": 15,
+   "exercises": 20
+  },
+  {
+   "id": "bai-151",
+   "lesson": "Bài 151",
+   "title": "Đời sống & môi trường (phần 4/4)",
+   "krTitle": "생활과 환경 4",
+   "date": "2027-06-21",
+   "words": 16,
+   "exercises": 20
+  },
+  {
+   "id": "bai-152",
+   "lesson": "Bài 152",
+   "title": "Truyện cổ tích (phần 1/4)",
+   "krTitle": "옛날이야기 1",
+   "date": "2027-06-22",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-153",
+   "lesson": "Bài 153",
+   "title": "Truyện cổ tích (phần 2/4)",
+   "krTitle": "옛날이야기 2",
+   "date": "2027-06-24",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-154",
+   "lesson": "Bài 154",
+   "title": "Truyện cổ tích (phần 3/4)",
+   "krTitle": "옛날이야기 3",
+   "date": "2027-06-25",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-155",
+   "lesson": "Bài 155",
+   "title": "Truyện cổ tích (phần 4/4)",
+   "krTitle": "옛날이야기 4",
+   "date": "2027-06-27",
+   "words": 17,
+   "exercises": 20
+  },
+  {
+   "id": "bai-156",
+   "lesson": "Bài 156",
+   "title": "Gặp gỡ giao lưu (phần 1/3)",
+   "krTitle": "만남과 교류 1",
+   "date": "2027-07-01",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-157",
+   "lesson": "Bài 157",
+   "title": "Gặp gỡ giao lưu (phần 2/3)",
+   "krTitle": "만남과 교류 2",
+   "date": "2027-07-02",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-158",
+   "lesson": "Bài 158",
+   "title": "Gặp gỡ giao lưu (phần 3/3)",
+   "krTitle": "만남과 교류 3",
+   "date": "2027-07-04",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-159",
+   "lesson": "Bài 159",
+   "title": "Seoul (phần 1/3)",
+   "krTitle": "서울 1",
+   "date": "2027-07-05",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-160",
+   "lesson": "Bài 160",
+   "title": "Seoul (phần 2/3)",
+   "krTitle": "서울 2",
+   "date": "2027-07-07",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-161",
+   "lesson": "Bài 161",
+   "title": "Seoul (phần 3/3)",
+   "krTitle": "서울 3",
+   "date": "2027-07-08",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-162",
+   "lesson": "Bài 162",
+   "title": "Sức khỏe của người hiện đại (phần 1/3)",
+   "krTitle": "현대인의 건강 1",
+   "date": "2027-07-10",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-163",
+   "lesson": "Bài 163",
+   "title": "Sức khỏe của người hiện đại (phần 2/3)",
+   "krTitle": "현대인의 건강 2",
+   "date": "2027-07-11",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-164",
+   "lesson": "Bài 164",
+   "title": "Sức khỏe của người hiện đại (phần 3/3)",
+   "krTitle": "현대인의 건강 3",
+   "date": "2027-07-13",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-165",
+   "lesson": "Bài 165",
+   "title": "Xã hội và tình nguyện (phần 1/3)",
+   "krTitle": "사회와 봉사 1",
+   "date": "2027-07-14",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-166",
+   "lesson": "Bài 166",
+   "title": "Xã hội và tình nguyện (phần 2/3)",
+   "krTitle": "사회와 봉사 2",
+   "date": "2027-07-16",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-167",
+   "lesson": "Bài 167",
+   "title": "Xã hội và tình nguyện (phần 3/3)",
+   "krTitle": "사회와 봉사 3",
+   "date": "2027-07-17",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-168",
+   "lesson": "Bài 168",
+   "title": "Tin tức và báo chí (phần 1/4)",
+   "krTitle": "언론과 보도 1",
+   "date": "2027-07-19",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-169",
+   "lesson": "Bài 169",
+   "title": "Tin tức và báo chí (phần 2/4)",
+   "krTitle": "언론과 보도 2",
+   "date": "2027-07-20",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-170",
+   "lesson": "Bài 170",
+   "title": "Tin tức và báo chí (phần 3/4)",
+   "krTitle": "언론과 보도 3",
+   "date": "2027-07-22",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-171",
+   "lesson": "Bài 171",
+   "title": "Tin tức và báo chí (phần 4/4)",
+   "krTitle": "언론과 보도 4",
+   "date": "2027-07-23",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-172",
+   "lesson": "Bài 172",
+   "title": "Nhân vật lịch sử (phần 1/4)",
+   "krTitle": "역사 속 인물 1",
+   "date": "2027-07-25",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-173",
+   "lesson": "Bài 173",
+   "title": "Nhân vật lịch sử (phần 2/4)",
+   "krTitle": "역사 속 인물 2",
+   "date": "2027-07-26",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-174",
+   "lesson": "Bài 174",
+   "title": "Nhân vật lịch sử (phần 3/4)",
+   "krTitle": "역사 속 인물 3",
+   "date": "2027-07-28",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-175",
+   "lesson": "Bài 175",
+   "title": "Nhân vật lịch sử (phần 4/4)",
+   "krTitle": "역사 속 인물 4",
+   "date": "2027-07-29",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-176",
+   "lesson": "Bài 176",
+   "title": "Thành ngữ tục ngữ (phần 1/3)",
+   "krTitle": "속담과 관용어 1",
+   "date": "2027-07-31",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-177",
+   "lesson": "Bài 177",
+   "title": "Thành ngữ tục ngữ (phần 2/3)",
+   "krTitle": "속담과 관용어 2",
+   "date": "2027-08-01",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-178",
+   "lesson": "Bài 178",
+   "title": "Thành ngữ tục ngữ (phần 3/3)",
+   "krTitle": "속담과 관용어 3",
+   "date": "2027-08-03",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-179",
+   "lesson": "Bài 179",
+   "title": "Quảng cáo (phần 1/3)",
+   "krTitle": "광고 1",
+   "date": "2027-08-04",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-180",
+   "lesson": "Bài 180",
+   "title": "Quảng cáo (phần 2/3)",
+   "krTitle": "광고 2",
+   "date": "2027-08-06",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-181",
+   "lesson": "Bài 181",
+   "title": "Quảng cáo (phần 3/3)",
+   "krTitle": "광고 3",
+   "date": "2027-08-07",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-182",
+   "lesson": "Bài 182",
+   "title": "Thay đổi sinh hoạt (phần 1/4)",
+   "krTitle": "생활의 변화 1",
+   "date": "2027-08-09",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-183",
+   "lesson": "Bài 183",
+   "title": "Thay đổi sinh hoạt (phần 2/4)",
+   "krTitle": "생활의 변화 2",
+   "date": "2027-08-10",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-184",
+   "lesson": "Bài 184",
+   "title": "Thay đổi sinh hoạt (phần 3/4)",
+   "krTitle": "생활의 변화 3",
+   "date": "2027-08-12",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-185",
+   "lesson": "Bài 185",
+   "title": "Thay đổi sinh hoạt (phần 4/4)",
+   "krTitle": "생활의 변화 4",
+   "date": "2027-08-13",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-186",
+   "lesson": "Bài 186",
+   "title": "Văn hóa đại chúng (phần 1/4)",
+   "krTitle": "대중문화 1",
+   "date": "2027-08-15",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-187",
+   "lesson": "Bài 187",
+   "title": "Văn hóa đại chúng (phần 2/4)",
+   "krTitle": "대중문화 2",
+   "date": "2027-08-16",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-188",
+   "lesson": "Bài 188",
+   "title": "Văn hóa đại chúng (phần 3/4)",
+   "krTitle": "대중문화 3",
+   "date": "2027-08-18",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-189",
+   "lesson": "Bài 189",
+   "title": "Văn hóa đại chúng (phần 4/4)",
+   "krTitle": "대중문화 4",
+   "date": "2027-08-19",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-190",
+   "lesson": "Bài 190",
+   "title": "Du lịch và hướng dẫn (phần 1/4)",
+   "krTitle": "여행과 안내 1",
+   "date": "2027-08-21",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-191",
+   "lesson": "Bài 191",
+   "title": "Du lịch và hướng dẫn (phần 2/4)",
+   "krTitle": "여행과 안내 2",
+   "date": "2027-08-22",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-192",
+   "lesson": "Bài 192",
+   "title": "Du lịch và hướng dẫn (phần 3/4)",
+   "krTitle": "여행과 안내 3",
+   "date": "2027-08-24",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-193",
+   "lesson": "Bài 193",
+   "title": "Du lịch và hướng dẫn (phần 4/4)",
+   "krTitle": "여행과 안내 4",
+   "date": "2027-08-25",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-194",
+   "lesson": "Bài 194",
+   "title": "Công nghiệp và kinh tế (phần 1/4)",
+   "krTitle": "산업과 경제 1",
+   "date": "2027-08-27",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-195",
+   "lesson": "Bài 195",
+   "title": "Công nghiệp và kinh tế (phần 2/4)",
+   "krTitle": "산업과 경제 2",
+   "date": "2027-08-28",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-196",
+   "lesson": "Bài 196",
+   "title": "Công nghiệp và kinh tế (phần 3/4)",
+   "krTitle": "산업과 경제 3",
+   "date": "2027-08-30",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-197",
+   "lesson": "Bài 197",
+   "title": "Công nghiệp và kinh tế (phần 4/4)",
+   "krTitle": "산업과 경제 4",
+   "date": "2027-08-31",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-198",
+   "lesson": "Bài 198",
+   "title": "Tư duy của người Hàn Quốc (phần 1/3)",
+   "krTitle": "한국인의 사고방식 1",
+   "date": "2027-09-02",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-199",
+   "lesson": "Bài 199",
+   "title": "Tư duy của người Hàn Quốc (phần 2/3)",
+   "krTitle": "한국인의 사고방식 2",
+   "date": "2027-09-03",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-200",
+   "lesson": "Bài 200",
+   "title": "Tư duy của người Hàn Quốc (phần 3/3)",
+   "krTitle": "한국인의 사고방식 3",
+   "date": "2027-09-05",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-201",
+   "lesson": "Bài 201",
+   "title": "Cuộc đời của người Hàn Quốc (phần 1/4)",
+   "krTitle": "한국인의 일생 1",
+   "date": "2027-09-06",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-202",
+   "lesson": "Bài 202",
+   "title": "Cuộc đời của người Hàn Quốc (phần 2/4)",
+   "krTitle": "한국인의 일생 2",
+   "date": "2027-09-08",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-203",
+   "lesson": "Bài 203",
+   "title": "Cuộc đời của người Hàn Quốc (phần 3/4)",
+   "krTitle": "한국인의 일생 3",
+   "date": "2027-09-09",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-204",
+   "lesson": "Bài 204",
+   "title": "Cuộc đời của người Hàn Quốc (phần 4/4)",
+   "krTitle": "한국인의 일생 4",
+   "date": "2027-09-11",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-205",
+   "lesson": "Bài 205",
+   "title": "Du học Hàn Quốc (phần 1/5)",
+   "krTitle": "한국 유학 1",
+   "date": "2027-09-12",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-206",
+   "lesson": "Bài 206",
+   "title": "Du học Hàn Quốc (phần 2/5)",
+   "krTitle": "한국 유학 2",
+   "date": "2027-09-14",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-207",
+   "lesson": "Bài 207",
+   "title": "Du học Hàn Quốc (phần 3/5)",
+   "krTitle": "한국 유학 3",
+   "date": "2027-09-15",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-208",
+   "lesson": "Bài 208",
+   "title": "Du học Hàn Quốc (phần 4/5)",
+   "krTitle": "한국 유학 4",
+   "date": "2027-09-17",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-209",
+   "lesson": "Bài 209",
+   "title": "Du học Hàn Quốc (phần 5/5)",
+   "krTitle": "한국 유학 5",
+   "date": "2027-09-18",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-210",
+   "lesson": "Bài 210",
+   "title": "Chế độ gia đình (phần 1/5)",
+   "krTitle": "가족 제도 1",
+   "date": "2027-09-20",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-211",
+   "lesson": "Bài 211",
+   "title": "Chế độ gia đình (phần 2/5)",
+   "krTitle": "가족 제도 2",
+   "date": "2027-09-21",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-212",
+   "lesson": "Bài 212",
+   "title": "Chế độ gia đình (phần 3/5)",
+   "krTitle": "가족 제도 3",
+   "date": "2027-09-23",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-213",
+   "lesson": "Bài 213",
+   "title": "Chế độ gia đình (phần 4/5)",
+   "krTitle": "가족 제도 4",
+   "date": "2027-09-24",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-214",
+   "lesson": "Bài 214",
+   "title": "Chế độ gia đình (phần 5/5)",
+   "krTitle": "가족 제도 5",
+   "date": "2027-09-26",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-215",
+   "lesson": "Bài 215",
+   "title": "Khoa học và tương lai (phần 1/4)",
+   "krTitle": "과학과 미래 1",
+   "date": "2027-09-27",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-216",
+   "lesson": "Bài 216",
+   "title": "Khoa học và tương lai (phần 2/4)",
+   "krTitle": "과학과 미래 2",
+   "date": "2027-09-29",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-217",
+   "lesson": "Bài 217",
+   "title": "Khoa học và tương lai (phần 3/4)",
+   "krTitle": "과학과 미래 3",
+   "date": "2027-09-30",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-218",
+   "lesson": "Bài 218",
+   "title": "Khoa học và tương lai (phần 4/4)",
+   "krTitle": "과학과 미래 4",
+   "date": "2027-10-02",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-219",
+   "lesson": "Bài 219",
+   "title": "Tiếng Hàn Quốc và xã hội (phần 1/5)",
+   "krTitle": "한국어와 사회 1",
+   "date": "2027-10-03",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-220",
+   "lesson": "Bài 220",
+   "title": "Tiếng Hàn Quốc và xã hội (phần 2/5)",
+   "krTitle": "한국어와 사회 2",
+   "date": "2027-10-05",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-221",
+   "lesson": "Bài 221",
+   "title": "Tiếng Hàn Quốc và xã hội (phần 3/5)",
+   "krTitle": "한국어와 사회 3",
+   "date": "2027-10-06",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-222",
+   "lesson": "Bài 222",
+   "title": "Tiếng Hàn Quốc và xã hội (phần 4/5)",
+   "krTitle": "한국어와 사회 4",
+   "date": "2027-10-08",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-223",
+   "lesson": "Bài 223",
+   "title": "Tiếng Hàn Quốc và xã hội (phần 5/5)",
+   "krTitle": "한국어와 사회 5",
+   "date": "2027-10-09",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-224",
+   "lesson": "Bài 224",
+   "title": "Văn học Hàn Quốc (phần 1/5)",
+   "krTitle": "한국 문학 1",
+   "date": "2027-10-11",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-225",
+   "lesson": "Bài 225",
+   "title": "Văn học Hàn Quốc (phần 2/5)",
+   "krTitle": "한국 문학 2",
+   "date": "2027-10-12",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-226",
+   "lesson": "Bài 226",
+   "title": "Văn học Hàn Quốc (phần 3/5)",
+   "krTitle": "한국 문학 3",
+   "date": "2027-10-14",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-227",
+   "lesson": "Bài 227",
+   "title": "Văn học Hàn Quốc (phần 4/5)",
+   "krTitle": "한국 문학 4",
+   "date": "2027-10-15",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-228",
+   "lesson": "Bài 228",
+   "title": "Văn học Hàn Quốc (phần 5/5)",
+   "krTitle": "한국 문학 5",
+   "date": "2027-10-17",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-229",
+   "lesson": "Bài 229",
+   "title": "Di sản văn hóa Hàn Quốc (phần 1/4)",
+   "krTitle": "한국의 문화유산 1",
+   "date": "2027-10-18",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-230",
+   "lesson": "Bài 230",
+   "title": "Di sản văn hóa Hàn Quốc (phần 2/4)",
+   "krTitle": "한국의 문화유산 2",
+   "date": "2027-10-20",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-231",
+   "lesson": "Bài 231",
+   "title": "Di sản văn hóa Hàn Quốc (phần 3/4)",
+   "krTitle": "한국의 문화유산 3",
+   "date": "2027-10-21",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-232",
+   "lesson": "Bài 232",
+   "title": "Di sản văn hóa Hàn Quốc (phần 4/4)",
+   "krTitle": "한국의 문화유산 4",
+   "date": "2027-10-23",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-233",
+   "lesson": "Bài 233",
+   "title": "Giao lưu quốc tế (phần 1/4)",
+   "krTitle": "국제 교류 1",
+   "date": "2027-10-24",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-234",
+   "lesson": "Bài 234",
+   "title": "Giao lưu quốc tế (phần 2/4)",
+   "krTitle": "국제 교류 2",
+   "date": "2027-10-26",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-235",
+   "lesson": "Bài 235",
+   "title": "Giao lưu quốc tế (phần 3/4)",
+   "krTitle": "국제 교류 3",
+   "date": "2027-10-27",
+   "words": 23,
+   "exercises": 20
+  },
+  {
+   "id": "bai-236",
+   "lesson": "Bài 236",
+   "title": "Giao lưu quốc tế (phần 4/4)",
+   "krTitle": "국제 교류 4",
+   "date": "2027-10-29",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-237",
+   "lesson": "Bài 237",
+   "title": "Xã hội hiện đại và thể thao (phần 1/5)",
+   "krTitle": "현대 사회와 스포츠 1",
+   "date": "2027-10-30",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-238",
+   "lesson": "Bài 238",
+   "title": "Xã hội hiện đại và thể thao (phần 2/5)",
+   "krTitle": "현대 사회와 스포츠 2",
+   "date": "2027-11-01",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-239",
+   "lesson": "Bài 239",
+   "title": "Xã hội hiện đại và thể thao (phần 3/5)",
+   "krTitle": "현대 사회와 스포츠 3",
+   "date": "2027-11-02",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-240",
+   "lesson": "Bài 240",
+   "title": "Xã hội hiện đại và thể thao (phần 4/5)",
+   "krTitle": "현대 사회와 스포츠 4",
+   "date": "2027-11-04",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-241",
+   "lesson": "Bài 241",
+   "title": "Xã hội hiện đại và thể thao (phần 5/5)",
+   "krTitle": "현대 사회와 스포츠 5",
+   "date": "2027-11-05",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-242",
+   "lesson": "Bài 242",
+   "title": "Chế độ chính trị (phần 1/4)",
+   "krTitle": "정치 제도 1",
+   "date": "2027-11-07",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-243",
+   "lesson": "Bài 243",
+   "title": "Chế độ chính trị (phần 2/4)",
+   "krTitle": "정치 제도 2",
+   "date": "2027-11-08",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-244",
+   "lesson": "Bài 244",
+   "title": "Chế độ chính trị (phần 3/4)",
+   "krTitle": "정치 제도 3",
+   "date": "2027-11-10",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-245",
+   "lesson": "Bài 245",
+   "title": "Chế độ chính trị (phần 4/4)",
+   "krTitle": "정치 제도 4",
+   "date": "2027-11-11",
+   "words": 18,
+   "exercises": 20
+  },
+  {
+   "id": "bai-246",
+   "lesson": "Bài 246",
+   "title": "Cuộc sống và kinh tế (phần 1/4)",
+   "krTitle": "생활과 경제 1",
+   "date": "2027-11-13",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-247",
+   "lesson": "Bài 247",
+   "title": "Cuộc sống và kinh tế (phần 2/4)",
+   "krTitle": "생활과 경제 2",
+   "date": "2027-11-14",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-248",
+   "lesson": "Bài 248",
+   "title": "Cuộc sống và kinh tế (phần 3/4)",
+   "krTitle": "생활과 경제 3",
+   "date": "2027-11-16",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-249",
+   "lesson": "Bài 249",
+   "title": "Cuộc sống và kinh tế (phần 4/4)",
+   "krTitle": "생활과 경제 4",
+   "date": "2027-11-17",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-250",
+   "lesson": "Bài 250",
+   "title": "Lịch sử Hàn Quốc (phần 1/5)",
+   "krTitle": "한국의 역사 1",
+   "date": "2027-11-19",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-251",
+   "lesson": "Bài 251",
+   "title": "Lịch sử Hàn Quốc (phần 2/5)",
+   "krTitle": "한국의 역사 2",
+   "date": "2027-11-20",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-252",
+   "lesson": "Bài 252",
+   "title": "Lịch sử Hàn Quốc (phần 3/5)",
+   "krTitle": "한국의 역사 3",
+   "date": "2027-11-22",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-253",
+   "lesson": "Bài 253",
+   "title": "Lịch sử Hàn Quốc (phần 4/5)",
+   "krTitle": "한국의 역사 4",
+   "date": "2027-11-23",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-254",
+   "lesson": "Bài 254",
+   "title": "Lịch sử Hàn Quốc (phần 5/5)",
+   "krTitle": "한국의 역사 5",
+   "date": "2027-11-25",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-255",
+   "lesson": "Bài 255",
+   "title": "Y học hiện đại (phần 1/4)",
+   "krTitle": "현대 의학 1",
+   "date": "2027-11-26",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-256",
+   "lesson": "Bài 256",
+   "title": "Y học hiện đại (phần 2/4)",
+   "krTitle": "현대 의학 2",
+   "date": "2027-11-28",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-257",
+   "lesson": "Bài 257",
+   "title": "Y học hiện đại (phần 3/4)",
+   "krTitle": "현대 의학 3",
+   "date": "2027-11-29",
+   "words": 22,
+   "exercises": 20
+  },
+  {
+   "id": "bai-258",
+   "lesson": "Bài 258",
+   "title": "Y học hiện đại (phần 4/4)",
+   "krTitle": "현대 의학 4",
+   "date": "2027-12-01",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-259",
+   "lesson": "Bài 259",
+   "title": "Con người và thiên nhiên (phần 1/5)",
+   "krTitle": "인간과 자연 1",
+   "date": "2027-12-02",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-260",
+   "lesson": "Bài 260",
+   "title": "Con người và thiên nhiên (phần 2/5)",
+   "krTitle": "인간과 자연 2",
+   "date": "2027-12-04",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-261",
+   "lesson": "Bài 261",
+   "title": "Con người và thiên nhiên (phần 3/5)",
+   "krTitle": "인간과 자연 3",
+   "date": "2027-12-05",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-262",
+   "lesson": "Bài 262",
+   "title": "Con người và thiên nhiên (phần 4/5)",
+   "krTitle": "인간과 자연 4",
+   "date": "2027-12-07",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-263",
+   "lesson": "Bài 263",
+   "title": "Con người và thiên nhiên (phần 5/5)",
+   "krTitle": "인간과 자연 5",
+   "date": "2027-12-08",
+   "words": 19,
+   "exercises": 20
+  },
+  {
+   "id": "bai-264",
+   "lesson": "Bài 264",
+   "title": "Thông tin và truyền thông (phần 1/4)",
+   "krTitle": "정보와 통신 1",
+   "date": "2027-12-10",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-265",
+   "lesson": "Bài 265",
+   "title": "Thông tin và truyền thông (phần 2/4)",
+   "krTitle": "정보와 통신 2",
+   "date": "2027-12-11",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-266",
+   "lesson": "Bài 266",
+   "title": "Thông tin và truyền thông (phần 3/4)",
+   "krTitle": "정보와 통신 3",
+   "date": "2027-12-13",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-267",
+   "lesson": "Bài 267",
+   "title": "Thông tin và truyền thông (phần 4/4)",
+   "krTitle": "정보와 통신 4",
+   "date": "2027-12-14",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-268",
+   "lesson": "Bài 268",
+   "title": "Vấn đề xã hội hiện đại (phần 1/5)",
+   "krTitle": "현대 사회의 문제 1",
+   "date": "2027-12-16",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-269",
+   "lesson": "Bài 269",
+   "title": "Vấn đề xã hội hiện đại (phần 2/5)",
+   "krTitle": "현대 사회의 문제 2",
+   "date": "2027-12-17",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-270",
+   "lesson": "Bài 270",
+   "title": "Vấn đề xã hội hiện đại (phần 3/5)",
+   "krTitle": "현대 사회의 문제 3",
+   "date": "2027-12-19",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-271",
+   "lesson": "Bài 271",
+   "title": "Vấn đề xã hội hiện đại (phần 4/5)",
+   "krTitle": "현대 사회의 문제 4",
+   "date": "2027-12-20",
+   "words": 20,
+   "exercises": 20
+  },
+  {
+   "id": "bai-272",
+   "lesson": "Bài 272",
+   "title": "Vấn đề xã hội hiện đại (phần 5/5)",
+   "krTitle": "현대 사회의 문제 5",
+   "date": "2027-12-22",
+   "words": 21,
+   "exercises": 20
+  },
+  {
+   "id": "bai-273",
+   "lesson": "Bài 273",
+   "title": "Công việc và môi trường công sở (phần 1/3)",
+   "krTitle": "직업과 직장 1",
+   "date": "2027-12-23",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-274",
+   "lesson": "Bài 274",
+   "title": "Công việc và môi trường công sở (phần 2/3)",
+   "krTitle": "직업과 직장 2",
+   "date": "2027-12-25",
+   "words": 24,
+   "exercises": 20
+  },
+  {
+   "id": "bai-275",
+   "lesson": "Bài 275",
+   "title": "Công việc và môi trường công sở (phần 3/3)",
+   "krTitle": "직업과 직장 3",
+   "date": "2027-12-26",
+   "words": 24,
+   "exercises": 20
   }
  ]
 }

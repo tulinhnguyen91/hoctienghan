@@ -1,0 +1,384 @@
+{
+ "id": "bai-64",
+ "lesson": "Bài 64",
+ "title": "Sai sót, mắc lỗi (phần 3/3)",
+ "krTitle": "실수 3",
+ "date": "2027-02-10",
+ "day": 84,
+ "source": "TOPIK 3 – Bài 8: Sai sót, mắc lỗi (phần 3/3)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "발명품",
+   "Balmyeongpum",
+   "Vật phát minh, đồ sáng chế",
+   "포스트잇은 실수로 만든 발명품이에요.",
+   "Giấy note dán là phát minh ra đời từ một sai sót."
+  ],
+  [
+   "증명사진",
+   "Jeungmyeongsajin",
+   "Ảnh thẻ",
+   "신청서에 증명사진을 붙이도록 하세요.",
+   "Hãy dán ảnh thẻ vào đơn."
+  ],
+  [
+   "누구든지",
+   "Nugudeunji",
+   "Bất cứ ai",
+   "누구든지 실수할 수 있어요.",
+   "Ai cũng có thể mắc lỗi."
+  ],
+  [
+   "벌금을 내다",
+   "Beolgeumeul naeda",
+   "Nộp tiền phạt",
+   "책을 늦게 돌려줘서 벌금을 냈어요.",
+   "Trả sách muộn nên tôi phải nộp phạt."
+  ],
+  [
+   "지름길",
+   "Jireumgil",
+   "Đường tắt",
+   "지름길로 가면 10분 걸려요.",
+   "Đi đường tắt thì mất 10 phút."
+  ],
+  [
+   "데이트 신청을 하다",
+   "Deiteu sincheongeul hada",
+   "Mời đi hẹn hò",
+   "용기를 내서 데이트 신청을 했어요.",
+   "Tôi lấy hết can đảm mời đi hẹn hò."
+  ],
+  [
+   "보고하다",
+   "Bogohada",
+   "Báo cáo",
+   "문제가 생기면 바로 보고하도록 하세요.",
+   "Có vấn đề gì thì hãy báo cáo ngay."
+  ],
+  [
+   "표시하다",
+   "Pyosihada",
+   "Đánh dấu, biểu thị",
+   "중요한 부분에 표시하세요.",
+   "Hãy đánh dấu phần quan trọng."
+  ],
+  [
+   "돌려주다",
+   "Dollyeojuda",
+   "Trả lại",
+   "빌린 책은 일주일 안에 돌려주도록 하세요.",
+   "Sách mượn hãy trả lại trong vòng một tuần."
+  ],
+  [
+   "부끄럽다",
+   "Bukkeureopda",
+   "Xấu hổ, ngại ngùng",
+   "사람들 앞에서 넘어져서 부끄러웠어요.",
+   "Ngã trước mặt mọi người nên tôi xấu hổ."
+  ],
+  [
+   "품질",
+   "Pumjil",
+   "Chất lượng",
+   "이 회사는 품질을 보장해요.",
+   "Công ty này bảo đảm chất lượng."
+  ],
+  [
+   "두려워하다",
+   "Duryeowohada",
+   "Sợ hãi, e ngại",
+   "실수를 두려워하지 마세요.",
+   "Đừng sợ mắc lỗi."
+  ],
+  [
+   "살펴보다",
+   "Salpyeoboda",
+   "Xem xét kỹ",
+   "서류를 제출하기 전에 꼼꼼히 살펴보세요.",
+   "Trước khi nộp giấy tờ hãy xem xét kỹ."
+  ],
+  [
+   "화가 풀리다",
+   "Hwaga pullida",
+   "Nguôi giận",
+   "제가 사과하니까 친구의 화가 풀렸어요.",
+   "Tôi xin lỗi nên bạn đã nguôi giận."
+  ],
+  [
+   "드라마",
+   "Deurama",
+   "Phim truyền hình dài tập",
+   "드라마를 보다가 잠이 들었어요.",
+   "Đang xem phim truyền hình thì ngủ quên."
+  ],
+  [
+   "성",
+   "Seong",
+   "Họ (tên); giới tính",
+   "한국에서 가장 많은 성은 '김'이에요.",
+   "Họ phổ biến nhất ở Hàn là 'Kim'."
+  ],
+  [
+   "확인하다",
+   "Hwaginhada",
+   "Xác nhận, kiểm tra",
+   "보내기 전에 받는 사람 이름을 확인하도록 하세요.",
+   "Trước khi gửi hãy kiểm tra tên người nhận."
+  ],
+  [
+   "떨어지다",
+   "Tteoreojida",
+   "Rơi; trượt (thi)",
+   "시험에 떨어져서 다시 준비하고 있어요.",
+   "Tôi thi trượt nên đang chuẩn bị lại."
+  ],
+  [
+   "알람 시계",
+   "Allam sigye",
+   "Đồng hồ báo thức",
+   "늦잠을 자지 않기 위해서 알람 시계를 두 개 맞췄어요.",
+   "Tôi đặt hai đồng hồ báo thức để không ngủ quên."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 도록 하다 — Làm cho, hãy",
+   "meaning": "Nghĩa 1 (hay gặp nhất): lời khuyên, yêu cầu lịch sự, hơi trang trọng: 도록 하세요 = 'hãy…', 도록 하겠습니다 = 'tôi sẽ cố gắng…' (hứa). Thường dùng ở trường học, công ty, bệnh viện: 늦지 않도록 하세요 (hãy cố đừng đến muộn), 다시는 실수하지 않도록 하겠습니다 (tôi sẽ không mắc lỗi nữa). Nghĩa 2: khiến người khác làm gì: 아이가 숙제를 하도록 했어요 (bắt con làm bài tập). Gắn thẳng vào gốc động từ: 보고하다 → 보고하도록, 돌려주다 → 돌려주도록. Phủ định: 지 않도록 하다. So với (으)세요: 도록 하세요 mềm và trang trọng hơn.",
+   "examples": [
+    "문제가 생기면 바로 보고하도록 하세요. — Có vấn đề gì thì hãy báo cáo ngay.",
+    "다시는 실수하지 않도록 하겠습니다. — Tôi sẽ cố gắng không mắc lỗi nữa.",
+    "빌린 책은 일주일 안에 돌려주도록 하세요. — Sách mượn hãy trả lại trong vòng một tuần.",
+    "선생님이 학생들에게 증명사진을 가져오도록 하셨어요. — Thầy bảo học sinh mang ảnh thẻ đến."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Có vấn đề thì hãy báo cáo ngay.",
+   "kr": "문제가 생기면 바로 ___.",
+   "options": [
+    "보고하도록 하세요",
+    "보고하게 하세요요",
+    "보고하도록 되세요"
+   ],
+   "answer": "보고하도록 하세요",
+   "explain": "V + 도록 하세요 = hãy (lịch sự)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi sẽ cố không mắc lỗi nữa.",
+   "kr": "다시는 ___.",
+   "options": [
+    "실수하지 않도록 하겠습니다",
+    "실수하도록 않겠습니다",
+    "실수 안 하도록 했어요요"
+   ],
+   "answer": "실수하지 않도록 하겠습니다",
+   "explain": "Phủ định: 지 않도록 하다; hứa: 하겠습니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hãy cố đừng đến muộn.",
+   "kr": "내일은 ___.",
+   "options": [
+    "늦지 않도록 하세요",
+    "늦도록 하지 마세요요",
+    "늦게 하도록 하세요"
+   ],
+   "answer": "늦지 않도록 하세요",
+   "explain": "지 않도록 하세요 = hãy cố đừng…"
+  },
+  {
+   "type": "choice",
+   "q": "'아이가 숙제를 하도록 했어요' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Tôi đã bảo/khiến con làm bài tập.",
+    "Con đã làm bài tập giúp tôi.",
+    "Tôi đã làm bài tập cho con."
+   ],
+   "answer": "Tôi đã bảo/khiến con làm bài tập.",
+   "explain": "Nghĩa 2 của 도록 하다: khiến người khác làm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trả sách muộn nên phải nộp phạt.",
+   "kr": "책을 늦게 돌려줘서 ___.",
+   "options": [
+    "벌금을 냈어요",
+    "표시했어요",
+    "보고했어요"
+   ],
+   "answer": "벌금을 냈어요",
+   "explain": "벌금을 내다 = nộp phạt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng sợ mắc lỗi.",
+   "kr": "실수를 ___ 마세요.",
+   "options": [
+    "두려워하지",
+    "살펴보지",
+    "돌려주지"
+   ],
+   "answer": "두려워하지",
+   "explain": "두려워하다 = sợ hãi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi xin lỗi nên bạn đã nguôi giận.",
+   "kr": "제가 사과하니까 친구의 ___.",
+   "options": [
+    "화가 풀렸어요",
+    "성이 났어요",
+    "품질이 좋아요"
+   ],
+   "answer": "화가 풀렸어요",
+   "explain": "화가 풀리다 = nguôi giận."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đi đường tắt thì mất 10 phút.",
+   "kr": "___로 가면 10분 걸려요.",
+   "options": [
+    "지름길",
+    "발명품",
+    "알람 시계"
+   ],
+   "answer": "지름길",
+   "explain": "지름길 = đường tắt."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 도록 하세요 vào 확인하다: Hãy kiểm tra tên người nhận.",
+   "kr": "받는 사람 이름을 ___.",
+   "answer": [
+    "확인하도록 하세요"
+   ],
+   "explain": "확인하 + 도록 하세요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 도록 하세요 vào 살펴보다: Hãy xem kỹ giấy tờ.",
+   "kr": "서류를 꼼꼼히 ___.",
+   "answer": [
+    "살펴보도록 하세요"
+   ],
+   "explain": "살펴보 + 도록 하세요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어서 của 부끄럽다: Xấu hổ nên mặt đỏ lên.",
+   "kr": "___ 얼굴이 빨개졌어요.",
+   "answer": [
+    "부끄러워서"
+   ],
+   "explain": "부끄럽다 (bất quy tắc ㅂ) → 부끄러워서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ai cũng có thể mắc lỗi.",
+   "kr": "___ 실수할 수 있어요.",
+   "answer": [
+    "누구든지",
+    "누구나"
+   ],
+   "explain": "누구든지 = bất cứ ai."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sách mượn hãy trả trong một tuần.",
+   "tokens": [
+    "빌린",
+    "책은",
+    "일주일",
+    "안에",
+    "돌려주도록",
+    "하세요"
+   ],
+   "answer": "빌린 책은 일주일 안에 돌려주도록 하세요",
+   "explain": "돌려주도록 하세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đặt hai đồng hồ báo thức.",
+   "tokens": [
+    "알람",
+    "시계를",
+    "두",
+    "개",
+    "맞췄어요"
+   ],
+   "answer": "알람 시계를 두 개 맞췄어요",
+   "explain": "알람을 맞추다 = đặt báo thức."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi sẽ cố gắng không mắc lỗi nữa. (trang trọng)",
+   "answer": [
+    "다시는 실수하지 않도록 하겠습니다.",
+    "다시 실수하지 않도록 하겠습니다.",
+    "다시는 실수하지 않도록 하겠어요."
+   ],
+   "explain": "지 않도록 하겠습니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đừng sợ mắc lỗi.",
+   "answer": [
+    "실수를 두려워하지 마세요.",
+    "실수하는 것을 두려워하지 마세요.",
+    "실수를 무서워하지 마세요."
+   ],
+   "explain": "두려워하다 + 지 마세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi thi trượt.",
+   "answer": [
+    "시험에 떨어졌어요.",
+    "저는 시험에 떨어졌어요."
+   ],
+   "explain": "시험에 떨어지다 = thi trượt."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "실수로 만든 발명품 중에는 우리가 매일 사용하는 물건도 많아요.",
+   "answer": "Trong số những phát minh ra đời do sai sót, có nhiều đồ vật chúng ta dùng hằng ngày.",
+   "explain": "실수로 = do nhầm; 중에는 = trong số đó."
+  },
+  {
+   "type": "read",
+   "q": "Chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 이 신청서에 증명사진이 없네요.\n여자: 아, 깜빡했어요. 지금 가지고 있는데 붙여도 돼요?\n남자: 네, 그럼 여기에 붙이도록 하세요.",
+   "options": [
+    "신청서에 사진을 붙인다.",
+    "사진을 찍으러 간다.",
+    "신청서를 다시 쓴다.",
+    "집에 돌아간다."
+   ],
+   "answer": "신청서에 사진을 붙인다.",
+   "explain": "Người nam bảo dán vào đây → việc tiếp theo là dán ảnh."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp với nội dung. (Dạng TOPIK II câu 19~24)",
+   "kr": "포스트잇은 원래 실수로 만든 물건입니다. 한 연구원이 강력 접착제를 만들려고 했지만 실수로 잘 붙지 않는 접착제를 만들었습니다. 처음에는 아무도 이 접착제를 쓰지 않았습니다. 그런데 몇 년 후에 다른 연구원이 이 접착제로 쉽게 뗄 수 있는 메모지를 만들었습니다. 이처럼 실수가 ( ___ ) 수도 있습니다.",
+   "options": [
+    "좋은 발명품이 될",
+    "벌금이 될",
+    "문제가 안 될",
+    "빨리 끝날"
+   ],
+   "answer": "좋은 발명품이 될",
+   "explain": "Lỗi có thể trở thành phát minh tốt."
+  }
+ ]
+}

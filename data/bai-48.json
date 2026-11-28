@@ -1,0 +1,393 @@
+{
+ "id": "bai-48",
+ "lesson": "Bài 48",
+ "title": "Mua sắm (phần 3/3)",
+ "krTitle": "쇼핑 3",
+ "date": "2027-01-17",
+ "day": 60,
+ "source": "TOPIK 3 – Bài 4: Mua sắm (phần 3/3)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "구멍",
+   "Gumeong",
+   "Cái lỗ, lỗ thủng",
+   "새로 산 양말에 구멍이 났어요.",
+   "Đôi tất mới mua bị thủng lỗ."
+  ],
+  [
+   "수선하다",
+   "Suseonhada",
+   "Sửa chữa",
+   "찢어진 바지를 수선했어요.",
+   "Tôi đã sửa chiếc quần bị rách."
+  ],
+  [
+   "주방용품",
+   "Jubangyongpum",
+   "Đồ dùng nhà bếp",
+   "이사해서 주방용품을 많이 샀어요.",
+   "Chuyển nhà nên tôi mua nhiều đồ bếp."
+  ],
+  [
+   "구입하다",
+   "Guipada",
+   "Mua sắm",
+   "인터넷으로 책을 구입했어요.",
+   "Tôi đã mua sách qua mạng."
+  ],
+  [
+   "실수",
+   "Silsu",
+   "Sự sai lầm",
+   "주문할 때 실수로 사이즈를 잘못 골랐어요.",
+   "Khi đặt hàng tôi lỡ chọn sai cỡ."
+  ],
+  [
+   "주의하다",
+   "Juuihada",
+   "Chú ý",
+   "세탁할 때 색이 빠질 수 있으니까 주의하세요.",
+   "Khi giặt có thể bị phai màu nên hãy chú ý."
+  ],
+  [
+   "매장",
+   "Maejang",
+   "Nơi bán hàng, nơi chôn cất",
+   "이 매장은 밤 10시까지 영업해요.",
+   "Cửa hàng này mở đến 10 giờ tối."
+  ],
+  [
+   "얼룩",
+   "Eolluk",
+   "Vết bẩn",
+   "흰 셔츠에 커피 얼룩이 생겼어요.",
+   "Áo sơ mi trắng bị dính vết cà phê."
+  ],
+  [
+   "지퍼",
+   "Jipeo",
+   "Khóa kéo",
+   "가방 지퍼가 고장 나서 수선을 맡겼어요.",
+   "Khóa kéo túi hỏng nên tôi đã gửi sửa."
+  ],
+  [
+   "보장하다",
+   "Bojanghada",
+   "Bảo đảm",
+   "이 제품은 1년 동안 품질을 보장해요.",
+   "Sản phẩm này bảo đảm chất lượng một năm."
+  ],
+  [
+   "여가 시간",
+   "Yeoga sigan",
+   "Thời gian rỗi",
+   "여가 시간에 쇼핑하는 대신 책을 읽어요.",
+   "Thời gian rảnh, thay vì đi mua sắm tôi đọc sách."
+  ],
+  [
+   "창립",
+   "Changnip",
+   "Sáng lập",
+   "창립 기념 세일을 해요.",
+   "Có đợt giảm giá kỷ niệm thành lập."
+  ],
+  [
+   "불만",
+   "Bulman",
+   "Bất mãn",
+   "배송이 늦어서 불만이 많아요.",
+   "Giao hàng chậm nên nhiều người không hài lòng."
+  ],
+  [
+   "유행을 타다",
+   "Yuhaengeul tada",
+   "Đang lưu hành",
+   "이 옷은 유행을 타지 않아서 오래 입을 수 있어요.",
+   "Áo này không theo mốt nên mặc được lâu."
+  ],
+  [
+   "판매하다",
+   "Panmaehada",
+   "Bán",
+   "이 가게는 수입 과자를 판매해요.",
+   "Cửa hàng này bán bánh kẹo nhập khẩu."
+  ],
+  [
+   "이상이 있다",
+   "Isangi itda",
+   "Có sự khác thường",
+   "제품에 이상이 있으면 교환해 드려요.",
+   "Sản phẩm có lỗi thì chúng tôi đổi cho."
+  ],
+  [
+   "포인트",
+   "Pointeu",
+   "Điểm",
+   "포인트로 커피를 샀어요.",
+   "Tôi dùng điểm tích lũy mua cà phê."
+  ],
+  [
+   "소비자",
+   "Sobija",
+   "Người tiêu dùng",
+   "소비자의 의견을 듣는 것이 중요해요.",
+   "Lắng nghe ý kiến người tiêu dùng là điều quan trọng."
+  ],
+  [
+   "일시불",
+   "Ilsibul",
+   "Trả một lần",
+   "일시불로 하시겠어요, 할부로 하시겠어요?",
+   "Anh/chị trả một lần hay trả góp ạ?"
+  ],
+  [
+   "할부",
+   "Halbu",
+   "Trả góp, trả làm nhiều lần",
+   "노트북을 3개월 할부로 샀어요.",
+   "Tôi mua laptop trả góp 3 tháng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 는/(으)ㄴ 대신(에) — Thay vì",
+   "meaning": "Mẫu này có HAI nghĩa: 1) 'Thay vì (làm A) thì (làm B)': 쇼핑하는 대신 책을 읽어요 (thay vì đi mua sắm, tôi đọc sách). 2) 'Bù lại, đổi lại': 이 옷은 비싼 대신에 질이 좋아요 (áo này đắt nhưng bù lại chất lượng tốt). Chia: ĐỘNG TỪ + 는 대신(에) (가는 대신, 먹는 대신); TÍNH TỪ + (으)ㄴ 대신(에) (비싼 대신, 작은 대신); quá khứ của động từ + (으)ㄴ 대신 (늦게 온 대신 — vì đến muộn nên bù lại…). Có thể bỏ 에. Với danh từ dùng N 대신(에) (đã học Bài 47).",
+   "examples": [
+    "여가 시간에 쇼핑하는 대신 책을 읽어요. — Thời gian rảnh thay vì mua sắm, tôi đọc sách.",
+    "이 옷은 비싼 대신에 질이 좋아요. — Áo này đắt nhưng bù lại chất lượng tốt.",
+    "택시를 타는 대신에 걸어서 왔어요. — Thay vì đi taxi, tôi đi bộ đến.",
+    "어제 늦게 퇴근한 대신에 오늘은 일찍 퇴근해요. — Hôm qua tan làm muộn nên bù lại hôm nay về sớm."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Thay vì đi taxi, tôi đi bộ.",
+   "kr": "택시를 ___ 걸어서 왔어요.",
+   "options": [
+    "타는 대신에",
+    "탄 대신에서",
+    "타 대신에"
+   ],
+   "answer": "타는 대신에",
+   "explain": "Động từ + 는 대신(에)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Áo này đắt nhưng bù lại chất lượng tốt.",
+   "kr": "이 옷은 ___ 질이 좋아요.",
+   "options": [
+    "비싼 대신에",
+    "비싸는 대신에",
+    "비쌀 대신에"
+   ],
+   "answer": "비싼 대신에",
+   "explain": "Tính từ + (으)ㄴ 대신(에)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Cửa hàng này nhỏ nhưng bù lại thân thiện.",
+   "kr": "이 가게는 ___ 친절해요.",
+   "options": [
+    "작은 대신",
+    "작는 대신",
+    "작 대신"
+   ],
+   "answer": "작은 대신",
+   "explain": "작다 có patchim → 작은 대신."
+  },
+  {
+   "type": "choice",
+   "q": "'쇼핑하는 대신 책을 읽어요' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Thay vì mua sắm, tôi đọc sách.",
+    "Tôi vừa mua sắm vừa đọc sách.",
+    "Tôi mua sắm rồi đọc sách."
+   ],
+   "answer": "Thay vì mua sắm, tôi đọc sách.",
+   "explain": "는 대신 = thay vì."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Anh/chị trả một lần hay trả góp ạ?",
+   "kr": "___로 하시겠어요, 할부로 하시겠어요?",
+   "options": [
+    "일시불",
+    "포인트",
+    "불만"
+   ],
+   "answer": "일시불",
+   "explain": "일시불 = trả một lần; 할부 = trả góp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Áo sơ mi trắng bị dính vết cà phê.",
+   "kr": "흰 셔츠에 커피 ___이 생겼어요.",
+   "options": [
+    "얼룩",
+    "구멍",
+    "지퍼"
+   ],
+   "answer": "얼룩",
+   "explain": "얼룩 = vết bẩn, vết ố."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đôi tất mới bị thủng lỗ.",
+   "kr": "새 양말에 ___이 났어요.",
+   "options": [
+    "구멍",
+    "얼룩",
+    "실수"
+   ],
+   "answer": "구멍",
+   "explain": "구멍이 나다 = bị thủng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Giao hàng chậm nên khách hàng không hài lòng.",
+   "kr": "배송이 늦어서 소비자들의 ___이 많아요.",
+   "options": [
+    "불만",
+    "창립",
+    "포인트"
+   ],
+   "answer": "불만",
+   "explain": "불만 = sự bất mãn, không hài lòng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는/(으)ㄴ 대신(에) vào 사 먹다: Thay vì mua đồ ăn, tôi tự nấu.",
+   "kr": "음식을 사 ___ 집에서 만들어요.",
+   "answer": [
+    "먹는 대신에",
+    "먹는 대신"
+   ],
+   "explain": "먹다 (động từ) → 먹는 대신(에)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는/(으)ㄴ 대신(에) vào 멀다: Nhà xa nhưng bù lại rộng.",
+   "kr": "집이 ___ 넓어요.",
+   "answer": [
+    "먼 대신에",
+    "먼 대신"
+   ],
+   "explain": "멀다 (patchim ㄹ) → 먼 대신(에)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi mua laptop trả góp 3 tháng.",
+   "kr": "노트북을 3개월 ___로 샀어요.",
+   "answer": [
+    "할부"
+   ],
+   "explain": "할부 = trả góp."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Sản phẩm có lỗi thì được đổi.",
+   "kr": "제품에 ___이 있으면 교환해 드려요.",
+   "answer": [
+    "이상"
+   ],
+   "explain": "이상이 있다 = có bất thường, có lỗi."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thời gian rảnh thay vì mua sắm tôi đọc sách.",
+   "tokens": [
+    "여가",
+    "시간에",
+    "쇼핑하는",
+    "대신",
+    "책을",
+    "읽어요"
+   ],
+   "answer": "여가 시간에 쇼핑하는 대신 책을 읽어요",
+   "explain": "쇼핑하는 대신."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đã sửa chiếc quần bị rách.",
+   "tokens": [
+    "찢어진",
+    "바지를",
+    "수선했어요"
+   ],
+   "answer": "찢어진 바지를 수선했어요",
+   "explain": "찢어지다 → 찢어진 (đã rách)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thay vì đi taxi, tôi đi xe buýt.",
+   "answer": [
+    "택시를 타는 대신에 버스를 탔어요.",
+    "택시를 타는 대신 버스를 탔어요.",
+    "택시를 타는 대신에 버스를 타요.",
+    "택시를 타는 대신 버스를 타요."
+   ],
+   "explain": "타는 대신(에)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cửa hàng này đắt nhưng bù lại chất lượng tốt.",
+   "answer": [
+    "이 가게는 비싼 대신에 질이 좋아요.",
+    "이 가게는 비싼 대신 질이 좋아요.",
+    "이 가게는 비싼 대신에 품질이 좋아요."
+   ],
+   "explain": "비싼 대신(에)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi mua sách qua mạng.",
+   "answer": [
+    "인터넷으로 책을 샀어요.",
+    "인터넷으로 책을 구입했어요.",
+    "인터넷에서 책을 샀어요.",
+    "인터넷에서 책을 구입했어요."
+   ],
+   "explain": "구입하다 = mua (trang trọng)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "이 옷은 유행을 타지 않는 대신에 디자인이 좀 무난해요.",
+   "answer": "Áo này không chạy theo mốt, nhưng đổi lại thiết kế hơi đơn giản.",
+   "explain": "는 대신에 = bù lại/đổi lại."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 손님, 이 가방은 다른 가방보다 비싼 대신에 3년 동안 품질을 보장해 드려요.\n여자: ( ___ )",
+   "options": [
+    "그래요? 그럼 이걸로 할게요.",
+    "네, 어제 샀어요.",
+    "아니요, 저는 학생이에요.",
+    "포인트가 없어요."
+   ],
+   "answer": "그래요? 그럼 이걸로 할게요.",
+   "explain": "Nghe được bảo hành 3 năm → đồng ý mua là phản ứng tự nhiên."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 28~50)",
+   "kr": "요즘 소비자들에게는 값보다 품질이 더 중요합니다. 그래서 값이 조금 비싼 대신에 품질을 보장해 주는 제품이 인기가 많습니다. 또 옷에 구멍이 나거나 지퍼가 고장 나면 버리는 대신에 수선해서 다시 입는 사람도 늘고 있습니다.",
+   "options": [
+    "요즘은 고장 난 물건을 고쳐서 쓰는 사람이 늘고 있다.",
+    "소비자들은 값만 중요하다고 생각한다.",
+    "품질을 보장하는 제품은 인기가 없다.",
+    "옷에 구멍이 나면 모두 버린다."
+   ],
+   "answer": "요즘은 고장 난 물건을 고쳐서 쓰는 사람이 늘고 있다.",
+   "explain": "Thay vì vứt đi, người sửa lại để dùng đang tăng."
+  }
+ ]
+}

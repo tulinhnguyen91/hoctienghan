@@ -1,0 +1,356 @@
+{
+ "id": "bai-55",
+ "lesson": "Bài 55",
+ "title": "Ngân hàng (phần 1/3)",
+ "krTitle": "은행 1",
+ "date": "2027-01-28",
+ "day": 71,
+ "source": "TOPIK 3 – Bài 6: Ngân hàng (phần 1/3)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "현금",
+   "Hyeongeum",
+   "Tiền mặt",
+   "요즘은 현금보다 카드를 많이 써요.",
+   "Dạo này người ta dùng thẻ nhiều hơn tiền mặt."
+  ],
+  [
+   "동전",
+   "Dongjeon",
+   "Tiền xu",
+   "동전은 잃어버리기 쉬워요.",
+   "Tiền xu dễ đánh rơi."
+  ],
+  [
+   "지폐",
+   "Jipye",
+   "Tiền giấy",
+   "한국 지폐에는 유명한 사람의 얼굴이 있어요.",
+   "Trên tiền giấy Hàn có hình người nổi tiếng."
+  ],
+  [
+   "수표",
+   "Supyo",
+   "Ngân phiếu",
+   "10만 원짜리 수표로 계산했어요.",
+   "Tôi thanh toán bằng ngân phiếu 100.000 won."
+  ],
+  [
+   "천 원짜리",
+   "Cheon wonjjari",
+   "Loại tiền 1000 won",
+   "천 원짜리 다섯 장으로 바꿔 주세요.",
+   "Đổi cho tôi năm tờ 1.000 won."
+  ],
+  [
+   "잔돈",
+   "Jandon",
+   "Tiền lẻ",
+   "잔돈이 없어서 카드로 냈어요.",
+   "Không có tiền lẻ nên tôi trả bằng thẻ."
+  ],
+  [
+   "통장",
+   "Tongjang",
+   "Sổ tài khoản",
+   "통장을 만들려고 은행에 갔어요.",
+   "Tôi đến ngân hàng để mở sổ tài khoản."
+  ],
+  [
+   "도장",
+   "Dojang",
+   "Con dấu",
+   "한국에서는 사인 대신 도장을 써요.",
+   "Ở Hàn người ta dùng con dấu thay cho chữ ký."
+  ],
+  [
+   "신분증",
+   "Sinbunjeung",
+   "Giấy chứng minh thư, căn cước",
+   "통장을 만들 때 신분증이 필요해요.",
+   "Khi mở tài khoản cần giấy tờ tùy thân."
+  ],
+  [
+   "계좌 번호",
+   "Gyejwa beonho",
+   "Số tài khoản",
+   "계좌 번호를 알려 주세요.",
+   "Cho tôi biết số tài khoản."
+  ],
+  [
+   "비밀번호",
+   "Bimilbeonho",
+   "Số bí mật, mật khẩu",
+   "비밀번호는 잊어버리기 쉬우니까 메모하세요.",
+   "Mật khẩu dễ quên nên hãy ghi lại."
+  ],
+  [
+   "현금카드",
+   "Hyeongeumkadeu",
+   "Thẻ tiền mặt",
+   "현금카드로 돈을 찾았어요.",
+   "Tôi rút tiền bằng thẻ."
+  ],
+  [
+   "현금자동입출금기 (ATM기)",
+   "Hyeongeumjadongipchulgeumgi (ei-ti-em-gi)",
+   "Máy nhập rút tiền mặt tự động",
+   "편의점에도 ATM기가 있어서 돈을 찾기 쉬워요.",
+   "Cửa hàng tiện lợi cũng có ATM nên rút tiền dễ."
+  ],
+  [
+   "입금",
+   "Ipgeum",
+   "Nhập tiền",
+   "월급이 통장에 입금됐어요.",
+   "Lương đã vào tài khoản."
+  ],
+  [
+   "출금",
+   "Chulgeum",
+   "Rút tiền",
+   "ATM기로 출금할 때 수수료가 있어요.",
+   "Rút tiền bằng ATM có mất phí."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 기 쉽다 — Dễ",
+   "meaning": "Nghĩa 1: việc gì đó DỄ LÀM: 'dễ…': 이 요리는 만들기 쉬워요 (món này dễ làm). Nghĩa 2 (rất hay gặp ở TOPIK II): việc gì đó DỄ XẢY RA (thường là điều không tốt): 동전은 잃어버리기 쉬워요 (tiền xu dễ bị mất), 겨울에는 감기에 걸리기 쉬워요 (mùa đông dễ bị cảm). Gắn 기 쉽다 vào gốc động từ; chia 쉽다 (bất quy tắc ㅂ): 쉬워요, 쉬우니까, 쉬운. Ngược nghĩa: 기 어렵다 (khó…). Dạng 기가 쉽다 cũng đúng (thêm 가 để nhấn mạnh).",
+   "examples": [
+    "동전은 잃어버리기 쉬워요. — Tiền xu dễ đánh rơi.",
+    "비밀번호는 잊어버리기 쉬우니까 메모하세요. — Mật khẩu dễ quên nên hãy ghi lại.",
+    "편의점에 ATM기가 있어서 돈을 찾기 쉬워요. — Có ATM ở cửa hàng tiện lợi nên rút tiền dễ.",
+    "이 앱은 사용하기 쉬워요. — Ứng dụng này dễ dùng."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tiền xu dễ đánh rơi.",
+   "kr": "동전은 ___.",
+   "options": [
+    "잃어버리기 쉬워요",
+    "잃어버리기 쉽어요",
+    "잃어버리는 쉬워요"
+   ],
+   "answer": "잃어버리기 쉬워요",
+   "explain": "V + 기 쉽다; 쉽다 → 쉬워요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mùa đông dễ bị cảm.",
+   "kr": "겨울에는 감기에 ___.",
+   "options": [
+    "걸리기 쉬워요",
+    "걸리게 쉬워요",
+    "걸린 쉬워요"
+   ],
+   "answer": "걸리기 쉬워요",
+   "explain": "기 쉽다 = dễ xảy ra."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ứng dụng này khó dùng.",
+   "kr": "이 앱은 ___.",
+   "options": [
+    "사용하기 어려워요",
+    "사용하게 어려워요",
+    "사용하기 어렵어요"
+   ],
+   "answer": "사용하기 어려워요",
+   "explain": "Ngược nghĩa: 기 어렵다; 어렵다 → 어려워요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mật khẩu dễ quên nên hãy ghi lại.",
+   "kr": "비밀번호는 잊어버리기 ___ 메모하세요.",
+   "options": [
+    "쉬우니까",
+    "쉽으니까",
+    "쉬워니까"
+   ],
+   "answer": "쉬우니까",
+   "explain": "쉽다 + (으)니까 → 쉬우니까."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không có tiền lẻ nên tôi trả bằng thẻ.",
+   "kr": "___이 없어서 카드로 냈어요.",
+   "options": [
+    "잔돈",
+    "수표",
+    "도장"
+   ],
+   "answer": "잔돈",
+   "explain": "잔돈 = tiền lẻ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Khi mở tài khoản cần giấy tờ tùy thân.",
+   "kr": "통장을 만들 때 ___이 필요해요.",
+   "options": [
+    "신분증",
+    "동전",
+    "지폐"
+   ],
+   "answer": "신분증",
+   "explain": "신분증 = giấy tờ tùy thân."
+  },
+  {
+   "type": "choice",
+   "q": "'입금' là gì?",
+   "kr": "",
+   "options": [
+    "Nộp tiền vào tài khoản",
+    "Rút tiền",
+    "Vay tiền"
+   ],
+   "answer": "Nộp tiền vào tài khoản",
+   "explain": "입금 = tiền vào; 출금 = tiền ra (rút)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Rút tiền bằng ATM có mất phí.",
+   "kr": "ATM기로 ___할 때 수수료가 있어요.",
+   "options": [
+    "출금",
+    "입금",
+    "도장"
+   ],
+   "answer": "출금",
+   "explain": "출금 = rút tiền."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 쉬워요 vào 만들다: Món này dễ làm.",
+   "kr": "이 요리는 ___.",
+   "answer": [
+    "만들기 쉬워요",
+    "만들기가 쉬워요"
+   ],
+   "explain": "만들 + 기 쉬워요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 쉬워요 vào 찾다: Có ATM nên rút tiền dễ.",
+   "kr": "ATM기가 있어서 돈을 ___.",
+   "answer": [
+    "찾기 쉬워요",
+    "찾기가 쉬워요"
+   ],
+   "explain": "찾 + 기 쉬워요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 어려워요 vào 외우다: Số tài khoản khó nhớ.",
+   "kr": "계좌 번호는 ___.",
+   "answer": [
+    "외우기 어려워요",
+    "외우기가 어려워요"
+   ],
+   "explain": "외우 + 기 어려워요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cho tôi biết số tài khoản.",
+   "kr": "___를 알려 주세요.",
+   "answer": [
+    "계좌 번호",
+    "계좌번호"
+   ],
+   "explain": "계좌 번호 = số tài khoản."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ứng dụng này dễ dùng.",
+   "tokens": [
+    "이",
+    "앱은",
+    "사용하기",
+    "쉬워요"
+   ],
+   "answer": "이 앱은 사용하기 쉬워요",
+   "explain": "사용하기 쉬워요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Lương đã vào tài khoản.",
+   "tokens": [
+    "월급이",
+    "통장에",
+    "입금됐어요"
+   ],
+   "answer": "월급이 통장에 입금됐어요",
+   "explain": "입금되다 = được nộp vào."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mùa đông dễ bị cảm.",
+   "answer": [
+    "겨울에는 감기에 걸리기 쉬워요.",
+    "겨울에 감기에 걸리기 쉬워요.",
+    "겨울에는 감기에 걸리기가 쉬워요."
+   ],
+   "explain": "걸리기 쉬워요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi rút tiền bằng thẻ.",
+   "answer": [
+    "현금카드로 돈을 찾았어요.",
+    "카드로 돈을 찾았어요.",
+    "현금카드로 출금했어요.",
+    "카드로 출금했어요."
+   ],
+   "explain": "돈을 찾다 = rút tiền."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đổi cho tôi năm tờ 1.000 won.",
+   "answer": [
+    "천 원짜리 다섯 장으로 바꿔 주세요.",
+    "천 원짜리 다섯 장으로 바꿔 주시겠어요?"
+   ],
+   "explain": "천 원짜리 + 장 (tờ)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "요즘은 현금보다 카드를 많이 써서 지갑에 동전이나 지폐가 거의 없어요.",
+   "answer": "Dạo này người ta dùng thẻ nhiều hơn tiền mặt nên trong ví hầu như không có tiền xu hay tiền giấy.",
+   "explain": "거의 없어요 = hầu như không có."
+  },
+  {
+   "type": "read",
+   "q": "Đây là thông báo về điều gì? (Dạng TOPIK II câu 5~8)",
+   "kr": "비밀번호 6자리를 누르세요.\n입금 · 출금 · 잔액 조회\n24시간 이용 가능",
+   "options": [
+    "현금자동입출금기",
+    "도서관",
+    "식당",
+    "병원"
+   ],
+   "answer": "현금자동입출금기",
+   "explain": "Bấm mật khẩu, nộp/rút/kiểm tra số dư, 24 giờ → máy ATM."
+  },
+  {
+   "type": "read",
+   "q": "Ý chính của người nói là gì? (Dạng TOPIK II câu 17~20)",
+   "kr": "여자: 비밀번호를 생일로 만드는 사람이 많은데 그러면 다른 사람이 알아내기 쉬워요. 그래서 비밀번호는 다른 사람이 알기 어려운 번호로 만드는 게 좋아요.",
+   "options": [
+    "비밀번호는 다른 사람이 알기 어렵게 만들어야 한다.",
+    "비밀번호는 생일로 만드는 게 좋다.",
+    "비밀번호는 자주 잊어버린다.",
+    "비밀번호는 필요 없다."
+   ],
+   "answer": "비밀번호는 다른 사람이 알기 어렵게 만들어야 한다.",
+   "explain": "Không nên đặt bằng ngày sinh vì người khác dễ đoán."
+  }
+ ]
+}

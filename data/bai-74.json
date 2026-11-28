@@ -1,0 +1,374 @@
+{
+ "id": "bai-74",
+ "lesson": "Bài 74",
+ "title": "Sự lo lắng (phần 3/4)",
+ "krTitle": "고민 3",
+ "date": "2027-02-25",
+ "day": 99,
+ "source": "TOPIK 3 – Bài 11: Sự lo lắng (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "늘다",
+   "Neulda",
+   "Tăng lên",
+   "요즘 고민이 점점 늘어.",
+   "Dạo này nỗi lo cứ tăng dần."
+  ],
+  [
+   "때로",
+   "Ttaero",
+   "Đôi khi, có lúc",
+   "때로 혼자 있고 싶을 때가 있어요.",
+   "Đôi khi có lúc tôi muốn ở một mình."
+  ],
+  [
+   "떠올리다",
+   "Tteoollida",
+   "Nhớ lại, nghĩ ra",
+   "힘들 때 가족을 떠올려요.",
+   "Lúc mệt mỏi tôi nghĩ đến gia đình."
+  ],
+  [
+   "떨치다",
+   "Tteolchida",
+   "Rũ bỏ, gạt bỏ",
+   "걱정을 떨치고 다시 시작했어요.",
+   "Tôi gạt bỏ lo lắng và bắt đầu lại."
+  ],
+  [
+   "리포트",
+   "Ripoteu",
+   "Bài báo cáo (bài tập)",
+   "지수야, 리포트 다 썼어?",
+   "Jisu ơi, viết xong bài báo cáo chưa?"
+  ],
+  [
+   "반영하다",
+   "Banyeonghada",
+   "Phản ánh, tiếp thu (ý kiến)",
+   "학생들의 의견을 반영했어요.",
+   "Đã tiếp thu ý kiến của sinh viên."
+  ],
+  [
+   "반응",
+   "Baneung",
+   "Phản ứng",
+   "친구들의 반응이 좋았어.",
+   "Phản ứng của bạn bè tốt lắm."
+  ],
+  [
+   "발달",
+   "Baldal",
+   "Sự phát triển",
+   "인터넷의 발달로 생활이 편해졌어요.",
+   "Nhờ sự phát triển của internet, cuộc sống tiện hơn."
+  ],
+  [
+   "부담",
+   "Budam",
+   "Gánh nặng, áp lực",
+   "시험 때문에 부담이 커요.",
+   "Áp lực lớn vì kỳ thi."
+  ],
+  [
+   "부딪치다",
+   "Butchida",
+   "Va chạm, đối mặt",
+   "어려운 문제에 부딪쳤어요.",
+   "Tôi đối mặt với vấn đề khó."
+  ],
+  [
+   "부적응",
+   "Bujeogeung",
+   "Không thích nghi được",
+   "외국 생활 부적응으로 힘들어하는 사람이 많아요.",
+   "Nhiều người vất vả vì không thích nghi được với cuộc sống nước ngoài."
+  ],
+  [
+   "사소하다",
+   "Sasohada",
+   "Nhỏ nhặt, vụn vặt",
+   "사소한 일로 친구와 싸웠어.",
+   "Mình cãi nhau với bạn vì chuyện nhỏ nhặt."
+  ],
+  [
+   "사연",
+   "Sayeon",
+   "Câu chuyện, tâm sự (hoàn cảnh)",
+   "라디오에 제 사연을 보냈어요.",
+   "Tôi gửi câu chuyện của mình lên radio."
+  ],
+  [
+   "사이버",
+   "Saibeo",
+   "Mạng, ảo (cyber)",
+   "사이버 상담도 받을 수 있어요.",
+   "Cũng có thể được tư vấn qua mạng."
+  ],
+  [
+   "삶",
+   "Sam",
+   "Cuộc sống, cuộc đời",
+   "행복한 삶을 살고 싶어요.",
+   "Tôi muốn sống một cuộc đời hạnh phúc."
+  ],
+  [
+   "심각하다",
+   "Simgakhada",
+   "Nghiêm trọng",
+   "문제가 생각보다 심각해요.",
+   "Vấn đề nghiêm trọng hơn tôi nghĩ."
+  ],
+  [
+   "심리",
+   "Simni",
+   "Tâm lý",
+   "심리 상담을 받아 보세요.",
+   "Hãy thử đi tư vấn tâm lý."
+  ],
+  [
+   "역할",
+   "Yeokhal",
+   "Vai trò",
+   "부모의 역할이 중요해요.",
+   "Vai trò của cha mẹ rất quan trọng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 아/야 — Này, ơi",
+   "meaning": "Tiểu từ gọi tên (호격 조사), đặt sau TÊN người khi gọi một cách thân mật — chỉ dùng với bạn bè, người nhỏ tuổi hơn, con cháu, thú cưng (đi kèm 반말). Tên có patchim + 아 (민준 → 민준아, 수빈 → 수빈아); tên không patchim + 야 (지수 → 지수야, 민호 → 민호야). Lưu ý: KHÔNG dùng với người lớn tuổi hay cấp trên (gọi 선배님, 선생님, 과장님…). Khi kể chuyện người khác (không phải gọi), tên có patchim thường thêm 이: 민준이가 왔어 (Min-jun đến rồi).",
+   "examples": [
+    "지수야, 리포트 다 썼어? — Jisu ơi, viết xong báo cáo chưa?",
+    "민준아, 같이 밥 먹자! — Min-jun à, ăn cơm cùng nhé!",
+    "수빈아, 사소한 일로 걱정하지 마. — Subin à, đừng lo vì chuyện nhỏ nhặt.",
+    "엄마: 하늘아, 일어나! — Mẹ: Haneul ơi, dậy đi!"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Gọi tên bạn: 지수",
+   "kr": "___, 뭐 해?",
+   "options": [
+    "지수야",
+    "지수아",
+    "지수이야"
+   ],
+   "answer": "지수야",
+   "explain": "지수 không patchim → 야."
+  },
+  {
+   "type": "choice",
+   "q": "Gọi tên bạn: 민준",
+   "kr": "___, 같이 가자!",
+   "options": [
+    "민준아",
+    "민준야",
+    "민준이"
+   ],
+   "answer": "민준아",
+   "explain": "민준 có patchim ㄴ → 아."
+  },
+  {
+   "type": "choice",
+   "q": "Gọi tên em: 하늘",
+   "kr": "___, 일어나!",
+   "options": [
+    "하늘아",
+    "하늘야",
+    "하늘요"
+   ],
+   "answer": "하늘아",
+   "explain": "하늘 có patchim ㄹ → 아."
+  },
+  {
+   "type": "choice",
+   "q": "Với thầy giáo, cách gọi nào đúng?",
+   "kr": "",
+   "options": [
+    "선생님,",
+    "선생아,",
+    "선생님아,"
+   ],
+   "answer": "선생님,",
+   "explain": "Không dùng 아/야 với người trên; gọi bằng chức danh + 님."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào tự nhiên nhất?",
+   "kr": "",
+   "options": [
+    "민호야, 리포트 다 썼어?",
+    "민호야, 리포트 다 썼습니까?",
+    "민호아, 리포트 다 썼어?"
+   ],
+   "answer": "민호야, 리포트 다 썼어?",
+   "explain": "아/야 đi với 반말; 민호 không patchim → 야."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Áp lực lớn vì kỳ thi.",
+   "kr": "시험 때문에 ___이 커요.",
+   "options": [
+    "부담",
+    "반응",
+    "역할"
+   ],
+   "answer": "부담",
+   "explain": "부담 = gánh nặng, áp lực."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vấn đề nghiêm trọng hơn tôi nghĩ.",
+   "kr": "문제가 생각보다 ___.",
+   "options": [
+    "심각해요",
+    "사소해요",
+    "늘어요"
+   ],
+   "answer": "심각해요",
+   "explain": "심각하다 = nghiêm trọng (ngược với 사소하다)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vai trò của cha mẹ rất quan trọng.",
+   "kr": "부모의 ___이 중요해요.",
+   "options": [
+    "역할",
+    "심리",
+    "사연"
+   ],
+   "answer": "역할",
+   "explain": "역할 = vai trò."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ gọi: 수빈",
+   "kr": "수빈___, 걱정하지 마.",
+   "answer": [
+    "아"
+   ],
+   "explain": "수빈 có patchim → 아."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ gọi: 유나",
+   "kr": "유나___, 밥 먹었어?",
+   "answer": [
+    "야"
+   ],
+   "explain": "유나 không patchim → 야."
+  },
+  {
+   "type": "fill",
+   "q": "Điền tiểu từ gọi: 서준",
+   "kr": "서준___, 이리 와.",
+   "answer": [
+    "아"
+   ],
+   "explain": "서준 có patchim → 아."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi gạt bỏ lo lắng và bắt đầu lại.",
+   "kr": "걱정을 ___ 다시 시작했어요.",
+   "answer": [
+    "떨치고"
+   ],
+   "explain": "떨치다 + 고."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Jisu ơi, viết xong bài báo cáo chưa?",
+   "tokens": [
+    "지수야",
+    "리포트",
+    "다",
+    "썼어?"
+   ],
+   "answer": "지수야 리포트 다 썼어?",
+   "explain": "Tên + 야, rồi câu 반말."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Subin à, đừng lo vì chuyện nhỏ nhặt.",
+   "tokens": [
+    "수빈아",
+    "사소한",
+    "일로",
+    "걱정하지",
+    "마"
+   ],
+   "answer": "수빈아 사소한 일로 걱정하지 마",
+   "explain": "지 마 = 반말 của 지 마세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Min-jun à, ăn cơm cùng nhé! (반말)",
+   "answer": [
+    "민준아, 같이 밥 먹자!",
+    "민준아, 밥 같이 먹자!",
+    "민준아 같이 밥 먹자"
+   ],
+   "explain": "민준아 + 먹자."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy thử đi tư vấn tâm lý.",
+   "answer": [
+    "심리 상담을 받아 보세요.",
+    "심리 상담을 한번 받아 보세요."
+   ],
+   "explain": "상담을 받다 + 아 보세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Dạo này nỗi lo cứ tăng dần. (반말)",
+   "answer": [
+    "요즘 고민이 점점 늘어.",
+    "요즘 걱정이 점점 늘어.",
+    "요즘 고민이 계속 늘어."
+   ],
+   "explain": "늘다 → 늘어."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "인터넷의 발달로 사이버 상담이 늘었어요. 그래서 사소한 고민도 쉽게 이야기할 수 있어요.",
+   "answer": "Nhờ sự phát triển của internet, tư vấn qua mạng đã tăng lên. Vì vậy cả những nỗi lo nhỏ nhặt cũng có thể dễ dàng chia sẻ.",
+   "explain": "N의 발달로 = nhờ sự phát triển của N."
+  },
+  {
+   "type": "read",
+   "q": "Chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 지수야, 요즘 얼굴이 안 좋아. 무슨 일 있어?\n여자: 리포트 때문에 부담이 너무 커. 잠도 못 자.\n남자: 그럼 학교 상담실에 한번 가 봐. 심리 상담도 해 줘.\n여자: 그래? 그럼 지금 전화해서 예약할게.",
+   "options": [
+    "상담실에 전화해서 예약한다.",
+    "리포트를 제출한다.",
+    "잠을 잔다.",
+    "남자와 같이 밥을 먹는다."
+   ],
+   "answer": "상담실에 전화해서 예약한다.",
+   "explain": "지금 전화해서 예약할게 → gọi điện đặt lịch."
+  },
+  {
+   "type": "read",
+   "q": "Sắp xếp các câu theo thứ tự đúng. (Dạng TOPIK II câu 13~15)",
+   "kr": "(가) 그래서 라디오에 제 사연을 보냈습니다.\n(나) 저는 외국 생활에 부적응해서 힘들었습니다.\n(다) 며칠 후 진행자가 제 사연을 읽어 주었습니다.\n(라) 많은 사람들의 따뜻한 반응 덕분에 힘이 났습니다.",
+   "options": [
+    "(나)-(가)-(다)-(라)",
+    "(가)-(나)-(라)-(다)",
+    "(나)-(다)-(가)-(라)",
+    "(다)-(나)-(가)-(라)"
+   ],
+   "answer": "(나)-(가)-(다)-(라)",
+   "explain": "Khó khăn (나) → gửi tâm sự (가) → được đọc (다) → kết quả (라)."
+  }
+ ]
+}

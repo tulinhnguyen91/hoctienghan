@@ -1,0 +1,53 @@
+{
+ "id": "bai-91",
+ "lesson": "Bài 91",
+ "title": "Thời trang (phần 1/4)",
+ "krTitle": "유행 1",
+ "date": "2027-03-23",
+ "day": 125,
+ "source": "TOPIK 4 – Bài 1: Thời trang (phần 1/4)",
+ "practice": {"listening": "Nghe – câu 21~30: Hội thoại dài", "reading": "Đọc – câu 13~15: Sắp xếp câu"},
+ "words": [
+  ["유행", "Yuhaeng", "Thời trang, thịnh hành, mốt", "요즘 이런 바지가 유행인가 봐요.", "Hình như dạo này kiểu quần này đang thịnh."],
+  ["패션 관련 어휘", "Paesyeon gwallyeon eohwi", "Từ vựng liên quan đến thời trang", "패션 관련 어휘를 정리해 봅시다.", "Hãy cùng tổng hợp từ vựng về thời trang."],
+  ["멋쟁이", "Meotjaengi", "Người sành điệu", "우리 할아버지는 멋쟁이세요.", "Ông tôi là người rất sành điệu."],
+  ["상표/브랜드", "Sangpyo/beuraendeu", "Thương hiệu", "저는 상표보다 디자인을 봐요.", "Tôi xem thiết kế hơn là thương hiệu."],
+  ["액세서리", "Aekseseori", "Đồ trang sức, phụ kiện", "액세서리 하나로 분위기가 달라져요.", "Chỉ một món phụ kiện là không khí khác hẳn."],
+  ["패션 감각", "Paesyeon gamgak", "Gu thời trang", "그 사람은 패션 감각이 뛰어나요.", "Người đó có gu thời trang xuất sắc."],
+  ["신상품", "Sinsangpum", "Sản phẩm mới", "봄 신상품이 나왔어요.", "Sản phẩm mới mùa xuân đã ra."],
+  ["의상/복장", "Uisang/bokjang", "Y phục/trang phục", "면접에는 단정한 복장이 좋아요.", "Đi phỏng vấn nên mặc trang phục gọn gàng."],
+  ["패션 소품", "Paesyeon sopum", "Phụ kiện thời trang", "모자나 가방 같은 패션 소품을 좋아해요.", "Tôi thích phụ kiện như mũ hay túi."],
+  ["디자인", "Dijain", "Mẫu mã, thiết kế", "이 가방은 디자인이 독특해요.", "Chiếc túi này thiết kế độc đáo."],
+  ["옷맵시/스타일", "Onmaepsi/seutail", "Kiểu dáng, phong cách", "그녀는 옷맵시가 좋아요.", "Cô ấy mặc gì cũng đẹp dáng."],
+  ["개성", "Gaeseong", "Cá tính", "요즘 젊은이들은 개성을 중요하게 생각해요.", "Giới trẻ ngày nay coi trọng cá tính."],
+  ["복고풍", "Bokgopung", "Phong cách cổ điển (retro)", "요즘 복고풍 패션이 다시 유행해요.", "Dạo này thời trang retro lại thịnh hành."],
+  ["미용 관련 어휘", "Miyong gwallyeon eohwi", "Từ liên quan đến làm đẹp", "미용 관련 어휘도 배워 봐요.", "Cùng học cả từ vựng làm đẹp nhé."],
+  ["머리를 하다", "Meorireul hada", "Làm tóc", "주말에 미용실에서 머리를 했어요.", "Cuối tuần tôi đi làm tóc ở tiệm."],
+  ["염색을 하다", "Yeomsaegeul hada", "Nhuộm tóc", "민지 씨가 염색을 했나 봐요.", "Hình như Minji nhuộm tóc rồi."]
+ ],
+ "patterns": [
+  {"form": "V + 나 보다 / A + (으)ㄴ가 보다 — Hình như, chắc là", "meaning": "Người nói PHỎNG ĐOÁN dựa trên điều mình vừa quan sát được (một dấu hiệu, bằng chứng): 'hình như…, chắc là…'. Chia: ĐỘNG TỪ + 나 보다 (오다 → 오나 봐요, 먹다 → 먹나 봐요; quá khứ 았/었나 보다: 했나 봐요); TÍNH TỪ có patchim + 은가 보다 (많다 → 많은가 봐요), không patchim + ㄴ가 보다 (바쁘다 → 바쁜가 봐요); 있다/없다 + 나 보다 (맛있나 봐요); DANH TỪ + 인가 보다 (유행인가 봐요). Lưu ý: (1) không dùng cho bản thân mình (✗ 제가 배고픈가 봐요 — trừ khi tự nhận ra); (2) phải có căn cứ quan sát; (3) so với (으)ㄴ/는 것 같다 (đã học): 것 같다 dùng rộng (cả ý kiến chủ quan), 나 보다 chỉ dùng khi suy đoán từ dấu hiệu bên ngoài.", "examples": ["사람들이 우산을 쓰고 있네요. 밖에 비가 오나 봐요. — Mọi người đang che ô. Hình như ngoài trời mưa.", "민지 씨 머리 색이 바뀌었어요. 염색을 했나 봐요. — Màu tóc Minji đổi rồi. Chắc là đã nhuộm.", "가게 앞에 줄이 길어요. 그 빵이 정말 맛있나 봐요. — Trước tiệm xếp hàng dài. Chắc bánh đó ngon lắm.", "다들 이 바지를 입네요. 요즘 유행인가 봐요. — Ai cũng mặc quần này. Hình như đang là mốt."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Mọi người che ô. Hình như ngoài trời mưa.", "kr": "밖에 비가 ___.", "options": ["오나 봐요", "온가 봐요", "와 봐요"], "answer": "오나 봐요", "explain": "Động từ + 나 보다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Anh ấy không nghe máy. Chắc là bận.", "kr": "전화를 안 받네요. ___.", "options": ["바쁜가 봐요", "바쁘나 봐요", "바쁜다 봐요"], "answer": "바쁜가 봐요", "explain": "Tính từ không patchim + ㄴ가 보다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Ai cũng mặc quần này. Hình như đang là mốt.", "kr": "요즘 ___.", "options": ["유행인가 봐요", "유행나 봐요", "유행은가 봐요"], "answer": "유행인가 봐요", "explain": "Danh từ + 인가 보다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Trước tiệm xếp hàng dài. Chắc bánh ngon lắm.", "kr": "그 빵이 정말 ___.", "options": ["맛있나 봐요", "맛있은가 봐요", "맛있은 봐요"], "answer": "맛있나 봐요", "explain": "있다/없다 → 나 보다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Tóc đổi màu rồi. Chắc là đã nhuộm.", "kr": "염색을 ___.", "options": ["했나 봐요", "한가 봐요", "하나 봤어요"], "answer": "했나 봐요", "explain": "Quá khứ: 았/었나 보다."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Người đó có gu thời trang xuất sắc.", "kr": "그 사람은 ___이 뛰어나요.", "options": ["패션 감각", "신상품", "상표"], "answer": "패션 감각", "explain": "패션 감각 = gu thời trang."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Dạo này thời trang retro lại thịnh hành.", "kr": "요즘 ___ 패션이 다시 유행해요.", "options": ["복고풍", "개성", "멋쟁이"], "answer": "복고풍", "explain": "복고풍 = phong cách cổ điển."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Giới trẻ coi trọng cá tính.", "kr": "젊은이들은 ___을 중요하게 생각해요.", "options": ["개성", "복장", "디자인"], "answer": "개성", "explain": "개성 = cá tính."},
+  {"type": "fill", "q": "Điền: Đèn tắt rồi. Chắc là anh ấy ngủ rồi.", "kr": "불이 꺼졌어요. 벌써 잤___ 봐요.", "answer": ["나"], "explain": "잤나 봐요."},
+  {"type": "fill", "q": "Điền: Áo khoác đắt quá. Chắc là hàng hiệu.", "kr": "비싸네요. 유명한 브랜드___ 봐요.", "answer": ["인가"], "explain": "N + 인가 보다."},
+  {"type": "fill", "q": "Điền: Trẻ con khóc mãi. Chắc là đói.", "kr": "아이가 계속 울어요. 배가 고프___ 봐요.", "answer": ["ㄴ가", "고픈가"], "explain": "고프다 → 고픈가 봐요."},
+  {"type": "fill", "q": "Điền từ: Sản phẩm mới mùa xuân đã ra.", "kr": "봄 ___이 나왔어요.", "answer": ["신상품"], "explain": "신상품 = sản phẩm mới."},
+  {"type": "order", "q": "Sắp xếp thành câu: Hình như dạo này kiểu quần này đang thịnh.", "tokens": ["요즘", "이런", "바지가", "유행인가", "봐요"], "answer": "요즘 이런 바지가 유행인가 봐요", "explain": "N인가 보다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Hình như Minji nhuộm tóc rồi.", "tokens": ["민지", "씨가", "염색을", "했나", "봐요"], "answer": "민지 씨가 염색을 했나 봐요", "explain": "했나 보다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Hình như ngoài trời mưa.", "answer": ["밖에 비가 오나 봐요.", "밖에 비가 오나 봐.", "비가 오나 봐요."], "explain": "오나 봐요."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Chắc là anh ấy bận.", "answer": ["그 사람은 바쁜가 봐요.", "그는 바쁜가 봐요.", "바쁜가 봐요."], "explain": "바쁜가 봐요."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Đi phỏng vấn nên mặc trang phục gọn gàng.", "answer": ["면접에는 단정한 복장이 좋아요.", "면접 때는 단정한 복장이 좋아요.", "면접에는 단정한 옷이 좋아요."], "explain": "단정하다 = gọn gàng."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "길에 복고풍 옷을 입은 사람들이 많네요. 요즘 옛날 스타일이 다시 유행인가 봐요.", "answer": "Ngoài đường nhiều người mặc đồ phong cách retro quá. Hình như dạo này phong cách xưa lại đang thịnh.", "explain": "유행인가 봐요 = phỏng đoán từ quan sát."},
+  {"type": "read", "q": "Nghe hội thoại và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)", "kr": "남자: 수진 씨, 머리 했어요? 정말 잘 어울려요.\n여자: 고마워요. 어제 염색도 하고 파마도 했어요.\n남자: 요즘 그 색깔이 유행인가 봐요. 우리 회사에도 그런 머리를 한 사람이 많아요.\n여자: 맞아요. 미용실 선생님도 올봄 최신 유행이라고 하셨어요.", "options": ["여자는 어제 미용실에 갔다.", "남자가 염색을 했다.", "그 머리 색은 유행이 지났다.", "회사에 그런 머리를 한 사람이 없다."], "answer": "여자는 어제 미용실에 갔다.", "explain": "어제 염색도 하고 파마도 했어요."},
+  {"type": "read", "q": "Sắp xếp các câu theo thứ tự đúng. (Dạng TOPIK II câu 13~15)", "kr": "(가) 그런데 요즘에는 자기 개성에 맞는 옷을 고르는 사람이 많아졌다.\n(나) 예전에는 유명한 상표의 옷을 입는 것이 유행이었다.\n(다) 그래서 작은 브랜드의 독특한 디자인도 인기를 얻고 있다.\n(라) 비싸도 사람들은 브랜드만 보고 옷을 샀다.", "options": ["(나)-(라)-(가)-(다)", "(가)-(나)-(라)-(다)", "(나)-(가)-(라)-(다)", "(라)-(나)-(다)-(가)"], "answer": "(나)-(라)-(가)-(다)", "explain": "Trước đây (나) → chi tiết (라) → nhưng nay (가) → vì vậy (다)."}
+ ]
+}

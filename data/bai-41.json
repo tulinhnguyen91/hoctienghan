@@ -1,0 +1,392 @@
+{
+ "id": "bai-41",
+ "lesson": "Bài 41",
+ "title": "Đối nhân xử thế (phần 2/3)",
+ "krTitle": "대인 관계 2",
+ "date": "2027-01-07",
+ "day": 50,
+ "source": "TOPIK 3 – Bài 2: Đối nhân xử thế (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "모임",
+   "Moim",
+   "Cuộc họp, hội ý",
+   "오늘 저녁에 동아리 모임이 있어요.",
+   "Tối nay có buổi họp câu lạc bộ."
+  ],
+  [
+   "송별회",
+   "Songbyeolhoe",
+   "Tiệc chia tay",
+   "귀국하는 친구를 위해서 송별회를 했어요.",
+   "Chúng tôi làm tiệc chia tay cho người bạn về nước."
+  ],
+  [
+   "동창회",
+   "Dongchanghoe",
+   "Họp mặt bạn cùng lớp",
+   "동창회에 가는 길이에요.",
+   "Tôi đang trên đường đi họp lớp."
+  ],
+  [
+   "송년회",
+   "Songnyeonhoe",
+   "Tiệc tất niên",
+   "12월에는 송년회가 많아요.",
+   "Tháng 12 có nhiều tiệc tất niên."
+  ],
+  [
+   "동호회",
+   "Donghohoe",
+   "Hội người cùng sở thích",
+   "등산 동호회에 가입했어요.",
+   "Tôi đã tham gia hội leo núi."
+  ],
+  [
+   "회식",
+   "Hoesik",
+   "Liên hoan công ty",
+   "오늘은 회사 회식이 있어서 늦을 거예요.",
+   "Hôm nay công ty liên hoan nên tôi sẽ về muộn."
+  ],
+  [
+   "야유회",
+   "Yayuhoe",
+   "Buổi picnic",
+   "봄에 회사에서 야유회를 가요.",
+   "Mùa xuân công ty đi dã ngoại."
+  ],
+  [
+   "정기 모임",
+   "Jeonggi moim",
+   "Họp mặt định kỳ",
+   "정기 모임은 매달 첫째 토요일이에요.",
+   "Họp định kỳ vào thứ Bảy đầu tiên mỗi tháng."
+  ],
+  [
+   "회비",
+   "Hoebi",
+   "Hội phí",
+   "회비는 한 달에 만 원이에요.",
+   "Hội phí một tháng 10.000 won."
+  ],
+  [
+   "연락",
+   "Yeollak",
+   "Liên lạc",
+   "모임 장소가 바뀌면 연락해 주세요.",
+   "Nếu đổi địa điểm họp thì liên lạc cho tôi nhé."
+  ],
+  [
+   "취소",
+   "Chwiso",
+   "Hủy bỏ",
+   "비 때문에 야유회가 취소됐어요.",
+   "Vì mưa nên buổi dã ngoại bị hủy."
+  ],
+  [
+   "변경",
+   "Byeongyeong",
+   "Thay đổi",
+   "모임 시간이 변경됐어요.",
+   "Giờ họp đã được thay đổi."
+  ],
+  [
+   "가능하면",
+   "Ganeunghamyeon",
+   "Nếu có thể",
+   "가능하면 일찍 오세요.",
+   "Nếu có thể thì đến sớm nhé."
+  ],
+  [
+   "부드럽다",
+   "Budeureopda",
+   "Mềm mại, nhẹ nhàng",
+   "선배는 말투가 부드러워요.",
+   "Đàn anh có giọng nói nhẹ nhàng."
+  ],
+  [
+   "염려",
+   "Yeomnyeo",
+   "Sự lo lắng, sự lo nghĩ",
+   "염려해 주셔서 감사합니다.",
+   "Cảm ơn anh/chị đã lo lắng cho tôi."
+  ],
+  [
+   "겁이 나다",
+   "Geobi nada",
+   "Lo sợ, sợ hãi",
+   "처음 모임에 가는 길이라서 겁이 나요.",
+   "Đây là lần đầu đi họp mặt nên tôi thấy sợ."
+  ],
+  [
+   "사람을 대하다",
+   "Sarameul daehada",
+   "Tiếp xúc với con người, giao tiếp với con người",
+   "그 사람은 사람을 대하는 태도가 좋아요.",
+   "Người đó có thái độ đối xử với mọi người rất tốt."
+  ],
+  [
+   "요약",
+   "Yoyak",
+   "Tóm lược",
+   "회의 내용을 요약해 주세요.",
+   "Hãy tóm tắt nội dung cuộc họp."
+  ],
+  [
+   "농담",
+   "Nongdam",
+   "Sự nói đùa, trò đùa",
+   "농담이에요. 걱정하지 마세요.",
+   "Tôi đùa thôi. Đừng lo."
+  ],
+  [
+   "사정",
+   "Sajeong",
+   "Lý do riêng, việc riêng",
+   "개인 사정 때문에 모임에 못 가요.",
+   "Vì việc riêng nên tôi không đi họp được."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 길이다 — Đang trên đường",
+   "meaning": "Diễn tả người nói ĐANG trên đường đi/đến đâu đó, hoặc đang trong lúc di chuyển thì gặp việc gì: 'đang trên đường…'. Chỉ dùng với động từ di chuyển: 가다, 오다, 돌아가다, 들어가다, 나가다, 출근하다, 퇴근하다… Cấu trúc: V + 는 길이다 (회사에 가는 길이에요). Nối câu: 는 길에 (trên đường… thì…): 집에 오는 길에 친구를 만났어요 (trên đường về nhà tôi gặp bạn). LỖI HAY GẶP: dùng với động từ không di chuyển (밥을 먹는 길이에요 ✗).",
+   "examples": [
+    "지금 동창회에 가는 길이에요. — Bây giờ tôi đang trên đường đi họp lớp.",
+    "퇴근하는 길에 빵을 샀어요. — Trên đường tan làm tôi đã mua bánh mì.",
+    "어디 가는 길이에요? — Bạn đang đi đâu đấy?",
+    "학교에 오는 길에 사고가 났어요. — Trên đường đến trường đã xảy ra tai nạn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đang trên đường đi họp lớp.",
+   "kr": "동창회에 ___.",
+   "options": [
+    "가는 길이에요",
+    "간 길이에요",
+    "갈 길이에요"
+   ],
+   "answer": "가는 길이에요",
+   "explain": "V + 는 길이다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Trên đường tan làm tôi mua bánh mì.",
+   "kr": "___ 빵을 샀어요.",
+   "options": [
+    "퇴근하는 길에",
+    "퇴근한 길에",
+    "퇴근하는 길이에"
+   ],
+   "answer": "퇴근하는 길에",
+   "explain": "는 길에 = trên đường… thì…"
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào SAI?",
+   "kr": "",
+   "options": [
+    "지금 밥을 먹는 길이에요.",
+    "지금 집에 가는 길이에요.",
+    "학교에 오는 길이에요."
+   ],
+   "answer": "지금 밥을 먹는 길이에요.",
+   "explain": "는 길이다 chỉ dùng với động từ di chuyển."
+  },
+  {
+   "type": "choice",
+   "q": "Hỏi: 'Bạn đang đi đâu đấy?'",
+   "kr": "",
+   "options": [
+    "어디 가는 길이에요?",
+    "어디 간 길이에요?",
+    "어디 가는 길이 있어요?"
+   ],
+   "answer": "어디 가는 길이에요?",
+   "explain": "Câu chào hỏi rất hay dùng khi gặp nhau trên đường."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tháng 12 có nhiều tiệc tất niên.",
+   "kr": "12월에는 ___가 많아요.",
+   "options": [
+    "송년회",
+    "송별회",
+    "야유회"
+   ],
+   "answer": "송년회",
+   "explain": "송년 = tiễn năm cũ → tiệc tất niên. 송별회 = tiệc chia tay người."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vì việc riêng nên tôi không đi được.",
+   "kr": "개인 ___ 때문에 못 가요.",
+   "options": [
+    "사정",
+    "농담",
+    "요약"
+   ],
+   "answer": "사정",
+   "explain": "개인 사정 = việc riêng."
+  },
+  {
+   "type": "choice",
+   "q": "Buổi gặp mặt bạn học cũ gọi là gì?",
+   "kr": "",
+   "options": [
+    "동창회",
+    "동호회",
+    "회식"
+   ],
+   "answer": "동창회",
+   "explain": "동창 = bạn cùng trường → 동창회."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi đã tham gia hội leo núi.",
+   "kr": "등산 ___에 가입했어요.",
+   "options": [
+    "동호회",
+    "동창회",
+    "송년회"
+   ],
+   "answer": "동호회",
+   "explain": "동호회 = hội những người cùng sở thích."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 길이에요 vào 출근하다: Tôi đang trên đường đi làm.",
+   "kr": "지금 ___.",
+   "answer": [
+    "출근하는 길이에요"
+   ],
+   "explain": "출근하 + 는 길이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 길에 vào 오다: Trên đường đến trường tôi gặp bạn.",
+   "kr": "학교에 ___ 친구를 만났어요.",
+   "answer": [
+    "오는 길에"
+   ],
+   "explain": "오 + 는 길에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 길이에요 vào 돌아가다: Tôi đang trên đường về nhà.",
+   "kr": "집에 ___.",
+   "answer": [
+    "돌아가는 길이에요",
+    "가는 길이에요"
+   ],
+   "explain": "돌아가 + 는 길이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nếu có thể thì đến sớm nhé.",
+   "kr": "___ 일찍 오세요.",
+   "answer": [
+    "가능하면"
+   ],
+   "explain": "가능하면 = nếu có thể."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Trên đường về nhà tôi đã ghé siêu thị.",
+   "tokens": [
+    "집에",
+    "오는",
+    "길에",
+    "마트에",
+    "들렀어요"
+   ],
+   "answer": "집에 오는 길에 마트에 들렀어요",
+   "explain": "는 길에 + 들르다 (ghé)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Vì mưa nên buổi dã ngoại bị hủy.",
+   "tokens": [
+    "비",
+    "때문에",
+    "야유회가",
+    "취소됐어요"
+   ],
+   "answer": "비 때문에 야유회가 취소됐어요",
+   "explain": "취소되다 = bị hủy."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đang trên đường đến công ty.",
+   "answer": [
+    "회사에 가는 길이에요.",
+    "지금 회사에 가는 길이에요.",
+    "출근하는 길이에요.",
+    "지금 출근하는 길이에요."
+   ],
+   "explain": "가다 → 가는 길이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đùa thôi.",
+   "answer": [
+    "농담이에요.",
+    "농담이었어요.",
+    "그냥 농담이에요."
+   ],
+   "explain": "농담 = câu đùa."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giờ họp đã được thay đổi.",
+   "answer": [
+    "모임 시간이 변경됐어요.",
+    "모임 시간이 바뀌었어요.",
+    "회의 시간이 변경됐어요.",
+    "회의 시간이 바뀌었어요."
+   ],
+   "explain": "변경되다 = được thay đổi."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "회사에서 집에 돌아가는 길에 오랜만에 동창을 만났어요.",
+   "answer": "Trên đường từ công ty về nhà, lâu lắm rồi tôi mới gặp lại bạn học cũ.",
+   "explain": "돌아가는 길에 = trên đường về; 오랜만에 = sau một thời gian dài."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất cho tiêu đề báo. (Dạng TOPIK II câu 25~27)",
+   "kr": "연말 송년회, '술 대신 문화 체험' 늘어",
+   "options": [
+    "Cuối năm, tiệc tất niên tổ chức trải nghiệm văn hóa thay vì uống rượu ngày càng nhiều.",
+    "Cuối năm, tiệc tất niên uống rượu ngày càng nhiều.",
+    "Tiệc tất niên cuối năm bị hủy.",
+    "Trải nghiệm văn hóa cuối năm giảm."
+   ],
+   "answer": "Cuối năm, tiệc tất niên tổ chức trải nghiệm văn hóa thay vì uống rượu ngày càng nhiều.",
+   "explain": "술 대신 = thay vì rượu; 늘다 = tăng lên."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)",
+   "kr": "【사진 동호회 정기 모임 안내】\n• 날짜: 매달 첫째 토요일 오후 2시\n• 장소: 학생회관 3층 (※ 이번 달만 2층으로 변경)\n• 회비: 한 달 1만 원\n• 사정이 있어서 못 오면 미리 연락해 주세요.",
+   "options": [
+    "이번 달 모임은 2층에서 해요.",
+    "모임은 매주 토요일에 있어요.",
+    "회비는 1년에 1만 원이에요.",
+    "못 오는 사람은 연락하지 않아도 돼요."
+   ],
+   "answer": "이번 달 모임은 2층에서 해요.",
+   "explain": "Chỉ tháng này đổi xuống tầng 2. Họp thứ Bảy đầu tiên mỗi tháng; hội phí 10.000/tháng; nếu không đến được phải báo trước."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "bai-56",
+ "lesson": "Bài 56",
+ "title": "Ngân hàng (phần 2/3)",
+ "krTitle": "은행 2",
+ "date": "2027-01-29",
+ "day": 72,
+ "source": "TOPIK 3 – Bài 6: Ngân hàng (phần 2/3)",
+ "practice": {"listening": "Nghe – câu 21~30: Hội thoại dài", "reading": "Đọc – câu 9~12: Chọn nội dung đúng"},
+ "words": [
+  ["계좌 이체", "Gyejwa iche", "Chuyển tiền qua tài khoản", "인터넷으로 계좌 이체를 했어요.", "Tôi chuyển khoản qua mạng."],
+  ["잔액 조회", "Janaek johoe", "Kiểm tra tiền dư", "ATM기에서 잔액 조회를 했어요.", "Tôi kiểm tra số dư ở ATM."],
+  ["통장 정리", "Tongjang jeongni", "Kiểm tra (in) sổ tài khoản", "은행에서 통장 정리를 했어요.", "Tôi in cập nhật sổ tài khoản ở ngân hàng."],
+  ["예금하다", "Yegeumhada", "Gửi tiền vào ngân hàng", "월급의 반을 예금해요.", "Tôi gửi ngân hàng một nửa tiền lương."],
+  ["송금하다", "Songgeumhada", "Gửi tiền, chuyển tiền", "베트남에 계신 부모님께 송금했어요.", "Tôi đã gửi tiền cho bố mẹ ở Việt Nam."],
+  ["환전하다", "Hwanjeonhada", "Đổi tiền", "여행 가기 전에 달러로 환전했어요.", "Trước khi đi du lịch tôi đã đổi sang đô la."],
+  ["대출하다", "Daechulhada", "Vay tiền", "집을 사려고 은행에서 대출했어요.", "Tôi vay ngân hàng để mua nhà."],
+  ["통장을 개설하다", "Tongjangeul gaeseolhada", "Mở sổ tài khoản", "외국인도 통장을 개설할 수 있어요.", "Người nước ngoài cũng mở được tài khoản."],
+  ["적금을 들다", "Jeokgeumeul deulda", "Gửi tiết kiệm định kỳ", "여행 가려고 매달 적금을 들어요.", "Tôi gửi tiết kiệm hằng tháng để đi du lịch."],
+  ["수수료를 내다", "Susuryoreul naeda", "Trả tiền lệ phí, hoa hồng", "해외 송금은 수수료를 내야 해요.", "Chuyển tiền ra nước ngoài phải trả phí."],
+  ["공과금을 내다", "Gonggwageumeul naeda", "Nộp chi phí công cộng (điện, nước, gas)", "매달 25일에 공과금을 내요.", "Ngày 25 hằng tháng tôi nộp tiền điện nước."],
+  ["자동이체를 하다", "Jadongichereul hada", "Chuyển tiền tự động", "월세를 자동이체로 내요.", "Tôi trả tiền thuê nhà bằng chuyển khoản tự động."],
+  ["텔레뱅킹을 하다", "Tellebaengkingeul hada", "Giao dịch ngân hàng qua điện thoại", "할머니는 텔레뱅킹을 하세요.", "Bà tôi giao dịch ngân hàng qua điện thoại."],
+  ["인터넷뱅킹을 하다", "Inteonetbaengkingeul hada", "Giao dịch ngân hàng qua mạng", "은행에 가는 대신 인터넷뱅킹을 해요.", "Thay vì đến ngân hàng tôi giao dịch qua mạng."],
+  ["동전을 교환하다", "Dongjeoneul gyohwanhada", "Đổi tiền xu", "모은 동전을 지폐로 교환했어요.", "Tôi đổi tiền xu tích được sang tiền giấy."]
+ ],
+ "patterns": [
+  {"form": "V + 는 동안 — Trong lúc", "meaning": "Diễn tả khoảng thời gian một hành động kéo dài, và trong khoảng đó có việc khác xảy ra: 'trong lúc…, trong khi…'. Gắn 는 동안 vào gốc động từ: 기다리다 → 기다리는 동안, 살다 → 사는 동안 (ㄹ mất). Hai vế có thể KHÁC chủ ngữ: 제가 요리하는 동안 동생은 청소했어요 (trong lúc tôi nấu ăn thì em dọn dẹp). Với danh từ thời gian: N 동안 (일주일 동안, 방학 동안). So sánh với (으)면서 (vừa… vừa) — (으)면서 bắt buộc cùng một chủ ngữ.", "examples": ["은행에서 기다리는 동안 책을 읽었어요. — Trong lúc chờ ở ngân hàng tôi đọc sách.", "제가 환전하는 동안 친구는 커피를 샀어요. — Trong lúc tôi đổi tiền thì bạn mua cà phê.", "한국에 사는 동안 많은 경험을 했어요. — Trong thời gian sống ở Hàn tôi có nhiều trải nghiệm.", "방학 동안 아르바이트를 해서 적금을 들었어요. — Trong kỳ nghỉ tôi làm thêm và gửi tiết kiệm."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Trong lúc chờ tôi đọc sách.", "kr": "___ 책을 읽었어요.", "options": ["기다리는 동안", "기다린 동안", "기다리기 동안"], "answer": "기다리는 동안", "explain": "V + 는 동안."},
+  {"type": "choice", "q": "Chọn dạng đúng: Trong thời gian sống ở Hàn…", "kr": "한국에 ___ 많은 경험을 했어요.", "options": ["사는 동안", "살는 동안", "산 동안"], "answer": "사는 동안", "explain": "살다 → ㄹ mất trước 는: 사는 동안."},
+  {"type": "choice", "q": "Câu nào có HAI chủ ngữ khác nhau (dùng được với 는 동안 nhưng không dùng (으)면서)?", "kr": "", "options": ["제가 요리하는 동안 동생은 청소했어요.", "저는 음악을 들으면서 공부해요.", "밥을 먹으면서 이야기해요."], "answer": "제가 요리하는 동안 동생은 청소했어요.", "explain": "는 동안 cho phép hai chủ ngữ khác nhau; (으)면서 phải cùng chủ ngữ."},
+  {"type": "choice", "q": "Chọn dạng đúng: Trong kỳ nghỉ tôi làm thêm.", "kr": "___ 아르바이트를 했어요.", "options": ["방학 동안", "방학하는 동안에서", "방학 동안이"], "answer": "방학 동안", "explain": "N 동안."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Tôi đã gửi tiền cho bố mẹ ở Việt Nam.", "kr": "베트남에 계신 부모님께 ___.", "options": ["송금했어요", "대출했어요", "환전했어요"], "answer": "송금했어요", "explain": "송금하다 = chuyển tiền (cho người khác)."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Tôi vay ngân hàng để mua nhà.", "kr": "집을 사려고 은행에서 ___.", "options": ["대출했어요", "예금했어요", "적금을 들었어요"], "answer": "대출했어요", "explain": "대출하다 = vay tiền."},
+  {"type": "choice", "q": "Tiền điện, nước, gas hằng tháng gọi chung là gì?", "kr": "", "options": ["공과금", "수수료", "적금"], "answer": "공과금", "explain": "공과금 = các khoản phí công cộng."},
+  {"type": "choice", "q": "Kiểm tra số dư tài khoản là gì?", "kr": "", "options": ["잔액 조회", "계좌 이체", "통장 개설"], "answer": "잔액 조회", "explain": "잔액 = số dư; 조회 = tra cứu."},
+  {"type": "fill", "q": "Điền 는 동안 vào 환전하다: Trong lúc tôi đổi tiền, bạn mua cà phê.", "kr": "제가 ___ 친구는 커피를 샀어요.", "answer": ["환전하는 동안"], "explain": "환전하 + 는 동안."},
+  {"type": "fill", "q": "Điền 는 동안 vào 자다: Trong lúc tôi ngủ, mẹ đã về.", "kr": "제가 ___ 엄마가 오셨어요.", "answer": ["자는 동안"], "explain": "자 + 는 동안."},
+  {"type": "fill", "q": "Điền từ: Tôi trả tiền thuê nhà bằng chuyển khoản tự động.", "kr": "월세를 ___로 내요.", "answer": ["자동이체"], "explain": "자동이체 = chuyển khoản tự động."},
+  {"type": "fill", "q": "Điền từ: Chuyển tiền ra nước ngoài phải trả phí.", "kr": "해외 송금은 ___를 내야 해요.", "answer": ["수수료"], "explain": "수수료 = phí dịch vụ."},
+  {"type": "order", "q": "Sắp xếp thành câu: Trong lúc chờ ở ngân hàng tôi đọc sách.", "tokens": ["은행에서", "기다리는", "동안", "책을", "읽었어요"], "answer": "은행에서 기다리는 동안 책을 읽었어요", "explain": "기다리는 동안."},
+  {"type": "order", "q": "Sắp xếp thành câu: Người nước ngoài cũng mở được tài khoản.", "tokens": ["외국인도", "통장을", "개설할", "수", "있어요"], "answer": "외국인도 통장을 개설할 수 있어요", "explain": "개설하다 → 개설할 수 있어요."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Trong thời gian sống ở Seoul tôi đã gặp nhiều người.", "answer": ["서울에 사는 동안 많은 사람을 만났어요.", "서울에서 사는 동안 많은 사람을 만났어요.", "서울에 사는 동안 사람을 많이 만났어요.", "서울에서 사는 동안 사람을 많이 만났어요."], "explain": "사는 동안 + 만났어요."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tôi đã gửi tiền cho bố mẹ.", "answer": ["부모님께 송금했어요.", "부모님께 돈을 보냈어요.", "부모님한테 송금했어요.", "부모님께 돈을 송금했어요."], "explain": "송금하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tôi gửi tiết kiệm hằng tháng.", "answer": ["매달 적금을 들어요.", "매월 적금을 들어요.", "매달 적금을 넣어요."], "explain": "적금을 들다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "은행에 가는 대신 인터넷뱅킹으로 계좌 이체도 하고 공과금도 내요.", "answer": "Thay vì đến ngân hàng, tôi chuyển khoản và nộp tiền điện nước qua ngân hàng trực tuyến.", "explain": "는 대신 = thay vì."},
+  {"type": "read", "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 21~30)", "kr": "남자: 외국인도 통장을 개설할 수 있나요?\n여자: 네, 외국인 등록증과 여권을 가지고 오시면 돼요.\n남자: 그럼 해외 송금도 바로 할 수 있어요?\n여자: 통장을 만들고 나서 해외 송금을 신청하시면 돼요. 수수료는 한 번에 5천 원이에요. 서류를 쓰시는 동안 제가 카드를 준비해 드릴게요.", "options": ["해외 송금은 통장을 만든 후에 신청한다.", "외국인은 통장을 만들 수 없다.", "해외 송금 수수료는 없다.", "여권만 있으면 통장을 만들 수 있다."], "answer": "해외 송금은 통장을 만든 후에 신청한다.", "explain": "Mở sổ xong rồi đăng ký chuyển tiền quốc tế; phí 5.000 won; cần thẻ người nước ngoài + hộ chiếu."},
+  {"type": "read", "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)", "kr": "【행복은행 이용 안내】\n• 창구 업무: 평일 오전 9시 ~ 오후 4시\n• ATM기: 24시간 (밤 12시 ~ 새벽 5시 수수료 있음)\n• 인터넷뱅킹 계좌 이체 수수료: 무료", "options": ["인터넷뱅킹으로 이체하면 수수료가 없다.", "창구는 주말에도 이용할 수 있다.", "ATM기는 낮에만 이용할 수 있다.", "밤 12시 이후 ATM 이용은 무료이다."], "answer": "인터넷뱅킹으로 이체하면 수수료가 없다.", "explain": "Phí chuyển khoản qua internet banking: miễn phí. Quầy chỉ ngày thường; ATM 24 giờ, nửa đêm có phí."}
+ ]
+}

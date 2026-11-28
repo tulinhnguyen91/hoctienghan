@@ -1,0 +1,53 @@
+{
+ "id": "bai-92",
+ "lesson": "Bài 92",
+ "title": "Thời trang (phần 2/4)",
+ "krTitle": "유행 2",
+ "date": "2027-03-24",
+ "day": 126,
+ "source": "TOPIK 4 – Bài 1: Thời trang (phần 2/4)",
+ "practice": {"listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng", "reading": "Đọc – câu 16~18: Điền vào đoạn văn"},
+ "words": [
+  ["파마/웨이브", "Pama/weibeu", "Uốn tóc, tóc xoăn", "파마를 했는데 너무 짧아졌어요.", "Uốn tóc xong thấy ngắn quá."],
+  ["피부 관리", "Pibu gwalli", "Chăm sóc da", "피부 관리를 위해서 물을 많이 마셔요.", "Để chăm sóc da tôi uống nhiều nước."],
+  ["마사지를 하다", "Masajireul hada", "Mát xa", "얼굴 마사지를 하면 피부가 좋아져요.", "Mát xa mặt thì da đẹp lên."],
+  ["화장법/메이크업", "Hwajangbeop/meikeueop", "Cách trang điểm", "동영상으로 화장법을 배웠어요.", "Tôi học cách trang điểm qua video."],
+  ["손톱 관리/네일 케어", "Sontop gwalli/neil keeo", "Chăm sóc móng tay", "주말에 네일 케어를 받았어요.", "Cuối tuần tôi đi làm móng."],
+  ["성형수술", "Seonghyeongsusul", "Phẫu thuật thẩm mỹ", "성형수술을 했다고요? 전혀 몰랐어요.", "Đã phẫu thuật thẩm mỹ á? Tôi hoàn toàn không biết."],
+  ["유행 관련 어휘", "Yuhaeng gwallyeon eohwi", "Từ liên quan đến mốt", "유행 관련 어휘가 시험에 자주 나와요.", "Từ vựng về mốt hay xuất hiện trong đề thi."],
+  ["유행을 이끌다", "Yuhaengeul ikkeulda", "Dẫn đầu xu hướng", "그 가수는 10대의 유행을 이끌어요.", "Ca sĩ đó dẫn đầu xu hướng của tuổi teen."],
+  ["유행에 민감하다", "Yuhaenge mingamhada", "Nhạy cảm với mốt", "제 동생은 유행에 민감해요.", "Em tôi rất nhạy với mốt."],
+  ["유행을 타다", "Yuhaengeul tada", "Phụ thuộc mốt (nhanh lỗi thời)", "이 디자인은 유행을 안 타서 오래 입을 수 있어요.", "Thiết kế này không theo mốt nên mặc được lâu."],
+  ["유행을 앞서가다", "Yuhaengeul apseogada", "Đi trước mốt", "그녀는 항상 유행을 앞서가요.", "Cô ấy lúc nào cũng đi trước xu hướng."],
+  ["유행을 따르다", "Yuhaengeul ttareuda", "Chạy theo mốt", "무조건 유행을 따르는 건 좋지 않아요.", "Chạy theo mốt vô điều kiện thì không tốt."],
+  ["유행에 뒤처지다", "Yuhaenge dwicheojida", "Lỗi mốt", "이 옷은 유행에 뒤처진 것 같아요.", "Hình như cái áo này lỗi mốt rồi."],
+  ["최신 유행", "Choesin yuhaeng", "Mốt mới nhất", "이게 최신 유행 스타일이에요.", "Đây là phong cách mốt mới nhất."],
+  ["대유행", "Daeyuhaeng", "Đại trào lưu, cực thịnh", "올여름에는 하얀 운동화가 대유행이에요.", "Hè này giày thể thao trắng cực kỳ thịnh."],
+  ["유행어", "Yuhaengeo", "Từ ngữ thịnh hành", "젊은 사람들의 유행어를 잘 모르겠어요.", "Tôi không hiểu lắm từ lóng của giới trẻ."]
+ ],
+ "patterns": [
+  {"form": "V/A + 다고요? — Nói là … á?", "meaning": "Dùng khi NGẠC NHIÊN hoặc HỎI LẠI để xác nhận điều vừa nghe: 'bạn nói là… á?', '… á?'. Cấu tạo từ câu gián tiếp (는/ㄴ)다고 하다 (đã học) rút gọn + 요?. Chia y như 다고: ĐỘNG TỪ hiện tại có patchim + 는다고요? (먹는다고요?), không patchim + ㄴ다고요? (간다고요?); TÍNH TỪ + 다고요? (비싸다고요?); quá khứ 았/었다고요? (했다고요?); tương lai (으)ㄹ 거라고요?; DANH TỪ + (이)라고요? (학생이라고요?). Hỏi lại câu hỏi: 냐고요? (뭐 하냐고요?); câu mệnh lệnh: (으)라고요?; câu rủ: 자고요?. Khi xuống giọng (다고요.) lại mang nghĩa NHẤN MẠNH điều mình đã nói: 제가 했다고요! (Tôi đã bảo là tôi làm rồi mà!).", "examples": ["A: 저 다음 달에 결혼해요. B: 네? 결혼한다고요? — Tháng sau tôi cưới. — Hả? Cưới á?", "이 가방이 100만 원이라고요? 너무 비싸요! — Cái túi này 1 triệu won á? Đắt quá!", "성형수술을 했다고요? 전혀 몰랐어요. — Đã phẫu thuật thẩm mỹ á? Tôi hoàn toàn không biết.", "A: 내일 같이 가자. B: 같이 가자고요? 좋아요. — Mai đi cùng nhé. — Đi cùng á? Được."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "A: 저 다음 달에 결혼해요. B (ngạc nhiên):", "kr": "B: 네? ___", "options": ["결혼한다고요?", "결혼하다고요?", "결혼한다냐고요?"], "answer": "결혼한다고요?", "explain": "Động từ không patchim + ㄴ다고요?"},
+  {"type": "choice", "q": "A: 이 가방 100만 원이에요. B:", "kr": "B: 100만 원___?", "options": ["이라고요", "이다고요", "인다고요"], "answer": "이라고요", "explain": "Danh từ + (이)라고요?"},
+  {"type": "choice", "q": "A: 어제 성형수술을 했어요. B:", "kr": "B: 성형수술을 ___?", "options": ["했다고요", "한다고요", "했냐고요"], "answer": "했다고요", "explain": "Quá khứ: 았/었다고요?"},
+  {"type": "choice", "q": "A: 뭐 먹을래요? B (hỏi lại câu hỏi):", "kr": "B: 뭐 ___?", "options": ["먹을 거냐고요", "먹는다고요", "먹자고요"], "answer": "먹을 거냐고요", "explain": "Hỏi lại câu hỏi → 냐고요?"},
+  {"type": "choice", "q": "A: 이 옷 입어 보세요. B (hỏi lại mệnh lệnh):", "kr": "B: 이 옷을 ___?", "options": ["입어 보라고요", "입어 본다고요", "입어 보자고요"], "answer": "입어 보라고요", "explain": "Mệnh lệnh → (으)라고요?"},
+  {"type": "choice", "q": "A: 이 신발이 정말 편해요. B:", "kr": "B: 그렇게 ___?", "options": ["편하다고요", "편한다고요", "편하냐다고요"], "answer": "편하다고요", "explain": "Tính từ + 다고요?"},
+  {"type": "choice", "q": "Chọn từ phù hợp: Thiết kế này không theo mốt nên mặc được lâu.", "kr": "이 디자인은 유행을 안 ___ 오래 입을 수 있어요.", "options": ["타서", "따라서", "이끌어서"], "answer": "타서", "explain": "유행을 타다 = phụ thuộc mốt."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Cái áo này lỗi mốt rồi.", "kr": "이 옷은 유행에 ___ 것 같아요.", "options": ["뒤처진", "민감한", "앞서간"], "answer": "뒤처진", "explain": "유행에 뒤처지다 = lỗi mốt."},
+  {"type": "fill", "q": "A: 저 회사 그만둬요. B: 회사를 그만___?", "kr": "회사를 그만___?", "answer": ["둔다고요"], "explain": "그만두다 → 그만둔다고요?"},
+  {"type": "fill", "q": "A: 그 사람 학생이에요. B: 학생___?", "kr": "학생___?", "answer": ["이라고요"], "explain": "N có patchim + 이라고요?"},
+  {"type": "fill", "q": "A: 내일 같이 쇼핑 가자. B: 쇼핑 가___?", "kr": "쇼핑 가___?", "answer": ["자고요"], "explain": "Câu rủ → 자고요?"},
+  {"type": "fill", "q": "Điền từ: Em tôi rất nhạy với mốt.", "kr": "제 동생은 유행에 ___.", "answer": ["민감해요"], "explain": "유행에 민감하다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Cái túi này 1 triệu won á?", "tokens": ["이", "가방이", "100만", "원이라고요?"], "answer": "이 가방이 100만 원이라고요?", "explain": "(이)라고요?"},
+  {"type": "order", "q": "Sắp xếp thành câu: Để chăm sóc da tôi uống nhiều nước.", "tokens": ["피부", "관리를", "위해서", "물을", "많이", "마셔요"], "answer": "피부 관리를 위해서 물을 많이 마셔요", "explain": "N을/를 위해서."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Cưới á? (hỏi lại 결혼해요)", "answer": ["결혼한다고요?", "결혼한다고?", "네? 결혼한다고요?"], "explain": "ㄴ다고요?"},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Đắt như thế á?", "answer": ["그렇게 비싸다고요?", "그렇게 비싸다고?"], "explain": "A + 다고요?"},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Hè này giày thể thao trắng cực kỳ thịnh.", "answer": ["올여름에는 하얀 운동화가 대유행이에요.", "올여름에 하얀 운동화가 대유행이에요.", "이번 여름에는 하얀 운동화가 대유행이에요."], "explain": "대유행."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "A: 요즘은 남자들도 피부 관리를 받고 화장을 해요.\nB: 남자들도 화장을 한다고요? 정말 몰랐어요.", "answer": "A: Dạo này đàn ông cũng đi chăm sóc da và trang điểm. B: Đàn ông cũng trang điểm á? Thật sự tôi không biết.", "explain": "한다고요? = ngạc nhiên hỏi lại."},
+  {"type": "read", "q": "Nghe bài phỏng vấn và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)", "kr": "기자: 디자이너님은 항상 유행을 이끄는 분으로 유명하신데요, 유행을 앞서가는 비결이 있습니까?\n디자이너: 저는 오히려 유행을 따르지 않으려고 해요. 유행을 타는 옷은 금방 뒤처지거든요. 오래 입을 수 있는 기본 디자인에 개성 있는 소품을 더하는 것이 제 방법입니다.", "options": ["디자이너는 유행을 따르지 않으려고 한다.", "디자이너는 최신 유행만 따른다.", "유행을 타는 옷은 오래 입을 수 있다.", "디자이너는 소품을 사용하지 않는다."], "answer": "디자이너는 유행을 따르지 않으려고 한다.", "explain": "유행을 따르지 않으려고 해요."},
+  {"type": "read", "q": "Chọn từ điền vào ( ). (Dạng TOPIK II câu 16~18)", "kr": "유행어는 젊은 사람들 사이에서 빠르게 퍼진다. 그래서 유행어를 모르면 대화에서 ( ___ ) 느낌을 받을 수 있다. 하지만 대부분의 유행어는 1~2년이 지나면 사라진다.", "options": ["유행에 뒤처진", "유행을 이끄는", "유행을 앞서가는", "개성 있는"], "answer": "유행에 뒤처진", "explain": "Không biết từ thịnh hành → cảm giác bị lỗi thời."}
+ ]
+}

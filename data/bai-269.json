@@ -1,0 +1,393 @@
+{
+ "id": "bai-269",
+ "lesson": "Bài 269",
+ "title": "Vấn đề xã hội hiện đại (phần 2/5)",
+ "krTitle": "현대 사회의 문제 2",
+ "date": "2027-12-17",
+ "day": 394,
+ "source": "TOPIK 6 – Bài 14: Vấn đề xã hội hiện đại (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "세대",
+   "Sedae",
+   "Thế hệ",
+   "세대마다 생각이 달라요.",
+   "Mỗi thế hệ có suy nghĩ khác nhau."
+  ],
+  [
+   "종교 갈등",
+   "Jonggyo galdeung",
+   "Mâu thuẫn tôn giáo",
+   "종교 갈등으로 전쟁이 일어나기도 해요.",
+   "Có khi chiến tranh xảy ra vì xung đột tôn giáo."
+  ],
+  [
+   "소외되다",
+   "Sooedoeda",
+   "Bị xa lánh, bị cô lập",
+   "혼자 사는 노인들이 사회에서 소외되고 있어요.",
+   "Người già sống một mình đang bị xã hội bỏ quên."
+  ],
+  [
+   "선입견",
+   "Seonipgyeon",
+   "Thành kiến, định kiến",
+   "선입견을 가지고 사람을 판단하지 마세요.",
+   "Đừng phán xét người khác bằng định kiến."
+  ],
+  [
+   "세대 갈등",
+   "Sedae galdeung",
+   "Mâu thuẫn thế hệ",
+   "부모와 자식 간의 세대 갈등이 있어요.",
+   "Có mâu thuẫn thế hệ giữa bố mẹ và con cái."
+  ],
+  [
+   "따돌림을 당하다",
+   "Ttadollimeul danghada",
+   "Bị khai trừ, bị tẩy chay",
+   "그 학생은 학교에서 따돌림을 당했어요.",
+   "Học sinh đó bị bạn bè tẩy chay ở trường."
+  ],
+  [
+   "사회적 약자",
+   "Sahoejeong yakja",
+   "Người dân nghèo, người yếu thế trong xã hội",
+   "사회적 약자를 보호하는 법이 필요해요.",
+   "Cần luật bảo vệ người yếu thế trong xã hội."
+  ],
+  [
+   "저소득층",
+   "Jeosodeukcheung",
+   "Tầng lớp thu nhập thấp",
+   "정부는 저소득층에 생활비를 지원해요.",
+   "Chính phủ hỗ trợ chi phí sinh hoạt cho tầng lớp thu nhập thấp."
+  ],
+  [
+   "사회적 소수자",
+   "Sahoejeong sosuja",
+   "Người thiểu số trong xã hội, một số ít người",
+   "사회적 소수자의 목소리에도 귀를 기울여야 해요.",
+   "Cũng phải lắng nghe tiếng nói của người thiểu số trong xã hội."
+  ],
+  [
+   "임금 격차",
+   "Imgeum gyeokcha",
+   "Sự chênh lệch về lương",
+   "남녀 임금 격차를 줄여야 해요.",
+   "Phải thu hẹp chênh lệch lương nam nữ."
+  ],
+  [
+   "취약 계층",
+   "Chwiyang gyecheung",
+   "Nhóm người yếu (không đủ sức khỏe để làm việc)",
+   "취약 계층을 위한 무료 급식소가 있어요.",
+   "Có bếp ăn miễn phí cho nhóm dễ bị tổn thương."
+  ],
+  [
+   "사회적 편견",
+   "Sahoejeong pyeongyeon",
+   "Định kiến xã hội",
+   "장애인에 대한 사회적 편견이 아직 있어요.",
+   "Vẫn còn định kiến xã hội về người khuyết tật."
+  ],
+  [
+   "사회통합",
+   "Sahoetonghap",
+   "Sự hợp nhất xã hội",
+   "다문화 가정의 사회통합이 중요해요.",
+   "Hội nhập xã hội của gia đình đa văn hóa rất quan trọng."
+  ],
+  [
+   "사회적 기업",
+   "Sahoejeong gieop",
+   "Doanh nghiệp mang tính xã hội",
+   "그 사회적 기업은 장애인을 고용해요.",
+   "Doanh nghiệp xã hội đó tuyển dụng người khuyết tật."
+  ],
+  [
+   "물질만능주의",
+   "Muljilmanneungjuui",
+   "Chủ nghĩa vật chất vạn năng",
+   "물질만능주의가 사람들의 가치관을 바꿨어요.",
+   "Chủ nghĩa vật chất vạn năng đã thay đổi giá trị quan con người."
+  ],
+  [
+   "사회공헌기금",
+   "Sahoegongheongigeum",
+   "Quỹ cống hiến xã hội",
+   "그 회사는 매년 사회공헌기금을 내요.",
+   "Công ty đó mỗi năm đóng góp quỹ cống hiến xã hội."
+  ],
+  [
+   "저출산고령화 사회",
+   "Jeochulsangoryeonghwa sahoe",
+   "Xã hội già hóa với tỷ lệ sinh giảm",
+   "한국은 저출산고령화 사회로 가고 있어요.",
+   "Hàn Quốc đang tiến tới xã hội già hóa với tỷ lệ sinh thấp."
+  ],
+  [
+   "사회보장제도",
+   "Sahoebojangjedo",
+   "Chế độ cứu trợ xã hội, chế độ đảm bảo xã hội",
+   "사회보장제도가 잘 갖춰져야 해요.",
+   "Chế độ an sinh xã hội cần được hoàn thiện."
+  ],
+  [
+   "나눔 운동",
+   "Nanum undong",
+   "Phong trào chia sẻ, cuộc vận động chia sẻ",
+   "연말에는 나눔 운동이 활발해요.",
+   "Cuối năm phong trào chia sẻ diễn ra sôi nổi."
+  ],
+  [
+   "최저임금제도",
+   "Choejeoimgeumjedo",
+   "Chế độ tiền lương tối thiểu",
+   "최저임금제도로 노동자의 생활을 보호해요.",
+   "Bảo vệ đời sống người lao động bằng chế độ lương tối thiểu."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 아/어 봤자 — Dù có … cũng",
+   "meaning": "Nói rằng DÙ CÓ LÀM / CÓ XẢY RA thì cũng VÔ ÍCH, không đạt kết quả mong muốn hoặc mức độ chẳng đáng kể: 'có… thì cũng (vô ích / chẳng được bao nhiêu)'. Chia: ㅏ/ㅗ → 아 봤자 (가 봤자, 와 봤자); khác → 어 봤자 (먹어 봤자, 말해 봤자); 하다 → 해 봤자; Danh từ → (이)어 봤자 / 이라고 해 봤자. Vế sau thường: 소용없다, 마찬가지다, 똑같다, 안 되다, (으)ㄹ 거예요 (dự đoán tiêu cực), hoặc chỉ mức độ thấp: 비싸 봤자 만 원이에요 (đắt lắm cũng chỉ 10 nghìn won). KHÔNG dùng với mệnh lệnh / rủ rê ở vế sau. Văn NÓI phổ biến. So sánh: (으)ㄴ들 (Bài 254 – văn viết, tu từ); (으)나 마나 (Bài 258 – làm hay không như nhau); 아/어 봤자 = thông dụng nhất trong hội thoại.",
+   "examples": [
+    "지금 가 봤자 가게는 이미 문을 닫았을 거예요. — Giờ có đi thì cửa hàng chắc cũng đã đóng cửa rồi.",
+    "선입견이 있는 사람에게는 말해 봤자 소용없어요. — Với người có định kiến thì có nói cũng vô ích.",
+    "최저임금이 올라 봤자 물가도 오르면 마찬가지예요. — Lương tối thiểu có tăng mà giá cả cũng tăng thì cũng như nhau.",
+    "그 가방은 비싸 봤자 5만 원일 거예요. — Cái túi đó đắt lắm cũng chỉ 50 nghìn won thôi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Mâu thuẫn giữa người già và người trẻ gọi là gì?",
+   "kr": "",
+   "options": [
+    "세대 갈등",
+    "종교 갈등",
+    "임금 격차"
+   ],
+   "answer": "세대 갈등",
+   "explain": "세대 = thế hệ."
+  },
+  {
+   "type": "choice",
+   "q": "Bị bạn bè cô lập, xa lánh gọi là gì?",
+   "kr": "",
+   "options": [
+    "따돌림을 당하다",
+    "사회통합",
+    "나눔 운동"
+   ],
+   "answer": "따돌림을 당하다",
+   "explain": "따돌림 = sự tẩy chay."
+  },
+  {
+   "type": "choice",
+   "q": "Doanh nghiệp vừa kinh doanh vừa giải quyết vấn đề xã hội gọi là gì?",
+   "kr": "",
+   "options": [
+    "사회적 기업",
+    "사회공헌기금",
+    "사회보장제도"
+   ],
+   "answer": "사회적 기업",
+   "explain": "사회적 기업."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phải thu hẹp chênh lệch lương nam nữ.",
+   "kr": "남녀 ___를 줄여야 해요.",
+   "options": [
+    "임금 격차",
+    "최저임금",
+    "저소득층"
+   ],
+   "answer": "임금 격차",
+   "explain": "임금 격차."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Với người có định kiến thì có nói cũng vô ích.'",
+   "kr": "",
+   "options": [
+    "선입견이 있는 사람에게는 말해 봤자 소용없어요.",
+    "선입견이 있는 사람에게는 말해 봤자 꼭 말하세요.",
+    "선입견이 있는 사람에게는 말하 봤자 소용없어요."
+   ],
+   "answer": "선입견이 있는 사람에게는 말해 봤자 소용없어요.",
+   "explain": "말하다 → 말해 봤자."
+  },
+  {
+   "type": "choice",
+   "q": "'비싸 봤자 5만 원일 거예요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Đắt lắm cũng chỉ 50 nghìn won thôi.",
+    "Vì đắt nên 50 nghìn won.",
+    "Nếu đắt thì đừng mua."
+   ],
+   "answer": "Đắt lắm cũng chỉ 50 nghìn won thôi.",
+   "explain": "Mức độ thấp."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 아/어 봤자 SAI?",
+   "kr": "",
+   "options": [
+    "지금 가 봤자 같이 가요.",
+    "지금 가 봤자 늦었어요.",
+    "울어 봤자 소용없어요."
+   ],
+   "answer": "지금 가 봤자 같이 가요.",
+   "explain": "Không dùng rủ rê ở vế sau."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cuối năm phong trào chia sẻ sôi nổi.",
+   "kr": "연말에는 ___이 활발해요.",
+   "options": [
+    "나눔 운동",
+    "따돌림",
+    "세대 갈등"
+   ],
+   "answer": "나눔 운동",
+   "explain": "나눔 운동."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 봤자 với 가다: Giờ có đi thì cửa hàng chắc cũng đã đóng.",
+   "kr": "지금 ___ 가게는 이미 문을 닫았을 거예요.",
+   "answer": [
+    "가 봤자",
+    "가봤자"
+   ],
+   "explain": "가 봤자."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 봤자 với 오르다: Lương có tăng mà giá cũng tăng thì như nhau.",
+   "kr": "최저임금이 ___ 물가도 오르면 마찬가지예요.",
+   "answer": [
+    "올라 봤자",
+    "올라봤자"
+   ],
+   "explain": "오르다 → 올라 봤자."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Học sinh đó bị tẩy chay ở trường.",
+   "kr": "그 학생은 학교에서 ___을 당했어요.",
+   "answer": [
+    "따돌림"
+   ],
+   "explain": "따돌림."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chế độ an sinh xã hội cần được hoàn thiện.",
+   "kr": "___가 잘 갖춰져야 해요.",
+   "answer": [
+    "사회보장제도"
+   ],
+   "explain": "사회보장제도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cái túi đó đắt lắm cũng chỉ 50 nghìn won.",
+   "tokens": [
+    "그",
+    "가방은",
+    "비싸",
+    "봤자",
+    "5만",
+    "원일",
+    "거예요"
+   ],
+   "answer": "그 가방은 비싸 봤자 5만 원일 거예요",
+   "explain": "아/어 봤자."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đừng phán xét người khác bằng định kiến.",
+   "tokens": [
+    "선입견을",
+    "가지고",
+    "사람을",
+    "판단하지",
+    "마세요"
+   ],
+   "answer": "선입견을 가지고 사람을 판단하지 마세요",
+   "explain": "지 마세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giờ có hối hận cũng vô ích. (dùng 아/어 봤자)",
+   "answer": [
+    "지금 후회해 봤자 소용없어요.",
+    "이제 와서 후회해 봤자 소용없어요.",
+    "지금 후회해 봤자 아무 소용이 없어요."
+   ],
+   "explain": "후회해 봤자."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cần luật bảo vệ người yếu thế trong xã hội.",
+   "answer": [
+    "사회적 약자를 보호하는 법이 필요해요.",
+    "사회적 약자를 보호할 법이 필요해요."
+   ],
+   "explain": "사회적 약자."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hàn Quốc đang tiến tới xã hội già hóa.",
+   "answer": [
+    "한국은 저출산고령화 사회로 가고 있어요.",
+    "한국은 고령화 사회로 가고 있어요.",
+    "한국은 저출산고령화 사회가 되고 있어요."
+   ],
+   "explain": "고령화."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "경제가 발전해도 사회적 약자가 소외된다면 진정한 발전이라고 할 수 없다. 소득이 늘어 봤자 임금 격차가 커지면 사회 갈등은 더 심해질 것이다. 따라서 사회통합을 위한 복지 정책이 필요하다.",
+   "answer": "Dù kinh tế phát triển, nếu người yếu thế bị gạt ra ngoài thì không thể gọi là phát triển thực sự. Thu nhập có tăng mà chênh lệch lương lớn hơn thì mâu thuẫn xã hội sẽ càng nghiêm trọng. Vì vậy cần chính sách phúc lợi vì sự hòa nhập xã hội.",
+   "explain": "아/어 봤자."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 아버지와 진로 문제로 또 싸웠어요. 제 이야기를 전혀 안 들으세요.\n여자: 감정적으로 말해 봤자 서로 상처만 받아요.\n남자: ( )",
+   "options": [
+    "맞아요. 다음에는 차분하게 대화해 볼게요.",
+    "아버지는 회사에 다니세요.",
+    "진로는 벌써 정했어요.",
+    "저는 싸운 적이 없어요."
+   ],
+   "answer": "맞아요. 다음에는 차분하게 대화해 볼게요.",
+   "explain": "Chấp nhận lời khuyên."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그래서 정부는 다양한 사회보장제도를 마련하고 있다.\n(나) 저출산고령화가 빠르게 진행되면서 노인 빈곤 문제가 심각해졌다.\n(다) 예를 들어 기초 연금을 지급하고 노인 일자리를 늘리고 있다.",
+   "options": [
+    "(나)-(가)-(다)",
+    "(가)-(나)-(다)",
+    "(다)-(나)-(가)",
+    "(나)-(다)-(가)"
+   ],
+   "answer": "(나)-(가)-(다)",
+   "explain": "Vấn đề → 그래서 → 예를 들어."
+  }
+ ]
+}

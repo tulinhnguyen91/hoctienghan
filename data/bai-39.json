@@ -1,0 +1,392 @@
+{
+ "id": "bai-39",
+ "lesson": "Bài 39",
+ "title": "Sinh hoạt ở trường (phần 3/3)",
+ "krTitle": "학교생활 3",
+ "date": "2027-01-04",
+ "day": 47,
+ "source": "TOPIK 3 – Bài 1: Sinh hoạt ở trường (phần 3/3)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "교류",
+   "Gyoryu",
+   "Giao lưu",
+   "두 대학교가 학생 교류를 시작했어요.",
+   "Hai trường đại học đã bắt đầu trao đổi sinh viên."
+  ],
+  [
+   "시인",
+   "Siin",
+   "Nhà thơ",
+   "유명한 시인이 학교에 강연하러 왔어요.",
+   "Một nhà thơ nổi tiếng đã đến trường để diễn thuyết."
+  ],
+  [
+   "초대",
+   "Chodae",
+   "Lời mời",
+   "졸업식 초대를 받았어요.",
+   "Tôi đã nhận lời mời dự lễ tốt nghiệp."
+  ],
+  [
+   "교환학생",
+   "Gyohwanhaksaeng",
+   "Sinh viên trao đổi",
+   "저는 교환학생으로 한국에 오게 됐어요.",
+   "Tôi được sang Hàn với tư cách sinh viên trao đổi."
+  ],
+  [
+   "시험 기간",
+   "Siheom gigan",
+   "Thời gian thi",
+   "시험 기간에는 도서관에 자리가 없어요.",
+   "Mùa thi thư viện không còn chỗ."
+  ],
+  [
+   "최선을 다하다",
+   "Choeseoneul dahada",
+   "Cố gắng hết sức",
+   "시험에서 최선을 다했어요.",
+   "Tôi đã cố gắng hết sức trong kỳ thi."
+  ],
+  [
+   "대기업",
+   "Daegieop",
+   "Doanh nghiệp lớn",
+   "졸업 후에 대기업에 다니게 됐어요.",
+   "Sau khi tốt nghiệp tôi được vào làm ở tập đoàn lớn."
+  ],
+  [
+   "신청 마감",
+   "Sincheong magam",
+   "Hết hạn nộp đơn",
+   "신청 마감은 이번 주 금요일이에요.",
+   "Hạn nộp đơn là thứ Sáu tuần này."
+  ],
+  [
+   "토론",
+   "Toron",
+   "Thảo luận",
+   "수업 시간에 환경 문제에 대해서 토론했어요.",
+   "Trong giờ học chúng tôi đã thảo luận về vấn đề môi trường."
+  ],
+  [
+   "모집하다",
+   "Mojipada",
+   "Thu thập, tuyển chọn",
+   "동아리에서 신입 회원을 모집해요.",
+   "Câu lạc bộ đang tuyển thành viên mới."
+  ],
+  [
+   "자료실",
+   "Jaryosil",
+   "Phòng tư liệu",
+   "자료실에서 논문을 찾았어요.",
+   "Tôi đã tìm luận văn ở phòng tư liệu."
+  ],
+  [
+   "통역",
+   "Tongyeok",
+   "Thông dịch",
+   "교류 행사에서 통역을 맡게 됐어요.",
+   "Tôi được giao làm phiên dịch ở sự kiện giao lưu."
+  ],
+  [
+   "문학작품",
+   "Munhakjakpum",
+   "Tác phẩm văn học",
+   "한국 문학작품을 읽고 보고서를 썼어요.",
+   "Tôi đọc tác phẩm văn học Hàn rồi viết báo cáo."
+  ],
+  [
+   "자원봉사",
+   "Jawonbongsa",
+   "Phục vụ tình nguyện",
+   "주말마다 자원봉사를 해요.",
+   "Cuối tuần nào tôi cũng đi tình nguyện."
+  ],
+  [
+   "특히",
+   "Teuki",
+   "Đặc biệt",
+   "저는 운동을 좋아해요. 특히 축구를 좋아해요.",
+   "Tôi thích thể thao. Đặc biệt là bóng đá."
+  ],
+  [
+   "반입",
+   "Banip",
+   "Sự mang vào, sự nhập",
+   "자료실에 음식물 반입은 안 돼요.",
+   "Không được mang đồ ăn vào phòng tư liệu."
+  ],
+  [
+   "제시하다",
+   "Jesihada",
+   "Đưa ra, đề nghị",
+   "학생증을 제시해 주세요.",
+   "Xin hãy xuất trình thẻ sinh viên."
+  ],
+  [
+   "휴관",
+   "Hyugwan",
+   "Đóng cửa, nghỉ (hoạt động)",
+   "도서관은 월요일에 휴관이에요.",
+   "Thư viện nghỉ vào thứ Hai."
+  ],
+  [
+   "봉사 활동",
+   "Bongsa hwaldong",
+   "Hoạt động tình nguyện, hoạt động phục vụ cộng đồng",
+   "봉사 활동을 하면서 많은 것을 배우게 됐어요.",
+   "Khi làm tình nguyện tôi đã học được nhiều điều."
+  ],
+  [
+   "지급하다",
+   "Jigeupada",
+   "Chi trả, cấp phát",
+   "학교에서 장학금을 지급해요.",
+   "Trường cấp học bổng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 게 되다 — Được, bị, trở nên, phải",
+   "meaning": "Diễn tả một sự thay đổi xảy ra KHÔNG do ý muốn của bản thân, mà do hoàn cảnh, người khác hoặc tự nhiên dẫn tới: 'được…, bị…, thành ra…, rồi cũng…'. Gắn 게 되다 thẳng vào gốc động từ: 가다 → 가게 되다, 알다 → 알게 되다, 좋아하다 → 좋아하게 되다. Thường dùng ở quá khứ 게 됐어요. So sánh: 한국에 왔어요 (tôi đến Hàn — chỉ thông báo) vs 한국에 오게 됐어요 (tình cờ/vì công việc mà tôi được đến Hàn). Cụm rất hay gặp: 알게 되다 (biết ra, quen được), 좋아하게 되다 (dần thích), 일하게 되다 (được làm việc).",
+   "examples": [
+    "교환학생으로 한국에 오게 됐어요. — Tôi được sang Hàn với tư cách sinh viên trao đổi.",
+    "동아리에서 좋은 친구를 많이 알게 됐어요. — Ở câu lạc bộ tôi quen được nhiều bạn tốt.",
+    "처음에는 김치를 못 먹었는데 지금은 좋아하게 됐어요. — Lúc đầu tôi không ăn được kimchi, giờ thì đã thích rồi.",
+    "회사 일 때문에 다음 달에 부산으로 이사하게 됐어요. — Vì công việc nên tháng sau tôi phải chuyển đến Busan."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi được sang Hàn với tư cách sinh viên trao đổi.",
+   "kr": "교환학생으로 한국에 ___.",
+   "options": [
+    "오게 됐어요",
+    "와게 됐어요",
+    "오기 됐어요"
+   ],
+   "answer": "오게 됐어요",
+   "explain": "Gốc 오 + 게 되다 → 오게 됐어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi đã quen được nhiều bạn.",
+   "kr": "친구를 많이 ___.",
+   "options": [
+    "알게 됐어요",
+    "알으게 됐어요",
+    "아게 됐어요"
+   ],
+   "answer": "알게 됐어요",
+   "explain": "게 gắn thẳng vào gốc, kể cả patchim ㄹ: 알게."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào diễn tả việc xảy ra do hoàn cảnh (không phải tự chọn)?",
+   "kr": "",
+   "options": [
+    "회사 때문에 부산에 살게 됐어요.",
+    "부산에 살려고 해요.",
+    "부산에 살기로 했어요."
+   ],
+   "answer": "회사 때문에 부산에 살게 됐어요.",
+   "explain": "게 되다 = vì hoàn cảnh mà thành ra… (không phải quyết định chủ động)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Giờ tôi đã thích kimchi rồi.",
+   "kr": "지금은 김치를 ___.",
+   "options": [
+    "좋아하게 됐어요",
+    "좋게 됐어요",
+    "좋아하게 했어요"
+   ],
+   "answer": "좋아하게 됐어요",
+   "explain": "좋아하다 (động từ) + 게 되다. 좋게 되다 sai nghĩa."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Câu lạc bộ đang tuyển thành viên mới.",
+   "kr": "동아리에서 신입 회원을 ___.",
+   "options": [
+    "모집해요",
+    "지급해요",
+    "제시해요"
+   ],
+   "answer": "모집해요",
+   "explain": "모집하다 = tuyển, chiêu mộ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Xin hãy xuất trình thẻ sinh viên.",
+   "kr": "학생증을 ___ 주세요.",
+   "options": [
+    "제시해",
+    "반입해",
+    "휴관해"
+   ],
+   "answer": "제시해",
+   "explain": "제시하다 = đưa ra, xuất trình."
+  },
+  {
+   "type": "choice",
+   "q": "Biển báo '휴관' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Hôm nay đóng cửa (nghỉ)",
+    "Đang giảm giá",
+    "Mở cửa 24 giờ"
+   ],
+   "answer": "Hôm nay đóng cửa (nghỉ)",
+   "explain": "휴관 = (thư viện, bảo tàng…) nghỉ hoạt động."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không được mang đồ ăn vào phòng tư liệu.",
+   "kr": "자료실에 음식물 ___은 안 돼요.",
+   "options": [
+    "반입",
+    "토론",
+    "교류"
+   ],
+   "answer": "반입",
+   "explain": "반입 = việc mang vào."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 게 됐어요 vào 일하다: Tôi được làm việc ở tập đoàn lớn.",
+   "kr": "대기업에서 ___.",
+   "answer": [
+    "일하게 됐어요",
+    "일하게 되었어요"
+   ],
+   "explain": "일하 + 게 됐어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 게 됐어요 vào 맡다: Tôi được giao làm phiên dịch.",
+   "kr": "통역을 ___.",
+   "answer": [
+    "맡게 됐어요",
+    "맡게 되었어요"
+   ],
+   "explain": "맡 + 게 됐어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 게 됐어요 vào 배우다: Khi làm tình nguyện tôi học được nhiều điều.",
+   "kr": "봉사 활동을 하면서 많은 것을 ___.",
+   "answer": [
+    "배우게 됐어요",
+    "배우게 되었어요"
+   ],
+   "explain": "배우 + 게 됐어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đã cố gắng hết sức.",
+   "kr": "___을 다했어요.",
+   "answer": [
+    "최선"
+   ],
+   "explain": "최선을 다하다 = cố gắng hết sức."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tháng sau tôi phải chuyển đến Busan.",
+   "tokens": [
+    "다음",
+    "달에",
+    "부산으로",
+    "이사하게",
+    "됐어요"
+   ],
+   "answer": "다음 달에 부산으로 이사하게 됐어요",
+   "explain": "이사하다 + 게 됐어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hạn nộp đơn là thứ Sáu.",
+   "tokens": [
+    "신청",
+    "마감은",
+    "금요일이에요"
+   ],
+   "answer": "신청 마감은 금요일이에요",
+   "explain": "신청 마감 = hạn đăng ký."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi quen được nhiều bạn tốt.",
+   "answer": [
+    "좋은 친구를 많이 알게 됐어요.",
+    "좋은 친구들을 많이 알게 됐어요.",
+    "좋은 친구를 많이 사귀게 됐어요.",
+    "좋은 친구들을 많이 사귀게 됐어요."
+   ],
+   "explain": "알다/사귀다 + 게 됐어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thư viện nghỉ vào thứ Hai.",
+   "answer": [
+    "도서관은 월요일에 휴관이에요.",
+    "도서관은 월요일에 휴관해요.",
+    "월요일에는 도서관이 휴관이에요."
+   ],
+   "explain": "휴관 = nghỉ (hoạt động)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cuối tuần nào tôi cũng đi tình nguyện.",
+   "answer": [
+    "주말마다 자원봉사를 해요.",
+    "주말마다 봉사 활동을 해요.",
+    "매주 주말에 자원봉사를 해요."
+   ],
+   "explain": "주말마다 + 자원봉사를 해요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "처음에는 한국어가 어려웠지만 친구들 덕분에 재미있게 공부하게 됐어요.",
+   "answer": "Lúc đầu tiếng Hàn khó, nhưng nhờ các bạn mà tôi đã học một cách thú vị.",
+   "explain": "덕분에 = nhờ (sẽ học kỹ ở bài sau); 공부하게 됐어요 = thành ra học…"
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự đúng. (Dạng TOPIK II câu 13~15)\n(가) 그래서 작년에 교환학생 프로그램에 신청했습니다.\n(나) 저는 어릴 때부터 한국 문화에 관심이 많았습니다.\n(다) 지금은 서울에서 한국 친구들과 같이 공부하고 있습니다.\n(라) 운이 좋아서 합격했고 한국에 오게 되었습니다.",
+   "kr": "",
+   "options": [
+    "(나)-(가)-(라)-(다)",
+    "(가)-(나)-(라)-(다)",
+    "(나)-(라)-(가)-(다)",
+    "(다)-(나)-(가)-(라)"
+   ],
+   "answer": "(나)-(가)-(라)-(다)",
+   "explain": "Quan tâm văn hóa Hàn (나) → nên đăng ký chương trình (가) → đỗ nên được sang Hàn (라) → giờ đang học ở Seoul (다)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 13~16 phần Nghe/Đọc)",
+   "kr": "【자원봉사자 모집】\n외국인 학생 교류 행사에서 통역을 도와줄 학생을 모집합니다.\n• 날짜: 5월 20일 (토)\n• 신청 마감: 5월 10일\n• 활동비 지급: 3만 원\n※ 중국어나 베트남어를 할 수 있는 학생을 특히 환영합니다.",
+   "options": [
+    "봉사자는 활동비를 받아요.",
+    "신청은 5월 20일까지예요.",
+    "행사는 일요일에 있어요.",
+    "영어를 하는 학생만 신청할 수 있어요."
+   ],
+   "answer": "봉사자는 활동비를 받아요.",
+   "explain": "활동비 지급: 3만 원 → được trả 30.000 won. Hạn 10/5; sự kiện thứ Bảy; ưu tiên người nói tiếng Trung, tiếng Việt."
+  }
+ ]
+}

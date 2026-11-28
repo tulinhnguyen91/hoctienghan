@@ -1,0 +1,363 @@
+{
+ "id": "bai-44",
+ "lesson": "Bài 44",
+ "title": "Sức khỏe (phần 2/3)",
+ "krTitle": "건강 2",
+ "date": "2027-01-11",
+ "day": 54,
+ "source": "TOPIK 3 – Bài 3: Sức khỏe (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "쉬다",
+   "Swida",
+   "Nghỉ",
+   "피곤하면 좀 쉬는 게 좋아요.",
+   "Nếu mệt thì nên nghỉ một chút."
+  ],
+  [
+   "휴식을 취하다",
+   "Hyusigeul chwihada",
+   "Nghỉ ngơi",
+   "감기에 걸렸을 때는 충분히 휴식을 취하세요.",
+   "Khi bị cảm hãy nghỉ ngơi đầy đủ."
+  ],
+  [
+   "피로를 풀다",
+   "Piroreul pulda",
+   "Giải tỏa sự mệt mỏi",
+   "따뜻한 물에 목욕하면 피로를 풀 수 있어요.",
+   "Tắm nước ấm có thể giải tỏa mệt mỏi."
+  ],
+  [
+   "스트레스를 풀다",
+   "Seuteureseureul pulda",
+   "Giải tỏa căng thẳng",
+   "저는 노래를 부르면서 스트레스를 풀어요.",
+   "Tôi giải tỏa căng thẳng bằng cách hát."
+  ],
+  [
+   "휴가를 가다",
+   "Hyugareul gada",
+   "Đi nghỉ",
+   "여름에 바다로 휴가를 갈 생각이에요.",
+   "Mùa hè tôi định đi nghỉ ở biển."
+  ],
+  [
+   "가벼운 운동을 하다",
+   "Gabyeoun undongeul hada",
+   "Vận động nhẹ nhàng",
+   "아침에 가벼운 운동을 하는 게 좋아요.",
+   "Buổi sáng nên vận động nhẹ nhàng."
+  ],
+  [
+   "잠을 자다",
+   "Jameul jada",
+   "Ngủ",
+   "하루에 7시간 이상 잠을 자는 게 좋아요.",
+   "Mỗi ngày nên ngủ từ 7 tiếng trở lên."
+  ],
+  [
+   "(가슴이) 답답하다",
+   "(gaseumi) dapdapada",
+   "Tức ngực, khó chịu",
+   "스트레스 때문에 가슴이 답답해요.",
+   "Vì căng thẳng nên tôi thấy tức ngực."
+  ],
+  [
+   "볼링",
+   "Bolling",
+   "Bowling",
+   "주말에 친구들과 볼링을 쳤어요.",
+   "Cuối tuần tôi chơi bowling với bạn bè."
+  ],
+  [
+   "연령대",
+   "Yeollyeongdae",
+   "Lứa tuổi",
+   "연령대마다 좋아하는 운동이 달라요.",
+   "Mỗi lứa tuổi thích môn thể thao khác nhau."
+  ],
+  [
+   "규칙",
+   "Gyuchik",
+   "Quy tắc",
+   "건강 규칙을 정해서 지켜요.",
+   "Tôi đặt ra quy tắc sức khỏe rồi giữ theo."
+  ],
+  [
+   "불규칙적",
+   "Bulgyuchikjeok",
+   "Có tính bất quy tắc",
+   "식사 시간이 불규칙적이면 건강에 나빠요.",
+   "Giờ ăn thất thường thì có hại cho sức khỏe."
+  ],
+  [
+   "완성하다",
+   "Wanseonghada",
+   "Hoàn thành",
+   "한 달 동안 운동 계획을 완성했어요.",
+   "Tôi đã hoàn thành kế hoạch tập luyện một tháng."
+  ],
+  [
+   "규칙적",
+   "Gyuchikjeok",
+   "Mang tính quy tắc",
+   "규칙적으로 운동하는 게 좋아요.",
+   "Nên tập thể dục đều đặn."
+  ],
+  [
+   "변비",
+   "Byeonbi",
+   "Táo bón",
+   "물을 많이 마시면 변비에 좋아요.",
+   "Uống nhiều nước tốt cho người bị táo bón."
+  ],
+  [
+   "요가",
+   "Yoga",
+   "Yoga",
+   "요가를 하면 몸과 마음이 편해져요.",
+   "Tập yoga thì thân và tâm đều thư thái."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 게 좋다 — Nên",
+   "meaning": "Đưa ra lời khuyên một cách nhẹ nhàng: '…thì tốt, nên…'. Là V + 는 것이 좋다, văn nói rút gọn thành 는 게 좋다. Gắn 는 게 좋다 vào gốc động từ: 쉬다 → 쉬는 게 좋아요, 먹다 → 먹는 게 좋아요; patchim ㄹ bỏ ㄹ: 만들다 → 만드는 게 좋아요. Phủ định: 지 않는 게 좋다 (không nên): 밤늦게 먹지 않는 게 좋아요. Hỏi ý kiến: 뭐 하는 게 좋을까요? (Nên làm gì nhỉ?). Lịch sự và mềm hơn 아/어야 해요 (phải).",
+   "examples": [
+    "피곤하면 일찍 자는 게 좋아요. — Mệt thì nên ngủ sớm.",
+    "규칙적으로 운동하는 게 좋아요. — Nên tập thể dục đều đặn.",
+    "밤늦게 음식을 먹지 않는 게 좋아요. — Không nên ăn khuya.",
+    "스트레스를 풀 때 뭐 하는 게 좋을까요? — Khi muốn giải tỏa căng thẳng thì nên làm gì nhỉ?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mệt thì nên nghỉ.",
+   "kr": "피곤하면 ___.",
+   "options": [
+    "쉬는 게 좋아요",
+    "쉰 게 좋아요",
+    "쉬게 좋아요"
+   ],
+   "answer": "쉬는 게 좋아요",
+   "explain": "V + 는 게 좋다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Không nên ăn khuya.",
+   "kr": "밤늦게 ___.",
+   "options": [
+    "먹지 않는 게 좋아요",
+    "안 먹는 게 좋지 않아요",
+    "먹는 게 좋지요"
+   ],
+   "answer": "먹지 않는 게 좋아요",
+   "explain": "Phủ định: 지 않는 게 좋다 = không nên."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Nên tự làm đồ ăn ở nhà.",
+   "kr": "집에서 음식을 ___.",
+   "options": [
+    "만드는 게 좋아요",
+    "만들는 게 좋아요",
+    "만든 게 좋아요"
+   ],
+   "answer": "만드는 게 좋아요",
+   "explain": "Patchim ㄹ bỏ đi trước 는: 만드는."
+  },
+  {
+   "type": "choice",
+   "q": "Hỏi xin lời khuyên: Nên làm gì nhỉ?",
+   "kr": "",
+   "options": [
+    "뭐 하는 게 좋을까요?",
+    "뭐 하는 게 좋을게요?",
+    "뭐 한 게 좋을까요?"
+   ],
+   "answer": "뭐 하는 게 좋을까요?",
+   "explain": "는 게 좋을까요? = nên… nhỉ?"
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào là lời khuyên NHẸ NHÀNG nhất?",
+   "kr": "",
+   "options": [
+    "일찍 자는 게 좋아요.",
+    "일찍 자야 해요.",
+    "일찍 자세요."
+   ],
+   "answer": "일찍 자는 게 좋아요.",
+   "explain": "는 게 좋아요 mềm hơn 아/어야 해요 (phải) và mệnh lệnh (으)세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tắm nước ấm giúp giải tỏa mệt mỏi.",
+   "kr": "따뜻한 물에 목욕하면 ___를 풀 수 있어요.",
+   "options": [
+    "피로",
+    "규칙",
+    "변비"
+   ],
+   "answer": "피로",
+   "explain": "피로를 풀다 = giải tỏa mệt mỏi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Giờ ăn thất thường có hại cho sức khỏe.",
+   "kr": "식사 시간이 ___이면 건강에 나빠요.",
+   "options": [
+    "불규칙적",
+    "규칙적",
+    "완성"
+   ],
+   "answer": "불규칙적",
+   "explain": "불규칙적 = không đều, thất thường."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vì căng thẳng nên tôi thấy tức ngực.",
+   "kr": "스트레스 때문에 가슴이 ___.",
+   "options": [
+    "답답해요",
+    "완성해요",
+    "규칙적이에요"
+   ],
+   "answer": "답답해요",
+   "explain": "가슴이 답답하다 = tức ngực, bức bối."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 게 좋아요 vào 마시다: Nên uống nhiều nước.",
+   "kr": "물을 많이 ___.",
+   "answer": [
+    "마시는 게 좋아요"
+   ],
+   "explain": "마시 + 는 게 좋아요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 게 좋아요 vào 하다: Nên vận động nhẹ nhàng.",
+   "kr": "가벼운 운동을 ___.",
+   "answer": [
+    "하는 게 좋아요"
+   ],
+   "explain": "하 + 는 게 좋아요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng phủ định: Không nên hút thuốc.",
+   "kr": "담배를 피우지 ___ 게 좋아요.",
+   "answer": [
+    "않는"
+   ],
+   "explain": "지 않는 게 좋아요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Khi bị cảm hãy nghỉ ngơi đầy đủ.",
+   "kr": "충분히 휴식을 ___.",
+   "answer": [
+    "취하세요"
+   ],
+   "explain": "휴식을 취하다 = nghỉ ngơi."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nên tập thể dục đều đặn.",
+   "tokens": [
+    "규칙적으로",
+    "운동하는",
+    "게",
+    "좋아요"
+   ],
+   "answer": "규칙적으로 운동하는 게 좋아요",
+   "explain": "규칙적으로 = một cách đều đặn."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi giải tỏa căng thẳng bằng yoga.",
+   "tokens": [
+    "요가로",
+    "스트레스를",
+    "풀어요"
+   ],
+   "answer": "요가로 스트레스를 풀어요",
+   "explain": "N(으)로 = bằng; 스트레스를 풀다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mệt thì nên ngủ sớm.",
+   "answer": [
+    "피곤하면 일찍 자는 게 좋아요.",
+    "피곤하면 일찍 자는 것이 좋아요.",
+    "피곤할 때는 일찍 자는 게 좋아요."
+   ],
+   "explain": "피곤하면 + 일찍 자는 게 좋아요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không nên uống cà phê buổi tối.",
+   "answer": [
+    "밤에 커피를 마시지 않는 게 좋아요.",
+    "저녁에 커피를 마시지 않는 게 좋아요.",
+    "밤에는 커피를 마시지 않는 게 좋아요.",
+    "저녁에는 커피를 마시지 않는 게 좋아요.",
+    "밤에 커피를 안 마시는 게 좋아요.",
+    "저녁에 커피를 안 마시는 게 좋아요."
+   ],
+   "explain": "지 않는 게 좋아요 / 안 V는 게 좋아요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mùa hè tôi định đi nghỉ ở biển.",
+   "answer": [
+    "여름에 바다로 휴가를 갈 생각이에요.",
+    "여름에 바다에 휴가를 갈 생각이에요.",
+    "여름에 바다로 휴가를 가려고 해요.",
+    "여름에 바다로 휴가 갈 생각이에요."
+   ],
+   "explain": "휴가를 가다 + (으)ㄹ 생각이에요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "연령대에 따라 건강을 지키는 방법이 다르니까 자신에게 맞는 운동을 찾는 게 좋아요.",
+   "answer": "Tùy lứa tuổi mà cách giữ gìn sức khỏe khác nhau, nên tốt nhất là tìm môn thể thao hợp với bản thân.",
+   "explain": "에 따라 = tùy theo (mẫu TOPIK 4, chỉ cần hiểu); 자신에게 맞는 = hợp với mình."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)",
+   "kr": "【직장인 건강 생활 규칙】\n① 하루 7시간 이상 잠자기\n② 점심 후 10분 걷기\n③ 한 시간마다 5분씩 휴식 취하기\n④ 밤 9시 이후에는 먹지 않기",
+   "options": [
+    "한 시간마다 5분씩 쉬는 게 좋아요.",
+    "밤 9시 이후에 먹어도 돼요.",
+    "하루에 5시간만 자면 돼요.",
+    "점심 전에 걷는 게 좋아요."
+   ],
+   "answer": "한 시간마다 5분씩 쉬는 게 좋아요.",
+   "explain": "Quy tắc ③: mỗi giờ nghỉ 5 phút. Ngủ trên 7 tiếng; đi bộ sau bữa trưa; không ăn sau 9 giờ tối."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 13~16)",
+   "kr": "남자: 요즘 스트레스 때문에 가슴이 답답해요.\n여자: 그럼 요가를 해 보세요. 저는 요가를 시작한 후에 잠도 잘 자고 마음도 편해졌어요.\n남자: 저는 몸이 딱딱해서 요가는 좀 어려울 것 같아요.\n여자: 처음에는 가벼운 동작만 하는 게 좋아요.",
+   "options": [
+    "여자는 요가를 한 후에 잠을 잘 자게 됐어요.",
+    "남자는 요가를 오래 했어요.",
+    "여자는 요가가 어렵다고 생각해요.",
+    "남자는 스트레스가 없어요."
+   ],
+   "answer": "여자는 요가를 한 후에 잠을 잘 자게 됐어요.",
+   "explain": "Người nữ: từ khi tập yoga ngủ ngon và tâm thư thái hơn."
+  }
+ ]
+}

@@ -1,0 +1,359 @@
+{
+ "id": "bai-58",
+ "lesson": "Bài 58",
+ "title": "Tính cách (phần 1/4)",
+ "krTitle": "성격 1",
+ "date": "2027-02-01",
+ "day": 75,
+ "source": "TOPIK 3 – Bài 7: Tính cách (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "활발하다",
+   "Hwalbalhada",
+   "Hoạt bát",
+   "동생은 아이처럼 활발해요.",
+   "Em tôi hoạt bát như đứa trẻ."
+  ],
+  [
+   "명랑하다",
+   "Myeongnanghada",
+   "Sáng sủa, vui vẻ, rạng rỡ",
+   "그 친구는 항상 명랑해요.",
+   "Bạn đó lúc nào cũng vui vẻ."
+  ],
+  [
+   "밝다",
+   "Bakda",
+   "Sáng sủa (tính cách vui tươi)",
+   "성격이 밝은 사람이 좋아요.",
+   "Tôi thích người tính cách tươi sáng."
+  ],
+  [
+   "착하다",
+   "Chakada",
+   "Hiền lành",
+   "제 룸메이트는 천사처럼 착해요.",
+   "Bạn cùng phòng tôi hiền như thiên thần."
+  ],
+  [
+   "조용하다",
+   "Joyonghada",
+   "Trầm lặng",
+   "형은 조용하지만 생각이 깊어요.",
+   "Anh tôi trầm lặng nhưng suy nghĩ sâu sắc."
+  ],
+  [
+   "얌전하다",
+   "Yamjeonhada",
+   "Nhu mì, ngoan ngoãn",
+   "어릴 때는 얌전한 아이였어요.",
+   "Hồi nhỏ tôi là đứa trẻ ngoan ngoãn."
+  ],
+  [
+   "솔직하다",
+   "Soljikada",
+   "Thẳng thắn, thật thà",
+   "솔직하게 말해 주세요.",
+   "Hãy nói thẳng cho tôi."
+  ],
+  [
+   "고집이 세다",
+   "Gojibi seda",
+   "Bảo thủ, cứng đầu",
+   "아버지는 고집이 세서 의견을 잘 안 바꾸세요.",
+   "Bố tôi cứng đầu nên hiếm khi đổi ý."
+  ],
+  [
+   "차분하다",
+   "Chabunhada",
+   "Điềm tĩnh",
+   "시험 때도 차분하게 문제를 풀었어요.",
+   "Cả lúc thi tôi cũng điềm tĩnh làm bài."
+  ],
+  [
+   "(성격이) 급하다",
+   "(seonggyeogi) geupada",
+   "Nóng vội, hấp tấp",
+   "저는 성격이 급해서 실수를 자주 해요.",
+   "Tôi tính nóng vội nên hay mắc lỗi."
+  ],
+  [
+   "적극적이다",
+   "Jeokgeukjeogida",
+   "Tích cực, năng nổ",
+   "수업 시간에 적극적으로 발표해요.",
+   "Trong giờ học tôi phát biểu sôi nổi."
+  ],
+  [
+   "소극적이다",
+   "Sogeukjeogida",
+   "Thụ động, rụt rè",
+   "처음에는 소극적이었지만 지금은 많이 달라졌어요.",
+   "Lúc đầu tôi rụt rè nhưng giờ đã khác nhiều."
+  ],
+  [
+   "사교적이다",
+   "Sagyojeogida",
+   "Dễ gần, giỏi giao tiếp",
+   "언니는 사교적이라서 친구가 많아요.",
+   "Chị tôi giỏi giao tiếp nên có nhiều bạn."
+  ],
+  [
+   "내성적이다",
+   "Naeseongjeogida",
+   "Hướng nội, trầm lắng",
+   "저는 내성적이라서 처음 만난 사람과 이야기하기 어려워요.",
+   "Tôi hướng nội nên khó nói chuyện với người mới gặp."
+  ],
+  [
+   "재주가 많다",
+   "Jaejuga manta",
+   "Đa tài",
+   "민수 씨는 재주가 많아서 노래도 잘하고 그림도 잘 그려요.",
+   "Minsu đa tài nên hát hay và vẽ cũng giỏi."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 처럼 — Giống như",
+   "meaning": "So sánh, ví von: 'giống như N, như N'. Gắn thẳng sau danh từ: 아이처럼 (như trẻ con), 천사처럼 (như thiên thần), 가수처럼 노래를 잘해요 (hát hay như ca sĩ). Dạng tương đương: N같이 (아이같이). Dùng để miêu tả: N처럼 + động/tính từ. Để làm định ngữ trước danh từ dùng N 같은: 천사 같은 사람 (người như thiên thần). Thành ngữ hay gặp: 꿈처럼 (như mơ), 거짓말처럼 (như nói dối — không thể tin nổi).",
+   "examples": [
+    "동생은 아이처럼 활발해요. — Em tôi hoạt bát như trẻ con.",
+    "제 룸메이트는 천사처럼 착해요. — Bạn cùng phòng tôi hiền như thiên thần.",
+    "민수 씨는 가수처럼 노래를 잘해요. — Minsu hát hay như ca sĩ.",
+    "어머니 같은 선생님을 만났어요. — Tôi đã gặp một cô giáo như mẹ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hát hay như ca sĩ.",
+   "kr": "___ 노래를 잘해요.",
+   "options": [
+    "가수처럼",
+    "가수처럼이",
+    "가수 같은"
+   ],
+   "answer": "가수처럼",
+   "explain": "N처럼 + động từ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Người như thiên thần.",
+   "kr": "___ 사람",
+   "options": [
+    "천사 같은",
+    "천사처럼",
+    "천사같이요"
+   ],
+   "answer": "천사 같은",
+   "explain": "Trước danh từ dùng N 같은."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào CÙNG NGHĨA với '아이처럼 웃어요'?",
+   "kr": "",
+   "options": [
+    "아이같이 웃어요.",
+    "아이 같은 웃어요.",
+    "아이처럼이 웃어요."
+   ],
+   "answer": "아이같이 웃어요.",
+   "explain": "N처럼 = N같이."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Chị tôi giỏi giao tiếp nên có nhiều bạn.",
+   "kr": "언니는 ___ 친구가 많아요.",
+   "options": [
+    "사교적이라서",
+    "내성적이라서",
+    "소극적이라서"
+   ],
+   "answer": "사교적이라서",
+   "explain": "사교적이다 = dễ gần, giỏi giao tiếp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi tính nóng vội nên hay mắc lỗi.",
+   "kr": "저는 성격이 ___ 실수를 자주 해요.",
+   "options": [
+    "급해서",
+    "차분해서",
+    "착해서"
+   ],
+   "answer": "급해서",
+   "explain": "성격이 급하다 = nóng vội."
+  },
+  {
+   "type": "choice",
+   "q": "Người '고집이 세다' là người thế nào?",
+   "kr": "",
+   "options": [
+    "Cứng đầu, khó đổi ý",
+    "Rất hiền",
+    "Hay cười"
+   ],
+   "answer": "Cứng đầu, khó đổi ý",
+   "explain": "고집 = sự cố chấp; 세다 = mạnh."
+  },
+  {
+   "type": "choice",
+   "q": "Từ trái nghĩa với '적극적이다' là gì?",
+   "kr": "",
+   "options": [
+    "소극적이다",
+    "사교적이다",
+    "활발하다"
+   ],
+   "answer": "소극적이다",
+   "explain": "적극적 (tích cực, chủ động) ↔ 소극적 (thụ động)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Minsu đa tài: hát hay và vẽ giỏi.",
+   "kr": "민수 씨는 ___ 노래도 잘하고 그림도 잘 그려요.",
+   "options": [
+    "재주가 많아서",
+    "고집이 세서",
+    "얌전해서"
+   ],
+   "answer": "재주가 많아서",
+   "explain": "재주가 많다 = nhiều tài."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 처럼: Em tôi hoạt bát như trẻ con.",
+   "kr": "동생은 아이___ 활발해요.",
+   "answer": [
+    "처럼",
+    "같이"
+   ],
+   "explain": "N처럼/같이."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 처럼: Hôm đó hạnh phúc như mơ.",
+   "kr": "그날은 꿈___ 행복했어요.",
+   "answer": [
+    "처럼",
+    "같이"
+   ],
+   "explain": "꿈처럼 = như mơ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 같은: Tôi muốn làm người như mẹ.",
+   "kr": "엄마 ___ 사람이 되고 싶어요.",
+   "answer": [
+    "같은"
+   ],
+   "explain": "Trước danh từ: N 같은."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trong giờ học tôi phát biểu sôi nổi.",
+   "kr": "수업 시간에 ___으로 발표해요.",
+   "answer": [
+    "적극적"
+   ],
+   "explain": "적극적으로 = một cách tích cực."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bạn cùng phòng hiền như thiên thần.",
+   "tokens": [
+    "제",
+    "룸메이트는",
+    "천사처럼",
+    "착해요"
+   ],
+   "answer": "제 룸메이트는 천사처럼 착해요",
+   "explain": "천사처럼 + 착하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi hướng nội nên ít nói.",
+   "tokens": [
+    "저는",
+    "내성적이라서",
+    "말이",
+    "적어요"
+   ],
+   "answer": "저는 내성적이라서 말이 적어요",
+   "explain": "N이라서 = vì là."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy hát hay như ca sĩ.",
+   "answer": [
+    "그 사람은 가수처럼 노래를 잘해요.",
+    "그는 가수처럼 노래를 잘해요.",
+    "그 사람은 가수같이 노래를 잘해요.",
+    "그는 가수같이 노래를 잘해요."
+   ],
+   "explain": "가수처럼 + 노래를 잘하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi thích người tính cách tươi sáng.",
+   "answer": [
+    "저는 성격이 밝은 사람이 좋아요.",
+    "성격이 밝은 사람이 좋아요.",
+    "저는 성격이 밝은 사람을 좋아해요.",
+    "성격이 밝은 사람을 좋아해요."
+   ],
+   "explain": "성격이 밝다 → 밝은 사람."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bố tôi rất cứng đầu.",
+   "answer": [
+    "아버지는 고집이 정말 세세요.",
+    "아버지는 고집이 아주 세세요.",
+    "아버지는 고집이 세요.",
+    "아빠는 고집이 정말 세요.",
+    "아버지는 고집이 정말 세요."
+   ],
+   "explain": "고집이 세다 (+ kính ngữ 세세요)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저는 처음에는 소극적이었지만 동아리 활동을 하면서 적극적인 사람이 되었어요.",
+   "answer": "Lúc đầu tôi thụ động, nhưng khi tham gia câu lạc bộ tôi đã trở thành người năng nổ.",
+   "explain": "하면서 = trong khi/khi làm; 적극적인 사람 = người tích cực."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 새로 온 직원은 어때요?\n남자: 아주 사교적이에요. 벌써 모든 사람과 친해졌어요.\n여자: ( ___ )",
+   "options": [
+    "그래요? 성격이 정말 밝은 사람이네요.",
+    "아니요, 아직 안 왔어요.",
+    "저도 내성적이에요.",
+    "회의는 3시예요."
+   ],
+   "answer": "그래요? 성격이 정말 밝은 사람이네요.",
+   "explain": "Phản hồi tự nhiên khi nghe khen nhân viên mới dễ gần."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp với nội dung. (Dạng TOPIK II câu 19~24)",
+   "kr": "내성적인 사람은 처음 만난 사람과 이야기하기 어렵지만 한 사람과 오래 깊게 사귀는 경우가 많습니다. 반대로 사교적인 사람은 친구가 많지만 ( ___ ) 대화를 나누기 어려울 때도 있습니다. 성격에는 좋고 나쁜 것이 없습니다.",
+   "options": [
+    "깊은",
+    "짧은",
+    "재미있는",
+    "시끄러운"
+   ],
+   "answer": "깊은",
+   "explain": "Đối lập với 'kết bạn lâu và sâu' của người hướng nội → người hướng ngoại đôi khi khó có cuộc trò chuyện sâu."
+  }
+ ]
+}

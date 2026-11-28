@@ -1,0 +1,53 @@
+{
+ "id": "bai-83",
+ "lesson": "Bài 83",
+ "title": "Niềm hy vọng (phần 5/5)",
+ "krTitle": "희망 5",
+ "date": "2027-03-11",
+ "day": 113,
+ "source": "TOPIK 3 – Bài 13: Niềm hy vọng (phần 5/5)",
+ "practice": {"listening": "Nghe – câu 4~8: Chọn câu nối tiếp", "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"},
+ "words": [
+  ["인턴사원", "Inteonsawon", "Nhân viên thực tập", "인턴사원으로 3개월 동안 일했어요.", "Tôi làm nhân viên thực tập 3 tháng."],
+  ["인형", "Inhyeong", "Búp bê", "딸이 곰 인형을 좋아해요.", "Con gái tôi thích gấu bông."],
+  ["장애인위원회", "Jangaeinwiwonhoe", "Ủy ban người khuyết tật", "장애인위원회에서 새 제도를 만들었어요.", "Ủy ban người khuyết tật đã lập chế độ mới."],
+  ["적합하다", "Jeokapada", "Thích hợp", "이 일에 적합한 사람을 찾고 있어요.", "Đang tìm người thích hợp cho công việc này."],
+  ["직장", "Jikjang", "Nơi làm việc", "직장이 집에서 가까웠으면 좋겠어요.", "Ước gì chỗ làm gần nhà."],
+  ["최초", "Choecho", "Đầu tiên", "그녀는 한국 최초의 여자 비행사예요.", "Bà ấy là nữ phi công đầu tiên của Hàn Quốc."],
+  ["충격", "Chunggyeok", "Cú sốc", "그 소식을 듣고 충격을 받았어요.", "Nghe tin đó tôi bị sốc."],
+  ["취업 준비", "Chwieop junbi", "Chuẩn bị xin việc", "요즘 취업 준비 때문에 바빠요.", "Dạo này bận vì chuẩn bị xin việc."],
+  ["치료하다", "Chiryohada", "Điều trị", "병원에서 다리를 치료했어요.", "Tôi đã điều trị chân ở bệnh viện."],
+  ["특별보좌관", "Teukbyeolbojwagwan", "Trợ lý đặc biệt", "그는 대통령의 특별보좌관이 되었어요.", "Ông ấy trở thành trợ lý đặc biệt của tổng thống."],
+  ["평생", "Pyeongsaeng", "Cả đời", "이 일을 평생 하고 싶어요.", "Tôi muốn làm việc này cả đời."],
+  ["포인트", "Pointeu", "Điểm (trọng tâm, tích điểm)", "카드로 사면 포인트가 쌓여요.", "Mua bằng thẻ thì được tích điểm."],
+  ["피아니스트", "Pianiseuteu", "Nghệ sĩ piano", "제 꿈은 피아니스트가 되는 거예요.", "Ước mơ của tôi là thành nghệ sĩ piano."],
+  ["현실적이다", "Hyeonsiljeogida", "Thực tế", "좀 더 현실적인 계획이 필요해요.", "Cần một kế hoạch thực tế hơn."],
+  ["협동성", "Hyeopdongseong", "Tính hợp tác", "회사에서는 협동성이 중요해요.", "Ở công ty, tính hợp tác rất quan trọng."],
+  ["회복되다", "Hoebokdoeda", "Được phục hồi", "건강이 빨리 회복되었으면 좋겠어요.", "Mong sức khỏe sớm hồi phục."]
+ ],
+ "patterns": [
+  {"form": "V/A + 았/었으면 좋겠다 — Ước gì", "meaning": "Diễn tả MONG ƯỚC mạnh của người nói về một việc chưa xảy ra hoặc trái với hiện tại: 'ước gì…, mong là…'. Đã học (으)면 좋겠다 — dạng 았/었으면 좋겠다 có nghĩa gần như giống nhau nhưng mong ước mạnh, tha thiết hơn và rất hay dùng trong văn nói. Chia: ㅏ/ㅗ + 았으면 (가다 → 갔으면), nguyên âm khác + 었으면 (먹다 → 먹었으면), 하다 → 했으면, danh từ + 였/이었으면 (주말 → 주말이었으면). Có thể thay 좋겠다 bằng 하다/바라다: 합격했으면 해요. Lưu ý: dù có 았/었 nhưng KHÔNG phải nghĩa quá khứ — là mong ước cho hiện tại/tương lai.", "examples": ["내일 비가 안 왔으면 좋겠어요. — Mong là mai trời không mưa.", "직장이 집에서 가까웠으면 좋겠어요. — Ước gì chỗ làm gần nhà.", "할머니의 건강이 빨리 회복되었으면 좋겠어요. — Mong sức khỏe bà sớm hồi phục.", "오늘이 금요일이었으면 좋겠다! — Ước gì hôm nay là thứ Sáu!"]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Mong là mai trời không mưa.", "kr": "내일 비가 안 ___ 좋겠어요.", "options": ["왔으면", "와서", "오니까"], "answer": "왔으면", "explain": "Ước muốn → 았/었으면 좋겠다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Ước gì hôm nay là thứ Sáu!", "kr": "오늘이 ___ 좋겠다!", "options": ["금요일이었으면", "금요일었으면", "금요일이면서"], "answer": "금요일이었으면", "explain": "Danh từ có patchim + 이었으면."},
+  {"type": "choice", "q": "Chia đúng: 합격하다 + 았/었으면 좋겠다", "kr": "", "options": ["합격했으면 좋겠다", "합격하었으면 좋겠다", "합격았으면 좋겠다"], "answer": "합격했으면 좋겠다", "explain": "하다 → 했으면."},
+  {"type": "choice", "q": "Câu '시험에 합격했으면 좋겠어요' có nghĩa là gì?", "kr": "", "options": ["Mong là thi đỗ.", "Đã thi đỗ rồi.", "Không muốn thi đỗ."], "answer": "Mong là thi đỗ.", "explain": "았/었 ở đây không phải quá khứ mà là mong ước."},
+  {"type": "choice", "q": "Chọn câu nối tiếp phù hợp: 요즘 너무 바빠서 잠을 못 자요.", "kr": "", "options": ["빨리 방학이 왔으면 좋겠어요.", "어제 방학이 왔어요.", "방학이 와 왔어요."], "answer": "빨리 방학이 왔으면 좋겠어요.", "explain": "Ước kỳ nghỉ đến nhanh."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Nghe tin đó tôi bị sốc.", "kr": "그 소식을 듣고 ___을 받았어요.", "options": ["충격", "포인트", "최초"], "answer": "충격", "explain": "충격을 받다 = bị sốc."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Đang tìm người thích hợp cho công việc này.", "kr": "이 일에 ___ 사람을 찾고 있어요.", "options": ["적합한", "현실적한", "회복된"], "answer": "적합한", "explain": "적합하다 → 적합한."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Cần một kế hoạch thực tế hơn.", "kr": "좀 더 ___ 계획이 필요해요.", "options": ["현실적인", "평생인", "협동성"], "answer": "현실적인", "explain": "현실적 + 인 + N."},
+  {"type": "fill", "q": "Điền: Ước gì chỗ làm gần nhà.", "kr": "직장이 집에서 가까___ 좋겠어요.", "answer": ["웠으면"], "explain": "가깝다 (bất quy tắc ㅂ) → 가까웠으면."},
+  {"type": "fill", "q": "Điền: Mong sức khỏe bà sớm hồi phục.", "kr": "할머니 건강이 빨리 회복되___ 좋겠어요.", "answer": ["었으면"], "explain": "되다 → 되었으면 / 됐으면."},
+  {"type": "fill", "q": "Điền: Mong là bạn tìm được việc tốt.", "kr": "좋은 직장을 찾___ 좋겠어요.", "answer": ["았으면"], "explain": "찾다 → 찾았으면."},
+  {"type": "fill", "q": "Điền từ: Tôi muốn làm việc này cả đời.", "kr": "이 일을 ___ 하고 싶어요.", "answer": ["평생"], "explain": "평생 = cả đời."},
+  {"type": "order", "q": "Sắp xếp thành câu: Mong là mai trời không mưa.", "tokens": ["내일", "비가", "안", "왔으면", "좋겠어요"], "answer": "내일 비가 안 왔으면 좋겠어요", "explain": "았/었으면 좋겠다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Ở công ty tính hợp tác rất quan trọng.", "tokens": ["회사에서는", "협동성이", "중요해요"], "answer": "회사에서는 협동성이 중요해요", "explain": "협동성 = tính hợp tác."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Ước gì hôm nay là thứ Sáu.", "answer": ["오늘이 금요일이었으면 좋겠어요.", "오늘이 금요일이었으면 좋겠다.", "오늘이 금요일이면 좋겠어요."], "explain": "이었으면 좋겠다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Mong là tôi thi đỗ.", "answer": ["시험에 합격했으면 좋겠어요.", "합격했으면 좋겠어요.", "시험에 붙었으면 좋겠어요."], "explain": "합격했으면 좋겠다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Mua bằng thẻ thì được tích điểm.", "answer": ["카드로 사면 포인트가 쌓여요.", "카드로 사면 포인트를 받아요.", "카드로 계산하면 포인트가 쌓여요."], "explain": "포인트가 쌓이다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "저는 지금 취업 준비를 하고 있어요. 제 적성에 맞는 회사에 들어갔으면 좋겠어요.", "answer": "Tôi đang chuẩn bị xin việc. Mong là tôi vào được công ty hợp với sở trường của mình.", "explain": "적성에 맞다 + 았/었으면 좋겠다."},
+  {"type": "read", "q": "Chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)", "kr": "남자: 어머니가 병원에 입원하셨다고 들었어요. 괜찮으세요?\n여자: 네, 수술은 잘 끝났어요.\n남자: ( ___ )", "options": ["다행이네요. 빨리 회복되셨으면 좋겠어요.", "그럼 수술을 해야겠어요.", "병원에 입원해 왔어요.", "충격을 받았으면 좋겠어요."], "answer": "다행이네요. 빨리 회복되셨으면 좋겠어요.", "explain": "Lời chúc mong hồi phục → 았/었으면 좋겠다."},
+  {"type": "read", "q": "Chọn phần có nghĩa gần nhất với phần gạch chân. (Dạng TOPIK II câu 3~4)", "kr": "이번 시험에 꼭 [합격했으면 좋겠어요].", "options": ["합격하기를 바라요", "합격한 적이 있어요", "합격해 왔어요", "합격할 줄 몰랐어요"], "answer": "합격하기를 바라요", "explain": "았/었으면 좋겠다 ≈ 기를 바라다 (mong)."}
+ ]
+}

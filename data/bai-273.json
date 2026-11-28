@@ -1,0 +1,420 @@
+{
+ "id": "bai-273",
+ "lesson": "Bài 273",
+ "title": "Công việc và môi trường công sở (phần 1/3)",
+ "krTitle": "직업과 직장 1",
+ "date": "2027-12-23",
+ "day": 400,
+ "source": "TOPIK 6 – Bài 15: Công việc và môi trường công sở (phần 1/3)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "구직",
+   "Gujik",
+   "Tìm việc",
+   "요즘 구직 활동을 하고 있어요.",
+   "Dạo này tôi đang tìm việc."
+  ],
+  [
+   "지원서",
+   "Jiwonseo",
+   "Đơn xin việc",
+   "회사에 지원서를 냈어요.",
+   "Tôi đã nộp đơn xin việc cho công ty."
+  ],
+  [
+   "원서 마감",
+   "Wonseo magam",
+   "Hạn nộp đơn",
+   "원서 마감이 내일 오후 6시예요.",
+   "Hạn nộp đơn là 6 giờ chiều mai."
+  ],
+  [
+   "실기 시험",
+   "Silgi siheom",
+   "Thi kỹ năng, thi thực hành",
+   "요리사가 되려면 실기 시험을 봐야 해요.",
+   "Muốn làm đầu bếp phải thi thực hành."
+  ],
+  [
+   "구인",
+   "Guin",
+   "Tuyển người",
+   "그 회사가 구인 광고를 냈어요.",
+   "Công ty đó đã đăng quảng cáo tuyển người."
+  ],
+  [
+   "제출 서류",
+   "Jechul seoryu",
+   "Hồ sơ cần nộp",
+   "제출 서류를 다시 확인하세요.",
+   "Hãy kiểm tra lại hồ sơ cần nộp."
+  ],
+  [
+   "서류 전형",
+   "Seoryu jeonhyeong",
+   "Sự xét tuyển hồ sơ",
+   "서류 전형에 합격해서 면접을 보게 되었어요.",
+   "Đỗ vòng hồ sơ nên sẽ được phỏng vấn."
+  ],
+  [
+   "이력서",
+   "Iryeokseo",
+   "Sơ yếu lý lịch",
+   "이력서에 사진을 붙이세요.",
+   "Hãy dán ảnh vào sơ yếu lý lịch."
+  ],
+  [
+   "적성",
+   "Jeokseong",
+   "Năng khiếu, năng lực, khả năng",
+   "이 일은 제 적성에 맞아요.",
+   "Công việc này hợp với năng khiếu của tôi."
+  ],
+  [
+   "전형 방법",
+   "Jeonhyeong bangbeop",
+   "Phương pháp xét tuyển",
+   "회사마다 전형 방법이 달라요.",
+   "Mỗi công ty có phương pháp tuyển khác nhau."
+  ],
+  [
+   "면접",
+   "Myeonjeop",
+   "Phỏng vấn",
+   "내일 면접이 있어서 긴장돼요.",
+   "Mai có phỏng vấn nên tôi hồi hộp."
+  ],
+  [
+   "자기소개서",
+   "Jagisogaeseo",
+   "Bài tự giới thiệu",
+   "자기소개서를 솔직하게 쓰세요.",
+   "Hãy viết bài tự giới thiệu một cách trung thực."
+  ],
+  [
+   "근무",
+   "Geunmu",
+   "Làm việc",
+   "저는 무역 회사에서 근무하고 있어요.",
+   "Tôi đang làm việc ở công ty thương mại."
+  ],
+  [
+   "외근",
+   "Oegeun",
+   "Làm việc ở bên ngoài công ty",
+   "오늘은 외근이 있어서 사무실에 없어요.",
+   "Hôm nay tôi có việc bên ngoài nên không ở văn phòng."
+  ],
+  [
+   "브리핑",
+   "Beuriping",
+   "Sự trình bày tóm tắt, sự điểm lại",
+   "회의 전에 팀장님이 브리핑을 했어요.",
+   "Trước cuộc họp trưởng nhóm đã tóm tắt tình hình."
+  ],
+  [
+   "근속 연수",
+   "Geunsong yeonsu",
+   "Số năm liên tục làm việc",
+   "그는 근속 연수가 20년이에요.",
+   "Anh ấy đã làm liên tục 20 năm."
+  ],
+  [
+   "승진",
+   "Seungjin",
+   "Thăng chức",
+   "열심히 일해서 과장으로 승진했어요.",
+   "Làm việc chăm chỉ nên được thăng chức trưởng phòng."
+  ],
+  [
+   "결근",
+   "Gyeolgeun",
+   "Sự nghỉ làm",
+   "아파서 오늘 결근했어요.",
+   "Hôm nay tôi ốm nên nghỉ làm."
+  ],
+  [
+   "업무 보고",
+   "Eommu bogo",
+   "Báo cáo công việc",
+   "매주 금요일에 업무 보고를 해요.",
+   "Mỗi thứ sáu báo cáo công việc."
+  ],
+  [
+   "호봉",
+   "Hobong",
+   "Bậc lương",
+   "근무 연수에 따라 호봉이 올라가요.",
+   "Bậc lương tăng theo số năm làm việc."
+  ],
+  [
+   "야근",
+   "Yageun",
+   "Làm thêm buổi tối, tăng ca",
+   "이번 주에 야근을 세 번이나 했어요.",
+   "Tuần này tôi tăng ca tối tới ba lần."
+  ],
+  [
+   "출장",
+   "Chuljang",
+   "Đi công tác",
+   "다음 주에 베트남으로 출장을 가요.",
+   "Tuần sau tôi đi công tác Việt Nam."
+  ],
+  [
+   "업무 처리",
+   "Eommu cheori",
+   "Xử lý công việc",
+   "그는 업무 처리가 빨라요.",
+   "Anh ấy xử lý công việc nhanh."
+  ],
+  [
+   "연봉제",
+   "Yeonbongje",
+   "Chế độ lương theo năm",
+   "우리 회사는 연봉제를 실시하고 있어요.",
+   "Công ty tôi đang áp dụng chế độ lương năm."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 둥 마는 둥 하다 — Làm qua loa",
+   "meaning": "Diễn tả làm một việc một cách QUA LOA, ĐẠI KHÁI, như có như không — không rõ là đã làm hay chưa: 'làm qua loa, làm như không làm, … chưa ra… mà đã…'. Cấu tạo: V는 둥 (như là có) + 마는 둥 (như là không) + 하다. Gắn vào thân động từ: 먹다 → 먹는 둥 마는 둥 하다 (ăn qua quýt), 듣다 → 듣는 둥 마는 둥 하다 (nghe như không nghe), 자다 → 자는 둥 마는 둥 하다 (ngủ chập chờn), 보다 → 보는 둥 마는 둥 하다. Quá khứ: 는 둥 마는 둥 했다. Thường mang sắc thái TIÊU CỰC: chê trách, hoặc diễn tả hoàn cảnh vội vã, lo lắng. So sánh: (으)ㄹ락 말락 하다 (Bài 245 – chực xảy ra mà chưa); 는 둥 마는 둥 = làm mà như không làm.",
+   "examples": [
+    "면접 때문에 긴장해서 아침을 먹는 둥 마는 둥 했어요. — Vì hồi hộp phỏng vấn nên tôi ăn sáng qua quýt.",
+    "그는 회의 내용을 듣는 둥 마는 둥 했어요. — Anh ta nghe nội dung cuộc họp như không nghe.",
+    "어제 야근 때문에 자는 둥 마는 둥 했어요. — Hôm qua tăng ca nên ngủ chập chờn.",
+    "보고서를 쓰는 둥 마는 둥 해서 팀장님께 혼났어요. — Viết báo cáo qua loa nên bị trưởng nhóm mắng."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Văn bản ghi quá trình học tập, công tác của bản thân gọi là gì?",
+   "kr": "",
+   "options": [
+    "이력서",
+    "자기소개서",
+    "지원서"
+   ],
+   "answer": "이력서",
+   "explain": "이력서 = CV."
+  },
+  {
+   "type": "choice",
+   "q": "Làm việc thêm buổi tối sau giờ làm gọi là gì?",
+   "kr": "",
+   "options": [
+    "야근",
+    "외근",
+    "결근"
+   ],
+   "answer": "야근",
+   "explain": "야 = đêm."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 구직 (tìm việc) xét từ phía công ty là gì?",
+   "kr": "",
+   "options": [
+    "구인",
+    "승진",
+    "출장"
+   ],
+   "answer": "구인",
+   "explain": "구인 = tìm người."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Làm chăm chỉ nên được thăng chức.",
+   "kr": "열심히 일해서 과장으로 ___했어요.",
+   "options": [
+    "승진",
+    "결근",
+    "근무"
+   ],
+   "answer": "승진",
+   "explain": "승진하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Ăn sáng qua quýt.'",
+   "kr": "",
+   "options": [
+    "아침을 먹는 둥 마는 둥 했어요.",
+    "아침을 먹은 둥 마는 둥 했어요.",
+    "아침을 먹을 둥 말 둥 했어요."
+   ],
+   "answer": "아침을 먹는 둥 마는 둥 했어요.",
+   "explain": "V는 둥 마는 둥 하다."
+  },
+  {
+   "type": "choice",
+   "q": "'듣는 둥 마는 둥 했어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Nghe như không nghe, nghe qua loa",
+    "Nghe rất chăm chú",
+    "Không nghe được gì"
+   ],
+   "answer": "Nghe như không nghe, nghe qua loa",
+   "explain": "Qua loa."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu này thường mang sắc thái gì?",
+   "kr": "",
+   "options": [
+    "Tiêu cực (qua loa, chê trách)",
+    "Tích cực (khen ngợi)",
+    "Trung tính hoàn toàn"
+   ],
+   "answer": "Tiêu cực (qua loa, chê trách)",
+   "explain": "Làm như không làm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hôm nay tôi ốm nên nghỉ làm.",
+   "kr": "아파서 오늘 ___했어요.",
+   "options": [
+    "결근",
+    "외근",
+    "야근"
+   ],
+   "answer": "결근",
+   "explain": "결근 = nghỉ làm."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 둥 마는 둥 với 자다: Hôm qua tăng ca nên ngủ chập chờn.",
+   "kr": "어제 야근 때문에 ___ 했어요.",
+   "answer": [
+    "자는 둥 마는 둥"
+   ],
+   "explain": "자는 둥 마는 둥."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 둥 마는 둥 với 쓰다: Viết báo cáo qua loa nên bị mắng.",
+   "kr": "보고서를 ___ 해서 혼났어요.",
+   "answer": [
+    "쓰는 둥 마는 둥"
+   ],
+   "explain": "쓰는 둥 마는 둥."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tuần sau tôi đi công tác Việt Nam.",
+   "kr": "다음 주에 베트남으로 ___을 가요.",
+   "answer": [
+    "출장"
+   ],
+   "explain": "출장."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hãy viết bài tự giới thiệu trung thực.",
+   "kr": "___를 솔직하게 쓰세요.",
+   "answer": [
+    "자기소개서"
+   ],
+   "explain": "자기소개서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Anh ta nghe cuộc họp như không nghe.",
+   "tokens": [
+    "그는",
+    "회의",
+    "내용을",
+    "듣는",
+    "둥",
+    "마는",
+    "둥",
+    "했어요"
+   ],
+   "answer": "그는 회의 내용을 듣는 둥 마는 둥 했어요",
+   "explain": "는 둥 마는 둥."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đỗ vòng hồ sơ nên sẽ được phỏng vấn.",
+   "tokens": [
+    "서류",
+    "전형에",
+    "합격해서",
+    "면접을",
+    "보게",
+    "되었어요"
+   ],
+   "answer": "서류 전형에 합격해서 면접을 보게 되었어요",
+   "explain": "게 되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vì vội nên tôi rửa mặt qua loa rồi đi. (dùng 는 둥 마는 둥)",
+   "answer": [
+    "바빠서 세수를 하는 둥 마는 둥 하고 나갔어요.",
+    "급해서 세수를 하는 둥 마는 둥 하고 나왔어요.",
+    "바빠서 세수를 하는 둥 마는 둥 하고 갔어요."
+   ],
+   "explain": "하는 둥 마는 둥 하고."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đang làm việc ở công ty thương mại.",
+   "answer": [
+    "저는 무역 회사에서 근무하고 있어요.",
+    "저는 무역 회사에서 일하고 있어요."
+   ],
+   "explain": "근무하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mỗi thứ sáu báo cáo công việc.",
+   "answer": [
+    "매주 금요일에 업무 보고를 해요.",
+    "금요일마다 업무 보고를 해요."
+   ],
+   "explain": "업무 보고."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국 기업의 신입 사원 채용은 보통 서류 전형, 적성 검사, 면접 순서로 진행된다. 이력서와 자기소개서를 쓰는 둥 마는 둥 하면 서류 전형에서 떨어지기 십상이므로 정성껏 준비해야 한다.",
+   "answer": "Tuyển dụng nhân viên mới ở doanh nghiệp Hàn thường diễn ra theo thứ tự xét hồ sơ, kiểm tra năng khiếu, phỏng vấn. Nếu viết CV và bài tự giới thiệu qua loa thì rất dễ trượt ở vòng hồ sơ, vì vậy phải chuẩn bị chu đáo.",
+   "explain": "는 둥 마는 둥; 기 십상이다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "남자: 내일 면접이라서 그런지 아까부터 밥을 먹는 둥 마는 둥 하네요.\n여자: 너무 긴장하지 마세요. 준비 많이 했잖아요. 거울 앞에서 같이 연습해 볼까요?\n남자: 네, 좋아요.",
+   "options": [
+    "남자가 면접을 앞두고 긴장하고 있다.",
+    "남자가 면접관으로 일하고 있다.",
+    "두 사람이 식당에서 일하고 있다.",
+    "여자가 면접에 떨어졌다."
+   ],
+   "answer": "남자가 면접을 앞두고 긴장하고 있다.",
+   "explain": "내일 면접 + 먹는 둥 마는 둥."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "함께 성장할 인재를 찾습니다!\n· 모집 분야: 해외 영업 (베트남어 가능자 우대)\n· 원서 마감: 12월 31일\n· 제출 서류: 이력서, 자기소개서",
+   "options": [
+    "직원 채용 공고",
+    "어학원 광고",
+    "여행 상품 안내",
+    "제품 판매"
+   ],
+   "answer": "직원 채용 공고",
+   "explain": "모집 분야, 원서 마감, 제출 서류 → tuyển dụng."
+  }
+ ]
+}

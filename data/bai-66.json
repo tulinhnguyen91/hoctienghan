@@ -1,0 +1,362 @@
+{
+ "id": "bai-66",
+ "lesson": "Bài 66",
+ "title": "Chuyển chỗ ở (phần 2/4)",
+ "krTitle": "이사 2",
+ "date": "2027-02-13",
+ "day": 87,
+ "source": "TOPIK 3 – Bài 9: Chuyển chỗ ở (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "이삿짐 센터",
+   "Isatjim senteo",
+   "Trung tâm dịch vụ chuyển nhà",
+   "이삿짐 센터에 전화해서 예약했어요.",
+   "Tôi gọi trung tâm chuyển nhà để đặt lịch."
+  ],
+  [
+   "포장 이사",
+   "Pojang isa",
+   "Chuyển nhà trọn gói",
+   "포장 이사를 하면 직접 짐을 싸지 않아도 돼요.",
+   "Chuyển nhà trọn gói thì không cần tự đóng đồ."
+  ],
+  [
+   "집을 구하다",
+   "Jibeul guhada",
+   "Tìm nhà",
+   "학교 근처에서 집을 구하는 중이에요.",
+   "Tôi đang tìm nhà gần trường."
+  ],
+  [
+   "집을 나가다",
+   "Jibeul nagada",
+   "Rời khỏi nhà (dọn đi)",
+   "다음 달에 지금 사는 집을 나가요.",
+   "Tháng sau tôi dọn khỏi căn nhà đang ở."
+  ],
+  [
+   "계약하다",
+   "Gyeyakada",
+   "Ký hợp đồng",
+   "어제 원룸을 계약했어요.",
+   "Hôm qua tôi đã ký hợp đồng thuê phòng."
+  ],
+  [
+   "잔금을 치르다",
+   "Jangeumeul chireuda",
+   "Trả nốt số tiền còn lại",
+   "이삿날 잔금을 치렀어요.",
+   "Ngày chuyển nhà tôi trả nốt tiền còn lại."
+  ],
+  [
+   "짐을 싸다",
+   "Jimeul ssada",
+   "Đóng gói đồ đạc",
+   "밤새 짐을 쌌어요.",
+   "Tôi đóng đồ cả đêm."
+  ],
+  [
+   "짐을 싣다",
+   "Jimeul sitda",
+   "Chất đồ (lên xe)",
+   "트럭에 짐을 실었어요.",
+   "Tôi chất đồ lên xe tải."
+  ],
+  [
+   "짐을 옮기다",
+   "Jimeul omgida",
+   "Chuyển đồ",
+   "친구들이 무거운 짐을 옮겨 줬어요.",
+   "Các bạn đã khiêng đồ nặng giúp tôi."
+  ],
+  [
+   "짐을 풀다",
+   "Jimeul pulda",
+   "Dỡ đồ ra",
+   "새 집에서 짐을 풀었어요.",
+   "Tôi dỡ đồ ở nhà mới."
+  ],
+  [
+   "짐을 정리하다",
+   "Jimeul jeongnihada",
+   "Sắp xếp đồ đạc",
+   "짐을 정리할 때 일주일이 걸렸어요.",
+   "Sắp xếp đồ đạc mất một tuần."
+  ],
+  [
+   "보일러",
+   "Boilleo",
+   "Nồi hơi (máy sưởi)",
+   "보일러를 켤 줄 몰라서 추웠어요.",
+   "Không biết bật máy sưởi nên bị lạnh."
+  ],
+  [
+   "남향집",
+   "Namhyangjip",
+   "Nhà hướng nam",
+   "남향집은 햇빛이 잘 들어와요.",
+   "Nhà hướng nam đón nắng tốt."
+  ],
+  [
+   "마당",
+   "Madang",
+   "Sân",
+   "마당이 있는 집에서 살고 싶어요.",
+   "Tôi muốn sống ở nhà có sân."
+  ],
+  [
+   "주차장",
+   "Juchajang",
+   "Bãi đỗ xe",
+   "이 빌라는 주차장이 없어요.",
+   "Villa này không có bãi đỗ xe."
+  ],
+  [
+   "개별난방",
+   "Gaebyeollanbang",
+   "Hệ thống sưởi riêng từng nhà",
+   "개별난방이라서 난방비를 따로 내요.",
+   "Vì sưởi riêng nên tiền sưởi trả riêng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄹ 줄 알다/모르다 — Biết/không biết cách",
+   "meaning": "Nói về việc có biết CÁCH làm gì (kỹ năng, phương pháp) hay không: (으)ㄹ 줄 알다 = 'biết (cách)…', (으)ㄹ 줄 모르다 = 'không biết (cách)…'. Gốc có patchim + 을 줄 (읽을 줄 알아요); không patchim + ㄹ 줄 (켤 줄 몰라요); patchim ㄹ giữ nguyên (만들 줄 알아요). So với (으)ㄹ 수 있다: (으)ㄹ 줄 알다 nhấn mạnh 'biết cách' (kỹ năng học được); (으)ㄹ 수 있다 rộng hơn (có khả năng, được phép, điều kiện cho phép). PHÂN BIỆT với Bài 65: 줄 알았다/몰랐다 ở quá khứ = 'tưởng là / không ngờ'; còn 줄 알다/모르다 ở hiện tại với động từ = 'biết/không biết cách'.",
+   "examples": [
+    "보일러를 켤 줄 몰라서 추웠어요. — Không biết cách bật máy sưởi nên bị lạnh.",
+    "저는 운전할 줄 알아요. — Tôi biết lái xe.",
+    "김치를 만들 줄 아세요? — Bạn có biết làm kimchi không?",
+    "한자를 읽을 줄 몰라요. — Tôi không biết đọc chữ Hán."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi không biết cách bật máy sưởi.",
+   "kr": "보일러를 ___.",
+   "options": [
+    "켤 줄 몰라요",
+    "켜는 줄 몰라요",
+    "켠 줄 몰라요"
+   ],
+   "answer": "켤 줄 몰라요",
+   "explain": "Biết/không biết cách → (으)ㄹ 줄 알다/모르다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi biết lái xe.",
+   "kr": "저는 ___.",
+   "options": [
+    "운전할 줄 알아요",
+    "운전하는 줄 알아요",
+    "운전한 줄 알았어요"
+   ],
+   "answer": "운전할 줄 알아요",
+   "explain": "운전하 + ㄹ 줄 알아요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Bạn có biết làm kimchi không?",
+   "kr": "김치를 ___?",
+   "options": [
+    "만들 줄 알아요",
+    "만들을 줄 알아요",
+    "만드는 줄 알아요"
+   ],
+   "answer": "만들 줄 알아요",
+   "explain": "Patchim ㄹ giữ nguyên: 만들 줄."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào nghĩa là 'Tôi cứ tưởng bạn biết lái xe'?",
+   "kr": "",
+   "options": [
+    "운전할 줄 아는 줄 알았어요.",
+    "운전할 줄 알아요.",
+    "운전할 줄 몰라요."
+   ],
+   "answer": "운전할 줄 아는 줄 알았어요.",
+   "explain": "(으)ㄹ 줄 알다 (biết cách) + 는 줄 알았다 (cứ tưởng)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi chất đồ lên xe tải.",
+   "kr": "트럭에 짐을 ___.",
+   "options": [
+    "실었어요",
+    "풀었어요",
+    "쌌어요"
+   ],
+   "answer": "실었어요",
+   "explain": "싣다 (bất quy tắc ㄷ) → 실었어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ở nhà mới tôi dỡ đồ ra.",
+   "kr": "새 집에서 짐을 ___.",
+   "options": [
+    "풀었어요",
+    "쌌어요",
+    "실었어요"
+   ],
+   "answer": "풀었어요",
+   "explain": "짐을 풀다 = dỡ đồ; 짐을 싸다 = đóng đồ."
+  },
+  {
+   "type": "choice",
+   "q": "Dịch vụ chuyển nhà mà nhân viên đóng gói, chở và sắp xếp giúp gọi là gì?",
+   "kr": "",
+   "options": [
+    "포장 이사",
+    "집들이",
+    "개별난방"
+   ],
+   "answer": "포장 이사",
+   "explain": "포장 이사 = chuyển nhà trọn gói."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhà hướng nam đón nắng tốt.",
+   "kr": "___은 햇빛이 잘 들어와요.",
+   "options": [
+    "남향집",
+    "마당",
+    "주차장"
+   ],
+   "answer": "남향집",
+   "explain": "남향 = hướng nam."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 줄 몰라요 vào 읽다: Tôi không biết đọc chữ Hán.",
+   "kr": "한자를 ___.",
+   "answer": [
+    "읽을 줄 몰라요"
+   ],
+   "explain": "읽 + 을 줄 몰라요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 줄 알아요 vào 수영하다: Tôi biết bơi.",
+   "kr": "저는 ___.",
+   "answer": [
+    "수영할 줄 알아요"
+   ],
+   "explain": "수영하 + ㄹ 줄 알아요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng quá khứ của 치르다: Tôi đã trả nốt tiền còn lại.",
+   "kr": "잔금을 ___.",
+   "answer": [
+    "치렀어요"
+   ],
+   "explain": "치르다 → chỉ rơi 으: 치렀어요 (không thêm ㄹ)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어 줬어요 của 옮기다: Bạn bè khiêng đồ giúp tôi.",
+   "kr": "친구들이 짐을 ___.",
+   "answer": [
+    "옮겨 줬어요"
+   ],
+   "explain": "옮기다 → 옮겨 줬어요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bạn có biết làm kimchi không?",
+   "tokens": [
+    "김치를",
+    "만들",
+    "줄",
+    "아세요"
+   ],
+   "answer": "김치를 만들 줄 아세요",
+   "explain": "만들 줄 아세요? (kính ngữ)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đang tìm nhà gần trường.",
+   "tokens": [
+    "학교",
+    "근처에서",
+    "집을",
+    "구하는",
+    "중이에요"
+   ],
+   "answer": "학교 근처에서 집을 구하는 중이에요",
+   "explain": "집을 구하다 + 는 중이다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi không biết lái xe.",
+   "answer": [
+    "저는 운전할 줄 몰라요.",
+    "운전할 줄 몰라요.",
+    "저는 운전을 할 줄 몰라요.",
+    "운전을 할 줄 몰라요."
+   ],
+   "explain": "운전할 줄 몰라요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hôm qua tôi đã ký hợp đồng thuê phòng.",
+   "answer": [
+    "어제 원룸을 계약했어요.",
+    "어제 방을 계약했어요.",
+    "어제 집을 계약했어요."
+   ],
+   "explain": "계약하다 → 계약했어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi muốn sống ở nhà có sân.",
+   "answer": [
+    "마당이 있는 집에서 살고 싶어요.",
+    "마당 있는 집에서 살고 싶어요.",
+    "마당이 있는 집에 살고 싶어요."
+   ],
+   "explain": "마당이 있는 집."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "포장 이사를 하면 비싸지만 짐을 싸고 푸는 것을 다 해 줘서 편해요.",
+   "answer": "Chuyển nhà trọn gói thì đắt, nhưng họ đóng và dỡ đồ hết giúp nên tiện.",
+   "explain": "싸고 푸는 것 = việc đóng và dỡ; 해 줘서 = vì làm giúp."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu có nghĩa gần nhất. (Dạng TOPIK II câu 3~4)\n저는 한국 음식을 만들 줄 알아요.",
+   "kr": "",
+   "options": [
+    "저는 한국 음식을 만들 수 있어요.",
+    "저는 한국 음식을 만든 적이 없어요.",
+    "저는 한국 음식을 만들고 싶어요.",
+    "저는 한국 음식을 만들 생각이에요."
+   ],
+   "answer": "저는 한국 음식을 만들 수 있어요.",
+   "explain": "(으)ㄹ 줄 알다 (biết cách) ≈ (으)ㄹ 수 있다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 21~30)",
+   "kr": "여자: 이사 준비는 다 했어요?\n남자: 아직요. 포장 이사를 할 생각이었는데 비용이 너무 비싸서 제가 직접 짐을 싸기로 했어요.\n여자: 그럼 주말에 제가 도와줄게요. 짐을 잘 싸요.\n남자: 정말요? 고마워요. 대신 이사 끝나고 제가 저녁을 살게요.",
+   "options": [
+    "남자는 직접 짐을 싸기로 했다.",
+    "남자는 포장 이사를 하기로 했다.",
+    "여자는 주말에 바쁘다.",
+    "여자가 저녁을 사기로 했다."
+   ],
+   "answer": "남자는 직접 짐을 싸기로 했다.",
+   "explain": "Chuyển trọn gói đắt nên tự đóng đồ; bạn nữ sẽ giúp; người nam mời ăn tối."
+  }
+ ]
+}

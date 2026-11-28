@@ -1,0 +1,53 @@
+{
+ "id": "bai-81",
+ "lesson": "Bài 81",
+ "title": "Niềm hy vọng (phần 3/5)",
+ "krTitle": "희망 3",
+ "date": "2027-03-08",
+ "day": 110,
+ "source": "TOPIK 3 – Bài 13: Niềm hy vọng (phần 3/5)",
+ "practice": {"listening": "Nghe – câu 21~30: Hội thoại dài", "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"},
+ "words": [
+  ["실패하다", "Silpaehada", "Thất bại", "처음에는 실패했지만 다시 도전했어요.", "Lúc đầu thất bại nhưng tôi đã thử lại."],
+  ["노력하다", "Noryeokada", "Nỗ lực", "꿈을 위해서 열심히 노력해 왔어요.", "Tôi đã nỗ lực chăm chỉ vì ước mơ suốt đến nay."],
+  ["최선을 다하다", "Choeseoneul dahada", "Cố gắng hết mình", "결과보다 최선을 다하는 게 중요해요.", "Cố gắng hết mình quan trọng hơn kết quả."],
+  ["좌절하다", "Jwajeolhada", "Nản lòng, suy sụp", "한 번 실패했다고 좌절하지 마세요.", "Đừng suy sụp chỉ vì thất bại một lần."],
+  ["용기를 가지다", "Yonggireul gajida", "Có dũng khí", "용기를 가지고 말해 보세요.", "Hãy lấy can đảm mà thử nói đi."],
+  ["(어려움/장애/가난)을/를 극복하다", "(eoryeoum/jangae/ganan)eul/reul geukbokada", "Khắc phục khó khăn/trở ngại/nghèo khó", "그는 가난을 극복하고 성공했어요.", "Anh ấy đã vượt qua nghèo khó và thành công."],
+  ["각종", "Gakjong", "Các loại", "이 가게에는 각종 과일이 있어요.", "Cửa hàng này có đủ loại trái cây."],
+  ["교육자", "Gyoyukja", "Nhà giáo dục", "그분은 평생 교육자로 살아 왔어요.", "Ông ấy sống cả đời với tư cách nhà giáo dục."],
+  ["구체적으로", "Guchejeogeuro", "Một cách cụ thể", "계획을 구체적으로 말해 주세요.", "Hãy nói kế hoạch một cách cụ thể."],
+  ["금메달을 따다", "Geummedareul ttada", "Đạt huy chương vàng", "그 선수는 올림픽에서 금메달을 땄어요.", "Vận động viên đó giành HCV ở Olympic."],
+  ["기도", "Gido", "Sự cầu nguyện", "가족의 건강을 위해 기도를 해요.", "Tôi cầu nguyện cho sức khỏe gia đình."],
+  ["당첨되다", "Dangcheomdoeda", "Trúng (thưởng, xổ số)", "이벤트에 당첨돼서 영화표를 받았어요.", "Trúng sự kiện nên được vé xem phim."],
+  ["동시통역사", "Dongsitongyeoksa", "Phiên dịch viên dịch song song (cabin)", "제 꿈은 동시통역사가 되는 거예요.", "Ước mơ của tôi là trở thành phiên dịch cabin."],
+  ["몸무게", "Mommuge", "Trọng lượng cơ thể", "운동해서 몸무게가 줄었어요.", "Tập thể dục nên cân nặng giảm."],
+  ["백만장자", "Baengmanjangja", "Triệu phú", "그는 가난했지만 백만장자가 되었어요.", "Anh ta từng nghèo nhưng đã thành triệu phú."],
+  ["백악관", "Baegakgwan", "Nhà Trắng", "백악관은 미국 대통령이 사는 곳이에요.", "Nhà Trắng là nơi tổng thống Mỹ sống."]
+ ],
+ "patterns": [
+  {"form": "V + 아/어 오다 — Làm suốt tới nay", "meaning": "Diễn tả hành động/trạng thái đã bắt đầu từ QUÁ KHỨ và kéo dài liên tục đến HIỆN TẠI (tôi đã… suốt đến giờ). Ngược hướng với 아/어 가다 (đã học: từ hiện tại hướng tới tương lai). Chia: ㅏ/ㅗ + 아 오다 (살다 → 살아 오다), nguyên âm khác + 어 오다 (배우다 → 배워 오다), 하다 → 해 오다. Thường ở thì quá khứ: 해 왔어요 (đã làm suốt tới nay). Hay đi với: 지금까지, 그동안, 오랫동안, 평생, N 동안. Ví dụ so sánh: 10년 동안 한국어를 공부해 왔어요 (đã học suốt 10 năm đến giờ) — 앞으로도 계속 공부해 갈 거예요 (từ nay về sau cũng sẽ tiếp tục học).", "examples": ["지금까지 꿈을 위해 열심히 노력해 왔어요. — Đến giờ tôi đã nỗ lực hết sức vì ước mơ.", "그분은 평생 아이들을 가르쳐 왔어요. — Ông ấy đã dạy trẻ suốt cả đời.", "우리는 10년 동안 친구로 지내 왔어요. — Chúng tôi đã làm bạn suốt 10 năm nay.", "어려움을 극복해 온 이야기를 들려 주세요. — Hãy kể câu chuyện bạn đã vượt qua khó khăn."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Đến giờ tôi đã nỗ lực suốt vì ước mơ.", "kr": "지금까지 꿈을 위해 ___.", "options": ["노력해 왔어요", "노력해 갈 거예요", "노력해 보세요"], "answer": "노력해 왔어요", "explain": "Từ quá khứ → hiện tại: 아/어 오다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Từ nay về sau cũng sẽ tiếp tục học.", "kr": "앞으로도 계속 ___.", "options": ["공부해 갈 거예요", "공부해 왔어요", "공부해 왔어요?"], "answer": "공부해 갈 거예요", "explain": "Hướng tới tương lai: 아/어 가다."},
+  {"type": "choice", "q": "Chia đúng: 배우다 + 아/어 오다 (quá khứ)", "kr": "", "options": ["배워 왔어요", "배우아 왔어요", "배와 왔어요"], "answer": "배워 왔어요", "explain": "우 + 어 → 워."},
+  {"type": "choice", "q": "Từ nào hay đi với 아/어 왔다?", "kr": "", "options": ["지금까지", "내일", "앞으로"], "answer": "지금까지", "explain": "지금까지 = cho đến bây giờ."},
+  {"type": "choice", "q": "Câu nào tự nhiên?", "kr": "", "options": ["우리는 10년 동안 친구로 지내 왔어요.", "우리는 내일 친구로 지내 왔어요.", "우리는 10년 동안 친구로 지내 갈 거예요 왔어요."], "answer": "우리는 10년 동안 친구로 지내 왔어요.", "explain": "10 năm nay đến giờ → 지내 왔어요."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Đừng suy sụp chỉ vì thất bại một lần.", "kr": "한 번 실패했다고 ___ 마세요.", "options": ["좌절하지", "노력하지", "당첨되지"], "answer": "좌절하지", "explain": "좌절하다 = nản lòng, suy sụp."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Anh ấy đã vượt qua nghèo khó.", "kr": "그는 가난을 ___.", "options": ["극복했어요", "실패했어요", "기도했어요"], "answer": "극복했어요", "explain": "극복하다 = khắc phục, vượt qua."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Vận động viên giành huy chương vàng.", "kr": "그 선수는 금메달을 ___.", "options": ["땄어요", "만들었어요", "가졌어요"], "answer": "땄어요", "explain": "금메달을 따다 (따다 → 땄어요)."},
+  {"type": "fill", "q": "Điền: Ông ấy đã dạy trẻ suốt cả đời.", "kr": "그분은 평생 아이들을 가르쳐 ___.", "answer": ["왔어요"], "explain": "가르쳐 왔어요."},
+  {"type": "fill", "q": "Điền: Tôi đã sống ở Seoul suốt 5 năm nay.", "kr": "5년 동안 서울에서 살아 ___.", "answer": ["왔어요"], "explain": "살아 왔어요."},
+  {"type": "fill", "q": "Điền: Đã làm việc này suốt đến giờ.", "kr": "지금까지 이 일을 ___ 왔어요.", "answer": ["해"], "explain": "하다 → 해 오다."},
+  {"type": "fill", "q": "Điền từ: Hãy nói kế hoạch một cách cụ thể.", "kr": "계획을 ___ 말해 주세요.", "answer": ["구체적으로"], "explain": "구체적으로 = một cách cụ thể."},
+  {"type": "order", "q": "Sắp xếp thành câu: Chúng tôi đã làm bạn suốt 10 năm nay.", "tokens": ["우리는", "10년", "동안", "친구로", "지내", "왔어요"], "answer": "우리는 10년 동안 친구로 지내 왔어요", "explain": "지내 오다."},
+  {"type": "order", "q": "Sắp xếp thành câu: Cố gắng hết mình quan trọng hơn kết quả.", "tokens": ["결과보다", "최선을", "다하는", "게", "중요해요"], "answer": "결과보다 최선을 다하는 게 중요해요", "explain": "최선을 다하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Đến giờ tôi đã nỗ lực hết sức vì ước mơ.", "answer": ["지금까지 꿈을 위해 열심히 노력해 왔어요.", "지금까지 꿈을 위해서 열심히 노력해 왔어요.", "지금까지 꿈을 위해 최선을 다해 왔어요."], "explain": "노력해 오다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Ước mơ của tôi là trở thành phiên dịch cabin.", "answer": ["제 꿈은 동시통역사가 되는 거예요.", "제 꿈은 동시통역사가 되는 것이에요.", "제 꿈은 동시통역사예요."], "explain": "N이/가 되다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Hãy lấy can đảm mà thử nói đi.", "answer": ["용기를 가지고 말해 보세요.", "용기를 내서 말해 보세요.", "용기를 가지고 이야기해 보세요."], "explain": "용기를 가지다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "그 선수는 어릴 때부터 장애를 극복하면서 운동을 해 왔어요. 그리고 마침내 금메달을 땄어요.", "answer": "Vận động viên đó từ nhỏ đã vừa vượt qua khuyết tật vừa tập luyện suốt đến nay. Và cuối cùng đã giành huy chương vàng.", "explain": "해 왔어요 = đã làm suốt; 마침내 = cuối cùng."},
+  {"type": "read", "q": "Nghe hội thoại và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)", "kr": "여자: 이번에 동시통역사 시험에 합격했다고 들었어요. 축하해요!\n남자: 고마워요. 세 번 실패했지만 좌절하지 않고 5년 동안 준비해 왔어요.\n여자: 정말 대단해요. 비결이 뭐예요?\n남자: 매일 뉴스를 듣고 따라 말하는 연습을 했어요. 그게 제일 도움이 됐어요.", "options": ["남자는 여러 번 실패한 후에 합격했다.", "남자는 처음 시험에 합격했다.", "남자는 1년 동안 준비했다.", "남자는 뉴스를 보지 않았다."], "answer": "남자는 여러 번 실패한 후에 합격했다.", "explain": "세 번 실패했지만 … 5년 동안 준비해 왔어요."},
+  {"type": "read", "q": "Chọn từ điền vào ( ). (Dạng TOPIK II câu 19~24)", "kr": "많은 사람들이 복권에 당첨되어 백만장자가 되는 꿈을 꾼다. 하지만 실제로 성공한 사람들은 대부분 오랫동안 꾸준히 ( ___ ) 사람들이다. 그들은 실패해도 좌절하지 않고 다시 도전했다.", "options": ["노력해 온", "노력해 갈", "실패하지 않은", "기도만 한"], "answer": "노력해 온", "explain": "오랫동안 꾸준히 + đã nỗ lực suốt đến nay → 노력해 온."}
+ ]
+}

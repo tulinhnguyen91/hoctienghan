@@ -1,0 +1,50 @@
+{
+ "id": "bai-89",
+ "lesson": "Bài 89",
+ "title": "Phép lịch sự và quy tắc (phần 2/3)",
+ "krTitle": "예절과 규칙 2",
+ "date": "2027-03-20",
+ "day": 122,
+ "source": "TOPIK 3 – Bài 15: Phép lịch sự và quy tắc (phần 2/3)",
+ "practice": {"listening": "Nghe – câu 9~12: Hành động tiếp theo", "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"},
+ "words": [
+  ["규칙[법]을 어기다[위반하다]", "Gyuchik[beop]eul eogida[wibanhada]", "Vi phạm quy tắc[luật]", "교통 법규를 위반하면 벌금을 내야 해요.", "Vi phạm luật giao thông thì phải nộp phạt."],
+  ["규칙에 어긋나다", "Gyuchige eogeunnada", "Trái quy tắc", "그건 회사 규칙에 어긋나요.", "Điều đó trái quy định công ty."],
+  ["피해를 주다", "Pihaereul juda", "Gây hại, làm phiền", "다른 사람에게 피해를 주지 마세요.", "Đừng làm phiền người khác."],
+  ["방해하다", "Banghaehada", "Cản trở, làm phiền", "공부하는 친구를 방해하지 마.", "Đừng làm phiền bạn đang học."],
+  ["결근", "Gyeolgeun", "Nghỉ làm (vắng mặt)", "아파서 오늘 결근했어요.", "Vì ốm nên hôm nay tôi nghỉ làm."],
+  ["공경하다", "Gonggyeonghada", "Cung kính, kính trọng", "한국에서는 어른을 공경해요.", "Ở Hàn người ta kính trọng người lớn."],
+  ["공공장소", "Gonggongjangso", "Nơi công cộng", "공공장소에서는 담배를 피우면 안 돼요.", "Ở nơi công cộng không được hút thuốc."],
+  ["공동생활", "Gongdongsaenghwal", "Sinh hoạt chung", "기숙사는 공동생활을 하는 곳이에요.", "Ký túc xá là nơi sinh hoạt tập thể."],
+  ["공연장", "Gongyeonjang", "Nơi biểu diễn", "공연장에서 사진을 찍으면 안 돼요.", "Không được chụp ảnh trong nhà hát."],
+  ["관공서", "Gwangongseo", "Cơ quan nhà nước", "관공서는 주말에 문을 닫아요.", "Cơ quan nhà nước đóng cửa cuối tuần."],
+  ["낙서", "Nakseo", "Viết, vẽ bậy", "벽에 낙서를 하지 마세요.", "Đừng viết bậy lên tường."],
+  ["대중교통", "Daejunggyotong", "Giao thông công cộng", "대중교통을 이용하면 환경에 좋아요.", "Dùng phương tiện công cộng thì tốt cho môi trường."],
+  ["무리하다", "Murihada", "Quá sức, gượng ép", "아플 때는 무리하지 마세요.", "Khi ốm đừng làm quá sức."]
+ ],
+ "patterns": [
+  {"form": "V + (으)려던 참이다 — Vừa định", "meaning": "Diễn tả người nói ĐÚNG LÚC ĐANG ĐỊNH làm việc gì đó thì có chuyện xảy ra (ai đó đề nghị/nhắc đúng việc ấy, hoặc có việc khác chen vào): 'tôi vừa định… thì', 'đang định… đây'. Cấu tạo: (으)려고 하다 (đã học: định) + 던 (hồi tưởng) + 참 (lúc, thời điểm) + 이다. Thân có patchim + 으려던 참이다 (먹다 → 먹으려던 참이에요); không patchim / ㄹ + 려던 참이다 (가다 → 가려던 참이에요, 만들다 → 만들려던 참이에요). Thường dùng: 마침 (vừa hay), 그렇지 않아도 (chẳng cần nói thì cũng) + 려던 참이에요. Chỉ dùng với ĐỘNG TỪ, chủ ngữ là ngôi 1. Biến thể gần nghĩa: 려던 참에 (đúng lúc đang định thì…).", "examples": ["A: 같이 점심 먹을래요? B: 좋아요. 마침 먹으려던 참이었어요. — Ăn trưa cùng không? — Được. Vừa hay tôi cũng đang định ăn.", "그렇지 않아도 전화하려던 참이었어요. — Chẳng cần bạn nói tôi cũng đang định gọi đây.", "지금 나가려던 참인데 비가 오네요. — Đang định ra ngoài thì trời mưa.", "집에 가려던 참에 팀장님이 부르셨어요. — Đúng lúc đang định về thì trưởng nhóm gọi."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn câu trả lời: A: 같이 점심 먹을래요?", "kr": "B: 좋아요. 마침 ___.", "options": ["먹으려던 참이었어요", "먹자고 했어요", "먹지 않으면 안 돼요"], "answer": "먹으려던 참이었어요", "explain": "Vừa hay cũng đang định → 려던 참이다."},
+  {"type": "choice", "q": "Chọn dạng đúng: Tôi đang định gọi điện đây.", "kr": "그렇지 않아도 ___.", "options": ["전화하려던 참이었어요", "전화하려고 참이에요", "전화하던 참이요"], "answer": "전화하려던 참이었어요", "explain": "하 không patchim → 려던 참이다."},
+  {"type": "choice", "q": "Chia đúng: 만들다 + (으)려던 참이다", "kr": "", "options": ["만들려던 참이다", "만들으려던 참이다", "만드려던 참이다"], "answer": "만들려던 참이다", "explain": "Patchim ㄹ → 려던 (giữ ㄹ)."},
+  {"type": "choice", "q": "Chia đúng: 읽다 + (으)려던 참이다", "kr": "", "options": ["읽으려던 참이다", "읽려던 참이다", "읽어려던 참이다"], "answer": "읽으려던 참이다", "explain": "Có patchim → 으려던."},
+  {"type": "choice", "q": "Câu nào tự nhiên?", "kr": "", "options": ["지금 나가려던 참인데 비가 오네요.", "지금 예쁘려던 참이에요.", "어제 나가려던 참이 했어요."], "answer": "지금 나가려던 참인데 비가 오네요.", "explain": "Chỉ dùng với động từ."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Đừng làm phiền người khác.", "kr": "다른 사람에게 ___ 주지 마세요.", "options": ["피해를", "결근을", "낙서를"], "answer": "피해를", "explain": "피해를 주다 = gây hại, làm phiền."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Khi ốm đừng làm quá sức.", "kr": "아플 때는 ___ 마세요.", "options": ["무리하지", "공경하지", "위반하지"], "answer": "무리하지", "explain": "무리하다 = quá sức."},
+  {"type": "choice", "q": "Ủy ban phường, cục xuất nhập cảnh… gọi chung là gì?", "kr": "", "options": ["관공서", "공연장", "공공장소만"], "answer": "관공서", "explain": "관공서 = cơ quan nhà nước."},
+  {"type": "fill", "q": "Điền: Vừa hay tôi cũng đang định đi.", "kr": "마침 가___ 참이었어요.", "answer": ["려던"], "explain": "가려던 참."},
+  {"type": "fill", "q": "Điền: Đúng lúc đang định về thì trưởng nhóm gọi.", "kr": "집에 가려던 ___에 팀장님이 부르셨어요.", "answer": ["참"], "explain": "려던 참에 = đúng lúc định."},
+  {"type": "fill", "q": "Điền: Tôi đang định ngủ đây.", "kr": "지금 자려던 참___.", "answer": ["이에요", "이었어요"], "explain": "참이에요."},
+  {"type": "fill", "q": "Điền từ: Vì ốm nên hôm nay tôi nghỉ làm.", "kr": "아파서 오늘 ___했어요.", "answer": ["결근"], "explain": "결근하다 = nghỉ làm."},
+  {"type": "order", "q": "Sắp xếp thành câu: Chẳng cần bạn nói tôi cũng đang định gọi đây.", "tokens": ["그렇지", "않아도", "전화하려던", "참이었어요"], "answer": "그렇지 않아도 전화하려던 참이었어요", "explain": "그렇지 않아도 + 려던 참."},
+  {"type": "order", "q": "Sắp xếp thành câu: Đừng viết bậy lên tường.", "tokens": ["벽에", "낙서를", "하지", "마세요"], "answer": "벽에 낙서를 하지 마세요", "explain": "낙서를 하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Vừa hay tôi cũng đang định ăn.", "answer": ["마침 먹으려던 참이었어요.", "마침 저도 먹으려던 참이었어요.", "마침 먹으려던 참이에요."], "explain": "먹으려던 참."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Ở nơi công cộng không được hút thuốc.", "answer": ["공공장소에서는 담배를 피우면 안 돼요.", "공공장소에서 담배를 피우면 안 돼요.", "공공장소에서는 담배를 피우지 마세요."], "explain": "(으)면 안 되다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Dùng phương tiện công cộng thì tốt cho môi trường.", "answer": ["대중교통을 이용하면 환경에 좋아요.", "대중교통을 타면 환경에 좋아요."], "explain": "대중교통을 이용하다."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "A: 기숙사에서 밤늦게 음악을 크게 들으면 다른 사람에게 피해를 줘요.\nB: 죄송해요. 마침 끄려던 참이었어요.", "answer": "A: Ở ký túc xá mà đêm khuya nghe nhạc to thì làm phiền người khác đấy. B: Xin lỗi. Tôi vừa định tắt đây.", "explain": "끄다 → 끄려던 참."},
+  {"type": "read", "q": "Chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)", "kr": "여자: 민수 씨, 공연장에서는 휴대폰을 꺼야 해요. 공연이 곧 시작돼요.\n남자: 아, 그렇지 않아도 끄려던 참이었어요.\n여자: 그리고 사진을 찍으면 규칙에 어긋나니까 조심하세요.\n남자: 네, 알겠어요.", "options": ["휴대폰을 끈다.", "사진을 찍는다.", "공연장을 나간다.", "표를 산다."], "answer": "휴대폰을 끈다.", "explain": "끄려던 참이었어요 → sẽ tắt điện thoại."},
+  {"type": "read", "q": "Chọn cách nói có nghĩa gần nhất với phần gạch chân. (Dạng TOPIK II câu 3~4)", "kr": "마침 친구에게 [연락하려던 참이었는데] 친구가 먼저 전화했어요.", "options": ["연락하려고 했는데", "연락해 왔는데", "연락하지 않으면 안 되는데", "연락했으면 좋겠는데"], "answer": "연락하려고 했는데", "explain": "려던 참이었는데 ≈ 려고 했는데 (vừa định… thì)."}
+ ]
+}

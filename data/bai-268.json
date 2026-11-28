@@ -1,0 +1,400 @@
+{
+ "id": "bai-268",
+ "lesson": "Bài 268",
+ "title": "Vấn đề xã hội hiện đại (phần 1/5)",
+ "krTitle": "현대 사회의 문제 1",
+ "date": "2027-12-16",
+ "day": 393,
+ "source": "TOPIK 6 – Bài 14: Vấn đề xã hội hiện đại (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "정규직",
+   "Jeonggyujik",
+   "Lao động thuộc biên chế, lao động chính quy",
+   "그는 대기업 정규직으로 취직했어요.",
+   "Anh ấy được tuyển làm nhân viên chính thức ở tập đoàn lớn."
+  ],
+  [
+   "고용하다",
+   "Goyonghada",
+   "Tuyển dụng",
+   "회사가 신입 사원 50명을 고용했어요.",
+   "Công ty đã tuyển 50 nhân viên mới."
+  ],
+  [
+   "노숙자",
+   "Nosukja",
+   "Người vô gia cư",
+   "겨울이 되면 노숙자들이 더 힘들어져요.",
+   "Đến mùa đông người vô gia cư càng khổ hơn."
+  ],
+  [
+   "비정규직",
+   "Bijeonggyujik",
+   "Lao động ngoài biên chế, lao động phi chính quy",
+   "비정규직은 고용이 불안정해요.",
+   "Lao động phi chính thức có việc làm không ổn định."
+  ],
+  [
+   "해고하다",
+   "Haegohada",
+   "Sa thải",
+   "회사가 경영이 어려워서 직원들을 해고했어요.",
+   "Công ty kinh doanh khó khăn nên đã sa thải nhân viên."
+  ],
+  [
+   "실업률",
+   "Sireomnyul",
+   "Tỷ lệ thất nghiệp",
+   "청년 실업률이 높아지고 있어요.",
+   "Tỷ lệ thất nghiệp thanh niên đang tăng."
+  ],
+  [
+   "계약직",
+   "Gyeyakjik",
+   "Lao động theo hợp đồng",
+   "저는 1년 계약직으로 일하고 있어요.",
+   "Tôi đang làm theo hợp đồng một năm."
+  ],
+  [
+   "취업난",
+   "Chwieomnan",
+   "Vấn nạn thất nghiệp, vấn nạn khó xin việc",
+   "청년들의 취업난이 심각해요.",
+   "Nạn khó tìm việc của thanh niên rất nghiêm trọng."
+  ],
+  [
+   "고용 보험",
+   "Goyong boheom",
+   "Bảo hiểm thất nghiệp",
+   "회사를 그만두고 고용 보험으로 실업 급여를 받았어요.",
+   "Nghỉ việc rồi tôi nhận trợ cấp thất nghiệp từ bảo hiểm việc làm."
+  ],
+  [
+   "강력 범죄",
+   "Gangnyeong beomjoe",
+   "Tội phạm bạo lực",
+   "강력 범죄가 줄어들고 있어요.",
+   "Tội phạm bạo lực đang giảm."
+  ],
+  [
+   "범죄를 저지르다",
+   "Beomjoereul jeojireuda",
+   "Gây nên tội",
+   "범죄를 저지르면 처벌을 받아요.",
+   "Phạm tội thì sẽ bị xử phạt."
+  ],
+  [
+   "사칭하다",
+   "Sachinghada",
+   "Mạo danh",
+   "경찰을 사칭한 사기 전화가 많아요.",
+   "Có nhiều cuộc gọi lừa đảo mạo danh cảnh sát."
+  ],
+  [
+   "보이스 피싱",
+   "Boiseu pising",
+   "Lừa đảo qua điện thoại",
+   "보이스 피싱으로 노인들이 피해를 입었어요.",
+   "Người già bị thiệt hại vì lừa đảo qua điện thoại."
+  ],
+  [
+   "돈을 가로채다",
+   "Doneul garochaeda",
+   "Trộm tiền",
+   "사기범이 피해자의 돈을 가로챘어요.",
+   "Kẻ lừa đảo đã chiếm đoạt tiền của nạn nhân."
+  ],
+  [
+   "가해자",
+   "Gahaeja",
+   "Người tấn công, người gây hại",
+   "가해자는 피해자에게 사과해야 해요.",
+   "Kẻ gây hại phải xin lỗi người bị hại."
+  ],
+  [
+   "사기범",
+   "Sagibeom",
+   "Tội phạm lừa đảo",
+   "경찰이 사기범을 체포했어요.",
+   "Cảnh sát đã bắt kẻ lừa đảo."
+  ],
+  [
+   "사기를 치다",
+   "Sagireul chida",
+   "Lừa đảo",
+   "그는 노인들에게 사기를 쳤어요.",
+   "Hắn ta đã lừa đảo người già."
+  ],
+  [
+   "피해자",
+   "Pihaeja",
+   "Người bị hại",
+   "피해자들이 경찰에 신고했어요.",
+   "Những người bị hại đã báo cảnh sát."
+  ],
+  [
+   "계층",
+   "kwu-coGyecheung",
+   "Tầng lớp xã hội, giai cấp",
+   "사회 계층 간의 격차가 커지고 있어요.",
+   "Khoảng cách giữa các tầng lớp xã hội đang lớn dần."
+  ],
+  [
+   "편견",
+   "Pyeongyeon",
+   "Thành kiến, thiên vị",
+   "외국인에 대한 편견을 버려야 해요.",
+   "Phải bỏ định kiến về người nước ngoài."
+  ],
+  [
+   "시위를 하다",
+   "Siwireul hada",
+   "Biểu tình",
+   "노동자들이 임금 인상을 요구하며 시위를 했어요.",
+   "Công nhân biểu tình đòi tăng lương."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)리라 — Chắc là, định",
+   "meaning": "Văn phong CỔ / VĂN CHƯƠNG / TRANG TRỌNG, có hai nghĩa: ① PHỎNG ĐOÁN, NIỀM TIN chắc chắn (thường đi với 믿다, 생각하다, 기대하다, 예상하다): 'tin rằng sẽ…, chắc chắn sẽ…': 언젠가는 꿈이 이루어지리라 믿어요 (tôi tin rằng một ngày nào đó ước mơ sẽ thành hiện thực). ② Ý ĐỊNH, QUYẾT TÂM của người nói (đi với 다짐하다, 결심하다 hoặc đứng cuối câu như lời thề): 반드시 성공하리라 다짐했다 (tôi đã thề nhất định sẽ thành công). Chia: có patchim → 으리라 (좋으리라, 받으리라); không patchim/ㄹ → 리라 (되리라, 하리라, 살리라); quá khứ → 았/었으리라 (phỏng đoán quá khứ: 힘들었으리라). Văn nói thường dùng: (으)ㄹ 것이다 / (으)ㄹ 거라고. Hay gặp trong thơ, bài phát biểu, tiểu thuyết, đề TOPIK 6.",
+   "examples": [
+    "정부의 정책으로 취업난이 해결되리라 기대합니다. — Chúng tôi kỳ vọng rằng nạn khó tìm việc sẽ được giải quyết nhờ chính sách của chính phủ.",
+    "다시는 같은 실수를 하지 않으리라 다짐했다. — Tôi đã tự hứa sẽ không bao giờ mắc lại sai lầm đó.",
+    "혼자 아이를 키우며 얼마나 힘들었으리라. — Một mình nuôi con hẳn là vất vả biết bao.",
+    "언젠가는 모든 사람이 차별 없이 살 수 있으리라 믿어요. — Tôi tin rằng một ngày nào đó mọi người sẽ sống không bị phân biệt."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Lừa đảo qua điện thoại (giả danh cơ quan) gọi là gì?",
+   "kr": "",
+   "options": [
+    "보이스 피싱",
+    "강력 범죄",
+    "시위"
+   ],
+   "answer": "보이스 피싱",
+   "explain": "voice phishing."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 가해자 là gì?",
+   "kr": "",
+   "options": [
+    "피해자",
+    "사기범",
+    "노숙자"
+   ],
+   "answer": "피해자",
+   "explain": "가해 (gây hại) ↔ 피해 (bị hại)."
+  },
+  {
+   "type": "choice",
+   "q": "Nhân viên chính thức, ổn định gọi là gì?",
+   "kr": "",
+   "options": [
+    "정규직",
+    "비정규직",
+    "계약직"
+   ],
+   "answer": "정규직",
+   "explain": "정규 = chính quy."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Công ty đã sa thải nhân viên.",
+   "kr": "회사가 직원들을 ___.",
+   "options": [
+    "해고했어요",
+    "고용했어요",
+    "사칭했어요"
+   ],
+   "answer": "해고했어요",
+   "explain": "해고하다 ↔ 고용하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tôi tin rằng ước mơ sẽ thành hiện thực.'",
+   "kr": "",
+   "options": [
+    "언젠가는 꿈이 이루어지리라 믿어요.",
+    "언젠가는 꿈이 이루어지으리라 믿어요.",
+    "언젠가는 꿈이 이루어지리라 믿으세요요."
+   ],
+   "answer": "언젠가는 꿈이 이루어지리라 믿어요.",
+   "explain": "Không patchim → 리라 + 믿다."
+  },
+  {
+   "type": "choice",
+   "q": "'다시는 실수하지 않으리라 다짐했다.' (으)리라 ở đây mang nghĩa gì?",
+   "kr": "",
+   "options": [
+    "Ý định, quyết tâm",
+    "Phỏng đoán",
+    "Mệnh lệnh"
+   ],
+   "answer": "Ý định, quyết tâm",
+   "explain": "다짐하다 → quyết tâm."
+  },
+  {
+   "type": "choice",
+   "q": "Văn nói thường dùng gì thay cho (으)리라?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ 것이다 / (으)ㄹ 거라고",
+    "(으)ㄹ 겸",
+    "기 일쑤이다"
+   ],
+   "answer": "(으)ㄹ 것이다 / (으)ㄹ 거라고",
+   "explain": "(으)리라 = văn cổ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nạn khó tìm việc của thanh niên rất nghiêm trọng.",
+   "kr": "청년들의 ___이 심각해요.",
+   "options": [
+    "취업난",
+    "실업률",
+    "고용 보험"
+   ],
+   "answer": "취업난",
+   "explain": "취업난."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)리라 với 해결되다: Kỳ vọng nạn khó tìm việc sẽ được giải quyết.",
+   "kr": "정부의 정책으로 취업난이 ___ 기대합니다.",
+   "answer": [
+    "해결되리라"
+   ],
+   "explain": "해결되리라."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)리라 với 힘들다 (quá khứ): Một mình nuôi con hẳn là vất vả.",
+   "kr": "혼자 아이를 키우며 얼마나 ___.",
+   "answer": [
+    "힘들었으리라"
+   ],
+   "explain": "았/었으리라."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Có nhiều cuộc gọi lừa đảo mạo danh cảnh sát.",
+   "kr": "경찰을 ___한 사기 전화가 많아요.",
+   "answer": [
+    "사칭"
+   ],
+   "explain": "사칭하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phạm tội thì sẽ bị xử phạt.",
+   "kr": "범죄를 ___ 처벌을 받아요.",
+   "answer": [
+    "저지르면"
+   ],
+   "explain": "범죄를 저지르다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đã tự hứa sẽ không mắc lại sai lầm.",
+   "tokens": [
+    "다시는",
+    "같은",
+    "실수를",
+    "하지",
+    "않으리라",
+    "다짐했다"
+   ],
+   "answer": "다시는 같은 실수를 하지 않으리라 다짐했다",
+   "explain": "(으)리라 다짐하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Công nhân biểu tình đòi tăng lương.",
+   "tokens": [
+    "노동자들이",
+    "임금",
+    "인상을",
+    "요구하며",
+    "시위를",
+    "했어요"
+   ],
+   "answer": "노동자들이 임금 인상을 요구하며 시위를 했어요",
+   "explain": "(으)며."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi tin rằng anh ấy nhất định sẽ thành công. (dùng (으)리라)",
+   "answer": [
+    "그가 반드시 성공하리라 믿어요.",
+    "그는 꼭 성공하리라 믿어요.",
+    "그 사람이 꼭 성공하리라 믿습니다.",
+    "나는 그가 반드시 성공하리라 믿는다."
+   ],
+   "explain": "성공하리라 믿다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tỷ lệ thất nghiệp thanh niên đang tăng.",
+   "answer": [
+    "청년 실업률이 높아지고 있어요.",
+    "청년 실업률이 올라가고 있어요.",
+    "청년 실업률이 증가하고 있어요."
+   ],
+   "explain": "실업률."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Người già bị thiệt hại vì lừa đảo qua điện thoại.",
+   "answer": [
+    "보이스 피싱으로 노인들이 피해를 입었어요.",
+    "보이스 피싱 때문에 노인들이 피해를 입었어요.",
+    "노인들이 보이스 피싱으로 피해를 봤어요."
+   ],
+   "explain": "피해를 입다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "최근 비정규직이 늘면서 고용 불안이 커지고 있다. 정부는 비정규직을 정규직으로 전환하는 기업에 지원을 늘리고 있으며, 이 정책이 청년 취업난 해결에 도움이 되리라 기대하고 있다.",
+   "answer": "Gần đây khi lao động phi chính thức tăng, bất ổn việc làm ngày càng lớn. Chính phủ đang tăng hỗ trợ cho doanh nghiệp chuyển lao động phi chính thức thành chính thức, và kỳ vọng chính sách này sẽ giúp giải quyết nạn khó tìm việc của thanh niên.",
+   "explain": "(으)리라 기대하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "여자: 여보세요? 경찰이라고요? 제 통장이 범죄에 이용됐다고요?\n남자: 잠깐만요! 그거 보이스 피싱일 수도 있어요. 끊고 경찰서에 직접 확인해 보세요.\n여자: 아, 그렇네요. 알려 줘서 고마워요.",
+   "options": [
+    "남자가 여자에게 보이스 피싱을 조심하라고 알려 주는 상황",
+    "여자가 경찰서에서 일하는 상황",
+    "남자가 통장을 만드는 상황",
+    "여자가 은행에서 돈을 찾는 상황"
+   ],
+   "answer": "남자가 여자에게 보이스 피싱을 조심하라고 알려 주는 상황",
+   "explain": "보이스 피싱일 수도 있어요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu ĐÚNG. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【보이스 피싱 예방 수칙】\n· 경찰, 검찰, 은행은 전화로 돈을 요구하지 않습니다.\n· 모르는 번호의 링크는 누르지 마세요.\n· 피해가 의심되면 즉시 112에 신고하세요.",
+   "options": [
+    "경찰은 전화로 돈을 요구하지 않는다.",
+    "모르는 링크는 눌러도 된다.",
+    "피해가 의심되면 은행에만 연락하면 된다.",
+    "은행은 전화로 송금을 요구한다."
+   ],
+   "answer": "경찰은 전화로 돈을 요구하지 않는다.",
+   "explain": "경찰, 검찰, 은행은 … 요구하지 않습니다."
+  }
+ ]
+}

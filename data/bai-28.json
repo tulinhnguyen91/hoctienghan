@@ -1,0 +1,456 @@
+{
+ "id": "bai-28",
+ "lesson": "Bài 28",
+ "title": "Phim ảnh (phần 1/2)",
+ "krTitle": "영화 1",
+ "date": "2026-12-18",
+ "day": 30,
+ "source": "TOPIK 2 – Bài 8: Phim ảnh (phần 1/2)",
+ "practice": {
+  "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+  "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+ },
+ "words": [
+  [
+   "멜로 영화",
+   "Mello yeonghwa",
+   "Phim tình cảm",
+   "주말에 멜로 영화를 봤어요.",
+   "Cuối tuần tôi đã xem phim tình cảm."
+  ],
+  [
+   "공포 영화",
+   "Gongpo yeonghwa",
+   "Phim kinh dị",
+   "공포 영화는 무서워서 못 봐요.",
+   "Phim kinh dị đáng sợ nên tôi không xem được."
+  ],
+  [
+   "에스에프 영화",
+   "Eseuepeu yeonghwa",
+   "Phim khoa học viễn tưởng",
+   "동생은 에스에프 영화를 좋아해요.",
+   "Em tôi thích phim khoa học viễn tưởng."
+  ],
+  [
+   "액션 영화",
+   "Aeksyeon yeonghwa",
+   "Phim hành động",
+   "이 액션 영화는 정말 재미있겠어요.",
+   "Phim hành động này chắc là hay lắm."
+  ],
+  [
+   "코미디 영화",
+   "Komidi yeonghwa",
+   "Phim hài",
+   "코미디 영화를 볼 때 많이 웃었어요.",
+   "Khi xem phim hài tôi đã cười nhiều."
+  ],
+  [
+   "영화 제목",
+   "Yeonghwa jemok",
+   "Tên phim",
+   "영화 제목이 뭐예요?",
+   "Tên phim là gì?"
+  ],
+  [
+   "영화감독",
+   "Yeonghwagamdok",
+   "Đạo diễn phim",
+   "이 영화감독은 아주 유명해요.",
+   "Đạo diễn phim này rất nổi tiếng."
+  ],
+  [
+   "영화배우",
+   "Yeonghwabaeu",
+   "Diễn viên điện ảnh",
+   "그 영화배우는 연기를 잘하네요.",
+   "Diễn viên đó diễn giỏi thật đấy."
+  ],
+  [
+   "팬",
+   "Paen",
+   "Người hâm mộ",
+   "저는 그 배우의 팬이에요.",
+   "Tôi là fan của diễn viên đó."
+  ],
+  [
+   "연기하다",
+   "Yeongihada",
+   "Diễn xuất",
+   "그 배우는 연기를 아주 잘했어요.",
+   "Diễn viên đó đã diễn rất giỏi."
+  ],
+  [
+   "상영하다",
+   "Sangyeonghada",
+   "Trình chiếu",
+   "이 영화는 다음 주부터 상영해요.",
+   "Phim này chiếu từ tuần sau."
+  ],
+  [
+   "매표소",
+   "Maepyoso",
+   "Quầy bán vé",
+   "매표소 앞에 사람이 많네요.",
+   "Trước quầy bán vé đông người quá."
+  ],
+  [
+   "영화표",
+   "Yeonghwapyo",
+   "Vé xem phim",
+   "영화표 두 장 주세요.",
+   "Cho tôi hai vé xem phim."
+  ],
+  [
+   "감정",
+   "Gamjeong",
+   "Cảm xúc",
+   "배우의 감정 연기가 좋았어요.",
+   "Diễn xuất cảm xúc của diễn viên rất tốt."
+  ],
+  [
+   "기쁘다",
+   "Gippeuda",
+   "Vui mừng",
+   "합격해서 정말 기뻐요.",
+   "Thi đỗ nên tôi rất vui."
+  ],
+  [
+   "슬프다",
+   "Seulpeuda",
+   "Buồn",
+   "영화가 너무 슬퍼서 울었어요.",
+   "Phim buồn quá nên tôi đã khóc."
+  ],
+  [
+   "행복하다",
+   "Haengbokhada",
+   "Hạnh phúc",
+   "두 사람이 정말 행복하네요.",
+   "Hai người hạnh phúc quá nhỉ."
+  ],
+  [
+   "불행하다",
+   "Bulhaenghada",
+   "Bất hạnh",
+   "주인공의 어린 시절은 불행했어요.",
+   "Tuổi thơ của nhân vật chính bất hạnh."
+  ],
+  [
+   "즐겁다",
+   "Jeulgeopda",
+   "Vui vẻ",
+   "친구들과 즐거운 시간을 보냈어요.",
+   "Tôi đã có khoảng thời gian vui vẻ với bạn bè."
+  ],
+  [
+   "지루하다",
+   "Jiruhada",
+   "Nhàm chán",
+   "영화가 너무 길어서 지루했어요.",
+   "Phim dài quá nên chán."
+  ],
+  [
+   "외롭다",
+   "Oeropda",
+   "Cô đơn",
+   "혼자 살면 외롭겠어요.",
+   "Sống một mình chắc cô đơn lắm."
+  ],
+  [
+   "우울하다",
+   "Uulhada",
+   "U sầu, buồn rầu",
+   "비가 와서 기분이 우울해요.",
+   "Trời mưa nên tâm trạng u sầu."
+  ],
+  [
+   "심심하다",
+   "Simsimhada",
+   "Buồn chán (vì không có gì làm)",
+   "할 일이 없어서 심심해요.",
+   "Không có gì làm nên chán."
+  ],
+  [
+   "무섭다",
+   "Museopda",
+   "Đáng sợ, sợ",
+   "그 공포 영화는 무섭겠어요.",
+   "Phim kinh dị đó chắc là đáng sợ lắm."
+  ],
+  [
+   "놀라다",
+   "Nollada",
+   "Ngạc nhiên, giật mình",
+   "영화 마지막 장면에서 깜짝 놀랐어요.",
+   "Tôi giật mình ở cảnh cuối của phim."
+  ],
+  [
+   "웃기다",
+   "Utgida",
+   "Buồn cười",
+   "이 코미디 영화는 정말 웃기네요.",
+   "Phim hài này buồn cười thật đấy."
+  ],
+  [
+   "웃다",
+   "Utda",
+   "Cười",
+   "관객들이 많이 웃었어요.",
+   "Khán giả đã cười rất nhiều."
+  ],
+  [
+   "울다",
+   "Ulda",
+   "Khóc",
+   "슬픈 장면에서 울었어요.",
+   "Tôi đã khóc ở cảnh buồn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 겠 — Chắc là (phỏng đoán)",
+   "meaning": "Phỏng đoán dựa trên những gì đang thấy, nghe: 'chắc là…, có vẻ…'. Gắn 겠 vào gốc rồi thêm 어요: 재미있다 → 재미있겠어요, 힘들다 → 힘들겠어요, 춥다 → 춥겠어요. Đã xảy ra rồi: 았/었겠어요 (피곤했겠어요 — chắc là đã mệt lắm). Hay dùng để đáp lời, đồng cảm: A: 어제 밤새 일했어요. B: 피곤하겠어요! Phân biệt: 겠 với chủ ngữ ngôi 1 ở Bài 8 = ý định ('sẽ'); khi nói về người khác/sự việc = phỏng đoán.",
+   "examples": [
+    "이 영화 재미있겠어요. — Phim này chắc hay lắm.",
+    "혼자 살면 외롭겠어요. — Sống một mình chắc cô đơn lắm.",
+    "어제 밤새 일했어요? 피곤하겠어요. — Hôm qua làm cả đêm à? Chắc mệt lắm.",
+    "그 공포 영화는 무섭겠어요. — Phim kinh dị đó chắc đáng sợ lắm."
+   ]
+  },
+  {
+   "form": "V/A + 네요 — Nhỉ, thật đấy (cảm thán)",
+   "meaning": "Bày tỏ sự ngạc nhiên, cảm thán về điều người nói vừa mới thấy, nghe, cảm nhận trực tiếp: '…quá nhỉ!, …thật đấy!'. Gắn thẳng vào gốc: 많다 → 많네요, 웃기다 → 웃기네요; patchim ㄹ bỏ ㄹ: 멀다 → 머네요, 길다 → 기네요. Quá khứ: 았/었네요 (벌써 끝났네요!). Danh từ: N(이)네요 (좋은 영화네요). Khác 겠어요: 네요 là đã thấy/biết rồi; 겠어요 là đoán.",
+   "examples": [
+    "매표소 앞에 사람이 많네요. — Trước quầy vé đông người quá nhỉ.",
+    "그 배우는 연기를 정말 잘하네요. — Diễn viên đó diễn giỏi thật đấy.",
+    "영화가 벌써 끝났네요. — Phim đã hết rồi nhỉ.",
+    "이 영화관은 의자가 편하네요. — Ghế rạp này thoải mái quá."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Bạn của bạn nói 'Ngày mai mình đi xem phim hành động'. Đáp lại: Chắc là hay lắm!",
+   "kr": "재미___!",
+   "options": [
+    "있겠어요",
+    "있네요",
+    "있을게요"
+   ],
+   "answer": "있겠어요",
+   "explain": "Chưa xem, chỉ đoán → 겠어요."
+  },
+  {
+   "type": "choice",
+   "q": "Bạn đang xem phim và thấy rất buồn cười. Nói: Buồn cười thật đấy!",
+   "kr": "정말 ___!",
+   "options": [
+    "웃기네요",
+    "웃기겠어요",
+    "웃길게요"
+   ],
+   "answer": "웃기네요",
+   "explain": "Đang trực tiếp cảm nhận → 네요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Sống một mình chắc là cô đơn.",
+   "kr": "혼자 살면 ___.",
+   "options": [
+    "외롭겠어요",
+    "외로워겠어요",
+    "외롭네요겠"
+   ],
+   "answer": "외롭겠어요",
+   "explain": "겠 gắn thẳng vào gốc: 외롭 + 겠어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Đường xa thật nhỉ!",
+   "kr": "길이 정말 ___!",
+   "options": [
+    "머네요",
+    "멀네요",
+    "멀으네요"
+   ],
+   "answer": "머네요",
+   "explain": "Patchim ㄹ + 네요 → bỏ ㄹ: 머네요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Phim đã hết rồi nhỉ!",
+   "kr": "영화가 벌써 ___!",
+   "options": [
+    "끝났네요",
+    "끝나겠네요",
+    "끝날게요"
+   ],
+   "answer": "끝났네요",
+   "explain": "Quá khứ + 네요: 끝났네요."
+  },
+  {
+   "type": "choice",
+   "q": "Bạn nói: 'Hôm qua mình làm việc cả đêm'. Đáp lại phù hợp:",
+   "kr": "",
+   "options": [
+    "피곤하겠어요.",
+    "피곤할게요.",
+    "피곤하려고 해요."
+   ],
+   "answer": "피곤하겠어요.",
+   "explain": "Đồng cảm, đoán cảm giác của người khác → 겠어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phim buồn quá nên tôi đã khóc.",
+   "kr": "영화가 너무 슬퍼서 ___.",
+   "options": [
+    "울었어요",
+    "웃었어요",
+    "놀랐어요"
+   ],
+   "answer": "울었어요",
+   "explain": "울다 = khóc."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 겠어요 vào 무섭다: Phim kinh dị đó chắc đáng sợ.",
+   "kr": "그 공포 영화는 ___.",
+   "answer": [
+    "무섭겠어요"
+   ],
+   "explain": "무섭 + 겠어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 네요 vào 많다: Trước quầy vé đông người quá nhỉ.",
+   "kr": "매표소 앞에 사람이 ___.",
+   "answer": [
+    "많네요"
+   ],
+   "explain": "많 + 네요 (đọc [만네요])."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 네요 vào danh từ: Đây là bộ phim hay nhỉ.",
+   "kr": "좋은 ___.",
+   "answer": [
+    "영화네요"
+   ],
+   "explain": "영화 không patchim → 영화네요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어서 của 슬프다: Vì buồn nên tôi đã khóc.",
+   "kr": "___ 울었어요.",
+   "answer": [
+    "슬퍼서"
+   ],
+   "explain": "슬프다 → giản lược 으 → 슬퍼서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Diễn viên đó diễn giỏi thật đấy.",
+   "tokens": [
+    "그",
+    "배우는",
+    "연기를",
+    "정말",
+    "잘하네요"
+   ],
+   "answer": "그 배우는 연기를 정말 잘하네요",
+   "explain": "잘하다 → 잘하네요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phim này chắc là hay lắm.",
+   "tokens": [
+    "이",
+    "영화는",
+    "재미있겠어요"
+   ],
+   "answer": "이 영화는 재미있겠어요",
+   "explain": "재미있 + 겠어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cho tôi hai vé xem phim.",
+   "answer": [
+    "영화표 두 장 주세요.",
+    "영화표를 두 장 주세요.",
+    "표 두 장 주세요."
+   ],
+   "explain": "Vé đếm bằng 장: 두 장."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chắc là mệt lắm.",
+   "answer": [
+    "피곤하겠어요.",
+    "힘들겠어요.",
+    "많이 피곤하겠어요.",
+    "많이 힘들겠어요."
+   ],
+   "explain": "피곤하다/힘들다 + 겠어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi thích phim hài.",
+   "answer": [
+    "저는 코미디 영화를 좋아해요.",
+    "코미디 영화를 좋아해요.",
+    "저는 코미디 영화가 좋아요."
+   ],
+   "explain": "코미디 영화를 좋아해요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "영화가 너무 길어서 지루했지만 마지막 장면은 정말 감동적이었어요.",
+   "answer": "Phim dài quá nên chán, nhưng cảnh cuối thật sự cảm động.",
+   "explain": "지루하다 = chán; 감동적이다 = cảm động; 장면 = cảnh."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "저는 슬픈 영화를 좋아해요. 친구는 무서운 영화를 좋아해요.",
+   "options": [
+    "영화",
+    "음식",
+    "날씨",
+    "교통"
+   ],
+   "answer": "영화",
+   "explain": "Thích phim buồn, phim kinh dị → phim ảnh."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu SAI với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "🎬 행복 영화관\n영화: 우리들의 겨울 (멜로)\n상영 시간: 오후 2시 / 오후 7시\n영화표: 어른 12,000원 / 학생 9,000원\n※ 영화가 시작하기 전에 휴대폰을 꺼 주세요.",
+   "options": [
+    "이 영화는 액션 영화예요.",
+    "오후 7시에도 상영해요.",
+    "학생은 9,000원이에요.",
+    "영화 시작 전에 휴대폰을 꺼야 해요."
+   ],
+   "answer": "이 영화는 액션 영화예요.",
+   "explain": "Phim thuộc thể loại 멜로 (tình cảm), không phải hành động."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "어제 친구와 공포 영화를 봤어요. 저는 무서운 영화를 싫어하지만 친구가 이 영화를 보고 싶었어요. 그래서 같이 갔어요. 영화가 시작하고 10분 후에 너무 무서워서 눈을 감았어요. 친구는 제 모습을 보고 계속 웃었어요.",
+   "options": [
+    "저는 영화가 무서워서 눈을 감았어요.",
+    "저는 공포 영화를 좋아해요.",
+    "친구가 영화를 보고 울었어요.",
+    "저는 혼자 영화를 봤어요."
+   ],
+   "answer": "저는 영화가 무서워서 눈을 감았어요.",
+   "explain": "Sợ quá nên nhắm mắt; tôi ghét phim kinh dị; bạn cười; đi cùng bạn."
+  }
+ ]
+}

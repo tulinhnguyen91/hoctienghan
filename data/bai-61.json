@@ -1,0 +1,52 @@
+{
+ "id": "bai-61",
+ "lesson": "Bài 61",
+ "title": "Tính cách (phần 4/4)",
+ "krTitle": "성격 4",
+ "date": "2027-02-06",
+ "day": 80,
+ "source": "TOPIK 3 – Bài 7: Tính cách (phần 4/4)",
+ "practice": {"listening": "Nghe – câu 21~30: Hội thoại dài", "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"},
+ "words": [
+  ["합리적이다", "Hamnijeogida", "Hợp lý", "그 사람은 합리적으로 판단해요.", "Người đó phán đoán một cách hợp lý."],
+  ["다양하다", "Dayanghada", "Đa dạng, nhiều loại", "사람의 성격은 정말 다양해요.", "Tính cách con người thật đa dạng."],
+  ["자기중심적", "Jagijungsimjeok", "Ích kỷ, lấy mình làm trung tâm", "자기중심적인 사람은 다른 사람을 배려하지 않아요.", "Người ích kỷ không quan tâm đến người khác."],
+  ["혈액형", "Hyeoraekyeong", "Nhóm máu", "한국 사람들은 혈액형으로 성격을 이야기해요.", "Người Hàn hay nói về tính cách qua nhóm máu."],
+  ["다투다", "Datuda", "Cãi nhau", "친구가 약속에 늦는 바람에 다퉜어요.", "Vì bạn đến trễ hẹn nên chúng tôi cãi nhau."],
+  ["자유롭다", "Jayuropda", "Tự do", "제 동생은 자유로운 성격이에요.", "Em tôi có tính cách tự do."],
+  ["호기심", "Hogisim", "Tính tò mò, lòng hiếu kỳ", "아이들은 호기심이 많아요.", "Trẻ con rất tò mò."],
+  ["닮다", "Damda", "Giống", "저는 성격이 아버지를 닮았어요.", "Tính cách tôi giống bố."],
+  ["주장이 강하다", "Jujangi ganghada", "Chính kiến mạnh", "언니는 주장이 강해서 회의에서 잘 양보하지 않아요.", "Chị tôi chính kiến mạnh nên hiếm khi nhượng bộ trong cuộc họp."],
+  ["바느질", "Baneujil", "Khâu vá", "할머니는 바느질을 잘하세요.", "Bà tôi khâu vá giỏi."],
+  ["지도자", "Jidoja", "Người lãnh đạo", "좋은 지도자는 책임감이 강해요.", "Người lãnh đạo tốt có trách nhiệm cao."],
+  ["분석적이다", "Bunseokjeogida", "Mang tính phân tích", "그는 분석적이라서 문제를 잘 해결해요.", "Anh ấy có đầu óc phân tích nên giải quyết vấn đề tốt."],
+  ["(일에) 집중하다", "(ire) jipjunghada", "Tập trung (vào công việc…)", "옆에서 떠드는 바람에 일에 집중하지 못했어요.", "Vì bên cạnh làm ồn nên tôi không tập trung làm việc được."],
+  ["소년소녀가장", "Sonyeonsonyeogajang", "Trẻ em làm trụ cột gia đình", "봉사 활동으로 소년소녀가장을 도왔어요.", "Tôi đã giúp đỡ các em nhỏ làm trụ cột gia đình qua hoạt động tình nguyện."],
+  ["참다", "Chamda", "Chịu đựng, nhịn", "화가 났지만 참았어요.", "Tôi giận nhưng đã nhịn."]
+ ],
+ "patterns": [
+  {"form": "V + 는 바람에 — Vì (kết quả xấu)", "meaning": "Nêu nguyên nhân BẤT NGỜ dẫn tới một kết quả TIÊU CỰC, ngoài ý muốn: 'vì (đột nhiên)… nên…'. Gắn 는 바람에 vào gốc ĐỘNG TỪ (kể cả khi chuyện đã xảy ra, vẫn dùng 는): 늦잠을 자는 바람에 지각했어요. Vế sau luôn ở QUÁ KHỨ và không dùng mệnh lệnh, rủ rê. Không dùng với tính từ. So sánh: 아/어서, 기 때문에 (lý do chung); 는 바람에 (lý do đột ngột + kết quả xấu); (으)ㄴ 덕분에 (kết quả tốt).", "examples": ["친구가 약속에 늦는 바람에 영화를 못 봤어요. — Vì bạn đến trễ nên không xem được phim.", "늦잠을 자는 바람에 지각했어요. — Vì ngủ quên nên tôi đến muộn.", "옆에서 떠드는 바람에 집중하지 못했어요. — Vì bên cạnh làm ồn nên tôi không tập trung được.", "갑자기 비가 오는 바람에 옷이 다 젖었어요. — Vì đột nhiên trời mưa nên quần áo ướt hết."]}
+ ],
+ "exercises": [
+  {"type": "choice", "q": "Chọn dạng đúng: Vì ngủ quên nên tôi đến muộn.", "kr": "늦잠을 ___ 지각했어요.", "options": ["자는 바람에", "잔 바람에", "자기 바람에"], "answer": "자는 바람에", "explain": "Động từ + 는 바람에 (kể cả chuyện đã qua)."},
+  {"type": "choice", "q": "Chọn dạng đúng: Vì đột nhiên trời mưa nên ướt hết.", "kr": "갑자기 비가 ___ 옷이 다 젖었어요.", "options": ["오는 바람에", "와서 바람에", "온 바람에서"], "answer": "오는 바람에", "explain": "오 + 는 바람에."},
+  {"type": "choice", "q": "Câu nào SAI?", "kr": "", "options": ["늦는 바람에 빨리 오세요.", "늦는 바람에 혼났어요.", "늦잠을 자는 바람에 버스를 놓쳤어요."], "answer": "늦는 바람에 빨리 오세요.", "explain": "Vế sau của 는 바람에 không dùng mệnh lệnh."},
+  {"type": "choice", "q": "Câu nào tự nhiên nhất?", "kr": "", "options": ["친구가 도와준 덕분에 합격했어요.", "친구가 도와주는 바람에 합격했어요.", "친구가 도와주는 바람에 기뻐요."], "answer": "친구가 도와준 덕분에 합격했어요.", "explain": "Kết quả tốt → (으)ㄴ 덕분에; 는 바람에 dùng cho kết quả xấu."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Tôi giận nhưng đã nhịn.", "kr": "화가 났지만 ___.", "options": ["참았어요", "다퉜어요", "닮았어요"], "answer": "참았어요", "explain": "참다 = nhịn, chịu đựng."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Trẻ con rất tò mò.", "kr": "아이들은 ___이 많아요.", "options": ["호기심", "혈액형", "바느질"], "answer": "호기심", "explain": "호기심 = tính tò mò."},
+  {"type": "choice", "q": "Người '자기중심적' là người thế nào?", "kr": "", "options": ["Chỉ nghĩ đến bản thân", "Rất hào phóng", "Hay giúp đỡ"], "answer": "Chỉ nghĩ đến bản thân", "explain": "자기중심적 = lấy mình làm trung tâm."},
+  {"type": "choice", "q": "Chọn từ phù hợp: Vì bạn đến trễ nên cãi nhau.", "kr": "친구가 늦는 바람에 ___.", "options": ["다퉜어요", "집중했어요", "닮았어요"], "answer": "다퉜어요", "explain": "다투다 → 다퉜어요."},
+  {"type": "fill", "q": "Điền 는 바람에 vào 떠들다: Vì làm ồn nên không tập trung được.", "kr": "옆에서 ___ 집중하지 못했어요.", "answer": ["떠드는 바람에"], "explain": "떠들다 → ㄹ mất: 떠드는 바람에."},
+  {"type": "fill", "q": "Điền 는 바람에 vào 고장 나다: Vì xe hỏng nên tôi đến muộn.", "kr": "차가 ___ 늦었어요.", "answer": ["고장 나는 바람에", "고장나는 바람에"], "explain": "고장 나 + 는 바람에."},
+  {"type": "fill", "q": "Điền 는 바람에 vào 잃어버리다: Vì mất ví nên không mua được.", "kr": "지갑을 ___ 못 샀어요.", "answer": ["잃어버리는 바람에"], "explain": "잃어버리 + 는 바람에."},
+  {"type": "fill", "q": "Điền từ: Tính cách tôi giống bố.", "kr": "저는 성격이 아버지를 ___.", "answer": ["닮았어요"], "explain": "N을/를 닮다 → 닮았어요."},
+  {"type": "order", "q": "Sắp xếp thành câu: Vì ngủ quên nên tôi lỡ xe buýt.", "tokens": ["늦잠을", "자는", "바람에", "버스를", "놓쳤어요"], "answer": "늦잠을 자는 바람에 버스를 놓쳤어요", "explain": "놓치다 = lỡ."},
+  {"type": "order", "q": "Sắp xếp thành câu: Người lãnh đạo tốt có trách nhiệm cao.", "tokens": ["좋은", "지도자는", "책임감이", "강해요"], "answer": "좋은 지도자는 책임감이 강해요", "explain": "책임감이 강하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Vì đột nhiên trời mưa nên tôi bị ướt.", "answer": ["갑자기 비가 오는 바람에 옷이 젖었어요.", "갑자기 비가 오는 바람에 비를 맞았어요.", "갑자기 비가 오는 바람에 젖었어요."], "explain": "오는 바람에 + kết quả xấu."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Tính cách con người rất đa dạng.", "answer": ["사람의 성격은 정말 다양해요.", "사람의 성격은 아주 다양해요.", "사람들의 성격은 다양해요."], "explain": "다양하다."},
+  {"type": "translate", "q": "Dịch sang tiếng Hàn: Bà tôi khâu vá giỏi.", "answer": ["할머니는 바느질을 잘하세요.", "우리 할머니는 바느질을 잘하세요.", "할머니께서는 바느질을 잘하세요."], "explain": "바느질을 잘하다 (+ kính ngữ)."},
+  {"type": "vi", "q": "Dịch sang tiếng Việt", "kr": "한국에서는 혈액형으로 성격을 이야기하는 사람들이 많지만 과학적인 근거는 없어요.", "answer": "Ở Hàn có nhiều người nói về tính cách qua nhóm máu, nhưng không có căn cứ khoa học.", "explain": "근거 = căn cứ; 과학적 = mang tính khoa học."},
+  {"type": "read", "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 21~30)", "kr": "여자: 어제 민수 씨하고 왜 다퉜어요?\n남자: 회의 자료를 제가 준비하기로 했는데 컴퓨터가 고장 나는 바람에 못 했어요. 민수 씨가 제 이야기를 듣기 전에 화를 냈어요.\n여자: 민수 씨가 좀 급한 편이죠. 오늘 다시 이야기해 보세요.", "options": ["남자는 컴퓨터 고장 때문에 자료를 준비하지 못했다.", "남자는 회의 자료를 다 준비했다.", "민수 씨는 성격이 차분하다.", "여자는 민수 씨와 다퉜다."], "answer": "남자는 컴퓨터 고장 때문에 자료를 준비하지 못했다.", "explain": "Vì máy tính hỏng nên không chuẩn bị được tài liệu."},
+  {"type": "read", "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II câu 5~8)", "kr": "나는 어떤 사람일까?\n10가지 질문으로 알아보는 나의 성격 유형\n지금 바로 무료로 해 보세요!", "options": ["성격 검사", "건강 검진", "은행 상품", "여행 상품"], "answer": "성격 검사", "explain": "10 câu hỏi tìm hiểu kiểu tính cách → bài kiểm tra tính cách."}
+ ]
+}

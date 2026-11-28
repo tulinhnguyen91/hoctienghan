@@ -1,0 +1,357 @@
+{
+ "id": "bai-59",
+ "lesson": "Bài 59",
+ "title": "Tính cách (phần 2/4)",
+ "krTitle": "성격 2",
+ "date": "2027-02-03",
+ "day": 77,
+ "source": "TOPIK 3 – Bài 7: Tính cách (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "유머 감각이 있다",
+   "Yumeo gamgagi itda",
+   "Có khiếu hài hước",
+   "선생님은 유머 감각이 있어서 수업이 재미있어요.",
+   "Thầy có khiếu hài hước nên giờ học vui."
+  ],
+  [
+   "부지런하다",
+   "Bujireonhada",
+   "Chăm chỉ, cần cù",
+   "매일 아침 6시에 일어나요? 정말 부지런하군요!",
+   "Sáng nào cũng dậy lúc 6 giờ à? Chăm chỉ thật đấy!"
+  ],
+  [
+   "게으르다",
+   "Geeureuda",
+   "Lười nhác",
+   "주말에는 좀 게을러져요.",
+   "Cuối tuần tôi hơi lười."
+  ],
+  [
+   "믿음직하다",
+   "Mideumjikada",
+   "Đáng tin cậy",
+   "형은 믿음직한 사람이에요.",
+   "Anh tôi là người đáng tin cậy."
+  ],
+  [
+   "이해심이 많다",
+   "Ihaesimi manta",
+   "Dễ thông cảm, bao dung",
+   "어머니는 이해심이 많으세요.",
+   "Mẹ tôi rất bao dung."
+  ],
+  [
+   "말이 많다",
+   "Mari manta",
+   "Nói nhiều",
+   "제 동생은 말이 많아서 조용할 때가 없어요.",
+   "Em tôi nói nhiều nên chẳng lúc nào yên lặng."
+  ],
+  [
+   "정이 많다",
+   "Jeongi manta",
+   "Giàu tình cảm",
+   "한국 사람들은 정이 많군요.",
+   "Người Hàn giàu tình cảm thật nhỉ."
+  ],
+  [
+   "생각이 깊다",
+   "Saenggagi gipda",
+   "Suy nghĩ sâu sắc",
+   "어린데 생각이 깊군요.",
+   "Còn nhỏ mà suy nghĩ sâu sắc ghê."
+  ],
+  [
+   "마음이 넓다",
+   "Maeumi neolda",
+   "Độ lượng, rộng lòng",
+   "마음이 넓은 사람은 쉽게 화내지 않아요.",
+   "Người rộng lượng không dễ nổi giận."
+  ],
+  [
+   "성실하다",
+   "Seongsilhada",
+   "Chăm chỉ, chân thành",
+   "그 학생은 성실해서 숙제를 빠짐없이 해요.",
+   "Học sinh đó chăm chỉ nên làm bài tập đầy đủ."
+  ],
+  [
+   "책임감이 강하다",
+   "Chaegimgami ganghada",
+   "Có trách nhiệm cao",
+   "팀장님은 책임감이 강하세요.",
+   "Trưởng nhóm có tinh thần trách nhiệm cao."
+  ],
+  [
+   "눈이 높다",
+   "Nuni nopda",
+   "Kén chọn, tiêu chuẩn cao",
+   "언니는 눈이 높아서 아직 결혼을 안 했어요.",
+   "Chị tôi kén chọn nên chưa kết hôn."
+  ],
+  [
+   "발이 넓다",
+   "Bari neolda",
+   "Quan hệ rộng",
+   "민수 씨는 발이 넓어서 아는 사람이 많아요.",
+   "Minsu quan hệ rộng nên quen biết nhiều người."
+  ],
+  [
+   "입이 무겁다",
+   "Ibi mugeopda",
+   "Kín miệng, giữ bí mật",
+   "그 친구는 입이 무거워서 비밀을 잘 지켜요.",
+   "Bạn đó kín miệng nên giữ bí mật rất tốt."
+  ],
+  [
+   "입이 가볍다",
+   "Ibi gabyeopda",
+   "Lắm mồm, hay để lộ bí mật",
+   "입이 가벼운 사람에게는 비밀을 말하지 마세요.",
+   "Đừng kể bí mật cho người lắm mồm."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 군요 — Thế à, nhỉ",
+   "meaning": "Bày tỏ sự ngạc nhiên, cảm thán khi người nói VỪA MỚI biết được điều gì (thường qua lời người khác kể hoặc vừa nhận ra): 'à, thì ra…, …nhỉ!'. Chia: TÍNH TỪ + 군요 (많다 → 많군요, 깊다 → 깊군요); ĐỘNG TỪ + 는군요 (잘하다 → 잘하는군요); danh từ + (이)군요 (학생이군요); quá khứ 았/었군요. Văn nói thân mật: 구나, 군. So sánh với 네요 (Bài 28): 네요 = cảm thán về điều tự mình trực tiếp thấy ngay lúc đó; 군요 = vừa mới nhận ra, mang sắc thái 'à, ra là thế', hơi trang trọng hơn.",
+   "examples": [
+    "한국 사람들은 정이 많군요. — Người Hàn giàu tình cảm thật nhỉ.",
+    "어린데 생각이 깊군요. — Còn nhỏ mà suy nghĩ sâu sắc ghê.",
+    "한국어를 정말 잘하는군요! — Bạn nói tiếng Hàn giỏi thật đấy!",
+    "아, 민수 씨가 형이었군요. — À, thì ra Minsu là anh trai."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (tính từ): Người Hàn giàu tình cảm thật nhỉ.",
+   "kr": "한국 사람들은 정이 ___.",
+   "options": [
+    "많군요",
+    "많는군요",
+    "많이군요"
+   ],
+   "answer": "많군요",
+   "explain": "Tính từ + 군요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (động từ): Bạn nói tiếng Hàn giỏi thật!",
+   "kr": "한국어를 정말 ___!",
+   "options": [
+    "잘하는군요",
+    "잘하군요",
+    "잘한군요"
+   ],
+   "answer": "잘하는군요",
+   "explain": "Động từ + 는군요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (danh từ): À, ra là sinh viên à.",
+   "kr": "아, 학생___.",
+   "options": [
+    "이군요",
+    "군요이",
+    "는군요"
+   ],
+   "answer": "이군요",
+   "explain": "Danh từ có patchim + 이군요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (quá khứ): À, ra là bạn đã đến Jeju rồi.",
+   "kr": "제주도에 벌써 ___.",
+   "options": [
+    "갔군요",
+    "가는군요었",
+    "갔는군요"
+   ],
+   "answer": "갔군요",
+   "explain": "Quá khứ + 군요: 갔군요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bạn đó kín miệng nên giữ bí mật tốt.",
+   "kr": "그 친구는 ___ 비밀을 잘 지켜요.",
+   "options": [
+    "입이 무거워서",
+    "입이 가벼워서",
+    "말이 많아서"
+   ],
+   "answer": "입이 무거워서",
+   "explain": "입이 무겁다 = kín miệng (miệng nặng → khó mở)."
+  },
+  {
+   "type": "choice",
+   "q": "Người '발이 넓다' là người thế nào?",
+   "kr": "",
+   "options": [
+    "Quen biết rộng",
+    "Có chân to",
+    "Đi bộ nhiều"
+   ],
+   "answer": "Quen biết rộng",
+   "explain": "발이 넓다 (thành ngữ) = quan hệ rộng."
+  },
+  {
+   "type": "choice",
+   "q": "Người '눈이 높다' là người thế nào?",
+   "kr": "",
+   "options": [
+    "Kén chọn, tiêu chuẩn cao",
+    "Mắt tinh",
+    "Cao lớn"
+   ],
+   "answer": "Kén chọn, tiêu chuẩn cao",
+   "explain": "눈이 높다 (thành ngữ) = kén chọn."
+  },
+  {
+   "type": "choice",
+   "q": "Từ trái nghĩa với '부지런하다' là gì?",
+   "kr": "",
+   "options": [
+    "게으르다",
+    "성실하다",
+    "믿음직하다"
+   ],
+   "answer": "게으르다",
+   "explain": "부지런하다 (chăm chỉ) ↔ 게으르다 (lười)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 군요 vào 깊다: Suy nghĩ sâu sắc ghê.",
+   "kr": "생각이 ___.",
+   "answer": [
+    "깊군요"
+   ],
+   "explain": "깊 + 군요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 군요 vào 부지런하다: Chăm chỉ thật đấy!",
+   "kr": "정말 ___!",
+   "answer": [
+    "부지런하군요"
+   ],
+   "explain": "Tính từ + 군요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는군요 vào 좋아하다: À, ra là bạn thích phim Hàn.",
+   "kr": "한국 드라마를 ___.",
+   "answer": [
+    "좋아하는군요"
+   ],
+   "explain": "Động từ + 는군요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng 아/어요 của 게으르다: Cuối tuần tôi lười.",
+   "kr": "주말에는 ___.",
+   "answer": [
+    "게을러요"
+   ],
+   "explain": "게으르다 bất quy tắc 르 → 게을러요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Người Hàn giàu tình cảm thật nhỉ.",
+   "tokens": [
+    "한국",
+    "사람들은",
+    "정이",
+    "많군요"
+   ],
+   "answer": "한국 사람들은 정이 많군요",
+   "explain": "많 + 군요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đừng kể bí mật cho người lắm mồm.",
+   "tokens": [
+    "입이",
+    "가벼운",
+    "사람에게는",
+    "비밀을",
+    "말하지",
+    "마세요"
+   ],
+   "answer": "입이 가벼운 사람에게는 비밀을 말하지 마세요",
+   "explain": "입이 가볍다 → 가벼운 사람."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn nói tiếng Hàn giỏi thật đấy!",
+   "answer": [
+    "한국어를 정말 잘하는군요!",
+    "한국어를 정말 잘하시는군요!",
+    "한국어를 아주 잘하는군요!",
+    "한국어를 정말 잘하네요!"
+   ],
+   "explain": "잘하다 → 잘하는군요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh tôi là người đáng tin cậy.",
+   "answer": [
+    "형은 믿음직한 사람이에요.",
+    "우리 형은 믿음직한 사람이에요.",
+    "오빠는 믿음직한 사람이에요.",
+    "우리 오빠는 믿음직한 사람이에요."
+   ],
+   "explain": "믿음직하다 → 믿음직한 사람."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thầy có khiếu hài hước.",
+   "answer": [
+    "선생님은 유머 감각이 있어요.",
+    "선생님은 유머 감각이 있으세요.",
+    "선생님은 유머 감각이 많아요."
+   ],
+   "explain": "유머 감각이 있다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "민수 씨는 발이 넓군요. 가는 곳마다 아는 사람이 있네요.",
+   "answer": "Minsu quen biết rộng thật nhỉ. Đi đâu cũng có người quen.",
+   "explain": "군요 = vừa nhận ra; 가는 곳마다 = mỗi nơi đi đến."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 13~16)",
+   "kr": "여자: 회사 동료 중에서 누구하고 제일 친해요?\n남자: 박 대리님이요. 입이 무거워서 고민을 이야기하기 편하고 책임감도 강해요.\n여자: 그렇군요. 그런 동료가 있어서 좋겠어요.",
+   "options": [
+    "박 대리님은 비밀을 잘 지킨다.",
+    "박 대리님은 말이 많다.",
+    "남자는 회사에 친한 사람이 없다.",
+    "여자는 박 대리님과 제일 친하다."
+   ],
+   "answer": "박 대리님은 비밀을 잘 지킨다.",
+   "explain": "입이 무겁다 = kín miệng → giữ bí mật tốt."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 28~50)",
+   "kr": "한국어에는 몸을 사용한 성격 표현이 많습니다. 예를 들어 '발이 넓다'의 뜻은 '아는 사람이 많다'이고, '눈이 높다'의 뜻은 '좋은 것만 찾는다'입니다. 또 '입이 무겁다'의 뜻은 '비밀을 잘 지킨다'이고 칭찬할 때 씁니다. 이런 표현을 알면 한국 사람들의 대화를 더 잘 이해할 수 있습니다.",
+   "options": [
+    "'입이 무겁다'는 칭찬할 때 쓰는 표현이다.",
+    "'발이 넓다'는 발이 큰 사람을 말한다.",
+    "'눈이 높다'의 뜻은 '키가 크다'이다.",
+    "몸을 사용한 표현은 한국어에 거의 없다."
+   ],
+   "answer": "'입이 무겁다'는 칭찬할 때 쓰는 표현이다.",
+   "explain": "Đoạn văn nói 입이 무겁다 dùng để khen."
+  }
+ ]
+}

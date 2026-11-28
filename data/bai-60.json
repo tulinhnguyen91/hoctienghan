@@ -1,0 +1,363 @@
+{
+ "id": "bai-60",
+ "lesson": "Bài 60",
+ "title": "Tính cách (phần 3/4)",
+ "krTitle": "성격 3",
+ "date": "2027-02-04",
+ "day": 78,
+ "source": "TOPIK 3 – Bài 7: Tính cách (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "귀가 얇다",
+   "Gwiga yalda",
+   "Cả tin, dễ nghe theo người khác",
+   "저는 귀가 얇은 편이라서 광고를 보면 바로 사요.",
+   "Tôi khá cả tin nên thấy quảng cáo là mua ngay."
+  ],
+  [
+   "콧대가 높다",
+   "Kotdaega nopda",
+   "Kiêu căng, chảnh",
+   "그 배우는 콧대가 높아 보여요.",
+   "Diễn viên đó trông có vẻ kiêu."
+  ],
+  [
+   "격려하다",
+   "Gyeongnyeohada",
+   "Khích lệ, động viên",
+   "선생님이 저를 격려해 주셨어요.",
+   "Thầy đã động viên tôi."
+  ],
+  [
+   "(성격이) 시원시원하다",
+   "(seonggyeogi) siwonsiwonhada",
+   "Tính xởi lởi, thoải mái",
+   "언니는 성격이 시원시원한 편이에요.",
+   "Chị tôi tính khá xởi lởi."
+  ],
+  [
+   "참여하다",
+   "Chamyeohada",
+   "Tham gia",
+   "학생들이 행사에 적극적으로 참여했어요.",
+   "Sinh viên đã tham gia sự kiện sôi nổi."
+  ],
+  [
+   "계산적이다",
+   "Gyesanjeogida",
+   "Hay tính toán (thiệt hơn)",
+   "계산적인 사람은 친구를 사귀기 어려워요.",
+   "Người hay tính toán khó kết bạn."
+  ],
+  [
+   "신중하다",
+   "Sinjunghada",
+   "Thận trọng",
+   "저는 결정을 할 때 신중한 편이에요.",
+   "Khi quyết định tôi khá thận trọng."
+  ],
+  [
+   "추진하다",
+   "Chujinhada",
+   "Đẩy mạnh, tiến hành",
+   "회사에서 새 계획을 추진하고 있어요.",
+   "Công ty đang tiến hành kế hoạch mới."
+  ],
+  [
+   "글씨",
+   "Geulssi",
+   "Chữ viết",
+   "동생은 글씨를 예쁘게 쓰는 편이에요.",
+   "Em tôi viết chữ khá đẹp."
+  ],
+  [
+   "아이디어",
+   "Aidieo",
+   "Ý tưởng",
+   "민수 씨는 좋은 아이디어가 많아요.",
+   "Minsu có nhiều ý tưởng hay."
+  ],
+  [
+   "(감정이) 풍부하다",
+   "(gamjeongi) pungbuhada",
+   "(Tình cảm) phong phú",
+   "감정이 풍부해서 영화를 보면 잘 울어요.",
+   "Tình cảm phong phú nên xem phim hay khóc."
+  ],
+  [
+   "긍정적이다",
+   "Geungjeongjeogida",
+   "Lạc quan, tích cực",
+   "긍정적인 사람과 있으면 기분이 좋아져요.",
+   "Ở cạnh người lạc quan thì tâm trạng tốt lên."
+  ],
+  [
+   "외향적이다",
+   "Oehyangjeogida",
+   "Hướng ngoại",
+   "저는 외향적인 편이라서 사람을 만나는 걸 좋아해요.",
+   "Tôi khá hướng ngoại nên thích gặp gỡ mọi người."
+  ],
+  [
+   "학과 대표",
+   "Hakgwa daepyo",
+   "Đại diện khoa",
+   "책임감이 강해서 학과 대표가 됐어요.",
+   "Có trách nhiệm cao nên được làm đại diện khoa."
+  ],
+  [
+   "긴장하다",
+   "Ginjanghada",
+   "Căng thẳng, hồi hộp",
+   "발표할 때 긴장하는 편이에요.",
+   "Khi thuyết trình tôi khá hồi hộp."
+  ],
+  [
+   "유능하다",
+   "Yuneunghada",
+   "Có năng lực",
+   "그 직원은 젊지만 유능해요.",
+   "Nhân viên đó trẻ nhưng có năng lực."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는 편이다 — Thuộc loại, khá là",
+   "meaning": "Nói về xu hướng, mức độ một cách mềm, không tuyệt đối: 'thuộc loại…, khá là…, tương đối…'. Chia: TÍNH TỪ + (으)ㄴ 편이다 (신중하다 → 신중한 편이에요, 작다 → 작은 편이에요); ĐỘNG TỪ + 는 편이다 (긴장하다 → 긴장하는 편이에요); động từ thường đi với trạng từ mức độ: 많이 먹는 편이에요, 일찍 일어나는 편이에요, 잘 우는 편이에요. Nói về quá khứ: (으)ㄴ 편이었어요. Người Hàn rất hay dùng khi tự giới thiệu tính cách để nghe khiêm tốn.",
+   "examples": [
+    "저는 결정을 할 때 신중한 편이에요. — Khi quyết định tôi khá thận trọng.",
+    "발표할 때 긴장하는 편이에요. — Khi thuyết trình tôi thuộc loại hay hồi hộp.",
+    "언니는 키가 큰 편이에요. — Chị tôi khá cao.",
+    "저는 아침을 많이 먹는 편이에요. — Tôi thuộc loại ăn sáng nhiều."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (tính từ): Tôi khá thận trọng.",
+   "kr": "저는 ___.",
+   "options": [
+    "신중한 편이에요",
+    "신중하는 편이에요",
+    "신중할 편이에요"
+   ],
+   "answer": "신중한 편이에요",
+   "explain": "Tính từ + (으)ㄴ 편이다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng (động từ): Tôi thuộc loại hay hồi hộp.",
+   "kr": "저는 발표할 때 ___.",
+   "options": [
+    "긴장하는 편이에요",
+    "긴장한 편이에요요",
+    "긴장 편이에요"
+   ],
+   "answer": "긴장하는 편이에요",
+   "explain": "Động từ + 는 편이다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Chị tôi khá cao.",
+   "kr": "언니는 키가 ___.",
+   "options": [
+    "큰 편이에요",
+    "크는 편이에요",
+    "커 편이에요"
+   ],
+   "answer": "큰 편이에요",
+   "explain": "크다 (tính từ) → 큰 편이에요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi thuộc loại ăn nhiều.",
+   "kr": "저는 많이 ___.",
+   "options": [
+    "먹는 편이에요",
+    "먹은 편이에요",
+    "먹을 편이에요"
+   ],
+   "answer": "먹는 편이에요",
+   "explain": "Thói quen hiện tại của động từ → 는 편이다."
+  },
+  {
+   "type": "choice",
+   "q": "Người '귀가 얇다' là người thế nào?",
+   "kr": "",
+   "options": [
+    "Cả tin, dễ bị thuyết phục",
+    "Nghe kém",
+    "Tai to"
+   ],
+   "answer": "Cả tin, dễ bị thuyết phục",
+   "explain": "Thành ngữ: tai mỏng → dễ nghe theo người khác."
+  },
+  {
+   "type": "choice",
+   "q": "Từ trái nghĩa với '외향적이다' là gì?",
+   "kr": "",
+   "options": [
+    "내성적이다",
+    "긍정적이다",
+    "계산적이다"
+   ],
+   "answer": "내성적이다",
+   "explain": "외향적 (hướng ngoại) ↔ 내성적 (hướng nội)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Thầy đã động viên tôi.",
+   "kr": "선생님이 저를 ___ 주셨어요.",
+   "options": [
+    "격려해",
+    "추진해",
+    "참여해"
+   ],
+   "answer": "격려해",
+   "explain": "격려하다 = khích lệ, động viên."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhân viên đó trẻ nhưng có năng lực.",
+   "kr": "그 직원은 젊지만 ___.",
+   "options": [
+    "유능해요",
+    "계산적이에요",
+    "콧대가 높아요"
+   ],
+   "answer": "유능해요",
+   "explain": "유능하다 = có năng lực."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ/는 편이에요 vào 일찍 일어나다: Tôi thuộc loại dậy sớm.",
+   "kr": "저는 일찍 ___.",
+   "answer": [
+    "일어나는 편이에요"
+   ],
+   "explain": "Động từ → 일어나는 편이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ/는 편이에요 vào 조용하다: Lớp tôi khá yên tĩnh.",
+   "kr": "우리 반은 ___.",
+   "answer": [
+    "조용한 편이에요"
+   ],
+   "explain": "Tính từ → 조용한 편이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ/는 편이에요 vào 잘 울다: Tôi thuộc loại hay khóc.",
+   "kr": "저는 잘 ___.",
+   "answer": [
+    "우는 편이에요"
+   ],
+   "explain": "울다 → ㄹ mất trước 는: 우는 편이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ở cạnh người lạc quan thì vui lên.",
+   "kr": "___인 사람과 있으면 기분이 좋아져요.",
+   "answer": [
+    "긍정적"
+   ],
+   "explain": "긍정적이다 = lạc quan."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Khi quyết định tôi khá thận trọng.",
+   "tokens": [
+    "저는",
+    "결정을",
+    "할",
+    "때",
+    "신중한",
+    "편이에요"
+   ],
+   "answer": "저는 결정을 할 때 신중한 편이에요",
+   "explain": "신중한 편이에요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Em tôi viết chữ khá đẹp.",
+   "tokens": [
+    "동생은",
+    "글씨를",
+    "예쁘게",
+    "쓰는",
+    "편이에요"
+   ],
+   "answer": "동생은 글씨를 예쁘게 쓰는 편이에요",
+   "explain": "예쁘게 쓰다 + 는 편이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi khá hướng ngoại.",
+   "answer": [
+    "저는 외향적인 편이에요.",
+    "저는 좀 외향적인 편이에요.",
+    "저는 성격이 외향적인 편이에요."
+   ],
+   "explain": "외향적이다 → 외향적인 편이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi thuộc loại ăn ít.",
+   "answer": [
+    "저는 적게 먹는 편이에요.",
+    "저는 조금 먹는 편이에요.",
+    "저는 많이 안 먹는 편이에요."
+   ],
+   "explain": "적게 먹다 + 는 편이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Minsu có nhiều ý tưởng hay.",
+   "answer": [
+    "민수 씨는 좋은 아이디어가 많아요.",
+    "민수 씨는 아이디어가 많아요.",
+    "민수 씨는 좋은 아이디어가 많네요."
+   ],
+   "explain": "아이디어가 많다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저는 귀가 얇은 편이라서 친구 말을 듣고 필요 없는 물건을 자주 사요.",
+   "answer": "Tôi khá cả tin nên hay nghe lời bạn mà mua đồ không cần thiết.",
+   "explain": "귀가 얇다 = cả tin; 편이라서 = vì thuộc loại."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu có nghĩa gần nhất với câu sau. (Dạng TOPIK II câu 3~4)\n저는 키가 큰 편이에요.",
+   "kr": "",
+   "options": [
+    "저는 키가 비교적 커요.",
+    "저는 키가 아주 작아요.",
+    "저는 키가 클 거예요.",
+    "저는 키가 크지 않아요."
+   ],
+   "answer": "저는 키가 비교적 커요.",
+   "explain": "(으)ㄴ 편이다 ≈ 비교적 (tương đối, khá)."
+  },
+  {
+   "type": "read",
+   "q": "Ý chính của người nói là gì? (Dạng TOPIK II câu 17~20)",
+   "kr": "남자: 저는 신중한 편이라서 결정을 빨리 못 해요. 그래서 처음에는 제 성격이 단점이라고 생각했어요. 그런데 회사에서 일할 때 실수가 적어서 오히려 장점이었어요. 성격에는 장점과 단점이 같이 있는 것 같아요.",
+   "options": [
+    "모든 성격에는 장점과 단점이 있다.",
+    "신중한 성격은 단점만 있다.",
+    "결정은 빨리 하는 게 좋다.",
+    "회사에서는 실수를 많이 한다."
+   ],
+   "answer": "모든 성격에는 장점과 단점이 있다.",
+   "explain": "Câu kết: tính cách có cả ưu và nhược điểm."
+  }
+ ]
+}

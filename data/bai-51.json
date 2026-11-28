@@ -1,0 +1,381 @@
+{
+ "id": "bai-51",
+ "lesson": "Bài 51",
+ "title": "Nấu ăn (phần 3/6)",
+ "krTitle": "요리 3",
+ "date": "2027-01-22",
+ "day": 65,
+ "source": "TOPIK 3 – Bài 5: Nấu ăn (phần 3/6)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "튀기다",
+   "Twigida",
+   "Rán (ngập mỡ)",
+   "닭을 기름에 튀겨요.",
+   "Rán gà ngập dầu."
+  ],
+  [
+   "불리다",
+   "Bullida",
+   "Ngâm (cho nở)",
+   "쌀을 30분 동안 물에 불려요.",
+   "Ngâm gạo trong nước 30 phút."
+  ],
+  [
+   "맛이 나다",
+   "Masi nada",
+   "Có một vị nào đó",
+   "이 찌개는 엄마 음식 맛이 나요.",
+   "Món canh này có vị như mẹ nấu."
+  ],
+  [
+   "맛을 보다",
+   "Maseul boda",
+   "Nếm thử",
+   "소금을 넣고 나서 맛을 보세요.",
+   "Cho muối xong rồi nếm thử."
+  ],
+  [
+   "입맛에 맞다",
+   "Immase matda",
+   "Hợp khẩu vị",
+   "한국 음식이 입맛에 맞아요?",
+   "Món Hàn có hợp khẩu vị bạn không?"
+  ],
+  [
+   "간을 하다",
+   "Ganeul hada",
+   "Thêm gia vị",
+   "소금으로 간을 하세요.",
+   "Hãy nêm bằng muối."
+  ],
+  [
+   "간을 보다",
+   "Ganeul boda",
+   "Nếm độ mặn nhạt",
+   "간을 보고 나서 간장을 더 넣었어요.",
+   "Nếm xong tôi cho thêm xì dầu."
+  ],
+  [
+   "간이 맞다",
+   "Gani matda",
+   "Vừa ăn",
+   "국이 간이 딱 맞아요.",
+   "Canh vừa ăn."
+  ],
+  [
+   "간장",
+   "Ganjang",
+   "Xì dầu",
+   "간장을 조금만 넣으세요.",
+   "Chỉ cho một chút xì dầu thôi."
+  ],
+  [
+   "덜",
+   "Deol",
+   "Ít hơn",
+   "건강을 위해서 짠 음식을 덜 먹어요.",
+   "Vì sức khỏe tôi ăn ít đồ mặn hơn."
+  ],
+  [
+   "섞다",
+   "Seokda",
+   "Trộn",
+   "밀가루와 물을 섞어요.",
+   "Trộn bột mì với nước."
+  ],
+  [
+   "찰떡궁합",
+   "Chaltteokgunghap",
+   "Hợp, hòa hợp",
+   "치킨과 맥주는 찰떡궁합이에요.",
+   "Gà rán và bia là cặp đôi hoàn hảo."
+  ],
+  [
+   "견과",
+   "Gyeongwa",
+   "Quả hạch",
+   "견과는 건강에 좋은 간식이에요.",
+   "Các loại hạt là đồ ăn vặt tốt cho sức khỏe."
+  ],
+  [
+   "도전하다",
+   "Dojeonhada",
+   "Thử thách",
+   "이번 주말에 김치 만들기에 도전할 생각이에요.",
+   "Cuối tuần này tôi định thử sức làm kimchi."
+  ],
+  [
+   "섭취하다",
+   "Seopchwihada",
+   "Hấp thu, đưa vào, uống vào",
+   "채소를 충분히 섭취하는 게 좋아요.",
+   "Nên ăn đủ rau."
+  ],
+  [
+   "참기름",
+   "Chamgireum",
+   "Dầu mè",
+   "비빔밥에 참기름을 넣으면 고소해요.",
+   "Cho dầu mè vào cơm trộn thì thơm bùi."
+  ],
+  [
+   "고추장 양념",
+   "Gochujang yangnyeom",
+   "Gia vị tương ớt",
+   "고추장 양념으로 닭갈비를 만들었어요.",
+   "Tôi làm gà xào bằng sốt tương ớt."
+  ],
+  [
+   "독특하다",
+   "Dokteukada",
+   "Đặc biệt, khác lạ",
+   "이 음식은 맛이 독특해요.",
+   "Món này vị độc đáo."
+  ],
+  [
+   "성분",
+   "Seongbun",
+   "Thành phần",
+   "김치에는 몸에 좋은 성분이 많아요.",
+   "Kimchi có nhiều thành phần tốt cho cơ thể."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 고 나서 — Xong rồi thì",
+   "meaning": "Nhấn mạnh rằng hành động trước KẾT THÚC HẲN rồi mới làm hành động sau: 'làm A xong rồi (mới) làm B'. Gắn 고 나서 vào gốc động từ: 먹다 → 먹고 나서, 넣다 → 넣고 나서. Thì đặt ở vế sau. So sánh: 고 (chỉ nối, liệt kê trình tự nhẹ); 고 나서 (nhấn mạnh xong hẳn); (으)ㄴ 후에 (sau khi, trang trọng hơn). Với 가다, 오다, 앉다… (di chuyển rồi ở đó làm) vẫn dùng 아/어서, không dùng 고 나서: 시장에 가서 샀어요.",
+   "examples": [
+    "소금을 넣고 나서 맛을 보세요. — Cho muối xong rồi nếm thử.",
+    "밥을 먹고 나서 이를 닦아요. — Ăn cơm xong tôi đánh răng.",
+    "간을 보고 나서 간장을 더 넣었어요. — Nếm xong tôi cho thêm xì dầu.",
+    "숙제를 다 하고 나서 놀아요. — Làm xong hết bài tập rồi mới chơi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Cho muối xong rồi nếm thử.",
+   "kr": "소금을 ___ 맛을 보세요.",
+   "options": [
+    "넣고 나서",
+    "넣어 나서",
+    "넣은 나서"
+   ],
+   "answer": "넣고 나서",
+   "explain": "V + 고 나서."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ăn cơm xong tôi đánh răng.",
+   "kr": "밥을 ___ 이를 닦아요.",
+   "options": [
+    "먹고 나서",
+    "먹고 나서요",
+    "먹나서"
+   ],
+   "answer": "먹고 나서",
+   "explain": "먹 + 고 나서."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào KHÔNG tự nhiên?",
+   "kr": "",
+   "options": [
+    "시장에 가고 나서 과일을 샀어요.",
+    "시장에 가서 과일을 샀어요.",
+    "숙제를 하고 나서 잤어요."
+   ],
+   "answer": "시장에 가고 나서 과일을 샀어요.",
+   "explain": "Đi đến chợ rồi mua ở đó → dùng 아/어서 (가서), không dùng 고 나서."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu cùng nghĩa với '운동을 하고 나서 샤워해요'.",
+   "kr": "",
+   "options": [
+    "운동을 한 후에 샤워해요.",
+    "운동을 하기 전에 샤워해요.",
+    "운동을 하면서 샤워해요."
+   ],
+   "answer": "운동을 한 후에 샤워해요.",
+   "explain": "고 나서 ≈ (으)ㄴ 후에 (sau khi)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nếm độ mặn nhạt rồi thêm xì dầu.",
+   "kr": "간을 ___ 간장을 더 넣었어요.",
+   "options": [
+    "보고 나서",
+    "맞고 나서",
+    "하고 나서요"
+   ],
+   "answer": "보고 나서",
+   "explain": "간을 보다 = nếm độ mặn nhạt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Canh vừa ăn.",
+   "kr": "국이 간이 딱 ___.",
+   "options": [
+    "맞아요",
+    "봐요",
+    "해요"
+   ],
+   "answer": "맞아요",
+   "explain": "간이 맞다 = vừa ăn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ngâm gạo trong nước 30 phút.",
+   "kr": "쌀을 30분 동안 물에 ___.",
+   "options": [
+    "불려요",
+    "튀겨요",
+    "섞어요"
+   ],
+   "answer": "불려요",
+   "explain": "불리다 = ngâm cho nở."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Món này vị độc đáo.",
+   "kr": "이 음식은 맛이 ___.",
+   "options": [
+    "독특해요",
+    "덜해요",
+    "섭취해요"
+   ],
+   "answer": "독특해요",
+   "explain": "독특하다 = độc đáo, đặc biệt."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고 나서 vào 하다: Làm xong bài tập rồi mới chơi.",
+   "kr": "숙제를 다 ___ 놀아요.",
+   "answer": [
+    "하고 나서"
+   ],
+   "explain": "하 + 고 나서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고 나서 vào 섞다: Trộn xong thì để 10 phút.",
+   "kr": "다 ___ 10분 동안 두세요.",
+   "answer": [
+    "섞고 나서"
+   ],
+   "explain": "섞 + 고 나서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Vì sức khỏe tôi ăn ít đồ mặn hơn.",
+   "kr": "짠 음식을 ___ 먹어요.",
+   "answer": [
+    "덜"
+   ],
+   "explain": "덜 = ít hơn."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Gà rán và bia là cặp đôi hoàn hảo.",
+   "kr": "치킨과 맥주는 ___이에요.",
+   "answer": [
+    "찰떡궁합"
+   ],
+   "explain": "찰떡궁합 = rất hợp nhau."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ăn cơm xong tôi uống thuốc.",
+   "tokens": [
+    "밥을",
+    "먹고",
+    "나서",
+    "약을",
+    "먹어요"
+   ],
+   "answer": "밥을 먹고 나서 약을 먹어요",
+   "explain": "먹고 나서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cho dầu mè vào cơm trộn thì thơm.",
+   "tokens": [
+    "비빔밥에",
+    "참기름을",
+    "넣으면",
+    "고소해요"
+   ],
+   "answer": "비빔밥에 참기름을 넣으면 고소해요",
+   "explain": "고소하다 = thơm bùi."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ăn cơm xong tôi đánh răng.",
+   "answer": [
+    "밥을 먹고 나서 이를 닦아요.",
+    "밥을 먹은 후에 이를 닦아요.",
+    "밥 먹고 나서 이를 닦아요."
+   ],
+   "explain": "먹고 나서 + 이를 닦다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Món Hàn có hợp khẩu vị bạn không?",
+   "answer": [
+    "한국 음식이 입맛에 맞아요?",
+    "한국 음식이 입에 맞아요?",
+    "한국 음식이 입맛에 맞나요?"
+   ],
+   "explain": "입맛에 맞다 = hợp khẩu vị."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy nêm bằng muối.",
+   "answer": [
+    "소금으로 간을 하세요.",
+    "소금으로 간을 해 주세요."
+   ],
+   "explain": "간을 하다 = nêm."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "고추장 양념을 섞고 나서 고기에 버무리면 맛이 더 잘 배요.",
+   "answer": "Trộn xong sốt tương ớt rồi đem trộn với thịt thì vị sẽ ngấm hơn.",
+   "explain": "섞고 나서 = trộn xong; 맛이 배다 = ngấm vị."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào chỗ trống. (Dạng TOPIK II câu 16~18)",
+   "kr": "요리를 할 때는 마지막에 꼭 ( ___ ) 게 좋습니다. 처음부터 소금을 많이 넣으면 나중에 너무 짜질 수 있기 때문입니다.",
+   "options": [
+    "간을 보는",
+    "튀기는",
+    "불리는",
+    "섞지 않는"
+   ],
+   "answer": "간을 보는",
+   "explain": "Cho nhiều muối từ đầu dễ bị mặn → nên nếm ở cuối."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 31~50, bài giảng)",
+   "kr": "남자: 김치는 발효 식품이라서 몸에 좋은 성분이 많습니다. 특히 김치를 먹고 나서 소화가 잘 되는 사람이 많습니다. 하지만 김치에는 소금이 많이 들어가니까 너무 많이 섭취하지 않는 게 좋습니다.",
+   "options": [
+    "김치는 너무 많이 먹지 않는 게 좋다.",
+    "김치에는 소금이 거의 없다.",
+    "김치는 발효 식품이 아니다.",
+    "김치를 먹으면 소화가 안 된다."
+   ],
+   "answer": "김치는 너무 많이 먹지 않는 게 좋다.",
+   "explain": "Kimchi nhiều muối nên không nên ăn quá nhiều."
+  }
+ ]
+}

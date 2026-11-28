@@ -1,0 +1,360 @@
+{
+ "id": "bai-45",
+ "lesson": "Bài 45",
+ "title": "Sức khỏe (phần 3/3)",
+ "krTitle": "건강 3",
+ "date": "2027-01-13",
+ "day": 56,
+ "source": "TOPIK 3 – Bài 3: Sức khỏe (phần 3/3)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "사이클링",
+   "Saikeulling",
+   "Đi xe đạp",
+   "주말마다 한강에서 사이클링을 해요.",
+   "Cuối tuần nào tôi cũng đạp xe ở sông Hàn."
+  ],
+  [
+   "유지하다",
+   "Yujihada",
+   "Duy trì",
+   "건강한 체중을 유지하는 게 좋아요.",
+   "Nên duy trì cân nặng khỏe mạnh."
+  ],
+  [
+   "롤 플레이",
+   "Rol peullei",
+   "Tập diễn kịch phân theo vai (Role play)",
+   "수업에서 의사와 환자 롤 플레이를 했어요.",
+   "Trong lớp chúng tôi đóng vai bác sĩ và bệnh nhân."
+  ],
+  [
+   "신나다",
+   "Sinnada",
+   "Thích thú, phấn chấn",
+   "에어로빅 음악이 신나요.",
+   "Nhạc thể dục nhịp điệu thật sôi động."
+  ],
+  [
+   "전단",
+   "Jeondan",
+   "Nguyên trang, tờ rơi, truyền đơn",
+   "헬스장 전단을 받았어요.",
+   "Tôi nhận được tờ rơi phòng gym."
+  ],
+  [
+   "리터",
+   "Riteo",
+   "Lít",
+   "하루에 물을 2리터 마셔요.",
+   "Mỗi ngày tôi uống 2 lít nước."
+  ],
+  [
+   "실천하다",
+   "Silcheonhada",
+   "Thực hiện, thực hành, đưa vào thực tế",
+   "건강 계획을 세웠으면 실천하는 게 중요해요.",
+   "Lập kế hoạch sức khỏe rồi thì quan trọng là thực hiện."
+  ],
+  [
+   "젊다",
+   "Jeomda",
+   "Trẻ",
+   "할머니가 나이보다 젊어 보여요.",
+   "Bà tôi trông trẻ hơn tuổi."
+  ],
+  [
+   "막다",
+   "Makda",
+   "Chặn lại",
+   "손을 씻으면 감기를 막을 수 있어요.",
+   "Rửa tay có thể ngăn ngừa cảm cúm."
+  ],
+  [
+   "싱겁다",
+   "Singgeopda",
+   "Nhạt",
+   "건강을 위해서 싱거운 음식을 먹어요.",
+   "Vì sức khỏe tôi ăn đồ nhạt."
+  ],
+  [
+   "증상",
+   "Jeungsang",
+   "Triệu chứng, biểu hiện bệnh",
+   "감기 증상이 있으면 병원에 가세요.",
+   "Có triệu chứng cảm thì hãy đi bệnh viện."
+  ],
+  [
+   "만족하다",
+   "Manjokada",
+   "Thỏa mãn, hài lòng",
+   "운동 결과에 만족해요.",
+   "Tôi hài lòng với kết quả tập luyện."
+  ],
+  [
+   "암",
+   "Am",
+   "Ung thư",
+   "담배는 암의 원인이 돼요.",
+   "Thuốc lá là nguyên nhân gây ung thư."
+  ],
+  [
+   "체중",
+   "Chejung",
+   "Thể trọng, cân nặng cơ thể",
+   "운동을 해서 체중이 줄었어요.",
+   "Tập thể dục nên cân nặng đã giảm."
+  ],
+  [
+   "무조건",
+   "Mujogeon",
+   "Vô điều kiện",
+   "아플 때 무조건 참으면 안 돼요.",
+   "Khi ốm không được cứ thế cố chịu đựng."
+  ],
+  [
+   "에어로빅",
+   "Eeorobik",
+   "Thể dục nhịp điệu",
+   "에어로빅을 하는 사람들이 즐거워 보여요.",
+   "Những người tập thể dục nhịp điệu trông vui vẻ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "A + 아/어 보이다 — Trông có vẻ",
+   "meaning": "Nhận xét về người/vật dựa trên những gì NHÌN THẤY bên ngoài: 'trông có vẻ…'. Gắn vào TÍNH TỪ, chia như 아/어요: 젊다 → 젊어 보이다, 피곤하다 → 피곤해 보이다, 맛있다 → 맛있어 보이다; bất quy tắc: 즐겁다 → 즐거워 보이다, 바쁘다 → 바빠 보이다. Danh từ: N처럼 보이다 / N(으)로 보이다 (학생처럼 보여요 — sẽ học sau). Dạng quá khứ: 아/어 보였어요 (trước đó trông có vẻ…). Lưu ý: KHÔNG dùng với động từ (먹어 보여요 ✗); đừng nhầm với 아/어 보다 (thử làm).",
+   "examples": [
+    "할머니가 나이보다 젊어 보여요. — Bà trông trẻ hơn tuổi.",
+    "오늘 많이 피곤해 보여요. — Hôm nay bạn trông mệt lắm.",
+    "이 음식이 맛있어 보이네요. — Món này trông ngon quá.",
+    "에어로빅을 하는 사람들이 즐거워 보여요. — Những người tập aerobic trông vui vẻ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hôm nay bạn trông mệt.",
+   "kr": "오늘 ___.",
+   "options": [
+    "피곤해 보여요",
+    "피곤하 보여요",
+    "피곤해 봐요"
+   ],
+   "answer": "피곤해 보여요",
+   "explain": "피곤하다 → 피곤해 + 보이다 → 피곤해 보여요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Bà trông trẻ hơn tuổi.",
+   "kr": "할머니가 나이보다 ___.",
+   "options": [
+    "젊어 보여요",
+    "젊아 보여요",
+    "젊게 보여요요"
+   ],
+   "answer": "젊어 보여요",
+   "explain": "젊다 → 젊어 보여요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Món này trông ngon.",
+   "kr": "이 음식이 ___.",
+   "options": [
+    "맛있어 보여요",
+    "맛있어 봐요",
+    "맛있게 봐요"
+   ],
+   "answer": "맛있어 보여요",
+   "explain": "아/어 보이다 = trông có vẻ; 아/어 보다 = thử."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mọi người trông vui vẻ.",
+   "kr": "사람들이 ___.",
+   "options": [
+    "즐거워 보여요",
+    "즐겁어 보여요",
+    "즐거와 보여요"
+   ],
+   "answer": "즐거워 보여요",
+   "explain": "즐겁다 bất quy tắc ㅂ → 즐거워 보여요."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào SAI?",
+   "kr": "",
+   "options": [
+    "민수 씨가 밥을 먹어 보여요.",
+    "민수 씨가 바빠 보여요.",
+    "민수 씨가 행복해 보여요."
+   ],
+   "answer": "민수 씨가 밥을 먹어 보여요.",
+   "explain": "아/어 보이다 chỉ đi với tính từ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tập thể dục nên cân nặng đã giảm.",
+   "kr": "운동을 해서 ___이 줄었어요.",
+   "options": [
+    "체중",
+    "증상",
+    "전단"
+   ],
+   "answer": "체중",
+   "explain": "체중 = cân nặng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Rửa tay có thể ngăn ngừa cảm.",
+   "kr": "손을 씻으면 감기를 ___ 수 있어요.",
+   "options": [
+    "막을",
+    "실천할",
+    "만족할"
+   ],
+   "answer": "막을",
+   "explain": "막다 = chặn, ngăn ngừa."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lập kế hoạch rồi thì quan trọng là thực hiện.",
+   "kr": "계획을 세웠으면 ___하는 게 중요해요.",
+   "options": [
+    "실천",
+    "유지",
+    "만족"
+   ],
+   "answer": "실천",
+   "explain": "실천하다 = thực hiện, đưa vào thực tế."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 보여요 vào 바쁘다: Dạo này bạn trông bận.",
+   "kr": "요즘 ___.",
+   "answer": [
+    "바빠 보여요"
+   ],
+   "explain": "바쁘다 → 바빠 보여요 (giản lược 으)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 보여요 vào 건강하다: Ông trông khỏe mạnh.",
+   "kr": "할아버지가 ___.",
+   "answer": [
+    "건강해 보여요",
+    "건강해 보이세요"
+   ],
+   "explain": "건강하다 → 건강해 보여요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 보였어요 (quá khứ) vào 슬프다: Hôm qua bạn ấy trông buồn.",
+   "kr": "어제 친구가 ___.",
+   "answer": [
+    "슬퍼 보였어요"
+   ],
+   "explain": "슬프다 → 슬퍼 보였어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mỗi ngày tôi uống 2 lít nước.",
+   "kr": "하루에 물을 2___ 마셔요.",
+   "answer": [
+    "리터"
+   ],
+   "explain": "리터 = lít."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hôm nay bạn trông mệt lắm.",
+   "tokens": [
+    "오늘",
+    "많이",
+    "피곤해",
+    "보여요"
+   ],
+   "answer": "오늘 많이 피곤해 보여요",
+   "explain": "피곤해 보여요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi hài lòng với kết quả tập luyện.",
+   "tokens": [
+    "운동",
+    "결과에",
+    "만족해요"
+   ],
+   "answer": "운동 결과에 만족해요",
+   "explain": "N에 만족하다 = hài lòng với N."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn trông khỏe hơn trước.",
+   "answer": [
+    "전보다 건강해 보여요.",
+    "예전보다 건강해 보여요.",
+    "전보다 더 건강해 보여요.",
+    "예전보다 더 건강해 보여요."
+   ],
+   "explain": "보다 (so sánh) + 건강해 보여요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Có triệu chứng cảm thì hãy đi bệnh viện.",
+   "answer": [
+    "감기 증상이 있으면 병원에 가세요.",
+    "감기 증상이 있으면 병원에 가 보세요."
+   ],
+   "explain": "증상이 있으면 + 가세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vì sức khỏe tôi ăn đồ nhạt.",
+   "answer": [
+    "건강을 위해서 싱거운 음식을 먹어요.",
+    "건강을 위해 싱거운 음식을 먹어요.",
+    "건강 때문에 싱거운 음식을 먹어요."
+   ],
+   "explain": "싱겁다 → 싱거운 음식 (đồ ăn nhạt)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "에어로빅은 음악이 신나서 운동이 힘들어 보이지 않아요.",
+   "answer": "Thể dục nhịp điệu nhạc sôi động nên việc tập trông không có vẻ vất vả.",
+   "explain": "힘들어 보이지 않아요 = trông không vất vả."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự đúng. (Dạng TOPIK II câu 13~15)\n(가) 그래서 매일 아침 30분씩 사이클링을 시작했습니다.\n(나) 작년 건강 검진에서 체중이 많이 늘었습니다.\n(다) 지금은 체중도 줄고 친구들이 저를 보고 \"젊어 보여요!\"라고 말합니다.\n(라) 처음에는 힘들었지만 꾸준히 실천했습니다.",
+   "kr": "",
+   "options": [
+    "(나)-(가)-(라)-(다)",
+    "(가)-(나)-(다)-(라)",
+    "(나)-(라)-(가)-(다)",
+    "(라)-(나)-(가)-(다)"
+   ],
+   "answer": "(나)-(가)-(라)-(다)",
+   "explain": "Bị nói tăng cân (나) → bắt đầu đạp xe (가) → lúc đầu vất vả nhưng kiên trì (라) → giờ giảm cân, trông trẻ ra (다)."
+  },
+  {
+   "type": "read",
+   "q": "Ý chính của người nói là gì? (Dạng TOPIK II câu 17~20)",
+   "kr": "남자: 많은 사람들이 건강 계획을 세우지만 실천하는 사람은 많지 않아요. 무조건 힘든 운동을 하는 것보다 매일 할 수 있는 가벼운 운동을 오래 유지하는 것이 더 중요해요.",
+   "options": [
+    "가벼운 운동이라도 꾸준히 하는 것이 중요하다.",
+    "힘든 운동을 해야 건강해진다.",
+    "건강 계획은 세울 필요가 없다.",
+    "운동은 일주일에 한 번이면 충분하다."
+   ],
+   "answer": "가벼운 운동이라도 꾸준히 하는 것이 중요하다.",
+   "explain": "Duy trì lâu dài vận động nhẹ hằng ngày quan trọng hơn tập nặng."
+  }
+ ]
+}

@@ -1,0 +1,416 @@
+{
+ "id": "bai-274",
+ "lesson": "Bài 274",
+ "title": "Công việc và môi trường công sở (phần 2/3)",
+ "krTitle": "직업과 직장 2",
+ "date": "2027-12-25",
+ "day": 402,
+ "source": "TOPIK 6 – Bài 15: Công việc và môi trường công sở (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "첨단 과학 종사자",
+   "Cheomdan gwahang jongsaja",
+   "Người làm trong lĩnh vực khoa học công nghệ cao",
+   "첨단 과학 종사자에 대한 수요가 늘고 있어요.",
+   "Nhu cầu về người làm khoa học công nghệ cao đang tăng."
+  ],
+  [
+   "상담 전문가",
+   "Sangdam jeonmunga",
+   "Chuyên gia tư vấn",
+   "상담 전문가에게 진로 상담을 받았어요.",
+   "Tôi được chuyên gia tư vấn hướng nghiệp."
+  ],
+  [
+   "브랜드 관리사",
+   "Beuraendeu gwallisa",
+   "Nhà quản lý thương hiệu",
+   "브랜드 관리사는 회사 이미지를 관리해요.",
+   "Nhà quản lý thương hiệu quản lý hình ảnh công ty."
+  ],
+  [
+   "경영 컨설턴트",
+   "Gyeongyeong keonseolteonteu",
+   "Nhà tư vấn kinh doanh",
+   "경영 컨설턴트가 회사의 문제를 분석했어요.",
+   "Chuyên gia tư vấn kinh doanh đã phân tích vấn đề của công ty."
+  ],
+  [
+   "생명공학 전문가",
+   "Saengmyeonggonghang jeonmunga",
+   "Chuyên gia công nghệ sinh học",
+   "생명공학 전문가가 새 약을 개발했어요.",
+   "Chuyên gia công nghệ sinh học đã phát triển thuốc mới."
+  ],
+  [
+   "항공기 정비원",
+   "Hanggonggi jeongbiwon",
+   "Nhân viên bảo trì máy bay",
+   "항공기 정비원은 비행기의 안전을 책임져요.",
+   "Nhân viên bảo trì máy bay chịu trách nhiệm an toàn máy bay."
+  ],
+  [
+   "마케팅 전문가",
+   "Maketing jeonmunga",
+   "Chuyên gia tiếp thị",
+   "마케팅 전문가가 새 광고를 기획했어요.",
+   "Chuyên gia tiếp thị đã lên kế hoạch quảng cáo mới."
+  ],
+  [
+   "투자 분석가",
+   "Tuja bunseokga",
+   "Nhà phân tích đầu tư",
+   "투자 분석가가 주식 시장을 전망했어요.",
+   "Nhà phân tích đầu tư đã dự báo thị trường chứng khoán."
+  ],
+  [
+   "사회복지사",
+   "Sahoebokjisa",
+   "Người làm công tác xã hội",
+   "사회복지사가 독거노인을 돌봐요.",
+   "Nhân viên công tác xã hội chăm sóc người già neo đơn."
+  ],
+  [
+   "컴퓨터 보안 전문가",
+   "Keompyuteo boan jeonmunga",
+   "Chuyên gia bảo mật máy tính",
+   "해킹이 늘면서 컴퓨터 보안 전문가가 인기예요.",
+   "Khi hack tăng, chuyên gia bảo mật máy tính được ưa chuộng."
+  ],
+  [
+   "실버시터",
+   "Silbeositeo",
+   "Người chăm sóc người già (silver sitter)",
+   "실버시터는 고령화 사회의 유망 직업이에요.",
+   "Người chăm sóc người già là nghề triển vọng trong xã hội già hóa."
+  ],
+  [
+   "금융 자산 운용가",
+   "Geumyung jasan unyongga",
+   "Nhà quản lý tài sản tiền tệ",
+   "금융 자산 운용가가 고객의 돈을 관리해요.",
+   "Nhà quản lý tài sản tài chính quản lý tiền của khách hàng."
+  ],
+  [
+   "취업 정보",
+   "Chwieom jeongbo",
+   "Thông tin việc làm, thông tin tuyển dụng",
+   "학교 홈페이지에서 취업 정보를 찾았어요.",
+   "Tôi tìm thông tin việc làm trên trang của trường."
+  ],
+  [
+   "인턴십",
+   "Inteonsip",
+   "Việc thực tập",
+   "방학 동안 인턴십을 했어요.",
+   "Tôi đã thực tập trong kỳ nghỉ."
+  ],
+  [
+   "포트폴리오",
+   "Poteupollio",
+   "Bộ hồ sơ",
+   "디자이너는 포트폴리오가 중요해요.",
+   "Với nhà thiết kế, hồ sơ năng lực rất quan trọng."
+  ],
+  [
+   "취업 전략",
+   "Chwieom jeollyak",
+   "Chiến lược tìm việc làm",
+   "취업 전략을 세워서 준비했어요.",
+   "Đã lập chiến lược tìm việc để chuẩn bị."
+  ],
+  [
+   "자기 관리",
+   "Jagi gwalli",
+   "Quản lý bản thân",
+   "직장인에게는 자기 관리가 중요해요.",
+   "Với người đi làm, tự quản lý bản thân rất quan trọng."
+  ],
+  [
+   "자격증",
+   "Jagyeokjeung",
+   "Bằng cấp",
+   "회계 관련 자격증을 땄어요.",
+   "Tôi đã lấy chứng chỉ liên quan đến kế toán."
+  ],
+  [
+   "어학 인증서",
+   "Eohang injeungseo",
+   "Bằng ngoại ngữ",
+   "토익 같은 어학 인증서를 제출하세요.",
+   "Hãy nộp chứng chỉ ngoại ngữ như TOEIC."
+  ],
+  [
+   "스펙을 쌓다",
+   "Seupegeul ssata",
+   "Tích lũy bằng cấp, chứng chỉ",
+   "취업하려고 스펙을 쌓고 있어요.",
+   "Tôi đang tích lũy bằng cấp chứng chỉ để xin việc."
+  ],
+  [
+   "창의 인재",
+   "Changui injae",
+   "Nhân tài sáng tạo",
+   "회사는 창의 인재를 원해요.",
+   "Công ty muốn nhân tài sáng tạo."
+  ],
+  [
+   "간단 명료",
+   "Gandan myeongnyo",
+   "Ngắn gọn rõ ràng",
+   "보고서는 간단 명료하게 쓰세요.",
+   "Hãy viết báo cáo ngắn gọn rõ ràng."
+  ],
+  [
+   "고갈",
+   "Gogal",
+   "Sự cạn kiệt",
+   "석유 자원의 고갈이 걱정돼요.",
+   "Lo lắng về sự cạn kiệt tài nguyên dầu mỏ."
+  ],
+  [
+   "고령화",
+   "Goryeonghwa",
+   "Sự lão hóa, già hóa",
+   "고령화로 노인 관련 직업이 늘고 있어요.",
+   "Do già hóa mà nghề liên quan người già đang tăng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는걸(요) — Hóa ra, chắc là",
+   "meaning": "Kết thúc câu (văn NÓI thân mật / lịch sự) với các sắc thái: ① PHÁT HIỆN, CẢM THÁN về điều vừa nhận ra: 'hóa ra…, … đấy chứ!': 생각보다 어려운걸요 (khó hơn tôi tưởng đấy). ② PHẢN BÁC NHẸ / giải thích khác với điều người kia nghĩ: '… đấy (chứ đâu phải…)': 가: 늦었네요. 나: 아직 10분 남았는걸요 (vẫn còn 10 phút mà). Chia: Động từ hiện tại → 는걸요 (하는걸요); quá khứ → 았/었는걸요 / (으)ㄴ걸요 (했는걸요, 끝난걸요); Tính từ → (으)ㄴ걸요 (좋은걸요, 비싼걸요); Danh từ → 인걸요. Ngữ điệu: lên nhẹ ở cuối. Khác (으)ㄹ걸요 (Bài 190 – phỏng đoán 'chắc là'): (으)ㄴ/는걸요 = điều đã nhận thấy, có căn cứ thực tế.",
+   "examples": [
+    "면접을 보니까 생각보다 질문이 어려운걸요. — Phỏng vấn rồi mới thấy câu hỏi khó hơn tôi tưởng đấy.",
+    "가: 보고서 아직 안 했어요? 나: 벌써 다 했는걸요. — A: Chưa làm báo cáo à? B: Tôi làm xong hết rồi mà.",
+    "인턴십을 해 보니 이 일이 제 적성에 맞는걸요. — Thực tập rồi mới thấy việc này hợp với năng khiếu của tôi đấy.",
+    "와, 포트폴리오가 정말 훌륭한걸요! — Ồ, hồ sơ năng lực thật xuất sắc đấy!"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Hồ sơ tập hợp các sản phẩm, dự án đã làm gọi là gì?",
+   "kr": "",
+   "options": [
+    "포트폴리오",
+    "자격증",
+    "인턴십"
+   ],
+   "answer": "포트폴리오",
+   "explain": "portfolio."
+  },
+  {
+   "type": "choice",
+   "q": "Tích lũy bằng cấp, chứng chỉ, kinh nghiệm để xin việc gọi là gì?",
+   "kr": "",
+   "options": [
+    "스펙을 쌓다",
+    "자기 관리",
+    "취업 전략"
+   ],
+   "answer": "스펙을 쌓다",
+   "explain": "스펙 = spec (thành tích)."
+  },
+  {
+   "type": "choice",
+   "q": "Người làm công tác xã hội gọi là gì?",
+   "kr": "",
+   "options": [
+    "사회복지사",
+    "실버시터",
+    "투자 분석가"
+   ],
+   "answer": "사회복지사",
+   "explain": "사회복지사."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hãy viết báo cáo ngắn gọn rõ ràng.",
+   "kr": "보고서는 ___하게 쓰세요.",
+   "options": [
+    "간단 명료",
+    "고갈",
+    "고령화"
+   ],
+   "answer": "간단 명료",
+   "explain": "간단 명료."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG (phản bác nhẹ): 'Tôi làm xong hết rồi mà.'",
+   "kr": "",
+   "options": [
+    "벌써 다 했는걸요.",
+    "벌써 다 할걸요.",
+    "벌써 다 하는걸 그랬어요."
+   ],
+   "answer": "벌써 다 했는걸요.",
+   "explain": "Quá khứ: 았/었는걸요."
+  },
+  {
+   "type": "choice",
+   "q": "Phân biệt: Câu nào là PHỎNG ĐOÁN (chắc là)?",
+   "kr": "",
+   "options": [
+    "내일은 비가 올걸요.",
+    "생각보다 어려운걸요.",
+    "벌써 끝난걸요."
+   ],
+   "answer": "내일은 비가 올걸요.",
+   "explain": "(으)ㄹ걸요 = phỏng đoán; (으)ㄴ/는걸요 = nhận thấy."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với tính từ 훌륭하다.",
+   "kr": "",
+   "options": [
+    "훌륭한걸요",
+    "훌륭하는걸요",
+    "훌륭할걸요는"
+   ],
+   "answer": "훌륭한걸요",
+   "explain": "Tính từ → (으)ㄴ걸요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lo lắng về sự cạn kiệt dầu mỏ.",
+   "kr": "석유 자원의 ___이 걱정돼요.",
+   "options": [
+    "고갈",
+    "고령화",
+    "창의"
+   ],
+   "answer": "고갈",
+   "explain": "고갈."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ/는걸요 với 어렵다: Phỏng vấn mới thấy câu hỏi khó hơn tưởng.",
+   "kr": "면접을 보니까 생각보다 질문이 ___.",
+   "answer": [
+    "어려운걸요",
+    "어려운걸"
+   ],
+   "explain": "어려운걸요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ/는걸요 với 맞다: Thực tập mới thấy việc này hợp với tôi.",
+   "kr": "인턴십을 해 보니 이 일이 제 적성에 ___.",
+   "answer": [
+    "맞는걸요",
+    "맞는걸"
+   ],
+   "explain": "Động từ → 는걸요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đã thực tập trong kỳ nghỉ.",
+   "kr": "방학 동안 ___을 했어요.",
+   "answer": [
+    "인턴십"
+   ],
+   "explain": "인턴십."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Công ty muốn nhân tài sáng tạo.",
+   "kr": "회사는 ___ 인재를 원해요.",
+   "answer": [
+    "창의"
+   ],
+   "explain": "창의 인재."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ồ, hồ sơ năng lực thật xuất sắc đấy!",
+   "tokens": [
+    "와,",
+    "포트폴리오가",
+    "정말",
+    "훌륭한걸요!"
+   ],
+   "answer": "와, 포트폴리오가 정말 훌륭한걸요!",
+   "explain": "(으)ㄴ걸요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đang tích lũy bằng cấp để xin việc.",
+   "tokens": [
+    "취업하려고",
+    "스펙을",
+    "쌓고",
+    "있어요"
+   ],
+   "answer": "취업하려고 스펙을 쌓고 있어요",
+   "explain": "스펙을 쌓다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: (Phản bác) Vẫn còn sớm mà. (dùng (으)ㄴ/는걸요)",
+   "answer": [
+    "아직 이른걸요.",
+    "아직 시간이 이른걸요."
+   ],
+   "explain": "이르다 → 이른걸요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy nộp chứng chỉ ngoại ngữ.",
+   "answer": [
+    "어학 인증서를 제출하세요.",
+    "어학 인증서를 내세요."
+   ],
+   "explain": "제출하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Với người đi làm, tự quản lý bản thân rất quan trọng.",
+   "answer": [
+    "직장인에게는 자기 관리가 중요해요.",
+    "직장인에게 자기 관리는 중요해요.",
+    "직장인에게는 자기 관리가 아주 중요해요."
+   ],
+   "explain": "자기 관리."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "고령화와 기술 발전으로 직업의 세계가 빠르게 변하고 있다. 실버시터, 컴퓨터 보안 전문가 같은 새로운 직업이 생기는 반면, 단순한 일자리는 줄고 있다. 따라서 스펙을 쌓는 것보다 창의력과 자기 관리 능력을 키우는 것이 중요하다.",
+   "answer": "Do già hóa và phát triển công nghệ, thế giới nghề nghiệp đang thay đổi nhanh. Những nghề mới như người chăm sóc người già, chuyên gia bảo mật máy tính xuất hiện, trong khi các công việc đơn giản đang giảm. Vì vậy nuôi dưỡng sức sáng tạo và năng lực tự quản lý bản thân quan trọng hơn việc tích lũy bằng cấp.",
+   "explain": "는 반면."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 디자인 회사에 지원한다고 했죠? 포트폴리오는 준비했어요?\n여자: 네, 그런데 작품이 너무 많아서 뭘 넣을까 고민이에요.\n남자: 지원하는 회사 분위기에 맞는 작품 위주로 골라 보세요. 제가 봐 줄 수도 있어요.\n여자: 정말요? 그럼 지금 파일을 보내 드릴게요.",
+   "options": [
+    "남자에게 포트폴리오 파일을 보낸다.",
+    "회사에 지원서를 낸다.",
+    "새 작품을 만든다.",
+    "면접을 본다."
+   ],
+   "answer": "남자에게 포트폴리오 파일을 보낸다.",
+   "explain": "지금 파일을 보내 드릴게요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그래서 많은 학생들이 졸업 전에 인턴십에 참여한다.\n(나) 요즘 기업들은 실무 경험이 있는 인재를 선호한다.\n(다) 인턴십을 하면 일을 직접 배우고 자신의 적성도 확인할 수 있다.",
+   "options": [
+    "(나)-(가)-(다)",
+    "(가)-(나)-(다)",
+    "(다)-(나)-(가)",
+    "(나)-(다)-(가)"
+   ],
+   "answer": "(나)-(가)-(다)",
+   "explain": "Bối cảnh → 그래서 → lợi ích."
+  }
+ ]
+}

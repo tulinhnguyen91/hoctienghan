@@ -1,0 +1,395 @@
+{
+ "id": "bai-272",
+ "lesson": "Bài 272",
+ "title": "Vấn đề xã hội hiện đại (phần 5/5)",
+ "krTitle": "현대 사회의 문제 5",
+ "date": "2027-12-22",
+ "day": 399,
+ "source": "TOPIK 6 – Bài 14: Vấn đề xã hội hiện đại (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "이기주의",
+   "Igijuui",
+   "Chủ nghĩa vị kỷ, suy nghĩ ích kỷ",
+   "지나친 이기주의는 사회를 병들게 해요.",
+   "Chủ nghĩa vị kỷ thái quá làm xã hội suy đồi."
+  ],
+  [
+   "입찰",
+   "Ipchal",
+   "Sự đấu thầu, sự mời thầu",
+   "새 도로 건설 공사에 여러 회사가 입찰했어요.",
+   "Nhiều công ty đã đấu thầu công trình xây đường mới."
+  ],
+  [
+   "잔혹하다",
+   "Janhokada",
+   "Độc ác, hung tợn",
+   "그 영화에는 잔혹한 장면이 많아요.",
+   "Bộ phim đó có nhiều cảnh tàn bạo."
+  ],
+  [
+   "조성되다",
+   "Joseongdoeda",
+   "Được tạo dựng nên",
+   "공원이 새로 조성되었어요.",
+   "Công viên mới đã được xây dựng."
+  ],
+  [
+   "증설",
+   "Jeungseol",
+   "Sự xây dựng thêm, sự trang bị thêm",
+   "어린이집 증설이 필요해요.",
+   "Cần xây thêm nhà trẻ."
+  ],
+  [
+   "중추",
+   "Jungchu",
+   "Trung tâm, cốt lõi",
+   "허리는 몸의 중추예요.",
+   "Thắt lưng là trung tâm của cơ thể."
+  ],
+  [
+   "지급정지",
+   "Jigeupjeongji",
+   "Đình chỉ thanh toán, tạm ngưng chi trả",
+   "사기 계좌는 지급정지를 신청할 수 있어요.",
+   "Có thể yêu cầu đình chỉ thanh toán tài khoản lừa đảo."
+  ],
+  [
+   "지능화",
+   "Jineunghwa",
+   "Sự tinh vi hóa (tội phạm)",
+   "범죄 수법의 지능화로 수사가 어려워졌어요.",
+   "Thủ đoạn phạm tội ngày càng tinh vi nên điều tra khó hơn."
+  ],
+  [
+   "진작부터",
+   "Jinjakbuteo",
+   "Từ lâu rồi",
+   "진작부터 운동을 시작할걸 그랬어요.",
+   "Giá mà bắt đầu tập thể dục từ lâu rồi."
+  ],
+  [
+   "체감",
+   "Chegam",
+   "Cảm giác (cảm nhận được bằng cơ thể)",
+   "물가 상승을 체감하고 있어요.",
+   "Đang cảm nhận rõ giá cả tăng."
+  ],
+  [
+   "추구하다",
+   "Chuguhada",
+   "Theo đuổi, mưu cầu",
+   "사람들은 모두 행복을 추구해요.",
+   "Mọi người đều theo đuổi hạnh phúc."
+  ],
+  [
+   "출범시키다",
+   "Chulbeomsikida",
+   "Khởi động, cho ra mắt (tổ chức)",
+   "정부가 새 위원회를 출범시켰어요.",
+   "Chính phủ đã cho ra mắt ủy ban mới."
+  ],
+  [
+   "터무니없다",
+   "Teomunieopda",
+   "Vô lý, không chính đáng",
+   "그런 터무니없는 소문은 믿지 마세요.",
+   "Đừng tin tin đồn vô căn cứ như vậy."
+  ],
+  [
+   "퇴치",
+   "Toechi",
+   "Sự triệt tiêu, sự hủy diệt",
+   "범죄 퇴치를 위해 경찰이 노력하고 있어요.",
+   "Cảnh sát đang nỗ lực để xóa bỏ tội phạm."
+  ],
+  [
+   "패륜 범죄",
+   "Paeryun beomjoe",
+   "Tội phạm trái luân thường đạo lý",
+   "패륜 범죄 뉴스를 보고 충격을 받았어요.",
+   "Tôi bị sốc khi xem tin về tội phạm trái luân thường."
+  ],
+  [
+   "학벌주의",
+   "Hakbeoljuui",
+   "Chủ nghĩa bằng cấp, chủ nghĩa học vị",
+   "학벌주의 때문에 입시 경쟁이 치열해요.",
+   "Vì chủ nghĩa bằng cấp mà cạnh tranh thi đại học khốc liệt."
+  ],
+  [
+   "학업 부진",
+   "Hageom bujin",
+   "Học lực yếu",
+   "학업 부진 학생을 위한 프로그램이 있어요.",
+   "Có chương trình dành cho học sinh học yếu."
+  ],
+  [
+   "합병증",
+   "Hapbyeongjeung",
+   "Biến chứng",
+   "당뇨병은 여러 합병증을 일으켜요.",
+   "Bệnh tiểu đường gây ra nhiều biến chứng."
+  ],
+  [
+   "현저히",
+   "Hyeonjeohi",
+   "Đáng chú ý, rõ ràng",
+   "출산율이 현저히 낮아졌어요.",
+   "Tỷ lệ sinh đã giảm rõ rệt."
+  ],
+  [
+   "혼재되다",
+   "Honjaedoeda",
+   "Bị trộn lẫn",
+   "이 도시에는 전통과 현대가 혼재되어 있어요.",
+   "Thành phố này truyền thống và hiện đại đan xen."
+  ],
+  [
+   "힘 닿다",
+   "Him data",
+   "Trong khả năng (힘 닿는 데까지 = hết sức có thể)",
+   "힘 닿는 데까지 돕겠습니다.",
+   "Tôi sẽ giúp hết sức có thể."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는/(으)ㄴ 김에 — Nhân tiện",
+   "meaning": "Nhân dịp đang làm / đã làm việc A thì làm luôn việc B (vốn không định trước): 'nhân tiện…, tiện thể…, đã… thì… luôn'. Chia: Động từ hiện tại (đang làm) → 는 김에 (가는 김에, 나가는 김에); quá khứ (đã làm) → (으)ㄴ 김에 (온 김에, 시작한 김에, 말이 나온 김에). Danh từ: N 김에 (ít dùng: 외출 김에). Vế sau: hành động thêm, có thể là đề nghị/mệnh lệnh/ý định (ㄹ게요, 세요, 자). Mẫu quen: 말이 나온 김에 (nhân tiện nói đến chuyện này), 생각난 김에 (nhân tiện nhớ ra). So sánh: (으)ㄹ 겸 (Bài 218 – một hành động, nhiều mục đích có kế hoạch từ trước); 는/(으)ㄴ 김에 = cơ hội ngẫu nhiên, 'tiện thì làm luôn'.",
+   "examples": [
+    "시장에 가는 김에 우유도 좀 사 오세요. — Nhân tiện đi chợ thì mua giúp ít sữa nhé.",
+    "서울에 온 김에 친구도 만났어요. — Nhân tiện đến Seoul tôi gặp luôn bạn.",
+    "말이 나온 김에 이 문제에 대해 이야기해 봅시다. — Nhân tiện nói đến thì chúng ta bàn về vấn đề này đi.",
+    "청소를 시작한 김에 창문까지 닦았어요. — Đã bắt đầu dọn dẹp thì lau luôn cả cửa sổ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chủ nghĩa coi trọng bằng cấp, trường danh tiếng gọi là gì?",
+   "kr": "",
+   "options": [
+    "학벌주의",
+    "이기주의",
+    "학업 부진"
+   ],
+   "answer": "학벌주의",
+   "explain": "학벌 = xuất thân học vấn."
+  },
+  {
+   "type": "choice",
+   "q": "Bệnh phát sinh thêm do bệnh chính gọi là gì?",
+   "kr": "",
+   "options": [
+    "합병증",
+    "지능화",
+    "퇴치"
+   ],
+   "answer": "합병증",
+   "explain": "합병증 = biến chứng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng tin tin đồn vô căn cứ.",
+   "kr": "그런 ___ 소문은 믿지 마세요.",
+   "options": [
+    "터무니없는",
+    "잔혹한",
+    "현저한"
+   ],
+   "answer": "터무니없는",
+   "explain": "터무니없다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tỷ lệ sinh giảm rõ rệt.",
+   "kr": "출산율이 ___ 낮아졌어요.",
+   "options": [
+    "현저히",
+    "진작부터",
+    "힘 닿게"
+   ],
+   "answer": "현저히",
+   "explain": "현저히."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Nhân tiện đi chợ thì mua giúp sữa.'",
+   "kr": "",
+   "options": [
+    "시장에 가는 김에 우유도 좀 사 오세요.",
+    "시장에 갈 김에 우유도 좀 사 오세요.",
+    "시장에 가기 김에 우유도 좀 사 오세요."
+   ],
+   "answer": "시장에 가는 김에 우유도 좀 사 오세요.",
+   "explain": "Đang đi → 는 김에."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Nhân tiện đến Seoul gặp luôn bạn.'",
+   "kr": "",
+   "options": [
+    "서울에 온 김에 친구도 만났어요.",
+    "서울에 올 김에 친구도 만났어요.",
+    "서울에 오는 김에서 친구도 만났어요."
+   ],
+   "answer": "서울에 온 김에 친구도 만났어요.",
+   "explain": "Đã đến → (으)ㄴ 김에."
+  },
+  {
+   "type": "choice",
+   "q": "는/(으)ㄴ 김에 khác (으)ㄹ 겸 thế nào?",
+   "kr": "",
+   "options": [
+    "김에: tiện thì làm luôn (ngẫu nhiên); 겸: nhiều mục đích có chủ ý",
+    "Giống nhau hoàn toàn",
+    "김에: chỉ dùng cho tương lai"
+   ],
+   "answer": "김에: tiện thì làm luôn (ngẫu nhiên); 겸: nhiều mục đích có chủ ý",
+   "explain": "Sắc thái khác."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Công viên mới đã được xây dựng.",
+   "kr": "공원이 새로 ___.",
+   "options": [
+    "조성되었어요",
+    "입찰되었어요",
+    "혼재되었어요"
+   ],
+   "answer": "조성되었어요",
+   "explain": "조성되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 김에 với 시작하다: Đã bắt đầu dọn thì lau luôn cửa sổ.",
+   "kr": "청소를 ___ 창문까지 닦았어요.",
+   "answer": [
+    "시작한 김에"
+   ],
+   "explain": "시작한 김에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 김에 với 나오다: Nhân tiện nói đến thì bàn về vấn đề này.",
+   "kr": "말이 ___ 이 문제에 대해 이야기해 봅시다.",
+   "answer": [
+    "나온 김에"
+   ],
+   "explain": "말이 나온 김에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cần xây thêm nhà trẻ.",
+   "kr": "어린이집 ___이 필요해요.",
+   "answer": [
+    "증설"
+   ],
+   "explain": "증설."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mọi người đều theo đuổi hạnh phúc.",
+   "kr": "사람들은 모두 행복을 ___해요.",
+   "answer": [
+    "추구"
+   ],
+   "explain": "추구하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhân tiện đến Seoul tôi gặp luôn bạn.",
+   "tokens": [
+    "서울에",
+    "온",
+    "김에",
+    "친구도",
+    "만났어요"
+   ],
+   "answer": "서울에 온 김에 친구도 만났어요",
+   "explain": "(으)ㄴ 김에."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi sẽ giúp hết sức có thể.",
+   "tokens": [
+    "힘",
+    "닿는",
+    "데까지",
+    "돕겠습니다"
+   ],
+   "answer": "힘 닿는 데까지 돕겠습니다",
+   "explain": "힘 닿는 데까지."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhân tiện ra ngoài thì gửi luôn bức thư này nhé. (dùng 는 김에)",
+   "answer": [
+    "나가는 김에 이 편지도 부쳐 주세요.",
+    "밖에 나가는 김에 이 편지 좀 부쳐 주세요.",
+    "나가는 김에 이 편지도 보내 주세요.",
+    "외출하는 김에 이 편지도 부쳐 주세요."
+   ],
+   "explain": "나가는 김에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bệnh tiểu đường gây ra nhiều biến chứng.",
+   "answer": [
+    "당뇨병은 여러 합병증을 일으켜요.",
+    "당뇨병은 많은 합병증을 일으켜요."
+   ],
+   "explain": "합병증."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thành phố này truyền thống và hiện đại đan xen.",
+   "answer": [
+    "이 도시에는 전통과 현대가 혼재되어 있어요.",
+    "이 도시는 전통과 현대가 혼재되어 있어요."
+   ],
+   "explain": "혼재되다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "범죄 수법이 지능화되면서 경찰은 새로운 수사 방법을 추구하고 있다. 정부도 사이버 범죄 퇴치를 위한 전담 기관을 출범시켰으며, 시민들도 피해를 체감하는 만큼 적극적으로 협조하고 있다.",
+   "answer": "Khi thủ đoạn phạm tội ngày càng tinh vi, cảnh sát đang theo đuổi phương pháp điều tra mới. Chính phủ cũng đã cho ra mắt cơ quan chuyên trách xóa bỏ tội phạm mạng, và vì người dân cũng cảm nhận rõ thiệt hại nên đang tích cực hợp tác.",
+   "explain": "는 만큼 (vì)."
+  },
+  {
+   "type": "read",
+   "q": "Nghe phỏng vấn và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "기자: 학벌주의 문제가 계속 제기되고 있는데요.\n전문가: 네, 한국에서는 아직도 어느 대학을 나왔는지가 취업이나 결혼에 영향을 주는 경우가 많습니다. 이로 인해 초등학생 때부터 사교육 경쟁이 치열해지고 학생들의 스트레스도 현저히 높아졌습니다. 학벌보다 실력을 중시하는 사회적 분위기가 조성되어야 합니다.",
+   "options": [
+    "실력을 중시하는 사회 분위기가 필요하다.",
+    "학벌주의는 이미 사라졌다.",
+    "학생들의 스트레스가 줄었다.",
+    "사교육 경쟁은 고등학생 때부터 시작된다."
+   ],
+   "answer": "실력을 중시하는 사회 분위기가 필요하다.",
+   "explain": "실력을 중시하는 … 분위기가 조성되어야."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "최근 물가가 올라 서민들이 경제적 어려움을 <체감하고> 있다.",
+   "options": [
+    "직접 느끼고",
+    "잊어버리고",
+    "무시하고",
+    "해결하고"
+   ],
+   "answer": "직접 느끼고",
+   "explain": "체감하다 = cảm nhận trực tiếp."
+  }
+ ]
+}

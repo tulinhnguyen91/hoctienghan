@@ -1,0 +1,365 @@
+{
+ "id": "bai-68",
+ "lesson": "Bài 68",
+ "title": "Chuyển chỗ ở (phần 4/4)",
+ "krTitle": "이사 4",
+ "date": "2027-02-16",
+ "day": 90,
+ "source": "TOPIK 3 – Bài 9: Chuyển chỗ ở (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "주변 환경",
+   "Jubyeon hwangyeong",
+   "Môi trường xung quanh",
+   "집을 구할 때 주변 환경도 살펴보세요.",
+   "Khi tìm nhà hãy xem cả môi trường xung quanh."
+  ],
+  [
+   "떡을 돌리다",
+   "Tteogeul dollida",
+   "Chia bánh tteok cho hàng xóm",
+   "이사 온 날 이웃에게 떡을 돌렸어요.",
+   "Ngày chuyển đến tôi chia bánh tteok cho hàng xóm."
+  ],
+  [
+   "요청하다",
+   "Yocheonghada",
+   "Yêu cầu, đề nghị",
+   "집주인에게 수리를 요청했어요.",
+   "Tôi đã đề nghị chủ nhà sửa chữa."
+  ],
+  [
+   "주택가",
+   "Jutaekga",
+   "Khu dân cư",
+   "이 동네는 조용한 주택가예요.",
+   "Khu này là khu dân cư yên tĩnh."
+  ],
+  [
+   "문의하다",
+   "Munuihada",
+   "Hỏi, liên hệ hỏi",
+   "자세한 내용은 사무실에 문의하세요.",
+   "Chi tiết xin hỏi văn phòng."
+  ],
+  [
+   "이사 비용",
+   "Isa biyong",
+   "Chi phí chuyển nhà",
+   "이사 비용이 생각보다 많이 들었어요.",
+   "Chi phí chuyển nhà tốn hơn tôi nghĩ."
+  ],
+  [
+   "집들이",
+   "Jipdeuri",
+   "Tiệc tân gia",
+   "이번 주말에 집들이를 해요. 꼭 오세요.",
+   "Cuối tuần này tôi làm tân gia. Nhất định đến nhé."
+  ],
+  [
+   "보험 가입",
+   "Boheom gaip",
+   "Tham gia bảo hiểm",
+   "이삿짐 센터는 보험 가입이 되어 있어요?",
+   "Trung tâm chuyển nhà có tham gia bảo hiểm không?"
+  ],
+  [
+   "이웃",
+   "Iut",
+   "Hàng xóm",
+   "새 이웃들이 친절하기를 바라요.",
+   "Mong hàng xóm mới thân thiện."
+  ],
+  [
+   "파손되다",
+   "Pasondoeda",
+   "Bị hư hỏng",
+   "이사하다가 냉장고가 파손됐어요.",
+   "Đang chuyển nhà thì tủ lạnh bị hỏng."
+  ],
+  [
+   "부담을 줄이다",
+   "Budameul jurida",
+   "Giảm gánh nặng",
+   "룸메이트와 같이 살면 월세 부담을 줄일 수 있어요.",
+   "Ở chung với bạn cùng phòng thì giảm được gánh nặng tiền thuê."
+  ],
+  [
+   "저렴하다",
+   "Jeoryeomhada",
+   "Giá rẻ, phải chăng",
+   "학교 기숙사는 원룸에 비해 저렴해요.",
+   "Ký túc xá so với phòng one-room thì rẻ."
+  ],
+  [
+   "편의 시설",
+   "Pyeonui siseol",
+   "Tiện ích (cửa hàng, bệnh viện…)",
+   "집 근처에 편의 시설이 많아서 편해요.",
+   "Gần nhà có nhiều tiện ích nên tiện."
+  ],
+  [
+   "분실되다",
+   "Bunsildoeda",
+   "Bị thất lạc",
+   "이사하는 동안 중요한 서류가 분실됐어요.",
+   "Trong lúc chuyển nhà, giấy tờ quan trọng bị thất lạc."
+  ],
+  [
+   "적응하다",
+   "Jeogeunghada",
+   "Thích nghi",
+   "새 동네에 빨리 적응하기를 바라요.",
+   "Mong bạn sớm thích nghi với khu phố mới."
+  ],
+  [
+   "해결되다",
+   "Haegyeoldoeda",
+   "Được giải quyết",
+   "보일러 문제가 드디어 해결됐어요.",
+   "Vấn đề máy sưởi cuối cùng đã được giải quyết."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 기를 바라다 — Mong rằng",
+   "meaning": "Bày tỏ mong muốn, hy vọng một điều gì đó sẽ xảy ra (cho mình hoặc người khác): 'mong rằng…, hy vọng…'. Gắn 기를 바라다 vào gốc: 적응하다 → 적응하기를 바라요, 행복하다 → 행복하기를 바라요 (tính từ cũng dùng được). Văn nói hay rút thành 길 바라요. Rất hay dùng trong lời chúc, thiệp, thư: 하시는 일이 잘되기를 바랍니다 (chúc mọi việc suôn sẻ), 건강하시기를 바랍니다. So với (으)면 좋겠다 (Bài 30): 기를 바라다 trang trọng hơn, hay dùng khi chúc người khác.",
+   "examples": [
+    "새 동네에 빨리 적응하기를 바라요. — Mong bạn sớm thích nghi với khu phố mới.",
+    "새 집에서 행복하기를 바랍니다. — Chúc bạn hạnh phúc ở nhà mới.",
+    "모든 문제가 잘 해결되기를 바라요. — Mong mọi vấn đề được giải quyết tốt đẹp.",
+    "다음에는 실수하지 않기를 바랍니다. — Mong lần sau đừng mắc lỗi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mong bạn sớm thích nghi.",
+   "kr": "빨리 ___.",
+   "options": [
+    "적응하기를 바라요",
+    "적응하게 바라요",
+    "적응하는 바라요"
+   ],
+   "answer": "적응하기를 바라요",
+   "explain": "V + 기를 바라다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu chúc trang trọng: Chúc bạn hạnh phúc ở nhà mới.",
+   "kr": "새 집에서 ___.",
+   "options": [
+    "행복하기를 바랍니다",
+    "행복할게요",
+    "행복하는 편이에요"
+   ],
+   "answer": "행복하기를 바랍니다",
+   "explain": "Lời chúc trang trọng: 기를 바랍니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng rút gọn trong văn nói của '잘되기를 바라요'.",
+   "kr": "",
+   "options": [
+    "잘되길 바라요",
+    "잘되긴 바라요",
+    "잘되게 바라요"
+   ],
+   "answer": "잘되길 바라요",
+   "explain": "기를 → 길."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Mong lần sau đừng mắc lỗi.",
+   "kr": "다음에는 ___.",
+   "options": [
+    "실수하지 않기를 바랍니다",
+    "실수 안 하길 바랐어요요",
+    "실수하기를 안 바랍니다"
+   ],
+   "answer": "실수하지 않기를 바랍니다",
+   "explain": "Phủ định: 지 않기를 바라다."
+  },
+  {
+   "type": "choice",
+   "q": "Bữa tiệc mời bạn bè đến nhà mới gọi là gì?",
+   "kr": "",
+   "options": [
+    "집들이",
+    "송별회",
+    "동창회"
+   ],
+   "answer": "집들이",
+   "explain": "집들이 = tiệc tân gia."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đang chuyển nhà thì tủ lạnh bị hỏng.",
+   "kr": "이사하다가 냉장고가 ___.",
+   "options": [
+    "파손됐어요",
+    "해결됐어요",
+    "요청했어요"
+   ],
+   "answer": "파손됐어요",
+   "explain": "파손되다 = bị hư hỏng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ký túc xá rẻ hơn one-room.",
+   "kr": "기숙사는 원룸에 비해 ___.",
+   "options": [
+    "저렴해요",
+    "파손돼요",
+    "분실돼요"
+   ],
+   "answer": "저렴해요",
+   "explain": "저렴하다 = rẻ, phải chăng."
+  },
+  {
+   "type": "choice",
+   "q": "Theo phong tục Hàn, khi chuyển đến nhà mới người ta thường làm gì?",
+   "kr": "",
+   "options": [
+    "이웃에게 떡을 돌린다",
+    "이웃에게 돈을 준다",
+    "아무것도 하지 않는다"
+   ],
+   "answer": "이웃에게 떡을 돌린다",
+   "explain": "떡을 돌리다 = chia bánh tteok cho hàng xóm."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기를 바라요 vào 해결되다: Mong vấn đề được giải quyết.",
+   "kr": "문제가 잘 ___.",
+   "answer": [
+    "해결되기를 바라요",
+    "해결되길 바라요",
+    "해결되기를 바랍니다"
+   ],
+   "explain": "해결되 + 기를 바라요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기를 바랍니다 vào 건강하시다: Chúc ông bà mạnh khỏe.",
+   "kr": "할머니, 할아버지 늘 ___.",
+   "answer": [
+    "건강하시기를 바랍니다",
+    "건강하시길 바랍니다",
+    "건강하시기를 바라요"
+   ],
+   "explain": "건강하시 + 기를 바랍니다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chi tiết xin hỏi văn phòng.",
+   "kr": "자세한 내용은 사무실에 ___하세요.",
+   "answer": [
+    "문의"
+   ],
+   "explain": "문의하다 = hỏi, liên hệ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ở chung thì giảm được gánh nặng tiền thuê.",
+   "kr": "같이 살면 월세 ___을 줄일 수 있어요.",
+   "answer": [
+    "부담"
+   ],
+   "explain": "부담을 줄이다 = giảm gánh nặng."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mong hàng xóm mới thân thiện.",
+   "tokens": [
+    "새",
+    "이웃들이",
+    "친절하기를",
+    "바라요"
+   ],
+   "answer": "새 이웃들이 친절하기를 바라요",
+   "explain": "Tính từ + 기를 바라요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cuối tuần này tôi làm tân gia.",
+   "tokens": [
+    "이번",
+    "주말에",
+    "집들이를",
+    "해요"
+   ],
+   "answer": "이번 주말에 집들이를 해요",
+   "explain": "집들이를 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mong bạn sớm thích nghi với cuộc sống ở Hàn.",
+   "answer": [
+    "한국 생활에 빨리 적응하기를 바라요.",
+    "한국 생활에 빨리 적응하길 바라요.",
+    "한국 생활에 빨리 적응하기를 바랍니다.",
+    "한국 생활에 빨리 적응하시기를 바랍니다."
+   ],
+   "explain": "적응하다 + 기를 바라다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Gần nhà có nhiều tiện ích.",
+   "answer": [
+    "집 근처에 편의 시설이 많아요.",
+    "집 근처에 편의시설이 많아요.",
+    "집 주변에 편의 시설이 많아요."
+   ],
+   "explain": "편의 시설 = tiện ích."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chi phí chuyển nhà tốn hơn tôi nghĩ.",
+   "answer": [
+    "이사 비용이 생각보다 많이 들었어요.",
+    "이사 비용이 생각보다 많이 나왔어요.",
+    "이사 비용이 생각보다 비쌌어요."
+   ],
+   "explain": "비용이 들다 = tốn chi phí."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "집을 구할 때는 가격뿐만 아니라 주변 환경과 편의 시설도 살펴보는 게 좋아요.",
+   "answer": "Khi tìm nhà, không chỉ giá mà nên xem xét cả môi trường xung quanh và tiện ích.",
+   "explain": "뿐만 아니라 = không chỉ… mà còn (mẫu TOPIK 4, chỉ cần hiểu)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự đúng. (Dạng TOPIK II câu 13~15)\n(가) 그래서 이사 온 다음 날 이웃들에게 떡을 돌렸습니다.\n(나) 지난달에 학교 근처 주택가로 이사했습니다.\n(다) 지금은 이웃들과 인사를 하고 친하게 지냅니다.\n(라) 한국에는 이사 후에 이웃에게 떡을 나누는 관습이 있습니다.",
+   "kr": "",
+   "options": [
+    "(나)-(라)-(가)-(다)",
+    "(라)-(나)-(다)-(가)",
+    "(나)-(가)-(라)-(다)",
+    "(가)-(나)-(라)-(다)"
+   ],
+   "answer": "(나)-(라)-(가)-(다)",
+   "explain": "Chuyển nhà (나) → giới thiệu phong tục (라) → nên đã chia bánh (가) → giờ thân với hàng xóm (다)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 이번 토요일에 집들이를 하는데 올 수 있어요?\n남자: ( ___ )",
+   "options": [
+    "그럼요. 축하해요! 휴지하고 세제를 사 갈게요.",
+    "아니요, 집을 구하는 중이에요.",
+    "이삿짐 센터에 문의하세요.",
+    "보증금이 비싸네요."
+   ],
+   "answer": "그럼요. 축하해요! 휴지하고 세제를 사 갈게요.",
+   "explain": "Ở Hàn, đến tân gia thường mang giấy vệ sinh, bột giặt (ý nghĩa may mắn, sung túc)."
+  }
+ ]
+}

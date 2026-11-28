@@ -1,0 +1,353 @@
+{
+ "id": "bai-57",
+ "lesson": "Bài 57",
+ "title": "Ngân hàng (phần 3/3)",
+ "krTitle": "은행 3",
+ "date": "2027-01-31",
+ "day": 74,
+ "source": "TOPIK 3 – Bài 6: Ngân hàng (phần 3/3)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "가계부를 쓰다",
+   "Gagyebureul sseuda",
+   "Viết sổ chi tiêu",
+   "돈을 모으려면 가계부를 쓰는 게 좋아요.",
+   "Muốn để dành tiền thì nên ghi sổ chi tiêu."
+  ],
+  [
+   "수입",
+   "Suip",
+   "Thu nhập",
+   "이번 달은 수입보다 지출이 많아요.",
+   "Tháng này chi nhiều hơn thu."
+  ],
+  [
+   "지로용지",
+   "Jiroyongji",
+   "Giấy báo chuyển khoản (tiền điện, nước…)",
+   "지로용지로 공과금을 냈어요.",
+   "Tôi nộp tiền điện nước bằng giấy báo chuyển khoản."
+  ],
+  [
+   "공과금",
+   "Gonggwageum",
+   "Tiền công ích (điện, nước, thuế…)",
+   "공과금을 자동으로 내려면 신청서를 쓰세요.",
+   "Muốn nộp tiền điện nước tự động thì hãy viết đơn."
+  ],
+  [
+   "신청서",
+   "Sincheongseo",
+   "Đơn xin",
+   "통장을 만들려면 신청서를 써야 해요.",
+   "Muốn mở sổ thì phải viết đơn."
+  ],
+  [
+   "지출",
+   "Jichul",
+   "Chi tiêu",
+   "가계부를 쓰고 나서 지출이 줄었어요.",
+   "Từ khi ghi sổ chi tiêu, chi tiêu đã giảm."
+  ],
+  [
+   "도둑맞다",
+   "Dodungmatda",
+   "Bị ăn trộm",
+   "지하철에서 지갑을 도둑맞았어요.",
+   "Tôi bị trộm ví trên tàu điện."
+  ],
+  [
+   "용돈 기입장",
+   "Yongdon giipjang",
+   "Sổ ghi chép tiền tiêu cá nhân",
+   "우리 아이는 매일 용돈 기입장을 써요.",
+   "Con tôi ghi sổ tiền tiêu vặt mỗi ngày."
+  ],
+  [
+   "함부로",
+   "Hamburo",
+   "Bừa bãi, không suy nghĩ",
+   "돈을 함부로 쓰지 마세요.",
+   "Đừng tiêu tiền bừa bãi."
+  ],
+  [
+   "분실",
+   "Bunsil",
+   "Mất (đồ đạc)",
+   "카드 분실은 바로 은행에 알려야 해요.",
+   "Mất thẻ thì phải báo ngân hàng ngay."
+  ],
+  [
+   "자동 납부",
+   "Jadong napbu",
+   "Trả, nộp tiền tự động",
+   "전기 요금을 자동 납부로 바꿨어요.",
+   "Tôi đã chuyển tiền điện sang nộp tự động."
+  ],
+  [
+   "분실신고",
+   "Bunsilsingo",
+   "Thông báo mất (đồ đạc)",
+   "카드를 잃어버리면 먼저 분실신고를 하세요.",
+   "Nếu mất thẻ hãy báo mất trước tiên."
+  ],
+  [
+   "저금통",
+   "Jeogeumtong",
+   "Ống tiết kiệm (tiền xu)",
+   "동전을 저금통에 모아요.",
+   "Tôi bỏ tiền xu vào ống heo."
+  ],
+  [
+   "뽑다",
+   "Ppopda",
+   "Nhổ ra, rút ra, chọn ra",
+   "ATM기에서 돈을 뽑았어요.",
+   "Tôi đã rút tiền ở ATM."
+  ],
+  [
+   "절반",
+   "Jeolban",
+   "Một nửa",
+   "월급의 절반을 저금해요.",
+   "Tôi để dành một nửa tiền lương."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)려면 — Nếu muốn",
+   "meaning": "Là (으)려고 하다 (định) + (으)면 (nếu) → 'nếu muốn/định làm A thì (cần) B'. Vế sau thường là điều kiện cần, lời khuyên: 아/어야 하다, 는 게 좋다, (으)세요, 필요하다. Gốc có patchim + 으려면 (찾다 → 찾으려면); không patchim hoặc ㄹ + 려면 (모으다 → 모으려면, 만들다 → 만들려면). Bất quy tắc: 듣다 → 들으려면. LỖI HAY GẶP: dùng (으)면 thay cho (으)려면: 통장을 만들면 신분증이 필요해요 (nghe như 'nếu đã mở sổ thì…') → đúng phải là 만들려면.",
+   "examples": [
+    "통장을 만들려면 신분증이 필요해요. — Muốn mở sổ thì cần giấy tờ tùy thân.",
+    "돈을 모으려면 가계부를 쓰는 게 좋아요. — Muốn để dành tiền thì nên ghi sổ chi tiêu.",
+    "해외로 송금하려면 수수료를 내야 해요. — Muốn chuyển tiền ra nước ngoài phải trả phí.",
+    "은행에 가려면 2번 출구로 나가세요. — Muốn đến ngân hàng thì ra cửa số 2."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Muốn mở sổ thì cần giấy tờ tùy thân.",
+   "kr": "통장을 ___ 신분증이 필요해요.",
+   "options": [
+    "만들려면",
+    "만들으려면",
+    "만들면서"
+   ],
+   "answer": "만들려면",
+   "explain": "Patchim ㄹ + 려면 → 만들려면."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Muốn để dành tiền thì nên ghi sổ.",
+   "kr": "돈을 ___ 가계부를 쓰는 게 좋아요.",
+   "options": [
+    "모으려면",
+    "모으으려면",
+    "모아려면"
+   ],
+   "answer": "모으려면",
+   "explain": "모으다 không patchim → 모으려면."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Muốn tìm sách thì hãy hỏi thủ thư.",
+   "kr": "책을 ___ 사서에게 물어보세요.",
+   "options": [
+    "찾으려면",
+    "찾려면",
+    "찾아려면"
+   ],
+   "answer": "찾으려면",
+   "explain": "찾다 có patchim → 찾으려면."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào đúng nghĩa 'muốn mở sổ thì cần…'?",
+   "kr": "",
+   "options": [
+    "통장을 만들려면 신분증이 필요해요.",
+    "통장을 만들면 신분증이 필요해요.",
+    "통장을 만들어서 신분증이 필요해요."
+   ],
+   "answer": "통장을 만들려면 신분증이 필요해요.",
+   "explain": "Nói điều kiện để làm được việc gì → (으)려면."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tháng này chi nhiều hơn thu.",
+   "kr": "이번 달은 수입보다 ___이 많아요.",
+   "options": [
+    "지출",
+    "절반",
+    "분실"
+   ],
+   "answer": "지출",
+   "explain": "지출 = chi tiêu; 수입 = thu nhập."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi bị trộm ví.",
+   "kr": "지갑을 ___.",
+   "options": [
+    "도둑맞았어요",
+    "뽑았어요",
+    "분실신고했어요요"
+   ],
+   "answer": "도둑맞았어요",
+   "explain": "도둑맞다 = bị trộm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng tiêu tiền bừa bãi.",
+   "kr": "돈을 ___ 쓰지 마세요.",
+   "options": [
+    "함부로",
+    "절반",
+    "자동"
+   ],
+   "answer": "함부로",
+   "explain": "함부로 = tùy tiện, bừa bãi."
+  },
+  {
+   "type": "choice",
+   "q": "Mất thẻ ngân hàng thì việc đầu tiên nên làm là gì?",
+   "kr": "",
+   "options": [
+    "분실신고를 한다",
+    "저금통에 넣는다",
+    "가계부를 쓴다"
+   ],
+   "answer": "분실신고를 한다",
+   "explain": "분실신고 = báo mất."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)려면 vào 송금하다: Muốn chuyển tiền ra nước ngoài phải trả phí.",
+   "kr": "해외로 ___ 수수료를 내야 해요.",
+   "answer": [
+    "송금하려면"
+   ],
+   "explain": "송금하 + 려면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)려면 vào 가다: Muốn đến ngân hàng thì ra cửa số 2.",
+   "kr": "은행에 ___ 2번 출구로 나가세요.",
+   "answer": [
+    "가려면"
+   ],
+   "explain": "가 + 려면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)려면 vào 듣다: Muốn nghe giảng thì phải đăng ký.",
+   "kr": "강의를 ___ 신청해야 해요.",
+   "answer": [
+    "들으려면"
+   ],
+   "explain": "듣다 bất quy tắc ㄷ → 들으려면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi để dành một nửa tiền lương.",
+   "kr": "월급의 ___을 저금해요.",
+   "answer": [
+    "절반"
+   ],
+   "explain": "절반 = một nửa."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Muốn để dành tiền thì nên ghi sổ chi tiêu.",
+   "tokens": [
+    "돈을",
+    "모으려면",
+    "가계부를",
+    "쓰는",
+    "게",
+    "좋아요"
+   ],
+   "answer": "돈을 모으려면 가계부를 쓰는 게 좋아요",
+   "explain": "모으려면 + 는 게 좋아요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đã rút tiền ở ATM.",
+   "tokens": [
+    "ATM기에서",
+    "돈을",
+    "뽑았어요"
+   ],
+   "answer": "ATM기에서 돈을 뽑았어요",
+   "explain": "돈을 뽑다 = rút tiền (văn nói)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Muốn mở tài khoản thì cần hộ chiếu.",
+   "answer": [
+    "통장을 만들려면 여권이 필요해요.",
+    "통장을 개설하려면 여권이 필요해요.",
+    "계좌를 만들려면 여권이 필요해요.",
+    "계좌를 개설하려면 여권이 필요해요."
+   ],
+   "explain": "만들려면 + 필요해요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đừng tiêu tiền bừa bãi.",
+   "answer": [
+    "돈을 함부로 쓰지 마세요.",
+    "돈을 함부로 쓰지 마."
+   ],
+   "explain": "함부로 쓰다 + 지 마세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi bị trộm ví trên tàu điện ngầm.",
+   "answer": [
+    "지하철에서 지갑을 도둑맞았어요.",
+    "지하철에서 지갑을 도둑 맞았어요."
+   ],
+   "explain": "도둑맞다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "용돈을 아끼려면 용돈 기입장에 지출을 꼼꼼히 쓰는 게 좋아요.",
+   "answer": "Muốn tiết kiệm tiền tiêu vặt thì nên ghi chi tiêu cẩn thận vào sổ tiền tiêu.",
+   "explain": "아끼려면 = nếu muốn tiết kiệm; 꼼꼼히 = tỉ mỉ."
+  },
+  {
+   "type": "read",
+   "q": "Chọn tranh/tình huống đúng. (Dạng TOPIK II Nghe câu 1~3, đọc lời thoại)",
+   "kr": "남자: 카드를 잃어버렸어요. 어떻게 해야 해요?\n여자: 먼저 분실신고를 하셔야 해요. 이 신청서를 써 주세요.",
+   "options": [
+    "은행 창구에서 이야기한다.",
+    "식당에서 음식을 주문한다.",
+    "병원에서 진찰을 받는다.",
+    "공항에서 표를 산다."
+   ],
+   "answer": "은행 창구에서 이야기한다.",
+   "explain": "Mất thẻ, báo mất, viết đơn → tại quầy ngân hàng."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào chỗ trống. (Dạng TOPIK II câu 16~18)",
+   "kr": "돈을 모으려면 먼저 내 지출을 잘 확인해야 합니다. 그래서 전문가들은 ( ___ ) 것을 추천합니다. 한 달만 써 보면 필요 없는 지출을 쉽게 찾을 수 있습니다.",
+   "options": [
+    "가계부를 쓰는",
+    "카드를 만드는",
+    "대출을 받는",
+    "돈을 뽑는"
+   ],
+   "answer": "가계부를 쓰는",
+   "explain": "Muốn biết tiền tiêu vào đâu → ghi sổ chi tiêu."
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "id": "bai-270",
+ "lesson": "Bài 270",
+ "title": "Vấn đề xã hội hiện đại (phần 3/5)",
+ "krTitle": "현대 사회의 문제 3",
+ "date": "2027-12-19",
+ "day": 396,
+ "source": "TOPIK 6 – Bài 14: Vấn đề xã hội hiện đại (phần 3/5)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "복지 정책",
+   "Bokji jeongchaek",
+   "Chính sách phúc lợi",
+   "정부는 노인을 위한 복지 정책을 늘렸어요.",
+   "Chính phủ đã tăng chính sách phúc lợi cho người già."
+  ],
+  [
+   "기업 윤리",
+   "Gieom yulli",
+   "Đạo đức doanh nghiệp",
+   "기업 윤리를 지키지 않으면 소비자의 신뢰를 잃어요.",
+   "Không giữ đạo đức doanh nghiệp thì mất lòng tin người tiêu dùng."
+  ],
+  [
+   "가로채다",
+   "Garochaeda",
+   "Giành lấy, nắm lấy",
+   "사기범이 노인의 돈을 가로챘어요.",
+   "Kẻ lừa đảo đã chiếm đoạt tiền của người già."
+  ],
+  [
+   "감량시키다",
+   "Gamnyangsikida",
+   "Làm giảm (cân, lượng)",
+   "운동으로 체중을 10킬로그램 감량시켰어요.",
+   "Đã giảm 10 kg cân nặng nhờ tập thể dục."
+  ],
+  [
+   "감면",
+   "Gammyeon",
+   "Sự cắt giảm, giảm miễn",
+   "다자녀 가정은 세금 감면 혜택을 받아요.",
+   "Gia đình đông con được ưu đãi miễn giảm thuế."
+  ],
+  [
+   "개인주의",
+   "Gaeinjuui",
+   "Chủ nghĩa cá nhân",
+   "요즘은 개인주의가 강해졌어요.",
+   "Dạo này chủ nghĩa cá nhân mạnh lên."
+  ],
+  [
+   "걸음마",
+   "Georeumma",
+   "Bước đi chập chững; giai đoạn đầu",
+   "한국의 복지 제도는 아직 걸음마 단계예요.",
+   "Chế độ phúc lợi Hàn Quốc vẫn ở giai đoạn sơ khai."
+  ],
+  [
+   "고도 비만",
+   "Godo biman",
+   "Sự béo phì cao độ",
+   "고도 비만은 여러 질병의 원인이 돼요.",
+   "Béo phì nặng là nguyên nhân của nhiều bệnh."
+  ],
+  [
+   "고용 창출",
+   "Goyong changchul",
+   "Sự tạo việc làm",
+   "정부는 고용 창출을 위해 노력하고 있어요.",
+   "Chính phủ đang nỗ lực tạo việc làm."
+  ],
+  [
+   "고질적",
+   "Gojiljeok",
+   "Sự cố hữu, tính cố hữu, sự ăn sâu",
+   "교통 체증은 서울의 고질적 문제예요.",
+   "Tắc đường là vấn đề cố hữu của Seoul."
+  ],
+  [
+   "공채",
+   "Gongchae",
+   "Tuyển dụng công khai (đợt lớn)",
+   "대기업 공채에 지원했어요.",
+   "Tôi đã ứng tuyển đợt tuyển dụng công khai của tập đoàn lớn."
+  ],
+  [
+   "과밀",
+   "Gwamil",
+   "Sự tập trung đông đúc",
+   "서울은 인구 과밀 문제가 심각해요.",
+   "Seoul có vấn đề quá tải dân số nghiêm trọng."
+  ],
+  [
+   "과잉보호",
+   "Gwaingboho",
+   "Sự bảo hộ quá mức",
+   "부모의 과잉보호는 아이의 독립심을 약하게 해요.",
+   "Sự bao bọc quá mức của cha mẹ làm yếu tính tự lập của trẻ."
+  ],
+  [
+   "굳이",
+   "Guji",
+   "Nhất thiết, cố tình",
+   "굳이 비싼 걸 살 필요는 없어요.",
+   "Không nhất thiết phải mua đồ đắt."
+  ],
+  [
+   "꺼려하다",
+   "Kkeoryeohada",
+   "Ngại, né tránh",
+   "젊은이들이 힘든 일을 꺼려해요.",
+   "Người trẻ ngại làm việc vất vả."
+  ],
+  [
+   "내몰리다",
+   "Naemollida",
+   "Bị dồn, bị đẩy ra",
+   "경쟁에서 밀려 거리로 내몰린 사람들이 있어요.",
+   "Có những người bị đẩy ra đường vì thua trong cạnh tranh."
+  ],
+  [
+   "내분비적",
+   "Naebunbijeok",
+   "Thuộc nội tiết",
+   "스트레스는 내분비적 변화를 일으켜요.",
+   "Căng thẳng gây ra thay đổi về nội tiết."
+  ],
+  [
+   "다급해지다",
+   "Dageupaejida",
+   "Trở nên cấp bách",
+   "시간이 없어서 마음이 다급해졌어요.",
+   "Không có thời gian nên lòng trở nên gấp gáp."
+  ],
+  [
+   "독거노인",
+   "Dokgeonoin",
+   "Người già neo đơn",
+   "독거노인을 위한 돌봄 서비스가 필요해요.",
+   "Cần dịch vụ chăm sóc cho người già neo đơn."
+  ],
+  [
+   "동서고금",
+   "Dongseogogeum",
+   "Đông tây kim cổ",
+   "동서고금을 막론하고 효는 중요한 가치예요.",
+   "Bất kể đông tây kim cổ, hiếu là giá trị quan trọng."
+  ],
+  [
+   "모색하다",
+   "Mosaekada",
+   "Tìm kiếm",
+   "정부는 저출산 문제의 해결책을 모색하고 있어요.",
+   "Chính phủ đang tìm kiếm giải pháp cho vấn đề sinh ít."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ망정 — Thà … chứ",
+   "meaning": "Thể hiện Ý CHÍ MẠNH: 'thà (chịu điều xấu ở vế trước) chứ (nhất quyết không làm điều ở vế sau)'. Vế sau thường PHỦ ĐỊNH, ý chí. Chia: có patchim → 을망정 (굶을망정); không patchim/ㄹ → ㄹ망정 (가난할망정, 질망정, 살망정); Danh từ → 일망정 (가난한 사람일망정). Ví dụ: 굶을망정 남의 것은 훔치지 않겠다 (thà nhịn đói chứ không lấy của người khác). Nghĩa thứ hai: 'tuy… nhưng' (nhượng bộ): 몸은 작을망정 힘은 세다 (người tuy nhỏ nhưng khỏe). Văn viết, lời nói mạnh mẽ. Gần nghĩa: (으)ㄹ지언정 (Bài 239) – gần như giống hệt; (으)ㄹ 바에야 (Bài 240), 느니 (Bài 248) – so sánh hai lựa chọn.",
+   "examples": [
+    "가난할망정 부정한 방법으로 돈을 벌지는 않겠어요. — Thà nghèo chứ tôi không kiếm tiền bằng cách bất chính.",
+    "손해를 볼망정 기업 윤리는 지켜야 합니다. — Thà chịu thiệt chứ phải giữ đạo đức doanh nghiệp.",
+    "굶을망정 남의 것은 가로채지 않겠다. — Thà nhịn đói chứ không chiếm đoạt của người khác.",
+    "몸은 늙었을망정 마음은 아직 청춘이에요. — Thân tuy đã già nhưng lòng vẫn còn tuổi xuân."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Người già sống một mình, neo đơn gọi là gì?",
+   "kr": "",
+   "options": [
+    "독거노인",
+    "노숙자",
+    "고도 비만"
+   ],
+   "answer": "독거노인",
+   "explain": "독거 = sống một mình."
+  },
+  {
+   "type": "choice",
+   "q": "Bao bọc, bảo vệ con quá mức gọi là gì?",
+   "kr": "",
+   "options": [
+    "과잉보호",
+    "과밀",
+    "걸음마"
+   ],
+   "answer": "과잉보호",
+   "explain": "과잉 = quá mức."
+  },
+  {
+   "type": "choice",
+   "q": "'동서고금' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Đông tây kim cổ (mọi thời, mọi nơi)",
+    "Phía đông và phía tây",
+    "Chỉ thời nay"
+   ],
+   "answer": "Đông tây kim cổ (mọi thời, mọi nơi)",
+   "explain": "동서 + 고금."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Chính phủ đang tìm kiếm giải pháp.",
+   "kr": "정부는 해결책을 ___고 있어요.",
+   "options": [
+    "모색하",
+    "꺼려하",
+    "가로채"
+   ],
+   "answer": "모색하",
+   "explain": "모색하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Thà nghèo chứ không kiếm tiền bất chính.'",
+   "kr": "",
+   "options": [
+    "가난할망정 부정한 방법으로 돈을 벌지는 않겠어요.",
+    "가난한망정 부정한 방법으로 돈을 벌겠어요.",
+    "가난할망정 부정한 방법으로 돈을 벌어요요."
+   ],
+   "answer": "가난할망정 부정한 방법으로 돈을 벌지는 않겠어요.",
+   "explain": "(으)ㄹ망정 + phủ định ý chí."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với (으)ㄹ망정?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ지언정",
+    "(으)ㄹ뿐더러",
+    "(으)ㄹ 겸"
+   ],
+   "answer": "(으)ㄹ지언정",
+   "explain": "Thà… chứ không…"
+  },
+  {
+   "type": "choice",
+   "q": "'몸은 늙었을망정 마음은 아직 청춘이에요.' (으)ㄹ망정 ở đây nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Tuy… nhưng (nhượng bộ)",
+    "Thà… chứ",
+    "Vì… nên"
+   ],
+   "answer": "Tuy… nhưng (nhượng bộ)",
+   "explain": "Nghĩa thứ hai."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không nhất thiết phải mua đồ đắt.",
+   "kr": "___ 비싼 걸 살 필요는 없어요.",
+   "options": [
+    "굳이",
+    "다급히",
+    "고질적으로"
+   ],
+   "answer": "굳이",
+   "explain": "굳이 + 필요 없다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ망정 với 보다: Thà chịu thiệt chứ phải giữ đạo đức doanh nghiệp.",
+   "kr": "손해를 ___ 기업 윤리는 지켜야 합니다.",
+   "answer": [
+    "볼망정"
+   ],
+   "explain": "볼망정."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ망정 với 굶다: Thà nhịn đói chứ không chiếm đoạt.",
+   "kr": "___ 남의 것은 가로채지 않겠다.",
+   "answer": [
+    "굶을망정"
+   ],
+   "explain": "굶을망정."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cần dịch vụ chăm sóc cho người già neo đơn.",
+   "kr": "___을 위한 돌봄 서비스가 필요해요.",
+   "answer": [
+    "독거노인"
+   ],
+   "explain": "독거노인."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chính phủ đang nỗ lực tạo việc làm.",
+   "kr": "정부는 고용 ___을 위해 노력하고 있어요.",
+   "answer": [
+    "창출"
+   ],
+   "explain": "고용 창출."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thân tuy già nhưng lòng vẫn tuổi xuân.",
+   "tokens": [
+    "몸은",
+    "늙었을망정",
+    "마음은",
+    "아직",
+    "청춘이에요"
+   ],
+   "answer": "몸은 늙었을망정 마음은 아직 청춘이에요",
+   "explain": "았/었을망정."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Người trẻ ngại làm việc vất vả.",
+   "tokens": [
+    "젊은이들이",
+    "힘든",
+    "일을",
+    "꺼려해요"
+   ],
+   "answer": "젊은이들이 힘든 일을 꺼려해요",
+   "explain": "꺼려하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thà thất bại chứ tôi không gian lận. (dùng (으)ㄹ망정)",
+   "answer": [
+    "실패할망정 부정행위는 하지 않겠어요.",
+    "실패할망정 속이지 않겠어요.",
+    "실패할망정 반칙은 하지 않겠어요.",
+    "실패할망정 부정행위는 하지 않겠습니다."
+   ],
+   "explain": "실패할망정."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Seoul có vấn đề quá tải dân số nghiêm trọng.",
+   "answer": [
+    "서울은 인구 과밀 문제가 심각해요.",
+    "서울의 인구 과밀 문제는 심각해요."
+   ],
+   "explain": "과밀."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chế độ phúc lợi vẫn ở giai đoạn sơ khai.",
+   "answer": [
+    "복지 제도는 아직 걸음마 단계예요.",
+    "복지 제도가 아직 걸음마 단계예요."
+   ],
+   "explain": "걸음마 단계."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "일부 기업은 이익을 위해 소비자를 속이기도 한다. 그러나 장기적으로 보면 당장 손해를 볼망정 기업 윤리를 지키는 기업이 소비자의 신뢰를 얻어 더 크게 성장한다.",
+   "answer": "Một số doanh nghiệp vì lợi nhuận mà lừa dối người tiêu dùng. Nhưng xét lâu dài, doanh nghiệp dù trước mắt chịu thiệt mà vẫn giữ đạo đức kinh doanh sẽ có được lòng tin của người tiêu dùng và phát triển lớn hơn.",
+   "explain": "(으)ㄹ망정."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 요즘 혼자 사는 노인이 계속 늘고 있습니다. 우리 구에서는 독거노인을 위해 일주일에 두 번 직접 찾아가 건강을 확인하고 도시락을 전달하는 서비스를 시작했습니다. 또 위급할 때 버튼만 누르면 바로 연결되는 응급 호출 장치도 무료로 설치해 드리고 있습니다.",
+   "options": [
+    "이 구는 독거노인에게 도시락을 전달한다.",
+    "독거노인 수가 줄고 있다.",
+    "응급 호출 장치는 유료이다.",
+    "방문 서비스는 한 달에 한 번이다."
+   ],
+   "answer": "이 구는 독거노인에게 도시락을 전달한다.",
+   "explain": "도시락을 전달하는 서비스."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "부모가 아이를 너무 아끼는 나머지 모든 일을 대신해 주는 경우가 있다. 그러나 이러한 과잉보호를 받은 아이는 스스로 문제를 해결하는 능력이 부족해지기 쉽다. 아이가 실패할망정 스스로 해 보게 하는 것이 진정한 사랑일 수 있다.",
+   "options": [
+    "아이가 스스로 해 보게 하는 것이 중요하다.",
+    "부모가 모든 일을 대신해 줘야 한다.",
+    "과잉보호는 아이의 능력을 키운다.",
+    "아이는 실패하면 안 된다."
+   ],
+   "answer": "아이가 스스로 해 보게 하는 것이 중요하다.",
+   "explain": "실패할망정 스스로 해 보게 하는 것이 진정한 사랑."
+  }
+ ]
+}

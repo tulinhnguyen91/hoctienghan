@@ -1,0 +1,377 @@
+{
+ "id": "bai-54",
+ "lesson": "Bài 54",
+ "title": "Nấu ăn (phần 6/6)",
+ "krTitle": "요리 6",
+ "date": "2027-01-26",
+ "day": 69,
+ "source": "TOPIK 3 – Bài 5: Nấu ăn (phần 6/6)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "배즙",
+   "Baejeup",
+   "Nước cốt lê",
+   "고기를 배즙에 재면 부드러워져요.",
+   "Ướp thịt bằng nước lê thì thịt mềm."
+  ],
+  [
+   "육수",
+   "Yuksu",
+   "Nước dùng (nước hầm từ thịt)",
+   "냉면 육수를 시원하게 만들었어요.",
+   "Tôi làm nước dùng mì lạnh mát lạnh."
+  ],
+  [
+   "호박전",
+   "Hobakjeon",
+   "Bánh bí nhúng bột rán",
+   "명절에 호박전을 부쳐요.",
+   "Dịp lễ người ta rán bánh bí."
+  ],
+  [
+   "달콤하다",
+   "Dalkomhada",
+   "Ngọt dịu",
+   "불고기 양념이 달콤해요.",
+   "Sốt bulgogi ngọt dịu."
+  ],
+  [
+   "재다",
+   "Jaeda",
+   "Đo; ướp (thịt)",
+   "불고기는 하루 전에 고기를 재요.",
+   "Món bulgogi thì ướp thịt từ hôm trước."
+  ],
+  [
+   "효심",
+   "Hyosim",
+   "Lòng hiếu thảo",
+   "효심이 깊은 아들이 부모님께 요리를 해 드렸어요.",
+   "Người con hiếu thảo nấu ăn cho bố mẹ."
+  ],
+  [
+   "담백하다",
+   "Dambaekada",
+   "Thanh đạm, vị nhẹ",
+   "이 국은 맛이 담백해요.",
+   "Canh này vị thanh."
+  ],
+  [
+   "버섯",
+   "Beoseot",
+   "Nấm",
+   "버섯을 얇게 썰어 주세요.",
+   "Hãy thái mỏng nấm."
+  ],
+  [
+   "주무르다",
+   "Jumureuda",
+   "Bóp, nhào (xoa bóp)",
+   "양념을 넣고 고기를 손으로 주물러요.",
+   "Cho gia vị rồi bóp thịt bằng tay."
+  ],
+  [
+   "후춧가루",
+   "Huchutgaru",
+   "Bột tiêu",
+   "후춧가루를 조금 넣으세요.",
+   "Cho một chút bột tiêu."
+  ],
+  [
+   "당근",
+   "Danggeun",
+   "Cà rốt",
+   "당근을 작게 썰어요.",
+   "Thái nhỏ cà rốt."
+  ],
+  [
+   "변신",
+   "Byeonsin",
+   "Biến tướng, biến đổi",
+   "남은 밥이 맛있는 김밥으로 변신했어요.",
+   "Cơm thừa đã 'biến hình' thành kimbap ngon."
+  ],
+  [
+   "주재료",
+   "Jujaeryo",
+   "Nguyên liệu chính",
+   "잡채의 주재료는 당면이에요.",
+   "Nguyên liệu chính của japchae là miến."
+  ],
+  [
+   "당면",
+   "Dangmyeon",
+   "Miến",
+   "당면을 물에 불려요.",
+   "Ngâm miến vào nước."
+  ],
+  [
+   "비비다",
+   "Bibida",
+   "Trộn",
+   "밥과 나물을 고추장에 비벼요.",
+   "Trộn cơm và rau với tương ớt."
+  ],
+  [
+   "지방",
+   "Jibang",
+   "Địa phương; chất béo",
+   "지방이 적은 고기가 건강에 좋아요.",
+   "Thịt ít mỡ tốt cho sức khỏe."
+  ],
+  [
+   "대파",
+   "Daepa",
+   "Hành boa-rô (hành lá to)",
+   "육수에 대파를 넣고 끓여요.",
+   "Cho hành boa-rô vào nước dùng rồi đun."
+  ],
+  [
+   "빼놓다",
+   "Ppaenota",
+   "Để riêng ra, bỏ sót",
+   "매운 고추는 빼놓고 만들었어요.",
+   "Tôi làm mà bỏ riêng ớt cay ra."
+  ],
+  [
+   "질기다",
+   "Jilgida",
+   "Dai",
+   "고기가 너무 질겨요.",
+   "Thịt dai quá."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "A + 게 — Một cách",
+   "meaning": "Biến TÍNH TỪ thành trạng từ để bổ nghĩa cho động từ phía sau: 'một cách…'. Gắn 게 thẳng vào gốc tính từ: 맛있다 → 맛있게 (먹다 — ăn ngon lành), 쉽다 → 쉽게, 얇다 → 얇게 (썰다 — thái mỏng), 싸다 → 싸게 (사다 — mua rẻ), 시원하다 → 시원하게. Không cần chia bất quy tắc vì 게 bắt đầu bằng phụ âm: 춥다 → 춥게, 맵다 → 맵게. Câu chúc quen thuộc: 맛있게 드세요 (chúc ăn ngon miệng). Một số trạng từ có dạng riêng (빨리, 천천히, 조용히, 많이, 일찍) — dùng những từ này tự nhiên hơn.",
+   "examples": [
+    "버섯을 얇게 썰어 주세요. — Hãy thái nấm thật mỏng.",
+    "맛있게 드세요. — Chúc ăn ngon miệng.",
+    "할인 매장에서 싸게 샀어요. — Tôi mua rẻ ở khu giảm giá.",
+    "육수를 시원하게 만들었어요. — Tôi làm nước dùng mát lạnh."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Hãy thái nấm thật mỏng.",
+   "kr": "버섯을 ___ 썰어 주세요.",
+   "options": [
+    "얇게",
+    "얇은",
+    "얇아"
+   ],
+   "answer": "얇게",
+   "explain": "Tính từ + 게 bổ nghĩa cho động từ 썰다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu chúc đúng: Chúc ăn ngon miệng.",
+   "kr": "",
+   "options": [
+    "맛있게 드세요.",
+    "맛있은 드세요.",
+    "맛있어 드세요."
+   ],
+   "answer": "맛있게 드세요.",
+   "explain": "맛있다 → 맛있게."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi mua rẻ.",
+   "kr": "___ 샀어요.",
+   "options": [
+    "싸게",
+    "싼",
+    "싸서게"
+   ],
+   "answer": "싸게",
+   "explain": "싸다 → 싸게."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Món này cay quá, nấu ít cay thôi.",
+   "kr": "덜 ___ 만들어 주세요.",
+   "options": [
+    "맵게",
+    "매워게",
+    "매운게"
+   ],
+   "answer": "맵게",
+   "explain": "게 bắt đầu bằng phụ âm nên 맵 giữ nguyên ㅂ: 맵게."
+  },
+  {
+   "type": "choice",
+   "q": "Cách nói tự nhiên hơn cho 'đi nhanh':",
+   "kr": "",
+   "options": [
+    "빨리 가세요.",
+    "빠르게 가세요.",
+    "빨라게 가세요."
+   ],
+   "answer": "빨리 가세요.",
+   "explain": "Một số trạng từ có dạng riêng (빨리) dùng tự nhiên hơn A+게."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Thịt dai quá.",
+   "kr": "고기가 너무 ___.",
+   "options": [
+    "질겨요",
+    "담백해요",
+    "달콤해요"
+   ],
+   "answer": "질겨요",
+   "explain": "질기다 = dai."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nguyên liệu chính của japchae là miến.",
+   "kr": "잡채의 ___는 당면이에요.",
+   "options": [
+    "주재료",
+    "육수",
+    "지방"
+   ],
+   "answer": "주재료",
+   "explain": "주재료 = nguyên liệu chính."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trộn cơm và rau với tương ớt.",
+   "kr": "밥과 나물을 고추장에 ___.",
+   "options": [
+    "비벼요",
+    "재요",
+    "빼놓아요"
+   ],
+   "answer": "비벼요",
+   "explain": "비비다 = trộn (cơm trộn: 비빔밥)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền A + 게 vào 작다: Thái nhỏ cà rốt.",
+   "kr": "당근을 ___ 썰어요.",
+   "answer": [
+    "작게"
+   ],
+   "explain": "작다 → 작게."
+  },
+  {
+   "type": "fill",
+   "q": "Điền A + 게 vào 시원하다: Làm nước dùng mát lạnh.",
+   "kr": "육수를 ___ 만들었어요.",
+   "answer": [
+    "시원하게"
+   ],
+   "explain": "시원하다 → 시원하게."
+  },
+  {
+   "type": "fill",
+   "q": "Điền A + 게 vào 쉽다: Có thể làm dễ dàng.",
+   "kr": "누구나 ___ 만들 수 있어요.",
+   "answer": [
+    "쉽게"
+   ],
+   "explain": "쉽다 → 쉽게 (không biến đổi ㅂ)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cho một chút bột tiêu.",
+   "kr": "___를 조금 넣으세요.",
+   "answer": [
+    "후춧가루"
+   ],
+   "explain": "후춧가루 = bột tiêu."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chúc ăn ngon miệng.",
+   "tokens": [
+    "맛있게",
+    "드세요"
+   ],
+   "answer": "맛있게 드세요",
+   "explain": "맛있게 드세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngâm miến vào nước.",
+   "tokens": [
+    "당면을",
+    "물에",
+    "불려요"
+   ],
+   "answer": "당면을 물에 불려요",
+   "explain": "불리다 = ngâm cho nở."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi mua rẻ ở chợ.",
+   "answer": [
+    "시장에서 싸게 샀어요.",
+    "저는 시장에서 싸게 샀어요."
+   ],
+   "explain": "싸게 + 샀어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy thái hành thật mỏng.",
+   "answer": [
+    "파를 얇게 써세요.",
+    "양파를 얇게 써세요.",
+    "파를 얇게 썰어 주세요.",
+    "양파를 얇게 썰어 주세요."
+   ],
+   "explain": "얇게 + 썰다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thịt ít mỡ tốt cho sức khỏe.",
+   "answer": [
+    "지방이 적은 고기가 건강에 좋아요.",
+    "지방이 적은 고기는 건강에 좋아요."
+   ],
+   "explain": "지방이 적은 고기."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "불고기는 배즙과 간장으로 고기를 달콤하게 재는 것이 중요해요.",
+   "answer": "Với bulgogi, quan trọng là ướp thịt ngọt dịu bằng nước lê và xì dầu.",
+   "explain": "달콤하게 재다 = ướp cho ngọt."
+  },
+  {
+   "type": "read",
+   "q": "Chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 잡채를 만들 때는 먼저 당면을 물에 불려야 해요.\n남자: 그래요? 그럼 지금 바로 할게요.\n여자: 네, 그동안 저는 야채를 얇게 썰게요.",
+   "options": [
+    "당면을 물에 불린다.",
+    "야채를 썬다.",
+    "고기를 굽는다.",
+    "육수를 끓인다."
+   ],
+   "answer": "당면을 물에 불린다.",
+   "explain": "Người nam nói sẽ làm ngay việc ngâm miến."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 28~50)",
+   "kr": "잡채는 원래 궁중 음식이었지만 지금은 명절이나 생일에 많이 먹는 음식이 되었습니다. 주재료는 당면이고 여러 가지 야채와 고기를 볶아서 간장 양념에 비벼 만듭니다. 맛이 달콤하고 담백해서 외국인들도 좋아합니다.",
+   "options": [
+    "잡채는 맛이 달콤해서 외국인도 좋아한다.",
+    "잡채의 주재료는 쌀이다.",
+    "잡채는 고추장으로 만든다.",
+    "잡채는 지금도 궁중에서만 먹는다."
+   ],
+   "answer": "잡채는 맛이 달콤해서 외국인도 좋아한다.",
+   "explain": "Vị ngọt dịu, thanh nên người nước ngoài cũng thích. Nguyên liệu chính là miến; dùng sốt xì dầu."
+  }
+ ]
+}

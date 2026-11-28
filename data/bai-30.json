@@ -1,0 +1,604 @@
+{
+ "id": "bai-30",
+ "lesson": "Bài 30",
+ "title": "Ngày nghỉ",
+ "krTitle": "휴일과 명절",
+ "date": "2026-12-21",
+ "day": 33,
+ "source": "TOPIK 2 – Bài 9: Ngày nghỉ",
+ "practice": {
+  "listening": "Nghe – Phần 2: Tìm câu nối tiếp (5~6)",
+  "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+ },
+ "words": [
+  [
+   "휴일",
+   "Hyuil",
+   "Ngày nghỉ",
+   "휴일에는 집에서 쉬어요.",
+   "Ngày nghỉ tôi nghỉ ở nhà."
+  ],
+  [
+   "공휴일",
+   "Gonghyuil",
+   "Ngày nghỉ lễ",
+   "다음 주 월요일은 공휴일이에요.",
+   "Thứ Hai tuần sau là ngày nghỉ lễ."
+  ],
+  [
+   "연휴",
+   "Yeonhyu",
+   "Kỳ nghỉ dài",
+   "연휴에 여행을 가면 좋겠어요.",
+   "Giá mà được đi du lịch vào kỳ nghỉ dài."
+  ],
+  [
+   "기념일",
+   "Ginyeomil",
+   "Ngày kỷ niệm",
+   "오늘은 우리 결혼 기념일이에요.",
+   "Hôm nay là ngày kỷ niệm cưới của chúng tôi."
+  ],
+  [
+   "여행을 떠나다",
+   "Yeohaengeul tteonada",
+   "Lên đường đi du lịch",
+   "내일 아침에 여행을 떠나요.",
+   "Sáng mai tôi lên đường đi du lịch."
+  ],
+  [
+   "소풍을 가다",
+   "Sopungeul gada",
+   "Đi dã ngoại",
+   "봄에 공원으로 소풍을 가요.",
+   "Mùa xuân đi dã ngoại ở công viên."
+  ],
+  [
+   "설",
+   "Seol",
+   "Tết",
+   "설에는 떡국을 먹어요.",
+   "Vào Tết người ta ăn canh bánh gạo."
+  ],
+  [
+   "추석/한가위",
+   "Chuseok/hangawi",
+   "Tết Trung thu",
+   "추석에 가족들이 모두 모여요.",
+   "Trung thu cả gia đình tụ họp."
+  ],
+  [
+   "떡국",
+   "Tteokguk",
+   "Canh bánh gạo",
+   "떡국을 먹으면 한 살 더 먹어요.",
+   "Ăn canh bánh gạo là thêm một tuổi."
+  ],
+  [
+   "송편",
+   "Songpyeon",
+   "Bánh songpyeon",
+   "추석에 가족과 송편을 만들어요.",
+   "Trung thu tôi làm bánh songpyeon với gia đình."
+  ],
+  [
+   "윷놀이",
+   "Yunnori",
+   "Trò chơi yut",
+   "설날에 가족과 윷놀이를 했어요.",
+   "Tết tôi chơi yut với gia đình."
+  ],
+  [
+   "연날리기",
+   "Yeonnalligi",
+   "Thả diều",
+   "아이들이 연날리기를 해요.",
+   "Bọn trẻ thả diều."
+  ],
+  [
+   "강강술래",
+   "Ganggangsullae",
+   "Múa vòng tròn ganggangsullae",
+   "추석 밤에 강강술래를 해요.",
+   "Đêm Trung thu người ta múa ganggangsullae."
+  ],
+  [
+   "씨름",
+   "Ssireum",
+   "Đấu vật",
+   "추석에는 씨름 대회가 있어요.",
+   "Trung thu có cuộc thi đấu vật."
+  ],
+  [
+   "세배를 하다",
+   "Sebaereul hada",
+   "Lạy chúc Tết",
+   "설날 아침에 할머니께 세배를 했어요.",
+   "Sáng mùng Một tôi lạy chúc Tết bà."
+  ],
+  [
+   "세뱃돈을 받다",
+   "Sebaetdoneul batda",
+   "Nhận tiền mừng tuổi",
+   "세배를 하고 세뱃돈을 받았어요.",
+   "Lạy chúc Tết xong tôi nhận tiền mừng tuổi."
+  ],
+  [
+   "복을 받다",
+   "Bogeul batda",
+   "Nhận phúc, may mắn",
+   "새해 복 많이 받으세요.",
+   "Chúc mừng năm mới (chúc nhận nhiều phúc)."
+  ],
+  [
+   "보름달이 뜨다",
+   "Boreumdari tteuda",
+   "Trăng rằm lên",
+   "추석 밤에 보름달이 떴어요.",
+   "Đêm Trung thu trăng rằm đã lên."
+  ],
+  [
+   "소원을 빌다",
+   "Sowoneul bilda",
+   "Cầu nguyện, ước",
+   "보름달을 보고 소원을 빌었어요.",
+   "Tôi ngắm trăng rằm và ước."
+  ],
+  [
+   "차례를 지내다",
+   "Charyereul jinaeda",
+   "Cúng tổ tiên",
+   "추석 아침에 차례를 지내요.",
+   "Sáng Trung thu người ta cúng tổ tiên."
+  ],
+  [
+   "고향에 내려가다/올라가다",
+   "Gohyange naeryeogada/ollagada",
+   "Về quê",
+   "명절에 고향에 내려가기 위해서 기차표를 샀어요.",
+   "Tôi mua vé tàu để về quê dịp lễ."
+  ],
+  [
+   "개교기념일",
+   "Gaegyoginyeomil",
+   "Ngày thành lập trường",
+   "개교기념일에는 수업이 없어요.",
+   "Ngày thành lập trường không có tiết học."
+  ],
+  [
+   "부럼",
+   "Bureom",
+   "Các loại hạt ăn ngày rằm tháng Giêng",
+   "정월 대보름에 부럼을 깨물어요.",
+   "Rằm tháng Giêng người ta cắn các loại hạt."
+  ],
+  [
+   "오곡밥",
+   "Ogokbap",
+   "Cơm ngũ cốc",
+   "대보름에는 오곡밥을 먹어요.",
+   "Rằm tháng Giêng người ta ăn cơm ngũ cốc."
+  ],
+  [
+   "글쓰기 대회",
+   "Geulsseugi daehoe",
+   "Cuộc thi viết",
+   "글쓰기 대회에 나가기 위해서 연습해요.",
+   "Tôi luyện tập để tham gia cuộc thi viết."
+  ],
+  [
+   "음력",
+   "Eumnyeok",
+   "Âm lịch",
+   "설날은 음력 1월 1일이에요.",
+   "Tết là ngày mùng 1 tháng 1 âm lịch."
+  ],
+  [
+   "더위팔기",
+   "Deowipalgi",
+   "Tục \"bán cái nóng\"",
+   "대보름에 더위팔기를 하는 풍습이 있어요.",
+   "Rằm tháng Giêng có tục 'bán cái nóng'."
+  ],
+  [
+   "부침개",
+   "Buchimgae",
+   "Bánh xèo Hàn",
+   "비 오는 날에는 부침개를 먹어요.",
+   "Ngày mưa người ta ăn bánh xèo Hàn."
+  ],
+  [
+   "이동",
+   "Idong",
+   "Di chuyển",
+   "명절에는 이동하는 사람이 많아요.",
+   "Dịp lễ có nhiều người di chuyển."
+  ],
+  [
+   "(차가) 밀리다",
+   "(chaga) millida",
+   "Kẹt xe",
+   "연휴라서 고속도로에 차가 많이 밀려요.",
+   "Vì là kỳ nghỉ dài nên đường cao tốc kẹt xe nhiều."
+  ],
+  [
+   "입에 맞다",
+   "Ibe matda",
+   "Hợp khẩu vị",
+   "한국 음식이 입에 맞아요?",
+   "Món Hàn có hợp khẩu vị bạn không?"
+  ],
+  [
+   "동해",
+   "Donghae",
+   "Biển Đông (Hàn Quốc)",
+   "동해에서 일출을 보고 싶어요.",
+   "Tôi muốn ngắm mặt trời mọc ở biển Đông."
+  ],
+  [
+   "서해",
+   "Seohae",
+   "Biển Tây (Hàn Quốc)",
+   "서해는 일몰이 아름다워요.",
+   "Biển Tây có hoàng hôn đẹp."
+  ],
+  [
+   "쥐불놀이",
+   "Jwibullori",
+   "Trò quay lửa",
+   "대보름 밤에 쥐불놀이를 해요.",
+   "Đêm rằm tháng Giêng người ta chơi quay lửa."
+  ],
+  [
+   "땅콩",
+   "Ttangkong",
+   "Lạc, đậu phộng",
+   "땅콩이나 호두를 먹어요.",
+   "Ăn lạc hoặc óc chó."
+  ],
+  [
+   "성탄절",
+   "Seongtanjeol",
+   "Lễ Giáng sinh",
+   "성탄절에 눈이 오면 좋겠어요.",
+   "Giá mà Giáng sinh có tuyết rơi."
+  ],
+  [
+   "차례(제사)",
+   "Charye(jesa)",
+   "Lễ cúng tổ tiên",
+   "차례를 위해서 음식을 많이 준비해요.",
+   "Người ta chuẩn bị nhiều món để cúng tổ tiên."
+  ],
+  [
+   "문화 체험",
+   "Munhwa cheheom",
+   "Trải nghiệm văn hóa",
+   "외국인을 위한 문화 체험 행사가 있어요.",
+   "Có sự kiện trải nghiệm văn hóa dành cho người nước ngoài."
+  ],
+  [
+   "세배",
+   "Sebae",
+   "Lạy chúc Tết",
+   "아이들이 어른들께 세배를 드려요.",
+   "Trẻ con lạy chúc Tết người lớn."
+  ],
+  [
+   "콘도",
+   "Kondo",
+   "Căn hộ nghỉ dưỡng",
+   "바다 근처 콘도를 예약했어요.",
+   "Tôi đã đặt căn hộ nghỉ dưỡng gần biển."
+  ],
+  [
+   "묵다",
+   "Mukda",
+   "Trọ, ở lại",
+   "호텔에서 이틀 동안 묵었어요.",
+   "Tôi đã ở khách sạn hai ngày."
+  ],
+  [
+   "식물원",
+   "Singmurwon",
+   "Vườn thực vật",
+   "휴일에 식물원이나 박물관에 가요.",
+   "Ngày nghỉ tôi đi vườn thực vật hoặc bảo tàng."
+  ],
+  [
+   "학비",
+   "Hakbi",
+   "Học phí",
+   "학비를 벌기 위해서 아르바이트를 해요.",
+   "Tôi làm thêm để kiếm học phí."
+  ],
+  [
+   "약식",
+   "Yaksik",
+   "Cơm nếp ngọt",
+   "대보름에 약식을 만들어 먹어요.",
+   "Rằm tháng Giêng người ta làm cơm nếp ngọt để ăn."
+  ],
+  [
+   "호두",
+   "Hodu",
+   "Quả óc chó",
+   "호두는 건강에 좋아요.",
+   "Quả óc chó tốt cho sức khỏe."
+  ],
+  [
+   "보름달",
+   "Boreumdal",
+   "Trăng rằm",
+   "오늘 밤 보름달이 정말 밝네요.",
+   "Trăng rằm đêm nay sáng thật."
+  ],
+  [
+   "회식",
+   "Hoesik",
+   "Liên hoan, ăn uống tập thể",
+   "연말에 회사 회식이 있어요.",
+   "Cuối năm công ty có liên hoan."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + (이)나 — Hoặc, hay",
+   "meaning": "Nối hai danh từ để chọn một trong hai: 'A hoặc B'. Danh từ có patchim + 이나 (떡국이나 송편); không patchim + 나 (커피나 차). Chỉ dùng với DANH TỪ; với động từ, tính từ dùng 거나 (học ở Bài 32). Câu hỏi lựa chọn có thể dùng 아니면: 커피 아니면 차?",
+   "examples": [
+    "휴일에는 식물원이나 박물관에 가요. — Ngày nghỉ tôi đi vườn thực vật hoặc bảo tàng.",
+    "설날에 떡국이나 만두를 먹어요. — Tết ăn canh bánh gạo hoặc bánh bao.",
+    "커피나 차를 드릴까요? — Tôi mời anh cà phê hay trà ạ?",
+    "주말이나 공휴일에는 차가 많이 밀려요. — Cuối tuần hoặc ngày lễ thì kẹt xe nhiều."
+   ]
+  },
+  {
+   "form": "V/A + (으)면 좋겠다 — Ước gì, giá mà",
+   "meaning": "Bày tỏ mong muốn, hy vọng: 'giá mà…, mong là…, ước gì…'. Là (으)면 (nếu) + 좋겠다 (thì tốt): 오다 → 오면 좋겠어요, 있다 → 있으면 좋겠어요, 놀다 → 놀면 좋겠어요. Dùng được cả cho mình và mong người khác làm: 빨리 나으면 좋겠어요 (mong bạn mau khỏi). Mong muốn mạnh, điều trái hiện thực thường dùng 았/었으면 좋겠다 (học ở TOPIK 3).",
+   "examples": [
+    "성탄절에 눈이 오면 좋겠어요. — Giá mà Giáng sinh có tuyết rơi.",
+    "연휴가 길면 좋겠어요. — Ước gì kỳ nghỉ dài.",
+    "올해는 가족 모두 건강하면 좋겠어요. — Mong năm nay cả nhà đều khỏe.",
+    "고향에 갈 시간이 있으면 좋겠어요. — Giá mà có thời gian về quê."
+   ]
+  },
+  {
+   "form": "V + 기 위해서 — Để, vì",
+   "meaning": "Nêu mục đích một cách rõ ràng, trang trọng: 'để…, nhằm…'. Gắn 기 위해서 (hoặc 기 위해) vào gốc động từ: 사다 → 사기 위해서, 벌다 → 벌기 위해서. Vế sau dùng được cả mệnh lệnh, rủ rê (khác với (으)려고). Với danh từ: N을/를 위해서 (가족을 위해서 — vì gia đình); trước danh từ: N을/를 위한 (외국인을 위한 행사).",
+   "examples": [
+    "학비를 벌기 위해서 아르바이트를 해요. — Tôi làm thêm để kiếm học phí.",
+    "고향에 가기 위해서 기차표를 예매했어요. — Tôi đặt vé tàu để về quê.",
+    "건강을 위해서 매일 운동하세요. — Vì sức khỏe, hãy tập thể dục mỗi ngày.",
+    "가족을 위해서 열심히 일해요. — Tôi làm việc chăm chỉ vì gia đình."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ăn canh bánh gạo hoặc bánh bao.",
+   "kr": "떡국___ 만두를 먹어요.",
+   "options": [
+    "이나",
+    "나",
+    "거나"
+   ],
+   "answer": "이나",
+   "explain": "떡국 có patchim → 이나. 거나 dùng với động/tính từ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Uống cà phê hoặc trà.",
+   "kr": "커피___ 차를 마셔요.",
+   "options": [
+    "나",
+    "이나",
+    "거나"
+   ],
+   "answer": "나",
+   "explain": "커피 không patchim → 나."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Giá mà Giáng sinh có tuyết.",
+   "kr": "성탄절에 눈이 ___.",
+   "options": [
+    "오면 좋겠어요",
+    "와면 좋겠어요",
+    "오으면 좋겠어요"
+   ],
+   "answer": "오면 좋겠어요",
+   "explain": "오다 → 오면 + 좋겠어요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Ước gì có nhiều thời gian.",
+   "kr": "시간이 많이 ___.",
+   "options": [
+    "있으면 좋겠어요",
+    "있면 좋겠어요",
+    "있어면 좋겠어요"
+   ],
+   "answer": "있으면 좋겠어요",
+   "explain": "있다 có patchim → 있으면."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi làm thêm để kiếm học phí.",
+   "kr": "학비를 ___ 아르바이트를 해요.",
+   "options": [
+    "벌기 위해서",
+    "벌기 위하고",
+    "벌으러"
+   ],
+   "answer": "벌기 위해서",
+   "explain": "V + 기 위해서 (hoặc gọn: 기 위해). (으)러 chỉ đi với 가다/오다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Tôi làm việc chăm chỉ vì gia đình.",
+   "kr": "",
+   "options": [
+    "가족을 위해서 열심히 일해요.",
+    "가족 위해서기 열심히 일해요.",
+    "가족하기 위해서 열심히 일해요."
+   ],
+   "answer": "가족을 위해서 열심히 일해요.",
+   "explain": "Danh từ + 을/를 위해서."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào ĐÚNG?",
+   "kr": "",
+   "options": [
+    "건강을 위해서 운동하세요.",
+    "건강해지려고 운동하세요.",
+    "건강하려고 운동합시다."
+   ],
+   "answer": "건강을 위해서 운동하세요.",
+   "explain": "기 위해서 / 을 위해서 dùng được với mệnh lệnh; (으)려고 thì không."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)나: Đi vườn thực vật hoặc bảo tàng.",
+   "kr": "식물원___ 박물관에 가요.",
+   "answer": [
+    "이나"
+   ],
+   "explain": "식물원 có patchim → 이나."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)면 좋겠어요 vào 건강하다: Mong cả nhà khỏe mạnh.",
+   "kr": "가족 모두 ___.",
+   "answer": [
+    "건강하면 좋겠어요",
+    "건강했으면 좋겠어요"
+   ],
+   "explain": "건강하다 → 건강하면 좋겠어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 위해서 vào 가다: Tôi đặt vé để về quê.",
+   "kr": "고향에 ___ 기차표를 예매했어요.",
+   "answer": [
+    "가기 위해서",
+    "가기 위해"
+   ],
+   "explain": "가 + 기 위해서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền dạng (으)면 좋겠어요 của 길다: Ước gì kỳ nghỉ dài.",
+   "kr": "연휴가 ___.",
+   "answer": [
+    "길면 좋겠어요",
+    "길었으면 좋겠어요"
+   ],
+   "explain": "Patchim ㄹ + 면 → 길면."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chúc mừng năm mới.",
+   "tokens": [
+    "새해",
+    "복",
+    "많이",
+    "받으세요"
+   ],
+   "answer": "새해 복 많이 받으세요",
+   "explain": "Câu chúc Tết quen thuộc: chúc nhận nhiều phúc năm mới."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngày nghỉ tôi đi vườn thực vật hoặc công viên.",
+   "tokens": [
+    "휴일에는",
+    "식물원이나",
+    "공원에",
+    "가요"
+   ],
+   "answer": "휴일에는 식물원이나 공원에 가요",
+   "explain": "식물원이나 공원 = vườn thực vật hoặc công viên."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giá mà Giáng sinh có tuyết rơi.",
+   "answer": [
+    "성탄절에 눈이 오면 좋겠어요.",
+    "크리스마스에 눈이 오면 좋겠어요.",
+    "성탄절에 눈이 왔으면 좋겠어요.",
+    "크리스마스에 눈이 왔으면 좋겠어요."
+   ],
+   "explain": "눈이 오다 + (으)면 좋겠어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vào Tết người ta ăn canh bánh gạo.",
+   "answer": [
+    "설날에 떡국을 먹어요.",
+    "설에는 떡국을 먹어요.",
+    "설날에는 떡국을 먹어요.",
+    "설에 떡국을 먹어요."
+   ],
+   "explain": "설(날)에 떡국을 먹어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi tập thể dục để giữ sức khỏe.",
+   "answer": [
+    "건강을 위해서 운동해요.",
+    "건강을 위해 운동해요.",
+    "건강을 위해서 운동을 해요.",
+    "건강하기 위해서 운동해요."
+   ],
+   "explain": "건강을 위해서 + 운동해요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "추석에는 가족들이 모여서 송편을 만들고 보름달을 보면서 소원을 빌어요.",
+   "answer": "Vào Trung thu, gia đình tụ họp lại làm bánh songpyeon và vừa ngắm trăng rằm vừa cầu ước.",
+   "explain": "모여서 = tụ họp rồi; 보면서 = vừa ngắm (mẫu (으)면서 sẽ học ở bài 33); 소원을 빌다 = cầu ước."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "설날에 떡국을 먹어요. 그리고 어른들께 세배를 해요.",
+   "options": [
+    "명절",
+    "날씨",
+    "교통",
+    "쇼핑"
+   ],
+   "answer": "명절",
+   "explain": "Tết, canh bánh gạo, lạy chúc Tết → ngày lễ truyền thống (명절)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "한국의 큰 명절은 설날과 추석이에요. 설날은 음력 1월 1일이고 추석은 음력 8월 15일이에요. 명절에는 고향에 가기 위해서 이동하는 사람이 많아서 고속도로에 차가 많이 밀려요. 설날에는 떡국을 먹고 추석에는 송편을 먹어요.",
+   "options": [
+    "명절에는 길이 많이 막혀요.",
+    "추석은 음력 1월 1일이에요.",
+    "설날에 송편을 먹어요.",
+    "명절에 고향에 가는 사람이 적어요."
+   ],
+   "answer": "명절에는 길이 많이 막혀요.",
+   "explain": "Nhiều người di chuyển nên đường cao tốc kẹt xe (차가 밀리다 = 길이 막히다)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu SAI với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "🏮 외국인을 위한 설날 문화 체험\n날짜: 2월 7일 (토)\n장소: 한국민속촌\n내용: 윷놀이, 연날리기, 떡국 만들기\n참가비: 무료 (선착순 50명)",
+   "options": [
+    "참가비를 내야 해요.",
+    "외국인을 위한 행사예요.",
+    "윷놀이를 할 수 있어요.",
+    "토요일에 해요."
+   ],
+   "answer": "참가비를 내야 해요.",
+   "explain": "참가비: 무료 = miễn phí, không phải trả tiền."
+  }
+ ]
+}

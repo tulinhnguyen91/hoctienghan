@@ -1,0 +1,384 @@
+{
+ "id": "bai-40",
+ "lesson": "Bài 40",
+ "title": "Đối nhân xử thế (phần 1/3)",
+ "krTitle": "대인 관계 1",
+ "date": "2027-01-05",
+ "day": 48,
+ "source": "TOPIK 3 – Bài 2: Đối nhân xử thế (phần 1/3)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "대인 관계",
+   "Daein gwangye",
+   "Quan hệ xã hội",
+   "대인 관계 때문에 고민이 많아요.",
+   "Tôi có nhiều trăn trở vì chuyện quan hệ xã hội."
+  ],
+  [
+   "마음이 넓다",
+   "Maeumi neolda",
+   "Rộng lượng",
+   "선배는 마음이 넓어서 실수를 이해해 줘요.",
+   "Đàn anh rộng lượng nên thông cảm cho lỗi của tôi."
+  ],
+  [
+   "친절하다",
+   "Chinjeolhada",
+   "Thân thiện, tử tế",
+   "새 이웃이 아주 친절해요.",
+   "Hàng xóm mới rất tử tế."
+  ],
+  [
+   "인기가 있다",
+   "Ingiga itda",
+   "Có tiếng, nổi tiếng",
+   "민수 씨는 회사에서 인기가 있어요.",
+   "Anh Minsu được mọi người yêu mến ở công ty."
+  ],
+  [
+   "성격이 좋다",
+   "Seonggyeogi jota",
+   "Tính tình tốt",
+   "제 룸메이트는 성격이 좋아요.",
+   "Bạn cùng phòng của tôi tính tình tốt."
+  ],
+  [
+   "대인 관계가 좋다",
+   "Daein gwangyega jota",
+   "Quan hệ xã hội tốt",
+   "그 사람은 대인 관계가 좋아서 친구가 많아요.",
+   "Người đó quan hệ tốt nên có nhiều bạn."
+  ],
+  [
+   "사람을 사귀다",
+   "Sarameul sagwida",
+   "Làm quen với người khác, kết bạn",
+   "동호회에서 새로운 사람을 사귈 생각이에요.",
+   "Tôi định kết bạn mới ở hội sở thích."
+  ],
+  [
+   "부탁하다",
+   "Butakada",
+   "Nhờ cậy, nhờ giúp",
+   "친구에게 이사를 부탁했어요.",
+   "Tôi đã nhờ bạn việc chuyển nhà."
+  ],
+  [
+   "부탁을 받다",
+   "Butageul batda",
+   "Được đề nghị giúp",
+   "선생님께 통역 부탁을 받았어요.",
+   "Tôi được thầy nhờ phiên dịch."
+  ],
+  [
+   "부탁을 들어주다",
+   "Butageul deureojuda",
+   "Nhận lời giúp đỡ",
+   "친구가 제 부탁을 들어줬어요.",
+   "Bạn đã nhận lời giúp tôi."
+  ],
+  [
+   "부탁을 거절하다",
+   "Butageul geojeolhada",
+   "Từ chối giúp đỡ",
+   "바빠서 부탁을 거절했어요.",
+   "Bận quá nên tôi đã từ chối lời nhờ."
+  ],
+  [
+   "도움을 청하다",
+   "Doumeul cheonghada",
+   "Yêu cầu được giúp, cần giúp",
+   "어려울 때는 주위에 도움을 청하세요.",
+   "Khi khó khăn hãy nhờ người xung quanh giúp đỡ."
+  ],
+  [
+   "거절하다",
+   "Geojeolhada",
+   "Từ chối",
+   "부탁을 거절하는 것은 어려워요.",
+   "Từ chối lời nhờ là việc khó."
+  ],
+  [
+   "거절을 당하다",
+   "Geojeoreul danghada",
+   "Bị từ chối",
+   "데이트 신청을 했는데 거절을 당했어요.",
+   "Tôi rủ đi hẹn hò mà bị từ chối."
+  ],
+  [
+   "안부를 묻다/여쭙다",
+   "Anbureul mutda/yeojjupda",
+   "Thăm hỏi",
+   "할머니께 전화해서 안부를 여쭤요.",
+   "Tôi gọi điện hỏi thăm bà."
+  ],
+  [
+   "안부를 전하다",
+   "Anbureul jeonhada",
+   "Gửi lời thăm hỏi",
+   "부모님께 안부 전해 주세요.",
+   "Cho tôi gửi lời hỏi thăm bố mẹ bạn nhé."
+  ],
+  [
+   "안부 전화를 하다",
+   "Anbu jeonhwareul hada",
+   "Gọi điện thoại hỏi thăm",
+   "주말마다 고향에 안부 전화를 해요.",
+   "Cuối tuần nào tôi cũng gọi điện hỏi thăm nhà."
+  ],
+  [
+   "안부 편지를 보내다",
+   "Anbu pyeonjireul bonaeda",
+   "Viết thư hỏi thăm",
+   "고등학교 선생님께 안부 편지를 보낼 생각이에요.",
+   "Tôi định gửi thư hỏi thăm thầy giáo cấp ba."
+  ],
+  [
+   "찾아뵙다",
+   "Chajaboepda",
+   "Đến thăm",
+   "설날에 선생님을 찾아뵐 생각이에요.",
+   "Tết tôi định đến thăm thầy."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄹ 생각이다 — Định, có ý định",
+   "meaning": "Nói về dự định, ý định đã nghĩ kỹ của người nói: 'tôi định…, có ý định…'. Gốc có patchim + 을 생각이다 (찾을 생각이에요); không patchim + ㄹ 생각이다 (사귈 생각이에요); patchim ㄹ giữ nguyên (살 생각이에요). Bất quy tắc: 찾아뵙다 → 찾아뵐, 듣다 → 들을. Hỏi người khác: 뭐 할 생각이에요? Phủ định: (으)ㄹ 생각이 없다 (không có ý định). So sánh: (으)려고 하다 (định — chung chung), 기로 하다 (đã quyết định), (으)ㄹ 생각이다 (đang có ý định, nghe chắc chắn và suy nghĩ kỹ hơn 려고 하다).",
+   "examples": [
+    "설날에 선생님을 찾아뵐 생각이에요. — Tết tôi định đến thăm thầy.",
+    "졸업 후에 대학원에 진학할 생각이에요. — Sau khi tốt nghiệp tôi định học cao học.",
+    "방학에 뭐 할 생각이에요? — Kỳ nghỉ bạn định làm gì?",
+    "아직 결혼할 생각이 없어요. — Tôi chưa có ý định kết hôn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi định kết bạn mới.",
+   "kr": "새로운 친구를 ___.",
+   "options": [
+    "사귈 생각이에요",
+    "사귀을 생각이에요",
+    "사귄 생각이에요"
+   ],
+   "answer": "사귈 생각이에요",
+   "explain": "사귀다 không patchim → 사귈 생각이에요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi định đọc sách này.",
+   "kr": "이 책을 ___.",
+   "options": [
+    "읽을 생각이에요",
+    "읽ㄹ 생각이에요",
+    "읽는 생각이에요"
+   ],
+   "answer": "읽을 생각이에요",
+   "explain": "읽다 có patchim → 읽을."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi định sống ở Seoul.",
+   "kr": "서울에서 ___.",
+   "options": [
+    "살 생각이에요",
+    "살을 생각이에요",
+    "사는 생각이에요"
+   ],
+   "answer": "살 생각이에요",
+   "explain": "Patchim ㄹ giữ nguyên: 살 생각이에요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Tôi chưa có ý định kết hôn.",
+   "kr": "",
+   "options": [
+    "아직 결혼할 생각이 없어요.",
+    "아직 결혼할 생각이 안 있어요.",
+    "아직 결혼 생각할 없어요."
+   ],
+   "answer": "아직 결혼할 생각이 없어요.",
+   "explain": "Phủ định: (으)ㄹ 생각이 없다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bận quá nên tôi từ chối lời nhờ.",
+   "kr": "바빠서 부탁을 ___.",
+   "options": [
+    "거절했어요",
+    "들어줬어요",
+    "청했어요"
+   ],
+   "answer": "거절했어요",
+   "explain": "부탁을 거절하다 = từ chối lời nhờ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bạn đã nhận lời giúp tôi.",
+   "kr": "친구가 제 부탁을 ___.",
+   "options": [
+    "들어줬어요",
+    "거절했어요",
+    "당했어요"
+   ],
+   "answer": "들어줬어요",
+   "explain": "부탁을 들어주다 = nhận lời giúp."
+  },
+  {
+   "type": "choice",
+   "q": "Cách nói kính ngữ của 'đến thăm (người trên)' là gì?",
+   "kr": "",
+   "options": [
+    "찾아뵙다",
+    "찾아오다",
+    "만나다"
+   ],
+   "answer": "찾아뵙다",
+   "explain": "찾아뵙다 = đến thăm (người bề trên), khiêm nhường."
+  },
+  {
+   "type": "choice",
+   "q": "Người '마음이 넓다' là người thế nào?",
+   "kr": "",
+   "options": [
+    "Rộng lượng, dễ bỏ qua",
+    "Hay giận",
+    "Ít nói"
+   ],
+   "answer": "Rộng lượng, dễ bỏ qua",
+   "explain": "마음이 넓다 = lòng rộng → rộng lượng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 생각이에요 vào 찾아뵙다: Tết tôi định đến thăm thầy.",
+   "kr": "설날에 선생님을 ___.",
+   "answer": [
+    "찾아뵐 생각이에요"
+   ],
+   "explain": "찾아뵙다 (bất quy tắc ㅂ) → 찾아뵐."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 생각이에요 vào 진학하다: Tôi định học lên cao học.",
+   "kr": "대학원에 ___.",
+   "answer": [
+    "진학할 생각이에요"
+   ],
+   "explain": "진학하다 → 진학할 생각이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền hỏi ý định: Kỳ nghỉ bạn định làm gì?",
+   "kr": "방학에 뭐 할 ___?",
+   "answer": [
+    "생각이에요"
+   ],
+   "explain": "뭐 할 생각이에요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cho tôi gửi lời hỏi thăm bố mẹ bạn nhé.",
+   "kr": "부모님께 ___ 전해 주세요.",
+   "answer": [
+    "안부"
+   ],
+   "explain": "안부를 전하다 = gửi lời hỏi thăm."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi định gửi thư hỏi thăm thầy.",
+   "tokens": [
+    "선생님께",
+    "안부",
+    "편지를",
+    "보낼",
+    "생각이에요"
+   ],
+   "answer": "선생님께 안부 편지를 보낼 생각이에요",
+   "explain": "보내다 → 보낼 생각이에요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Khi khó khăn hãy nhờ người khác giúp.",
+   "tokens": [
+    "어려울",
+    "때는",
+    "도움을",
+    "청하세요"
+   ],
+   "answer": "어려울 때는 도움을 청하세요",
+   "explain": "도움을 청하다 = nhờ giúp đỡ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sau khi tốt nghiệp tôi định làm ở công ty Hàn Quốc.",
+   "answer": [
+    "졸업한 후에 한국 회사에서 일할 생각이에요.",
+    "졸업 후에 한국 회사에서 일할 생각이에요.",
+    "졸업하고 한국 회사에서 일할 생각이에요.",
+    "졸업한 후에 한국 회사에 취직할 생각이에요.",
+    "졸업 후에 한국 회사에 취직할 생각이에요."
+   ],
+   "explain": "일하다 → 일할 생각이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy tính tình tốt nên được mọi người yêu mến.",
+   "answer": [
+    "그 사람은 성격이 좋아서 인기가 있어요.",
+    "그는 성격이 좋아서 인기가 있어요.",
+    "그 사람은 성격이 좋아서 인기가 많아요."
+   ],
+   "explain": "성격이 좋아서 + 인기가 있어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi bị từ chối.",
+   "answer": [
+    "거절을 당했어요.",
+    "저는 거절을 당했어요.",
+    "거절당했어요."
+   ],
+   "explain": "거절을 당하다 = bị từ chối."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "친구의 부탁을 거절할 때는 부드럽게 말하는 것이 좋아요.",
+   "answer": "Khi từ chối lời nhờ của bạn, tốt nhất là nói nhẹ nhàng.",
+   "explain": "부드럽게 = một cách nhẹ nhàng (A + 게 sẽ học ở bài sau)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào chỗ trống. (Dạng TOPIK II câu 16~18)",
+   "kr": "한국에서는 명절에 고향에 가지 못하면 부모님께 ( ___ ) 전화를 드립니다. 짧은 전화도 부모님은 아주 좋아하십니다.",
+   "options": [
+    "안부",
+    "거절",
+    "부탁",
+    "초대"
+   ],
+   "answer": "안부",
+   "explain": "Không về quê được thì gọi điện hỏi thăm (안부 전화)."
+  },
+  {
+   "type": "read",
+   "q": "Ý chính của đoạn văn là gì? (Dạng TOPIK II câu 17~20)",
+   "kr": "부탁을 거절하는 것은 쉽지 않습니다. 하지만 할 수 없는 일을 받아서 나중에 못 하면 더 큰 문제가 생깁니다. 그러니까 어려운 부탁은 처음부터 솔직히 거절하는 것이 좋습니다.",
+   "options": [
+    "할 수 없는 부탁은 처음에 거절하는 것이 좋다.",
+    "부탁은 모두 들어줘야 한다.",
+    "부탁을 거절하는 것은 쉽다.",
+    "친구에게 부탁하면 안 된다."
+   ],
+   "answer": "할 수 없는 부탁은 처음에 거절하는 것이 좋다.",
+   "explain": "Câu kết đoạn: lời nhờ khó thì nên từ chối thẳng thắn ngay từ đầu."
+  }
+ ]
+}

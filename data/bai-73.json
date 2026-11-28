@@ -1,0 +1,382 @@
+{
+ "id": "bai-73",
+ "lesson": "Bài 73",
+ "title": "Sự lo lắng (phần 2/4)",
+ "krTitle": "고민 2",
+ "date": "2027-02-24",
+ "day": 98,
+ "source": "TOPIK 3 – Bài 11: Sự lo lắng (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "상담을 받다",
+   "Sangdameul batda",
+   "Được tư vấn",
+   "진로 문제로 상담을 받았어.",
+   "Mình đã đi tư vấn về chuyện định hướng."
+  ],
+  [
+   "조언을 구하다",
+   "Joeoneul guhada",
+   "Xin lời khuyên",
+   "선배에게 조언을 구했어요.",
+   "Tôi xin lời khuyên từ đàn anh."
+  ],
+  [
+   "진로 문제",
+   "Jillo munje",
+   "Vấn đề định hướng tương lai",
+   "요즘 진로 문제 때문에 머리가 아파.",
+   "Dạo này đau đầu vì chuyện định hướng tương lai."
+  ],
+  [
+   "이성 문제",
+   "Iseong munje",
+   "Chuyện tình cảm nam nữ",
+   "친구가 이성 문제로 고민하고 있어.",
+   "Bạn mình đang trăn trở chuyện tình cảm."
+  ],
+  [
+   "인간관계 문제",
+   "Ingangwangye munje",
+   "Vấn đề quan hệ con người",
+   "회사에서 인간관계 문제가 제일 힘들어요.",
+   "Ở công ty chuyện quan hệ với người khác là mệt nhất."
+  ],
+  [
+   "취업 문제",
+   "Chwieop munje",
+   "Vấn đề tìm việc làm",
+   "졸업생들은 취업 문제로 걱정이 많아요.",
+   "Sinh viên tốt nghiệp lo nhiều chuyện xin việc."
+  ],
+  [
+   "경제적 문제",
+   "Gyeongjejeok munje",
+   "Vấn đề kinh tế",
+   "경제적 문제 때문에 아르바이트를 해.",
+   "Vì vấn đề kinh tế nên mình đi làm thêm."
+  ],
+  [
+   "가정 문제",
+   "Gajeong munje",
+   "Vấn đề gia đình",
+   "가정 문제는 다른 사람에게 말하기 어려워요.",
+   "Chuyện gia đình khó nói với người khác."
+  ],
+  [
+   "개발하다",
+   "Gaebalhada",
+   "Phát triển, khai thác",
+   "자신의 능력을 개발하는 게 중요해요.",
+   "Phát triển năng lực bản thân là điều quan trọng."
+  ],
+  [
+   "경쟁",
+   "Gyeongjaeng",
+   "Cạnh tranh",
+   "취업 경쟁이 심해요.",
+   "Cạnh tranh việc làm rất gay gắt."
+  ],
+  [
+   "공고",
+   "Gonggo",
+   "Thông báo (tuyển dụng…)",
+   "회사 홈페이지에 채용 공고가 났어.",
+   "Trên trang web công ty có thông báo tuyển dụng rồi."
+  ],
+  [
+   "관계",
+   "Gwangye",
+   "Quan hệ",
+   "친구와 관계가 좋아졌어.",
+   "Quan hệ với bạn đã tốt lên rồi."
+  ],
+  [
+   "관련되다",
+   "Gwallyeondoeda",
+   "Có liên quan",
+   "전공과 관련된 일을 하고 싶어요.",
+   "Tôi muốn làm việc liên quan đến chuyên ngành."
+  ],
+  [
+   "관리",
+   "Gwalli",
+   "Quản lý",
+   "스트레스 관리가 필요해.",
+   "Cần quản lý căng thẳng."
+  ],
+  [
+   "구분되다",
+   "Gubundoeda",
+   "Được phân chia",
+   "고민은 크게 다섯 가지로 구분돼요.",
+   "Nỗi lo được chia thành năm loại lớn."
+  ],
+  [
+   "권하다",
+   "Gwonhada",
+   "Khuyên, mời",
+   "상담사가 운동을 권했어요.",
+   "Chuyên viên tư vấn khuyên tôi tập thể dục."
+  ],
+  [
+   "기법",
+   "Gibeop",
+   "Kỹ thuật, phương pháp",
+   "상담 기법을 배우고 있어요.",
+   "Tôi đang học kỹ thuật tư vấn."
+  ],
+  [
+   "끌다",
+   "Kkeulda",
+   "Kéo, thu hút",
+   "그 광고가 사람들의 관심을 끌었어요.",
+   "Quảng cáo đó đã thu hút sự quan tâm."
+  ],
+  [
+   "눈높이",
+   "Nunnopi",
+   "Tầm mắt, mức độ (tiêu chuẩn)",
+   "아이의 눈높이에 맞춰서 이야기해요.",
+   "Nói chuyện theo tầm hiểu biết của trẻ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "반말 — Nói trống không (thân mật)",
+   "meaning": "반말 là lối nói thân mật, dùng với bạn bè cùng tuổi, em nhỏ tuổi hơn, người rất thân (không dùng với người lớn, người mới gặp). Cách tạo cơ bản: bỏ 요 khỏi đuôi 아/어요: 가요 → 가, 먹어요 → 먹어, 했어요 → 했어, 할 거예요 → 할 거야. Với danh từ: 이에요/예요 → 이야/야 (학생이에요 → 학생이야, 친구예요 → 친구야). Một số dạng đặc biệt: 네 → 응/어, 아니요 → 아니, 저 → 나, 제 → 내, 저는 → 나는, 제가 → 내가; 좀 (으)세요 → 아/어 (와 — đến đi). Rủ rê: (으)ㅂ시다 → 자 (가자 — đi thôi). Hỏi: 뭐 해? (đang làm gì đấy?).",
+   "examples": [
+    "뭐 해? — 숙제해. — Đang làm gì đấy? — Làm bài tập.",
+    "요즘 진로 문제 때문에 머리가 아파. — Dạo này đau đầu vì chuyện tương lai.",
+    "나도 같이 가자! — Mình cũng đi cùng nhé!",
+    "응, 내가 할게. — Ừ, để tớ làm."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Đổi sang 반말: 숙제해요.",
+   "kr": "",
+   "options": [
+    "숙제해.",
+    "숙제해야.",
+    "숙제하요."
+   ],
+   "answer": "숙제해.",
+   "explain": "Bỏ 요: 해요 → 해."
+  },
+  {
+   "type": "choice",
+   "q": "Đổi sang 반말: 저는 학생이에요.",
+   "kr": "",
+   "options": [
+    "나는 학생이야.",
+    "저는 학생이야.",
+    "나는 학생이에."
+   ],
+   "answer": "나는 학생이야.",
+   "explain": "저는 → 나는; 이에요 → 이야."
+  },
+  {
+   "type": "choice",
+   "q": "Đổi sang 반말: 같이 갑시다.",
+   "kr": "",
+   "options": [
+    "같이 가자.",
+    "같이 가.",
+    "같이 갑시."
+   ],
+   "answer": "같이 가자.",
+   "explain": "Rủ rê: (으)ㅂ시다 → 자."
+  },
+  {
+   "type": "choice",
+   "q": "Đổi sang 반말: 네, 제가 할게요.",
+   "kr": "",
+   "options": [
+    "응, 내가 할게.",
+    "네, 제가 할게.",
+    "응, 제가 할게요."
+   ],
+   "answer": "응, 내가 할게.",
+   "explain": "네 → 응; 제가 → 내가; bỏ 요."
+  },
+  {
+   "type": "choice",
+   "q": "Với ai thì KHÔNG nên dùng 반말?",
+   "kr": "",
+   "options": [
+    "Người lớn tuổi mới gặp",
+    "Bạn thân cùng tuổi",
+    "Em nhỏ tuổi thân thiết"
+   ],
+   "answer": "Người lớn tuổi mới gặp",
+   "explain": "반말 chỉ dùng với người thân, ngang hoặc nhỏ tuổi hơn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi xin lời khuyên từ đàn anh.",
+   "kr": "선배에게 조언을 ___.",
+   "options": [
+    "구했어요",
+    "권했어요",
+    "끌었어요"
+   ],
+   "answer": "구했어요",
+   "explain": "조언을 구하다 = xin lời khuyên."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cạnh tranh việc làm rất gay gắt.",
+   "kr": "취업 ___이 심해요.",
+   "options": [
+    "경쟁",
+    "관리",
+    "기법"
+   ],
+   "answer": "경쟁",
+   "explain": "경쟁 = cạnh tranh."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi muốn làm việc liên quan đến chuyên ngành.",
+   "kr": "전공과 ___ 일을 하고 싶어요.",
+   "options": [
+    "관련된",
+    "구분된",
+    "개발된"
+   ],
+   "answer": "관련된",
+   "explain": "관련되다 → 관련된 = có liên quan."
+  },
+  {
+   "type": "fill",
+   "q": "Đổi sang 반말: 어제 뭐 했어요?",
+   "kr": "어제 뭐 ___?",
+   "answer": [
+    "했어"
+   ],
+   "explain": "했어요 → 했어."
+  },
+  {
+   "type": "fill",
+   "q": "Đổi sang 반말: 내일 갈 거예요.",
+   "kr": "내일 갈 ___.",
+   "answer": [
+    "거야"
+   ],
+   "explain": "거예요 → 거야."
+  },
+  {
+   "type": "fill",
+   "q": "Đổi sang 반말: 아니요, 괜찮아요.",
+   "kr": "___, 괜찮아.",
+   "answer": [
+    "아니"
+   ],
+   "explain": "아니요 → 아니."
+  },
+  {
+   "type": "fill",
+   "q": "Đổi sang 반말: 이건 제 가방이에요.",
+   "kr": "이건 ___ 가방이야.",
+   "answer": [
+    "내"
+   ],
+   "explain": "제 → 내."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu (반말): Dạo này đau đầu vì chuyện tương lai.",
+   "tokens": [
+    "요즘",
+    "진로",
+    "문제",
+    "때문에",
+    "머리가",
+    "아파"
+   ],
+   "answer": "요즘 진로 문제 때문에 머리가 아파",
+   "explain": "아파요 → 아파."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chuyên viên tư vấn khuyên tôi tập thể dục.",
+   "tokens": [
+    "상담사가",
+    "운동을",
+    "권했어요"
+   ],
+   "answer": "상담사가 운동을 권했어요",
+   "explain": "권하다 = khuyên."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đang làm gì đấy? (반말)",
+   "answer": [
+    "뭐 해?",
+    "지금 뭐 해?",
+    "뭐 하고 있어?"
+   ],
+   "explain": "해요 → 해."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mình cũng đi cùng nhé! (반말)",
+   "answer": [
+    "나도 같이 가자!",
+    "나도 같이 갈게!",
+    "나도 같이 가!"
+   ],
+   "explain": "가자 = đi thôi (rủ rê thân mật)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã xin lời khuyên từ đàn anh.",
+   "answer": [
+    "선배에게 조언을 구했어요.",
+    "선배한테 조언을 구했어요.",
+    "선배에게 조언을 구했습니다."
+   ],
+   "explain": "조언을 구하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국에서는 처음 만난 사람에게 반말을 하면 실례라서 친해진 다음에 반말을 써요.",
+   "answer": "Ở Hàn, nói trống không với người mới gặp là bất lịch sự, nên người ta dùng 반말 sau khi đã thân.",
+   "explain": "친해진 다음에 = sau khi trở nên thân."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu nối tiếp phù hợp (반말). (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 민수야, 요즘 무슨 고민 있어? 얼굴이 안 좋아 보여.\n남자: ( ___ )",
+   "options": [
+    "응, 취업 문제 때문에 좀 힘들어.",
+    "네, 저는 학생입니다.",
+    "아니요, 사장님은 안 계세요.",
+    "같이 갑시다."
+   ],
+   "answer": "응, 취업 문제 때문에 좀 힘들어.",
+   "explain": "Câu hỏi 반말 giữa bạn bè → trả lời bằng 반말, nói về nỗi lo."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)",
+   "kr": "【대학생 고민 조사 결과】\n1위 취업 문제 (42%)\n2위 진로 문제 (25%)\n3위 경제적 문제 (15%)\n4위 인간관계 문제 (10%)\n5위 이성 문제 (8%)",
+   "options": [
+    "취업 문제로 고민하는 학생이 가장 많다.",
+    "이성 문제가 1위이다.",
+    "경제적 문제는 인간관계 문제보다 적다.",
+    "진로 문제는 5위이다."
+   ],
+   "answer": "취업 문제로 고민하는 학생이 가장 많다.",
+   "explain": "1위 là việc làm 42%; kinh tế 15% > quan hệ 10%."
+  }
+ ]
+}

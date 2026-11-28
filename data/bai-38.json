@@ -1,0 +1,390 @@
+{
+ "id": "bai-38",
+ "lesson": "Bài 38",
+ "title": "Sinh hoạt ở trường (phần 2/3)",
+ "krTitle": "학교생활 2",
+ "date": "2027-01-02",
+ "day": 45,
+ "source": "TOPIK 3 – Bài 1: Sinh hoạt ở trường (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "재학생",
+   "Jaehaksaeng",
+   "Học sinh đang học",
+   "재학생은 도서관을 무료로 이용할 수 있어요.",
+   "Sinh viên đang học được dùng thư viện miễn phí."
+  ],
+  [
+   "졸업생",
+   "Joreopsaeng",
+   "Học sinh tốt nghiệp",
+   "졸업생들이 학교에 찾아왔어요.",
+   "Các cựu sinh viên đã đến thăm trường."
+  ],
+  [
+   "동아리",
+   "Dongari",
+   "Câu lạc bộ",
+   "저는 사진 동아리에 가입했어요.",
+   "Tôi đã gia nhập câu lạc bộ nhiếp ảnh."
+  ],
+  [
+   "입학하다",
+   "Ipakada",
+   "Nhập học",
+   "작년에 대학교에 입학했어요.",
+   "Năm ngoái tôi vào đại học."
+  ],
+  [
+   "졸업하다",
+   "Joreopada",
+   "Tốt nghiệp",
+   "내년 2월에 졸업해요.",
+   "Tháng 2 năm sau tôi tốt nghiệp."
+  ],
+  [
+   "등록하다",
+   "Deungnokada",
+   "Đăng ký",
+   "한국어 강좌에 등록했어요.",
+   "Tôi đã đăng ký khóa tiếng Hàn."
+  ],
+  [
+   "장학금을 받다",
+   "Janghakgeumeul batda",
+   "Nhận học bổng",
+   "성적이 좋아서 장학금을 받았어요.",
+   "Thành tích tốt nên tôi được học bổng."
+  ],
+  [
+   "입학식",
+   "Ipaksik",
+   "Lễ khai giảng, lễ nhập học",
+   "3월 2일에 입학식이 있어요.",
+   "Ngày 2/3 có lễ nhập học."
+  ],
+  [
+   "오리엔테이션",
+   "Orienteisyeon",
+   "Giới thiệu định hướng",
+   "신입생 오리엔테이션에 참석하세요.",
+   "Hãy tham dự buổi định hướng tân sinh viên."
+  ],
+  [
+   "졸업식",
+   "Joreopsik",
+   "Lễ tốt nghiệp",
+   "졸업식에 부모님이 오셨어요.",
+   "Bố mẹ đã đến dự lễ tốt nghiệp."
+  ],
+  [
+   "체육대회",
+   "Cheyukdaehoe",
+   "Đại hội thể thao",
+   "체육대회에서 우리 반이 이겼어요.",
+   "Lớp tôi thắng ở đại hội thể thao."
+  ],
+  [
+   "MT",
+   "Em-ti",
+   "Dã ngoại tập thể (membership training)",
+   "이번 주말에 학과 MT를 가요.",
+   "Cuối tuần này khoa đi MT."
+  ],
+  [
+   "발표회",
+   "Balpyohoe",
+   "Buổi thuyết trình",
+   "다음 주에 연구 발표회가 있어요.",
+   "Tuần sau có buổi thuyết trình nghiên cứu."
+  ],
+  [
+   "축제",
+   "Chukje",
+   "Lễ hội",
+   "5월에 대학 축제가 열려요.",
+   "Tháng 5 có lễ hội trường đại học."
+  ],
+  [
+   "사은회",
+   "Saeunhoe",
+   "Lễ cảm ơn, lễ cảm ơn thầy cô",
+   "졸업 전에 사은회를 했어요.",
+   "Trước khi tốt nghiệp chúng tôi tổ chức tiệc tri ân thầy cô."
+  ],
+  [
+   "신입생 환영회",
+   "Sinipsaeng hwanyeonghoe",
+   "Lễ đón sinh viên mới",
+   "신입생 환영회에서 노래를 불렀어요.",
+   "Tôi đã hát ở buổi chào đón tân sinh viên."
+  ],
+  [
+   "졸업생 환송회",
+   "Joreopsaeng hwansonghoe",
+   "Lễ tiễn sinh viên tốt nghiệp",
+   "졸업생 환송회에서 많이 울었어요.",
+   "Tôi đã khóc nhiều ở buổi tiễn sinh viên tốt nghiệp."
+  ],
+  [
+   "개교기념일",
+   "Gaegyoginyeomil",
+   "Ngày kỷ niệm thành lập trường",
+   "개교기념일에는 수업이 없어요.",
+   "Ngày thành lập trường không có tiết học."
+  ],
+  [
+   "성적 우수자",
+   "Seongjeok usuja",
+   "Học sinh có thành tích ưu tú",
+   "성적 우수자에게 장학금을 줘요.",
+   "Trường trao học bổng cho sinh viên thành tích ưu tú."
+  ],
+  [
+   "참석",
+   "Chamseok",
+   "Tham dự",
+   "모든 신입생은 오리엔테이션에 참석해야 해요.",
+   "Tất cả tân sinh viên phải tham dự buổi định hướng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + (이)라고 하다 — Là, được gọi là",
+   "meaning": "Dùng để nói tên gọi của người/vật/sự việc: 'tên là…, được gọi là…'. Danh từ có patchim + 이라고 하다 (수업 → 수업이라고, 린 → 린이라고); không patchim + 라고 하다 (축제 → 축제라고, 민수 → 민수라고). Dạng hay gặp: 저는 린이라고 합니다 (tôi tên là Linh — lịch sự, khi giới thiệu), 이걸 한국어로 뭐라고 해요? (cái này tiếng Hàn gọi là gì?), 신입생을 새내기라고 해요 (tân sinh viên còn gọi là 새내기). Đây cũng là bước đầu của câu gián tiếp (nói rằng…) sẽ học kỹ ở các bài sau.",
+   "examples": [
+    "저는 응우옌 린이라고 합니다. — Tôi tên là Nguyễn Linh.",
+    "신입생을 새내기라고 해요. — Tân sinh viên còn được gọi là 'saenaegi'.",
+    "이걸 한국어로 뭐라고 해요? — Cái này tiếng Hàn gọi là gì?",
+    "학교가 처음 문을 연 날을 개교기념일이라고 해요. — Ngày trường mở cửa lần đầu gọi là ngày kỷ niệm thành lập trường."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi tên là Linh.",
+   "kr": "저는 린___ 합니다.",
+   "options": [
+    "이라고",
+    "라고",
+    "이고"
+   ],
+   "answer": "이라고",
+   "explain": "린 có patchim → 이라고 합니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi tên là Minsu.",
+   "kr": "저는 민수___ 합니다.",
+   "options": [
+    "라고",
+    "이라고",
+    "고"
+   ],
+   "answer": "라고",
+   "explain": "수 không patchim → 라고."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Cái này tiếng Hàn gọi là gì?",
+   "kr": "",
+   "options": [
+    "이걸 한국어로 뭐라고 해요?",
+    "이걸 한국어로 뭐이라고 해요?",
+    "이걸 한국어로 뭐고 해요?"
+   ],
+   "answer": "이걸 한국어로 뭐라고 해요?",
+   "explain": "뭐 không patchim → 뭐라고 해요?"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu đúng: Tân sinh viên còn gọi là 새내기.",
+   "kr": "",
+   "options": [
+    "신입생을 새내기라고 해요.",
+    "신입생을 새내기이라고 해요.",
+    "신입생이 새내기를 해요."
+   ],
+   "answer": "신입생을 새내기라고 해요.",
+   "explain": "A을/를 B(이)라고 하다 = gọi A là B; 새내기 không patchim → 라고."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lớp tôi thắng ở đại hội thể thao.",
+   "kr": "___에서 우리 반이 이겼어요.",
+   "options": [
+    "체육대회",
+    "사은회",
+    "오리엔테이션"
+   ],
+   "answer": "체육대회",
+   "explain": "체육대회 = đại hội thể thao."
+  },
+  {
+   "type": "choice",
+   "q": "Buổi tiệc sinh viên tổ chức để cảm ơn thầy cô trước khi tốt nghiệp là gì?",
+   "kr": "",
+   "options": [
+    "사은회",
+    "환영회",
+    "입학식"
+   ],
+   "answer": "사은회",
+   "explain": "사은 = tạ ơn thầy → 사은회."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Thành tích tốt nên tôi được học bổng.",
+   "kr": "성적이 좋아서 장학금을 ___.",
+   "options": [
+    "받았어요",
+    "줬어요",
+    "냈어요"
+   ],
+   "answer": "받았어요",
+   "explain": "장학금을 받다 = nhận học bổng."
+  },
+  {
+   "type": "choice",
+   "q": "Sinh viên đang theo học tại trường gọi là gì?",
+   "kr": "",
+   "options": [
+    "재학생",
+    "졸업생",
+    "신입생"
+   ],
+   "answer": "재학생",
+   "explain": "재학 = đang học (재 = đang ở)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)라고: Ngày này gọi là ngày thành lập trường.",
+   "kr": "이날을 개교기념일___ 해요.",
+   "answer": [
+    "이라고"
+   ],
+   "explain": "개교기념일 có patchim ㄹ → 이라고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)라고: Lễ hội trường còn được gọi là '대동제'.",
+   "kr": "대학 축제를 대동제___ 해요.",
+   "answer": [
+    "라고"
+   ],
+   "explain": "대동제 không patchim → 라고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)라고 합니다: Tôi tên là Tuấn (투안).",
+   "kr": "저는 투안___.",
+   "answer": [
+    "이라고 합니다",
+    "이라고 해요"
+   ],
+   "explain": "투안 có patchim ㄴ → 이라고 합니다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hãy tham dự buổi định hướng.",
+   "kr": "오리엔테이션에 ___하세요.",
+   "answer": [
+    "참석"
+   ],
+   "explain": "참석하다 = tham dự."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi tên là Nguyễn Linh.",
+   "tokens": [
+    "저는",
+    "응우옌",
+    "린이라고",
+    "합니다"
+   ],
+   "answer": "저는 응우옌 린이라고 합니다",
+   "explain": "Giới thiệu tên lịch sự."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tháng 5 có lễ hội trường.",
+   "tokens": [
+    "5월에",
+    "대학",
+    "축제가",
+    "열려요"
+   ],
+   "answer": "5월에 대학 축제가 열려요",
+   "explain": "축제가 열리다 = lễ hội được tổ chức."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cái này tiếng Hàn gọi là gì?",
+   "answer": [
+    "이걸 한국어로 뭐라고 해요?",
+    "이것을 한국어로 뭐라고 해요?",
+    "이거 한국어로 뭐라고 해요?",
+    "이것은 한국어로 뭐라고 해요?"
+   ],
+   "explain": "한국어로 + 뭐라고 해요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Năm ngoái tôi vào đại học.",
+   "answer": [
+    "작년에 대학교에 입학했어요.",
+    "저는 작년에 대학교에 입학했어요.",
+    "작년에 대학에 입학했어요."
+   ],
+   "explain": "입학하다 → 입학했어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã gia nhập câu lạc bộ.",
+   "answer": [
+    "동아리에 가입했어요.",
+    "저는 동아리에 가입했어요.",
+    "동아리에 들어갔어요."
+   ],
+   "explain": "동아리에 가입하다/들어가다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "모든 신입생은 입학식 후에 오리엔테이션에 참석해야 해요.",
+   "answer": "Tất cả tân sinh viên phải tham dự buổi định hướng sau lễ nhập học.",
+   "explain": "입학식 후에 = sau lễ nhập học; 참석해야 해요 = phải tham dự."
+  },
+  {
+   "type": "read",
+   "q": "Đây là thông báo về điều gì? (Dạng TOPIK II câu 5~8)",
+   "kr": "새내기 여러분, 환영합니다!\n3월 5일 저녁 6시, 학생회관에서 만나요.\n맛있는 음식과 공연을 준비했어요.",
+   "options": [
+    "신입생 환영회",
+    "졸업식",
+    "기말고사",
+    "체육대회"
+   ],
+   "answer": "신입생 환영회",
+   "explain": "Chào mừng tân sinh viên (새내기), có đồ ăn và biểu diễn → tiệc chào đón tân sinh viên."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK II câu 9~12)",
+   "kr": "【장학금 안내】\n대상: 지난 학기 성적 우수자 (재학생만)\n금액: 등록금의 50%\n신청: 3월 10일까지 학과 사무실\n※ 졸업생은 신청할 수 없습니다.",
+   "options": [
+    "재학생만 신청할 수 있어요.",
+    "졸업생도 신청할 수 있어요.",
+    "등록금을 모두 받아요.",
+    "인터넷으로 신청해요."
+   ],
+   "answer": "재학생만 신청할 수 있어요.",
+   "explain": "Đối tượng: chỉ sinh viên đang học, thành tích tốt; nhận 50% học phí; đăng ký ở văn phòng khoa."
+  }
+ ]
+}
