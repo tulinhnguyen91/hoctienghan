@@ -1,0 +1,414 @@
+{
+ "id": "bai-206",
+ "lesson": "Bài 206",
+ "title": "Du học Hàn Quốc (phần 2/5)",
+ "krTitle": "한국 유학 2",
+ "date": "2027-09-14",
+ "day": 300,
+ "source": "TOPIK 5 – Bài 15: Du học Hàn Quốc (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "학점을 받다",
+   "Hakjeomeul batda",
+   "Nhận được điểm",
+   "이번 학기에 모든 과목에서 A 학점을 받았어요.",
+   "Học kỳ này tôi được điểm A tất cả các môn."
+  ],
+  [
+   "장학금을 신청하다",
+   "Janghakgeumeul sincheonghada",
+   "Đăng ký học bổng",
+   "성적이 좋아서 장학금을 신청했어요.",
+   "Điểm tốt nên tôi đã đăng ký học bổng."
+  ],
+  [
+   "학생처",
+   "Haksaengcheo",
+   "Phòng công tác sinh viên",
+   "기숙사 문제는 학생처에 문의하세요.",
+   "Vấn đề ký túc xá hãy hỏi phòng công tác sinh viên."
+  ],
+  [
+   "학과 사무실",
+   "Hakgwa samusil",
+   "Văn phòng khoa",
+   "학과 사무실에서 서류를 받았어요.",
+   "Tôi đã nhận giấy tờ ở văn phòng khoa."
+  ],
+  [
+   "어학연수",
+   "Eohagyeonsu",
+   "Việc học chuyên tu ngoại ngữ",
+   "대학에 들어가기 전에 1년 동안 어학연수를 했어요.",
+   "Trước khi vào đại học tôi học tiếng một năm."
+  ],
+  [
+   "학점을 따다",
+   "Hakjeomeul ttada",
+   "Lấy được tín chỉ",
+   "졸업하려면 130학점을 따야 해요.",
+   "Muốn tốt nghiệp phải lấy được 130 tín chỉ."
+  ],
+  [
+   "교무처",
+   "Gyomucheo",
+   "Phòng giáo vụ",
+   "성적 정정은 교무처에서 해요.",
+   "Đính chính điểm làm ở phòng giáo vụ."
+  ],
+  [
+   "입학처",
+   "Ipakcheo",
+   "Phòng nhập học",
+   "입학처에 원서 접수 방법을 물어봤어요.",
+   "Tôi đã hỏi phòng tuyển sinh cách nộp hồ sơ."
+  ],
+  [
+   "수강 신청",
+   "Sugang sincheong",
+   "Việc đăng ký môn học",
+   "수강 신청은 새벽에 해야 원하는 과목을 들을 수 있어요.",
+   "Phải đăng ký môn học từ sáng sớm mới vào được môn mình muốn."
+  ],
+  [
+   "재수강",
+   "Jaesugang",
+   "Việc tái thụ giảng, việc nghe giảng lại",
+   "지난 학기에 F를 받아서 재수강해야 해요.",
+   "Học kỳ trước bị F nên phải học lại."
+  ],
+  [
+   "전공과목",
+   "Jeongonggwamok",
+   "Môn chuyên ngành",
+   "3학년부터 전공과목이 많아져요.",
+   "Từ năm ba môn chuyên ngành nhiều lên."
+  ],
+  [
+   "수강",
+   "Sugang",
+   "Việc theo học (môn)",
+   "이번 학기에는 다섯 과목을 수강해요.",
+   "Học kỳ này tôi học năm môn."
+  ],
+  [
+   "수강 신청 변경",
+   "Sugang sincheong byeongyeong",
+   "Thay đổi đăng ký môn học",
+   "수강 신청 변경 기간은 개강 후 일주일이에요.",
+   "Thời gian thay đổi đăng ký môn là một tuần sau khi khai giảng."
+  ],
+  [
+   "전공 필수",
+   "Jeongong pilsu",
+   "Bắt buộc cho chuyên ngành (전필)",
+   "이 과목은 전공 필수라서 꼭 들어야 해요.",
+   "Môn này là bắt buộc chuyên ngành nên nhất định phải học."
+  ],
+  [
+   "전공 선택",
+   "Jeongong seontaek",
+   "Môn tự chọn chuyên ngành (전선)",
+   "전공 선택 과목 중에서 마케팅을 골랐어요.",
+   "Tôi chọn môn Marketing trong các môn tự chọn chuyên ngành."
+  ],
+  [
+   "선수 과목",
+   "Seonsu gwamok",
+   "Môn học tiên quyết",
+   "이 과목을 들으려면 선수 과목을 먼저 들어야 해요.",
+   "Muốn học môn này phải học môn tiên quyết trước."
+  ],
+  [
+   "학점",
+   "Hakjeom",
+   "Tín chỉ, điểm",
+   "이번 학기 학점이 많이 올랐어요.",
+   "Điểm học kỳ này tăng nhiều."
+  ],
+  [
+   "교양과목",
+   "Gyoyanggwamok",
+   "Môn chung",
+   "교양과목으로 한국사를 들어요.",
+   "Tôi học Lịch sử Hàn Quốc làm môn đại cương."
+  ],
+  [
+   "계열 기초 과목",
+   "Gyeyeol gicho gwamok",
+   "Môn cơ sở khối ngành",
+   "1학년 때는 계열 기초 과목을 들어요.",
+   "Năm nhất học các môn cơ sở khối ngành."
+  ],
+  [
+   "폐강",
+   "Pyegang",
+   "Việc môn học bị hủy",
+   "수강생이 다섯 명밖에 안 돼서 폐강됐어요.",
+   "Chỉ có năm người đăng ký nên môn học bị hủy."
+  ],
+  [
+   "시간표",
+   "Siganpyo",
+   "Thời khóa biểu",
+   "시간표를 짜는 게 생각보다 어려워요.",
+   "Xếp thời khóa biểu khó hơn tôi nghĩ."
+  ],
+  [
+   "결석",
+   "Gyeolseok",
+   "Sự vắng mặt",
+   "결석이 세 번 넘으면 F를 받아요.",
+   "Vắng quá ba buổi thì bị điểm F."
+  ],
+  [
+   "보강",
+   "Bogang",
+   "Buổi học bù",
+   "교수님이 출장을 가셔서 다음 주 토요일에 보강이 있어요.",
+   "Giáo sư đi công tác nên thứ bảy tuần sau có buổi học bù."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 거든 — Nếu",
+   "meaning": "Nghĩa: 'nếu…, hễ… thì…' — điều kiện, nhưng KHÁC (으)면 ở chỗ VẾ SAU bắt buộc là MỆNH LỆNH, ĐỀ NGHỊ, Ý ĐỊNH, LỜI KHUYÊN: (으)세요, (으)ㄹ게요, (으)ㅂ시다, 아/어 주세요, (으)ㄹ 거예요… Không dùng với câu trần thuật sự thật (✗ 봄이 오거든 꽃이 펴요 → ✓ 봄이 오면 꽃이 펴요). Chia: gắn thẳng vào thân: 궁금하다 → 궁금하거든, 가다 → 가거든, 있다 → 있거든; Danh từ → (이)거든; Quá khứ → 았/었거든. Lưu ý: KHÁC với 거든요 ở cuối câu (Bài 85 – giải thích lý do: 'vì… mà'). 거든 + vế sau (giữa câu) = nếu; 거든요. (cuối câu) = vì là… mà. Văn phong hơi trang trọng, hay dùng trong lời dặn dò, thông báo.",
+   "examples": [
+    "궁금한 점이 있거든 학과 사무실에 문의하세요. — Nếu có thắc mắc thì hãy hỏi văn phòng khoa.",
+    "수강 신청이 끝나거든 시간표를 보내 주세요. — Đăng ký môn xong thì gửi thời khóa biểu cho tôi nhé.",
+    "장학금을 받거든 한턱낼게요. — Nếu nhận được học bổng tôi sẽ khao.",
+    "결석하게 되거든 미리 교수님께 연락드리세요. — Nếu phải vắng thì hãy báo trước cho giáo sư."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Môn học bắt buộc phải học trong chuyên ngành gọi là gì?",
+   "kr": "",
+   "options": [
+    "전공 필수",
+    "전공 선택",
+    "교양과목"
+   ],
+   "answer": "전공 필수",
+   "explain": "필수 = bắt buộc."
+  },
+  {
+   "type": "choice",
+   "q": "Môn học bị hủy vì ít người đăng ký gọi là gì?",
+   "kr": "",
+   "options": [
+    "폐강",
+    "보강",
+    "휴강"
+   ],
+   "answer": "폐강",
+   "explain": "폐강 = hủy môn."
+  },
+  {
+   "type": "choice",
+   "q": "Buổi học bù gọi là gì?",
+   "kr": "",
+   "options": [
+    "보강",
+    "재수강",
+    "결석"
+   ],
+   "answer": "보강",
+   "explain": "보 = bổ sung."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Học kỳ trước bị F nên phải học lại.",
+   "kr": "지난 학기에 F를 받아서 ___해야 해요.",
+   "options": [
+    "재수강",
+    "수강 신청",
+    "폐강"
+   ],
+   "answer": "재수강",
+   "explain": "재 = lại."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG với 거든:",
+   "kr": "",
+   "options": [
+    "궁금한 점이 있거든 문의하세요.",
+    "궁금한 점이 있거든 문의했어요.",
+    "봄이 오거든 꽃이 펴요."
+   ],
+   "answer": "궁금한 점이 있거든 문의하세요.",
+   "explain": "Vế sau phải là mệnh lệnh/đề nghị."
+  },
+  {
+   "type": "choice",
+   "q": "'장학금을 받거든 한턱낼게요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Nếu nhận được học bổng tôi sẽ khao.",
+    "Vì nhận học bổng nên tôi khao.",
+    "Tôi đã nhận học bổng và khao rồi."
+   ],
+   "answer": "Nếu nhận được học bổng tôi sẽ khao.",
+   "explain": "거든 + ㄹ게요 (ý định)."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào có 거든요 mang nghĩa 'vì… mà' (giải thích)?",
+   "kr": "",
+   "options": [
+    "오늘 못 가요. 시험이 있거든요.",
+    "시험이 있거든 공부하세요.",
+    "시험이 끝나거든 전화해요."
+   ],
+   "answer": "오늘 못 가요. 시험이 있거든요.",
+   "explain": "거든요 ở cuối câu = giải thích lý do."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Muốn tốt nghiệp phải lấy 130 tín chỉ.",
+   "kr": "졸업하려면 130학점을 ___ 해요.",
+   "options": [
+    "따야",
+    "받아야",
+    "신청해야"
+   ],
+   "answer": "따야",
+   "explain": "학점을 따다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 거든 với 끝나다: Đăng ký môn xong thì gửi thời khóa biểu cho tôi.",
+   "kr": "수강 신청이 ___ 시간표를 보내 주세요.",
+   "answer": [
+    "끝나거든"
+   ],
+   "explain": "끝나거든."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 거든 với 되다: Nếu phải vắng thì hãy báo trước cho giáo sư.",
+   "kr": "결석하게 ___ 미리 교수님께 연락드리세요.",
+   "answer": [
+    "되거든"
+   ],
+   "explain": "게 되다 → 게 되거든."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Xếp thời khóa biểu khó hơn tôi nghĩ.",
+   "kr": "___를 짜는 게 생각보다 어려워요.",
+   "answer": [
+    "시간표"
+   ],
+   "explain": "시간표를 짜다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Vấn đề ký túc xá hãy hỏi phòng công tác sinh viên.",
+   "kr": "기숙사 문제는 ___에 문의하세요.",
+   "answer": [
+    "학생처"
+   ],
+   "explain": "학생처."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nếu có thắc mắc hãy hỏi văn phòng khoa.",
+   "tokens": [
+    "궁금한",
+    "점이",
+    "있거든",
+    "학과",
+    "사무실에",
+    "문의하세요"
+   ],
+   "answer": "궁금한 점이 있거든 학과 사무실에 문의하세요",
+   "explain": "거든 + 세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Môn này là bắt buộc chuyên ngành nên phải học.",
+   "tokens": [
+    "이",
+    "과목은",
+    "전공",
+    "필수라서",
+    "꼭",
+    "들어야",
+    "해요"
+   ],
+   "answer": "이 과목은 전공 필수라서 꼭 들어야 해요",
+   "explain": "N(이)라서."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nếu đến Seoul thì hãy liên lạc với tôi. (dùng 거든)",
+   "answer": [
+    "서울에 오거든 연락하세요.",
+    "서울에 오거든 저한테 연락하세요.",
+    "서울에 오거든 연락 주세요.",
+    "서울에 오거든 저에게 연락해 주세요."
+   ],
+   "explain": "오거든 + 세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Điểm tốt nên tôi đã đăng ký học bổng.",
+   "answer": [
+    "성적이 좋아서 장학금을 신청했어요.",
+    "성적이 좋아서 장학금 신청을 했어요."
+   ],
+   "explain": "장학금을 신청하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vắng quá ba buổi thì bị điểm F.",
+   "answer": [
+    "결석이 세 번 넘으면 F를 받아요.",
+    "세 번 넘게 결석하면 F를 받아요.",
+    "결석을 세 번 넘게 하면 F를 받아요."
+   ],
+   "explain": "넘으면."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국 대학에서는 수강 신청을 학생이 직접 한다. 인기 있는 과목은 몇 분 만에 마감되기 때문에 미리 시간표를 짜 두는 것이 좋다. 만약 원하는 과목을 못 듣게 되거든 수강 신청 변경 기간을 이용하세요.",
+   "answer": "Ở đại học Hàn Quốc, sinh viên tự đăng ký môn học. Môn được yêu thích hết chỗ chỉ trong vài phút nên tốt nhất là xếp sẵn thời khóa biểu trước. Nếu không học được môn mình muốn thì hãy tận dụng thời gian thay đổi đăng ký môn.",
+   "explain": "거든 + 세요."
+  },
+  {
+   "type": "read",
+   "q": "Nghe phỏng vấn và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "기자: 외국인 유학생들이 가장 어려워하는 것은 무엇입니까?\n교수: 수강 신청입니다. 한국 학생들도 어려워하는데 외국인 학생들은 전공 필수, 선수 과목 같은 용어조차 모르는 경우가 많습니다. 그래서 저희 학교는 신입생 오리엔테이션 때 수강 신청 방법을 자세히 알려 주고 있습니다. 혹시 어려움이 있거든 학과 사무실에 언제든지 찾아오라고 말합니다.",
+   "options": [
+    "이 학교는 오리엔테이션에서 수강 신청 방법을 알려 준다.",
+    "외국인 학생들은 수강 신청을 쉽게 한다.",
+    "학과 사무실에는 찾아갈 수 없다.",
+    "한국 학생들은 수강 신청이 어렵지 않다."
+   ],
+   "answer": "이 학교는 오리엔테이션에서 수강 신청 방법을 알려 준다.",
+   "explain": "오리엔테이션 때 … 자세히 알려 주고 있습니다."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "대학에서는 출석이 성적에 큰 영향을 준다. 결석이 일정 횟수를 넘으면 시험 점수가 좋아도 F를 받을 수 있다. 또 교수님 사정으로 휴강을 하면 보강을 하는데, 보강에 빠져도 결석으로 처리된다.",
+   "options": [
+    "보강에 빠지는 것도 결석이 된다.",
+    "출석은 성적과 관계가 없다.",
+    "시험 점수가 좋으면 결석해도 된다.",
+    "휴강을 하면 보강을 하지 않는다."
+   ],
+   "answer": "보강에 빠지는 것도 결석이 된다.",
+   "explain": "보강에 빠져도 결석으로 처리된다."
+  }
+ ]
+}

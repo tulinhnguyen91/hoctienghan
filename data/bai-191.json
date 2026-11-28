@@ -1,0 +1,417 @@
+{
+ "id": "bai-191",
+ "lesson": "Bài 191",
+ "title": "Du lịch và hướng dẫn (phần 2/4)",
+ "krTitle": "여행과 안내 2",
+ "date": "2027-08-22",
+ "day": 277,
+ "source": "TOPIK 5 – Bài 11: Du lịch và hướng dẫn (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "관광업체",
+   "Gwangwangeopche",
+   "Công ty du lịch",
+   "관광업체를 통해서 단체 여행을 예약했어요.",
+   "Tôi đặt tour đoàn qua công ty du lịch."
+  ],
+  [
+   "외화 획득",
+   "Oehwa hoekdeuk",
+   "Việc mang lại ngoại tệ",
+   "관광 산업은 외화 획득에 큰 도움이 돼요.",
+   "Ngành du lịch giúp ích lớn cho việc thu ngoại tệ."
+  ],
+  [
+   "여행 가이드",
+   "Yeohaeng gaideu",
+   "Hướng dẫn viên du lịch",
+   "여행 가이드가 역사 이야기를 재미있게 해 줬어요.",
+   "Hướng dẫn viên kể chuyện lịch sử rất thú vị."
+  ],
+  [
+   "관광 안내책자",
+   "Gwangwang annaechaekja",
+   "Sách hướng dẫn du lịch (가이드북)",
+   "관광 안내책자에 지도가 들어 있어요.",
+   "Trong sách hướng dẫn du lịch có bản đồ."
+  ],
+  [
+   "문화유산 해설사",
+   "Munhwayusan haeseolsa",
+   "Người thuyết minh về di sản văn hóa",
+   "문화유산 해설사의 설명을 들으니까 더 재미있었어요.",
+   "Nghe thuyết minh viên di sản giải thích nên thú vị hơn."
+  ],
+  [
+   "여행지를 물색하다",
+   "Yeohaengjireul mulsaekada",
+   "Tìm kiếm địa điểm du lịch",
+   "회사 워크숍을 위해 여행지를 물색하고 있어요.",
+   "Đang tìm điểm du lịch cho buổi workshop của công ty."
+  ],
+  [
+   "여행경로를 정하다",
+   "Yeohaenggyeongnoreul jeonghada",
+   "Định ra lộ trình du lịch",
+   "먼저 여행경로를 정하고 숙소를 예약하세요.",
+   "Hãy định lộ trình trước rồi đặt chỗ ở."
+  ],
+  [
+   "예비조사를 실시하다",
+   "Yebijosareul silsihada",
+   "Thực hiện khảo sát dự bị",
+   "상품을 만들기 전에 현지 예비조사를 실시해요.",
+   "Trước khi làm sản phẩm tour sẽ khảo sát sơ bộ tại chỗ."
+  ],
+  [
+   "수속업무를 대행하다",
+   "Susogeommureul daehaenghada",
+   "Làm thủ tục thay (cho khách)",
+   "여행사가 비자 수속업무를 대행해 줘요.",
+   "Công ty du lịch làm thủ tục visa thay cho khách."
+  ],
+  [
+   "인솔하다",
+   "Insolhada",
+   "Hướng dẫn đoàn",
+   "선생님이 학생들을 인솔하고 박물관에 갔어요.",
+   "Thầy giáo dẫn đoàn học sinh đi bảo tàng."
+  ],
+  [
+   "정산하다",
+   "Jeongsanhada",
+   "Quyết toán",
+   "여행이 끝난 후 비용을 정산했어요.",
+   "Sau chuyến đi đã quyết toán chi phí."
+  ],
+  [
+   "관광 안내소",
+   "Gwangwang annaeso",
+   "Phòng hướng dẫn du lịch",
+   "관광 안내소에서 무료 지도를 받았어요.",
+   "Tôi nhận bản đồ miễn phí ở quầy thông tin du lịch."
+  ],
+  [
+   "관광통역 안내사",
+   "Gwangwangtongyeong annaesa",
+   "Thông dịch viên hướng dẫn du lịch",
+   "관광통역 안내사 자격증을 따고 싶어요.",
+   "Tôi muốn lấy chứng chỉ hướng dẫn viên phiên dịch du lịch."
+  ],
+  [
+   "관광 길잡이",
+   "Gwangwang giljabi",
+   "Hướng dẫn viên du lịch 길",
+   "이 앱은 여행자들의 좋은 관광 길잡이예요.",
+   "Ứng dụng này là người dẫn đường tốt cho khách du lịch."
+  ],
+  [
+   "일정을 짜다",
+   "Iljeongeul jjada",
+   "Sắp xếp lịch trình, lên lịch",
+   "가족 여행 일정을 짜는 데 일주일이 걸렸어요.",
+   "Lên lịch trình du lịch gia đình mất một tuần."
+  ],
+  [
+   "여행비를 산출하다",
+   "Yeohaengbireul sanchulhada",
+   "Tính toán chi phí du lịch",
+   "인원수에 맞춰 여행비를 산출했어요.",
+   "Đã tính chi phí du lịch theo số người."
+  ],
+  [
+   "공항에서 영접하다",
+   "Gonghangeseo yeongjeopada",
+   "Đón tiếp, nghênh đón ở sân bay",
+   "가이드가 손님들을 공항에서 영접했어요.",
+   "Hướng dẫn viên đón khách tại sân bay."
+  ],
+  [
+   "통역 업무를 수행하다",
+   "Tongyeong eommureul suhaenghada",
+   "Làm công tác thông dịch",
+   "저는 회의에서 통역 업무를 수행했어요.",
+   "Tôi đã làm nhiệm vụ phiên dịch trong cuộc họp."
+  ],
+  [
+   "예산을 집행하다",
+   "Yesaneul jipaenghada",
+   "Thực hiện chi ngân sách",
+   "행사 예산을 집행하기 전에 승인을 받아야 해요.",
+   "Trước khi chi ngân sách sự kiện phải được phê duyệt."
+  ],
+  [
+   "보고서를 작성하다",
+   "Bogoseoreul jakseonghada",
+   "Viết báo cáo",
+   "출장이 끝나면 보고서를 작성해야 해요.",
+   "Đi công tác xong phải viết báo cáo."
+  ],
+  [
+   "손이 닿지 않다",
+   "Soni dachi anta",
+   "Chưa bị con người tác động (còn nguyên sơ)",
+   "이 섬은 아직 사람의 손이 닿지 않은 곳이에요.",
+   "Hòn đảo này là nơi chưa bị con người tác động."
+  ],
+  [
+   "경치가 빼어나다",
+   "Gyeongchiga ppaeeonada",
+   "Cảnh trí tuyệt vời",
+   "설악산은 경치가 빼어나기로 유명해요.",
+   "Núi Seorak nổi tiếng với cảnh sắc tuyệt đẹp."
+  ],
+  [
+   "신비롭다",
+   "Sinbiropda",
+   "Thần bí",
+   "안개 낀 호수가 정말 신비로워요.",
+   "Hồ phủ sương trông thật huyền bí."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 아/어 버리다 — Mất rồi, hết rồi",
+   "meaning": "Nhấn mạnh hành động đã HOÀN TOÀN KẾT THÚC, không còn gì sót lại. Kèm theo cảm xúc của người nói: (1) TIẾC NUỐI / ngoài ý muốn: 'mất rồi' — 기차가 떠나 버렸어요 (tàu đi mất rồi); (2) NHẸ NHÕM / dứt khoát: 'xong hẳn, cho xong' — 숙제를 다 해 버렸어요 (làm xong hết bài tập rồi). Chia: ㅏ/ㅗ → 아 버리다 (가 버리다, 놓아 버리다); khác → 어 버리다 (먹어 버리다); 하다 → 해 버리다. Thường dùng ở quá khứ: 아/어 버렸어요. Khẩu ngữ rút gọn: 먹어 버렸어 → 먹어버렸어, 해 버렸다 → 해버렸다. So sánh: 고 말다 (Bài 170) chủ yếu là kết quả đáng tiếc, ngoài ý muốn hoặc quyết tâm; 아/어 버리다 rộng hơn, có thể là nhẹ nhõm, dứt khoát.",
+   "examples": [
+    "늦게 도착해서 관광버스가 떠나 버렸어요. — Đến muộn nên xe buýt du lịch đi mất rồi.",
+    "여행비를 첫날에 다 써 버렸어요. — Tôi tiêu hết sạch tiền du lịch ngay ngày đầu.",
+    "보고서를 오늘 다 작성해 버려서 마음이 편해요. — Viết xong hết báo cáo hôm nay nên thấy nhẹ nhõm.",
+    "비행기 표를 잃어버려서 큰일 났어요. — Làm mất vé máy bay rồi, gay to."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Người chuyên thuyết minh tại di tích, bảo tàng gọi là gì?",
+   "kr": "",
+   "options": [
+    "문화유산 해설사",
+    "관광업체",
+    "관광청"
+   ],
+   "answer": "문화유산 해설사",
+   "explain": "해설 = giải thích, thuyết minh."
+  },
+  {
+   "type": "choice",
+   "q": "Dẫn một đoàn người đi đâu đó gọi là gì?",
+   "kr": "",
+   "options": [
+    "인솔하다",
+    "정산하다",
+    "물색하다"
+   ],
+   "answer": "인솔하다",
+   "explain": "인솔하다 = dẫn đoàn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Sau chuyến đi đã quyết toán chi phí.",
+   "kr": "여행이 끝난 후 비용을 ___.",
+   "options": [
+    "정산했어요",
+    "영접했어요",
+    "인솔했어요"
+   ],
+   "answer": "정산했어요",
+   "explain": "정산하다 = quyết toán."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói phù hợp: Lên lịch trình du lịch.",
+   "kr": "여행 ___을 짜다",
+   "options": [
+    "일정",
+    "예산",
+    "보고서"
+   ],
+   "answer": "일정",
+   "explain": "일정을 짜다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Đến muộn nên xe buýt đi mất rồi.'",
+   "kr": "",
+   "options": [
+    "늦게 도착해서 버스가 떠나 버렸어요.",
+    "늦게 도착해서 버스가 떠나 버리세요.",
+    "늦게 도착해서 버스가 떠나어 버렸어요."
+   ],
+   "answer": "늦게 도착해서 버스가 떠나 버렸어요.",
+   "explain": "떠나다 → 떠나 버렸어요."
+  },
+  {
+   "type": "choice",
+   "q": "'보고서를 다 써 버려서 마음이 편해요.' 버리다 ở đây thể hiện cảm xúc gì?",
+   "kr": "",
+   "options": [
+    "Nhẹ nhõm vì làm xong hẳn",
+    "Tiếc nuối",
+    "Tức giận"
+   ],
+   "answer": "Nhẹ nhõm vì làm xong hẳn",
+   "explain": "마음이 편해요 → nhẹ nhõm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG của 잊다 + 아/어 버리다 (quá khứ).",
+   "kr": "",
+   "options": [
+    "잊어버렸어요",
+    "잊아버렸어요",
+    "잊버렸어요"
+   ],
+   "answer": "잊어버렸어요",
+   "explain": "잊다 → 잊어 버리다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Núi Seorak nổi tiếng với cảnh sắc tuyệt đẹp.",
+   "kr": "설악산은 경치가 ___ 유명해요.",
+   "options": [
+    "빼어나기로",
+    "신비롭기로",
+    "손이 닿기로"
+   ],
+   "answer": "빼어나기로",
+   "explain": "경치가 빼어나다; 기로 유명하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 버리다 (quá khứ) với 쓰다: Tôi tiêu hết sạch tiền ngay ngày đầu.",
+   "kr": "여행비를 첫날에 다 ___.",
+   "answer": [
+    "써 버렸어요",
+    "써버렸어요"
+   ],
+   "explain": "쓰다 → 써 버렸어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 버리다 (quá khứ) với 먹다: Em tôi ăn hết bánh của tôi mất rồi.",
+   "kr": "동생이 제 케이크를 다 ___.",
+   "answer": [
+    "먹어 버렸어요",
+    "먹어버렸어요"
+   ],
+   "explain": "먹다 → 먹어 버렸어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hướng dẫn viên đón khách tại sân bay.",
+   "kr": "가이드가 손님들을 공항에서 ___했어요.",
+   "answer": [
+    "영접"
+   ],
+   "explain": "영접하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đi công tác xong phải viết báo cáo.",
+   "kr": "출장이 끝나면 ___를 작성해야 해요.",
+   "answer": [
+    "보고서"
+   ],
+   "explain": "보고서를 작성하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Viết xong báo cáo hôm nay nên nhẹ nhõm.",
+   "tokens": [
+    "보고서를",
+    "오늘",
+    "다",
+    "작성해",
+    "버려서",
+    "마음이",
+    "편해요"
+   ],
+   "answer": "보고서를 오늘 다 작성해 버려서 마음이 편해요",
+   "explain": "아/어 버려서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hòn đảo này là nơi chưa bị con người tác động.",
+   "tokens": [
+    "이",
+    "섬은",
+    "아직",
+    "사람의",
+    "손이",
+    "닿지",
+    "않은",
+    "곳이에요"
+   ],
+   "answer": "이 섬은 아직 사람의 손이 닿지 않은 곳이에요",
+   "explain": "손이 닿지 않다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi quên mất tên khách sạn rồi. (dùng 아/어 버리다)",
+   "answer": [
+    "호텔 이름을 잊어버렸어요.",
+    "호텔 이름을 잊어 버렸어요.",
+    "호텔 이름을 까먹어 버렸어요."
+   ],
+   "explain": "잊어버리다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi nhận bản đồ miễn phí ở quầy thông tin du lịch.",
+   "answer": [
+    "관광 안내소에서 무료 지도를 받았어요.",
+    "관광 안내소에서 지도를 무료로 받았어요."
+   ],
+   "explain": "관광 안내소."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hồ phủ sương trông thật huyền bí.",
+   "answer": [
+    "안개 낀 호수가 정말 신비로워요.",
+    "안개 낀 호수가 아주 신비로워요.",
+    "안개가 낀 호수가 정말 신비로워요."
+   ],
+   "explain": "신비롭다 → 신비로워요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "여행 가이드는 여행경로를 정하고 일정을 짜는 일부터 공항에서 손님을 영접하고 인솔하는 일까지 한다. 여행이 끝나면 비용을 정산하고 보고서를 작성해야 한다.",
+   "answer": "Hướng dẫn viên du lịch làm từ việc định lộ trình, lên lịch trình cho đến việc đón khách ở sân bay và dẫn đoàn. Khi chuyến đi kết thúc thì phải quyết toán chi phí và viết báo cáo.",
+   "explain": "N부터 N까지."
+  },
+  {
+   "type": "read",
+   "q": "Nghe phỏng vấn và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "기자: 문화유산 해설사는 어떤 일을 하십니까?\n해설사: 관광객들에게 문화유산의 역사와 의미를 설명하는 일을 합니다. 단순히 외운 내용을 말해 버리는 것이 아니라 관광객의 나이와 관심에 맞춰 이야기를 들려주는 것이 중요합니다. 그래서 저는 매주 새로운 자료를 찾아 공부하고 있습니다.",
+   "options": [
+    "해설사는 관광객에 맞춰 설명하는 것이 중요하다고 한다.",
+    "해설사는 외운 내용만 말한다.",
+    "해설사는 공부를 하지 않는다.",
+    "해설사는 공항에서 일한다."
+   ],
+   "answer": "해설사는 관광객에 맞춰 설명하는 것이 중요하다고 한다.",
+   "explain": "나이와 관심에 맞춰 … 중요합니다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "회사 단합 대회를 위해 조용하고 경치가 좋은 여행지를 <물색하고> 있다.",
+   "options": [
+    "찾고",
+    "정산하고",
+    "인솔하고",
+    "작성하고"
+   ],
+   "answer": "찾고",
+   "explain": "물색하다 = tìm kiếm."
+  }
+ ]
+}

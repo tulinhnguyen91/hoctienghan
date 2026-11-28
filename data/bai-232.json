@@ -1,0 +1,403 @@
+{
+ "id": "bai-232",
+ "lesson": "Bài 232",
+ "title": "Di sản văn hóa Hàn Quốc (phần 4/4)",
+ "krTitle": "한국의 문화유산 4",
+ "date": "2027-10-23",
+ "day": 339,
+ "source": "TOPIK 6 – Bài 5: Di sản văn hóa Hàn Quốc (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "소멸되다",
+   "Somyeoldoeda",
+   "Bị mai một, bị tiêu tan, bị mất đi",
+   "많은 전통 기술이 소멸되고 있어요.",
+   "Nhiều kỹ thuật truyền thống đang dần mai một."
+  ],
+  [
+   "소제",
+   "Soje",
+   "Sự quét dọn, làm sạch",
+   "매년 봄에 궁궐 소제를 해요.",
+   "Mỗi mùa xuân đều quét dọn cung điện."
+  ],
+  [
+   "시대적",
+   "Sidaejeok",
+   "Mang tính thời đại",
+   "이 그림은 시대적 의미가 커요.",
+   "Bức tranh này có ý nghĩa thời đại lớn."
+  ],
+  [
+   "악귀",
+   "Akgwi",
+   "Ác quỷ",
+   "옛날 사람들은 악귀를 쫓으려고 탈을 썼어요.",
+   "Người xưa đeo mặt nạ để xua đuổi ác quỷ."
+  ],
+  [
+   "왕족",
+   "Wangjok",
+   "Vương tộc",
+   "이 궁궐에는 왕족이 살았어요.",
+   "Hoàng tộc đã sống trong cung điện này."
+  ],
+  [
+   "용왕",
+   "Yongwang",
+   "Long vương",
+   "어부들은 용왕에게 풍어를 빌었어요.",
+   "Ngư dân cầu Long vương cho được mùa cá."
+  ],
+  [
+   "의례",
+   "Uirye",
+   "Nghi lễ",
+   "종묘에서는 전통 의례가 열려요.",
+   "Ở Jongmyo tổ chức nghi lễ truyền thống."
+  ],
+  [
+   "자긍심",
+   "Jageungsim",
+   "Lòng tự hào",
+   "한국인은 한글에 자긍심을 가지고 있어요.",
+   "Người Hàn tự hào về Hangeul."
+  ],
+  [
+   "자연 친화적",
+   "Jayeon chinhwajeok",
+   "Mang tính gần gũi với thiên nhiên",
+   "한옥은 자연 친화적인 집이에요.",
+   "Hanok là ngôi nhà thân thiện với thiên nhiên."
+  ],
+  [
+   "재정적",
+   "Jaejeongjeok",
+   "Về mặt tài chính",
+   "문화재 보존에는 재정적 지원이 필요해요.",
+   "Bảo tồn di sản cần sự hỗ trợ về tài chính."
+  ],
+  [
+   "정자",
+   "Jeongja",
+   "Đình, chòi nghỉ mát",
+   "정자에 앉아서 경치를 감상했어요.",
+   "Ngồi ở đình ngắm cảnh."
+  ],
+  [
+   "좌우하다",
+   "Jwauhada",
+   "Ảnh hưởng, tác động, làm xoay chuyển",
+   "날씨가 농사를 좌우해요.",
+   "Thời tiết chi phối việc làm nông."
+  ],
+  [
+   "총체",
+   "Chongche",
+   "Tổng thể",
+   "판소리는 한국 문화의 총체를 보여 줘요.",
+   "Pansori thể hiện tổng thể văn hóa Hàn Quốc."
+  ],
+  [
+   "춤사위",
+   "Chumsawi",
+   "Động tác múa dân tộc",
+   "탈춤의 춤사위가 정말 재미있어요.",
+   "Động tác múa mặt nạ thật thú vị."
+  ],
+  [
+   "충족시키다",
+   "Chungjoksikida",
+   "Đáp ứng",
+   "이 박물관은 관람객의 요구를 충족시켰어요.",
+   "Bảo tàng này đã đáp ứng nhu cầu khách tham quan."
+  ],
+  [
+   "탁월하다",
+   "Tagwolhada",
+   "Tuyệt vời, xuất chúng",
+   "그는 탁월한 건축가였어요.",
+   "Ông ấy là kiến trúc sư xuất chúng."
+  ],
+  [
+   "토종개",
+   "Tojonggae",
+   "Chó ta, chó thuần giống Hàn",
+   "진돗개는 대표적인 토종개예요.",
+   "Chó Jindo là giống chó bản địa tiêu biểu."
+  ],
+  [
+   "톡톡히",
+   "Toktoki",
+   "Một cách đáng kể, ra trò",
+   "이번 축제로 지역 홍보 효과를 톡톡히 봤어요.",
+   "Lễ hội lần này đã đem lại hiệu quả quảng bá địa phương ra trò."
+  ],
+  [
+   "풍어",
+   "Pungeo",
+   "Mẻ cá to, mẻ lưới đầy cá",
+   "올해는 풍어라서 어부들이 기뻐해요.",
+   "Năm nay được mùa cá nên ngư dân vui mừng."
+  ],
+  [
+   "풍작",
+   "Pungjak",
+   "Vụ mùa bội thu, sự được mùa",
+   "비가 적당히 와서 풍작이 될 것 같아요.",
+   "Mưa vừa đủ nên có vẻ sẽ được mùa."
+  ],
+  [
+   "필사본",
+   "Pilsabon",
+   "Bản viết tay, bản thảo",
+   "박물관에 동의보감 필사본이 있어요.",
+   "Bảo tàng có bản chép tay Đông y bảo giám."
+  ],
+  [
+   "협약국",
+   "Hyeobyakguk",
+   "Nước tham gia công ước",
+   "유네스코 협약국들이 회의를 열었어요.",
+   "Các nước thành viên công ước UNESCO đã mở hội nghị."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ 법하다 — Lẽ ra, hợp lý",
+   "meaning": "Nhận định rằng một việc CÓ KHẢ NĂNG XẢY RA hoặc là HỢP LÝ, đương nhiên theo tình huống: 'có vẻ sẽ…, rất có thể…, lẽ ra (đáng lẽ)…, cũng phải thôi'. Chia: có patchim → 을 법하다 (있을 법하다); không patchim/ㄹ → ㄹ 법하다 (화날 법하다, 알 법하다). Quá khứ: (으)ㄹ 법했다 — 'đáng lẽ đã…' hoặc 'lẽ ra… (mà không)': 연락이 올 법한데 아직 안 와요 (lẽ ra phải có liên lạc rồi mà chưa thấy). Mẫu hay gặp: (으)ㄹ 법한 이야기 (câu chuyện nghe hợp lý), 있을 법한 일 (chuyện có thể xảy ra), 그럴 법하다 (cũng phải thôi). Khác (으)ㄴ/는 법이다 (Bài 179 – quy luật 'vốn dĩ'): (으)ㄹ 법하다 = phán đoán khả năng/hợp lý trong tình huống cụ thể.",
+   "examples": [
+    "그렇게 오래 기다렸으면 화가 날 법해요. — Đợi lâu như vậy thì nổi giận cũng phải thôi.",
+    "이 정도 설명이면 누구나 이해할 법한데요. — Giải thích đến mức này thì lẽ ra ai cũng hiểu được.",
+    "그 이야기는 실제로 있을 법한 일이에요. — Câu chuyện đó là chuyện có thể xảy ra thật.",
+    "벌써 도착할 법한데 아직 안 왔어요. — Lẽ ra đã đến rồi mà vẫn chưa tới."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Năm được nhiều cá gọi là gì?",
+   "kr": "",
+   "options": [
+    "풍어",
+    "풍작",
+    "필사본"
+   ],
+   "answer": "풍어",
+   "explain": "풍(phong phú) + 어(cá)."
+  },
+  {
+   "type": "choice",
+   "q": "Năm được mùa lúa, mùa màng bội thu gọi là gì?",
+   "kr": "",
+   "options": [
+    "풍작",
+    "풍어",
+    "소제"
+   ],
+   "answer": "풍작",
+   "explain": "풍작."
+  },
+  {
+   "type": "choice",
+   "q": "Bản sách chép tay gọi là gì?",
+   "kr": "",
+   "options": [
+    "필사본",
+    "협약국",
+    "춤사위"
+   ],
+   "answer": "필사본",
+   "explain": "필사 = chép tay."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhiều kỹ thuật truyền thống đang mai một.",
+   "kr": "많은 전통 기술이 ___고 있어요.",
+   "options": [
+    "소멸되",
+    "충족되",
+    "좌우되"
+   ],
+   "answer": "소멸되",
+   "explain": "소멸되다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Đợi lâu như vậy thì nổi giận cũng phải thôi.'",
+   "kr": "",
+   "options": [
+    "그렇게 오래 기다렸으면 화가 날 법해요.",
+    "그렇게 오래 기다렸으면 화가 나는 법해요.",
+    "그렇게 오래 기다렸으면 화가 난 법이에요."
+   ],
+   "answer": "그렇게 오래 기다렸으면 화가 날 법해요.",
+   "explain": "(으)ㄹ 법하다."
+  },
+  {
+   "type": "choice",
+   "q": "'벌써 도착할 법한데 아직 안 왔어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Lẽ ra đã đến rồi mà vẫn chưa tới.",
+    "Đã đến từ lâu rồi.",
+    "Sẽ không bao giờ đến."
+   ],
+   "answer": "Lẽ ra đã đến rồi mà vẫn chưa tới.",
+   "explain": "(으)ㄹ 법한데 = lẽ ra… mà."
+  },
+  {
+   "type": "choice",
+   "q": "Phân biệt: Câu nào diễn tả QUY LUẬT chung (vốn dĩ)?",
+   "kr": "",
+   "options": [
+    "누구나 처음에는 실수하는 법이에요.",
+    "그 사람은 실수할 법해요.",
+    "실수할 법한 문제예요."
+   ],
+   "answer": "누구나 처음에는 실수하는 법이에요.",
+   "explain": "는 법이다 = quy luật; (으)ㄹ 법하다 = khả năng/hợp lý."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hanok là ngôi nhà thân thiện với thiên nhiên.",
+   "kr": "한옥은 ___ 집이에요.",
+   "options": [
+    "자연 친화적인",
+    "재정적인",
+    "시대적인"
+   ],
+   "answer": "자연 친화적인",
+   "explain": "자연 친화적."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 법하다 với 이해하다: Giải thích thế này thì lẽ ra ai cũng hiểu.",
+   "kr": "이 정도 설명이면 누구나 ___데요.",
+   "answer": [
+    "이해할 법한"
+   ],
+   "explain": "이해할 법한데요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 법하다 với 있다: Đó là chuyện có thể xảy ra thật.",
+   "kr": "그 이야기는 실제로 ___ 일이에요.",
+   "answer": [
+    "있을 법한"
+   ],
+   "explain": "있을 법한."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Người xưa đeo mặt nạ để xua đuổi ác quỷ.",
+   "kr": "옛날 사람들은 ___를 쫓으려고 탈을 썼어요.",
+   "answer": [
+    "악귀"
+   ],
+   "explain": "악귀."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ông ấy là kiến trúc sư xuất chúng.",
+   "kr": "그는 ___ 건축가였어요.",
+   "answer": [
+    "탁월한"
+   ],
+   "explain": "탁월하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Lẽ ra đã đến rồi mà vẫn chưa tới.",
+   "tokens": [
+    "벌써",
+    "도착할",
+    "법한데",
+    "아직",
+    "안",
+    "왔어요"
+   ],
+   "answer": "벌써 도착할 법한데 아직 안 왔어요",
+   "explain": "(으)ㄹ 법한데."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngư dân cầu Long vương cho được mùa cá.",
+   "tokens": [
+    "어부들은",
+    "용왕에게",
+    "풍어를",
+    "빌었어요"
+   ],
+   "answer": "어부들은 용왕에게 풍어를 빌었어요",
+   "explain": "N에게 빌다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bị mắng như vậy thì buồn cũng phải thôi. (dùng (으)ㄹ 법하다)",
+   "answer": [
+    "그렇게 혼났으면 속상할 법해요.",
+    "그렇게 혼나면 슬플 법해요.",
+    "그렇게 혼났으면 기분이 나쁠 법해요.",
+    "그렇게 혼났으면 슬플 법해요."
+   ],
+   "explain": "(으)ㄹ 법하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bảo tồn di sản cần hỗ trợ về tài chính.",
+   "answer": [
+    "문화재 보존에는 재정적 지원이 필요해요.",
+    "문화재 보존에는 재정적인 지원이 필요해요."
+   ],
+   "explain": "재정적."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chó Jindo là giống chó bản địa tiêu biểu.",
+   "answer": [
+    "진돗개는 대표적인 토종개예요.",
+    "진돗개는 한국의 대표적인 토종개예요."
+   ],
+   "explain": "토종개."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "옛날 어촌에서는 풍어를 빌고 악귀를 쫓기 위해 용왕에게 제사를 지냈다. 이러한 의례는 마을 사람들을 하나로 묶어 주는 역할도 톡톡히 했다.",
+   "answer": "Ngày xưa ở làng chài, người ta cúng Long vương để cầu được mùa cá và xua đuổi ác quỷ. Những nghi lễ như vậy cũng đóng vai trò gắn kết người trong làng thành một khối một cách rõ rệt.",
+   "explain": "기 위해; 톡톡히."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "남자: 와, 이 정자에서 보는 경치가 정말 좋네요.\n여자: 그렇죠? 옛날 선비들이 여기서 시를 지었을 법해요.\n남자: 우리도 잠깐 앉아서 쉬었다 가요.",
+   "options": [
+    "두 사람이 정자에서 경치를 보고 있다.",
+    "두 사람이 시를 쓰고 있다.",
+    "두 사람이 배를 타고 있다.",
+    "두 사람이 박물관 안에 있다."
+   ],
+   "answer": "두 사람이 정자에서 경치를 보고 있다.",
+   "explain": "이 정자에서 보는 경치."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "풍어와 풍작을 기원합니다!\n바다의 신께 올리는 전통 의례, 함께해요.\n○○ 어촌 마을 축제 (5월 5일)",
+   "options": [
+    "전통 축제",
+    "수산물 판매",
+    "배 여행",
+    "농산물 할인"
+   ],
+   "answer": "전통 축제",
+   "explain": "전통 의례 … 마을 축제."
+  }
+ ]
+}

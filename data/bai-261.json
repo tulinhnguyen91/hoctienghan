@@ -1,0 +1,382 @@
+{
+ "id": "bai-261",
+ "lesson": "Bài 261",
+ "title": "Con người và thiên nhiên (phần 3/5)",
+ "krTitle": "인간과 자연 3",
+ "date": "2027-12-05",
+ "day": 382,
+ "source": "TOPIK 6 – Bài 12: Con người và thiên nhiên (phần 3/5)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "쓰나미",
+   "Sseunami",
+   "Sóng thần, tsunami",
+   "지진 후에 쓰나미가 해안을 덮쳤어요.",
+   "Sau động đất, sóng thần đã ập vào bờ biển."
+  ],
+  [
+   "태풍",
+   "Taepung",
+   "Bão",
+   "태풍이 남해안에 상륙했어요.",
+   "Bão đã đổ bộ vào bờ biển phía Nam."
+  ],
+  [
+   "경보를 발령하다",
+   "Gyeongboreul ballyeonghada",
+   "Đưa ra lời cảnh báo",
+   "기상청이 폭우 경보를 발령했어요.",
+   "Cục khí tượng đã phát cảnh báo mưa lớn."
+  ],
+  [
+   "견고하다",
+   "Gyeongohada",
+   "Kiên cố",
+   "이 다리는 아주 견고하게 지었어요.",
+   "Cây cầu này được xây rất kiên cố."
+  ],
+  [
+   "경험담",
+   "Gyeongheomdam",
+   "Câu chuyện kinh nghiệm",
+   "할아버지의 전쟁 경험담을 들었어요.",
+   "Tôi đã nghe chuyện kinh nghiệm chiến tranh của ông."
+  ],
+  [
+   "고리타분함",
+   "Goritabunham",
+   "Sự cổ hủ, lạc hậu",
+   "그 영화는 고리타분함 없이 전통을 재미있게 보여 줘요.",
+   "Bộ phim đó thể hiện truyền thống thú vị, không hề cổ hủ."
+  ],
+  [
+   "광택",
+   "Gwangtaek",
+   "Sự sáng bóng",
+   "나무 가구에 광택이 나요.",
+   "Đồ gỗ sáng bóng."
+  ],
+  [
+   "귀틀집",
+   "Gwiteuljip",
+   "Nhà nhỏ làm bằng cây gỗ ghép",
+   "산골 사람들은 귀틀집에서 살았어요.",
+   "Người miền núi từng sống trong nhà gỗ ghép."
+  ],
+  [
+   "극존칭",
+   "Geukjonching",
+   "Kính ngữ cao nhất",
+   "옛날에는 왕에게 극존칭을 썼어요.",
+   "Ngày xưa dùng kính ngữ cao nhất với vua."
+  ],
+  [
+   "길하다",
+   "Gilhada",
+   "May mắn",
+   "꿈에 돼지를 보면 길하다고 해요.",
+   "Người ta nói mơ thấy lợn là điềm lành."
+  ],
+  [
+   "껴입다",
+   "Kkyeoipda",
+   "Mặc chồng lên",
+   "추워서 옷을 여러 겹 껴입었어요.",
+   "Lạnh nên tôi mặc chồng nhiều lớp áo."
+  ],
+  [
+   "너와",
+   "Neowa",
+   "Ván lợp nhà",
+   "너와는 나무를 얇게 잘라 만든 지붕 재료예요.",
+   "Neowa là vật liệu lợp mái làm bằng gỗ cắt mỏng."
+  ],
+  [
+   "너와집",
+   "Neowajip",
+   "Nhà lợp ván",
+   "강원도 산골에는 너와집이 남아 있어요.",
+   "Vùng núi Gangwon vẫn còn nhà lợp ván gỗ."
+  ],
+  [
+   "단열",
+   "Danyeol",
+   "Sự cách nhiệt",
+   "이 집은 단열이 잘돼서 겨울에도 따뜻해요.",
+   "Ngôi nhà này cách nhiệt tốt nên mùa đông cũng ấm."
+  ],
+  [
+   "당도",
+   "Dangdo",
+   "Độ ngọt; sự đến nơi",
+   "이 사과는 당도가 높아요.",
+   "Táo này có độ ngọt cao."
+  ],
+  [
+   "대대손손",
+   "Daedaesonson",
+   "Nhiều đời",
+   "이 땅은 대대손손 농사를 지어 온 곳이에요.",
+   "Mảnh đất này là nơi bao đời làm nông."
+  ],
+  [
+   "대비하다",
+   "Daebihada",
+   "Chuẩn bị đối phó",
+   "태풍에 미리 대비해야 피해를 줄일 수 있어요.",
+   "Phải chuẩn bị đối phó bão trước mới giảm thiệt hại."
+  ],
+  [
+   "대청마루",
+   "Daecheongmaru",
+   "Sảnh có sàn gỗ (giữa hai phòng của nhà truyền thống Hàn)",
+   "여름에는 대청마루에 앉아 쉬었어요.",
+   "Mùa hè ngồi nghỉ trên sảnh sàn gỗ."
+  ],
+  [
+   "동반",
+   "Dongban",
+   "Sự song hành, sự đồng hành, sự cùng nhau",
+   "이번 태풍은 강한 비를 동반했어요.",
+   "Cơn bão lần này kèm theo mưa lớn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 거니와 — Hơn nữa",
+   "meaning": "THỪA NHẬN vế trước rồi THÊM một ý cùng chiều (thường mạnh hơn) ở vế sau: 'không những… mà còn…, đã… lại còn…, hơn nữa…'. Văn VIẾT / trang trọng. Gắn thẳng vào thân: 견고하다 → 견고하거니와, 아름답다 → 아름답거니와, 있다 → 있거니와; quá khứ → 았/었거니와; danh từ → (이)거니와. Vế sau thường có 도 / 또한. Ví dụ: 이 집은 단열도 잘되거니와 햇빛도 잘 들어요 (nhà này đã cách nhiệt tốt lại còn nhiều nắng). Cách dùng thứ 2 (ít gặp): thừa nhận điều người khác nói đúng (= 지만): 말씀은 고맙거니와 사양하겠습니다 (cảm ơn lời ông, nhưng tôi xin từ chối). Gần nghĩa: (으)ㄹ뿐더러 (Bài 237), (으)ㄹ 뿐만 아니라; 거니와 văn chương hơn.",
+   "examples": [
+    "한옥은 아름답거니와 자연과도 잘 어울려요. — Hanok không những đẹp mà còn hòa hợp với thiên nhiên.",
+    "이 지역은 태풍도 잦거니와 지진도 자주 일어나요. — Vùng này đã hay có bão lại còn thường động đất.",
+    "너와집은 짓기도 쉽거니와 단열 효과도 뛰어나요. — Nhà lợp ván không những dễ xây mà còn cách nhiệt xuất sắc.",
+    "그는 실력도 좋거니와 성격도 좋아서 인기가 많아요. — Anh ấy giỏi lại còn tính tốt nên được nhiều người yêu mến."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Sóng lớn do động đất dưới đáy biển gọi là gì?",
+   "kr": "",
+   "options": [
+    "쓰나미",
+    "태풍",
+    "홍수"
+   ],
+   "answer": "쓰나미",
+   "explain": "tsunami."
+  },
+  {
+   "type": "choice",
+   "q": "Đưa ra cảnh báo (thiên tai) gọi là gì?",
+   "kr": "",
+   "options": [
+    "경보를 발령하다",
+    "대비하다",
+    "동반하다"
+   ],
+   "answer": "경보를 발령하다",
+   "explain": "발령 = ban bố."
+  },
+  {
+   "type": "choice",
+   "q": "Ngăn nhiệt truyền qua (giữ ấm) gọi là gì?",
+   "kr": "",
+   "options": [
+    "단열",
+    "광택",
+    "당도"
+   ],
+   "answer": "단열",
+   "explain": "단열 = cách nhiệt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lạnh nên mặc chồng nhiều lớp.",
+   "kr": "추워서 옷을 여러 겹 ___.",
+   "options": [
+    "껴입었어요",
+    "대비했어요",
+    "동반했어요"
+   ],
+   "answer": "껴입었어요",
+   "explain": "껴입다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Hanok không những đẹp mà còn hòa hợp thiên nhiên.'",
+   "kr": "",
+   "options": [
+    "한옥은 아름답거니와 자연과도 잘 어울려요.",
+    "한옥은 아름다운거니와 자연과도 잘 어울려요.",
+    "한옥은 아름답거니와 자연과 안 어울려요."
+   ],
+   "answer": "한옥은 아름답거니와 자연과도 잘 어울려요.",
+   "explain": "A거니와 + vế cùng chiều (도)."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với 거니와?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ뿐더러",
+    "(으)나 마나",
+    "기 일쑤이다"
+   ],
+   "answer": "(으)ㄹ뿐더러",
+   "explain": "Không chỉ… mà còn."
+  },
+  {
+   "type": "choice",
+   "q": "Vế sau của 거니와 thường có trợ từ nào?",
+   "kr": "",
+   "options": [
+    "도",
+    "만",
+    "부터"
+   ],
+   "answer": "도",
+   "explain": "도 = cũng (thêm ý)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cây cầu được xây rất kiên cố.",
+   "kr": "이 다리는 아주 ___ 지었어요.",
+   "options": [
+    "견고하게",
+    "길하게",
+    "광택 나게"
+   ],
+   "answer": "견고하게",
+   "explain": "견고하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 거니와 với 잦다: Vùng này đã hay có bão lại còn thường động đất.",
+   "kr": "이 지역은 태풍도 ___ 지진도 자주 일어나요.",
+   "answer": [
+    "잦거니와"
+   ],
+   "explain": "잦거니와."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 거니와 với 쉽다: Không những dễ xây mà còn cách nhiệt tốt.",
+   "kr": "너와집은 짓기도 ___ 단열 효과도 뛰어나요.",
+   "answer": [
+    "쉽거니와"
+   ],
+   "explain": "쉽거니와."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Táo này có độ ngọt cao.",
+   "kr": "이 사과는 ___가 높아요.",
+   "answer": [
+    "당도"
+   ],
+   "explain": "당도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cơn bão kèm theo mưa lớn.",
+   "kr": "이번 태풍은 강한 비를 ___했어요.",
+   "answer": [
+    "동반"
+   ],
+   "explain": "동반하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Anh ấy giỏi lại còn tính tốt.",
+   "tokens": [
+    "그는",
+    "실력도",
+    "좋거니와",
+    "성격도",
+    "좋아요"
+   ],
+   "answer": "그는 실력도 좋거니와 성격도 좋아요",
+   "explain": "거니와."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cục khí tượng đã phát cảnh báo mưa lớn.",
+   "tokens": [
+    "기상청이",
+    "폭우",
+    "경보를",
+    "발령했어요"
+   ],
+   "answer": "기상청이 폭우 경보를 발령했어요",
+   "explain": "경보를 발령하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Quán này không những ngon mà còn rẻ. (dùng 거니와)",
+   "answer": [
+    "이 식당은 맛있거니와 값도 싸요.",
+    "이 식당은 맛도 있거니와 가격도 싸요.",
+    "이 식당은 맛있거니와 싸기도 해요.",
+    "이 식당은 음식이 맛있거니와 값도 싸요."
+   ],
+   "explain": "거니와 + 도."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ngôi nhà này cách nhiệt tốt nên mùa đông cũng ấm.",
+   "answer": [
+    "이 집은 단열이 잘돼서 겨울에도 따뜻해요.",
+    "이 집은 단열이 잘되어서 겨울에도 따뜻해요."
+   ],
+   "explain": "단열이 잘되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã nghe chuyện kinh nghiệm của ông.",
+   "answer": [
+    "할아버지의 경험담을 들었어요.",
+    "할아버지께서 경험담을 들려주셨어요.",
+    "할아버지의 경험담을 들었습니다."
+   ],
+   "explain": "경험담."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "강원도 산간 지방의 너와집은 주변에서 쉽게 구할 수 있는 나무로 지었다. 너와집은 짓기도 쉽거니와 나무 사이로 연기가 빠져나가 겨울에도 쾌적하게 지낼 수 있었다.",
+   "answer": "Nhà lợp ván ở vùng núi Gangwon được xây bằng gỗ dễ kiếm quanh vùng. Nhà lợp ván không những dễ xây mà khói còn thoát qua khe gỗ nên mùa đông vẫn sống dễ chịu.",
+   "explain": "거니와."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 태풍 경보가 발령되었는데 그냥 집에 있으면 괜찮겠죠?\n여자: 집에 있는 것도 중요하지만 미리 대비하는 게 더 중요해요. 창문에 테이프를 붙이고, 비상식량과 손전등도 준비해 두세요. 큰 피해는 대부분 준비가 부족해서 생기거든요.",
+   "options": [
+    "태풍에 미리 대비하는 것이 중요하다.",
+    "태풍 때는 밖에 나가야 한다.",
+    "준비는 필요 없다.",
+    "창문을 열어 두어야 한다."
+   ],
+   "answer": "태풍에 미리 대비하는 것이 중요하다.",
+   "explain": "미리 대비하는 게 더 중요해요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "이 건물은 지진에도 무너지지 않을 만큼 <견고하게> 지어졌다.",
+   "options": [
+    "튼튼하게",
+    "약하게",
+    "화려하게",
+    "빠르게"
+   ],
+   "answer": "튼튼하게",
+   "explain": "견고하다 = 튼튼하다."
+  }
+ ]
+}

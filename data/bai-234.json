@@ -1,0 +1,415 @@
+{
+ "id": "bai-234",
+ "lesson": "Bài 234",
+ "title": "Giao lưu quốc tế (phần 2/4)",
+ "krTitle": "국제 교류 2",
+ "date": "2027-10-26",
+ "day": 342,
+ "source": "TOPIK 6 – Bài 6: Giao lưu quốc tế (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "대표부",
+   "Daepyobu",
+   "Phái đoàn đại diện",
+   "한국은 유엔에 대표부를 두고 있어요.",
+   "Hàn Quốc có phái đoàn đại diện tại Liên Hợp Quốc."
+  ],
+  [
+   "참사관",
+   "Chamsagwan",
+   "Tham tán",
+   "대사관 참사관이 회의에 참석했어요.",
+   "Tham tán đại sứ quán đã tham dự cuộc họp."
+  ],
+  [
+   "총영사관",
+   "Chongyeongsagwan",
+   "Tổng lãnh sự quán",
+   "호찌민에는 한국 총영사관이 있어요.",
+   "Ở TP. Hồ Chí Minh có Tổng lãnh sự quán Hàn Quốc."
+  ],
+  [
+   "총영사",
+   "Chongyeongsa",
+   "Tổng lãnh sự",
+   "총영사가 교민들을 만났어요.",
+   "Tổng lãnh sự đã gặp gỡ kiều bào."
+  ],
+  [
+   "영사관",
+   "Yeongsagwan",
+   "Lãnh sự quán",
+   "여권을 잃어버려서 영사관에 갔어요.",
+   "Mất hộ chiếu nên tôi đã đến lãnh sự quán."
+  ],
+  [
+   "공사",
+   "Gongsa",
+   "Công sứ",
+   "공사는 대사 다음 직급이에요.",
+   "Công sứ là cấp bậc sau đại sứ."
+  ],
+  [
+   "국제연합",
+   "Gukjeyeonhap",
+   "Liên hợp quốc (UN)",
+   "국제연합은 1945년에 만들어졌어요.",
+   "Liên Hợp Quốc được thành lập năm 1945."
+  ],
+  [
+   "유럽공동체",
+   "Yureopgongdongche",
+   "Liên minh châu Âu (EU)",
+   "유럽공동체 국가들은 같은 화폐를 써요.",
+   "Các nước Liên minh châu Âu dùng chung một đồng tiền."
+  ],
+  [
+   "국제올림픽위원회",
+   "Gukjeollimpigwiwonhoe",
+   "Ủy ban Olympic quốc tế (IOC)",
+   "국제올림픽위원회가 개최 도시를 발표했어요.",
+   "Ủy ban Olympic quốc tế đã công bố thành phố đăng cai."
+  ],
+  [
+   "세계무역기구",
+   "Segyemuyeokgigu",
+   "Tổ chức thương mại thế giới (WTO)",
+   "베트남은 세계무역기구 회원국이에요.",
+   "Việt Nam là thành viên WTO."
+  ],
+  [
+   "석유수출국기구",
+   "Seogyusuchulgukgigu",
+   "Tổ chức các nước xuất khẩu dầu lửa (OPEC)",
+   "석유수출국기구가 석유 생산을 줄였어요.",
+   "OPEC đã cắt giảm sản lượng dầu."
+  ],
+  [
+   "아시아태평양공동체",
+   "Asiataepyeongyanggongdongche",
+   "Diễn đàn hợp tác kinh tế châu Á - Thái Bình Dương (APEC)",
+   "2017년 아시아태평양공동체 정상회의가 베트남에서 열렸어요.",
+   "Năm 2017 hội nghị APEC được tổ chức tại Việt Nam."
+  ],
+  [
+   "동남아시아국가연합",
+   "Dongnamasiagukgayeonhap",
+   "Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+   "베트남은 동남아시아국가연합의 회원국이에요.",
+   "Việt Nam là thành viên ASEAN."
+  ],
+  [
+   "국제통화기금",
+   "Gukjetonghwagigeum",
+   "Quỹ tiền tệ quốc tế (IMF)",
+   "1997년에 한국은 국제통화기금의 지원을 받았어요.",
+   "Năm 1997 Hàn Quốc nhận hỗ trợ của IMF."
+  ],
+  [
+   "선진국경제협력기구",
+   "Seonjingukgyeongjehyeomnyeokgigu",
+   "Tổ chức hợp tác và phát triển kinh tế (OECD)",
+   "한국은 1996년에 선진국경제협력기구에 가입했어요.",
+   "Hàn Quốc gia nhập OECD năm 1996."
+  ],
+  [
+   "유상 원조",
+   "Yusang wonjo",
+   "Viện trợ có hoàn lại (vay ưu đãi)",
+   "유상 원조는 나중에 갚아야 해요.",
+   "Viện trợ có hoàn lại thì sau này phải trả."
+  ],
+  [
+   "협력 기금",
+   "Hyeomnyeong gigeum",
+   "Quỹ hợp tác",
+   "두 나라가 협력 기금을 만들었어요.",
+   "Hai nước đã lập quỹ hợp tác."
+  ],
+  [
+   "무상 원조",
+   "Musang wonjo",
+   "Trợ cấp, viện trợ không hoàn lại",
+   "무상 원조로 학교를 지었어요.",
+   "Đã xây trường bằng viện trợ không hoàn lại."
+  ],
+  [
+   "구호 기금",
+   "Guho gigeum",
+   "Quỹ cứu trợ",
+   "지진 피해 지역에 구호 기금을 보냈어요.",
+   "Đã gửi quỹ cứu trợ đến vùng bị động đất."
+  ],
+  [
+   "공적 원조",
+   "Gongjeong wonjo",
+   "Hỗ trợ chính thức",
+   "한국은 공적 원조를 늘리고 있어요.",
+   "Hàn Quốc đang tăng viện trợ chính thức (ODA)."
+  ],
+  [
+   "가속화",
+   "Gasokwa",
+   "Sự tăng tốc, gia tốc hóa",
+   "세계화가 가속화되고 있어요.",
+   "Toàn cầu hóa đang tăng tốc."
+  ],
+  [
+   "개도국",
+   "Gaedoguk",
+   "Nước đang phát triển",
+   "한국은 개도국에 기술을 전수하고 있어요.",
+   "Hàn Quốc đang chuyển giao công nghệ cho các nước đang phát triển."
+  ],
+  [
+   "개입하다",
+   "Gaeipada",
+   "Can thiệp, xen vào",
+   "다른 나라의 내정에 개입하면 안 돼요.",
+   "Không được can thiệp vào nội bộ nước khác."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 더라고(요) — Tôi thấy",
+   "meaning": "ÔN TẬP và MỞ RỘNG mẫu đã học ở Bài 123. Kể lại điều NGƯỜI NÓI ĐÃ TỰ MÌNH TRẢI NGHIỆM / QUAN SÁT trong quá khứ và nay thuật lại với cảm xúc mới mẻ: 'tôi thấy… đấy, hóa ra… đấy'. Gắn thẳng vào thân: 친절하다 → 친절하더라고요, 많다 → 많더라고요; quá khứ (hành động đã xong khi quan sát): 았/었더라고요 (벌써 끝났더라고요 – tôi thấy đã xong rồi); danh từ → (이)더라고요. MỞ RỘNG: ① Chủ ngữ thường KHÔNG phải 'tôi' (vì kể điều mình quan sát ở người khác). Khi nói về cảm giác của chính mình thì được: 저는 김치가 맵더라고요 (tôi thấy kimchi cay). ② Rút gọn khẩu ngữ: 더라고요 → 더라구요 (nói), 던데요 (Bài 86 – kể và chờ phản hồi). ③ Trong phỏng vấn TOPIK Nghe 31~50 rất hay xuất hiện: '현지에 가 보니까 … 더라고요.' So sánh 았/었어요 (kể sự thật trung tính) với 더라고요 (kể cảm nhận trực tiếp).",
+   "examples": [
+    "영사관에 가 보니까 직원들이 정말 친절하더라고요. — Đến lãnh sự quán tôi thấy nhân viên rất thân thiện.",
+    "베트남에 가 보니까 한국 기업이 정말 많더라고요. — Sang Việt Nam mới thấy doanh nghiệp Hàn nhiều thật.",
+    "회의장에 도착했더니 회의가 벌써 시작했더라고요. — Đến hội trường thì thấy cuộc họp đã bắt đầu rồi.",
+    "저는 처음에 한국 음식이 좀 맵더라고요. — Lúc đầu tôi thấy đồ ăn Hàn hơi cay."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "ASEAN tiếng Hàn là gì?",
+   "kr": "",
+   "options": [
+    "동남아시아국가연합",
+    "유럽공동체",
+    "국제연합"
+   ],
+   "answer": "동남아시아국가연합",
+   "explain": "동남아시아 = Đông Nam Á."
+  },
+  {
+   "type": "choice",
+   "q": "IMF tiếng Hàn là gì?",
+   "kr": "",
+   "options": [
+    "국제통화기금",
+    "세계무역기구",
+    "석유수출국기구"
+   ],
+   "answer": "국제통화기금",
+   "explain": "통화 = tiền tệ."
+  },
+  {
+   "type": "choice",
+   "q": "Viện trợ không phải hoàn trả gọi là gì?",
+   "kr": "",
+   "options": [
+    "무상 원조",
+    "유상 원조",
+    "협력 기금"
+   ],
+   "answer": "무상 원조",
+   "explain": "무상 = không phải trả."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không được can thiệp vào nội bộ nước khác.",
+   "kr": "다른 나라의 내정에 ___면 안 돼요.",
+   "options": [
+    "개입하",
+    "가속화하",
+    "가입하"
+   ],
+   "answer": "개입하",
+   "explain": "개입하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Đến lãnh sự quán tôi thấy nhân viên thân thiện.'",
+   "kr": "",
+   "options": [
+    "영사관에 가 보니까 직원들이 친절하더라고요.",
+    "영사관에 가 보니까 직원들이 친절했더니요.",
+    "영사관에 가 보니까 직원들이 친절하더라면요."
+   ],
+   "answer": "영사관에 가 보니까 직원들이 친절하더라고요.",
+   "explain": "A더라고요."
+  },
+  {
+   "type": "choice",
+   "q": "'도착했더니 회의가 벌써 시작했더라고요.' 시작했더라고요 nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Tôi thấy (khi đến) cuộc họp đã bắt đầu rồi",
+    "Cuộc họp sẽ bắt đầu",
+    "Tôi đã bắt đầu cuộc họp"
+   ],
+   "answer": "Tôi thấy (khi đến) cuộc họp đã bắt đầu rồi",
+   "explain": "았/었더라고요 = đã xong khi tôi quan sát."
+  },
+  {
+   "type": "choice",
+   "q": "더라고요 dùng khi nào?",
+   "kr": "",
+   "options": [
+    "Kể lại điều mình trực tiếp trải nghiệm, quan sát",
+    "Giả định ngược quá khứ",
+    "Ra lệnh"
+   ],
+   "answer": "Kể lại điều mình trực tiếp trải nghiệm, quan sát",
+   "explain": "Hồi tưởng trải nghiệm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Toàn cầu hóa đang tăng tốc.",
+   "kr": "세계화가 ___되고 있어요.",
+   "options": [
+    "가속화",
+    "개입",
+    "전수"
+   ],
+   "answer": "가속화",
+   "explain": "가속화되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 더라고요 với 많다: Sang Việt Nam mới thấy doanh nghiệp Hàn nhiều thật.",
+   "kr": "베트남에 가 보니까 한국 기업이 정말 ___.",
+   "answer": [
+    "많더라고요",
+    "많더라구요"
+   ],
+   "explain": "많더라고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 더라고요 với 시작하다 (quá khứ): Thấy cuộc họp đã bắt đầu rồi.",
+   "kr": "회의장에 도착했더니 회의가 벌써 ___.",
+   "answer": [
+    "시작했더라고요",
+    "시작됐더라고요"
+   ],
+   "explain": "았/었더라고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mất hộ chiếu nên tôi đến lãnh sự quán.",
+   "kr": "여권을 잃어버려서 ___에 갔어요.",
+   "answer": [
+    "영사관",
+    "총영사관",
+    "대사관"
+   ],
+   "explain": "영사관."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã gửi quỹ cứu trợ đến vùng bị động đất.",
+   "kr": "지진 피해 지역에 ___ 기금을 보냈어요.",
+   "answer": [
+    "구호"
+   ],
+   "explain": "구호 기금."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Lúc đầu tôi thấy đồ ăn Hàn hơi cay.",
+   "tokens": [
+    "저는",
+    "처음에",
+    "한국",
+    "음식이",
+    "좀",
+    "맵더라고요"
+   ],
+   "answer": "저는 처음에 한국 음식이 좀 맵더라고요",
+   "explain": "더라고요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hàn Quốc đang chuyển giao công nghệ cho nước đang phát triển.",
+   "tokens": [
+    "한국은",
+    "개도국에",
+    "기술을",
+    "전수하고",
+    "있어요"
+   ],
+   "answer": "한국은 개도국에 기술을 전수하고 있어요",
+   "explain": "전수하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đến Hà Nội tôi thấy xe máy nhiều thật. (dùng 더라고요)",
+   "answer": [
+    "하노이에 가 보니까 오토바이가 정말 많더라고요.",
+    "하노이에 가니까 오토바이가 정말 많더라고요.",
+    "하노이에 가 보니 오토바이가 진짜 많더라고요."
+   ],
+   "explain": "아/어 보니까 + 더라고요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Việt Nam là thành viên ASEAN.",
+   "answer": [
+    "베트남은 동남아시아국가연합의 회원국이에요.",
+    "베트남은 아세안 회원국이에요.",
+    "베트남은 동남아시아국가연합 회원국이에요."
+   ],
+   "explain": "회원국."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đã xây trường bằng viện trợ không hoàn lại.",
+   "answer": [
+    "무상 원조로 학교를 지었어요.",
+    "무상 원조로 학교를 세웠어요."
+   ],
+   "explain": "짓다 → 지었어요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국은 1990년대까지 다른 나라의 원조를 받는 나라였다. 그러나 지금은 개도국에 무상 원조와 기술을 제공하는 나라가 되었다. 실제로 현지에 가 보니 한국의 도움으로 지은 학교와 병원이 많더라.",
+   "answer": "Hàn Quốc cho đến thập niên 1990 vẫn là nước nhận viện trợ của nước khác. Nhưng giờ đã trở thành nước cung cấp viện trợ không hoàn lại và công nghệ cho các nước đang phát triển. Thực tế khi đến tận nơi, tôi thấy có nhiều trường học và bệnh viện được xây nhờ sự giúp đỡ của Hàn Quốc.",
+   "explain": "더라 (văn viết của 더라고요)."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 지난달에 해외 봉사 다녀왔다면서요? 어땠어요?\n남자: 캄보디아에 가서 학교를 짓는 일을 했어요. 처음에는 힘들었는데 아이들이 정말 좋아하더라고요. 그 웃는 얼굴을 보니까 피곤함이 싹 사라졌어요.\n여자: 정말 보람 있었겠네요.",
+   "options": [
+    "남자는 캄보디아에서 학교를 짓는 일을 했다.",
+    "남자는 봉사가 쉬웠다고 했다.",
+    "아이들은 학교를 싫어했다.",
+    "남자는 다음 달에 봉사를 간다."
+   ],
+   "answer": "남자는 캄보디아에서 학교를 짓는 일을 했다.",
+   "explain": "학교를 짓는 일을 했어요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "공적 원조에는 갚을 필요가 없는 무상 원조와 (     ) 유상 원조가 있다. 유상 원조는 보통 이자가 낮고 갚는 기간이 길어서 개도국의 경제 발전에 도움이 된다.",
+   "options": [
+    "나중에 돌려받는",
+    "절대 갚지 않는",
+    "물건으로만 주는",
+    "개인이 주는"
+   ],
+   "answer": "나중에 돌려받는",
+   "explain": "Ngược với 무상: phải trả lại → 돌려받는."
+  }
+ ]
+}

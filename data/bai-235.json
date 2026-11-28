@@ -1,0 +1,410 @@
+{
+ "id": "bai-235",
+ "lesson": "Bài 235",
+ "title": "Giao lưu quốc tế (phần 3/4)",
+ "krTitle": "국제 교류 3",
+ "date": "2027-10-27",
+ "day": 343,
+ "source": "TOPIK 6 – Bài 6: Giao lưu quốc tế (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "고용 우선 정책",
+   "Goyong useon jeongchaek",
+   "Chính sách ưu tiên tuyển dụng",
+   "정부는 청년 고용 우선 정책을 발표했어요.",
+   "Chính phủ công bố chính sách ưu tiên tuyển dụng thanh niên."
+  ],
+  [
+   "공존",
+   "Gongjon",
+   "Sự cộng sinh",
+   "인간과 자연의 공존이 필요해요.",
+   "Cần sự cùng tồn tại giữa con người và thiên nhiên."
+  ],
+  [
+   "공영",
+   "Gongyeong",
+   "Sự cùng thịnh vượng",
+   "아시아 국가들은 공동 번영과 공영을 목표로 해요.",
+   "Các nước châu Á hướng tới cùng thịnh vượng."
+  ],
+  [
+   "교리",
+   "Gyori",
+   "Giáo lý, học thuyết",
+   "종교마다 교리가 달라요.",
+   "Mỗi tôn giáo có giáo lý khác nhau."
+  ],
+  [
+   "국가 원수",
+   "Gukga wonsu",
+   "Nguyên thủ quốc gia",
+   "국가 원수들이 정상 회의에 모였어요.",
+   "Các nguyên thủ quốc gia tụ họp tại hội nghị thượng đỉnh."
+  ],
+  [
+   "글로벌 금융 안전 네트워크",
+   "Geullobeol geumyung anjeon neteuwokeu",
+   "Hệ thống an toàn tín dụng toàn cầu",
+   "글로벌 금융 안전 네트워크를 강화해야 해요.",
+   "Phải tăng cường mạng lưới an toàn tài chính toàn cầu."
+  ],
+  [
+   "글로벌화",
+   "Geullobeolhwa",
+   "Sự toàn cầu hóa",
+   "글로벌화로 세계가 가까워졌어요.",
+   "Nhờ toàn cầu hóa, thế giới trở nên gần nhau hơn."
+  ],
+  [
+   "내전",
+   "Naejeon",
+   "Nội chiến",
+   "내전으로 그 나라는 큰 피해를 입었어요.",
+   "Nước đó chịu thiệt hại lớn vì nội chiến."
+  ],
+  [
+   "냉전",
+   "Naengjeon",
+   "Chiến tranh lạnh",
+   "냉전은 1990년대 초에 끝났어요.",
+   "Chiến tranh lạnh kết thúc vào đầu thập niên 1990."
+  ],
+  [
+   "다방면",
+   "Dabangmyeon",
+   "Đa phương diện",
+   "두 나라는 다방면에서 협력하고 있어요.",
+   "Hai nước đang hợp tác trên nhiều phương diện."
+  ],
+  [
+   "대두되다",
+   "Daedudoeda",
+   "Được xuất hiện, được ra đời",
+   "환경 문제가 새로운 국제 문제로 대두되었어요.",
+   "Vấn đề môi trường nổi lên như một vấn đề quốc tế mới."
+  ],
+  [
+   "데탕트",
+   "Detangteu",
+   "Hòa hoãn (détente)",
+   "데탕트 시기에는 긴장이 줄어들었어요.",
+   "Trong thời kỳ hòa hoãn, căng thẳng giảm bớt."
+  ],
+  [
+   "물적 지원",
+   "Muljeong jiwon",
+   "Viện trợ vật chất",
+   "피해 지역에 물적 지원을 보냈어요.",
+   "Đã gửi hỗ trợ vật chất đến vùng bị thiệt hại."
+  ],
+  [
+   "미력",
+   "Miryeok",
+   "Sức mọn (lời khiêm tốn)",
+   "미력이나마 힘을 보태고 싶어요.",
+   "Dù sức mọn, tôi cũng muốn góp sức."
+  ],
+  [
+   "발언권",
+   "Bareongwon",
+   "Quyền phát ngôn",
+   "작은 나라도 국제 사회에서 발언권이 있어야 해요.",
+   "Nước nhỏ cũng phải có quyền phát ngôn trong cộng đồng quốc tế."
+  ],
+  [
+   "복구",
+   "Bokgu",
+   "Sự phục hồi, sự khôi phục",
+   "홍수 피해 복구에 한 달이 걸렸어요.",
+   "Khắc phục thiệt hại lũ lụt mất một tháng."
+  ],
+  [
+   "봉사단원",
+   "Bongsadanwon",
+   "Tình nguyện viên",
+   "해외 봉사단원으로 1년 동안 활동했어요.",
+   "Tôi hoạt động một năm với tư cách tình nguyện viên ở nước ngoài."
+  ],
+  [
+   "브릿지 사업",
+   "Beuritji saeop",
+   "Dự án cầu nối",
+   "두 나라 기업을 연결하는 브릿지 사업을 해요.",
+   "Tôi làm dự án cầu nối doanh nghiệp hai nước."
+  ],
+  [
+   "빈민",
+   "Binmin",
+   "Dân nghèo",
+   "도시의 빈민을 위한 지원이 필요해요.",
+   "Cần hỗ trợ cho dân nghèo thành thị."
+  ],
+  [
+   "빙하",
+   "Bingha",
+   "Sông băng",
+   "지구온난화로 빙하가 녹고 있어요.",
+   "Do trái đất nóng lên, băng hà đang tan."
+  ],
+  [
+   "서세동점",
+   "Seosedongjeom",
+   "Phương Tây bành trướng sang phương Đông",
+   "19세기는 서세동점의 시대였어요.",
+   "Thế kỷ 19 là thời đại phương Tây bành trướng sang phương Đông."
+  ],
+  [
+   "신흥공업국",
+   "Sinheunggongeopguk",
+   "Những nước công nghiệp mới (NICs)",
+   "한국은 대표적인 신흥공업국이었어요.",
+   "Hàn Quốc từng là nước công nghiệp mới tiêu biểu."
+  ],
+  [
+   "신흥국",
+   "Sinheungguk",
+   "Nước mới nổi",
+   "신흥국의 경제 성장이 빨라요.",
+   "Kinh tế các nước mới nổi tăng trưởng nhanh."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)련마는 — Giá mà … nhưng",
+   "meaning": "Văn phong CỔ, VĂN CHƯƠNG / trang trọng. Nêu một điều LẼ RA SẼ XẢY RA / mong muốn (nếu điều kiện đúng) nhưng THỰC TẾ KHÔNG như vậy: 'lẽ ra sẽ… nhưng…, đáng lẽ… thế mà…'. Cấu tạo: (으)련 (phỏng đoán, cổ) + 마는 (= 지만, nhưng). Chia: có patchim → 으련마는 (좋으련마는 – 좋다 có patchim); không patchim/ㄹ → 련마는 (오련마는, 알련마는). Thường đi sau điều kiện (으)면 / 았/었으면: 비가 오면 좋으련마는 날씨가 계속 가물어요 (giá mà mưa thì tốt nhưng trời vẫn hạn hán). Rút gọn: (으)련만. Ngày nay chủ yếu gặp trong văn viết, bài hát, thơ, đề đọc TOPIK 5–6. Khẩu ngữ tương đương: (으)ㄹ 텐데 / (으)면 좋을 텐데.",
+   "examples": [
+    "전쟁이 끝나면 좋으련마는 내전은 계속되고 있다. — Giá mà chiến tranh kết thúc thì tốt, nhưng nội chiến vẫn tiếp diễn.",
+    "조금만 도와주면 빨리 복구될 수 있으련마는 지원이 부족하다. — Chỉ cần giúp một chút là có thể khôi phục nhanh, nhưng hỗ trợ lại thiếu.",
+    "부모님이 계시면 기뻐하시련마는 이미 돌아가셨다. — Nếu bố mẹ còn thì hẳn sẽ vui lắm, nhưng các cụ đã mất rồi.",
+    "비가 오련만 하늘은 여전히 맑기만 하다. — Lẽ ra trời mưa, thế mà bầu trời vẫn cứ trong xanh."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chiến tranh trong nội bộ một quốc gia gọi là gì?",
+   "kr": "",
+   "options": [
+    "내전",
+    "냉전",
+    "데탕트"
+   ],
+   "answer": "내전",
+   "explain": "내 = trong."
+  },
+  {
+   "type": "choice",
+   "q": "Cuộc đối đầu không giao chiến trực tiếp giữa hai khối (Mỹ – Liên Xô) gọi là gì?",
+   "kr": "",
+   "options": [
+    "냉전",
+    "내전",
+    "서세동점"
+   ],
+   "answer": "냉전",
+   "explain": "냉 = lạnh."
+  },
+  {
+   "type": "choice",
+   "q": "Băng khổng lồ ở vùng cực, núi cao gọi là gì?",
+   "kr": "",
+   "options": [
+    "빙하",
+    "빈민",
+    "교리"
+   ],
+   "answer": "빙하",
+   "explain": "빙하 = sông băng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Khắc phục thiệt hại lũ lụt mất một tháng.",
+   "kr": "홍수 피해 ___에 한 달이 걸렸어요.",
+   "options": [
+    "복구",
+    "공존",
+    "발언권"
+   ],
+   "answer": "복구",
+   "explain": "복구."
+  },
+  {
+   "type": "choice",
+   "q": "(으)련마는 thuộc văn phong nào?",
+   "kr": "",
+   "options": [
+    "Văn chương, cổ, trang trọng",
+    "Khẩu ngữ thân mật",
+    "Tiếng lóng"
+   ],
+   "answer": "Văn chương, cổ, trang trọng",
+   "explain": "Văn viết / thơ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Giá mà chiến tranh kết thúc thì tốt, nhưng vẫn tiếp diễn.'",
+   "kr": "",
+   "options": [
+    "전쟁이 끝나면 좋으련마는 계속되고 있다.",
+    "전쟁이 끝나면 좋련마는 계속되고 있다.",
+    "전쟁이 끝나면 좋으련마는 끝났다."
+   ],
+   "answer": "전쟁이 끝나면 좋으련마는 계속되고 있다.",
+   "explain": "좋다 (patchim) → 좋으련마는; vế sau trái mong muốn."
+  },
+  {
+   "type": "choice",
+   "q": "Cách nói KHẨU NGỮ tương đương với '좋으련마는' là gì?",
+   "kr": "",
+   "options": [
+    "좋을 텐데",
+    "좋더라도",
+    "좋기는커녕"
+   ],
+   "answer": "좋을 텐데",
+   "explain": "(으)ㄹ 텐데 ≈ (으)련마는."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hai nước hợp tác trên nhiều phương diện.",
+   "kr": "두 나라는 ___에서 협력하고 있어요.",
+   "options": [
+    "다방면",
+    "글로벌화",
+    "공영"
+   ],
+   "answer": "다방면",
+   "explain": "다방면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)련마는 với 오다: Lẽ ra trời mưa, thế mà vẫn trong xanh.",
+   "kr": "비가 ___ 하늘은 여전히 맑기만 하다.",
+   "answer": [
+    "오련마는",
+    "오련만"
+   ],
+   "explain": "오련마는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)련마는 với 기뻐하시다: Nếu bố mẹ còn thì hẳn sẽ vui, nhưng đã mất.",
+   "kr": "부모님이 계시면 ___ 이미 돌아가셨다.",
+   "answer": [
+    "기뻐하시련마는",
+    "기뻐하시련만"
+   ],
+   "explain": "기뻐하시련마는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cần sự cùng tồn tại giữa con người và thiên nhiên.",
+   "kr": "인간과 자연의 ___이 필요해요.",
+   "answer": [
+    "공존"
+   ],
+   "explain": "공존."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Do trái đất nóng lên, băng hà đang tan.",
+   "kr": "지구온난화로 ___가 녹고 있어요.",
+   "answer": [
+    "빙하"
+   ],
+   "explain": "빙하."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hai nước đang hợp tác trên nhiều phương diện.",
+   "tokens": [
+    "두",
+    "나라는",
+    "다방면에서",
+    "협력하고",
+    "있어요"
+   ],
+   "answer": "두 나라는 다방면에서 협력하고 있어요",
+   "explain": "다방면에서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Kinh tế các nước mới nổi tăng trưởng nhanh.",
+   "tokens": [
+    "신흥국의",
+    "경제",
+    "성장이",
+    "빨라요"
+   ],
+   "answer": "신흥국의 경제 성장이 빨라요",
+   "explain": "신흥국."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nước nhỏ cũng phải có quyền phát ngôn.",
+   "answer": [
+    "작은 나라도 발언권이 있어야 해요.",
+    "작은 나라도 국제 사회에서 발언권이 있어야 해요.",
+    "작은 나라에도 발언권이 있어야 해요."
+   ],
+   "explain": "발언권."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chiến tranh lạnh kết thúc vào đầu thập niên 1990.",
+   "answer": [
+    "냉전은 1990년대 초에 끝났어요.",
+    "냉전은 1990년대 초반에 끝났어요."
+   ],
+   "explain": "냉전."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi hoạt động một năm làm tình nguyện viên ở nước ngoài.",
+   "answer": [
+    "해외 봉사단원으로 1년 동안 활동했어요.",
+    "해외 봉사단원으로 일 년 동안 활동했어요."
+   ],
+   "explain": "(으)로 활동하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "냉전이 끝난 후 세계는 평화로운 공존의 시대가 올 것이라고 기대했다. 모든 나라가 협력하면 좋으련마는 지금도 세계 곳곳에서는 내전과 종교 분쟁이 계속되고 있다.",
+   "answer": "Sau khi Chiến tranh lạnh kết thúc, thế giới kỳ vọng thời đại cùng tồn tại hòa bình sẽ đến. Giá mà mọi quốc gia hợp tác thì tốt, nhưng đến nay khắp nơi trên thế giới nội chiến và xung đột tôn giáo vẫn tiếp diễn.",
+   "explain": "(으)련마는."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 우리나라가 개도국을 돕는 것보다 국내 빈민을 먼저 도와야 하지 않을까요?\n여자: 국내 문제도 중요하지만, 글로벌화 시대에는 다른 나라의 문제가 결국 우리 문제가 돼요. 한국도 과거에 원조를 받아서 성장했잖아요. 이제는 받은 도움을 돌려주는 것이 국제 사회의 일원으로서 당연한 일이라고 생각해요.",
+   "options": [
+    "국제 사회의 일원으로서 다른 나라를 돕는 것은 당연하다.",
+    "국내 문제만 해결하면 된다.",
+    "원조는 필요 없다.",
+    "한국은 원조를 받은 적이 없다."
+   ],
+   "answer": "국제 사회의 일원으로서 다른 나라를 돕는 것은 당연하다.",
+   "explain": "돌려주는 것이 … 당연한 일이라고 생각해요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "19세기 서세동점의 시대에 많은 아시아 국가들이 서양의 식민지가 되었다. 그러나 20세기 후반 한국, 대만 같은 신흥공업국이 빠르게 성장하면서 세계 경제의 중심이 점점 아시아로 옮겨 오고 있다.",
+   "options": [
+    "세계 경제에서 아시아의 비중이 커지고 있다.",
+    "아시아는 지금도 서양의 식민지이다.",
+    "신흥공업국은 성장하지 못했다.",
+    "19세기에 아시아가 서양을 지배했다."
+   ],
+   "answer": "세계 경제에서 아시아의 비중이 커지고 있다.",
+   "explain": "중심이 아시아로 옮겨 오고 있다."
+  }
+ ]
+}

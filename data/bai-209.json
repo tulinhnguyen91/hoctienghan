@@ -1,0 +1,392 @@
+{
+ "id": "bai-209",
+ "lesson": "Bài 209",
+ "title": "Du học Hàn Quốc (phần 5/5)",
+ "krTitle": "한국 유학 5",
+ "date": "2027-09-18",
+ "day": 304,
+ "source": "TOPIK 5 – Bài 15: Du học Hàn Quốc (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "전념",
+   "Jeonnyeom",
+   "Sự tập trung hết mình vào việc gì đó",
+   "졸업 논문에 전념하고 있어요.",
+   "Tôi đang dồn hết sức cho luận văn tốt nghiệp."
+  ],
+  [
+   "제출",
+   "Jechul",
+   "Việc nộp đơn, việc đưa lên",
+   "과제 제출 마감이 내일이에요.",
+   "Hạn nộp bài tập là ngày mai."
+  ],
+  [
+   "좌우하다",
+   "Jwauhada",
+   "Ảnh hưởng, có ảnh hưởng",
+   "첫인상이 면접 결과를 좌우할 수 있어요.",
+   "Ấn tượng đầu tiên có thể chi phối kết quả phỏng vấn."
+  ],
+  [
+   "중점을 두다",
+   "Jungjeomeul duda",
+   "Tập trung, đặt trọng tâm vào",
+   "이 수업은 말하기에 중점을 둬요.",
+   "Lớp này đặt trọng tâm vào kỹ năng nói."
+  ],
+  [
+   "짜임새",
+   "Jjaimsae",
+   "Kết cấu, bố cục chặt chẽ",
+   "글의 짜임새가 좋아서 읽기 쉬워요.",
+   "Bài viết có kết cấu tốt nên dễ đọc."
+  ],
+  [
+   "창제",
+   "Changje",
+   "Sự sáng chế",
+   "한글 창제는 세종대왕의 가장 큰 업적이에요.",
+   "Việc sáng tạo Hangeul là thành tựu lớn nhất của vua Sejong."
+  ],
+  [
+   "체계적",
+   "Chegyejeok",
+   "Mang tính hệ thống",
+   "체계적으로 공부하면 실력이 빨리 늘어요.",
+   "Học có hệ thống thì trình độ tăng nhanh."
+  ],
+  [
+   "측면",
+   "Cheungmyeon",
+   "Bình diện, mặt",
+   "경제적인 측면에서 보면 이 계획은 좋아요.",
+   "Xét về mặt kinh tế thì kế hoạch này tốt."
+  ],
+  [
+   "커리큘럼",
+   "Keorikyulleom",
+   "Chương trình giảng dạy (curriculum)",
+   "이 대학의 커리큘럼은 실무 중심이에요.",
+   "Chương trình học của trường này tập trung vào thực tế."
+  ],
+  [
+   "컨설팅",
+   "Keonseolting",
+   "Sự tư vấn (consulting)",
+   "유학 컨설팅 회사에서 상담을 받았어요.",
+   "Tôi được tư vấn ở công ty tư vấn du học."
+  ],
+  [
+   "코디",
+   "Kodi",
+   "Sự phối đồ (coordination)",
+   "오늘 옷 코디가 정말 멋있네요.",
+   "Hôm nay phối đồ đẹp thật đấy."
+  ],
+  [
+   "크루즈",
+   "Keurujeu",
+   "Việc đi tàu, thuyền (cruise)",
+   "부모님께 크루즈 여행을 선물해 드렸어요.",
+   "Tôi tặng bố mẹ chuyến du lịch tàu biển."
+  ],
+  [
+   "클리닉",
+   "Keullinik",
+   "Phòng khám; lớp hỗ trợ (clinic)",
+   "학교에서 글쓰기 클리닉을 운영해요.",
+   "Trường có lớp hỗ trợ viết."
+  ],
+  [
+   "타임머신",
+   "Taimmeosin",
+   "Cỗ máy thời gian (time-machine)",
+   "타임머신이 있다면 조선 시대에 가 보고 싶어요.",
+   "Nếu có cỗ máy thời gian, tôi muốn đến thời Joseon."
+  ],
+  [
+   "탐색",
+   "Tamsaek",
+   "Sự thăm dò, sự thám hiểm",
+   "진로 탐색 프로그램에 참여했어요.",
+   "Tôi đã tham gia chương trình khám phá hướng nghiệp."
+  ],
+  [
+   "틈새 영역",
+   "Teumsae yeongyeok",
+   "Lĩnh vực mới, lĩnh vực còn bỏ ngỏ",
+   "그 회사는 틈새 영역을 공략해서 성공했어요.",
+   "Công ty đó thành công nhờ tấn công vào lĩnh vực còn bỏ ngỏ."
+  ],
+  [
+   "학업부진",
+   "Hageopbujin",
+   "Việc học yếu, việc không tiến bộ trong học tập",
+   "학업부진 학생을 위한 보충 수업이 있어요.",
+   "Có lớp học bổ trợ cho sinh viên học yếu."
+  ],
+  [
+   "행방",
+   "Haengbang",
+   "Tung tích",
+   "사고 후 그의 행방을 아무도 몰라요.",
+   "Sau tai nạn không ai biết tung tích anh ấy."
+  ],
+  [
+   "향수병",
+   "Hyangsubyeong",
+   "Bệnh nhớ nhà",
+   "처음 유학 왔을 때 향수병에 걸렸어요.",
+   "Lúc mới sang du học tôi bị bệnh nhớ nhà."
+  ],
+  [
+   "현혹",
+   "Hyeonhok",
+   "Sự mê hoặc, làm lóa mắt",
+   "화려한 광고에 현혹되지 마세요.",
+   "Đừng bị mê hoặc bởi quảng cáo hào nhoáng."
+  ],
+  [
+   "호평",
+   "Hopyeong",
+   "Sự đánh giá tốt",
+   "그 영화는 관객들에게 호평을 받았어요.",
+   "Bộ phim đó được khán giả đánh giá tốt."
+  ],
+  [
+   "휴먼케어",
+   "Hyumeonkeeo",
+   "Chăm sóc con người (human care)",
+   "휴먼케어 분야의 일자리가 늘고 있어요.",
+   "Việc làm trong lĩnh vực chăm sóc con người đang tăng."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Cảm giác nhớ nhà khi sống xa quê gọi là gì?",
+   "kr": "",
+   "options": [
+    "향수병",
+    "학업부진",
+    "호평"
+   ],
+   "answer": "향수병",
+   "explain": "향수 = nhớ quê; 병 = bệnh."
+  },
+  {
+   "type": "choice",
+   "q": "Lĩnh vực còn bỏ ngỏ, ít người làm gọi là gì?",
+   "kr": "",
+   "options": [
+    "틈새 영역",
+    "커리큘럼",
+    "측면"
+   ],
+   "answer": "틈새 영역",
+   "explain": "틈새 = khe hở."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lớp này đặt trọng tâm vào kỹ năng nói.",
+   "kr": "이 수업은 말하기에 ___.",
+   "options": [
+    "중점을 둬요",
+    "전념해요",
+    "좌우해요"
+   ],
+   "answer": "중점을 둬요",
+   "explain": "중점을 두다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Học có hệ thống thì trình độ tăng nhanh.",
+   "kr": "___으로 공부하면 실력이 빨리 늘어요.",
+   "options": [
+    "체계적",
+    "측면",
+    "짜임새"
+   ],
+   "answer": "체계적",
+   "explain": "체계적으로."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 혹평 (chê gay gắt) là gì?",
+   "kr": "",
+   "options": [
+    "호평",
+    "현혹",
+    "탐색"
+   ],
+   "answer": "호평",
+   "explain": "호(tốt) + 평(đánh giá)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ấn tượng đầu có thể chi phối kết quả phỏng vấn.",
+   "kr": "첫인상이 면접 결과를 ___ 수 있어요.",
+   "options": [
+    "좌우할",
+    "제출할",
+    "탐색할"
+   ],
+   "answer": "좌우할",
+   "explain": "좌우하다 = chi phối."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng bị mê hoặc bởi quảng cáo hào nhoáng.",
+   "kr": "화려한 광고에 ___되지 마세요.",
+   "options": [
+    "현혹",
+    "호평",
+    "전념"
+   ],
+   "answer": "현혹",
+   "explain": "현혹되다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Sau tai nạn không ai biết tung tích anh ấy.",
+   "kr": "사고 후 그의 ___을 아무도 몰라요.",
+   "options": [
+    "행방",
+    "측면",
+    "클리닉"
+   ],
+   "answer": "행방",
+   "explain": "행방 = tung tích."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đang dồn hết sức cho luận văn.",
+   "kr": "졸업 논문에 ___하고 있어요.",
+   "answer": [
+    "전념"
+   ],
+   "explain": "N에 전념하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hạn nộp bài tập là ngày mai.",
+   "kr": "과제 ___ 마감이 내일이에요.",
+   "answer": [
+    "제출"
+   ],
+   "explain": "제출."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Xét về mặt kinh tế thì kế hoạch này tốt.",
+   "kr": "경제적인 ___에서 보면 이 계획은 좋아요.",
+   "answer": [
+    "측면"
+   ],
+   "explain": "측면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Lúc mới sang du học tôi bị bệnh nhớ nhà.",
+   "kr": "처음 유학 왔을 때 ___에 걸렸어요.",
+   "answer": [
+    "향수병"
+   ],
+   "explain": "향수병에 걸리다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bộ phim được khán giả đánh giá tốt.",
+   "tokens": [
+    "그",
+    "영화는",
+    "관객들에게",
+    "호평을",
+    "받았어요"
+   ],
+   "answer": "그 영화는 관객들에게 호평을 받았어요",
+   "explain": "호평을 받다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bài viết có kết cấu tốt nên dễ đọc.",
+   "tokens": [
+    "글의",
+    "짜임새가",
+    "좋아서",
+    "읽기",
+    "쉬워요"
+   ],
+   "answer": "글의 짜임새가 좋아서 읽기 쉬워요",
+   "explain": "V기 쉽다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi được tư vấn ở công ty tư vấn du học.",
+   "answer": [
+    "유학 컨설팅 회사에서 상담을 받았어요.",
+    "유학 컨설팅 회사에서 상담받았어요."
+   ],
+   "explain": "상담을 받다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nếu có cỗ máy thời gian, tôi muốn đến thời Joseon.",
+   "answer": [
+    "타임머신이 있다면 조선 시대에 가 보고 싶어요.",
+    "타임머신이 있으면 조선 시대에 가 보고 싶어요.",
+    "타임머신이 있다면 조선 시대에 가고 싶어요."
+   ],
+   "explain": "는다면 (giả định)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Việc làm trong lĩnh vực chăm sóc con người đang tăng.",
+   "answer": [
+    "휴먼케어 분야의 일자리가 늘고 있어요.",
+    "휴먼케어 분야 일자리가 늘고 있어요.",
+    "휴먼케어 분야의 일자리가 증가하고 있어요."
+   ],
+   "explain": "늘다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "유학 생활 초기에는 향수병에 걸리거나 학업부진을 겪는 학생이 많다. 그래서 많은 대학이 상담 클리닉이라든가 한국어 보충 수업 같은 프로그램을 체계적으로 운영하고 있다.",
+   "answer": "Thời gian đầu du học, nhiều sinh viên bị bệnh nhớ nhà hoặc gặp khó khăn trong học tập. Vì vậy nhiều trường đại học đang vận hành có hệ thống các chương trình như phòng tư vấn hay lớp bổ trợ tiếng Hàn.",
+   "explain": "라든가 … 같은; 체계적으로."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 우리 대학교 글쓰기 클리닉을 안내해 드리겠습니다. 보고서나 논문 쓰기가 어려운 학생은 누구나 이용할 수 있습니다. 예약은 홈페이지에서 하시면 되고, 한 번에 30분씩 상담을 받으실 수 있습니다. 상담은 무료이며 외국인 유학생을 위한 상담도 따로 있습니다.",
+   "options": [
+    "글쓰기 클리닉은 무료로 이용할 수 있다.",
+    "상담은 한 번에 한 시간이다.",
+    "외국인 학생은 이용할 수 없다.",
+    "예약은 전화로만 할 수 있다."
+   ],
+   "answer": "글쓰기 클리닉은 무료로 이용할 수 있다.",
+   "explain": "상담은 무료."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "낯선 땅, 혼자가 아닙니다.\n향수병, 학업 고민… 언제든지 찾아오세요.\n유학생 상담 센터 (학생회관 2층)",
+   "options": [
+    "유학생 상담",
+    "어학연수 모집",
+    "기숙사 안내",
+    "장학금 신청"
+   ],
+   "answer": "유학생 상담",
+   "explain": "유학생 상담 센터."
+  }
+ ]
+}

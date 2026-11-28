@@ -1,0 +1,415 @@
+{
+ "id": "bai-210",
+ "lesson": "Bài 210",
+ "title": "Chế độ gia đình (phần 1/5)",
+ "krTitle": "가족 제도 1",
+ "date": "2027-09-20",
+ "day": 306,
+ "source": "TOPIK 6 – Bài 1: Chế độ gia đình (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "세대",
+   "Sedae",
+   "Thế hệ",
+   "우리 집은 삼 세대가 함께 살아요.",
+   "Nhà tôi ba thế hệ sống cùng nhau."
+  ],
+  [
+   "핵가족",
+   "Haekgajok",
+   "Gia đình hạt nhân",
+   "요즘은 부모와 자녀만 사는 핵가족이 많아요.",
+   "Dạo này nhiều gia đình hạt nhân chỉ có bố mẹ và con."
+  ],
+  [
+   "한부모 가정",
+   "Hanbumo gajeong",
+   "Gia đình đơn thân (chỉ còn bố hoặc mẹ)",
+   "정부는 한부모 가정을 지원하고 있어요.",
+   "Chính phủ đang hỗ trợ gia đình đơn thân."
+  ],
+  [
+   "가구",
+   "Gagu",
+   "Hộ gia đình",
+   "이 아파트에는 200가구가 살아요.",
+   "Chung cư này có 200 hộ sinh sống."
+  ],
+  [
+   "1인 가구",
+   "1in gagu",
+   "Hộ gia đình 1 người, hộ gia đình 1 nhân khẩu",
+   "1인 가구를 위한 작은 포장 음식이 인기예요.",
+   "Đồ ăn đóng gói nhỏ cho hộ một người được ưa chuộng."
+  ],
+  [
+   "결손가정",
+   "Gyeolsongajeong",
+   "Gia đình không đầy đủ, gia đình mất bố (mẹ) hoặc cả 2",
+   "결손가정 아이들을 돕는 봉사 활동을 해요.",
+   "Tôi làm tình nguyện giúp trẻ em gia đình khuyết thiếu."
+  ],
+  [
+   "대가족",
+   "Daegajok",
+   "Đại gia đình",
+   "옛날에는 대가족이 한집에 살았어요.",
+   "Ngày xưa đại gia đình sống chung một nhà."
+  ],
+  [
+   "다문화 가정",
+   "Damunhwa gajeong",
+   "Gia đình đa văn hóa",
+   "한국에도 다문화 가정이 늘고 있어요.",
+   "Ở Hàn Quốc gia đình đa văn hóa cũng đang tăng."
+  ],
+  [
+   "조손 가정",
+   "Joson gajeong",
+   "Gia đình ông bà nuôi cháu",
+   "부모님이 일하러 가셔서 조손 가정에서 자랐어요.",
+   "Bố mẹ đi làm xa nên tôi lớn lên trong gia đình ông bà nuôi cháu."
+  ],
+  [
+   "부부",
+   "Bubu",
+   "Vợ chồng",
+   "두 사람은 결혼 30년이 된 부부예요.",
+   "Hai người là vợ chồng đã cưới 30 năm."
+  ],
+  [
+   "차남",
+   "Chanam",
+   "Con trai thứ",
+   "차남이 부모님을 모시고 살아요.",
+   "Con trai thứ sống phụng dưỡng bố mẹ."
+  ],
+  [
+   "차녀",
+   "Chanyeo",
+   "Con gái thứ",
+   "그 집 차녀는 의사예요.",
+   "Con gái thứ nhà đó là bác sĩ."
+  ],
+  [
+   "사위",
+   "Sawi",
+   "Con rể",
+   "장모님이 사위를 아주 좋아하세요.",
+   "Mẹ vợ rất quý con rể."
+  ],
+  [
+   "친정 부모",
+   "Chinjeong bumo",
+   "Bố mẹ đẻ (con gái sau khi lấy chồng gọi)",
+   "명절에 친정 부모님 댁에 갔어요.",
+   "Dịp lễ tôi về nhà bố mẹ đẻ."
+  ],
+  [
+   "사촌",
+   "Sachon",
+   "Anh em họ",
+   "사촌 동생과 같은 학교에 다녀요.",
+   "Tôi học cùng trường với em họ."
+  ],
+  [
+   "부자",
+   "Buja",
+   "Cha con; người giàu",
+   "두 부자가 함께 낚시를 갔어요.",
+   "Hai bố con cùng đi câu cá."
+  ],
+  [
+   "조부",
+   "Jobu",
+   "Ông",
+   "조부께서는 독립운동가셨어요.",
+   "Ông nội tôi là nhà hoạt động độc lập."
+  ],
+  [
+   "조모",
+   "Jomo",
+   "Bà",
+   "조모께서 손자들을 키우셨어요.",
+   "Bà nội đã nuôi các cháu."
+  ],
+  [
+   "며느리",
+   "Myeoneuri",
+   "Con dâu",
+   "며느리가 시어머니를 잘 모셔요.",
+   "Con dâu phụng dưỡng mẹ chồng chu đáo."
+  ],
+  [
+   "사돈",
+   "Sadon",
+   "Thông gia",
+   "사돈끼리 같이 식사를 했어요.",
+   "Hai bên thông gia đã dùng bữa cùng nhau."
+  ],
+  [
+   "동서",
+   "Dongseo",
+   "Anh em đồng hao, anh em cột chèo, chị em bạn dâu",
+   "명절에 동서들과 함께 음식을 만들어요.",
+   "Dịp lễ tôi nấu ăn cùng các chị em dâu."
+  ],
+  [
+   "장남",
+   "Jangnam",
+   "Trưởng nam",
+   "장남이 집안의 대를 이었어요.",
+   "Con trưởng đã nối dõi gia đình."
+  ],
+  [
+   "장녀",
+   "Jangnyeo",
+   "Trưởng nữ",
+   "장녀라서 동생들을 많이 돌봤어요.",
+   "Vì là con gái cả nên tôi chăm sóc các em nhiều."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ 나머지 — Do quá … nên",
+   "meaning": "Nêu nguyên nhân là một trạng thái / hành động ở MỨC ĐỘ QUÁ MỨC, dẫn đến kết quả thường là TIÊU CỰC hoặc ngoài ý muốn: 'do quá… nên (cuối cùng)…, … đến mức…'. 나머지 nghĩa gốc là 'phần còn lại, phần thừa' → quá mức tràn ra thành kết quả. Chia: Động từ → (으)ㄴ 나머지 (quá khứ): 긴장한 나머지, 서두른 나머지; Tính từ → (으)ㄴ 나머지: 기쁜 나머지, 피곤한 나머지. Hay đi với từ chỉ cảm xúc / mức độ: 너무, 지나치게, 몹시. Vế sau thường ở QUÁ KHỨ: 실수했다, 울었다, 잊어버렸다. Văn viết và kể chuyện. So sánh: 아/어서 (vì – trung tính); 는 바람에 (vì sự việc bất ngờ); (으)ㄴ 나머지 nhấn mạnh 'vì QUÁ… nên'.",
+   "examples": [
+    "너무 긴장한 나머지 면접에서 아무 말도 못 했어요. — Quá căng thẳng nên trong buổi phỏng vấn tôi không nói được gì.",
+    "할머니는 손자를 보고 기쁜 나머지 눈물을 흘리셨어요. — Bà quá vui khi gặp cháu nên đã rơi nước mắt.",
+    "일에 집중한 나머지 아이를 데리러 가는 것을 잊어버렸어요. — Mải tập trung làm việc đến mức quên đi đón con.",
+    "부모님이 자녀를 너무 걱정한 나머지 간섭이 심해졌어요. — Bố mẹ quá lo cho con nên can thiệp ngày càng nhiều."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Gia đình chỉ gồm bố mẹ và con chưa lập gia đình gọi là gì?",
+   "kr": "",
+   "options": [
+    "핵가족",
+    "대가족",
+    "조손 가정"
+   ],
+   "answer": "핵가족",
+   "explain": "핵 = hạt nhân."
+  },
+  {
+   "type": "choice",
+   "q": "Gia đình có bố hoặc mẹ là người nước ngoài gọi là gì?",
+   "kr": "",
+   "options": [
+    "다문화 가정",
+    "한부모 가정",
+    "결손가정"
+   ],
+   "answer": "다문화 가정",
+   "explain": "다문화 = đa văn hóa."
+  },
+  {
+   "type": "choice",
+   "q": "Bố mẹ của hai bên vợ chồng gọi nhau là gì?",
+   "kr": "",
+   "options": [
+    "사돈",
+    "동서",
+    "사촌"
+   ],
+   "answer": "사돈",
+   "explain": "사돈 = thông gia."
+  },
+  {
+   "type": "choice",
+   "q": "Chồng của con gái gọi là gì?",
+   "kr": "",
+   "options": [
+    "사위",
+    "며느리",
+    "장남"
+   ],
+   "answer": "사위",
+   "explain": "사위 = con rể."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Quá căng thẳng nên không nói được gì.'",
+   "kr": "",
+   "options": [
+    "너무 긴장한 나머지 아무 말도 못 했어요.",
+    "너무 긴장하는 나머지 아무 말도 못 했어요.",
+    "너무 긴장할 나머지 아무 말도 못 했어요."
+   ],
+   "answer": "너무 긴장한 나머지 아무 말도 못 했어요.",
+   "explain": "Luôn là (으)ㄴ 나머지."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 기쁘다: 'Quá vui nên…'",
+   "kr": "",
+   "options": [
+    "기쁜 나머지",
+    "기뻐한 나머지는",
+    "기쁘는 나머지"
+   ],
+   "answer": "기쁜 나머지",
+   "explain": "Tính từ → (으)ㄴ 나머지."
+  },
+  {
+   "type": "choice",
+   "q": "(으)ㄴ 나머지 thường diễn tả điều gì?",
+   "kr": "",
+   "options": [
+    "Vì quá mức nên dẫn đến kết quả (thường xấu)",
+    "Kế hoạch tương lai",
+    "Điều kiện giả định"
+   ],
+   "answer": "Vì quá mức nên dẫn đến kết quả (thường xấu)",
+   "explain": "나머지 = phần tràn ra."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ông bà nuôi cháu vì bố mẹ đi làm xa.",
+   "kr": "부모님이 멀리 일하러 가셔서 ___에서 자랐어요.",
+   "options": [
+    "조손 가정",
+    "핵가족",
+    "1인 가구"
+   ],
+   "answer": "조손 가정",
+   "explain": "조(ông bà) + 손(cháu)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 나머지 với 서두르다: Quá vội nên đã để quên điện thoại.",
+   "kr": "너무 ___ 휴대폰을 두고 왔어요.",
+   "answer": [
+    "서두른 나머지"
+   ],
+   "explain": "서두르다 → 서두른 나머지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 나머지 với 피곤하다: Quá mệt nên ngủ quên trên xe buýt.",
+   "kr": "너무 ___ 버스에서 잠이 들었어요.",
+   "answer": [
+    "피곤한 나머지"
+   ],
+   "explain": "Tính từ → 피곤한 나머지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Dịp lễ tôi về nhà bố mẹ đẻ.",
+   "kr": "명절에 ___ 부모님 댁에 갔어요.",
+   "answer": [
+    "친정"
+   ],
+   "explain": "친정 = nhà bố mẹ đẻ (của người vợ)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Vì là con gái cả nên chăm sóc các em nhiều.",
+   "kr": "___라서 동생들을 많이 돌봤어요.",
+   "answer": [
+    "장녀"
+   ],
+   "explain": "장녀."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bà quá vui khi gặp cháu nên rơi nước mắt.",
+   "tokens": [
+    "할머니는",
+    "손자를",
+    "보고",
+    "기쁜",
+    "나머지",
+    "눈물을",
+    "흘리셨어요"
+   ],
+   "answer": "할머니는 손자를 보고 기쁜 나머지 눈물을 흘리셨어요",
+   "explain": "(으)ㄴ 나머지."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhà tôi ba thế hệ sống cùng nhau.",
+   "tokens": [
+    "우리",
+    "집은",
+    "삼",
+    "세대가",
+    "함께",
+    "살아요"
+   ],
+   "answer": "우리 집은 삼 세대가 함께 살아요",
+   "explain": "세대."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Quá đói nên tôi ăn hết hai bát cơm. (dùng (으)ㄴ 나머지)",
+   "answer": [
+    "너무 배가 고픈 나머지 밥을 두 그릇이나 먹었어요.",
+    "배가 너무 고픈 나머지 밥을 두 그릇 먹었어요.",
+    "너무 배고픈 나머지 밥을 두 그릇이나 먹었어요.",
+    "배가 너무 고픈 나머지 밥을 두 그릇이나 다 먹었어요."
+   ],
+   "explain": "고프다 → 고픈 나머지."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ở Hàn Quốc gia đình đa văn hóa đang tăng.",
+   "answer": [
+    "한국에 다문화 가정이 늘고 있어요.",
+    "한국에도 다문화 가정이 늘고 있어요.",
+    "한국에서 다문화 가정이 늘고 있어요."
+   ],
+   "explain": "늘고 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hai bố con cùng đi câu cá.",
+   "answer": [
+    "두 부자가 함께 낚시를 갔어요.",
+    "부자가 같이 낚시하러 갔어요.",
+    "아버지와 아들이 함께 낚시를 갔어요."
+   ],
+   "explain": "부자 = bố con."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "과거 한국은 여러 세대가 함께 사는 대가족이 일반적이었다. 그러나 산업화로 핵가족이 늘었고, 최근에는 1인 가구와 다문화 가정, 한부모 가정 등 가족의 형태가 다양해지고 있다.",
+   "answer": "Trước đây ở Hàn Quốc, đại gia đình nhiều thế hệ sống chung là phổ biến. Nhưng do công nghiệp hóa, gia đình hạt nhân tăng lên, và gần đây hình thái gia đình đang đa dạng hóa như hộ một người, gia đình đa văn hóa, gia đình đơn thân…",
+   "explain": "세대, 대가족, 핵가족."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "남자: 이번 설에 시댁에 가요?\n여자: 네, 남편이 장남이라서 차례를 우리 집에서 지내요. 동서들과 같이 음식을 준비해야 해서 좀 바빠요.\n남자: 힘들겠네요.\n여자: 그래도 오랜만에 사촌들도 만나고 아이들이 좋아해서 괜찮아요. 설 다음 날에는 친정 부모님 댁에 갈 거예요.",
+   "options": [
+    "여자는 설 다음 날 친정에 갈 것이다.",
+    "여자의 남편은 차남이다.",
+    "차례는 친정에서 지낸다.",
+    "여자는 혼자 음식을 준비한다."
+   ],
+   "answer": "여자는 설 다음 날 친정에 갈 것이다.",
+   "explain": "설 다음 날에는 친정 부모님 댁에 갈 거예요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그 결과 부모와 자녀만 사는 핵가족이 많아졌다.\n(나) 옛날에는 농사를 짓기 위해 대가족이 함께 살았다.\n(다) 그런데 산업화 이후 젊은이들이 일자리를 찾아 도시로 떠났다.",
+   "options": [
+    "(나)-(다)-(가)",
+    "(가)-(나)-(다)",
+    "(다)-(나)-(가)",
+    "(나)-(가)-(다)"
+   ],
+   "answer": "(나)-(다)-(가)",
+   "explain": "옛날 (나) → 그런데 (다) → 그 결과 (가)."
+  }
+ ]
+}

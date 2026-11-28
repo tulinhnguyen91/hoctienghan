@@ -1,0 +1,419 @@
+{
+ "id": "bai-248",
+ "lesson": "Bài 248",
+ "title": "Cuộc sống và kinh tế (phần 3/4)",
+ "krTitle": "생활과 경제 3",
+ "date": "2027-11-16",
+ "day": 363,
+ "source": "TOPIK 6 – Bài 9: Cuộc sống và kinh tế (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "가계 부채",
+   "Gagye buchae",
+   "Nợ kinh tế hộ gia đình",
+   "가계 부채가 계속 늘고 있어요.",
+   "Nợ hộ gia đình đang liên tục tăng."
+  ],
+  [
+   "감수하다",
+   "Gamsuhada",
+   "Chấp nhận, cam chịu",
+   "더 좋은 미래를 위해 지금의 어려움을 감수해요.",
+   "Tôi chấp nhận khó khăn hiện tại vì tương lai tốt hơn."
+  ],
+  [
+   "걷잡다",
+   "Geotjapda",
+   "Kiềm chế, ngăn lại (thường: 걷잡을 수 없다)",
+   "불이 걷잡을 수 없이 번졌어요.",
+   "Ngọn lửa lan ra không kiềm lại được."
+  ],
+  [
+   "고정적으로",
+   "Gojeongjeogeuro",
+   "Một cách cố định",
+   "매달 고정적으로 들어오는 수입이 있어요.",
+   "Có khoản thu nhập cố định hàng tháng."
+  ],
+  [
+   "고질적인",
+   "Gojiljeogin",
+   "Có tính cố hữu, có tính khó sửa",
+   "교통 체증은 서울의 고질적인 문제예요.",
+   "Tắc đường là vấn đề cố hữu của Seoul."
+  ],
+  [
+   "공략하다",
+   "Gongnyakada",
+   "Công phá",
+   "그 회사는 동남아 시장을 공략하고 있어요.",
+   "Công ty đó đang tấn công thị trường Đông Nam Á."
+  ],
+  [
+   "관세",
+   "Gwanse",
+   "Thuế quan",
+   "수입품에 관세를 부과했어요.",
+   "Đã đánh thuế quan lên hàng nhập khẩu."
+  ],
+  [
+   "괴리",
+   "Goeri",
+   "Chia rẽ, ngăn cách",
+   "이론과 현실 사이에 괴리가 있어요.",
+   "Có khoảng cách giữa lý thuyết và thực tế."
+  ],
+  [
+   "구제역",
+   "Gujeyeok",
+   "Dịch lở mồm long móng",
+   "구제역 때문에 많은 소를 잃었어요.",
+   "Mất nhiều bò vì dịch lở mồm long móng."
+  ],
+  [
+   "단정 짓다",
+   "Danjeong jitda",
+   "Quyết định, kết luận",
+   "한 번의 실수로 그 사람을 나쁘다고 단정 지으면 안 돼요.",
+   "Không được kết luận người đó xấu chỉ vì một lần sai."
+  ],
+  [
+   "도약하다",
+   "Doyakada",
+   "Nhảy lên, phát triển cao hơn",
+   "한국은 짧은 시간에 선진국으로 도약했어요.",
+   "Hàn Quốc đã nhảy vọt thành nước phát triển trong thời gian ngắn."
+  ],
+  [
+   "뒤처지다",
+   "Dwicheojida",
+   "Tụt lại phía sau",
+   "변화를 따라가지 못하면 뒤처지기 쉬워요.",
+   "Không theo kịp thay đổi thì dễ tụt lại phía sau."
+  ],
+  [
+   "막연하다",
+   "Magyeonhada",
+   "Mơ hồ, lờ mờ, mập mờ",
+   "미래에 대한 막연한 불안감이 있어요.",
+   "Có cảm giác bất an mơ hồ về tương lai."
+  ],
+  [
+   "명심하다",
+   "Myeongsimhada",
+   "Ghi nhớ",
+   "선생님의 말씀을 명심하겠습니다.",
+   "Em xin ghi nhớ lời thầy."
+  ],
+  [
+   "발행 주체",
+   "Balhaeng juche",
+   "Nơi phát hành, người phát hành",
+   "채권은 발행 주체에 따라 위험도가 달라요.",
+   "Trái phiếu có độ rủi ro khác nhau tùy nơi phát hành."
+  ],
+  [
+   "발효되다",
+   "Balhyodoeda",
+   "Có hiệu lực; lên men",
+   "FTA가 다음 달에 발효돼요.",
+   "FTA sẽ có hiệu lực vào tháng sau."
+  ],
+  [
+   "방사능",
+   "Bangsaneung",
+   "Tính phóng xạ",
+   "방사능 오염이 걱정돼요.",
+   "Lo lắng về ô nhiễm phóng xạ."
+  ],
+  [
+   "보유 시기",
+   "Boyu sigi",
+   "Thời gian nắm giữ",
+   "주식 보유 시기에 따라 세금이 달라요.",
+   "Thuế khác nhau tùy thời gian nắm giữ cổ phiếu."
+  ],
+  [
+   "복귀",
+   "Bokgwi",
+   "Quay lại, thực hiện lại",
+   "부상에서 회복한 선수가 팀에 복귀했어요.",
+   "Cầu thủ hồi phục chấn thương đã trở lại đội."
+  ],
+  [
+   "부과하다",
+   "Bugwahada",
+   "Đánh (thuế), áp (phí)",
+   "정부는 사치품에 높은 세금을 부과해요.",
+   "Chính phủ đánh thuế cao vào hàng xa xỉ."
+  ],
+  [
+   "승자 독식",
+   "Seungja doksik",
+   "Kiểu chân lý thuộc về kẻ mạnh",
+   "승자 독식 구조는 불평등을 키워요.",
+   "Cơ cấu kẻ thắng lấy hết làm tăng bất bình đẳng."
+  ],
+  [
+   "악재",
+   "Akjae",
+   "Điều kiện không thuận lợi",
+   "유가 상승은 경제의 큰 악재예요.",
+   "Giá dầu tăng là yếu tố bất lợi lớn cho kinh tế."
+  ],
+  [
+   "완화되다",
+   "Wanhwadoeda",
+   "Bị giảm nhẹ",
+   "규제가 완화되어 창업이 쉬워졌어요.",
+   "Quy định được nới lỏng nên khởi nghiệp dễ hơn."
+  ],
+  [
+   "외침",
+   "Oechim",
+   "Sự ngoại xâm; tiếng kêu",
+   "한국은 역사적으로 많은 외침을 받았어요.",
+   "Trong lịch sử Hàn Quốc đã chịu nhiều cuộc ngoại xâm."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 느니 (차라리) — Thà … còn hơn",
+   "meaning": "So sánh hai hành động đều không tốt và chọn cái ÍT TỆ HƠN: 'thà… còn hơn…, … thì thà…'. Vế trước (gắn 느니) là điều người nói KHÔNG MUỐN NHẤT; vế sau (thường có 차라리) là lựa chọn được ưu tiên. Gắn 느니 vào thân ĐỘNG TỪ (có hay không patchim đều 느니; ㄹ bị lược: 살다 → 사느니): 빚을 지느니, 기다리느니, 사느니. Vế sau thường: 차라리 + V는 게 낫다 / V겠다 / V(으)ㄹ래요. Mẫu: 이렇게 사느니 차라리 이사를 가겠어요 (sống thế này thì thà chuyển nhà còn hơn). So sánh: (으)ㄹ 바에야 (Bài 240) – gần như cùng nghĩa, nhưng 바에야 nhấn mạnh 'nếu đằng nào cũng'; 느니 ngắn gọn, khẩu ngữ hơn. (으)ㄹ지언정 (Bài 239) – thà… chứ không…, vế sau phủ định.",
+   "examples": [
+    "빚을 지느니 차라리 안 사는 게 나아요. — Thà không mua còn hơn mắc nợ.",
+    "이렇게 기다리느니 차라리 걸어가겠어요. — Đợi thế này thì thà đi bộ còn hơn.",
+    "손해를 보고 파느니 조금 더 기다려 볼게요. — Thà đợi thêm chút nữa còn hơn bán lỗ.",
+    "그 사람한테 부탁하느니 혼자 하겠어요. — Thà tự làm một mình còn hơn nhờ người đó."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Khoản nợ của các hộ gia đình gọi là gì?",
+   "kr": "",
+   "options": [
+    "가계 부채",
+    "관세",
+    "악재"
+   ],
+   "answer": "가계 부채",
+   "explain": "가계 = kinh tế hộ."
+  },
+  {
+   "type": "choice",
+   "q": "Yếu tố bất lợi cho kinh tế / thị trường gọi là gì?",
+   "kr": "",
+   "options": [
+    "악재",
+    "호재",
+    "외침"
+   ],
+   "answer": "악재",
+   "explain": "악재 ↔ 호재 (yếu tố thuận lợi)."
+  },
+  {
+   "type": "choice",
+   "q": "'걷잡을 수 없이' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Không kiềm lại được",
+    "Một cách chậm rãi",
+    "Một cách cố định"
+   ],
+   "answer": "Không kiềm lại được",
+   "explain": "걷잡다 thường dùng phủ định."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: FTA sẽ có hiệu lực vào tháng sau.",
+   "kr": "FTA가 다음 달에 ___.",
+   "options": [
+    "발효돼요",
+    "완화돼요",
+    "복귀해요"
+   ],
+   "answer": "발효돼요",
+   "explain": "발효되다 = có hiệu lực."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Thà không mua còn hơn mắc nợ.'",
+   "kr": "",
+   "options": [
+    "빚을 지느니 차라리 안 사는 게 나아요.",
+    "빚을 진느니 차라리 안 사는 게 나아요.",
+    "빚을 지느니 꼭 빚을 지세요."
+   ],
+   "answer": "빚을 지느니 차라리 안 사는 게 나아요.",
+   "explain": "V느니 + 차라리."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 살다.",
+   "kr": "",
+   "options": [
+    "사느니",
+    "살느니",
+    "살으니"
+   ],
+   "answer": "사느니",
+   "explain": "ㄹ bị lược trước 느."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với V느니 차라리?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ 바에야 차라리",
+    "(으)ㄹ 겸",
+    "는 대로"
+   ],
+   "answer": "(으)ㄹ 바에야 차라리",
+   "explain": "Cả hai = thà… còn hơn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không theo kịp thay đổi thì dễ tụt lại.",
+   "kr": "변화를 따라가지 못하면 ___ 쉬워요.",
+   "options": [
+    "뒤처지기",
+    "도약하기",
+    "명심하기"
+   ],
+   "answer": "뒤처지기",
+   "explain": "뒤처지다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 느니 với 기다리다: Đợi thế này thì thà đi bộ.",
+   "kr": "이렇게 ___ 차라리 걸어가겠어요.",
+   "answer": [
+    "기다리느니"
+   ],
+   "explain": "기다리느니."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 느니 với 부탁하다: Thà tự làm còn hơn nhờ người đó.",
+   "kr": "그 사람한테 ___ 혼자 하겠어요.",
+   "answer": [
+    "부탁하느니"
+   ],
+   "explain": "부탁하느니."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Em xin ghi nhớ lời thầy.",
+   "kr": "선생님의 말씀을 ___하겠습니다.",
+   "answer": [
+    "명심"
+   ],
+   "explain": "명심하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Quy định được nới lỏng nên khởi nghiệp dễ hơn.",
+   "kr": "규제가 ___되어 창업이 쉬워졌어요.",
+   "answer": [
+    "완화"
+   ],
+   "explain": "완화되다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thà đợi thêm còn hơn bán lỗ.",
+   "tokens": [
+    "손해를",
+    "보고",
+    "파느니",
+    "조금",
+    "더",
+    "기다려",
+    "볼게요"
+   ],
+   "answer": "손해를 보고 파느니 조금 더 기다려 볼게요",
+   "explain": "팔다 → 파느니."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hàn Quốc nhảy vọt thành nước phát triển.",
+   "tokens": [
+    "한국은",
+    "짧은",
+    "시간에",
+    "선진국으로",
+    "도약했어요"
+   ],
+   "answer": "한국은 짧은 시간에 선진국으로 도약했어요",
+   "explain": "도약하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ăn đồ dở thế này thì thà nhịn đói còn hơn. (dùng 느니 차라리)",
+   "answer": [
+    "이렇게 맛없는 걸 먹느니 차라리 굶겠어요.",
+    "이렇게 맛없는 음식을 먹느니 차라리 굶는 게 나아요.",
+    "맛없는 음식을 먹느니 차라리 굶겠어요.",
+    "이런 맛없는 음식을 먹느니 차라리 굶을래요."
+   ],
+   "explain": "먹느니 차라리."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tắc đường là vấn đề cố hữu của Seoul.",
+   "answer": [
+    "교통 체증은 서울의 고질적인 문제예요.",
+    "교통 체증은 서울의 고질적 문제예요."
+   ],
+   "explain": "고질적."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cầu thủ hồi phục đã trở lại đội.",
+   "answer": [
+    "부상에서 회복한 선수가 팀에 복귀했어요.",
+    "회복한 선수가 팀에 복귀했어요."
+   ],
+   "explain": "복귀하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "가계 부채가 걷잡을 수 없이 늘어나자 정부는 대출 규제를 강화했다. 전문가들은 무리하게 빚을 지느니 소비를 줄이는 것이 낫다고 조언한다.",
+   "answer": "Khi nợ hộ gia đình tăng không kiểm soát được, chính phủ đã siết chặt quy định cho vay. Các chuyên gia khuyên rằng thà giảm tiêu dùng còn hơn vay nợ quá sức.",
+   "explain": "V자; 느니."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 다음 버스가 40분 후에 온대요.\n여자: 40분이나요? 여기서 그렇게 오래 기다리느니 차라리 택시를 타요.\n남자: ( )",
+   "options": [
+    "좋아요. 제가 택시를 부를게요.",
+    "버스가 벌써 왔어요.",
+    "택시는 타면 안 돼요.",
+    "40분 전에 왔어요."
+   ],
+   "answer": "좋아요. 제가 택시를 부를게요.",
+   "explain": "Đồng ý đi taxi."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "한국과 베트남의 자유무역협정이 발효된 이후 두 나라의 교역이 크게 늘었다. 관세가 낮아지면서 한국 기업들은 베트남 시장을 적극적으로 공략했고, 베트남의 농수산물도 한국에 더 많이 수출되었다. 다만 일부 농민들은 경쟁이 심해져 피해를 입기도 했다.",
+   "options": [
+    "FTA 발효 후 두 나라의 교역이 늘었다.",
+    "FTA로 관세가 높아졌다.",
+    "베트남의 농수산물 수출이 줄었다.",
+    "모든 농민이 이익을 보았다."
+   ],
+   "answer": "FTA 발효 후 두 나라의 교역이 늘었다.",
+   "explain": "교역이 크게 늘었다."
+  }
+ ]
+}

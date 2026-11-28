@@ -1,0 +1,397 @@
+{
+ "id": "bai-223",
+ "lesson": "Bài 223",
+ "title": "Tiếng Hàn Quốc và xã hội (phần 5/5)",
+ "krTitle": "한국어와 사회 5",
+ "date": "2027-10-09",
+ "day": 325,
+ "source": "TOPIK 6 – Bài 3: Tiếng Hàn Quốc và xã hội (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "음절",
+   "Eumjeol",
+   "Âm tiết",
+   "'사랑'은 두 음절로 된 단어예요.",
+   "'Sarang' là từ gồm hai âm tiết."
+  ],
+  [
+   "의성어",
+   "Uiseongeo",
+   "Từ tượng thanh",
+   "'멍멍'은 개 소리를 흉내 낸 의성어예요.",
+   "'Meongmeong' là từ tượng thanh bắt chước tiếng chó."
+  ],
+  [
+   "의태어",
+   "Uitaeeo",
+   "Từ tượng hình",
+   "'반짝반짝'은 의태어예요.",
+   "'Banjjak banjjak' là từ tượng hình."
+  ],
+  [
+   "임금",
+   "Imgeum",
+   "Vua, hoàng thượng",
+   "세종대왕은 조선의 네 번째 임금이에요.",
+   "Vua Sejong là vị vua thứ tư của triều Joseon."
+  ],
+  [
+   "입력하다",
+   "Imnyeokada",
+   "Nhập vào",
+   "비밀번호를 입력하세요.",
+   "Hãy nhập mật khẩu."
+  ],
+  [
+   "자리를 마련하다",
+   "Jarireul maryeonhada",
+   "Chuẩn bị chỗ, sắp chỗ",
+   "외국인 유학생을 위해 대화의 자리를 마련했어요.",
+   "Đã chuẩn bị buổi trò chuyện cho du học sinh nước ngoài."
+  ],
+  [
+   "자만하다",
+   "Jamanhada",
+   "Tự mãn",
+   "조금 잘한다고 자만하면 안 돼요.",
+   "Không được tự mãn chỉ vì làm tốt một chút."
+  ],
+  [
+   "제자 원리",
+   "Jeja wolli",
+   "Nguyên lý sáng tạo chữ",
+   "한글의 제자 원리는 과학적이에요.",
+   "Nguyên lý tạo chữ Hangeul rất khoa học."
+  ],
+  [
+   "제출하다",
+   "Jechulhada",
+   "Đưa ra, đề xuất",
+   "보고서를 금요일까지 제출하세요.",
+   "Hãy nộp báo cáo trước thứ sáu."
+  ],
+  [
+   "조합하다",
+   "Johapada",
+   "Tổ hợp, kết hợp",
+   "자음과 모음을 조합해서 글자를 만들어요.",
+   "Kết hợp phụ âm và nguyên âm để tạo chữ."
+  ],
+  [
+   "좌절하다",
+   "Jwajeolhada",
+   "Nản lòng, suy sụp",
+   "한 번 실패했다고 좌절하지 마세요.",
+   "Đừng nản lòng chỉ vì thất bại một lần."
+  ],
+  [
+   "창제하다",
+   "Changjehada",
+   "Sáng chế",
+   "한글은 1443년에 창제되었어요.",
+   "Hangeul được sáng tạo năm 1443."
+  ],
+  [
+   "채널",
+   "Chaeneol",
+   "Kênh",
+   "한국어 교육 채널을 구독했어요.",
+   "Tôi đã đăng ký kênh dạy tiếng Hàn."
+  ],
+  [
+   "친목을 다지다",
+   "Chinmogeul dajida",
+   "Củng cố tình thân",
+   "동아리 회원들이 함께 등산하며 친목을 다졌어요.",
+   "Thành viên câu lạc bộ cùng leo núi để thắt chặt tình thân."
+  ],
+  [
+   "큰코다치다",
+   "Keunkodachida",
+   "Bị một vố đau (vì chủ quan)",
+   "시험을 쉽게 생각하다가 큰코다쳤어요.",
+   "Coi thường kỳ thi nên đã bị một vố đau."
+  ],
+  [
+   "통틀어",
+   "Tongteureo",
+   "Tính gộp tất cả",
+   "한국어 학생은 통틀어 50명이에요.",
+   "Học sinh tiếng Hàn tính cả thảy là 50 người."
+  ],
+  [
+   "편찬",
+   "Pyeonchan",
+   "Biên soạn",
+   "조선 시대에 많은 책이 편찬되었어요.",
+   "Thời Joseon nhiều sách đã được biên soạn."
+  ],
+  [
+   "표기하다",
+   "Pyogihada",
+   "Ghi lại, phiên âm, sao lại, chép lại",
+   "외국어를 한글로 표기할 수 있어요.",
+   "Có thể phiên âm tiếng nước ngoài bằng Hangeul."
+  ],
+  [
+   "표음문자",
+   "Pyoeummunja",
+   "Chữ biểu âm",
+   "한글은 소리를 나타내는 표음문자예요.",
+   "Hangeul là chữ biểu âm thể hiện âm thanh."
+  ],
+  [
+   "획",
+   "Hoek",
+   "Nét",
+   "이 한자는 획이 너무 많아요.",
+   "Chữ Hán này có quá nhiều nét."
+  ],
+  [
+   "IT기기",
+   "Tepgigi",
+   "Thiết bị IT",
+   "IT기기에서도 한글은 입력하기 편해요.",
+   "Trên thiết bị IT, Hangeul cũng dễ nhập."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 고서 — Sau khi",
+   "meaning": "Nhấn mạnh hành động vế trước PHẢI HOÀN THÀNH rồi mới đến vế sau: 'sau khi… (rồi mới)…, … xong rồi thì…'. Là dạng nhấn mạnh của 고 (đã học). Gắn thẳng vào thân động từ: 듣다 → 듣고서, 먹다 → 먹고서, 하다 → 하고서. Chủ ngữ hai vế giống nhau. Hay dùng: ① Thứ tự bắt buộc: 손을 씻고서 밥을 먹어요. ② '…고서야' = 'phải… thì mới…' (nhấn mạnh điều kiện): 직접 해 보고서야 어려운 걸 알았어요 (phải tự làm mới biết khó). ③ '…고서는' + phủ định = 'nếu… thì không thể…': 노력하지 않고서는 성공할 수 없어요. So sánh: 고 (và, rồi – nhẹ); 아/어서 (rồi – hai hành động liên quan); 고서 nhấn mạnh 'xong việc trước rồi mới'.",
+   "examples": [
+    "설명을 끝까지 듣고서 질문하세요. — Hãy nghe hết phần giải thích rồi mới hỏi.",
+    "한글을 직접 배워 보고서야 과학적인 문자라는 걸 알았어요. — Phải tự học Hangeul tôi mới biết đó là chữ viết khoa học.",
+    "노력하지 않고서는 외국어를 잘할 수 없어요. — Không nỗ lực thì không thể giỏi ngoại ngữ.",
+    "그는 숙제를 다 하고서 잠을 잤어요. — Anh ấy làm xong hết bài tập rồi mới đi ngủ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Từ mô phỏng âm thanh (멍멍, 야옹) gọi là gì?",
+   "kr": "",
+   "options": [
+    "의성어",
+    "의태어",
+    "표음문자"
+   ],
+   "answer": "의성어",
+   "explain": "의성 = mô phỏng tiếng."
+  },
+  {
+   "type": "choice",
+   "q": "Từ mô phỏng hình dáng, trạng thái (반짝반짝, 엉금엉금) gọi là gì?",
+   "kr": "",
+   "options": [
+    "의태어",
+    "의성어",
+    "한자어"
+   ],
+   "answer": "의태어",
+   "explain": "의태 = mô phỏng dáng."
+  },
+  {
+   "type": "choice",
+   "q": "'큰코다치다' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Bị một vố đau vì chủ quan",
+    "Mũi to",
+    "Bị thương ở mũi"
+   ],
+   "answer": "Bị một vố đau vì chủ quan",
+   "explain": "Thành ngữ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Kết hợp phụ âm và nguyên âm để tạo chữ.",
+   "kr": "자음과 모음을 ___해서 글자를 만들어요.",
+   "options": [
+    "조합",
+    "편찬",
+    "입력"
+   ],
+   "answer": "조합",
+   "explain": "조합하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Hãy nghe hết giải thích rồi mới hỏi.'",
+   "kr": "",
+   "options": [
+    "설명을 끝까지 듣고서 질문하세요.",
+    "설명을 끝까지 들어고서 질문하세요.",
+    "설명을 끝까지 들었고서 질문하세요."
+   ],
+   "answer": "설명을 끝까지 듣고서 질문하세요.",
+   "explain": "Gắn thẳng: 듣고서."
+  },
+  {
+   "type": "choice",
+   "q": "'노력하지 않고서는 성공할 수 없어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Không nỗ lực thì không thể thành công.",
+    "Sau khi nỗ lực đã thành công.",
+    "Nỗ lực rồi vẫn không thành công."
+   ],
+   "answer": "Không nỗ lực thì không thể thành công.",
+   "explain": "고서는 + phủ định."
+  },
+  {
+   "type": "choice",
+   "q": "'직접 해 보고서야 알았어요.' nhấn mạnh điều gì?",
+   "kr": "",
+   "options": [
+    "Phải tự làm thì mới biết",
+    "Làm xong thì quên",
+    "Biết rồi mới làm"
+   ],
+   "answer": "Phải tự làm thì mới biết",
+   "explain": "고서야 = phải… thì mới…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đừng nản lòng vì thất bại một lần.",
+   "kr": "한 번 실패했다고 ___하지 마세요.",
+   "options": [
+    "좌절",
+    "자만",
+    "제출"
+   ],
+   "answer": "좌절",
+   "explain": "좌절하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고서 với 하다: Anh ấy làm xong hết bài tập rồi mới ngủ.",
+   "kr": "그는 숙제를 다 ___ 잠을 잤어요.",
+   "answer": [
+    "하고서"
+   ],
+   "explain": "하고서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고서야 với 배워 보다: Phải tự học mới biết Hangeul khoa học.",
+   "kr": "한글을 직접 ___ 과학적인 문자라는 걸 알았어요.",
+   "answer": [
+    "배워 보고서야"
+   ],
+   "explain": "보고서야."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hãy nhập mật khẩu.",
+   "kr": "비밀번호를 ___하세요.",
+   "answer": [
+    "입력"
+   ],
+   "explain": "입력하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chữ Hán này có quá nhiều nét.",
+   "kr": "이 한자는 ___이 너무 많아요.",
+   "answer": [
+    "획"
+   ],
+   "explain": "획."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Không nỗ lực thì không thể giỏi ngoại ngữ.",
+   "tokens": [
+    "노력하지",
+    "않고서는",
+    "외국어를",
+    "잘할",
+    "수",
+    "없어요"
+   ],
+   "answer": "노력하지 않고서는 외국어를 잘할 수 없어요",
+   "explain": "고서는 + 수 없다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thành viên câu lạc bộ thắt chặt tình thân.",
+   "tokens": [
+    "동아리",
+    "회원들이",
+    "친목을",
+    "다졌어요"
+   ],
+   "answer": "동아리 회원들이 친목을 다졌어요",
+   "explain": "친목을 다지다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy rửa tay rồi mới ăn cơm. (dùng 고서)",
+   "answer": [
+    "손을 씻고서 밥을 드세요.",
+    "손을 씻고서 밥을 먹으세요.",
+    "손을 씻고서 식사하세요.",
+    "손을 씻고서 밥을 먹어요."
+   ],
+   "explain": "씻고서."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hangeul là chữ biểu âm.",
+   "answer": [
+    "한글은 표음문자예요.",
+    "한글은 표음문자입니다."
+   ],
+   "explain": "표음문자."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy nộp báo cáo trước thứ sáu.",
+   "answer": [
+    "보고서를 금요일까지 제출하세요.",
+    "금요일까지 보고서를 제출하세요.",
+    "보고서는 금요일까지 제출해 주세요."
+   ],
+   "explain": "제출하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한글은 자음과 모음을 조합해서 음절을 만드는 표음문자이다. 그래서 획이 많은 한자와 달리 배우기 쉽고, IT기기에서도 빠르게 입력할 수 있다.",
+   "answer": "Hangeul là chữ biểu âm, kết hợp phụ âm và nguyên âm để tạo âm tiết. Vì vậy khác với chữ Hán nhiều nét, nó dễ học và có thể nhập nhanh trên thiết bị IT.",
+   "explain": "와/과 달리."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 이번 시험 쉬울 것 같아서 공부를 별로 안 했어요.\n여자: 그러다가 큰코다쳐요. 지난번에도 그렇게 말하고서 점수가 안 좋았잖아요.\n남자: ( )",
+   "options": [
+    "맞아요. 오늘부터 열심히 공부할게요.",
+    "시험이 벌써 끝났어요.",
+    "코가 아파서 병원에 가요.",
+    "점수가 아주 좋았어요."
+   ],
+   "answer": "맞아요. 오늘부터 열심히 공부할게요.",
+   "explain": "Bị nhắc → hứa học."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "한글은 세계에서 만든 사람과 만든 원리가 알려진 거의 유일한 문자이다. 『훈민정음 해례본』에는 (     ) 자세히 기록되어 있다. 그래서 1997년 유네스코 세계기록유산으로 등재되었다.",
+   "options": [
+    "한글의 제자 원리가",
+    "세종대왕의 일기가",
+    "조선 시대의 음식이",
+    "외국어 단어가"
+   ],
+   "answer": "한글의 제자 원리가",
+   "explain": "만든 원리 → 제자 원리."
+  }
+ ]
+}

@@ -1,0 +1,414 @@
+{
+ "id": "bai-216",
+ "lesson": "Bài 216",
+ "title": "Khoa học và tương lai (phần 2/4)",
+ "krTitle": "과학과 미래 2",
+ "date": "2027-09-29",
+ "day": 315,
+ "source": "TOPIK 6 – Bài 2: Khoa học và tương lai (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "발명품",
+   "Balmyeongpum",
+   "Sản phẩm phát minh",
+   "전화기는 생활을 바꾼 위대한 발명품이에요.",
+   "Điện thoại là phát minh vĩ đại đã thay đổi cuộc sống."
+  ],
+  [
+   "착안",
+   "Chagan",
+   "Sự nảy ý, lấy ý tưởng từ",
+   "그는 새의 날개에서 착안해 비행기를 만들었어요.",
+   "Ông ấy lấy ý tưởng từ cánh chim để làm máy bay."
+  ],
+  [
+   "대체하다",
+   "Daechehada",
+   "Thay thế",
+   "로봇이 사람의 일을 대체하고 있어요.",
+   "Robot đang thay thế công việc của con người."
+  ],
+  [
+   "보급하다",
+   "Bogeupada",
+   "Phổ biến, truyền đi",
+   "정부가 농촌에 인터넷을 보급했어요.",
+   "Chính phủ đã phổ cập internet về nông thôn."
+  ],
+  [
+   "발명가",
+   "Balmyeongga",
+   "Nhà phát minh",
+   "그 발명가는 평생 100개가 넘는 특허를 받았어요.",
+   "Nhà phát minh đó cả đời nhận hơn 100 bằng sáng chế."
+  ],
+  [
+   "고안",
+   "Goan",
+   "Sự nghĩ ra, sáng chế",
+   "학생이 고안한 쓰레기통이 상을 받았어요.",
+   "Thùng rác do học sinh nghĩ ra đã đoạt giải."
+  ],
+  [
+   "적용하다",
+   "Jeogyonghada",
+   "Áp dụng",
+   "새 기술을 농업에 적용했어요.",
+   "Đã áp dụng công nghệ mới vào nông nghiệp."
+  ],
+  [
+   "규명하다",
+   "Gyumyeonghada",
+   "Điều tra nghiên cứu, làm sáng tỏ",
+   "과학자들이 병의 원인을 규명했어요.",
+   "Các nhà khoa học đã làm sáng tỏ nguyên nhân bệnh."
+  ],
+  [
+   "고체",
+   "Goche",
+   "Thể rắn",
+   "얼음은 물의 고체 상태예요.",
+   "Nước đá là trạng thái rắn của nước."
+  ],
+  [
+   "원자",
+   "Wonja",
+   "Nguyên tử",
+   "모든 물질은 원자로 이루어져 있어요.",
+   "Mọi vật chất đều được cấu tạo từ nguyên tử."
+  ],
+  [
+   "액체",
+   "Aekche",
+   "Thể lỏng",
+   "물은 상온에서 액체예요.",
+   "Nước ở nhiệt độ phòng là chất lỏng."
+  ],
+  [
+   "원소",
+   "Wonso",
+   "Nguyên tố",
+   "산소는 생명에 꼭 필요한 원소예요.",
+   "Oxy là nguyên tố cần thiết cho sự sống."
+  ],
+  [
+   "기체",
+   "Giche",
+   "Thể khí",
+   "물이 끓으면 기체로 변해요.",
+   "Nước sôi thì chuyển thành thể khí."
+  ],
+  [
+   "분자",
+   "Bunja",
+   "Phân tử",
+   "물 분자는 수소와 산소로 되어 있어요.",
+   "Phân tử nước gồm hydro và oxy."
+  ],
+  [
+   "순기능",
+   "Sungineung",
+   "Mặt tích cực (chức năng tích cực)",
+   "인터넷의 순기능은 정보를 쉽게 얻는 거예요.",
+   "Mặt tích cực của internet là dễ dàng có thông tin."
+  ],
+  [
+   "충족하다",
+   "Chungjokada",
+   "Thỏa mãn, toại nguyện, đầy đủ",
+   "이 제품은 소비자의 요구를 충족했어요.",
+   "Sản phẩm này đã đáp ứng yêu cầu người tiêu dùng."
+  ],
+  [
+   "소외 현상",
+   "Sooe hyeonsang",
+   "Hiện tượng bị cô lập",
+   "기계화로 사람 사이의 소외 현상이 생겼어요.",
+   "Do cơ giới hóa mà nảy sinh hiện tượng con người bị cô lập."
+  ],
+  [
+   "역기능",
+   "Yeokgineung",
+   "Mặt tiêu cực (tác dụng ngược)",
+   "스마트폰 중독은 기술의 역기능이에요.",
+   "Nghiện điện thoại là mặt tiêu cực của công nghệ."
+  ],
+  [
+   "한계 극복",
+   "Hangye geukbok",
+   "Sự khắc phục hạn chế",
+   "과학은 인간의 한계 극복을 도왔어요.",
+   "Khoa học đã giúp con người khắc phục giới hạn."
+  ],
+  [
+   "인간성 상실",
+   "Inganseong sangsil",
+   "Mất nhân tính",
+   "지나친 기계 의존은 인간성 상실을 가져올 수 있어요.",
+   "Lệ thuộc máy móc quá mức có thể dẫn đến mất nhân tính."
+  ],
+  [
+   "풍요롭다",
+   "Pungyoropda",
+   "Phong phú, màu mỡ",
+   "과학 덕분에 생활이 풍요로워졌어요.",
+   "Nhờ khoa học mà cuộc sống trở nên sung túc."
+  ],
+  [
+   "대량 살상",
+   "Daeryang salsang",
+   "Sự sát thương hàng loạt",
+   "핵무기는 대량 살상을 일으킬 수 있어요.",
+   "Vũ khí hạt nhân có thể gây sát thương hàng loạt."
+  ],
+  [
+   "닿다",
+   "Data",
+   "Chạm tới, đặt chân tới, truyền tới",
+   "인류의 발길이 달에 닿았어요.",
+   "Bước chân loài người đã chạm tới mặt trăng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 마저 — Ngay cả",
+   "meaning": "'Ngay cả… (cái cuối cùng còn lại) cũng…': nhấn mạnh rằng đến cả thứ CUỐI CÙNG, thứ duy nhất còn lại cũng bị mất / cũng xảy ra điều xấu → tình huống càng tồi tệ hơn. Gắn sau danh từ: 너마저 (ngay cả cậu), 희망마저 (cả hy vọng), 마지막 기회마저. Thường dùng với kết quả TIÊU CỰC: 잃다, 떠나다, 없어지다, 실패하다. So sánh với 조차 (Bài 205): 조차 = ngay cả điều CƠ BẢN NHẤT (thường đi với phủ định: 이름조차 몰라요); 마저 = ngay cả điều CUỐI CÙNG CÒN LẠI (thêm vào chuỗi điều xấu: 돈도 잃고 건강마저 잃었어요). Nhiều trường hợp dùng thay thế nhau được. 까지 = 'đến cả' (trung tính, tích cực cũng dùng được).",
+   "examples": [
+    "로봇이 사람의 일마저 대체하고 있어요. — Robot đang thay thế đến cả công việc của con người.",
+    "돈도 잃고 건강마저 잃었어요. — Mất tiền rồi lại mất luôn cả sức khỏe.",
+    "믿었던 친구마저 제 곁을 떠났어요. — Ngay cả người bạn mình tin tưởng cũng rời bỏ tôi.",
+    "실험이 실패하자 마지막 희망마저 사라졌어요. — Thí nghiệm thất bại, ngay cả hy vọng cuối cùng cũng tan biến."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ba trạng thái của vật chất là gì?",
+   "kr": "",
+   "options": [
+    "고체, 액체, 기체",
+    "원자, 분자, 원소",
+    "순기능, 역기능, 소외"
+   ],
+   "answer": "고체, 액체, 기체",
+   "explain": "Rắn, lỏng, khí."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 순기능 là gì?",
+   "kr": "",
+   "options": [
+    "역기능",
+    "충족",
+    "고안"
+   ],
+   "answer": "역기능",
+   "explain": "순 (thuận) ↔ 역 (nghịch)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Robot đang thay thế công việc của con người.",
+   "kr": "로봇이 사람의 일을 ___고 있어요.",
+   "options": [
+    "대체하",
+    "규명하",
+    "충족하"
+   ],
+   "answer": "대체하",
+   "explain": "대체하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Các nhà khoa học đã làm sáng tỏ nguyên nhân bệnh.",
+   "kr": "과학자들이 병의 원인을 ___.",
+   "options": [
+    "규명했어요",
+    "보급했어요",
+    "착안했어요"
+   ],
+   "answer": "규명했어요",
+   "explain": "규명하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Mất tiền rồi lại mất luôn cả sức khỏe.'",
+   "kr": "",
+   "options": [
+    "돈도 잃고 건강마저 잃었어요.",
+    "돈도 잃고 건강마저 얻었어요.",
+    "돈마저 잃고 건강도 좋아졌어요."
+   ],
+   "answer": "돈도 잃고 건강마저 잃었어요.",
+   "explain": "마저 + kết quả xấu chồng chất."
+  },
+  {
+   "type": "choice",
+   "q": "'너마저 나를 떠나는 거야?' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Đến cả cậu cũng rời bỏ tớ sao?",
+    "Cậu chỉ rời bỏ tớ thôi à?",
+    "Cậu sẽ ở lại với tớ chứ?"
+   ],
+   "answer": "Đến cả cậu cũng rời bỏ tớ sao?",
+   "explain": "너마저 = ngay cả cậu."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào tự nhiên NHẤT với 마저?",
+   "kr": "",
+   "options": [
+    "마지막 희망마저 사라졌어요.",
+    "선물마저 받아서 기뻤어요.",
+    "시험에 합격하고 장학금마저 받아서 좋아요."
+   ],
+   "answer": "마지막 희망마저 사라졌어요.",
+   "explain": "마저 thường đi với tình huống tiêu cực."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhờ khoa học mà cuộc sống trở nên sung túc.",
+   "kr": "과학 덕분에 생활이 ___.",
+   "options": [
+    "풍요로워졌어요",
+    "소외됐어요",
+    "대체됐어요"
+   ],
+   "answer": "풍요로워졌어요",
+   "explain": "풍요롭다 → 풍요로워지다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 마저: Ngay cả người bạn tôi tin cũng rời bỏ tôi.",
+   "kr": "믿었던 ___ 제 곁을 떠났어요.",
+   "answer": [
+    "친구마저",
+    "친구조차"
+   ],
+   "explain": "친구마저."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 마저: Mưa to, đến cả điện cũng mất.",
+   "kr": "비가 많이 와서 ___ 끊겼어요.",
+   "answer": [
+    "전기마저",
+    "전기까지",
+    "전기조차"
+   ],
+   "explain": "전기마저."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nước đá là trạng thái rắn của nước.",
+   "kr": "얼음은 물의 ___ 상태예요.",
+   "answer": [
+    "고체"
+   ],
+   "explain": "고체."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã áp dụng công nghệ mới vào nông nghiệp.",
+   "kr": "새 기술을 농업에 ___했어요.",
+   "answer": [
+    "적용"
+   ],
+   "explain": "적용하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Robot đang thay thế đến cả công việc của con người.",
+   "tokens": [
+    "로봇이",
+    "사람의",
+    "일마저",
+    "대체하고",
+    "있어요"
+   ],
+   "answer": "로봇이 사람의 일마저 대체하고 있어요",
+   "explain": "N마저."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ông ấy lấy ý tưởng từ cánh chim để làm máy bay.",
+   "tokens": [
+    "그는",
+    "새의",
+    "날개에서",
+    "착안해",
+    "비행기를",
+    "만들었어요"
+   ],
+   "answer": "그는 새의 날개에서 착안해 비행기를 만들었어요",
+   "explain": "N에서 착안하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Trời lạnh, đến cả nước cũng đóng băng. (dùng 마저)",
+   "answer": [
+    "날씨가 추워서 물마저 얼었어요.",
+    "너무 추워서 물마저 얼었어요.",
+    "날씨가 추워서 물마저 꽁꽁 얼었어요."
+   ],
+   "explain": "물마저."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nghiện điện thoại là mặt tiêu cực của công nghệ.",
+   "answer": [
+    "스마트폰 중독은 기술의 역기능이에요.",
+    "스마트폰 중독은 과학 기술의 역기능이에요.",
+    "휴대폰 중독은 기술의 역기능이에요."
+   ],
+   "explain": "역기능."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mọi vật chất đều được cấu tạo từ nguyên tử.",
+   "answer": [
+    "모든 물질은 원자로 이루어져 있어요.",
+    "모든 물질은 원자로 되어 있어요."
+   ],
+   "explain": "(으)로 이루어지다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "과학 기술은 생활을 풍요롭게 하는 순기능도 있지만 역기능도 있다. 기계가 사람의 일을 대체하면서 일자리가 줄고, 사람들 사이의 대화마저 줄어드는 소외 현상이 나타나고 있다.",
+   "answer": "Khoa học công nghệ có mặt tích cực làm cuộc sống sung túc nhưng cũng có mặt tiêu cực. Khi máy móc thay thế công việc con người, việc làm giảm đi, và hiện tượng cô lập xuất hiện khi ngay cả trò chuyện giữa con người cũng ít đi.",
+   "explain": "마저; 소외 현상."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 위대한 발명품 중에는 우연히 착안한 것이 많습니다. 예를 들어 전자레인지는 한 과학자가 실험을 하다가 주머니 속 초콜릿이 녹은 것을 보고 고안했습니다. 이처럼 발명은 작은 관찰에서 시작되는 경우가 많습니다. 여러분도 주변을 주의 깊게 관찰하는 습관을 가지시기 바랍니다.",
+   "options": [
+    "전자레인지는 우연한 관찰에서 고안되었다.",
+    "모든 발명은 계획대로만 만들어진다.",
+    "초콜릿은 전자레인지로 만든 것이다.",
+    "관찰은 발명과 관계가 없다."
+   ],
+   "answer": "전자레인지는 우연한 관찰에서 고안되었다.",
+   "explain": "초콜릿이 녹은 것을 보고 고안."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 물을 계속 가열하면 결국 기체인 수증기가 된다.\n(나) 물은 온도에 따라 상태가 바뀐다.\n(다) 0도 이하가 되면 고체인 얼음이 되고, 온도를 높이면 다시 액체가 된다.",
+   "options": [
+    "(나)-(다)-(가)",
+    "(가)-(나)-(다)",
+    "(다)-(가)-(나)",
+    "(나)-(가)-(다)"
+   ],
+   "answer": "(나)-(다)-(가)",
+   "explain": "Ý chung (나) → (다) → 결국 (가)."
+  }
+ ]
+}

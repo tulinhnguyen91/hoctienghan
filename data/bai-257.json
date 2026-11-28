@@ -1,0 +1,403 @@
+{
+ "id": "bai-257",
+ "lesson": "Bài 257",
+ "title": "Y học hiện đại (phần 3/4)",
+ "krTitle": "현대 의학 3",
+ "date": "2027-11-29",
+ "day": 376,
+ "source": "TOPIK 6 – Bài 11: Y học hiện đại (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "생명윤리",
+   "Saengmyeongyulli",
+   "Luân lý sinh mệnh, đạo đức sinh học",
+   "줄기세포 연구는 생명윤리 문제와 관련이 있어요.",
+   "Nghiên cứu tế bào gốc liên quan đến vấn đề đạo đức sinh học."
+  ],
+  [
+   "장기이식",
+   "Janggiisik",
+   "Cấy ghép nội tạng",
+   "장기이식으로 새 삶을 얻었어요.",
+   "Nhờ ghép tạng mà có được cuộc sống mới."
+  ],
+  [
+   "의료 소송",
+   "Uiryo sosong",
+   "Tố tụng y tế",
+   "의료 사고로 의료 소송을 제기했어요.",
+   "Do sự cố y khoa mà đã khởi kiện y tế."
+  ],
+  [
+   "인식을 고양하다",
+   "Insigeul goyanghada",
+   "Nâng cao nhận thức",
+   "캠페인으로 장기 기증에 대한 인식을 고양했어요.",
+   "Đã nâng cao nhận thức về hiến tạng bằng chiến dịch."
+  ],
+  [
+   "고취시키다",
+   "Gochwisikida",
+   "Khơi dậy, cổ vũ",
+   "그 의사는 젊은 의사들의 사명감을 고취시켰어요.",
+   "Bác sĩ đó đã khơi dậy tinh thần trách nhiệm của các bác sĩ trẻ."
+  ],
+  [
+   "고혈압",
+   "Gohyeorap",
+   "Cao huyết áp",
+   "짜게 먹으면 고혈압에 걸리기 쉬워요.",
+   "Ăn mặn thì dễ bị cao huyết áp."
+  ],
+  [
+   "골격을 이루다",
+   "Golgyeogeul iruda",
+   "Tạo thành bộ khung (khung xương)",
+   "뼈는 우리 몸의 골격을 이뤄요.",
+   "Xương tạo thành bộ khung của cơ thể chúng ta."
+  ],
+  [
+   "급성 감염",
+   "Geupseong gamnyeom",
+   "Truyền nhiễm cấp tính",
+   "급성 감염은 빨리 치료해야 해요.",
+   "Nhiễm trùng cấp tính phải chữa nhanh."
+  ],
+  [
+   "난자",
+   "Nanja",
+   "Tế bào trứng",
+   "난자와 정자가 만나 생명이 시작돼요.",
+   "Trứng và tinh trùng gặp nhau thì sự sống bắt đầu."
+  ],
+  [
+   "내성이 생기다",
+   "Naeseongi saenggida",
+   "Sinh kháng thuốc (nhờn thuốc)",
+   "항생제를 자주 먹으면 내성이 생겨요.",
+   "Uống kháng sinh thường xuyên thì sinh kháng thuốc."
+  ],
+  [
+   "내장",
+   "Naejang",
+   "Nội tạng",
+   "간과 위는 중요한 내장이에요.",
+   "Gan và dạ dày là nội tạng quan trọng."
+  ],
+  [
+   "뇌사자",
+   "Noesaja",
+   "Người bị chết não",
+   "뇌사자의 장기 기증으로 다섯 명이 살았어요.",
+   "Nhờ người chết não hiến tạng mà năm người được sống."
+  ],
+  [
+   "대별되다",
+   "Daebyeoldoeda",
+   "Được chia thành các nhóm lớn",
+   "의학은 크게 기초의학과 임상의학으로 대별돼요.",
+   "Y học được chia lớn thành y học cơ bản và y học lâm sàng."
+  ],
+  [
+   "뜸을 뜨다",
+   "Tteumeul tteuda",
+   "Xông huyệt",
+   "할머니는 아플 때 뜸을 떠요.",
+   "Bà hơ ngải cứu khi bị đau."
+  ],
+  [
+   "레이저 시술",
+   "Reijeo sisul",
+   "Phẫu thuật laser",
+   "레이저 시술로 점을 뺐어요.",
+   "Đã tẩy nốt ruồi bằng laser."
+  ],
+  [
+   "만병통치약",
+   "Manbyeongtongchiyak",
+   "Thuốc chữa bách bệnh",
+   "세상에 만병통치약은 없어요.",
+   "Trên đời không có thuốc chữa bách bệnh."
+  ],
+  [
+   "무력하다",
+   "Muryeokada",
+   "Bất lực, yếu ớt",
+   "큰 병 앞에서 인간은 무력해요.",
+   "Con người bất lực trước bệnh hiểm nghèo."
+  ],
+  [
+   "무병장수",
+   "Mubyeongjangsu",
+   "Trường thọ vô bệnh, khỏe mạnh sống lâu",
+   "모든 사람은 무병장수를 원해요.",
+   "Ai cũng muốn sống lâu không bệnh tật."
+  ],
+  [
+   "미세하다",
+   "Misehada",
+   "Nhỏ li ti, vi tế",
+   "현미경으로 미세한 세포를 관찰했어요.",
+   "Đã quan sát tế bào li ti bằng kính hiển vi."
+  ],
+  [
+   "배란기",
+   "Baerangi",
+   "Kỳ rụng trứng",
+   "배란기를 알아야 임신 계획을 세울 수 있어요.",
+   "Phải biết kỳ rụng trứng mới lên kế hoạch mang thai được."
+  ],
+  [
+   "법제화",
+   "Beopjehwa",
+   "Pháp chế hóa",
+   "존엄사 법제화에 대한 논의가 이어지고 있어요.",
+   "Tranh luận về pháp chế hóa cái chết tôn nghiêm đang tiếp diễn."
+  ],
+  [
+   "부흥시키다",
+   "Buheungsikida",
+   "Làm phục hưng",
+   "정부는 전통 의학을 부흥시키려고 해요.",
+   "Chính phủ muốn phục hưng y học truyền thống."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 기나 하면 — Chỉ cần … thôi",
+   "meaning": "Nêu một ĐIỀU KIỆN TỐI THIỂU mà người nói mong mỏi (hoặc thách thức): 'chỉ cần… thôi (thì…), giá mà… thôi cũng được'. Cấu tạo: danh từ hóa 기 + 나 (ít nhất, dù chỉ) + 하면 (nếu). Gắn vào thân V/A: 낫다 → 낫기나 하면, 오다 → 오기나 하면, 있다 → 있기나 하면. Hai sắc thái: ① MONG MỎI khiêm tốn: 병이 낫기나 하면 소원이 없겠어요 (chỉ cần khỏi bệnh thôi là tôi không còn mong gì nữa). ② THÁCH THỨC / đe dọa nhẹ: 또 늦기나 하면 가만두지 않겠어요 (cứ thử đến muộn nữa xem, tôi không để yên đâu). Vế sau thường: 좋겠다, 소원이 없겠다, 다행이다 (①) hoặc 가만두지 않겠다, 혼날 줄 알아 (②). Văn nói, giàu cảm xúc.",
+   "examples": [
+    "수술이 잘되기나 하면 좋겠어요. — Chỉ mong ca mổ thành công thôi là tốt rồi.",
+    "할머니가 건강하게 살아 계시기나 하면 소원이 없겠어요. — Chỉ cần bà còn sống khỏe mạnh thôi là tôi chẳng mong gì hơn.",
+    "약을 먹고 열이 내리기나 하면 다행이에요. — Uống thuốc mà hạ sốt được thôi cũng là may.",
+    "또 약을 빼먹기나 하면 의사 선생님께 말할 거야. — Cứ thử bỏ thuốc nữa xem, mẹ sẽ mách bác sĩ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Thuốc chữa được mọi bệnh gọi là gì?",
+   "kr": "",
+   "options": [
+    "만병통치약",
+    "항생제",
+    "레이저 시술"
+   ],
+   "answer": "만병통치약",
+   "explain": "만병 = vạn bệnh; 통치 = chữa hết."
+  },
+  {
+   "type": "choice",
+   "q": "Người bị chết não gọi là gì?",
+   "kr": "",
+   "options": [
+    "뇌사자",
+    "식물인간",
+    "환자"
+   ],
+   "answer": "뇌사자",
+   "explain": "뇌사 = chết não."
+  },
+  {
+   "type": "choice",
+   "q": "Uống thuốc nhiều lần khiến thuốc không còn tác dụng gọi là gì?",
+   "kr": "",
+   "options": [
+    "내성이 생기다",
+    "골격을 이루다",
+    "뜸을 뜨다"
+   ],
+   "answer": "내성이 생기다",
+   "explain": "내성 = kháng (thuốc)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ăn mặn thì dễ bị cao huyết áp.",
+   "kr": "짜게 먹으면 ___에 걸리기 쉬워요.",
+   "options": [
+    "고혈압",
+    "급성 감염",
+    "배란기"
+   ],
+   "answer": "고혈압",
+   "explain": "고혈압."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Chỉ mong ca mổ thành công thôi là tốt rồi.'",
+   "kr": "",
+   "options": [
+    "수술이 잘되기나 하면 좋겠어요.",
+    "수술이 잘되기나 해서 좋겠어요.",
+    "수술이 잘된 기나 하면 좋겠어요."
+   ],
+   "answer": "수술이 잘되기나 하면 좋겠어요.",
+   "explain": "V기나 하면 + 좋겠어요."
+  },
+  {
+   "type": "choice",
+   "q": "'또 늦기나 하면 가만두지 않겠어요.' mang sắc thái gì?",
+   "kr": "",
+   "options": [
+    "Thách thức / đe dọa nhẹ",
+    "Mong mỏi khiêm tốn",
+    "Khen ngợi"
+   ],
+   "answer": "Thách thức / đe dọa nhẹ",
+   "explain": "Nghĩa ②."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào mang sắc thái MONG MỎI?",
+   "kr": "",
+   "options": [
+    "병이 낫기나 하면 소원이 없겠어요.",
+    "거짓말을 하기나 하면 혼날 줄 알아.",
+    "또 싸우기나 하면 가만두지 않겠어요."
+   ],
+   "answer": "병이 낫기나 하면 소원이 없겠어요.",
+   "explain": "소원이 없겠다 = mong mỏi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Con người bất lực trước bệnh hiểm nghèo.",
+   "kr": "큰 병 앞에서 인간은 ___.",
+   "options": [
+    "무력해요",
+    "미세해요",
+    "대별돼요"
+   ],
+   "answer": "무력해요",
+   "explain": "무력하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기나 하면 với 내리다: Uống thuốc mà hạ sốt được thôi cũng là may.",
+   "kr": "약을 먹고 열이 ___ 다행이에요.",
+   "answer": [
+    "내리기나 하면"
+   ],
+   "explain": "내리기나 하면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기나 하면 với 살아 계시다: Chỉ cần bà còn sống khỏe là tôi chẳng mong gì hơn.",
+   "kr": "할머니가 건강하게 ___ 소원이 없겠어요.",
+   "answer": [
+    "살아 계시기나 하면"
+   ],
+   "explain": "계시기나 하면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trên đời không có thuốc chữa bách bệnh.",
+   "kr": "세상에 ___은 없어요.",
+   "answer": [
+    "만병통치약"
+   ],
+   "explain": "만병통치약."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã quan sát tế bào li ti bằng kính hiển vi.",
+   "kr": "현미경으로 ___ 세포를 관찰했어요.",
+   "answer": [
+    "미세한"
+   ],
+   "explain": "미세하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chỉ cần khỏi bệnh thôi là chẳng mong gì hơn.",
+   "tokens": [
+    "병이",
+    "낫기나",
+    "하면",
+    "소원이",
+    "없겠어요"
+   ],
+   "answer": "병이 낫기나 하면 소원이 없겠어요",
+   "explain": "기나 하면."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhờ ghép tạng mà có cuộc sống mới.",
+   "tokens": [
+    "장기이식으로",
+    "새",
+    "삶을",
+    "얻었어요"
+   ],
+   "answer": "장기이식으로 새 삶을 얻었어요",
+   "explain": "(으)로."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chỉ mong con ngủ ngon thôi là tốt rồi. (dùng 기나 하면)",
+   "answer": [
+    "아이가 잘 자기나 하면 좋겠어요.",
+    "아기가 푹 자기나 하면 좋겠어요.",
+    "아이가 잠을 잘 자기나 하면 좋겠어요.",
+    "아이가 푹 자기나 하면 좋겠어요."
+   ],
+   "explain": "자기나 하면 좋겠어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Uống kháng sinh thường xuyên thì sinh kháng thuốc.",
+   "answer": [
+    "항생제를 자주 먹으면 내성이 생겨요.",
+    "항생제를 자주 복용하면 내성이 생겨요."
+   ],
+   "explain": "내성이 생기다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ai cũng muốn sống lâu không bệnh tật.",
+   "answer": [
+    "모든 사람은 무병장수를 원해요.",
+    "누구나 무병장수를 원해요.",
+    "모든 사람이 무병장수를 바라요."
+   ],
+   "explain": "무병장수."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "장기이식은 많은 환자에게 새 삶을 주지만 뇌사자의 장기 기증은 아직 많지 않다. 그래서 정부와 의료계는 장기 기증에 대한 인식을 고양하기 위해 다양한 캠페인을 벌이고 있다.",
+   "answer": "Ghép tạng mang lại cuộc sống mới cho nhiều bệnh nhân nhưng hiến tạng từ người chết não vẫn chưa nhiều. Vì vậy chính phủ và giới y tế đang tổ chức nhiều chiến dịch để nâng cao nhận thức về hiến tạng.",
+   "explain": "기 위해; 캠페인을 벌이다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe phỏng vấn và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "기자: 항생제 내성 문제가 심각하다고 들었습니다.\n의사: 네. 감기에 걸려도 항생제를 먹는 경우가 많은데, 감기는 대부분 바이러스 때문이라서 항생제가 효과가 없습니다. 이렇게 필요 없이 항생제를 먹으면 몸에 내성이 생겨서 정말 필요할 때 약이 듣지 않게 됩니다. 항생제는 꼭 의사의 처방이 있을 때만 드셔야 합니다.",
+   "options": [
+    "항생제는 의사의 처방이 있을 때만 먹어야 한다.",
+    "감기에는 항생제가 아주 효과적이다.",
+    "항생제는 많이 먹을수록 좋다.",
+    "내성은 건강에 도움이 된다."
+   ],
+   "answer": "항생제는 의사의 처방이 있을 때만 먹어야 한다.",
+   "explain": "꼭 의사의 처방이 있을 때만."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그래서 뇌사자의 장기 기증이 매우 중요하다.\n(나) 장기이식을 기다리는 환자는 해마다 늘고 있다.\n(다) 그러나 기증되는 장기는 턱없이 부족하다.",
+   "options": [
+    "(나)-(다)-(가)",
+    "(가)-(나)-(다)",
+    "(다)-(가)-(나)",
+    "(나)-(가)-(다)"
+   ],
+   "answer": "(나)-(다)-(가)",
+   "explain": "Nhu cầu tăng → nhưng thiếu → vì vậy quan trọng."
+  }
+ ]
+}

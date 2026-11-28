@@ -1,0 +1,386 @@
+{
+ "id": "bai-263",
+ "lesson": "Bài 263",
+ "title": "Con người và thiên nhiên (phần 5/5)",
+ "krTitle": "인간과 자연 5",
+ "date": "2027-12-08",
+ "day": 385,
+ "source": "TOPIK 6 – Bài 12: Con người và thiên nhiên (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "오감",
+   "Ogam",
+   "Ngũ giác",
+   "숲에서는 오감으로 자연을 느낄 수 있어요.",
+   "Trong rừng có thể cảm nhận thiên nhiên bằng năm giác quan."
+  ],
+  [
+   "운세",
+   "Unse",
+   "Vận may",
+   "새해에는 올해의 운세를 보는 사람이 많아요.",
+   "Năm mới nhiều người xem vận mệnh năm nay."
+  ],
+  [
+   "월등하다",
+   "Woldeunghada",
+   "Vượt trội, hơn hẳn",
+   "그 선수는 실력이 다른 선수보다 월등해요.",
+   "Thực lực của vận động viên đó vượt trội hơn hẳn người khác."
+  ],
+  [
+   "유독",
+   "Yudok",
+   "Riêng (chỉ riêng); độc hại",
+   "올여름은 유독 더워요.",
+   "Mùa hè năm nay nóng đặc biệt."
+  ],
+  [
+   "인테리어",
+   "Interieo",
+   "Trang trí nội thất",
+   "한옥 스타일로 인테리어를 했어요.",
+   "Đã trang trí nội thất theo phong cách hanok."
+  ],
+  [
+   "일조 시간",
+   "Iljo sigan",
+   "Số giờ nắng",
+   "남향집은 일조 시간이 길어요.",
+   "Nhà hướng nam có số giờ nắng dài."
+  ],
+  [
+   "잇다",
+   "Itda",
+   "Nối liền, liên kết",
+   "이 다리는 두 섬을 이어 줘요.",
+   "Cây cầu này nối hai hòn đảo."
+  ],
+  [
+   "잦다",
+   "Jatda",
+   "Thường xuyên xảy ra",
+   "이 지역은 안개가 잦아요.",
+   "Vùng này hay có sương mù."
+  ],
+  [
+   "저물다",
+   "Jeomulda",
+   "Trời tối, mặt trời lặn",
+   "해가 저물자 바닷가가 붉게 물들었어요.",
+   "Mặt trời lặn, bãi biển nhuộm đỏ."
+  ],
+  [
+   "정복하다",
+   "Jeongbokada",
+   "Chinh phục",
+   "그는 세계 최고봉을 정복했어요.",
+   "Anh ấy đã chinh phục đỉnh núi cao nhất thế giới."
+  ],
+  [
+   "진상하다",
+   "Jinsanghada",
+   "Dâng tiến (lên vua)",
+   "옛날에는 귀한 특산물을 왕에게 진상했어요.",
+   "Ngày xưa đặc sản quý được dâng tiến lên vua."
+  ],
+  [
+   "쪼개다",
+   "Jjogaeda",
+   "Chia nhỏ ra",
+   "장작을 도끼로 쪼갰어요.",
+   "Bổ củi bằng rìu."
+  ],
+  [
+   "천연두",
+   "Cheonyeondu",
+   "Bệnh đậu mùa",
+   "천연두는 백신으로 사라진 병이에요.",
+   "Đậu mùa là bệnh đã biến mất nhờ vắc xin."
+  ],
+  [
+   "천체",
+   "Cheonche",
+   "Thiên thể",
+   "옛날 사람들은 천체를 관찰해서 달력을 만들었어요.",
+   "Người xưa quan sát thiên thể để làm lịch."
+  ],
+  [
+   "케이스",
+   "Keiseu",
+   "Hộp; trường hợp",
+   "휴대폰 케이스를 새로 샀어요.",
+   "Tôi mới mua ốp điện thoại."
+  ],
+  [
+   "풍토",
+   "Pungto",
+   "Phong thổ",
+   "지역마다 풍토가 달라서 음식도 달라요.",
+   "Mỗi vùng có phong thổ khác nhau nên món ăn cũng khác."
+  ],
+  [
+   "한지",
+   "Hanji",
+   "Loại giấy mỏng của Hàn Quốc được làm bằng tay từ cây dâu tằm",
+   "한지로 만든 등이 아름다워요.",
+   "Đèn làm bằng giấy hanji rất đẹp."
+  ],
+  [
+   "헐렁하다",
+   "Heolleonghada",
+   "Rộng thùng thình",
+   "이 바지는 너무 헐렁해요.",
+   "Chiếc quần này rộng thùng thình quá."
+  ],
+  [
+   "험하다",
+   "Heomhada",
+   "Hiểm trở, hiểm nguy",
+   "산길이 험해서 조심해야 해요.",
+   "Đường núi hiểm trở nên phải cẩn thận."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 기 마련이다 — Đương nhiên",
+   "meaning": "Nói về QUY LUẬT TẤT YẾU, điều tự nhiên ai cũng gặp: 'lẽ đương nhiên là…, ắt sẽ…, … là chuyện tất nhiên'. Gắn 기 마련이다 vào thân V/A (không chia thì): 변하다 → 변하기 마련이다, 실수하다 → 실수하기 마련이다, 힘들다 → 힘들기 마련이다. Nghĩa và cách dùng GẦN NHƯ GIỐNG HỆT 게 마련이다 (Bài 204) — hai dạng có thể thay thế cho nhau; 기 마련이다 phổ biến hơn trong văn nói hiện đại. Hay đi với: 누구나, 사람은, 언젠가는, (으)면, 시간이 지나면. Không dùng cho sự việc cá nhân cụ thể (✗ 저는 내일 늦기 마련이에요). Nhóm 'quy luật': (으)ㄴ/는 법이다 (Bài 179), 게/기 마련이다, 기 십상이다 (Bài 236 – dễ xảy ra điều xấu).",
+   "examples": [
+    "자연은 시간이 지나면 변하기 마련이에요. — Thiên nhiên theo thời gian đương nhiên sẽ thay đổi.",
+    "험한 산길에서는 누구나 힘들기 마련이에요. — Trên đường núi hiểm trở ai cũng mệt là chuyện đương nhiên.",
+    "해가 지면 기온이 떨어지기 마련이에요. — Mặt trời lặn thì nhiệt độ đương nhiên giảm.",
+    "처음 하는 일은 실수가 있기 마련이니까 너무 걱정하지 마세요. — Việc làm lần đầu thì đương nhiên có sai sót, đừng lo quá."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Năm giác quan (nhìn, nghe, ngửi, nếm, chạm) gọi là gì?",
+   "kr": "",
+   "options": [
+    "오감",
+    "풍토",
+    "천체"
+   ],
+   "answer": "오감",
+   "explain": "오(năm) 감(cảm giác)."
+  },
+  {
+   "type": "choice",
+   "q": "Giấy truyền thống Hàn làm từ vỏ cây dó gọi là gì?",
+   "kr": "",
+   "options": [
+    "한지",
+    "모시",
+    "너와"
+   ],
+   "answer": "한지",
+   "explain": "한지."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mùa hè năm nay nóng đặc biệt.",
+   "kr": "올여름은 ___ 더워요.",
+   "options": [
+    "유독",
+    "월등히",
+    "헐렁하게"
+   ],
+   "answer": "유독",
+   "explain": "유독 = riêng, đặc biệt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Anh ấy đã chinh phục đỉnh núi cao nhất.",
+   "kr": "그는 세계 최고봉을 ___.",
+   "options": [
+    "정복했어요",
+    "진상했어요",
+    "쪼갰어요"
+   ],
+   "answer": "정복했어요",
+   "explain": "정복하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Mặt trời lặn thì nhiệt độ đương nhiên giảm.'",
+   "kr": "",
+   "options": [
+    "해가 지면 기온이 떨어지기 마련이에요.",
+    "해가 지면 기온이 떨어진 마련이에요.",
+    "해가 지면 기온이 떨어지기 마련했어요."
+   ],
+   "answer": "해가 지면 기온이 떨어지기 마련이에요.",
+   "explain": "V기 마련이다."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào có thể THAY THẾ 기 마련이다 mà nghĩa gần như không đổi?",
+   "kr": "",
+   "options": [
+    "게 마련이다",
+    "기 일쑤이다",
+    "기나 하면"
+   ],
+   "answer": "게 마련이다",
+   "explain": "게/기 마련이다 = đương nhiên."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 기 마련이다 SAI?",
+   "kr": "",
+   "options": [
+    "저는 내일 9시에 출발하기 마련이에요.",
+    "사람은 누구나 늙기 마련이에요.",
+    "좋은 일 뒤에는 나쁜 일도 있기 마련이에요."
+   ],
+   "answer": "저는 내일 9시에 출발하기 마련이에요.",
+   "explain": "Kế hoạch cá nhân → không dùng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đường núi hiểm trở nên phải cẩn thận.",
+   "kr": "산길이 ___ 조심해야 해요.",
+   "options": [
+    "험해서",
+    "헐렁해서",
+    "월등해서"
+   ],
+   "answer": "험해서",
+   "explain": "험하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 마련이다 với 변하다: Thiên nhiên theo thời gian đương nhiên thay đổi.",
+   "kr": "자연은 시간이 지나면 ___.",
+   "answer": [
+    "변하기 마련이에요",
+    "변하기 마련이다",
+    "변하게 마련이에요"
+   ],
+   "explain": "변하기 마련이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 마련이다 với 있다: Việc làm lần đầu đương nhiên có sai sót.",
+   "kr": "처음 하는 일은 실수가 ___ 걱정하지 마세요.",
+   "answer": [
+    "있기 마련이니까",
+    "있게 마련이니까"
+   ],
+   "explain": "있기 마련이니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nhà hướng nam có số giờ nắng dài.",
+   "kr": "남향집은 ___ 시간이 길어요.",
+   "answer": [
+    "일조"
+   ],
+   "explain": "일조 시간."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mỗi vùng phong thổ khác nhau nên món ăn khác.",
+   "kr": "지역마다 ___가 달라서 음식도 달라요.",
+   "answer": [
+    "풍토"
+   ],
+   "explain": "풍토."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Trên đường núi hiểm trở ai cũng mệt là đương nhiên.",
+   "tokens": [
+    "험한",
+    "산길에서는",
+    "누구나",
+    "힘들기",
+    "마련이에요"
+   ],
+   "answer": "험한 산길에서는 누구나 힘들기 마련이에요",
+   "explain": "기 마련이다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cây cầu nối hai hòn đảo.",
+   "tokens": [
+    "이",
+    "다리는",
+    "두",
+    "섬을",
+    "이어",
+    "줘요"
+   ],
+   "answer": "이 다리는 두 섬을 이어 줘요",
+   "explain": "잇다 → 이어."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ai sống xa nhà cũng đương nhiên nhớ quê. (dùng 기 마련이다)",
+   "answer": [
+    "집을 떠나 살면 누구나 고향이 그립기 마련이에요.",
+    "고향을 떠나 살면 누구나 고향이 그립기 마련이에요.",
+    "집을 떠나 사는 사람은 누구나 고향이 그립기 마련이에요.",
+    "멀리 떨어져 살면 누구나 고향이 그립기 마련이에요."
+   ],
+   "explain": "그립기 마련이다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chiếc quần này rộng thùng thình quá.",
+   "answer": [
+    "이 바지는 너무 헐렁해요.",
+    "이 바지가 너무 헐렁해요."
+   ],
+   "explain": "헐렁하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đậu mùa là bệnh đã biến mất nhờ vắc xin.",
+   "answer": [
+    "천연두는 백신으로 사라진 병이에요.",
+    "천연두는 백신 덕분에 사라진 병이에요."
+   ],
+   "explain": "천연두."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "지역마다 기후와 풍토가 다르기 때문에 사람들의 생활 방식도 다르기 마련이다. 산이 험한 지방에서는 집을 작고 튼튼하게 지었고, 바람이 잦은 섬에서는 지붕을 낮게 만들었다.",
+   "answer": "Vì mỗi vùng có khí hậu và phong thổ khác nhau nên lối sống của con người đương nhiên cũng khác nhau. Ở vùng núi hiểm trở người ta xây nhà nhỏ và chắc, còn ở hòn đảo hay có gió thì làm mái nhà thấp.",
+   "explain": "기 마련이다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "남자: 와, 해가 저무니까 바다가 정말 붉게 물드네요.\n여자: 그렇죠? 여기는 일몰 명소로 유명해요. 사진 찍어 드릴까요?\n남자: 네, 저 수평선이 잘 나오게 찍어 주세요.",
+   "options": [
+    "바닷가에서 해 지는 모습을 보고 있다.",
+    "산 정상에서 해 뜨는 모습을 보고 있다.",
+    "박물관에서 그림을 보고 있다.",
+    "배를 타고 낚시를 하고 있다."
+   ],
+   "answer": "바닷가에서 해 지는 모습을 보고 있다.",
+   "explain": "해가 저무니까 바다가…"
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그래서 사람들은 자연에 맞추어 집과 옷, 음식을 만들어 왔다.\n(나) 자연환경은 인간의 생활에 큰 영향을 준다.\n(다) 예를 들어 추운 지방에서는 온돌이, 더운 지방에서는 대청마루가 발달했다.",
+   "options": [
+    "(나)-(가)-(다)",
+    "(가)-(나)-(다)",
+    "(다)-(나)-(가)",
+    "(나)-(다)-(가)"
+   ],
+   "answer": "(나)-(가)-(다)",
+   "explain": "Ý chung → 그래서 → ví dụ."
+  }
+ ]
+}

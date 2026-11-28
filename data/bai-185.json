@@ -1,0 +1,403 @@
+{
+ "id": "bai-185",
+ "lesson": "Bài 185",
+ "title": "Thay đổi sinh hoạt (phần 4/4)",
+ "krTitle": "생활의 변화 4",
+ "date": "2027-08-13",
+ "day": 268,
+ "source": "TOPIK 5 – Bài 9: Thay đổi sinh hoạt (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "부양하다",
+   "Buyanghada",
+   "Phụng dưỡng (부모를)",
+   "그는 혼자 부모님을 부양하고 있어요.",
+   "Anh ấy một mình phụng dưỡng bố mẹ."
+  ],
+  [
+   "산출",
+   "Sanchul",
+   "Sự tạo ra, sự làm ra",
+   "이 공장의 전기 산출량이 늘었어요.",
+   "Sản lượng điện của nhà máy này đã tăng."
+  ],
+  [
+   "상극",
+   "Sanggeuk",
+   "Sự không hòa hợp, sự đối lập (như lửa với nước)",
+   "물과 불은 상극이에요.",
+   "Nước và lửa là khắc nhau."
+  ],
+  [
+   "서민",
+   "Seomin",
+   "Thường dân, người dân bình thường",
+   "정부는 서민을 위한 주택을 짓기로 했어요.",
+   "Chính phủ quyết định xây nhà cho người dân thường."
+  ],
+  [
+   "수상 주택",
+   "Susang jutaek",
+   "Nhà cửa trên sông nước",
+   "베트남 메콩 강에는 수상 주택이 많아요.",
+   "Ở sông Mê Kông Việt Nam có nhiều nhà trên sông."
+  ],
+  [
+   "시멘트",
+   "Simenteu",
+   "Xi măng",
+   "시멘트가 마르면 단단해져요.",
+   "Xi măng khô lại sẽ cứng."
+  ],
+  [
+   "쓰레기 분리 배출",
+   "Sseuregi bulli baechul",
+   "Việc phân loại rác thải khi bỏ",
+   "한국에서는 쓰레기 분리 배출을 꼭 해야 해요.",
+   "Ở Hàn Quốc nhất định phải phân loại rác khi vứt."
+  ],
+  [
+   "용이하다",
+   "Yongihada",
+   "Dễ, đơn giản",
+   "이 앱을 쓰면 집을 구하기가 용이해요.",
+   "Dùng ứng dụng này thì tìm nhà dễ dàng."
+  ],
+  [
+   "유도하다",
+   "Yudohada",
+   "Hướng người nào đó, lôi kéo, dẫn dắt",
+   "정부는 친환경 자동차 구매를 유도하고 있어요.",
+   "Chính phủ đang khuyến khích mua xe thân thiện môi trường."
+  ],
+  [
+   "유비쿼터스",
+   "Yubikwoteoseu",
+   "Có mặt ở khắp nơi, tồn tại ở khắp nơi",
+   "유비쿼터스 시대에는 어디서나 인터넷을 쓸 수 있어요.",
+   "Trong thời đại ubiquitous, ở đâu cũng dùng được internet."
+  ],
+  [
+   "절충안",
+   "Jeolchungan",
+   "Phương án dung hòa",
+   "양쪽 의견을 모아서 절충안을 만들었어요.",
+   "Gom ý kiến hai bên để làm ra phương án dung hòa."
+  ],
+  [
+   "지표",
+   "Jipyo",
+   "Chỉ số",
+   "출산율은 중요한 사회 지표예요.",
+   "Tỉ lệ sinh là chỉ số xã hội quan trọng."
+  ],
+  [
+   "채광",
+   "Chaegwang",
+   "Sự lấy ánh sáng (cho nhà); khai thác mỏ",
+   "이 집은 남향이라서 채광이 좋아요.",
+   "Nhà này hướng nam nên lấy sáng tốt."
+  ],
+  [
+   "천장",
+   "Cheonjang",
+   "Trần nhà",
+   "천장이 높아서 집이 넓어 보여요.",
+   "Trần nhà cao nên nhà trông rộng."
+  ],
+  [
+   "청약저축통장",
+   "Cheongyakjeochuktongjang",
+   "Sổ tài khoản tiết kiệm (để mua nhà)",
+   "대학생 때부터 청약저축통장을 만들었어요.",
+   "Tôi làm sổ tiết kiệm mua nhà từ hồi đại học."
+  ],
+  [
+   "취약하다",
+   "Chwiyakada",
+   "Yếu ớt",
+   "이 건물은 지진에 취약해요.",
+   "Tòa nhà này yếu trước động đất."
+  ],
+  [
+   "치솟다",
+   "Chisotda",
+   "Dâng cao, nhảy vọt lên",
+   "집값이 치솟아서 서민들이 힘들어해요.",
+   "Giá nhà tăng vọt nên dân thường khổ sở."
+  ],
+  [
+   "친환경",
+   "Chinhwangyeong",
+   "Thân thiện với môi trường",
+   "요즘은 친환경 건축이 인기예요.",
+   "Dạo này kiến trúc thân thiện môi trường được ưa chuộng."
+  ],
+  [
+   "콘크리트",
+   "Konkeuriteu",
+   "Bê tông",
+   "콘크리트로 지은 건물은 튼튼해요.",
+   "Tòa nhà xây bằng bê tông rất chắc chắn."
+  ],
+  [
+   "크나크다",
+   "Keunakeuda",
+   "To lớn, lớn lao",
+   "부모님의 크나큰 사랑을 잊지 않을게요.",
+   "Con sẽ không quên tình yêu lớn lao của bố mẹ."
+  ],
+  [
+   "통풍",
+   "Tongpung",
+   "Sự thông gió; bệnh gút",
+   "창문을 열어서 통풍을 시키세요.",
+   "Hãy mở cửa sổ cho thông gió."
+  ],
+  [
+   "트렌드",
+   "Teurendeu",
+   "Xu thế, xu hướng",
+   "작은 집에 사는 것이 새로운 트렌드가 됐어요.",
+   "Sống trong nhà nhỏ đã trở thành xu hướng mới."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + (이)라도 — Dù là",
+   "meaning": "Gắn vào DANH TỪ, có hai cách dùng chính: (1) 'dù là… cũng được' — cái này KHÔNG PHẢI lựa chọn tốt nhất, nhưng tạm chấp nhận: 커피가 없으면 물이라도 주세요 (không có cà phê thì cho tôi nước cũng được). (2) 'dù là… đi nữa' — nhấn mạnh 'ngay cả…': 전문가라도 이 문제는 어려워요 (dù là chuyên gia thì bài này cũng khó). Chia: có patchim → 이라도 (물이라도, 밥이라도); không patchim → 라도 (커피라도, 전세라도). Có thể gắn sau trợ từ: 에게라도, 에서라도, 부터라도 (지금부터라도 = ngay từ bây giờ cũng được). Với từ nghi vấn: 누구라도 (bất kỳ ai), 언제라도 (bất cứ lúc nào), 무엇이라도/뭐라도 (bất cứ cái gì). So sánh với 도: 도 chỉ là 'cũng'; (이)라도 mang nghĩa 'tuy chưa thỏa mãn nhưng ít nhất…'.",
+   "examples": [
+    "집을 못 사면 전세라도 구하고 싶어요. — Không mua được nhà thì ít nhất cũng muốn thuê jeonse.",
+    "바쁘면 주말에라도 잠깐 만나요. — Nếu bận thì cuối tuần cũng được, gặp một chút nhé.",
+    "전문가라도 집값을 정확하게 예측하기는 어려워요. — Dù là chuyên gia cũng khó dự đoán chính xác giá nhà.",
+    "궁금한 것이 있으면 언제라도 연락하세요. — Có gì thắc mắc thì cứ liên lạc bất cứ lúc nào."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Việc phân loại rác khi vứt gọi là gì?",
+   "kr": "",
+   "options": [
+    "쓰레기 분리 배출",
+    "채광",
+    "통풍"
+   ],
+   "answer": "쓰레기 분리 배출",
+   "explain": "분리 = tách; 배출 = thải ra."
+  },
+  {
+   "type": "choice",
+   "q": "Phương án dung hòa ý kiến hai bên gọi là gì?",
+   "kr": "",
+   "options": [
+    "절충안",
+    "지표",
+    "트렌드"
+   ],
+   "answer": "절충안",
+   "explain": "절충 = chiết trung, dung hòa."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhà này hướng nam nên lấy sáng tốt.",
+   "kr": "이 집은 남향이라서 ___이 좋아요.",
+   "options": [
+    "채광",
+    "천장",
+    "상극"
+   ],
+   "answer": "채광",
+   "explain": "채광 = lấy ánh sáng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Giá nhà tăng vọt nên dân thường khổ sở.",
+   "kr": "집값이 ___ 서민들이 힘들어해요.",
+   "options": [
+    "치솟아서",
+    "취약해서",
+    "용이해서"
+   ],
+   "answer": "치솟아서",
+   "explain": "치솟다 = tăng vọt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Không có cà phê thì cho tôi nước cũng được.'",
+   "kr": "",
+   "options": [
+    "커피가 없으면 물이라도 주세요.",
+    "커피가 없으면 물라도 주세요.",
+    "커피가 없으면 물이도 주세요."
+   ],
+   "answer": "커피가 없으면 물이라도 주세요.",
+   "explain": "물 có patchim → 이라도."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ ĐÚNG: 'Bất kỳ ai cũng có thể tham gia.'",
+   "kr": "___ 참가할 수 있어요.",
+   "options": [
+    "누구라도",
+    "누구이라도",
+    "누구든라도"
+   ],
+   "answer": "누구라도",
+   "explain": "누구 (không patchim) + 라도."
+  },
+  {
+   "type": "choice",
+   "q": "'전문가라도 이 문제는 어려워요.' Nghĩa của 라도 ở đây là gì?",
+   "kr": "",
+   "options": [
+    "Ngay cả là, dù là",
+    "Ít nhất cũng",
+    "Vì là"
+   ],
+   "answer": "Ngay cả là, dù là",
+   "explain": "Nghĩa (2): nhấn mạnh 'ngay cả'."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tòa nhà này yếu trước động đất.",
+   "kr": "이 건물은 지진에 ___.",
+   "options": [
+    "취약해요",
+    "크나커요",
+    "용이해요"
+   ],
+   "answer": "취약해요",
+   "explain": "N에 취약하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)라도: Không mua được nhà thì ít nhất cũng muốn thuê jeonse.",
+   "kr": "집을 못 사면 ___ 구하고 싶어요.",
+   "answer": [
+    "전세라도"
+   ],
+   "explain": "전세 không patchim → 라도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)라도: Có thắc mắc thì liên lạc bất cứ lúc nào.",
+   "kr": "궁금한 것이 있으면 ___ 연락하세요.",
+   "answer": [
+    "언제라도",
+    "언제든지"
+   ],
+   "explain": "언제라도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Anh ấy một mình phụng dưỡng bố mẹ.",
+   "kr": "그는 혼자 부모님을 ___하고 있어요.",
+   "answer": [
+    "부양"
+   ],
+   "explain": "부양하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tỉ lệ sinh là chỉ số xã hội quan trọng.",
+   "kr": "출산율은 중요한 사회 ___예요.",
+   "answer": [
+    "지표"
+   ],
+   "explain": "지표."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nếu bận thì cuối tuần cũng được, gặp một chút nhé.",
+   "tokens": [
+    "바쁘면",
+    "주말에라도",
+    "잠깐",
+    "만나요"
+   ],
+   "answer": "바쁘면 주말에라도 잠깐 만나요",
+   "explain": "에 + 라도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hãy mở cửa sổ cho thông gió.",
+   "tokens": [
+    "창문을",
+    "열어서",
+    "통풍을",
+    "시키세요"
+   ],
+   "answer": "창문을 열어서 통풍을 시키세요",
+   "explain": "통풍을 시키다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nếu không có thời gian thì ít nhất gọi điện cũng được. (dùng (이)라도)",
+   "answer": [
+    "시간이 없으면 전화라도 하세요.",
+    "시간이 없으면 전화라도 해 주세요.",
+    "시간이 없으면 전화라도 해요."
+   ],
+   "explain": "전화라도 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ở Hàn Quốc nhất định phải phân loại rác khi vứt.",
+   "answer": [
+    "한국에서는 쓰레기 분리 배출을 꼭 해야 해요.",
+    "한국에서는 꼭 쓰레기 분리 배출을 해야 해요.",
+    "한국에서는 쓰레기를 꼭 분리 배출해야 해요."
+   ],
+   "explain": "꼭 … 아/어야 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sống trong nhà nhỏ đã trở thành xu hướng mới.",
+   "answer": [
+    "작은 집에 사는 것이 새로운 트렌드가 됐어요.",
+    "작은 집에서 사는 것이 새로운 트렌드가 됐어요.",
+    "작은 집에 사는 것이 새로운 트렌드가 되었어요."
+   ],
+   "explain": "N이/가 되다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "집값이 치솟으면서 서민들의 내 집 마련은 더욱 어려워졌다. 그래서 집을 사지 못하는 사람들은 전세라도 구하려고 하지만 전세 가격도 크게 올랐다.",
+   "answer": "Khi giá nhà tăng vọt, việc mua nhà riêng của người dân thường càng trở nên khó khăn. Vì vậy những người không mua được nhà muốn ít nhất tìm được nhà thuê jeonse, nhưng giá jeonse cũng tăng mạnh.",
+   "explain": "치솟다; N라도."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "남자: 이번에 새로 지은 친환경 아파트에 가 봤는데 정말 좋더라고요.\n여자: 그래요? 뭐가 그렇게 좋았어요?\n남자: 남향이라서 채광도 좋고 통풍도 잘돼서 에어컨을 덜 쓴대요. 그리고 지붕에 태양광 패널이 있어서 전기 요금도 적게 나온대요.\n여자: 비싸지 않아요?\n남자: 분양가는 좀 높지만 관리비가 적게 드니까 오래 살면 이득이래요.",
+   "options": [
+    "이 아파트는 관리비가 적게 든다.",
+    "이 아파트는 분양가가 싸다.",
+    "이 아파트는 북향이다.",
+    "남자는 이 아파트에 가 본 적이 없다."
+   ],
+   "answer": "이 아파트는 관리비가 적게 든다.",
+   "explain": "관리비가 적게 드니까 오래 살면 이득."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "이 앱을 이용하면 쓰레기 분리 배출 방법을 쉽게 알 수 있어 생활이 훨씬 <용이해졌다>.",
+   "options": [
+    "편리해졌다",
+    "위험해졌다",
+    "복잡해졌다",
+    "비싸졌다"
+   ],
+   "answer": "편리해졌다",
+   "explain": "용이하다 ≈ 쉽다, 편리하다."
+  }
+ ]
+}

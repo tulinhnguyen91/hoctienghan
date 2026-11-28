@@ -1,0 +1,406 @@
+{
+ "id": "bai-241",
+ "lesson": "Bài 241",
+ "title": "Xã hội hiện đại và thể thao (phần 5/5)",
+ "krTitle": "현대 사회와 스포츠 5",
+ "date": "2027-11-05",
+ "day": 352,
+ "source": "TOPIK 6 – Bài 7: Xã hội hiện đại và thể thao (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "인라인 스케이트",
+   "Illain seukeiteu",
+   "Trượt patin (inline skate)",
+   "공원에서 인라인 스케이트를 탔어요.",
+   "Tôi trượt patin ở công viên."
+  ],
+  [
+   "재활 운동",
+   "Jaehwal undong",
+   "Luyện tập phục hồi",
+   "수술 후 재활 운동을 열심히 하고 있어요.",
+   "Sau phẫu thuật tôi đang chăm chỉ tập phục hồi chức năng."
+  ],
+  [
+   "저력",
+   "Jeoryeok",
+   "Tiềm lực",
+   "한국 팀은 마지막에 저력을 보여 줬어요.",
+   "Đội Hàn Quốc đã thể hiện tiềm lực vào phút cuối."
+  ],
+  [
+   "정정당당",
+   "Jeongjeongdangdang",
+   "Đường đường chính chính",
+   "정정당당하게 경기합시다.",
+   "Hãy thi đấu đường đường chính chính."
+  ],
+  [
+   "점유율",
+   "Jeomyuyul",
+   "Tỉ lệ chiếm giữ, tỉ lệ chiếm hữu",
+   "우리 팀의 공 점유율이 60%였어요.",
+   "Tỷ lệ kiểm soát bóng của đội ta là 60%."
+  ],
+  [
+   "제고하다",
+   "Jegohada",
+   "Nâng cao",
+   "정부는 생활 체육의 참여율을 제고하려고 해요.",
+   "Chính phủ muốn nâng cao tỷ lệ tham gia thể thao quần chúng."
+  ],
+  [
+   "주도하다",
+   "Judohada",
+   "Chủ đạo",
+   "그 선수가 경기를 주도했어요.",
+   "Cầu thủ đó đã làm chủ trận đấu."
+  ],
+  [
+   "지구력",
+   "Jiguryeok",
+   "Sức chịu đựng, sức bền",
+   "마라톤에는 지구력이 필요해요.",
+   "Marathon cần sức bền."
+  ],
+  [
+   "직결되다",
+   "Jikgyeoldoeda",
+   "Được liên kết trực tiếp",
+   "운동 부족은 건강 문제와 직결돼요.",
+   "Thiếu vận động liên quan trực tiếp đến vấn đề sức khỏe."
+  ],
+  [
+   "채택되다",
+   "Chaetaekdoeda",
+   "Được chọn vào",
+   "태권도가 올림픽 정식 종목으로 채택되었어요.",
+   "Taekwondo đã được chọn làm môn thi chính thức của Olympic."
+  ],
+  [
+   "출전하다",
+   "Chuljeonhada",
+   "Vào thi đấu",
+   "그는 처음으로 올림픽에 출전했어요.",
+   "Anh ấy lần đầu tiên tham dự Olympic."
+  ],
+  [
+   "파급 효과",
+   "Pageum hyogwa",
+   "Hiệu quả lan tỏa",
+   "월드컵 개최는 경제적 파급 효과가 커요.",
+   "Đăng cai World Cup có hiệu ứng lan tỏa kinh tế lớn."
+  ],
+  [
+   "파장",
+   "Pajang",
+   "Làn sóng tác động, dư âm",
+   "그 선수의 도핑 사건은 큰 파장을 일으켰어요.",
+   "Vụ doping của vận động viên đó đã gây làn sóng lớn."
+  ],
+  [
+   "판정을 내리다",
+   "Panjeongeul naerida",
+   "Ra phán quyết",
+   "심판이 오심 판정을 내렸다는 비판이 있어요.",
+   "Có chỉ trích rằng trọng tài đã đưa ra phán quyết sai."
+  ],
+  [
+   "폐해",
+   "Pyehae",
+   "Yếu tố có hại",
+   "지나친 경쟁은 많은 폐해를 낳아요.",
+   "Cạnh tranh thái quá sinh ra nhiều tác hại."
+  ],
+  [
+   "표적",
+   "Pyojeok",
+   "Mục tiêu",
+   "화살이 표적의 한가운데에 맞았어요.",
+   "Mũi tên trúng ngay giữa hồng tâm."
+  ],
+  [
+   "합숙",
+   "Hapsuk",
+   "Việc sống tập thể",
+   "대표 선수들은 선수촌에서 합숙을 해요.",
+   "Các tuyển thủ sống tập trung ở làng vận động viên."
+  ],
+  [
+   "허점",
+   "Heojeom",
+   "Điểm sơ hở, điểm yếu",
+   "상대 팀 수비의 허점을 노렸어요.",
+   "Đã nhắm vào điểm sơ hở trong hàng thủ đối phương."
+  ],
+  [
+   "확충하다",
+   "Hwakchunghada",
+   "Đẩy mạnh, tăng cường",
+   "정부가 체육 시설을 확충했어요.",
+   "Chính phủ đã mở rộng cơ sở thể thao."
+  ],
+  [
+   "환급금",
+   "Hwangeupgeum",
+   "Tiền bồi hoàn lại",
+   "경기가 취소되어 표 값을 환급금으로 돌려받았어요.",
+   "Trận bị hủy nên tôi được hoàn lại tiền vé."
+  ],
+  [
+   "훌리건",
+   "Hulligeon",
+   "Côn đồ (hooligan)",
+   "훌리건 때문에 경기장이 위험해졌어요.",
+   "Vì côn đồ bóng đá mà sân trở nên nguy hiểm."
+  ],
+  [
+   "휩쓸다",
+   "Hwipsseulda",
+   "Càn quét; giành hết (huy chương)",
+   "한국 선수들이 양궁 금메달을 휩쓸었어요.",
+   "Các vận động viên Hàn đã giành hết huy chương vàng bắn cung."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는 만큼 — Bởi vì",
+   "meaning": "ÔN TẬP mẫu đã học ở Bài 159, tập trung vào nghĩa 'BỞI VÌ… NÊN (tương xứng)'. (으)ㄴ/는 만큼 có 2 nghĩa: ① 'bằng, tương đương với' (mức độ): 노력한 만큼 결과가 나와요 (kết quả tương xứng với nỗ lực). ② 'bởi vì… (nên đương nhiên)…' (lý do làm căn cứ): 중요한 경기인 만큼 최선을 다해야 해요 (vì là trận quan trọng nên phải cố hết sức). Nghĩa ② rất gần (으)니만큼 (Bài 228) và hay dùng trong phát biểu, bản tin. Chia: Động từ hiện tại → 는 만큼 (출전하는 만큼); quá khứ → (으)ㄴ 만큼 (준비한 만큼); Tính từ → (으)ㄴ 만큼 (중요한 만큼); Danh từ → 인 만큼 (국가 대표인 만큼). Vế sau thường: 아/어야 하다, (으)ㄹ 것이다, 기를 바라다. Cách phân biệt: nếu dịch được 'vì' → nghĩa ②; dịch được 'bằng / tương xứng' → nghĩa ①.",
+   "examples": [
+    "처음으로 올림픽에 출전하는 만큼 긴장이 많이 돼요. — Vì lần đầu dự Olympic nên tôi rất căng thẳng.",
+    "국가 대표인 만큼 정정당당하게 경기해야 해요. — Vì là tuyển thủ quốc gia nên phải thi đấu đường đường chính chính.",
+    "열심히 준비한 만큼 좋은 결과가 있을 거예요. — Đã chuẩn bị chăm chỉ (tương xứng) nên sẽ có kết quả tốt.",
+    "월드컵은 파급 효과가 큰 만큼 많은 나라가 개최하고 싶어 해요. — Vì World Cup có hiệu ứng lan tỏa lớn nên nhiều nước muốn đăng cai."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Khả năng duy trì vận động lâu (sức bền) gọi là gì?",
+   "kr": "",
+   "options": [
+    "지구력",
+    "저력",
+    "점유율"
+   ],
+   "answer": "지구력",
+   "explain": "지구 (持久) = lâu bền."
+  },
+  {
+   "type": "choice",
+   "q": "Côn đồ bóng đá gây rối ở sân gọi là gì?",
+   "kr": "",
+   "options": [
+    "훌리건",
+    "표적",
+    "합숙"
+   ],
+   "answer": "훌리건",
+   "explain": "hooligan."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Taekwondo được chọn làm môn chính thức của Olympic.",
+   "kr": "태권도가 올림픽 정식 종목으로 ___.",
+   "options": [
+    "채택되었어요",
+    "출전했어요",
+    "확충했어요"
+   ],
+   "answer": "채택되었어요",
+   "explain": "채택되다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đã nhắm vào điểm sơ hở của hàng thủ.",
+   "kr": "상대 팀 수비의 ___을 노렸어요.",
+   "options": [
+    "허점",
+    "폐해",
+    "파장"
+   ],
+   "answer": "허점",
+   "explain": "허점."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào mang nghĩa 'BỞI VÌ' của 는 만큼?",
+   "kr": "",
+   "options": [
+    "국가 대표인 만큼 최선을 다해야 해요.",
+    "먹을 만큼만 가져가세요.",
+    "노력한 만큼 결과가 나와요."
+   ],
+   "answer": "국가 대표인 만큼 최선을 다해야 해요.",
+   "explain": "Vì là tuyển thủ quốc gia nên…"
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào mang nghĩa 'BẰNG / TƯƠNG XỨNG'?",
+   "kr": "",
+   "options": [
+    "노력한 만큼 결과가 나와요.",
+    "중요한 경기인 만큼 긴장돼요.",
+    "처음 출전하는 만큼 떨려요."
+   ],
+   "answer": "노력한 만큼 결과가 나와요.",
+   "explain": "Kết quả bằng mức nỗ lực."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Vì là trận quan trọng nên phải cố hết sức.'",
+   "kr": "",
+   "options": [
+    "중요한 경기인 만큼 최선을 다해야 해요.",
+    "중요한 경기는 만큼 최선을 다해야 해요.",
+    "중요한 경기일 만큼 최선을 다했어요는."
+   ],
+   "answer": "중요한 경기인 만큼 최선을 다해야 해요.",
+   "explain": "N인 만큼."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Thiếu vận động liên quan trực tiếp đến sức khỏe.",
+   "kr": "운동 부족은 건강 문제와 ___.",
+   "options": [
+    "직결돼요",
+    "채택돼요",
+    "주도돼요"
+   ],
+   "answer": "직결돼요",
+   "explain": "N과 직결되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ/는 만큼 với 출전하다: Vì lần đầu dự Olympic nên rất căng thẳng.",
+   "kr": "처음으로 올림픽에 ___ 긴장이 많이 돼요.",
+   "answer": [
+    "출전하는 만큼"
+   ],
+   "explain": "출전하는 만큼."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 만큼 với 크다: Vì hiệu ứng lan tỏa lớn nên nhiều nước muốn đăng cai.",
+   "kr": "월드컵은 파급 효과가 ___ 많은 나라가 개최하고 싶어 해요.",
+   "answer": [
+    "큰 만큼"
+   ],
+   "explain": "Tính từ → 큰 만큼."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Marathon cần sức bền.",
+   "kr": "마라톤에는 ___이 필요해요.",
+   "answer": [
+    "지구력"
+   ],
+   "explain": "지구력."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Các tuyển thủ sống tập trung ở làng vận động viên.",
+   "kr": "대표 선수들은 선수촌에서 ___을 해요.",
+   "answer": [
+    "합숙"
+   ],
+   "explain": "합숙."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Vì là tuyển thủ quốc gia nên phải chơi đẹp.",
+   "tokens": [
+    "국가",
+    "대표인",
+    "만큼",
+    "정정당당하게",
+    "경기해야",
+    "해요"
+   ],
+   "answer": "국가 대표인 만큼 정정당당하게 경기해야 해요",
+   "explain": "N인 만큼."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Các VĐV Hàn giành hết HCV bắn cung.",
+   "tokens": [
+    "한국",
+    "선수들이",
+    "양궁",
+    "금메달을",
+    "휩쓸었어요"
+   ],
+   "answer": "한국 선수들이 양궁 금메달을 휩쓸었어요",
+   "explain": "휩쓸다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vì là kỳ thi quan trọng nên phải chuẩn bị kỹ. (dùng 는 만큼)",
+   "answer": [
+    "중요한 시험인 만큼 철저히 준비해야 해요.",
+    "중요한 시험인 만큼 잘 준비해야 해요.",
+    "중요한 시험인 만큼 꼼꼼히 준비해야 해요.",
+    "중요한 시험인 만큼 열심히 준비해야 해요."
+   ],
+   "explain": "N인 만큼."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sau phẫu thuật tôi đang tập phục hồi chức năng.",
+   "answer": [
+    "수술 후 재활 운동을 하고 있어요.",
+    "수술 후에 재활 운동을 하고 있어요.",
+    "수술 후 재활 운동을 열심히 하고 있어요."
+   ],
+   "explain": "재활 운동."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy lần đầu tiên tham dự Olympic.",
+   "answer": [
+    "그는 처음으로 올림픽에 출전했어요.",
+    "그 사람은 처음으로 올림픽에 출전했어요.",
+    "그는 올림픽에 처음 출전했어요."
+   ],
+   "explain": "N에 출전하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "올림픽과 월드컵 같은 대형 스포츠 행사는 경제적 파급 효과가 큰 만큼 많은 나라가 유치하려고 한다. 그러나 경기장 건설에 막대한 비용이 들고 행사 후에는 시설이 방치되는 폐해도 있다.",
+   "answer": "Các sự kiện thể thao lớn như Olympic, World Cup có hiệu ứng lan tỏa kinh tế lớn nên nhiều nước muốn đăng cai. Nhưng cũng có tác hại như tốn chi phí khổng lồ để xây sân và sau sự kiện cơ sở vật chất bị bỏ mặc.",
+   "explain": "는 만큼 (vì); 폐해."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 다리 수술한 지 얼마나 됐어요?\n남자: 두 달 됐어요. 요즘은 재활 운동을 하고 있어요. 다음 시즌에 꼭 출전하고 싶어서요.\n여자: 무리하지 마세요. 서두르면 다시 다치기 십상이에요.\n남자: 네, 그래서 물리치료사 선생님이 정해 준 만큼만 하고 있어요.",
+   "options": [
+    "남자는 정해진 양만큼만 재활 운동을 하고 있다.",
+    "남자는 수술을 받은 지 1년이 되었다.",
+    "남자는 다음 시즌에 출전하지 않을 것이다.",
+    "여자는 더 많이 운동하라고 했다."
+   ],
+   "answer": "남자는 정해진 양만큼만 재활 운동을 하고 있다.",
+   "explain": "정해 준 만큼만 하고 있어요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "축구에서 공 점유율이 높다고 해서 반드시 이기는 것은 아니다. 점유율이 낮은 팀이 상대의 허점을 노려 빠르게 공격하면 오히려 이길 수도 있다. 결국 중요한 것은 공을 얼마나 오래 가지고 있는지가 아니라 기회를 얼마나 잘 살리는지이다.",
+   "options": [
+    "점유율이 낮아도 기회를 잘 살리면 이길 수 있다.",
+    "점유율이 높으면 반드시 이긴다.",
+    "공격은 천천히 해야 한다.",
+    "허점을 노리는 것은 반칙이다."
+   ],
+   "answer": "점유율이 낮아도 기회를 잘 살리면 이길 수 있다.",
+   "explain": "기회를 얼마나 잘 살리는지."
+  }
+ ]
+}

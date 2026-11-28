@@ -1,0 +1,392 @@
+{
+ "id": "bai-254",
+ "lesson": "Bài 254",
+ "title": "Lịch sử Hàn Quốc (phần 5/5)",
+ "krTitle": "한국의 역사 5",
+ "date": "2027-11-25",
+ "day": 372,
+ "source": "TOPIK 6 – Bài 10: Lịch sử Hàn Quốc (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "쑥",
+   "Ssuk",
+   "Cây ngải cứu",
+   "단군 신화에서 곰은 쑥과 마늘을 먹고 사람이 되었어요.",
+   "Trong thần thoại Dangun, con gấu ăn ngải cứu và tỏi rồi thành người."
+  ],
+  [
+   "약탈",
+   "Yaktal",
+   "Sự cướp bóc",
+   "전쟁 중에 많은 문화재가 약탈되었어요.",
+   "Trong chiến tranh nhiều di sản bị cướp bóc."
+  ],
+  [
+   "양감",
+   "Yanggam",
+   "Cảm giác khối (mỹ thuật)",
+   "이 조각은 양감이 잘 표현되었어요.",
+   "Bức điêu khắc này thể hiện tốt cảm giác khối."
+  ],
+  [
+   "억압",
+   "Eogap",
+   "Sự áp bức",
+   "사람들은 억압에 맞서 싸웠어요.",
+   "Người dân đã đứng lên chống lại áp bức."
+  ],
+  [
+   "여백",
+   "Yeobaek",
+   "Khoảng trắng",
+   "한국화는 여백의 아름다움이 있어요.",
+   "Tranh Hàn Quốc có vẻ đẹp của khoảng trống."
+  ],
+  [
+   "역량",
+   "Yeongnyang",
+   "Khả năng, thực lực",
+   "국가의 역량을 키워야 해요.",
+   "Phải nâng cao năng lực quốc gia."
+  ],
+  [
+   "연전연승",
+   "Yeonjeonyeonseung",
+   "Bách chiến bách thắng",
+   "이순신 장군은 바다에서 연전연승했어요.",
+   "Tướng Yi Sun-sin trăm trận trăm thắng trên biển."
+  ],
+  [
+   "왜곡되다",
+   "Waegokdoeda",
+   "Bị xuyên tạc, bị bóp méo",
+   "역사가 왜곡되면 안 돼요.",
+   "Lịch sử không được bị xuyên tạc."
+  ],
+  [
+   "원형",
+   "Wonhyeong",
+   "Nguyên mẫu; hình tròn",
+   "이 탑은 원형 그대로 보존되어 있어요.",
+   "Ngọn tháp được bảo tồn nguyên dạng ban đầu."
+  ],
+  [
+   "정당화",
+   "Jeongdanghwa",
+   "Sự bào chữa, sự biện hộ",
+   "침략을 정당화할 수는 없어요.",
+   "Không thể biện minh cho sự xâm lược."
+  ],
+  [
+   "제자",
+   "Jeja",
+   "Học trò, đệ tử",
+   "그 선생님에게는 제자가 많아요.",
+   "Thầy giáo đó có nhiều học trò."
+  ],
+  [
+   "제정하다",
+   "Jejeonghada",
+   "Ban hành",
+   "세종대왕은 많은 법을 제정했어요.",
+   "Vua Sejong đã ban hành nhiều luật."
+  ],
+  [
+   "진정제 역할",
+   "Jinjeongje yeokal",
+   "Vai trò xoa dịu (như thuốc an thần)",
+   "음악은 마음의 진정제 역할을 해요.",
+   "Âm nhạc đóng vai trò xoa dịu tâm hồn."
+  ],
+  [
+   "추정",
+   "Chujeong",
+   "Sự ước đoán",
+   "이 유물은 5세기에 만들어진 것으로 추정돼요.",
+   "Di vật này được ước đoán làm vào thế kỷ 5."
+  ],
+  [
+   "탄압",
+   "Tanap",
+   "Sự đàn áp",
+   "일제는 독립운동가들을 탄압했어요.",
+   "Đế quốc Nhật đã đàn áp các nhà hoạt động độc lập."
+  ],
+  [
+   "폭격",
+   "Pokgyeok",
+   "Sự thả bom",
+   "전쟁 때 폭격으로 도시가 파괴되었어요.",
+   "Thời chiến, thành phố bị phá hủy vì bom đạn."
+  ],
+  [
+   "항거하다",
+   "Hanggeohada",
+   "Kháng cự, chống lại",
+   "국민들은 일제에 끝까지 항거했어요.",
+   "Nhân dân đã kháng cự Nhật đến cùng."
+  ],
+  [
+   "혈연",
+   "Hyeoryeon",
+   "Quan hệ huyết thống",
+   "한국 사회는 혈연을 중요하게 생각해요.",
+   "Xã hội Hàn Quốc coi trọng quan hệ huyết thống."
+  ],
+  [
+   "화강암",
+   "Hwagangam",
+   "Đá granit",
+   "석굴암 불상은 화강암으로 만들었어요.",
+   "Tượng Phật Seokguram được làm bằng đá granit."
+  ],
+  [
+   "황폐화",
+   "Hwangpyehwa",
+   "Bỏ hoang, hoang hóa",
+   "전쟁으로 땅이 황폐화되었어요.",
+   "Do chiến tranh mà đất đai bị hoang hóa."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ들 — Cho dù",
+   "meaning": "Giả định NHƯỢNG BỘ mang tính TU TỪ: 'cho dù… thì (cũng có ích gì / cũng không…)'. Vế sau thường là CÂU HỎI TU TỪ hoặc PHỦ ĐỊNH, nhấn mạnh rằng dù điều kiện đó xảy ra thì kết quả cũng vô ích / không thay đổi. Chia: có patchim → 은들 (먹은들, 많은들); không patchim/ㄹ → ㄴ들 (한들, 운들, 안다 → 안들); Danh từ → 인들 (부자인들); Quá khứ → 았/었던들 (văn cổ). Mẫu: 아무리 V(으)ㄴ들 + 무슨 소용이 있겠어요? / (으)ㄹ 수 있겠어요? / 지 않다. Ví dụ: 이제 와서 후회한들 무슨 소용이 있어요? (giờ có hối hận thì có ích gì?). Văn viết, văn chương, lời nói cảm thán. Gần nghĩa: 아/어 봤자 (có… cũng vô ích, khẩu ngữ); 더라도 (dù cho – không nhất thiết tu từ).",
+   "examples": [
+    "역사를 왜곡한들 진실이 바뀌겠어요? — Dù có xuyên tạc lịch sử thì sự thật có thay đổi được không?",
+    "이제 와서 후회한들 무슨 소용이 있어요? — Giờ có hối hận thì có ích gì?",
+    "아무리 돈이 많은들 건강을 살 수는 없어요. — Dù có nhiều tiền đến đâu cũng không mua được sức khỏe.",
+    "탄압이 아무리 심한들 국민의 독립 의지를 꺾을 수는 없었다. — Dù đàn áp khốc liệt đến đâu cũng không bẻ gãy được ý chí độc lập của nhân dân."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Trăm trận trăm thắng tiếng Hàn là gì?",
+   "kr": "",
+   "options": [
+    "연전연승",
+    "약탈",
+    "탄압"
+   ],
+   "answer": "연전연승",
+   "explain": "연전(liên tiếp chiến) 연승(liên tiếp thắng)."
+  },
+  {
+   "type": "choice",
+   "q": "Cướp đoạt tài sản (bằng vũ lực) gọi là gì?",
+   "kr": "",
+   "options": [
+    "약탈",
+    "항거",
+    "제정"
+   ],
+   "answer": "약탈",
+   "explain": "약탈."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lịch sử không được bị xuyên tạc.",
+   "kr": "역사가 ___면 안 돼요.",
+   "options": [
+    "왜곡되",
+    "추정되",
+    "황폐화되"
+   ],
+   "answer": "왜곡되",
+   "explain": "왜곡되다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhân dân kháng cự Nhật đến cùng.",
+   "kr": "국민들은 일제에 끝까지 ___.",
+   "options": [
+    "항거했어요",
+    "탄압했어요",
+    "제정했어요"
+   ],
+   "answer": "항거했어요",
+   "explain": "N에 항거하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Giờ có hối hận thì có ích gì?'",
+   "kr": "",
+   "options": [
+    "이제 와서 후회한들 무슨 소용이 있어요?",
+    "이제 와서 후회한들 꼭 소용이 있어요.",
+    "이제 와서 후회하는들 무슨 소용이 있어요?"
+   ],
+   "answer": "이제 와서 후회한들 무슨 소용이 있어요?",
+   "explain": "(으)ㄴ들 + câu hỏi tu từ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 많다.",
+   "kr": "",
+   "options": [
+    "많은들",
+    "많ㄴ들",
+    "많는들"
+   ],
+   "answer": "많은들",
+   "explain": "Có patchim → 은들."
+  },
+  {
+   "type": "choice",
+   "q": "Cách nói KHẨU NGỮ gần nghĩa với '후회한들'?",
+   "kr": "",
+   "options": [
+    "후회해 봤자",
+    "후회할 겸",
+    "후회하는 대로"
+   ],
+   "answer": "후회해 봤자",
+   "explain": "아/어 봤자 = có… cũng vô ích."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Di vật được ước đoán làm vào thế kỷ 5.",
+   "kr": "이 유물은 5세기에 만들어진 것으로 ___.",
+   "options": [
+    "추정돼요",
+    "정당화돼요",
+    "약탈돼요"
+   ],
+   "answer": "추정돼요",
+   "explain": "추정되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ들 với 왜곡하다: Dù có xuyên tạc thì sự thật có đổi không?",
+   "kr": "역사를 ___ 진실이 바뀌겠어요?",
+   "answer": [
+    "왜곡한들"
+   ],
+   "explain": "왜곡한들."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ들 với 심하다: Dù đàn áp khốc liệt cũng không bẻ gãy ý chí.",
+   "kr": "탄압이 아무리 ___ 국민의 의지를 꺾을 수는 없었다.",
+   "answer": [
+    "심한들"
+   ],
+   "explain": "심한들."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tranh Hàn có vẻ đẹp của khoảng trống.",
+   "kr": "한국화는 ___의 아름다움이 있어요.",
+   "answer": [
+    "여백"
+   ],
+   "explain": "여백."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Vua Sejong đã ban hành nhiều luật.",
+   "kr": "세종대왕은 많은 법을 ___했어요.",
+   "answer": [
+    "제정"
+   ],
+   "explain": "제정하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Dù nhiều tiền đến đâu cũng không mua được sức khỏe.",
+   "tokens": [
+    "아무리",
+    "돈이",
+    "많은들",
+    "건강을",
+    "살",
+    "수는",
+    "없어요"
+   ],
+   "answer": "아무리 돈이 많은들 건강을 살 수는 없어요",
+   "explain": "아무리 … (으)ㄴ들."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngọn tháp được bảo tồn nguyên dạng.",
+   "tokens": [
+    "이",
+    "탑은",
+    "원형",
+    "그대로",
+    "보존되어",
+    "있어요"
+   ],
+   "answer": "이 탑은 원형 그대로 보존되어 있어요",
+   "explain": "아/어 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Dù có khóc thì cũng có ích gì đâu? (dùng (으)ㄴ들)",
+   "answer": [
+    "운들 무슨 소용이 있어요?",
+    "울어 봤자 소용없어요.",
+    "지금 운들 무슨 소용이 있겠어요?",
+    "운들 무슨 소용이 있겠어요?"
+   ],
+   "explain": "울다 → 운들."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không thể biện minh cho sự xâm lược.",
+   "answer": [
+    "침략을 정당화할 수는 없어요.",
+    "침략을 정당화할 수 없어요."
+   ],
+   "explain": "정당화하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thầy giáo đó có nhiều học trò.",
+   "answer": [
+    "그 선생님에게는 제자가 많아요.",
+    "그 선생님은 제자가 많아요."
+   ],
+   "explain": "제자."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "일제 강점기에 일본은 한국인의 독립운동을 심하게 탄압했다. 그러나 아무리 억압이 심한들 독립을 향한 국민의 의지를 꺾을 수는 없었고, 국민들은 끝까지 항거했다.",
+   "answer": "Thời kỳ Nhật chiếm đóng, Nhật Bản đàn áp khốc liệt phong trào độc lập của người Hàn. Nhưng dù áp bức khốc liệt đến đâu cũng không thể bẻ gãy ý chí hướng đến độc lập của nhân dân, và nhân dân đã kháng cự đến cùng.",
+   "explain": "(으)ㄴ들."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 역사 보고서 마감이 내일인데 아직 시작도 못 했어요?\n남자: 네… 이제 와서 걱정한들 소용없겠죠?\n여자: 맞아요. 걱정하지 말고 지금 바로 도서관에 가서 자료부터 찾아요.\n남자: 알겠어요. 노트북 챙겨서 바로 갈게요.",
+   "options": [
+    "도서관에 자료를 찾으러 간다.",
+    "보고서를 제출한다.",
+    "마감을 연기해 달라고 한다.",
+    "집에서 잠을 잔다."
+   ],
+   "answer": "도서관에 자료를 찾으러 간다.",
+   "explain": "노트북 챙겨서 바로 갈게요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "석굴암은 신라 시대에 화강암으로 만든 인공 석굴이다. 단단한 화강암을 다루기 어려웠는데도 불상은 부드럽고 섬세하게 표현되어 있다. 학자들은 석굴암이 8세기 중엽에 만들어진 것으로 추정하며, 1995년 유네스코 세계문화유산으로 등재되었다.",
+   "options": [
+    "석굴암은 화강암으로 만들어졌다.",
+    "석굴암은 조선 시대에 만들었다.",
+    "석굴암의 불상은 거칠게 표현되었다.",
+    "석굴암은 아직 세계유산이 아니다."
+   ],
+   "answer": "석굴암은 화강암으로 만들어졌다.",
+   "explain": "화강암으로 만든 인공 석굴."
+  }
+ ]
+}

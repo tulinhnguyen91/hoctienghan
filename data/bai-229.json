@@ -1,0 +1,405 @@
+{
+ "id": "bai-229",
+ "lesson": "Bài 229",
+ "title": "Di sản văn hóa Hàn Quốc (phần 1/4)",
+ "krTitle": "한국의 문화유산 1",
+ "date": "2027-10-18",
+ "day": 334,
+ "source": "TOPIK 6 – Bài 5: Di sản văn hóa Hàn Quốc (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "유네스코",
+   "Yuneseuko",
+   "UNESCO (tổ chức giáo dục, khoa học và văn hóa của liên hợp quốc)",
+   "유네스코는 세계의 문화유산을 보호해요.",
+   "UNESCO bảo vệ di sản văn hóa thế giới."
+  ],
+  [
+   "문화유산",
+   "Munhwayusan",
+   "Di sản văn hóa",
+   "불국사와 석굴암은 세계 문화유산이에요.",
+   "Bulguksa và Seokguram là di sản văn hóa thế giới."
+  ],
+  [
+   "기록 유산",
+   "Girong yusan",
+   "Di sản tư liệu",
+   "훈민정음은 세계 기록 유산이에요.",
+   "Huấn dân chính âm là di sản tư liệu thế giới."
+  ],
+  [
+   "자연유산",
+   "Jayeonyusan",
+   "Di sản thiên nhiên",
+   "제주 화산섬은 세계 자연유산이에요.",
+   "Đảo núi lửa Jeju là di sản thiên nhiên thế giới."
+  ],
+  [
+   "무형 유산",
+   "Muhyeong yusan",
+   "Di sản phi vật thể",
+   "김장 문화는 인류 무형 유산이에요.",
+   "Văn hóa làm kimchi mùa đông là di sản phi vật thể của nhân loại."
+  ],
+  [
+   "국보",
+   "Gukbo",
+   "Quốc bảo",
+   "숭례문은 국보 제1호였어요.",
+   "Sungnyemun từng là quốc bảo số 1."
+  ],
+  [
+   "유형 문화재",
+   "Yuhyeong munhwajae",
+   "Di sản văn hóa vật thể",
+   "이 탑은 유형 문화재로 지정되었어요.",
+   "Ngọn tháp này được công nhận là di sản văn hóa vật thể."
+  ],
+  [
+   "지방 문화재",
+   "Jibang munhwajae",
+   "Di sản văn hóa địa phương",
+   "우리 동네에도 지방 문화재가 있어요.",
+   "Khu tôi cũng có di sản văn hóa địa phương."
+  ],
+  [
+   "보물",
+   "Bomul",
+   "Báu vật",
+   "흥인지문은 보물 제1호였어요.",
+   "Heunginjimun từng là bảo vật số 1."
+  ],
+  [
+   "무형 문화재",
+   "Muhyeong munhwajae",
+   "Di sản văn hóa phi vật thể",
+   "판소리는 국가 무형 문화재예요.",
+   "Pansori là di sản văn hóa phi vật thể quốc gia."
+  ],
+  [
+   "민속자료",
+   "Minsokjaryo",
+   "Tư liệu dân gian",
+   "이 옷은 중요한 민속자료로 박물관에 있어요.",
+   "Bộ áo này là tư liệu dân gian quan trọng, được lưu ở bảo tàng."
+  ],
+  [
+   "사적",
+   "Sajeok",
+   "Di tích lịch sử",
+   "경주에는 사적이 많아요.",
+   "Gyeongju có nhiều di tích lịch sử."
+  ],
+  [
+   "인간문화재",
+   "Inganmunhwajae",
+   "Di sản văn hóa con người",
+   "그는 탈춤 인간문화재예요.",
+   "Ông ấy là 'báu vật nhân văn sống' về múa mặt nạ."
+  ],
+  [
+   "천연기념물",
+   "Cheonyeonginyeommul",
+   "Di tích thiên nhiên (loài, vật được bảo tồn)",
+   "진돗개는 천연기념물이에요.",
+   "Chó Jindo là loài được bảo tồn (di tích thiên nhiên)."
+  ],
+  [
+   "유물",
+   "Yumul",
+   "Di vật",
+   "박물관에서 신라 시대 유물을 봤어요.",
+   "Tôi đã xem di vật thời Silla ở bảo tàng."
+  ],
+  [
+   "유지",
+   "Yuji",
+   "Sự duy trì",
+   "문화재를 유지하려면 많은 돈이 필요해요.",
+   "Muốn duy trì di sản văn hóa cần nhiều tiền."
+  ],
+  [
+   "전승",
+   "Jeonseung",
+   "Sự lưu truyền",
+   "전통 기술의 전승이 끊길 위기예요.",
+   "Việc lưu truyền kỹ thuật truyền thống đang có nguy cơ đứt đoạn."
+  ],
+  [
+   "훼손",
+   "Hweson",
+   "Sự phá hủy",
+   "관광객의 낙서로 문화재가 훼손되었어요.",
+   "Di sản bị hư hại vì khách du lịch vẽ bậy."
+  ],
+  [
+   "에 선정되다",
+   "E seonjeongdoeda",
+   "Được bình chọn vào",
+   "한국의 서원이 세계유산에 선정되었어요.",
+   "Các thư viện (seowon) Hàn Quốc được chọn vào danh sách di sản thế giới."
+  ],
+  [
+   "복원",
+   "Bogwon",
+   "Sự phục hồi, sự phục chế",
+   "불에 탄 숭례문을 복원했어요.",
+   "Đã phục dựng Sungnyemun bị cháy."
+  ],
+  [
+   "보존",
+   "Bojon",
+   "Sự bảo tồn",
+   "문화재 보존을 위해 모두가 노력해야 해요.",
+   "Mọi người phải nỗ lực để bảo tồn di sản."
+  ],
+  [
+   "계승",
+   "Gyeseung",
+   "Sự kế thừa",
+   "전통문화의 계승은 우리의 책임이에요.",
+   "Kế thừa văn hóa truyền thống là trách nhiệm của chúng ta."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ 따름이다 — Chỉ biết",
+   "meaning": "'Chỉ… mà thôi, chỉ biết… thôi': nhấn mạnh rằng NGOÀI ĐIỀU ĐÓ KHÔNG CÓ GÌ KHÁC, thường dùng để bày tỏ cảm xúc / thái độ một cách KHIÊM TỐN, TRANG TRỌNG. Chia: có patchim → 을 따름이다 (놀라울 따름이다 — 놀랍다 bất quy tắc ㅂ); không patchim → ㄹ 따름이다 (감사할 따름이다); quá khứ → 았/었을 따름이다 (최선을 다했을 따름입니다 = tôi chỉ cố gắng hết sức thôi). Hay dùng: 감사할 따름이다 (chỉ biết cảm ơn), 놀라울 따름이다 (thật đáng kinh ngạc), 안타까울 따름이다 (chỉ thấy tiếc), 부끄러울 따름이다. Gần nghĩa: (으)ㄹ 뿐이다 (đã học) – nhưng 따름이다 trang trọng hơn, hay dùng trong phát biểu, phỏng vấn, văn viết.",
+   "examples": [
+    "상을 받게 되어 그저 감사할 따름입니다. — Được nhận giải, tôi chỉ biết cảm ơn mà thôi.",
+    "천 년 전에 이런 탑을 만든 것이 놀라울 따름이에요. — Nghìn năm trước đã làm được ngọn tháp như vầy, thật đáng kinh ngạc.",
+    "소중한 문화재가 훼손되어 안타까울 따름이에요. — Di sản quý bị hư hại, chỉ thấy tiếc nuối.",
+    "저는 제 할 일을 했을 따름입니다. — Tôi chỉ làm việc của mình thôi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Nghệ nhân giữ gìn di sản phi vật thể (như múa, hát) được công nhận gọi là gì?",
+   "kr": "",
+   "options": [
+    "인간문화재",
+    "천연기념물",
+    "유물"
+   ],
+   "answer": "인간문화재",
+   "explain": "인간문화재 = báu vật nhân văn sống."
+  },
+  {
+   "type": "choice",
+   "q": "Động vật, thực vật, địa hình được nhà nước bảo tồn gọi là gì?",
+   "kr": "",
+   "options": [
+    "천연기념물",
+    "국보",
+    "사적"
+   ],
+   "answer": "천연기념물",
+   "explain": "천연 = tự nhiên."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 훼손 (hư hại) là gì?",
+   "kr": "",
+   "options": [
+    "복원",
+    "전승",
+    "선정"
+   ],
+   "answer": "복원",
+   "explain": "복원 = phục hồi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Di sản bị hư hại vì khách vẽ bậy.",
+   "kr": "관광객의 낙서로 문화재가 ___되었어요.",
+   "options": [
+    "훼손",
+    "보존",
+    "계승"
+   ],
+   "answer": "훼손",
+   "explain": "훼손되다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tôi chỉ biết cảm ơn mà thôi.'",
+   "kr": "",
+   "options": [
+    "그저 감사할 따름입니다.",
+    "그저 감사한 따름입니다.",
+    "그저 감사하는 따름입니다."
+   ],
+   "answer": "그저 감사할 따름입니다.",
+   "explain": "Luôn là (으)ㄹ 따름이다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 놀랍다.",
+   "kr": "",
+   "options": [
+    "놀라울 따름이에요",
+    "놀랍을 따름이에요",
+    "놀란 따름이에요"
+   ],
+   "answer": "놀라울 따름이에요",
+   "explain": "Bất quy tắc ㅂ: 놀랍 → 놀라울."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với (으)ㄹ 따름이다?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ 뿐이다",
+    "(으)ㄹ 겸",
+    "기는커녕"
+   ],
+   "answer": "(으)ㄹ 뿐이다",
+   "explain": "Cả hai = chỉ… thôi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đã phục dựng Sungnyemun bị cháy.",
+   "kr": "불에 탄 숭례문을 ___했어요.",
+   "options": [
+    "복원",
+    "훼손",
+    "전승"
+   ],
+   "answer": "복원",
+   "explain": "복원하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 따름이다 với 안타깝다: Chỉ thấy tiếc nuối.",
+   "kr": "소중한 문화재가 훼손되어 ___.",
+   "answer": [
+    "안타까울 따름이에요",
+    "안타까울 따름입니다",
+    "안타까울 따름이다"
+   ],
+   "explain": "안타깝다 → 안타까울."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 따름이다 (quá khứ) với 하다: Tôi chỉ làm việc của mình thôi.",
+   "kr": "저는 제 할 일을 ___.",
+   "answer": [
+    "했을 따름입니다",
+    "했을 따름이에요"
+   ],
+   "explain": "했을 따름입니다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Gyeongju có nhiều di tích lịch sử.",
+   "kr": "경주에는 ___이 많아요.",
+   "answer": [
+    "사적"
+   ],
+   "explain": "사적."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mọi người phải nỗ lực để bảo tồn di sản.",
+   "kr": "문화재 ___을 위해 모두가 노력해야 해요.",
+   "answer": [
+    "보존"
+   ],
+   "explain": "보존."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Được nhận giải, tôi chỉ biết cảm ơn.",
+   "tokens": [
+    "상을",
+    "받게",
+    "되어",
+    "그저",
+    "감사할",
+    "따름입니다"
+   ],
+   "answer": "상을 받게 되어 그저 감사할 따름입니다",
+   "explain": "(으)ㄹ 따름입니다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đảo núi lửa Jeju là di sản thiên nhiên thế giới.",
+   "tokens": [
+    "제주",
+    "화산섬은",
+    "세계",
+    "자연유산이에요"
+   ],
+   "answer": "제주 화산섬은 세계 자연유산이에요",
+   "explain": "자연유산."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi chỉ xấu hổ mà thôi. (dùng (으)ㄹ 따름이다)",
+   "answer": [
+    "부끄러울 따름입니다.",
+    "부끄러울 따름이에요.",
+    "그저 부끄러울 따름입니다."
+   ],
+   "explain": "부끄럽다 → 부끄러울."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã xem di vật thời Silla ở bảo tàng.",
+   "answer": [
+    "박물관에서 신라 시대 유물을 봤어요.",
+    "박물관에서 신라 시대의 유물을 봤어요."
+   ],
+   "explain": "유물."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Kế thừa văn hóa truyền thống là trách nhiệm của chúng ta.",
+   "answer": [
+    "전통문화의 계승은 우리의 책임이에요.",
+    "전통문화를 계승하는 것은 우리의 책임이에요."
+   ],
+   "explain": "계승."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "2008년 국보 제1호였던 숭례문이 화재로 크게 훼손되었다. 많은 국민이 안타까워했고, 정부는 5년 동안 전통 방식으로 숭례문을 복원했다.",
+   "answer": "Năm 2008, Sungnyemun – từng là quốc bảo số 1 – bị hư hại nặng do hỏa hoạn. Nhiều người dân đã tiếc nuối, và chính phủ đã phục dựng Sungnyemun theo phương thức truyền thống trong 5 năm.",
+   "explain": "았/었던; 복원하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 이번 주말에 경주 문화재 답사 가는 거 알죠?\n남자: 네. 그런데 어떤 문화재를 보는지 아직 몰라요.\n여자: 일정표를 어제 메일로 보냈는데 확인 안 했어요?\n남자: 아, 못 봤어요. 지금 바로 메일을 확인해 볼게요.",
+   "options": [
+    "메일을 확인한다.",
+    "경주에 간다.",
+    "일정표를 만든다.",
+    "여자에게 메일을 보낸다."
+   ],
+   "answer": "메일을 확인한다.",
+   "explain": "지금 바로 메일을 확인해 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "문화재는 한번 훼손되면 원래 모습으로 되돌리기 어렵다. 복원을 하더라도 (     ) 완전히 살릴 수는 없다. 그러므로 문화재는 훼손되기 전에 보존하는 것이 무엇보다 중요하다.",
+   "options": [
+    "옛날의 가치를",
+    "관광객 수를",
+    "입장료를",
+    "새로운 건물을"
+   ],
+   "answer": "옛날의 가치를",
+   "explain": "Phục dựng cũng không thể làm sống lại hoàn toàn giá trị xưa."
+  }
+ ]
+}

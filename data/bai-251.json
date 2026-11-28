@@ -1,0 +1,391 @@
+{
+ "id": "bai-251",
+ "lesson": "Bài 251",
+ "title": "Lịch sử Hàn Quốc (phần 2/5)",
+ "krTitle": "한국의 역사 2",
+ "date": "2027-11-20",
+ "day": 367,
+ "source": "TOPIK 6 – Bài 10: Lịch sử Hàn Quốc (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "전쟁",
+   "Jeonjaeng",
+   "Chiến tranh",
+   "전쟁은 많은 사람들의 생명을 빼앗아요.",
+   "Chiến tranh cướp đi sinh mạng của nhiều người."
+  ],
+  [
+   "침략하다",
+   "Chimnyakada",
+   "Xâm lược",
+   "1592년에 일본이 조선을 침략했어요.",
+   "Năm 1592 Nhật Bản xâm lược Joseon."
+  ],
+  [
+   "점령을 하다",
+   "Jeomnyeongeul hada",
+   "Chiếm lĩnh",
+   "적군이 성을 점령을 했어요.",
+   "Quân địch đã chiếm thành."
+  ],
+  [
+   "지배를 당하다",
+   "Jibaereul danghada",
+   "Bị trị",
+   "한국은 36년 동안 일본의 지배를 당했어요.",
+   "Hàn Quốc bị Nhật cai trị trong 36 năm."
+  ],
+  [
+   "전쟁이 일어나다",
+   "Jeonjaengi ireonada",
+   "Chiến tranh bùng nổ",
+   "1950년에 한국 전쟁이 일어났어요.",
+   "Năm 1950 chiến tranh Triều Tiên nổ ra."
+  ],
+  [
+   "침략을 당하다",
+   "Chimnyageul danghada",
+   "Bị xâm lược",
+   "고려는 몽골의 침략을 당했어요.",
+   "Cao Ly đã bị Mông Cổ xâm lược."
+  ],
+  [
+   "쳐들어가다",
+   "Chyeodeureogada",
+   "Xâm lấn",
+   "군대가 적의 땅으로 쳐들어갔어요.",
+   "Quân đội tiến đánh vào đất địch."
+  ],
+  [
+   "휴전",
+   "Hyujeon",
+   "Sự đình chiến, sự ngừng chiến",
+   "1953년에 휴전 협정이 맺어졌어요.",
+   "Năm 1953 hiệp định đình chiến được ký kết."
+  ],
+  [
+   "영토",
+   "Yeongto",
+   "Lãnh thổ",
+   "고구려는 넓은 영토를 가지고 있었어요.",
+   "Cao Câu Ly có lãnh thổ rộng lớn."
+  ],
+  [
+   "전쟁이 발발하다",
+   "Jeonjaengi balbalhada",
+   "Chiến tranh bùng phát",
+   "1939년에 제2차 세계 대전이 발발했어요.",
+   "Năm 1939 Thế chiến thứ hai bùng nổ."
+  ],
+  [
+   "지배하다",
+   "Jibaehada",
+   "Cai trị",
+   "로마는 넓은 지역을 지배했어요.",
+   "La Mã đã cai trị một vùng rộng lớn."
+  ],
+  [
+   "종전",
+   "Jongjeon",
+   "Sự kết thúc chiến tranh",
+   "종전 후 많은 사람이 고향으로 돌아갔어요.",
+   "Sau khi chiến tranh kết thúc nhiều người đã về quê."
+  ],
+  [
+   "혁명",
+   "Hyeongmyeong",
+   "Cách mạng",
+   "프랑스 혁명은 세계 역사에 큰 영향을 주었어요.",
+   "Cách mạng Pháp đã ảnh hưởng lớn đến lịch sử thế giới."
+  ],
+  [
+   "정권을 잡다",
+   "Jeonggwoneul japda",
+   "Nắm chính quyền",
+   "그는 쿠데타로 정권을 잡았어요.",
+   "Ông ta nắm chính quyền bằng đảo chính."
+  ],
+  [
+   "혁명이 일어나다",
+   "Hyeongmyeongi ireonada",
+   "Cách mạng bùng lên",
+   "러시아에서 혁명이 일어났어요.",
+   "Cách mạng đã nổ ra ở Nga."
+  ],
+  [
+   "집권하다",
+   "Jipgwonhada",
+   "Nắm quyền",
+   "그 정당이 10년 동안 집권했어요.",
+   "Đảng đó đã cầm quyền trong 10 năm."
+  ],
+  [
+   "쿠데타",
+   "Kudeta",
+   "Cuộc đảo chính, cướp chính quyền",
+   "군인들이 쿠데타를 일으켰어요.",
+   "Quân đội đã gây ra đảo chính."
+  ],
+  [
+   "왕족",
+   "Wangjok",
+   "Hoàng tộc",
+   "왕족은 궁궐에서 살았어요.",
+   "Hoàng tộc sống trong cung điện."
+  ],
+  [
+   "노예",
+   "Noye",
+   "Nô lệ",
+   "옛날에는 노예를 사고팔기도 했어요.",
+   "Ngày xưa người ta còn mua bán nô lệ."
+  ],
+  [
+   "천민",
+   "Cheonmin",
+   "Tầng lớp tiện dân (thấp nhất)",
+   "조선 시대 천민은 차별을 받았어요.",
+   "Tầng lớp tiện dân thời Joseon bị phân biệt đối xử."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)다는 점에서 — Ở điểm",
+   "meaning": "Nêu CĂN CỨ, KHÍA CẠNH để đánh giá: 'ở điểm là…, xét ở chỗ…, ở chỗ…'. Cấu tạo: câu gián tiếp (ㄴ/는)다는 + 점 (điểm) + 에서. Chia: Động từ → (ㄴ/는)다는 점에서 (보여 준다는 점에서); Tính từ → 다는 점에서 (크다는 점에서); Danh từ → (이)라는 점에서 (최초라는 점에서); Quá khứ → 았/었다는 점에서. Vế sau thường là ĐÁNH GIÁ: 의미가 있다, 중요하다, 가치가 있다, 다르다, 비슷하다. Rất hay dùng trong văn viết, TOPIK Viết câu 54 và Đọc đoạn dài. Biến thể: 다는 점이 (điểm … là), 다는 점을 (chỗ…). Gần nghĩa: 다는 면에서 (về mặt…).",
+   "examples": [
+    "3·1 운동은 모든 국민이 참여했다는 점에서 큰 의미가 있어요. — Phong trào 1/3 có ý nghĩa lớn ở chỗ toàn dân đã tham gia.",
+    "한글은 만든 사람과 원리가 알려져 있다는 점에서 특별해요. — Hangeul đặc biệt ở điểm biết được người tạo và nguyên lý.",
+    "두 사건은 외국의 침략이었다는 점에서 비슷해요. — Hai sự kiện giống nhau ở chỗ đều là sự xâm lược của nước ngoài.",
+    "이 책은 전쟁의 아픔을 잘 보여 준다는 점에서 읽을 만해요. — Cuốn sách này đáng đọc ở chỗ thể hiện rõ nỗi đau chiến tranh."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Sự ngừng chiến tạm thời gọi là gì?",
+   "kr": "",
+   "options": [
+    "휴전",
+    "종전",
+    "혁명"
+   ],
+   "answer": "휴전",
+   "explain": "휴전 (ngừng) ≠ 종전 (kết thúc hẳn)."
+  },
+  {
+   "type": "choice",
+   "q": "Chiến tranh bùng nổ (văn trang trọng) là gì?",
+   "kr": "",
+   "options": [
+    "전쟁이 발발하다",
+    "전쟁이 끝나다",
+    "휴전하다"
+   ],
+   "answer": "전쟁이 발발하다",
+   "explain": "발발 = bùng phát."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 침략하다 (xâm lược) xét theo vị trí người bị là gì?",
+   "kr": "",
+   "options": [
+    "침략을 당하다",
+    "쳐들어가다",
+    "점령을 하다"
+   ],
+   "answer": "침략을 당하다",
+   "explain": "당하다 = bị."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ông ta nắm chính quyền bằng đảo chính.",
+   "kr": "그는 쿠데타로 ___.",
+   "options": [
+    "정권을 잡았어요",
+    "휴전했어요",
+    "지배를 당했어요"
+   ],
+   "answer": "정권을 잡았어요",
+   "explain": "정권을 잡다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Có ý nghĩa ở chỗ toàn dân tham gia.'",
+   "kr": "",
+   "options": [
+    "모든 국민이 참여했다는 점에서 의미가 있어요.",
+    "모든 국민이 참여했는 점에서 의미가 있어요.",
+    "모든 국민이 참여한다는 점이 의미가 있어서요는."
+   ],
+   "answer": "모든 국민이 참여했다는 점에서 의미가 있어요.",
+   "explain": "았/었다는 점에서."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với danh từ 최초.",
+   "kr": "",
+   "options": [
+    "최초라는 점에서",
+    "최초다는 점에서",
+    "최초는다는 점에서"
+   ],
+   "answer": "최초라는 점에서",
+   "explain": "N(이)라는 점에서."
+  },
+  {
+   "type": "choice",
+   "q": "Vế sau của (ㄴ/는)다는 점에서 thường là gì?",
+   "kr": "",
+   "options": [
+    "Đánh giá (의미가 있다, 중요하다…)",
+    "Mệnh lệnh",
+    "Câu hỏi về thời gian"
+   ],
+   "answer": "Đánh giá (의미가 있다, 중요하다…)",
+   "explain": "Căn cứ + đánh giá."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cao Câu Ly có lãnh thổ rộng.",
+   "kr": "고구려는 넓은 ___를 가지고 있었어요.",
+   "options": [
+    "영토",
+    "노예",
+    "혁명"
+   ],
+   "answer": "영토",
+   "explain": "영토."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다는 점에서 với 보여 주다: Đáng đọc ở chỗ thể hiện rõ nỗi đau chiến tranh.",
+   "kr": "이 책은 전쟁의 아픔을 잘 ___ 읽을 만해요.",
+   "answer": [
+    "보여 준다는 점에서",
+    "보여준다는 점에서"
+   ],
+   "explain": "준다는 점에서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다는 점에서 với 이다 (quá khứ): Giống nhau ở chỗ đều là xâm lược.",
+   "kr": "두 사건은 외국의 침략___ 비슷해요.",
+   "answer": [
+    "이었다는 점에서"
+   ],
+   "explain": "이었다는 점에서."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Năm 1953 hiệp định đình chiến được ký.",
+   "kr": "1953년에 ___ 협정이 맺어졌어요.",
+   "answer": [
+    "휴전"
+   ],
+   "explain": "휴전 협정."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đảng đó đã cầm quyền 10 năm.",
+   "kr": "그 정당이 10년 동안 ___했어요.",
+   "answer": [
+    "집권"
+   ],
+   "explain": "집권하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hangeul đặc biệt ở điểm biết được người tạo.",
+   "tokens": [
+    "한글은",
+    "만든",
+    "사람이",
+    "알려져",
+    "있다는",
+    "점에서",
+    "특별해요"
+   ],
+   "answer": "한글은 만든 사람이 알려져 있다는 점에서 특별해요",
+   "explain": "다는 점에서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Năm 1950 chiến tranh Triều Tiên nổ ra.",
+   "tokens": [
+    "1950년에",
+    "한국",
+    "전쟁이",
+    "일어났어요"
+   ],
+   "answer": "1950년에 한국 전쟁이 일어났어요",
+   "explain": "일어나다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Phim này có giá trị ở chỗ dựa trên sự thật lịch sử. (dùng 다는 점에서)",
+   "answer": [
+    "이 영화는 역사적 사실을 바탕으로 했다는 점에서 가치가 있어요.",
+    "이 영화는 역사적 사실에 바탕을 두었다는 점에서 가치가 있어요.",
+    "이 영화는 역사적 사실을 바탕으로 한다는 점에서 가치가 있어요."
+   ],
+   "explain": "다는 점에서 가치가 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Năm 1592 Nhật Bản xâm lược Joseon.",
+   "answer": [
+    "1592년에 일본이 조선을 침략했어요.",
+    "1592년 일본이 조선을 침략했어요."
+   ],
+   "explain": "침략하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sau khi chiến tranh kết thúc nhiều người về quê.",
+   "answer": [
+    "종전 후 많은 사람이 고향으로 돌아갔어요.",
+    "전쟁이 끝난 후 많은 사람들이 고향으로 돌아갔어요.",
+    "종전 후에 많은 사람들이 고향으로 돌아갔어요."
+   ],
+   "explain": "종전."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "1950년에 발발한 한국 전쟁은 1953년 휴전 협정으로 멈추었지만 아직 종전이 된 것은 아니다. 이 전쟁은 같은 민족끼리 싸웠다는 점에서 더욱 큰 상처를 남겼다.",
+   "answer": "Chiến tranh Triều Tiên bùng nổ năm 1950 đã dừng lại bằng hiệp định đình chiến năm 1953 nhưng vẫn chưa chính thức kết thúc. Cuộc chiến này để lại vết thương lớn hơn ở chỗ người cùng một dân tộc đã đánh nhau.",
+   "explain": "다는 점에서."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 이번 역사 발표 주제를 정했어요?\n남자: 임진왜란으로 하려고요. 일본이 조선을 침략한 전쟁인데, 이순신 장군이 거북선으로 이겼다는 점에서 흥미로워요.\n여자: 좋네요. 그럼 저는 한국 전쟁을 해 볼까요?\n남자: 좋아요. 두 전쟁을 비교하면 더 재미있을 것 같아요.",
+   "options": [
+    "남자는 임진왜란을 발표하려고 한다.",
+    "여자는 임진왜란을 발표하려고 한다.",
+    "두 사람은 같은 전쟁을 발표한다.",
+    "남자는 한국 전쟁에 관심이 없다고 했다."
+   ],
+   "answer": "남자는 임진왜란을 발표하려고 한다.",
+   "explain": "임진왜란으로 하려고요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그러나 1953년 휴전 협정이 맺어지면서 전쟁은 멈추었다.\n(나) 1950년 6월 25일 한국 전쟁이 발발했다.\n(다) 3년 동안 계속된 전쟁으로 수많은 사람이 목숨을 잃었다.",
+   "options": [
+    "(나)-(다)-(가)",
+    "(가)-(나)-(다)",
+    "(다)-(가)-(나)",
+    "(나)-(가)-(다)"
+   ],
+   "answer": "(나)-(다)-(가)",
+   "explain": "Bùng nổ → kéo dài 3 năm → đình chiến."
+  }
+ ]
+}

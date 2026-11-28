@@ -1,0 +1,383 @@
+{
+ "id": "bai-198",
+ "lesson": "Bài 198",
+ "title": "Tư duy của người Hàn Quốc (phần 1/3)",
+ "krTitle": "한국인의 사고방식 1",
+ "date": "2027-09-02",
+ "day": 288,
+ "source": "TOPIK 5 – Bài 13: Tư duy của người Hàn Quốc (phần 1/3)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "가치관",
+   "Gachigwan",
+   "Giá trị quan",
+   "세대마다 가치관이 달라요.",
+   "Mỗi thế hệ có giá trị quan khác nhau."
+  ],
+  [
+   "세계관",
+   "Segyegwan",
+   "Thế giới quan",
+   "여행을 많이 하면 세계관이 넓어져요.",
+   "Đi du lịch nhiều thì thế giới quan rộng mở."
+  ],
+  [
+   "공동체 의식",
+   "Gongdongche uisik",
+   "Ý thức cộng đồng",
+   "한국 사람들은 공동체 의식이 강해요.",
+   "Người Hàn có ý thức cộng đồng mạnh."
+  ],
+  [
+   "서열 의식",
+   "Seoyeol uisik",
+   "Ý thức cấp bậc",
+   "한국어의 높임말은 서열 의식과 관계가 있어요.",
+   "Kính ngữ tiếng Hàn có liên quan đến ý thức thứ bậc."
+  ],
+  [
+   "혈연 의식",
+   "Hyeoryeon uisik",
+   "Ý thức huyết thống",
+   "명절에 친척이 모이는 것은 혈연 의식 때문이에요.",
+   "Họ hàng tụ họp dịp lễ là do ý thức huyết thống."
+  ],
+  [
+   "가족주의",
+   "Gajokjuui",
+   "Chủ nghĩa gia đình",
+   "가족주의가 강해서 가족 일을 가장 먼저 생각해요.",
+   "Chủ nghĩa gia đình mạnh nên nghĩ đến việc nhà trước tiên."
+  ],
+  [
+   "집단주의",
+   "Jipdanjuui",
+   "Chủ nghĩa tập thể",
+   "집단주의 문화에서는 개인보다 집단이 중요해요.",
+   "Trong văn hóa tập thể, tập thể quan trọng hơn cá nhân."
+  ],
+  [
+   "이기주의",
+   "Igijuui",
+   "Chủ nghĩa vị kỷ",
+   "자기만 생각하는 이기주의는 좋지 않아요.",
+   "Chủ nghĩa vị kỷ chỉ nghĩ cho mình là không tốt."
+  ],
+  [
+   "이타주의",
+   "Itajuui",
+   "Chủ nghĩa vị tha",
+   "남을 먼저 돕는 이타주의를 배워야 해요.",
+   "Phải học chủ nghĩa vị tha giúp người khác trước."
+  ],
+  [
+   "개인주의",
+   "Gaeinjuui",
+   "Chủ nghĩa cá nhân",
+   "젊은 세대는 개인주의적인 경향이 있어요.",
+   "Thế hệ trẻ có khuynh hướng cá nhân chủ nghĩa."
+  ],
+  [
+   "감성적",
+   "Gamseongjeok",
+   "Tính cảm tính, tính nhạy cảm",
+   "그는 감성적이어서 영화를 보면 잘 울어요.",
+   "Anh ấy đa cảm nên xem phim hay khóc."
+  ],
+  [
+   "낙천적",
+   "Nakcheonjeok",
+   "Tính lạc quan",
+   "그 친구는 낙천적이라서 걱정을 별로 안 해요.",
+   "Bạn ấy lạc quan nên ít lo lắng."
+  ],
+  [
+   "논리적",
+   "Nollijeok",
+   "Tính logic, tính hợp lý",
+   "발표는 논리적으로 해야 설득력이 있어요.",
+   "Thuyết trình phải logic thì mới có sức thuyết phục."
+  ],
+  [
+   "보수적",
+   "Bosujeok",
+   "Tính bảo thủ",
+   "할아버지는 생각이 좀 보수적이세요.",
+   "Ông tôi suy nghĩ hơi bảo thủ."
+  ],
+  [
+   "이성적",
+   "Iseongjeok",
+   "Tính duy lý",
+   "화가 날 때일수록 이성적으로 판단하세요.",
+   "Càng lúc tức giận càng phải phán đoán lý trí."
+  ],
+  [
+   "열정적",
+   "Yeoljeongjeok",
+   "Tính nhiệt tình",
+   "그 선생님은 열정적으로 가르치세요.",
+   "Thầy giáo đó dạy rất nhiệt tình."
+  ],
+  [
+   "진취적",
+   "Jinchwijeok",
+   "Tính xông pha, tính dám nghĩ dám làm",
+   "진취적인 젊은이들이 새 회사를 세웠어요.",
+   "Những người trẻ dám nghĩ dám làm đã lập công ty mới."
+  ],
+  [
+   "활동적",
+   "Hwaldongjeok",
+   "Tính hoạt bát",
+   "활동적인 사람은 주말에도 집에 있지 않아요.",
+   "Người năng động cuối tuần cũng không ở nhà."
+  ],
+  [
+   "정이 가다",
+   "Jeongi gada",
+   "Thấy có cảm tình",
+   "처음 만났는데도 그 사람에게 정이 갔어요.",
+   "Dù mới gặp lần đầu mà tôi đã thấy có cảm tình với người đó."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 대로 — Ngay khi, theo như",
+   "meaning": "Có HAI nghĩa chính: (1) 'NGAY KHI…, hễ… là…' (thời gian): vế trước xong là vế sau làm liền — 도착하는 대로 연락할게요 (đến nơi là tôi liên lạc ngay). Vế sau thường là ý định, đề nghị (겠다, ㄹ게요, 세요). Gần nghĩa 자마자 (đã học), nhưng 자마자 dùng được với quá khứ thực tế, còn 는 대로 chủ yếu cho kế hoạch tương lai, KHÔNG dùng với quá khứ đã xảy ra. (2) 'THEO NHƯ…, y như…' (cách thức): 들은 대로 말했어요 (nói y như đã nghe), 생각하는 대로 하세요 (cứ làm theo những gì bạn nghĩ). Nghĩa (2) dùng được: hiện tại 는 대로, quá khứ (으)ㄴ 대로 (배운 대로), tương lai (으)ㄹ 대로. So sánh với N대로 (đã học): 계획대로, 순서대로 = theo danh từ.",
+   "examples": [
+    "결과가 나오는 대로 알려 드리겠습니다. — Có kết quả là tôi sẽ báo ngay.",
+    "수업이 끝나는 대로 도서관으로 오세요. — Tan học là hãy đến thư viện ngay.",
+    "선생님이 가르쳐 주신 대로 했어요. — Tôi đã làm y như thầy dạy.",
+    "한국 사람들은 보통 나이 순서대로 앉아요. — Người Hàn thường ngồi theo thứ tự tuổi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ý thức về thứ bậc (tuổi, chức vụ) gọi là gì?",
+   "kr": "",
+   "options": [
+    "서열 의식",
+    "혈연 의식",
+    "공동체 의식"
+   ],
+   "answer": "서열 의식",
+   "explain": "서열 = thứ tự, thứ bậc."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 이기주의 là gì?",
+   "kr": "",
+   "options": [
+    "이타주의",
+    "개인주의",
+    "집단주의"
+   ],
+   "answer": "이타주의",
+   "explain": "이기 (lợi mình) ↔ 이타 (lợi người)."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 감성적 (cảm tính) là gì?",
+   "kr": "",
+   "options": [
+    "이성적",
+    "열정적",
+    "낙천적"
+   ],
+   "answer": "이성적",
+   "explain": "감성 ↔ 이성 (lý tính)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ông tôi suy nghĩ hơi bảo thủ.",
+   "kr": "할아버지는 생각이 좀 ___이세요.",
+   "options": [
+    "보수적",
+    "진취적",
+    "활동적"
+   ],
+   "answer": "보수적",
+   "explain": "보수적 = bảo thủ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Đến nơi là tôi liên lạc ngay.'",
+   "kr": "",
+   "options": [
+    "도착하는 대로 연락할게요.",
+    "도착한 대로 연락할게요.",
+    "도착할 대로 연락할게요."
+   ],
+   "answer": "도착하는 대로 연락할게요.",
+   "explain": "Nghĩa 'ngay khi': luôn dùng 는 대로."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào SAI?",
+   "kr": "",
+   "options": [
+    "어제 집에 도착하는 대로 잤어요.",
+    "집에 도착하는 대로 전화하세요.",
+    "어제 집에 도착하자마자 잤어요."
+   ],
+   "answer": "어제 집에 도착하는 대로 잤어요.",
+   "explain": "는 대로 (ngay khi) không dùng cho sự việc đã xảy ra → dùng 자마자."
+  },
+  {
+   "type": "choice",
+   "q": "'배운 대로 했어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Tôi đã làm y như đã học.",
+    "Tôi đã học ngay khi làm.",
+    "Vì đã học nên tôi làm."
+   ],
+   "answer": "Tôi đã làm y như đã học.",
+   "explain": "(으)ㄴ 대로 = theo như."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Dù mới gặp mà tôi đã thấy có cảm tình.",
+   "kr": "처음 만났는데도 그 사람에게 ___.",
+   "options": [
+    "정이 갔어요",
+    "정이 없었어요",
+    "정이 떨어졌어요"
+   ],
+   "answer": "정이 갔어요",
+   "explain": "정이 가다 = thấy có cảm tình."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 대로 với 나오다: Có kết quả là tôi sẽ báo ngay.",
+   "kr": "결과가 ___ 알려 드리겠습니다.",
+   "answer": [
+    "나오는 대로"
+   ],
+   "explain": "나오는 대로."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 대로 với 가르쳐 주시다: Tôi đã làm y như thầy dạy.",
+   "kr": "선생님이 ___ 했어요.",
+   "answer": [
+    "가르쳐 주신 대로",
+    "가르쳐주신 대로"
+   ],
+   "explain": "Quá khứ: (으)ㄴ 대로."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Người Hàn có ý thức cộng đồng mạnh.",
+   "kr": "한국 사람들은 ___ 의식이 강해요.",
+   "answer": [
+    "공동체"
+   ],
+   "explain": "공동체 의식."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Thuyết trình phải logic thì mới có sức thuyết phục.",
+   "kr": "발표는 ___으로 해야 설득력이 있어요.",
+   "answer": [
+    "논리적"
+   ],
+   "explain": "논리적으로."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tan học là hãy đến thư viện ngay.",
+   "tokens": [
+    "수업이",
+    "끝나는",
+    "대로",
+    "도서관으로",
+    "오세요"
+   ],
+   "answer": "수업이 끝나는 대로 도서관으로 오세요",
+   "explain": "는 대로 + 세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mỗi thế hệ có giá trị quan khác nhau.",
+   "tokens": [
+    "세대마다",
+    "가치관이",
+    "달라요"
+   ],
+   "answer": "세대마다 가치관이 달라요",
+   "explain": "N마다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Về đến nhà là tôi sẽ gọi điện ngay. (dùng 는 대로)",
+   "answer": [
+    "집에 도착하는 대로 전화할게요.",
+    "집에 가는 대로 전화할게요.",
+    "집에 도착하는 대로 전화하겠습니다.",
+    "집에 들어가는 대로 전화할게요."
+   ],
+   "explain": "는 대로 + ㄹ게요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cứ làm theo những gì bạn nghĩ.",
+   "answer": [
+    "생각하는 대로 하세요.",
+    "당신이 생각하는 대로 하세요.",
+    "네가 생각하는 대로 해."
+   ],
+   "explain": "는 대로 (theo như)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bạn ấy lạc quan nên ít lo lắng.",
+   "answer": [
+    "그 친구는 낙천적이라서 걱정을 별로 안 해요.",
+    "그 친구는 낙천적이어서 걱정을 별로 안 해요.",
+    "그 친구는 낙천적이라서 걱정을 많이 안 해요."
+   ],
+   "explain": "이라서."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국 사회는 전통적으로 공동체 의식과 가족주의가 강했다. 그러나 산업화 이후 젊은 세대를 중심으로 개인주의적인 가치관이 점점 퍼지고 있다.",
+   "answer": "Xã hội Hàn Quốc truyền thống có ý thức cộng đồng và chủ nghĩa gia đình mạnh. Nhưng sau công nghiệp hóa, giá trị quan mang tính cá nhân chủ nghĩa đang dần lan rộng, chủ yếu ở thế hệ trẻ.",
+   "explain": "을 중심으로; 퍼지다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 부장님, 회의 자료는 언제까지 드리면 될까요?\n남자: 회의가 내일 오전이니까 오늘 완성되는 대로 메일로 보내 주세요.\n여자: 네, 알겠습니다. 그런데 아직 통계 자료가 안 왔어요.\n남자: 그럼 제가 지금 통계팀에 전화해 볼게요.",
+   "options": [
+    "통계팀에 전화한다.",
+    "회의 자료를 완성한다.",
+    "메일을 확인한다.",
+    "회의를 연기한다."
+   ],
+   "answer": "통계팀에 전화한다.",
+   "explain": "제가 지금 통계팀에 전화해 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【설문 조사 결과: 한국 대학생의 성격 유형】\n· 활동적 35%\n· 낙천적 28%\n· 이성적 22%\n· 감성적 15%",
+   "options": [
+    "활동적이라고 답한 학생이 가장 많다.",
+    "감성적이라고 답한 학생이 가장 많다.",
+    "이성적인 학생이 낙천적인 학생보다 많다.",
+    "감성적인 학생이 20%를 넘는다."
+   ],
+   "answer": "활동적이라고 답한 학생이 가장 많다.",
+   "explain": "활동적 35% → cao nhất."
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+{
+ "id": "bai-199",
+ "lesson": "Bài 199",
+ "title": "Tư duy của người Hàn Quốc (phần 2/3)",
+ "krTitle": "한국인의 사고방식 2",
+ "date": "2027-09-03",
+ "day": 289,
+ "source": "TOPIK 5 – Bài 13: Tư duy của người Hàn Quốc (phần 2/3)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "정이 없다",
+   "Jeongi eopda",
+   "Khô khan tình cảm",
+   "그 사람은 정이 없어서 인사도 잘 안 해요.",
+   "Người đó khô khan nên chào hỏi cũng ít."
+  ],
+  [
+   "정에 약하다",
+   "Jeonge yakada",
+   "Yếu mềm trong tình cảm",
+   "저는 정에 약해서 부탁을 거절하지 못해요.",
+   "Tôi yếu lòng nên không từ chối được lời nhờ vả."
+  ],
+  [
+   "정이 들다",
+   "Jeongi deulda",
+   "Nảy sinh tình cảm, quen hơi",
+   "한 학기 동안 같이 지내니까 친구들과 정이 들었어요.",
+   "Ở cùng một học kỳ nên đã có tình cảm với bạn bè."
+  ],
+  [
+   "정이 많다",
+   "Jeongi manta",
+   "Giàu tình cảm",
+   "시골 할머니들은 정이 많아요.",
+   "Các bà ở quê rất giàu tình cảm."
+  ],
+  [
+   "정이 떨어지다",
+   "Jeongi tteoreojida",
+   "Mất tình cảm (tình cảm dành cho ai đó bị mất đi)",
+   "거짓말하는 걸 보고 정이 떨어졌어요.",
+   "Thấy anh ta nói dối, tôi mất hết cảm tình."
+  ],
+  [
+   "효",
+   "Hyo",
+   "Chữ hiếu, sự hiếu thảo",
+   "한국에서는 효를 아주 중요하게 생각해요.",
+   "Ở Hàn Quốc chữ hiếu được coi trọng vô cùng."
+  ],
+  [
+   "한",
+   "Han",
+   "Nỗi hận dồn nén (han)",
+   "판소리에는 한국인의 한이 담겨 있어요.",
+   "Pansori chứa đựng nỗi 'han' của người Hàn."
+  ],
+  [
+   "흥",
+   "Heung",
+   "Sự hưng phấn, sự hứng khởi",
+   "음악이 나오자 사람들이 흥에 겨워 춤을 췄어요.",
+   "Nhạc vừa vang lên, mọi người hứng khởi nhảy múa."
+  ],
+  [
+   "신바람",
+   "Sinbaram",
+   "Sự phấn khởi, sự hào hứng",
+   "좋은 소식을 듣고 신바람이 나서 일했어요.",
+   "Nghe tin vui nên tôi làm việc hăng say."
+  ],
+  [
+   "은근",
+   "Eungeun",
+   "Sự kín đáo, âm thầm",
+   "한국 사람의 사랑 표현은 은근한 편이에요.",
+   "Cách thể hiện tình yêu của người Hàn thuộc loại kín đáo."
+  ],
+  [
+   "끈기",
+   "Kkeungi",
+   "Sự kiên trì, sự chịu đựng",
+   "그는 끈기가 있어서 끝까지 포기하지 않아요.",
+   "Anh ấy kiên trì nên không bỏ cuộc đến cùng."
+  ],
+  [
+   "빨리빨리",
+   "Ppallippalli",
+   "Nhanh nhẹn, vội vã",
+   "빨리빨리 문화 덕분에 배달이 정말 빨라요.",
+   "Nhờ văn hóa 'nhanh nhanh' mà giao hàng rất nhanh."
+  ],
+  [
+   "우리 의식",
+   "Uri uisik",
+   "Ý thức chúng ta/chúng tôi",
+   "한국 사람들은 '우리 엄마'처럼 우리 의식이 강해요.",
+   "Người Hàn có ý thức 'chúng ta' mạnh, như nói 'mẹ chúng tôi'."
+  ],
+  [
+   "간섭",
+   "Ganseop",
+   "Sự can thiệp",
+   "부모님의 지나친 간섭이 싫어요.",
+   "Tôi ghét sự can thiệp quá mức của bố mẹ."
+  ],
+  [
+   "경로",
+   "Gyeongno",
+   "Lòng kính trọng người già (kính lão)",
+   "경로 사상 때문에 버스에서 자리를 양보해요.",
+   "Vì tư tưởng kính lão nên nhường ghế trên xe buýt."
+  ],
+  [
+   "경어법",
+   "Gyeongeobeop",
+   "Phép kính ngữ",
+   "한국어 경어법은 외국인에게 어려워요.",
+   "Phép kính ngữ tiếng Hàn khó với người nước ngoài."
+  ],
+  [
+   "경쟁력",
+   "Gyeongjaengnyeok",
+   "Tính cạnh tranh",
+   "기술이 있어야 경쟁력이 생겨요.",
+   "Phải có công nghệ thì mới có năng lực cạnh tranh."
+  ],
+  [
+   "고맥락 문화",
+   "Gomaengnang munhwa",
+   "Văn hóa mang tính ngữ cảnh cao (văn hóa sử dụng ngôn ngữ phi trực tiếp và phụ thuộc nhiều vào ngữ cảnh, ví dụ văn hóa của một số nước châu Á)",
+   "한국은 고맥락 문화라서 말하지 않아도 알아야 할 때가 많아요.",
+   "Hàn Quốc là văn hóa ngữ cảnh cao nên nhiều khi không nói cũng phải hiểu."
+  ],
+  [
+   "그르치다",
+   "Geureuchida",
+   "Làm hỏng (việc)",
+   "서두르다가 일을 그르쳤어요.",
+   "Vội vàng nên đã làm hỏng việc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)면서도 — Mặc dù … nhưng",
+   "meaning": "Hai trạng thái / hành động TRÁI NGƯỢC nhau cùng tồn tại ở MỘT CHỦ NGỮ: 'tuy… nhưng (đồng thời) vẫn…, vừa… lại vừa…'. Cấu tạo: (으)면서 (vừa… vừa) + 도 (nhấn mạnh sự tương phản). Chia: có patchim → 으면서도 (작으면서도, 먹으면서도); không patchim/ㄹ → 면서도 (싸면서도, 알면서도); Danh từ → (이)면서도 (학생이면서도); Quá khứ: 았/었으면서도 (알았으면서도). Mẫu rất hay gặp: '알면서도 모르는 척하다' (biết mà vẫn giả vờ không biết), '싸면서도 질이 좋다' (rẻ mà chất lượng tốt). So sánh: 지만 (nhưng – trung tính, chủ ngữ có thể khác); 는데도 (dù… mà vẫn – kết quả trái mong đợi); (으)면서도 nhấn mạnh hai đặc điểm trái nhau CÙNG LÚC ở một người/vật.",
+   "examples": [
+    "한국 사람은 빨리빨리를 좋아하면서도 끈기가 있어요. — Người Hàn thích 'nhanh nhanh' nhưng đồng thời lại rất kiên trì.",
+    "그는 정에 약하면서도 일에는 단호해요. — Anh ấy yếu lòng nhưng với công việc lại dứt khoát.",
+    "이 식당은 음식이 싸면서도 맛있어요. — Quán này đồ ăn rẻ mà vẫn ngon.",
+    "답을 알면서도 모르는 척했어요. — Biết đáp án mà vẫn giả vờ không biết."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Tình cảm dần nảy sinh vì ở cùng lâu ngày gọi là gì?",
+   "kr": "",
+   "options": [
+    "정이 들다",
+    "정이 떨어지다",
+    "정이 없다"
+   ],
+   "answer": "정이 들다",
+   "explain": "정이 들다 = quen hơi, có tình cảm."
+  },
+  {
+   "type": "choice",
+   "q": "Văn hóa 'mọi thứ phải nhanh' của Hàn Quốc gọi là gì?",
+   "kr": "",
+   "options": [
+    "빨리빨리",
+    "은근",
+    "끈기"
+   ],
+   "answer": "빨리빨리",
+   "explain": "빨리 = nhanh."
+  },
+  {
+   "type": "choice",
+   "q": "Tư tưởng kính trọng người già gọi là gì?",
+   "kr": "",
+   "options": [
+    "경로",
+    "경어법",
+    "간섭"
+   ],
+   "answer": "경로",
+   "explain": "경(kính) + 로(lão)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi ghét sự can thiệp quá mức của bố mẹ.",
+   "kr": "부모님의 지나친 ___이 싫어요.",
+   "options": [
+    "간섭",
+    "효",
+    "흥"
+   ],
+   "answer": "간섭",
+   "explain": "간섭 = can thiệp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Quán này đồ ăn rẻ mà vẫn ngon.'",
+   "kr": "",
+   "options": [
+    "이 식당은 음식이 싸면서도 맛있어요.",
+    "이 식당은 음식이 싸으면서도 맛있어요.",
+    "이 식당은 음식이 싼면서도 맛있어요."
+   ],
+   "answer": "이 식당은 음식이 싸면서도 맛있어요.",
+   "explain": "Không patchim → 면서도."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Biết mà vẫn giả vờ không biết.'",
+   "kr": "",
+   "options": [
+    "알면서도 모르는 척했어요.",
+    "알으면서도 모르는 척했어요.",
+    "아면서도 모르는 척했어요."
+   ],
+   "answer": "알면서도 모르는 척했어요.",
+   "explain": "Thân ㄹ → 면서도 (알면서도)."
+  },
+  {
+   "type": "choice",
+   "q": "(으)면서도 dùng khi nào?",
+   "kr": "",
+   "options": [
+    "Hai đặc điểm trái ngược cùng ở một chủ ngữ",
+    "Hai hành động nối tiếp",
+    "Giả định tương lai"
+   ],
+   "answer": "Hai đặc điểm trái ngược cùng ở một chủ ngữ",
+   "explain": "Cùng chủ ngữ, tương phản."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vội vàng nên đã làm hỏng việc.",
+   "kr": "서두르다가 일을 ___.",
+   "options": [
+    "그르쳤어요",
+    "정들었어요",
+    "간섭했어요"
+   ],
+   "answer": "그르쳤어요",
+   "explain": "일을 그르치다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)면서도 với 작다: Điện thoại này nhỏ mà pin vẫn dùng lâu.",
+   "kr": "이 휴대폰은 ___ 배터리가 오래가요.",
+   "answer": [
+    "작으면서도"
+   ],
+   "explain": "Có patchim → 으면서도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)면서도 với 바쁘다: Anh ấy bận mà vẫn luôn giúp đỡ tôi.",
+   "kr": "그는 ___ 항상 저를 도와줘요.",
+   "answer": [
+    "바쁘면서도"
+   ],
+   "explain": "바쁘면서도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Anh ấy kiên trì nên không bỏ cuộc.",
+   "kr": "그는 ___가 있어서 끝까지 포기하지 않아요.",
+   "answer": [
+    "끈기"
+   ],
+   "explain": "끈기가 있다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phải có công nghệ thì mới có năng lực cạnh tranh.",
+   "kr": "기술이 있어야 ___이 생겨요.",
+   "answer": [
+    "경쟁력"
+   ],
+   "explain": "경쟁력."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Anh ấy yếu lòng nhưng với công việc lại dứt khoát.",
+   "tokens": [
+    "그는",
+    "정에",
+    "약하면서도",
+    "일에는",
+    "단호해요"
+   ],
+   "answer": "그는 정에 약하면서도 일에는 단호해요",
+   "explain": "(으)면서도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ở cùng một học kỳ nên đã có tình cảm với bạn bè.",
+   "tokens": [
+    "한",
+    "학기",
+    "동안",
+    "같이",
+    "지내니까",
+    "친구들과",
+    "정이",
+    "들었어요"
+   ],
+   "answer": "한 학기 동안 같이 지내니까 친구들과 정이 들었어요",
+   "explain": "정이 들다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy là sinh viên mà vẫn làm ông chủ công ty. (dùng (이)면서도)",
+   "answer": [
+    "그는 학생이면서도 회사 사장이에요.",
+    "그는 대학생이면서도 회사 사장이에요.",
+    "그 사람은 학생이면서도 회사 사장이에요."
+   ],
+   "explain": "N이면서도."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thấy anh ta nói dối, tôi mất hết cảm tình.",
+   "answer": [
+    "거짓말하는 걸 보고 정이 떨어졌어요.",
+    "그가 거짓말하는 것을 보고 정이 떨어졌어요.",
+    "거짓말하는 것을 보고 정이 떨어졌어요."
+   ],
+   "explain": "정이 떨어지다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Phép kính ngữ tiếng Hàn khó với người nước ngoài.",
+   "answer": [
+    "한국어 경어법은 외국인에게 어려워요.",
+    "한국어의 경어법은 외국인에게 어려워요."
+   ],
+   "explain": "경어법."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국 사람들은 빨리빨리를 좋아하면서도 오래 기다려야 하는 김치나 된장을 만드는 끈기도 가지고 있다. 또 정이 많아서 한번 정이 들면 쉽게 잊지 못한다.",
+   "answer": "Người Hàn thích 'nhanh nhanh' nhưng đồng thời cũng có sự kiên nhẫn để làm kimchi hay tương doenjang phải chờ lâu. Họ cũng giàu tình cảm nên một khi đã có tình cảm thì khó quên.",
+   "explain": "면서도; 정이 들다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "남자: 한국은 고맥락 문화라고 합니다. 예를 들어 친구가 '언제 밥 한번 먹자'라고 해도 그것이 꼭 약속을 의미하는 것은 아닙니다. 그래서 외국인들은 이 말을 듣고 진짜 약속인 줄 알았다가 의아해하는 경우가 많습니다. 말뿐만 아니라 상황과 맥락을 잘 보는 것이 중요합니다.",
+   "options": [
+    "'언제 밥 한번 먹자'는 꼭 약속은 아니다.",
+    "한국은 저맥락 문화이다.",
+    "외국인들은 이 말을 잘 이해한다.",
+    "말만 들으면 다 알 수 있다."
+   ],
+   "answer": "'언제 밥 한번 먹자'는 꼭 약속은 아니다.",
+   "explain": "꼭 약속을 의미하는 것은 아닙니다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그래서 한국 사람들은 '나'보다 '우리'라는 말을 자주 쓴다.\n(나) 예를 들어 자기 엄마를 '우리 엄마'라고 부른다.\n(다) 한국은 오랫동안 함께 농사를 지으며 공동체를 중요하게 여겼다.",
+   "options": [
+    "(다)-(가)-(나)",
+    "(가)-(나)-(다)",
+    "(나)-(다)-(가)",
+    "(다)-(나)-(가)"
+   ],
+   "answer": "(다)-(가)-(나)",
+   "explain": "Bối cảnh (다) → 그래서 (가) → ví dụ (나)."
+  }
+ ]
+}

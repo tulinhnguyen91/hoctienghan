@@ -1,0 +1,398 @@
+{
+ "id": "bai-219",
+ "lesson": "Bài 219",
+ "title": "Tiếng Hàn Quốc và xã hội (phần 1/5)",
+ "krTitle": "한국어와 사회 1",
+ "date": "2027-10-03",
+ "day": 319,
+ "source": "TOPIK 6 – Bài 3: Tiếng Hàn Quốc và xã hội (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "표준어",
+   "Pyojuneo",
+   "Ngôn ngữ chuẩn",
+   "뉴스에서는 표준어를 사용해요.",
+   "Trên tin tức dùng ngôn ngữ chuẩn."
+  ],
+  [
+   "비어",
+   "Bieo",
+   "Từ thô tục",
+   "어른 앞에서 비어를 쓰면 안 돼요.",
+   "Không được dùng từ thô tục trước người lớn."
+  ],
+  [
+   "약어",
+   "Yageo",
+   "Từ giản lược",
+   "'비번'은 '비밀번호'의 약어예요.",
+   "'Bibeon' là từ viết tắt của 'bimilbeonho' (mật khẩu)."
+  ],
+  [
+   "모국어",
+   "Mogugeo",
+   "Tiếng mẹ đẻ",
+   "제 모국어는 베트남어예요.",
+   "Tiếng mẹ đẻ của tôi là tiếng Việt."
+  ],
+  [
+   "외래어",
+   "Oeraeeo",
+   "Từ ngoại lai, từ vay mượn",
+   "'컴퓨터'는 외래어예요.",
+   "'Keompyuteo' là từ ngoại lai."
+  ],
+  [
+   "사투리",
+   "Saturi",
+   "Tiếng địa phương, phương ngữ 방언",
+   "부산 사투리는 억양이 강해요.",
+   "Tiếng địa phương Busan có ngữ điệu mạnh."
+  ],
+  [
+   "속어",
+   "Sogeo",
+   "Tiếng lóng",
+   "친구끼리는 속어를 쓰기도 해요.",
+   "Giữa bạn bè cũng có khi dùng tiếng lóng."
+  ],
+  [
+   "전문 용어",
+   "Jeonmun yongeo",
+   "Từ chuyên môn, từ chuyên dụng",
+   "의학 전문 용어는 너무 어려워요.",
+   "Thuật ngữ chuyên môn y học quá khó."
+  ],
+  [
+   "외국어",
+   "Oegugeo",
+   "Tiếng nước ngoài",
+   "외국어를 하나 더 배우고 싶어요.",
+   "Tôi muốn học thêm một ngoại ngữ."
+  ],
+  [
+   "한자어",
+   "Hanjaeo",
+   "Từ tiếng Hán",
+   "한국어 단어의 반 이상이 한자어예요.",
+   "Hơn một nửa từ vựng tiếng Hàn là từ Hán Hàn."
+  ],
+  [
+   "은어",
+   "Euneo",
+   "Tiếng lóng nhóm (ẩn ngữ)",
+   "군대에서 쓰는 은어가 많아요.",
+   "Có nhiều ẩn ngữ dùng trong quân đội."
+  ],
+  [
+   "유행어",
+   "Yuhaengeo",
+   "Ngôn ngữ thịnh hành",
+   "그 드라마 대사가 유행어가 되었어요.",
+   "Câu thoại phim đó đã thành câu nói thịnh hành."
+  ],
+  [
+   "신조어",
+   "Sinjoeo",
+   "Từ mới được tạo thành",
+   "인터넷에서 새로운 신조어가 계속 생겨요.",
+   "Trên mạng liên tục xuất hiện từ mới."
+  ],
+  [
+   "고유어",
+   "Goyueo",
+   "Từ gốc, từ bản địa",
+   "'하늘', '바다'는 고유어예요.",
+   "'Haneul', 'bada' là từ thuần Hàn."
+  ],
+  [
+   "자음",
+   "Jaeum",
+   "Phụ âm",
+   "한글에는 자음이 14개 있어요.",
+   "Hangeul có 14 phụ âm cơ bản."
+  ],
+  [
+   "격음",
+   "Gyeogeum",
+   "Âm bật hơi",
+   "'ㅋ, ㅌ, ㅍ, ㅊ'은 격음이에요.",
+   "'ㅋ, ㅌ, ㅍ, ㅊ' là âm bật hơi."
+  ],
+  [
+   "연음",
+   "Yeoneum",
+   "Nối âm",
+   "'한국어'는 연음 때문에 [한구거]로 발음해요.",
+   "'Hangugeo' đọc là [han-gu-geo] do nối âm."
+  ],
+  [
+   "모음",
+   "Moeum",
+   "Nguyên âm",
+   "한글의 기본 모음은 10개예요.",
+   "Hangeul có 10 nguyên âm cơ bản."
+  ],
+  [
+   "경음",
+   "Gyeongeum",
+   "Âm căng",
+   "'ㄲ, ㄸ, ㅃ'은 경음이에요.",
+   "'ㄲ, ㄸ, ㅃ' là âm căng."
+  ],
+  [
+   "단모음",
+   "Danmoeum",
+   "Nguyên âm đơn",
+   "'ㅏ, ㅓ, ㅗ'는 단모음이에요.",
+   "'ㅏ, ㅓ, ㅗ' là nguyên âm đơn."
+  ],
+  [
+   "평음",
+   "Pyeongeum",
+   "Âm thường (ㄱ, ㄷ, ㅂ…)",
+   "'ㄱ, ㄷ, ㅂ'은 평음이에요.",
+   "'ㄱ, ㄷ, ㅂ' là âm thường."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 고말고(요) — Chắc chắn rồi",
+   "meaning": "Trả lời KHẲNG ĐỊNH MẠNH, đồng ý hoàn toàn với câu hỏi/ý kiến của người khác: 'tất nhiên rồi, chắc chắn rồi, … chứ sao!'. Gắn thẳng vào thân động từ/tính từ: 알다 → 알고말고요, 좋다 → 좋고말고요, 가다 → 가고말고요; Danh từ → (이)고말고요 (학생이고말고요); Quá khứ → 았/었고말고요 (봤고말고요). Thường dùng NGAY SAU câu hỏi của đối phương, có thể đi với 그럼요, 물론이죠: '그럼요, 가고말고요!'. Thân mật: 고말고. Văn nói, thể hiện thái độ nhiệt tình, chắc chắn. Gần nghĩa: 물론이에요, 당연하죠, 그럼요. Lưu ý: không dùng để trả lời phủ định; không dùng khi nói về bản thân một cách tự nhiên mà không có câu hỏi trước.",
+   "examples": [
+    "가: 한국어를 배우는 게 재미있어요? 나: 그럼요, 재미있고말고요. — A: Học tiếng Hàn có vui không? B: Tất nhiên rồi, vui chứ sao!",
+    "가: 이 사투리 알아들을 수 있어요? 나: 알아듣고말고요. 제 고향 말인데요. — A: Bạn nghe hiểu tiếng địa phương này không? B: Hiểu chứ sao, tiếng quê tôi mà.",
+    "가: 내일 와 줄 수 있어요? 나: 가고말고요. — A: Mai bạn đến được không? B: Đến chứ, chắc chắn rồi.",
+    "가: '하늘'이 고유어예요? 나: 고유어이고말고요. — A: 'Haneul' là từ thuần Hàn à? B: Đúng là từ thuần Hàn rồi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Từ có nguồn gốc chữ Hán gọi là gì?",
+   "kr": "",
+   "options": [
+    "한자어",
+    "고유어",
+    "외래어"
+   ],
+   "answer": "한자어",
+   "explain": "한자 = chữ Hán."
+  },
+  {
+   "type": "choice",
+   "q": "Từ mượn từ tiếng nước ngoài nhưng đã dùng như tiếng Hàn (컴퓨터, 버스) gọi là gì?",
+   "kr": "",
+   "options": [
+    "외래어",
+    "외국어",
+    "신조어"
+   ],
+   "answer": "외래어",
+   "explain": "외래 = từ ngoài vào."
+  },
+  {
+   "type": "choice",
+   "q": "Nhóm âm 'ㅋ, ㅌ, ㅍ, ㅊ' gọi là gì?",
+   "kr": "",
+   "options": [
+    "격음",
+    "경음",
+    "평음"
+   ],
+   "answer": "격음",
+   "explain": "격음 = bật hơi."
+  },
+  {
+   "type": "choice",
+   "q": "Nhóm âm 'ㄲ, ㄸ, ㅃ, ㅆ, ㅉ' gọi là gì?",
+   "kr": "",
+   "options": [
+    "경음",
+    "격음",
+    "단모음"
+   ],
+   "answer": "경음",
+   "explain": "경음 = âm căng."
+  },
+  {
+   "type": "choice",
+   "q": "Trả lời phù hợp: '이 노래 좋아해요?' → (Rất thích, chắc chắn rồi)",
+   "kr": "",
+   "options": [
+    "그럼요, 좋아하고말고요.",
+    "아니요, 좋아하고말고요.",
+    "좋아하고 말았어요."
+   ],
+   "answer": "그럼요, 좋아하고말고요.",
+   "explain": "고말고요 = khẳng định mạnh."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 알다: 'Biết chứ!'",
+   "kr": "",
+   "options": [
+    "알고말고요",
+    "아고말고요",
+    "알으고말고요"
+   ],
+   "answer": "알고말고요",
+   "explain": "Gắn thẳng vào thân: 알고말고요."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào KHÔNG phải nghĩa của 고말고요?",
+   "kr": "",
+   "options": [
+    "Cuối cùng thì… mất rồi",
+    "Tất nhiên rồi",
+    "Chắc chắn rồi"
+   ],
+   "answer": "Cuối cùng thì… mất rồi",
+   "explain": "Đó là 고 말다 (Bài 170) — khác hẳn!"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tiếng địa phương Busan có ngữ điệu mạnh.",
+   "kr": "부산 ___는 억양이 강해요.",
+   "options": [
+    "사투리",
+    "표준어",
+    "은어"
+   ],
+   "answer": "사투리",
+   "explain": "사투리 = phương ngữ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고말고요 với 가다: Mai đến được không? — Đến chứ!",
+   "kr": "가: 내일 올 수 있어요? 나: ___.",
+   "answer": [
+    "가고말고요",
+    "오고말고요"
+   ],
+   "explain": "가다 → 가고말고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고말고요 với 재미있다: Học tiếng Hàn vui không? — Vui chứ!",
+   "kr": "가: 한국어 공부가 재미있어요? 나: 그럼요, ___.",
+   "answer": [
+    "재미있고말고요"
+   ],
+   "explain": "재미있고말고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tiếng mẹ đẻ của tôi là tiếng Việt.",
+   "kr": "제 ___는 베트남어예요.",
+   "answer": [
+    "모국어"
+   ],
+   "explain": "모국어."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trên tin tức dùng ngôn ngữ chuẩn.",
+   "kr": "뉴스에서는 ___를 사용해요.",
+   "answer": [
+    "표준어"
+   ],
+   "explain": "표준어."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hiểu chứ sao, tiếng quê tôi mà.",
+   "tokens": [
+    "알아듣고말고요.",
+    "제",
+    "고향",
+    "말인데요."
+   ],
+   "answer": "알아듣고말고요. 제 고향 말인데요.",
+   "explain": "고말고요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Trên mạng liên tục xuất hiện từ mới.",
+   "tokens": [
+    "인터넷에서",
+    "새로운",
+    "신조어가",
+    "계속",
+    "생겨요"
+   ],
+   "answer": "인터넷에서 새로운 신조어가 계속 생겨요",
+   "explain": "생기다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: (Trả lời) Tất nhiên rồi, tôi giúp chứ! (dùng 고말고요)",
+   "answer": [
+    "그럼요, 도와주고말고요.",
+    "물론이죠, 도와주고말고요.",
+    "그럼요, 돕고말고요.",
+    "도와드리고말고요."
+   ],
+   "explain": "도와주고말고요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hơn một nửa từ vựng tiếng Hàn là từ Hán Hàn.",
+   "answer": [
+    "한국어 단어의 반 이상이 한자어예요.",
+    "한국어 어휘의 절반 이상이 한자어예요.",
+    "한국어 단어의 절반 이상이 한자어예요."
+   ],
+   "explain": "한자어."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không được dùng từ thô tục trước người lớn.",
+   "answer": [
+    "어른 앞에서 비어를 쓰면 안 돼요.",
+    "어른 앞에서는 비어를 쓰면 안 돼요.",
+    "어른 앞에서 비속어를 쓰면 안 돼요."
+   ],
+   "explain": "면 안 되다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국어 어휘는 고유어, 한자어, 외래어로 나눌 수 있다. 최근에는 인터넷을 중심으로 신조어와 유행어가 빠르게 늘고 있어 세대 간 소통이 어려워진다는 지적도 있다.",
+   "answer": "Từ vựng tiếng Hàn có thể chia thành từ thuần Hàn, từ Hán Hàn và từ ngoại lai. Gần đây từ mới và câu nói thịnh hành tăng nhanh, chủ yếu trên mạng, nên cũng có ý kiến chỉ ra rằng giao tiếp giữa các thế hệ trở nên khó khăn.",
+   "explain": "을 중심으로; 다는 지적."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "남자: 수미 씨, 경상도 사투리 알아들을 수 있어요?\n여자: 알아듣고말고요. 저희 할머니가 대구 분이시거든요. 어릴 때부터 방학마다 할머니 댁에 가서 사투리를 많이 들었어요.\n남자: 부럽네요. 저는 드라마에서 사투리가 나오면 하나도 못 알아들어요.",
+   "options": [
+    "여자는 경상도 사투리를 잘 알아듣는다.",
+    "여자의 할머니는 서울 분이다.",
+    "남자는 사투리를 잘 알아듣는다.",
+    "여자는 사투리를 처음 들어 본다."
+   ],
+   "answer": "여자는 경상도 사투리를 잘 알아듣는다.",
+   "explain": "알아듣고말고요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "표준어는 교양 있는 사람들이 두루 쓰는 현대 서울말을 기준으로 정한다. 방송과 교과서에서는 주로 표준어를 사용한다. 그러나 사투리에도 그 지역의 문화와 정서가 담겨 있기 때문에 사투리를 낮게 보아서는 안 된다는 의견이 많다.",
+   "options": [
+    "사투리에는 지역의 문화가 담겨 있다.",
+    "표준어는 부산말을 기준으로 한다.",
+    "교과서에서는 주로 사투리를 쓴다.",
+    "사투리는 쓰면 안 된다."
+   ],
+   "answer": "사투리에는 지역의 문화가 담겨 있다.",
+   "explain": "사투리에도 지역의 문화와 정서가 담겨 있다."
+  }
+ ]
+}

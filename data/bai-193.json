@@ -1,0 +1,423 @@
+{
+ "id": "bai-193",
+ "lesson": "Bài 193",
+ "title": "Du lịch và hướng dẫn (phần 4/4)",
+ "krTitle": "여행과 안내 4",
+ "date": "2027-08-25",
+ "day": 280,
+ "source": "TOPIK 5 – Bài 11: Du lịch và hướng dẫn (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "목탁",
+   "Moktak",
+   "Cái mõ (để tụng kinh)",
+   "스님이 목탁을 두드리며 염불을 했어요.",
+   "Nhà sư vừa gõ mõ vừa niệm Phật."
+  ],
+  [
+   "온전히",
+   "Onjeonhi",
+   "Một cách nguyên vẹn",
+   "이 절은 천 년 전 모습을 온전히 지키고 있어요.",
+   "Ngôi chùa này giữ nguyên vẹn dáng vẻ từ nghìn năm trước."
+  ],
+  [
+   "탐방로",
+   "Tambangno",
+   "Đường tham quan",
+   "국립공원 탐방로를 따라 걸었어요.",
+   "Tôi đi bộ theo đường tham quan của vườn quốc gia."
+  ],
+  [
+   "북단",
+   "Bukdan",
+   "Cực bắc, đầu phía bắc",
+   "강원도 고성은 한국의 최북단에 있어요.",
+   "Goseong, Gangwon nằm ở cực bắc Hàn Quốc."
+  ],
+  [
+   "우위",
+   "Uwi",
+   "Ưu thế, vị trí vượt trội",
+   "한국은 반도체 산업에서 우위를 차지하고 있어요.",
+   "Hàn Quốc đang chiếm ưu thế trong ngành bán dẫn."
+  ],
+  [
+   "트레킹",
+   "Teureking",
+   "Việc du lịch theo kiểu tản bộ quanh rừng, núi hay ruộng đồng",
+   "제주 올레길 트레킹을 했어요.",
+   "Tôi đi trekking trên đường Olle Jeju."
+  ],
+  [
+   "뼈",
+   "Ppyeo",
+   "Xương",
+   "산에서 넘어져서 뼈를 다쳤어요.",
+   "Ngã trên núi nên bị thương ở xương."
+  ],
+  [
+   "운행",
+   "Unhaeng",
+   "Sự vận hành, lái xe",
+   "관광버스는 밤 10시까지 운행해요.",
+   "Xe buýt du lịch hoạt động đến 10 giờ tối."
+  ],
+  [
+   "풋풋하다",
+   "Putputada",
+   "Tươi tắn, tươi rói",
+   "봄이 되니 산의 풋풋한 냄새가 좋아요.",
+   "Xuân đến, mùi tươi mát của núi thật dễ chịu."
+  ],
+  [
+   "빽빽하다",
+   "Ppaekppaekada",
+   "Khít, san sát",
+   "산에 나무가 빽빽하게 서 있어요.",
+   "Cây cối mọc san sát trên núi."
+  ],
+  [
+   "인프라",
+   "Inpeura",
+   "Cơ sở hạ tầng",
+   "이 지역은 관광 인프라가 부족해요.",
+   "Khu vực này thiếu cơ sở hạ tầng du lịch."
+  ],
+  [
+   "한우",
+   "Hanu",
+   "Bò Hàn Quốc, thịt bò Hàn Quốc",
+   "횡성에 가면 한우를 꼭 드셔 보세요.",
+   "Đến Hoengseong nhất định hãy ăn thử bò Hanwoo."
+  ],
+  [
+   "산사",
+   "Sansa",
+   "Sơn tự, chùa trên núi",
+   "조용한 산사에서 하룻밤을 보냈어요.",
+   "Tôi đã qua một đêm ở ngôi chùa núi yên tĩnh."
+  ],
+  [
+   "재충전하다",
+   "Jaechungjeonhada",
+   "Tái nạp năng lượng, bổ sung năng lượng",
+   "여행으로 몸과 마음을 재충전했어요.",
+   "Tôi đã nạp lại năng lượng cho thân và tâm nhờ chuyến đi."
+  ],
+  [
+   "호흡법",
+   "Hoheupbeop",
+   "Cách hô hấp",
+   "명상할 때는 호흡법이 중요해요.",
+   "Khi thiền, cách thở rất quan trọng."
+  ],
+  [
+   "성행하다",
+   "Seonghaenghada",
+   "Phổ biến, xảy ra nhiều",
+   "요즘 캠핑 여행이 성행하고 있어요.",
+   "Dạo này du lịch cắm trại đang rất thịnh hành."
+  ],
+  [
+   "정화시키다",
+   "Jeonghwasikida",
+   "Làm sạch, làm tinh khiết",
+   "숲속을 걸으면 마음이 정화되는 것 같아요.",
+   "Đi bộ trong rừng thấy như tâm hồn được thanh lọc."
+  ],
+  [
+   "혼합",
+   "Honhap",
+   "Hỗn hợp",
+   "두 가지 색을 혼합하면 새로운 색이 나와요.",
+   "Pha trộn hai màu sẽ ra màu mới."
+  ],
+  [
+   "소속되다",
+   "Sosokdoeda",
+   "Trực thuộc",
+   "그는 대형 여행사에 소속된 가이드예요.",
+   "Anh ấy là hướng dẫn viên trực thuộc công ty du lịch lớn."
+  ],
+  [
+   "제조 과정",
+   "Jejo gwajeong",
+   "Quá trình chế tạo",
+   "공장 견학에서 김치 제조 과정을 봤어요.",
+   "Trong chuyến tham quan nhà máy tôi đã xem quy trình làm kimchi."
+  ],
+  [
+   "효용가치",
+   "Hyoyonggachi",
+   "Giá trị hiệu quả",
+   "한옥은 관광 상품으로서 효용가치가 높아요.",
+   "Hanok có giá trị sử dụng cao với tư cách là sản phẩm du lịch."
+  ],
+  [
+   "수련복",
+   "Suryeonbok",
+   "Quần áo, trang phục trong tập luyện",
+   "템플스테이에서는 수련복을 입어요.",
+   "Ở temple stay mặc trang phục tu tập."
+  ],
+  [
+   "종사자",
+   "Jongsaja",
+   "Người làm nghề, người trong ngành",
+   "관광업 종사자들이 연휴에 가장 바빠요.",
+   "Người làm trong ngành du lịch bận nhất vào kỳ nghỉ."
+  ],
+  [
+   "시차 적응",
+   "Sicha jeogeung",
+   "Sự thích ứng với chênh lệch múi giờ",
+   "유럽에 다녀와서 시차 적응이 힘들었어요.",
+   "Đi châu Âu về tôi khó thích ứng chênh lệch múi giờ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는 셈이다 — Coi như là",
+   "meaning": "Đưa ra KẾT LUẬN sau khi tính toán, cân nhắc: 'coi như là…, tính ra là…, xem như là…' — thực tế không hoàn toàn đúng như vậy nhưng KẾT QUẢ gần như vậy. Chia: Động từ hiện tại → 는 셈이다 (사는 셈이다); quá khứ → (으)ㄴ 셈이다 (끝난 셈이다, 다 본 셈이다); Tính từ → (으)ㄴ 셈이다 (싼 셈이다); Danh từ → 인 셈이다 (공짜인 셈이다). Mẫu hay gặp: '거의 다 끝난 셈이에요' (coi như gần xong hết), '그런 셈이에요' (cũng coi như vậy). V(으)ㄴ 셈 치다 = 'cứ coi như là…' (tự an ủi/giả định): 잃어버린 셈 치세요 (cứ coi như đã mất đi). Hay đi với: 결국, 사실상, 거의, 이 정도면.",
+   "examples": [
+    "1박 2일에 5만 원이면 숙박비가 거의 공짜인 셈이에요. — 2 ngày 1 đêm mà 50 nghìn won thì coi như tiền ở gần như miễn phí.",
+    "일주일에 다섯 번 운동하니까 매일 운동하는 셈이에요. — Một tuần tập năm lần nên coi như ngày nào cũng tập.",
+    "정상까지 이제 10분만 가면 되니까 거의 다 온 셈이에요. — Chỉ còn 10 phút nữa là tới đỉnh nên coi như sắp tới nơi rồi.",
+    "시험이 끝났으니까 방학이 시작된 셈이에요. — Thi xong rồi nên coi như kỳ nghỉ đã bắt đầu."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Dụng cụ gỗ nhà sư gõ khi tụng kinh gọi là gì?",
+   "kr": "",
+   "options": [
+    "목탁",
+    "염주",
+    "연등"
+   ],
+   "answer": "목탁",
+   "explain": "목탁 = cái mõ."
+  },
+  {
+   "type": "choice",
+   "q": "Chùa nằm trên núi gọi là gì?",
+   "kr": "",
+   "options": [
+    "산사",
+    "탐방로",
+    "북단"
+   ],
+   "answer": "산사",
+   "explain": "산(núi) + 사(chùa)."
+  },
+  {
+   "type": "choice",
+   "q": "Khó khăn khi bay xa vì khác giờ, cần thời gian để quen gọi là gì?",
+   "kr": "",
+   "options": [
+    "시차 적응",
+    "재충전",
+    "호흡법"
+   ],
+   "answer": "시차 적응",
+   "explain": "시차 = chênh lệch giờ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Dạo này du lịch cắm trại đang rất thịnh hành.",
+   "kr": "요즘 캠핑 여행이 ___고 있어요.",
+   "options": [
+    "성행하",
+    "정화시키",
+    "운행하"
+   ],
+   "answer": "성행하",
+   "explain": "성행하다 = thịnh hành."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Một tuần tập năm lần nên coi như ngày nào cũng tập.'",
+   "kr": "",
+   "options": [
+    "일주일에 다섯 번 운동하니까 매일 운동하는 셈이에요.",
+    "일주일에 다섯 번 운동하니까 매일 운동할 셈이에요.",
+    "일주일에 다섯 번 운동하니까 매일 운동한 셈해요."
+   ],
+   "answer": "일주일에 다섯 번 운동하니까 매일 운동하는 셈이에요.",
+   "explain": "Hiện tại: 는 셈이에요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với danh từ 공짜.",
+   "kr": "",
+   "options": [
+    "공짜인 셈이에요",
+    "공짜는 셈이에요",
+    "공짜한 셈이에요"
+   ],
+   "answer": "공짜인 셈이에요",
+   "explain": "N + 인 셈이다."
+  },
+  {
+   "type": "choice",
+   "q": "'잃어버린 셈 치세요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Cứ coi như đã mất đi.",
+    "Hãy tìm lại thứ đã mất.",
+    "Tính xem đã mất bao nhiêu."
+   ],
+   "answer": "Cứ coi như đã mất đi.",
+   "explain": "(으)ㄴ 셈 치다 = cứ coi như."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cây cối mọc san sát trên núi.",
+   "kr": "산에 나무가 ___ 서 있어요.",
+   "options": [
+    "빽빽하게",
+    "풋풋하게",
+    "온전히"
+   ],
+   "answer": "빽빽하게",
+   "explain": "빽빽하다 = dày đặc."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 셈이다 với 오다: Còn 10 phút nữa tới đỉnh nên coi như sắp tới rồi.",
+   "kr": "정상까지 10분만 가면 되니까 거의 다 ___.",
+   "answer": [
+    "온 셈이에요",
+    "온 셈이다"
+   ],
+   "explain": "Quá khứ: 온 셈이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 셈이다 với 싸다: Tính ra thì giá này coi như rẻ.",
+   "kr": "세 개에 만 원이면 ___.",
+   "answer": [
+    "싼 셈이에요",
+    "싼 셈이다"
+   ],
+   "explain": "Tính từ → (으)ㄴ 셈이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đã nạp lại năng lượng nhờ chuyến đi.",
+   "kr": "여행으로 몸과 마음을 ___했어요.",
+   "answer": [
+    "재충전"
+   ],
+   "explain": "재충전하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Xe buýt du lịch hoạt động đến 10 giờ tối.",
+   "kr": "관광버스는 밤 10시까지 ___해요.",
+   "answer": [
+    "운행"
+   ],
+   "explain": "운행하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thi xong rồi nên coi như kỳ nghỉ đã bắt đầu.",
+   "tokens": [
+    "시험이",
+    "끝났으니까",
+    "방학이",
+    "시작된",
+    "셈이에요"
+   ],
+   "answer": "시험이 끝났으니까 방학이 시작된 셈이에요",
+   "explain": "(으)ㄴ 셈이에요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngôi chùa giữ nguyên vẹn dáng vẻ nghìn năm trước.",
+   "tokens": [
+    "이",
+    "절은",
+    "천",
+    "년",
+    "전",
+    "모습을",
+    "온전히",
+    "지키고",
+    "있어요"
+   ],
+   "answer": "이 절은 천 년 전 모습을 온전히 지키고 있어요",
+   "explain": "온전히."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Làm xong 9 trong 10 bài nên coi như làm xong hết. (dùng 셈이다)",
+   "answer": [
+    "열 개 중에 아홉 개를 했으니까 다 한 셈이에요.",
+    "10개 중에 9개를 했으니까 다 한 셈이에요.",
+    "열 문제 중에 아홉 문제를 풀었으니까 다 한 셈이에요."
+   ],
+   "explain": "다 한 셈이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đi châu Âu về tôi khó thích ứng chênh lệch múi giờ.",
+   "answer": [
+    "유럽에 다녀와서 시차 적응이 힘들었어요.",
+    "유럽에 갔다 와서 시차 적응이 힘들었어요.",
+    "유럽에 다녀와서 시차 적응이 어려웠어요."
+   ],
+   "explain": "시차 적응."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Khi thiền, cách thở rất quan trọng.",
+   "answer": [
+    "명상할 때는 호흡법이 중요해요.",
+    "명상할 때 호흡법이 중요해요."
+   ],
+   "explain": "호흡법."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "템플스테이 참가비는 1박 2일에 5만 원인데 숙박과 식사가 모두 포함되어 있으니 아주 싼 셈이다. 무엇보다 조용한 산사에서 몸과 마음을 재충전할 수 있다는 것이 큰 장점이다.",
+   "answer": "Phí tham gia temple stay là 50 nghìn won cho 2 ngày 1 đêm, đã bao gồm cả chỗ ngủ và bữa ăn nên coi như rất rẻ. Hơn hết, ưu điểm lớn là có thể nạp lại năng lượng cho thân và tâm ở ngôi chùa núi yên tĩnh.",
+   "explain": "싼 셈이다; 재충전."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 정상까지 얼마나 남았어요? 다리가 너무 아파요.\n여자: 이 표지판을 보니까 500미터만 더 가면 돼요. 거의 다 온 셈이에요.\n남자: 그럼 조금만 쉬었다가 가요.\n여자: 좋아요. 저기 벤치에 앉아서 물 좀 마셔요.",
+   "options": [
+    "벤치에 앉아서 쉰다.",
+    "혼자 정상에 올라간다.",
+    "산에서 내려간다.",
+    "표지판을 사진으로 찍는다."
+   ],
+   "answer": "벤치에 앉아서 쉰다.",
+   "explain": "벤치에 앉아서 물 좀 마셔요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그래서 최근 숲길을 걷는 트레킹이 성행하고 있다.\n(나) 도시 생활에 지친 사람들은 자연 속에서 쉬기를 원한다.\n(다) 이에 따라 각 지역에서는 새로운 탐방로를 만들고 있다.",
+   "options": [
+    "(나)-(가)-(다)",
+    "(가)-(나)-(다)",
+    "(다)-(나)-(가)",
+    "(나)-(다)-(가)"
+   ],
+   "answer": "(나)-(가)-(다)",
+   "explain": "Nguyên nhân (나) → 그래서 (가) → 이에 따라 (다)."
+  }
+ ]
+}

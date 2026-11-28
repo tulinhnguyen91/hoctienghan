@@ -1,0 +1,397 @@
+{
+ "id": "bai-258",
+ "lesson": "Bài 258",
+ "title": "Y học hiện đại (phần 4/4)",
+ "krTitle": "현대 의학 4",
+ "date": "2027-12-01",
+ "day": 378,
+ "source": "TOPIK 6 – Bài 11: Y học hiện đại (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "불임",
+   "Burim",
+   "Không thể sinh nở",
+   "불임 부부를 위한 치료법이 발전했어요.",
+   "Phương pháp điều trị cho các cặp vô sinh đã phát triển."
+  ],
+  [
+   "숙지하다",
+   "Sukjihada",
+   "Biết rõ, tỏ tường",
+   "약을 먹기 전에 주의 사항을 숙지하세요.",
+   "Trước khi uống thuốc hãy nắm rõ lưu ý."
+  ],
+  [
+   "슈퍼박테리아",
+   "Syupeobakteria",
+   "Siêu vi khuẩn",
+   "슈퍼박테리아는 항생제가 잘 듣지 않아요.",
+   "Siêu vi khuẩn khó bị kháng sinh tiêu diệt."
+  ],
+  [
+   "식물인간",
+   "Singmuringan",
+   "Người sống thực vật",
+   "사고 후에 그는 식물인간이 되었어요.",
+   "Sau tai nạn anh ấy trở thành người sống thực vật."
+  ],
+  [
+   "신성장 동력",
+   "Sinseongjang dongnyeok",
+   "Động lực tăng trưởng mới",
+   "바이오 산업은 한국의 신성장 동력이에요.",
+   "Ngành sinh học là động lực tăng trưởng mới của Hàn Quốc."
+  ],
+  [
+   "유치하다",
+   "Yuchihada",
+   "Ấu trĩ, trẻ con",
+   "그런 유치한 장난은 그만하세요.",
+   "Thôi đừng đùa trẻ con như vậy nữa."
+  ],
+  [
+   "이변",
+   "Ibyeon",
+   "Biến cố bất ngờ",
+   "약팀이 강팀을 이기는 이변이 일어났어요.",
+   "Đã xảy ra bất ngờ khi đội yếu thắng đội mạnh."
+  ],
+  [
+   "입을 모으다",
+   "Ibeul moeuda",
+   "Thống nhất ý kiến, đồng tình",
+   "전문가들은 운동이 건강에 좋다고 입을 모아요.",
+   "Các chuyên gia đồng thanh nói vận động tốt cho sức khỏe."
+  ],
+  [
+   "자궁",
+   "Jagung",
+   "Tử cung",
+   "자궁 건강을 위해 정기 검진을 받으세요.",
+   "Hãy khám định kỳ vì sức khỏe tử cung."
+  ],
+  [
+   "장수하다",
+   "Jangsuhada",
+   "Trường thọ, sống lâu",
+   "할머니는 아흔 살까지 장수하셨어요.",
+   "Bà sống thọ đến chín mươi tuổi."
+  ],
+  [
+   "장애",
+   "Jangae",
+   "Tàn tật",
+   "그는 장애를 극복하고 선수가 되었어요.",
+   "Anh ấy đã vượt qua khuyết tật và trở thành vận động viên."
+  ],
+  [
+   "저술하다",
+   "Jeosulhada",
+   "Viết sách, chắp bút",
+   "허준은 동의보감을 저술했어요.",
+   "Heo Jun đã viết Đông y bảo giám."
+  ],
+  [
+   "저칼로리",
+   "Jeokallori",
+   "Ít calo",
+   "다이어트할 때는 저칼로리 음식을 먹어요.",
+   "Khi ăn kiêng thì ăn đồ ít calo."
+  ],
+  [
+   "집대성하다",
+   "Jipdaeseonghada",
+   "Tập đại thành",
+   "동의보감은 한의학을 집대성한 책이에요.",
+   "Đông y bảo giám là cuốn sách tập đại thành Đông y."
+  ],
+  [
+   "정자",
+   "Jeongja",
+   "Tinh trùng",
+   "정자와 난자가 만나 수정이 돼요.",
+   "Tinh trùng và trứng gặp nhau thì thụ tinh."
+  ],
+  [
+   "줄기세포",
+   "Julgisepo",
+   "Tế bào gốc",
+   "줄기세포로 난치병을 치료할 수 있을 거예요.",
+   "Có lẽ sẽ chữa được bệnh nan y bằng tế bào gốc."
+  ],
+  [
+   "체질",
+   "Chejil",
+   "Thể chất",
+   "사람마다 체질이 달라서 맞는 음식도 달라요.",
+   "Mỗi người thể chất khác nhau nên đồ ăn hợp cũng khác."
+  ],
+  [
+   "통용되다",
+   "Tongyongdoeda",
+   "Thông dụng",
+   "이 약은 전 세계에서 통용돼요.",
+   "Thuốc này được dùng phổ biến trên toàn thế giới."
+  ],
+  [
+   "합법화",
+   "Hapbeopwa",
+   "Hợp pháp hóa",
+   "일부 나라에서는 안락사를 합법화했어요.",
+   "Một số nước đã hợp pháp hóa cái chết êm dịu."
+  ],
+  [
+   "항우울제",
+   "Hanguulje",
+   "Thuốc chống trầm cảm",
+   "의사가 항우울제를 처방했어요.",
+   "Bác sĩ đã kê thuốc chống trầm cảm."
+  ],
+  [
+   "화두가 되다",
+   "Hwaduga doeda",
+   "Trở thành chủ đề nóng",
+   "고령화 사회에서 건강한 노후가 화두가 되었어요.",
+   "Trong xã hội già hóa, tuổi già khỏe mạnh đã trở thành chủ đề nóng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)나 마나 — Có cũng như không",
+   "meaning": "Diễn tả việc LÀM HAY KHÔNG LÀM thì KẾT QUẢ cũng như nhau (đã rõ), nên làm là VÔ ÍCH: 'có… cũng như không, chẳng cần… cũng biết'. Chia: có patchim → 으나 마나 (먹으나 마나); không patchim/ㄹ → 나 마나 (보나 마나, 하나 마나, 물으나 마나 – 묻다 bất quy tắc). Mẫu rất hay gặp: 보나 마나 (chẳng cần xem cũng biết): 보나 마나 또 늦을 거예요 (chẳng cần nhìn cũng biết lại muộn). 하나 마나 한 말 (nói như không, câu nói vô nghĩa). 들으나 마나 (nghe cũng như không). Vế sau thường: 똑같다, 소용없다, 뻔하다, (으)ㄹ 거예요. So sánh: 아/어 봤자 (có… cũng vô ích); (으)ㄴ들 (Bài 254 – cho dù… thì có ích gì, văn viết); (으)나 마나 nhấn mạnh 'kết quả đã rõ, làm như không làm'.",
+   "examples": [
+    "이 약은 먹으나 마나 효과가 없어요. — Thuốc này uống cũng như không, chẳng có tác dụng.",
+    "보나 마나 그 팀이 이길 거예요. — Chẳng cần xem cũng biết đội đó sẽ thắng.",
+    "그 사람한테는 말하나 마나예요. 듣지 않거든요. — Nói với người đó cũng như không. Vì anh ta có nghe đâu.",
+    "운동을 하고 많이 먹으면 운동하나 마나예요. — Tập thể dục rồi lại ăn nhiều thì tập cũng như không."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Người sống nhưng không có ý thức, chỉ duy trì sự sống gọi là gì?",
+   "kr": "",
+   "options": [
+    "식물인간",
+    "뇌사자",
+    "장수"
+   ],
+   "answer": "식물인간",
+   "explain": "식물인간 = người thực vật."
+  },
+  {
+   "type": "choice",
+   "q": "Tế bào có thể biến thành nhiều loại tế bào khác gọi là gì?",
+   "kr": "",
+   "options": [
+    "줄기세포",
+    "슈퍼박테리아",
+    "체질"
+   ],
+   "answer": "줄기세포",
+   "explain": "줄기 = thân, gốc."
+  },
+  {
+   "type": "choice",
+   "q": "'입을 모으다' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Đồng thanh, thống nhất ý kiến",
+    "Ngậm miệng",
+    "Ăn cùng nhau"
+   ],
+   "answer": "Đồng thanh, thống nhất ý kiến",
+   "explain": "Thành ngữ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đã xảy ra bất ngờ khi đội yếu thắng đội mạnh.",
+   "kr": "약팀이 강팀을 이기는 ___이 일어났어요.",
+   "options": [
+    "이변",
+    "장애",
+    "체질"
+   ],
+   "answer": "이변",
+   "explain": "이변."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Thuốc này uống cũng như không.'",
+   "kr": "",
+   "options": [
+    "이 약은 먹으나 마나 효과가 없어요.",
+    "이 약은 먹나 마나 효과가 없어요.",
+    "이 약은 먹으나 마나 효과가 좋아요."
+   ],
+   "answer": "이 약은 먹으나 마나 효과가 없어요.",
+   "explain": "먹다 (patchim) → 먹으나 마나."
+  },
+  {
+   "type": "choice",
+   "q": "'보나 마나 또 늦을 거예요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Chẳng cần xem cũng biết lại muộn.",
+    "Xem rồi mới biết có muộn không.",
+    "Đừng xem nữa."
+   ],
+   "answer": "Chẳng cần xem cũng biết lại muộn.",
+   "explain": "보나 마나 = chắc chắn."
+  },
+  {
+   "type": "choice",
+   "q": "'하나 마나 한 말' là gì?",
+   "kr": "",
+   "options": [
+    "Câu nói vô nghĩa, nói cũng như không",
+    "Câu nói quan trọng",
+    "Câu nói một lần"
+   ],
+   "answer": "Câu nói vô nghĩa, nói cũng như không",
+   "explain": "하나 마나 한."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trước khi uống thuốc hãy nắm rõ lưu ý.",
+   "kr": "약을 먹기 전에 주의 사항을 ___하세요.",
+   "options": [
+    "숙지",
+    "저술",
+    "통용"
+   ],
+   "answer": "숙지",
+   "explain": "숙지하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)나 마나 với 말하다: Nói với người đó cũng như không.",
+   "kr": "그 사람한테는 ___예요.",
+   "answer": [
+    "말하나 마나"
+   ],
+   "explain": "말하나 마나."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)나 마나 với 운동하다: Tập rồi ăn nhiều thì tập cũng như không.",
+   "kr": "운동을 하고 많이 먹으면 ___예요.",
+   "answer": [
+    "운동하나 마나"
+   ],
+   "explain": "운동하나 마나."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Khi ăn kiêng thì ăn đồ ít calo.",
+   "kr": "다이어트할 때는 ___ 음식을 먹어요.",
+   "answer": [
+    "저칼로리"
+   ],
+   "explain": "저칼로리."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Bác sĩ đã kê thuốc chống trầm cảm.",
+   "kr": "의사가 ___를 처방했어요.",
+   "answer": [
+    "항우울제"
+   ],
+   "explain": "항우울제."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chẳng cần xem cũng biết đội đó sẽ thắng.",
+   "tokens": [
+    "보나",
+    "마나",
+    "그",
+    "팀이",
+    "이길",
+    "거예요"
+   ],
+   "answer": "보나 마나 그 팀이 이길 거예요",
+   "explain": "보나 마나."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mỗi người thể chất khác nhau.",
+   "tokens": [
+    "사람마다",
+    "체질이",
+    "달라요"
+   ],
+   "answer": "사람마다 체질이 달라요",
+   "explain": "N마다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hỏi anh ấy cũng như không, chắc anh ấy không biết. (dùng (으)나 마나)",
+   "answer": [
+    "그에게 물으나 마나 모를 거예요.",
+    "그 사람한테 물으나 마나 모를 거예요.",
+    "그에게 물어보나 마나 모를 거예요.",
+    "그 사람에게 물으나 마나 몰라요."
+   ],
+   "explain": "묻다 → 물으나 마나."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bà sống thọ đến 90 tuổi.",
+   "answer": [
+    "할머니는 아흔 살까지 장수하셨어요.",
+    "할머니는 90세까지 장수하셨어요.",
+    "할머니께서는 아흔 살까지 사셨어요."
+   ],
+   "explain": "장수하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy vượt qua khuyết tật và trở thành vận động viên.",
+   "answer": [
+    "그는 장애를 극복하고 선수가 되었어요.",
+    "그는 장애를 이겨 내고 선수가 되었어요.",
+    "그 사람은 장애를 극복하고 선수가 됐어요."
+   ],
+   "explain": "극복하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "조선 시대 의관 허준이 저술한 '동의보감'은 한의학을 집대성한 책으로, 사람마다 체질이 다르다는 점에 주목했다. 이 책은 지금도 한국, 중국, 일본 등에서 통용되며 2009년 유네스코 세계기록유산에 등재되었다.",
+   "answer": "'Đông y bảo giám' do ngự y Heo Jun thời Joseon biên soạn là cuốn sách tập đại thành Đông y, chú ý đến điểm mỗi người có thể chất khác nhau. Cuốn sách này đến nay vẫn được dùng phổ biến ở Hàn, Trung, Nhật… và được ghi danh di sản tư liệu thế giới UNESCO năm 2009.",
+   "explain": "다는 점에 주목하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 민수 씨한테 담배를 끊으라고 말해 볼까요?\n남자: 말하나 마나예요. 벌써 몇 번이나 말했는데 안 들어요.\n여자: ( )",
+   "options": [
+    "그럼 의사 선생님께 상담을 받아 보라고 해 볼게요.",
+    "민수 씨는 담배를 안 피워요.",
+    "담배는 건강에 좋아요.",
+    "그럼 같이 담배를 사러 가요."
+   ],
+   "answer": "그럼 의사 선생님께 상담을 받아 보라고 해 볼게요.",
+   "explain": "Tìm cách khác hợp lý."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "슈퍼박테리아는 대부분의 항생제에 내성을 가진 세균이다. 전문가들은 필요 없이 항생제를 많이 사용한 것이 원인이라고 입을 모은다. 새로운 항생제를 개발해도 남용하면 결국 또 다른 슈퍼박테리아가 생길 수밖에 없다.",
+   "options": [
+    "항생제를 올바르게 사용하는 것이 중요하다.",
+    "슈퍼박테리아는 항생제로 쉽게 치료된다.",
+    "항생제는 많이 쓸수록 좋다.",
+    "새 항생제를 만들면 문제가 완전히 해결된다."
+   ],
+   "answer": "항생제를 올바르게 사용하는 것이 중요하다.",
+   "explain": "남용하면 또 다른 슈퍼박테리아가 생긴다."
+  }
+ ]
+}

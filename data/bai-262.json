@@ -1,0 +1,389 @@
+{
+ "id": "bai-262",
+ "lesson": "Bài 262",
+ "title": "Con người và thiên nhiên (phần 4/5)",
+ "krTitle": "인간과 자연 4",
+ "date": "2027-12-07",
+ "day": 384,
+ "source": "TOPIK 6 – Bài 12: Con người và thiên nhiên (phần 4/5)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "모시",
+   "Mosi",
+   "Vải gai",
+   "여름에는 시원한 모시 옷을 입어요.",
+   "Mùa hè mặc áo vải gai mát mẻ."
+  ],
+  [
+   "무명 (옷감)",
+   "Mumyeong (otgam)",
+   "Vải bông, vải sợi bông",
+   "옛날에는 무명으로 옷을 만들었어요.",
+   "Ngày xưa may áo bằng vải bông."
+  ],
+  [
+   "물대기",
+   "Muldaegi",
+   "Sự tưới nước",
+   "논에 물대기를 하느라 바빠요.",
+   "Bận rộn vì phải tưới nước cho ruộng."
+  ],
+  [
+   "발육",
+   "Baryuk",
+   "Sự phát triển",
+   "아이의 발육 상태가 좋아요.",
+   "Tình trạng phát triển của đứa trẻ tốt."
+  ],
+  [
+   "방한용",
+   "Banghanyong",
+   "Dùng để chống lạnh",
+   "겨울 등산에는 방한용 장갑이 필요해요.",
+   "Leo núi mùa đông cần găng tay chống lạnh."
+  ],
+  [
+   "비옥하다",
+   "Biokada",
+   "Phì nhiêu, màu mỡ",
+   "강 주변의 땅은 비옥해요.",
+   "Đất quanh sông rất màu mỡ."
+  ],
+  [
+   "산신",
+   "Sansin",
+   "Sơn thần",
+   "옛날 사람들은 산신에게 제사를 지냈어요.",
+   "Người xưa cúng thần núi."
+  ],
+  [
+   "산신도",
+   "Sansindo",
+   "Sơn thần đồ, bức tranh thần núi",
+   "절에는 산신도가 걸려 있어요.",
+   "Trong chùa có treo tranh sơn thần."
+  ],
+  [
+   "산하",
+   "Sanha",
+   "Trực thuộc; núi sông",
+   "그 연구소는 정부 산하 기관이에요.",
+   "Viện nghiên cứu đó là cơ quan trực thuộc chính phủ."
+  ],
+  [
+   "삼베",
+   "Sambe",
+   "Vải dệt bằng cây gai dầu",
+   "삼베는 장례식 때 상복으로 쓰였어요.",
+   "Vải gai dầu được dùng làm áo tang trong tang lễ."
+  ],
+  [
+   "생육",
+   "Saengyuk",
+   "Sự sinh trưởng",
+   "식물의 생육에는 햇빛과 물이 필요해요.",
+   "Sự sinh trưởng của cây cần ánh nắng và nước."
+  ],
+  [
+   "설비",
+   "Seolbi",
+   "Thiết bị",
+   "이 공장에는 최신 설비가 있어요.",
+   "Nhà máy này có thiết bị mới nhất."
+  ],
+  [
+   "소방방재청",
+   "Sobangbangjaecheong",
+   "Cơ quan quản lý tai nạn và cứu hỏa",
+   "소방방재청은 재난을 관리하는 기관이었어요.",
+   "Cục Phòng cháy và Phòng chống thiên tai từng là cơ quan quản lý thảm họa."
+  ],
+  [
+   "속삭임",
+   "Soksagim",
+   "Lời thầm thì",
+   "숲에서 바람의 속삭임이 들려요.",
+   "Trong rừng nghe tiếng gió thì thầm."
+  ],
+  [
+   "수납",
+   "Sunap",
+   "Sự cất chứa (đồ đạc)",
+   "이 가구는 수납 공간이 넓어요.",
+   "Đồ nội thất này có không gian cất chứa rộng."
+  ],
+  [
+   "스며들다",
+   "Seumyeodeulda",
+   "Thấm qua, ngấm qua",
+   "비가 땅속으로 스며들었어요.",
+   "Mưa đã thấm vào lòng đất."
+  ],
+  [
+   "억새",
+   "Eoksae",
+   "Cỏ lau",
+   "가을이 되면 산에 억새가 피어요.",
+   "Mùa thu đến thì cỏ lau nở trên núi."
+  ],
+  [
+   "얽어매다",
+   "Eolgeomaeda",
+   "Buộc chặt, trói buộc",
+   "새끼줄로 짚을 얽어매서 지붕을 덮었어요.",
+   "Buộc rơm bằng dây thừng để lợp mái."
+  ],
+  [
+   "열전도율",
+   "Yeoljeondoyul",
+   "Hệ số dẫn nhiệt",
+   "금속은 열전도율이 높아요.",
+   "Kim loại có hệ số dẫn nhiệt cao."
+  ],
+  [
+   "엿보다",
+   "Yeotboda",
+   "Nhìn trộm",
+   "아이가 문틈으로 방 안을 엿봤어요.",
+   "Đứa bé nhìn trộm vào phòng qua khe cửa."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ 줄이야 — Không ngờ",
+   "meaning": "Thể hiện sự NGẠC NHIÊN, BẤT NGỜ (thường là cảm thán) về một việc mà mình HOÀN TOÀN KHÔNG NGỜ TỚI: 'ai ngờ…, không ngờ là…, nào có biết…'. Rút gọn của (으)ㄹ 줄이야 몰랐다 / 알았겠어요?. Chia: có patchim → 을 줄이야 (많을 줄이야); không patchim/ㄹ → ㄹ 줄이야 (올 줄이야, 될 줄이야); Quá khứ → 았/었을 줄이야 (그랬을 줄이야); Danh từ → 일 줄이야. Thường ĐỨNG CUỐI câu (dạng cảm thán), có thể đi với 정말, 설마, 이렇게. Mẫu đầy đủ: (으)ㄹ 줄이야 누가 알았겠어요? (ai mà biết được là…). So sánh: (으)ㄴ/는/(으)ㄹ 줄 몰랐다 (Bài 65 – không ngờ, trần thuật); (으)ㄹ 줄이야 = cảm thán mạnh hơn, giàu cảm xúc.",
+   "examples": [
+    "이 작은 씨앗이 이렇게 큰 나무가 될 줄이야! — Ai ngờ hạt giống nhỏ này lại thành cây to như vậy!",
+    "태풍이 이렇게 심할 줄이야 누가 알았겠어요? — Ai mà biết được bão lại dữ dội đến thế?",
+    "10년 만에 고향이 이렇게 변했을 줄이야. — Không ngờ sau 10 năm quê nhà đã thay đổi đến thế.",
+    "그 조용한 아이가 가수가 될 줄이야. — Không ngờ đứa trẻ trầm lặng ấy lại trở thành ca sĩ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Vải mỏng mát làm từ cây gai, mặc mùa hè gọi là gì?",
+   "kr": "",
+   "options": [
+    "모시",
+    "무명",
+    "삼베"
+   ],
+   "answer": "모시",
+   "explain": "모시 = vải gai (ramie)."
+  },
+  {
+   "type": "choice",
+   "q": "Đất tốt, cây trồng phát triển gọi là gì?",
+   "kr": "",
+   "options": [
+    "비옥하다",
+    "엿보다",
+    "얽어매다"
+   ],
+   "answer": "비옥하다",
+   "explain": "비옥 = phì nhiêu."
+  },
+  {
+   "type": "choice",
+   "q": "Nhìn trộm qua khe gọi là gì?",
+   "kr": "",
+   "options": [
+    "엿보다",
+    "스며들다",
+    "생육"
+   ],
+   "answer": "엿보다",
+   "explain": "엿보다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mưa đã thấm vào lòng đất.",
+   "kr": "비가 땅속으로 ___.",
+   "options": [
+    "스며들었어요",
+    "엿봤어요",
+    "얽어맸어요"
+   ],
+   "answer": "스며들었어요",
+   "explain": "스며들다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Ai ngờ hạt giống nhỏ lại thành cây to!'",
+   "kr": "",
+   "options": [
+    "이 작은 씨앗이 이렇게 큰 나무가 될 줄이야!",
+    "이 작은 씨앗이 이렇게 큰 나무가 된 줄이야!",
+    "이 작은 씨앗이 큰 나무가 되는 줄이야요!"
+   ],
+   "answer": "이 작은 씨앗이 이렇게 큰 나무가 될 줄이야!",
+   "explain": "(으)ㄹ 줄이야."
+  },
+  {
+   "type": "choice",
+   "q": "(으)ㄹ 줄이야 thể hiện cảm xúc gì?",
+   "kr": "",
+   "options": [
+    "Ngạc nhiên, không ngờ tới",
+    "Chắc chắn",
+    "Hối tiếc vì không làm"
+   ],
+   "answer": "Ngạc nhiên, không ngờ tới",
+   "explain": "Cảm thán bất ngờ."
+  },
+  {
+   "type": "choice",
+   "q": "Dạng đầy đủ của '(으)ㄹ 줄이야' là gì?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ 줄이야 누가 알았겠어요?",
+    "(으)ㄹ 줄 알아요",
+    "(으)ㄹ 줄 모르세요"
+   ],
+   "answer": "(으)ㄹ 줄이야 누가 알았겠어요?",
+   "explain": "Ai mà biết được…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Kim loại có hệ số dẫn nhiệt cao.",
+   "kr": "금속은 ___이 높아요.",
+   "options": [
+    "열전도율",
+    "발육",
+    "생육"
+   ],
+   "answer": "열전도율",
+   "explain": "열전도율."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 줄이야 với 심하다: Ai biết bão lại dữ dội thế?",
+   "kr": "태풍이 이렇게 ___ 누가 알았겠어요?",
+   "answer": [
+    "심할 줄이야"
+   ],
+   "explain": "심할 줄이야."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 줄이야 với 되다: Không ngờ đứa trẻ ấy lại thành ca sĩ.",
+   "kr": "그 조용한 아이가 가수가 ___.",
+   "answer": [
+    "될 줄이야"
+   ],
+   "explain": "될 줄이야."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Leo núi mùa đông cần găng tay chống lạnh.",
+   "kr": "겨울 등산에는 ___ 장갑이 필요해요.",
+   "answer": [
+    "방한용"
+   ],
+   "explain": "방한용."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mùa thu cỏ lau nở trên núi.",
+   "kr": "가을이 되면 산에 ___가 피어요.",
+   "answer": [
+    "억새"
+   ],
+   "explain": "억새."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Không ngờ sau 10 năm quê đã thay đổi thế này.",
+   "tokens": [
+    "10년",
+    "만에",
+    "고향이",
+    "이렇게",
+    "변했을",
+    "줄이야"
+   ],
+   "answer": "10년 만에 고향이 이렇게 변했을 줄이야",
+   "explain": "았/었을 줄이야."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đất quanh sông rất màu mỡ.",
+   "tokens": [
+    "강",
+    "주변의",
+    "땅은",
+    "비옥해요"
+   ],
+   "answer": "강 주변의 땅은 비옥해요",
+   "explain": "비옥하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không ngờ tôi lại đỗ! (dùng (으)ㄹ 줄이야)",
+   "answer": [
+    "제가 합격할 줄이야!",
+    "내가 합격할 줄이야!",
+    "제가 붙을 줄이야!",
+    "제가 합격할 줄이야 누가 알았겠어요?"
+   ],
+   "explain": "합격할 줄이야."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đồ nội thất này có không gian cất chứa rộng.",
+   "answer": [
+    "이 가구는 수납 공간이 넓어요.",
+    "이 가구는 수납공간이 넓어요."
+   ],
+   "explain": "수납 공간."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mùa hè mặc áo vải gai mát mẻ.",
+   "answer": [
+    "여름에는 시원한 모시 옷을 입어요.",
+    "여름에는 모시 옷을 입어요."
+   ],
+   "explain": "모시."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "옛날 사람들은 계절에 따라 다른 옷감을 사용했다. 여름에는 바람이 잘 통하는 모시와 삼베를, 겨울에는 따뜻한 무명으로 만든 방한용 옷을 입었다.",
+   "answer": "Người xưa dùng vải khác nhau tùy theo mùa. Mùa hè mặc vải gai ramie và vải gai dầu thoáng gió, mùa đông mặc áo chống lạnh làm bằng vải bông ấm áp.",
+   "explain": "에 따라."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 한옥의 벽은 흙과 나무, 한지로 만들어집니다. 흙은 열전도율이 낮아서 여름에는 더위를, 겨울에는 추위를 막아 줍니다. 또 한지는 공기와 습기가 잘 통해서 방 안을 쾌적하게 유지해 줍니다. 이처럼 한옥에는 자연을 이용한 조상들의 지혜가 스며들어 있습니다.",
+   "options": [
+    "흙은 열전도율이 낮아 더위와 추위를 막아 준다.",
+    "한옥의 벽은 콘크리트로 만든다.",
+    "한지는 공기가 통하지 않는다.",
+    "한옥은 자연과 관계가 없다."
+   ],
+   "answer": "흙은 열전도율이 낮아 더위와 추위를 막아 준다.",
+   "explain": "흙은 열전도율이 낮아서 …"
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu ĐÚNG. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【억새 축제】\n· 기간: 10월 1일~10월 31일\n· 장소: 민둥산 일대\n· 입장료: 무료 (주차비 별도)\n· 프로그램: 억새길 걷기, 사진 공모전",
+   "options": [
+    "입장료는 내지 않아도 된다.",
+    "축제는 봄에 열린다.",
+    "주차는 무료이다.",
+    "축제 기간은 일주일이다."
+   ],
+   "answer": "입장료는 내지 않아도 된다.",
+   "explain": "입장료: 무료."
+  }
+ ]
+}

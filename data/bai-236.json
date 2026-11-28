@@ -1,0 +1,408 @@
+{
+ "id": "bai-236",
+ "lesson": "Bài 236",
+ "title": "Giao lưu quốc tế (phần 4/4)",
+ "krTitle": "국제 교류 4",
+ "date": "2027-10-29",
+ "day": 345,
+ "source": "TOPIK 6 – Bài 6: Giao lưu quốc tế (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "실무진",
+   "Silmujin",
+   "Đội ngũ thực thi, tổ công tác",
+   "양국 실무진이 회의를 준비하고 있어요.",
+   "Tổ công tác hai nước đang chuẩn bị cuộc họp."
+  ],
+  [
+   "야학",
+   "Yahak",
+   "Việc học đêm",
+   "옛날에는 야학에서 글을 배웠어요.",
+   "Ngày xưa người ta học chữ ở lớp học ban đêm."
+  ],
+  [
+   "양립",
+   "Yangnip",
+   "Sự chung sống, sự cùng tồn tại",
+   "경제 발전과 환경 보호는 양립할 수 있어요.",
+   "Phát triển kinh tế và bảo vệ môi trường có thể song hành."
+  ],
+  [
+   "양자",
+   "Yangja",
+   "Hai bên, song phương",
+   "양자가 합의점을 찾았어요.",
+   "Hai bên đã tìm được điểm thống nhất."
+  ],
+  [
+   "영양실조",
+   "Yeongyangsiljo",
+   "Sự thiếu dinh dưỡng",
+   "그 나라 아이들의 절반이 영양실조에 걸렸어요.",
+   "Một nửa trẻ em nước đó bị suy dinh dưỡng."
+  ],
+  [
+   "오산",
+   "Osan",
+   "Sự tính sai, nhầm lẫn",
+   "쉽게 이길 거라고 생각한 것은 오산이었어요.",
+   "Nghĩ rằng sẽ thắng dễ dàng là một sai lầm."
+  ],
+  [
+   "오존층",
+   "Ojoncheung",
+   "Tầng ozon",
+   "오존층이 파괴되면 피부암이 늘어요.",
+   "Tầng ozone bị phá hủy thì ung thư da tăng."
+  ],
+  [
+   "원조",
+   "Wonjo",
+   "Viện trợ",
+   "한국은 많은 나라에 원조를 하고 있어요.",
+   "Hàn Quốc đang viện trợ cho nhiều nước."
+  ],
+  [
+   "위배되다",
+   "Wibaedoeda",
+   "Trở nên vi phạm, bị vi phạm",
+   "그 행동은 국제법에 위배돼요.",
+   "Hành động đó vi phạm luật quốc tế."
+  ],
+  [
+   "이데올로기",
+   "Ideollogi",
+   "Hệ tư tưởng",
+   "냉전 시대에는 이데올로기 대립이 심했어요.",
+   "Thời chiến tranh lạnh, đối lập hệ tư tưởng rất gay gắt."
+  ],
+  [
+   "인류애",
+   "Illyuae",
+   "Tình yêu nhân loại",
+   "봉사 활동은 인류애에서 시작돼요.",
+   "Hoạt động tình nguyện bắt đầu từ tình yêu nhân loại."
+  ],
+  [
+   "인적 지원",
+   "Injeong jiwon",
+   "Hỗ trợ về con người",
+   "의료진을 보내는 인적 지원도 중요해요.",
+   "Hỗ trợ nhân lực như gửi đội y tế cũng quan trọng."
+  ],
+  [
+   "자유무역",
+   "Jayumuyeok",
+   "Tự do thương mại",
+   "자유무역으로 물건값이 싸졌어요.",
+   "Nhờ tự do thương mại mà giá hàng rẻ đi."
+  ],
+  [
+   "자유무역협정",
+   "Jayumuyeokyeopjeong",
+   "Hiệp định tự do thương mại (FTA)",
+   "한국과 베트남은 자유무역협정을 맺었어요.",
+   "Hàn Quốc và Việt Nam đã ký FTA."
+  ],
+  [
+   "쟁점",
+   "Jaengjeom",
+   "Điểm tranh luận, điều tranh cãi",
+   "농산물 시장 개방이 가장 큰 쟁점이에요.",
+   "Mở cửa thị trường nông sản là điểm tranh cãi lớn nhất."
+  ],
+  [
+   "저개발국가",
+   "Jeogaebalgukga",
+   "Nước kém phát triển",
+   "저개발국가에 학교를 지어 주었어요.",
+   "Đã xây trường cho nước kém phát triển."
+  ],
+  [
+   "전수하다",
+   "Jeonsuhada",
+   "Chuyển giao",
+   "한국은 농업 기술을 개도국에 전수했어요.",
+   "Hàn Quốc đã chuyển giao kỹ thuật nông nghiệp cho nước đang phát triển."
+  ],
+  [
+   "지구온난화",
+   "Jiguonnanhwa",
+   "Sự nóng dần lên của trái đất",
+   "지구온난화로 해수면이 높아지고 있어요.",
+   "Do trái đất nóng lên, mực nước biển đang dâng."
+  ],
+  [
+   "파견 사업",
+   "Pagyeon saeop",
+   "Công việc được phái đi, cử đi",
+   "정부는 의료진 파견 사업을 시작했어요.",
+   "Chính phủ đã bắt đầu dự án phái cử đội y tế."
+  ],
+  [
+   "풀뿌리 교육",
+   "Pulppuri gyoyuk",
+   "Giáo dục cơ sở (cộng đồng)",
+   "풀뿌리 교육이 나라 발전의 기초예요.",
+   "Giáo dục cơ sở là nền tảng phát triển đất nước."
+  ],
+  [
+   "피교육자",
+   "Pigyoyukja",
+   "Người được giáo dục",
+   "피교육자의 수준에 맞게 가르쳐야 해요.",
+   "Phải dạy phù hợp với trình độ người học."
+  ],
+  [
+   "해체",
+   "Haeche",
+   "Sự giải thể, tan rã",
+   "소련 해체 후 냉전이 끝났어요.",
+   "Sau khi Liên Xô tan rã, Chiến tranh lạnh kết thúc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 기 십상이다 — Dễ bị",
+   "meaning": "Cảnh báo rằng trong tình huống đó RẤT DỄ (gần như chắc chắn) xảy ra điều KHÔNG TỐT: 'dễ bị…, dễ… lắm, chắc chắn sẽ…'. 십상 = 十常 (mười lần thì cả mười) → 'gần như chắc chắn'. Gắn 기 십상이다 vào thân động từ: 실수하다 → 실수하기 십상이다, 다치다 → 다치기 십상이다, 오해받다 → 오해받기 십상이다. Thường đi sau điều kiện (으)면 hoặc lý do: 준비 없이 가면 고생하기 십상이에요 (đi không chuẩn bị thì dễ khổ lắm). Văn nói và viết, mang sắc thái lời khuyên, cảnh báo. So sánh: 는 수가 있다 (Bài 230 – có khi sẽ, khả năng thấp hơn); 기 쉽다 (dễ – trung tính); 기 십상이다 (rất dễ, gần như chắc – mạnh nhất, chỉ dùng cho điều xấu).",
+   "examples": [
+    "현지 문화를 모르고 가면 오해받기 십상이에요. — Đi mà không biết văn hóa địa phương thì rất dễ bị hiểu lầm.",
+    "급하게 협상하면 손해 보기 십상이에요. — Đàm phán vội vàng thì dễ chịu thiệt lắm.",
+    "밤늦게까지 일하면 건강을 해치기 십상이에요. — Làm việc đến khuya thì dễ hại sức khỏe lắm.",
+    "혼자 판단하면 오산하기 십상이니까 전문가와 상의하세요. — Tự phán đoán một mình thì dễ tính sai, hãy bàn với chuyên gia."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Lớp học vào ban đêm (cho người không có điều kiện học ban ngày) gọi là gì?",
+   "kr": "",
+   "options": [
+    "야학",
+    "풀뿌리 교육",
+    "파견 사업"
+   ],
+   "answer": "야학",
+   "explain": "야(đêm) + 학(học)."
+  },
+  {
+   "type": "choice",
+   "q": "Tình trạng thiếu dinh dưỡng gọi là gì?",
+   "kr": "",
+   "options": [
+    "영양실조",
+    "오존층",
+    "인류애"
+   ],
+   "answer": "영양실조",
+   "explain": "영양실조."
+  },
+  {
+   "type": "choice",
+   "q": "Điểm mà hai bên tranh cãi gọi là gì?",
+   "kr": "",
+   "options": [
+    "쟁점",
+    "양립",
+    "오산"
+   ],
+   "answer": "쟁점",
+   "explain": "쟁점."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hành động đó vi phạm luật quốc tế.",
+   "kr": "그 행동은 국제법에 ___.",
+   "options": [
+    "위배돼요",
+    "전수돼요",
+    "해체돼요"
+   ],
+   "answer": "위배돼요",
+   "explain": "N에 위배되다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Đi không chuẩn bị thì dễ khổ lắm.'",
+   "kr": "",
+   "options": [
+    "준비 없이 가면 고생하기 십상이에요.",
+    "준비 없이 가면 고생하는 십상이에요.",
+    "준비 없이 가면 고생할 십상이에요."
+   ],
+   "answer": "준비 없이 가면 고생하기 십상이에요.",
+   "explain": "V기 십상이다."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 기 십상이다 KHÔNG tự nhiên?",
+   "kr": "",
+   "options": [
+    "열심히 공부하면 합격하기 십상이에요.",
+    "서두르면 실수하기 십상이에요.",
+    "조심하지 않으면 다치기 십상이에요."
+   ],
+   "answer": "열심히 공부하면 합격하기 십상이에요.",
+   "explain": "기 십상이다 chỉ dùng cho điều xấu."
+  },
+  {
+   "type": "choice",
+   "q": "Xếp theo mức độ chắc chắn TĂNG dần (điều xấu).",
+   "kr": "",
+   "options": [
+    "는 수가 있다 < 기 쉽다 < 기 십상이다",
+    "기 십상이다 < 기 쉽다 < 는 수가 있다",
+    "기 쉽다 < 기 십상이다 < 는 수가 있다"
+   ],
+   "answer": "는 수가 있다 < 기 쉽다 < 기 십상이다",
+   "explain": "십상 = gần như chắc chắn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Sau khi Liên Xô tan rã, Chiến tranh lạnh kết thúc.",
+   "kr": "소련 ___ 후 냉전이 끝났어요.",
+   "options": [
+    "해체",
+    "원조",
+    "양립"
+   ],
+   "answer": "해체",
+   "explain": "해체."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 십상이다 với 오해받다: Không biết văn hóa thì dễ bị hiểu lầm.",
+   "kr": "현지 문화를 모르고 가면 ___.",
+   "answer": [
+    "오해받기 십상이에요",
+    "오해받기 십상이다"
+   ],
+   "explain": "오해받기 십상이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 십상이다 với 손해 보다: Đàm phán vội thì dễ chịu thiệt.",
+   "kr": "급하게 협상하면 ___.",
+   "answer": [
+    "손해 보기 십상이에요",
+    "손해보기 십상이에요",
+    "손해 보기 십상이다"
+   ],
+   "explain": "손해 보기 십상이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tầng ozone bị phá hủy thì ung thư da tăng.",
+   "kr": "___이 파괴되면 피부암이 늘어요.",
+   "answer": [
+    "오존층"
+   ],
+   "explain": "오존층."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nghĩ sẽ thắng dễ là một sai lầm.",
+   "kr": "쉽게 이길 거라고 생각한 것은 ___이었어요.",
+   "answer": [
+    "오산"
+   ],
+   "explain": "오산."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Làm việc đến khuya thì dễ hại sức khỏe lắm.",
+   "tokens": [
+    "밤늦게까지",
+    "일하면",
+    "건강을",
+    "해치기",
+    "십상이에요"
+   ],
+   "answer": "밤늦게까지 일하면 건강을 해치기 십상이에요",
+   "explain": "기 십상이에요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phát triển kinh tế và bảo vệ môi trường có thể song hành.",
+   "tokens": [
+    "경제",
+    "발전과",
+    "환경",
+    "보호는",
+    "양립할",
+    "수",
+    "있어요"
+   ],
+   "answer": "경제 발전과 환경 보호는 양립할 수 있어요",
+   "explain": "양립하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không ngủ đủ thì dễ bị cảm lắm. (dùng 기 십상이다)",
+   "answer": [
+    "잠을 충분히 안 자면 감기에 걸리기 십상이에요.",
+    "잠을 충분히 자지 않으면 감기에 걸리기 십상이에요.",
+    "잠을 잘 안 자면 감기 걸리기 십상이에요.",
+    "충분히 자지 않으면 감기에 걸리기 십상이에요."
+   ],
+   "explain": "걸리기 십상이에요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mở cửa thị trường nông sản là điểm tranh cãi lớn nhất.",
+   "answer": [
+    "농산물 시장 개방이 가장 큰 쟁점이에요.",
+    "농산물 시장 개방이 제일 큰 쟁점이에요."
+   ],
+   "explain": "쟁점."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Phải dạy phù hợp với trình độ người học.",
+   "answer": [
+    "피교육자의 수준에 맞게 가르쳐야 해요.",
+    "피교육자 수준에 맞게 가르쳐야 해요."
+   ],
+   "explain": "에 맞게."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "저개발국가를 도울 때 물건만 보내면 일시적인 도움에 그치기 십상이다. 그래서 최근에는 기술을 전수하고 풀뿌리 교육을 지원하는 방식이 중요해지고 있다.",
+   "answer": "Khi giúp nước kém phát triển, nếu chỉ gửi đồ thì rất dễ chỉ dừng ở sự giúp đỡ nhất thời. Vì vậy gần đây cách chuyển giao kỹ thuật và hỗ trợ giáo dục cơ sở đang trở nên quan trọng.",
+   "explain": "에 그치다; 기 십상이다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 다음 달에 아프리카로 의료 봉사를 간다면서요?\n남자: 네, 의료진 파견 사업에 지원했어요. 영양실조에 걸린 아이들을 치료할 거예요.\n여자: 대단하네요. 그런데 그곳 날씨가 많이 덥지 않아요?\n남자: 맞아요. 준비를 제대로 안 하면 고생하기 십상이라서 지금 필요한 물건들을 하나씩 챙기고 있어요.",
+   "options": [
+    "남자는 봉사 갈 준비를 하고 있다.",
+    "남자는 이미 봉사를 다녀왔다.",
+    "남자는 아이들에게 공부를 가르칠 것이다.",
+    "그곳은 날씨가 춥다."
+   ],
+   "answer": "남자는 봉사 갈 준비를 하고 있다.",
+   "explain": "필요한 물건들을 챙기고 있어요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "한-베 FTA 개정 협상 '난항'… 농산물 개방 놓고 양측 팽팽",
+   "options": [
+    "농산물 시장 개방 문제로 양국 협상이 어려움을 겪고 있다.",
+    "양국 협상이 순조롭게 끝났다.",
+    "FTA가 폐지되었다.",
+    "농산물 수입이 금지되었다."
+   ],
+   "answer": "농산물 시장 개방 문제로 양국 협상이 어려움을 겪고 있다.",
+   "explain": "난항 = gặp khó; 팽팽 = căng thẳng ngang nhau."
+  }
+ ]
+}

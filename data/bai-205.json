@@ -1,0 +1,405 @@
+{
+ "id": "bai-205",
+ "lesson": "Bài 205",
+ "title": "Du học Hàn Quốc (phần 1/5)",
+ "krTitle": "한국 유학 1",
+ "date": "2027-09-12",
+ "day": 298,
+ "source": "TOPIK 5 – Bài 15: Du học Hàn Quốc (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "외국인 특례입학",
+   "Oegugin teungnyeipak",
+   "Nhập học đặc biệt cho người nước ngoài",
+   "외국인 특례입학으로 대학에 들어갔어요.",
+   "Tôi vào đại học theo diện tuyển sinh đặc biệt cho người nước ngoài."
+  ],
+  [
+   "전형 방법",
+   "Jeonhyeong bangbeop",
+   "Phương pháp tuyển",
+   "학교마다 전형 방법이 달라요.",
+   "Mỗi trường có phương thức tuyển sinh khác nhau."
+  ],
+  [
+   "지원 서류 제출",
+   "Jiwon seoryu jechul",
+   "Việc nộp hồ sơ đăng ký",
+   "지원 서류 제출 마감은 다음 주 금요일이에요.",
+   "Hạn nộp hồ sơ là thứ sáu tuần sau."
+  ],
+  [
+   "필기 고사",
+   "Pilgi gosa",
+   "Thi viết",
+   "필기 고사에서 한국어 실력을 평가해요.",
+   "Kỳ thi viết đánh giá năng lực tiếng Hàn."
+  ],
+  [
+   "등록금 납부",
+   "Deungnokgeum napbu",
+   "Việc đóng học phí",
+   "등록금 납부 기간을 놓치면 안 돼요.",
+   "Không được bỏ lỡ thời hạn đóng học phí."
+  ],
+  [
+   "편입학",
+   "Pyeonipak",
+   "Việc chuyển trường học tiếp (chuyển điểm đến nhập học trường khác)",
+   "다른 대학교 3학년으로 편입학했어요.",
+   "Tôi đã chuyển tiếp vào năm ba của trường đại học khác."
+  ],
+  [
+   "최종학교",
+   "Choejonghakgyo",
+   "Trường cuối cùng đã học (bậc cao nhất)",
+   "최종학교의 졸업 증명서를 내야 해요.",
+   "Phải nộp giấy chứng nhận tốt nghiệp của trường cuối cùng đã học."
+  ],
+  [
+   "졸업 증명서",
+   "Joreom jeungmyeongseo",
+   "Giấy chứng nhận tốt nghiệp",
+   "졸업 증명서는 대사관 확인을 받아야 해요.",
+   "Giấy tốt nghiệp phải được đại sứ quán xác nhận."
+  ],
+  [
+   "성적 증명서",
+   "Seongjeong jeungmyeongseo",
+   "Bảng điểm",
+   "성적 증명서를 영어로 번역했어요.",
+   "Tôi đã dịch bảng điểm sang tiếng Anh."
+  ],
+  [
+   "외국인 등록증",
+   "Oegugin deungnokjeung",
+   "Thẻ đăng ký cư trú người nước ngoài",
+   "외국인 등록증을 잃어버려서 다시 신청했어요.",
+   "Mất thẻ cư trú người nước ngoài nên tôi đã xin cấp lại."
+  ],
+  [
+   "사본",
+   "Sabon",
+   "Bản sao",
+   "여권 사본을 두 장 준비하세요.",
+   "Hãy chuẩn bị hai bản sao hộ chiếu."
+  ],
+  [
+   "수시 전형",
+   "Susi jeonhyeong",
+   "Tuyển sinh sớm (xét hồ sơ, trước kỳ thi chung)",
+   "저는 수시 전형으로 합격했어요.",
+   "Tôi đã đỗ theo diện tuyển sinh sớm."
+  ],
+  [
+   "원서 접수",
+   "Wonseo jeopsu",
+   "Việc đăng ký hồ sơ",
+   "원서 접수는 온라인으로 해요.",
+   "Nộp hồ sơ đăng ký qua mạng."
+  ],
+  [
+   "서류 전형",
+   "Seoryu jeonhyeong",
+   "Mô hình tuyển hồ sơ",
+   "서류 전형에 통과하면 면접을 봐요.",
+   "Qua vòng xét hồ sơ thì sẽ phỏng vấn."
+  ],
+  [
+   "합격자 발표",
+   "Hapgyeokja balpyo",
+   "Việc công bố kết quả trúng tuyển",
+   "합격자 발표는 홈페이지에서 확인하세요.",
+   "Hãy kiểm tra danh sách trúng tuyển trên trang chủ."
+  ],
+  [
+   "신입학",
+   "Sinipak",
+   "Nhập học mới",
+   "신입학 외국인 학생을 위한 오리엔테이션이 있어요.",
+   "Có buổi định hướng cho sinh viên nước ngoài mới nhập học."
+  ],
+  [
+   "입학 원서",
+   "Ipang wonseo",
+   "Hồ sơ nhập học",
+   "입학 원서에 사진을 붙이세요.",
+   "Hãy dán ảnh vào đơn đăng ký nhập học."
+  ],
+  [
+   "재학 증명서",
+   "Jaehang jeungmyeongseo",
+   "Giấy chứng nhận đang học",
+   "비자를 연장하려면 재학 증명서가 필요해요.",
+   "Muốn gia hạn visa cần giấy chứng nhận đang học."
+  ],
+  [
+   "졸업예정 증명서",
+   "Joreobyejeong jeungmyeongseo",
+   "Giấy chứng nhận sắp tốt nghiệp",
+   "아직 졸업 전이면 졸업예정 증명서를 내세요.",
+   "Nếu chưa tốt nghiệp thì nộp giấy chứng nhận sắp tốt nghiệp."
+  ],
+  [
+   "재직 증명서",
+   "Jaejing jeungmyeongseo",
+   "Giấy chứng nhận đang làm việc",
+   "회사에서 재직 증명서를 발급받았어요.",
+   "Tôi đã xin cấp giấy xác nhận đang làm việc ở công ty."
+  ],
+  [
+   "원본",
+   "Wonbon",
+   "Bản chính, bản gốc, hồ sơ gốc",
+   "원본은 확인 후 돌려 드립니다.",
+   "Bản gốc sẽ được trả lại sau khi kiểm tra."
+  ],
+  [
+   "교환 학생",
+   "Gyohwan haksaeng",
+   "Học sinh trao đổi",
+   "교환 학생으로 한국에 1년 동안 있었어요.",
+   "Tôi ở Hàn Quốc một năm với tư cách sinh viên trao đổi."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 조차 — Ngay cả",
+   "meaning": "'Ngay cả… (cũng không), thậm chí… (cũng không)': nhấn mạnh điều CƠ BẢN NHẤT, tối thiểu nhất mà cũng KHÔNG đạt được → hoàn cảnh xấu hơn mong đợi. Gắn sau danh từ: 이름조차, 물조차, 시간조차. Vế sau thường là PHỦ ĐỊNH hoặc tiêu cực: 못 하다, 없다, 모르다, 안 하다. Có thể gắn sau trợ từ: 에게조차, 에서조차. Với động từ: V기조차 하다 (thậm chí còn… — tiêu cực): 무섭기조차 해요. So sánh: 도 (cũng – trung tính); 까지 (đến cả – cả tích cực lẫn tiêu cực, kiểu 'thêm vào'); 조차 (ngay cả – gần như chỉ tiêu cực, điều tối thiểu). Ví dụ: 친구까지 도와줬어요 (cả bạn cũng giúp – tích cực) — 친구조차 안 도와줬어요 (ngay cả bạn cũng không giúp).",
+   "examples": [
+    "너무 바빠서 밥 먹을 시간조차 없어요. — Bận quá đến nỗi ngay cả thời gian ăn cơm cũng không có.",
+    "처음 한국에 왔을 때는 한글조차 못 읽었어요. — Lúc mới đến Hàn, ngay cả chữ Hangeul tôi cũng không đọc được.",
+    "원서 접수 날짜조차 몰라서 기회를 놓쳤어요. — Ngay cả ngày nộp hồ sơ cũng không biết nên lỡ mất cơ hội.",
+    "가장 친한 친구조차 제 말을 믿지 않았어요. — Ngay cả bạn thân nhất cũng không tin lời tôi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Giấy xác nhận đang là sinh viên của trường gọi là gì?",
+   "kr": "",
+   "options": [
+    "재학 증명서",
+    "재직 증명서",
+    "졸업 증명서"
+   ],
+   "answer": "재학 증명서",
+   "explain": "재학 = đang học; 재직 = đang làm việc."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 사본 (bản sao) là gì?",
+   "kr": "",
+   "options": [
+    "원본",
+    "원서",
+    "등록증"
+   ],
+   "answer": "원본",
+   "explain": "원본 = bản gốc."
+  },
+  {
+   "type": "choice",
+   "q": "Sinh viên sang nước khác học một thời gian theo chương trình giữa hai trường gọi là gì?",
+   "kr": "",
+   "options": [
+    "교환 학생",
+    "신입학",
+    "편입학"
+   ],
+   "answer": "교환 학생",
+   "explain": "교환 = trao đổi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Qua vòng xét hồ sơ thì sẽ phỏng vấn.",
+   "kr": "___에 통과하면 면접을 봐요.",
+   "options": [
+    "서류 전형",
+    "필기 고사",
+    "합격자 발표"
+   ],
+   "answer": "서류 전형",
+   "explain": "서류 전형 = vòng hồ sơ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Ngay cả thời gian ăn cơm cũng không có.'",
+   "kr": "",
+   "options": [
+    "밥 먹을 시간조차 없어요.",
+    "밥 먹을 시간조차 있어요.",
+    "밥 먹을 시간이조차 없어요."
+   ],
+   "answer": "밥 먹을 시간조차 없어요.",
+   "explain": "N조차 + phủ định."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 조차 KHÔNG tự nhiên?",
+   "kr": "",
+   "options": [
+    "친구조차 저를 도와줘서 정말 기뻤어요.",
+    "친구조차 저를 도와주지 않았어요.",
+    "이름조차 모르는 사람이에요."
+   ],
+   "answer": "친구조차 저를 도와줘서 정말 기뻤어요.",
+   "explain": "조차 dùng với tình huống tiêu cực → câu tích cực nên dùng 까지."
+  },
+  {
+   "type": "choice",
+   "q": "'한글조차 못 읽었어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Ngay cả chữ Hangeul cũng không đọc được.",
+    "Chỉ đọc được Hangeul.",
+    "Đọc được cả Hangeul."
+   ],
+   "answer": "Ngay cả chữ Hangeul cũng không đọc được.",
+   "explain": "조차 = ngay cả."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không được bỏ lỡ thời hạn đóng học phí.",
+   "kr": "등록금 ___ 기간을 놓치면 안 돼요.",
+   "options": [
+    "납부",
+    "편입학",
+    "접수"
+   ],
+   "answer": "납부",
+   "explain": "납부 = nộp (tiền)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 조차: Ngay cả bạn thân nhất cũng không tin lời tôi.",
+   "kr": "가장 친한 ___ 제 말을 믿지 않았어요.",
+   "answer": [
+    "친구조차"
+   ],
+   "explain": "친구조차."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 조차: Đau quá đến nỗi ngay cả nước cũng không uống được.",
+   "kr": "너무 아파서 ___ 못 마셨어요.",
+   "answer": [
+    "물조차"
+   ],
+   "explain": "물조차."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hãy chuẩn bị hai bản sao hộ chiếu.",
+   "kr": "여권 ___을 두 장 준비하세요.",
+   "answer": [
+    "사본"
+   ],
+   "explain": "사본."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đã dịch bảng điểm sang tiếng Anh.",
+   "kr": "___ 증명서를 영어로 번역했어요.",
+   "answer": [
+    "성적"
+   ],
+   "explain": "성적 증명서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngay cả ngày nộp hồ sơ cũng không biết nên lỡ cơ hội.",
+   "tokens": [
+    "원서",
+    "접수",
+    "날짜조차",
+    "몰라서",
+    "기회를",
+    "놓쳤어요"
+   ],
+   "answer": "원서 접수 날짜조차 몰라서 기회를 놓쳤어요",
+   "explain": "N조차 몰라서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bản gốc sẽ được trả lại sau khi kiểm tra.",
+   "tokens": [
+    "원본은",
+    "확인",
+    "후",
+    "돌려",
+    "드립니다"
+   ],
+   "answer": "원본은 확인 후 돌려 드립니다",
+   "explain": "돌려 드리다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ngay cả tên anh ấy tôi cũng không biết. (dùng 조차)",
+   "answer": [
+    "그 사람의 이름조차 몰라요.",
+    "그의 이름조차 몰라요.",
+    "저는 그 사람 이름조차 몰라요.",
+    "그 사람 이름조차 모릅니다."
+   ],
+   "explain": "이름조차 모르다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Muốn gia hạn visa cần giấy chứng nhận đang học.",
+   "answer": [
+    "비자를 연장하려면 재학 증명서가 필요해요.",
+    "비자 연장을 하려면 재학 증명서가 필요해요."
+   ],
+   "explain": "(으)려면."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nộp hồ sơ đăng ký qua mạng.",
+   "answer": [
+    "원서 접수는 온라인으로 해요.",
+    "원서는 온라인으로 접수해요.",
+    "온라인으로 원서를 접수해요."
+   ],
+   "explain": "온라인으로."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "외국인 특례입학은 보통 서류 전형과 면접으로 학생을 뽑는다. 지원 서류는 졸업 증명서와 성적 증명서 원본을 제출해야 하며, 사본은 받지 않는 경우가 많다.",
+   "answer": "Tuyển sinh đặc biệt cho người nước ngoài thường chọn sinh viên qua xét hồ sơ và phỏng vấn. Hồ sơ phải nộp bản gốc giấy tốt nghiệp và bảng điểm, nhiều trường hợp không nhận bản sao.",
+   "explain": "(으)며; 원본, 사본."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 유학 준비가 너무 복잡해서 뭐부터 해야 할지 모르겠어요.\n여자: 저도 처음에는 필요한 서류조차 몰라서 고생했어요. 먼저 학교 홈페이지에서 전형 방법과 서류 목록을 꼼꼼히 확인하고, 마감 날짜를 달력에 적어 두는 게 가장 중요해요.",
+   "options": [
+    "먼저 전형 방법과 서류를 확인하고 마감일을 적어 두어야 한다.",
+    "유학은 준비할 필요가 없다.",
+    "서류는 마감 후에 내도 된다.",
+    "홈페이지는 믿을 수 없다."
+   ],
+   "answer": "먼저 전형 방법과 서류를 확인하고 마감일을 적어 두어야 한다.",
+   "explain": "확인하고, 마감 날짜를 적어 두는 게 가장 중요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 서류 전형에 합격하면 면접을 보게 된다.\n(나) 먼저 인터넷으로 원서 접수를 하고 지원 서류를 제출한다.\n(다) 마지막으로 합격자 발표 후 등록금을 납부하면 입학 절차가 끝난다.",
+   "options": [
+    "(나)-(가)-(다)",
+    "(가)-(나)-(다)",
+    "(다)-(가)-(나)",
+    "(나)-(다)-(가)"
+   ],
+   "answer": "(나)-(가)-(다)",
+   "explain": "먼저 (나) → (가) → 마지막으로 (다)."
+  }
+ ]
+}

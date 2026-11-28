@@ -1,0 +1,383 @@
+{
+ "id": "bai-243",
+ "lesson": "Bài 243",
+ "title": "Chế độ chính trị (phần 2/4)",
+ "krTitle": "정치 제도 2",
+ "date": "2027-11-08",
+ "day": 355,
+ "source": "TOPIK 6 – Bài 8: Chế độ chính trị (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "야당",
+   "Yadang",
+   "Đảng đối lập",
+   "야당이 정부의 정책을 비판했어요.",
+   "Đảng đối lập đã phê phán chính sách của chính phủ."
+  ],
+  [
+   "-에 가입하다",
+   "-e gaipada",
+   "Gia nhập vào",
+   "그는 대학생 때 정당에 가입했어요.",
+   "Anh ấy gia nhập chính đảng từ hồi đại học."
+  ],
+  [
+   "당원",
+   "Dangwon",
+   "Đảng viên",
+   "그 당의 당원이 10만 명을 넘었어요.",
+   "Đảng viên của đảng đó đã vượt 100 nghìn người."
+  ],
+  [
+   "당수 (총재)",
+   "Dangsu (chongjae)",
+   "Người lãnh đạo đảng",
+   "새 당수가 선출되었어요.",
+   "Người lãnh đạo đảng mới đã được bầu."
+  ],
+  [
+   "-에서 탈퇴하다",
+   "-eseo taltoehada",
+   "Rút khỏi, ra khỏi",
+   "그 의원은 당에서 탈퇴했어요.",
+   "Nghị sĩ đó đã rút khỏi đảng."
+  ],
+  [
+   "여당",
+   "Yeodang",
+   "Đảng cầm quyền",
+   "여당과 야당이 예산안을 두고 대립하고 있어요.",
+   "Đảng cầm quyền và đảng đối lập đang đối đầu về dự thảo ngân sách."
+  ],
+  [
+   "원내총무 (원내대표)",
+   "Wonnaechongmu (wonnaedaepyo)",
+   "Trưởng khối nghị sĩ của đảng trong quốc hội",
+   "원내대표들이 만나서 협상했어요.",
+   "Các trưởng khối nghị sĩ đã gặp nhau đàm phán."
+  ],
+  [
+   "선거",
+   "Seongeo",
+   "Bầu cử",
+   "만 18세 이상이면 선거에 참여할 수 있어요.",
+   "Từ đủ 18 tuổi trở lên có thể tham gia bầu cử."
+  ],
+  [
+   "대선 (대통령 선거)",
+   "Daeseon (daetongnyeong seongeo)",
+   "Bầu cử tổng thống",
+   "대선은 5년마다 열려요.",
+   "Bầu cử tổng thống diễn ra 5 năm một lần."
+  ],
+  [
+   "선거 제도",
+   "Seongeo jedo",
+   "Chế độ bầu cử",
+   "나라마다 선거 제도가 달라요.",
+   "Mỗi nước có chế độ bầu cử khác nhau."
+  ],
+  [
+   "총선",
+   "Chongseon",
+   "Tổng tuyển cử",
+   "총선에서 국회의원 300명을 뽑아요.",
+   "Trong tổng tuyển cử, bầu ra 300 nghị sĩ quốc hội."
+  ],
+  [
+   "후보",
+   "Hubo",
+   "Việc ứng cử, ứng cử viên",
+   "이번 선거에는 후보가 다섯 명이에요.",
+   "Cuộc bầu cử lần này có năm ứng cử viên."
+  ],
+  [
+   "선거를 치르다",
+   "Seongeoreul chireuda",
+   "Trải qua bầu cử",
+   "그 나라는 평화롭게 선거를 치렀어요.",
+   "Nước đó đã tiến hành bầu cử một cách hòa bình."
+  ],
+  [
+   "뽑다 (선출하다)",
+   "Ppopda (seonchulhada)",
+   "Chọn ra",
+   "주민들이 마을 대표를 뽑았어요.",
+   "Người dân đã bầu ra đại diện làng."
+  ],
+  [
+   "-에 출마하다 (입후보하다)",
+   "-e chulmahada (ipubohada)",
+   "Ứng cử vào",
+   "그는 국회의원 선거에 출마했어요.",
+   "Ông ấy ra ứng cử bầu cử quốc hội."
+  ],
+  [
+   "찍다 (투표하다)",
+   "Jjikda (tupyohada)",
+   "Bỏ phiếu",
+   "투표소에 가서 한 표를 찍었어요.",
+   "Tôi đến điểm bỏ phiếu và bỏ một phiếu."
+  ],
+  [
+   "-에 당선되다",
+   "-e dangseondoeda",
+   "Được trúng cử vào",
+   "그는 시장에 당선되었어요.",
+   "Ông ấy đã trúng cử thị trưởng."
+  ],
+  [
+   "기권하다",
+   "Gigwonhada",
+   "Bỏ quyền bầu, không bỏ phiếu",
+   "투표하지 않고 기권하는 사람도 있어요.",
+   "Cũng có người không đi bầu."
+  ],
+  [
+   "-에 떨어지다 (낙선하다)",
+   "-e tteoreojida (nakseonhada)",
+   "Không trúng cử, trượt",
+   "그는 지난 선거에서 떨어졌어요.",
+   "Ông ấy đã trượt trong cuộc bầu cử vừa rồi."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 고 들다 — Xoáy vào",
+   "meaning": "Diễn tả thái độ CHỦ ĐỘNG, DAI DẲNG, quyết liệt lao vào làm một hành động (thường là tranh cãi, chất vấn, chống đối): 'xoáy vào…, lao vào…, cứ nhất quyết…'. Gắn 고 들다 vào thân động từ: 따지다 → 따지고 들다 (vặn vẹo, chất vấn tới cùng), 캐묻다 → 캐묻고 들다 (gặng hỏi), 반대하다 → 반대하고 들다 (cương quyết phản đối), 덤비다 → 덤비고 들다. Thường kèm sắc thái TIÊU CỰC hoặc gây khó chịu cho người nghe. Mẫu hay gặp: 따지고 들면 (nếu xét kỹ ra thì… = khi phân tích kỹ): 따지고 들면 모두 책임이 있어요 (xét cho cùng thì ai cũng có trách nhiệm). Phân biệt với 아/어 들다 khác (파고들다, 끼어들다 – từ ghép cố định). Văn nói và viết.",
+   "examples": [
+    "기자들이 후보에게 공약에 대해 따지고 들었어요. — Phóng viên xoáy vào chất vấn ứng viên về cam kết tranh cử.",
+    "야당은 정부의 예산안에 대해 반대하고 들었어요. — Đảng đối lập cương quyết phản đối dự thảo ngân sách của chính phủ.",
+    "그렇게 캐묻고 들면 대답하기 곤란해요. — Bạn cứ gặng hỏi như vậy thì khó trả lời lắm.",
+    "따지고 들면 이 문제는 모두의 책임이에요. — Xét cho cùng thì vấn đề này là trách nhiệm của tất cả."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Đảng nắm quyền điều hành chính phủ gọi là gì?",
+   "kr": "",
+   "options": [
+    "여당",
+    "야당",
+    "당원"
+   ],
+   "answer": "여당",
+   "explain": "여당 ↔ 야당."
+  },
+  {
+   "type": "choice",
+   "q": "Bầu cử tổng thống gọi tắt là gì?",
+   "kr": "",
+   "options": [
+    "대선",
+    "총선",
+    "당수"
+   ],
+   "answer": "대선",
+   "explain": "대통령 선거 → 대선."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 당선되다 là gì?",
+   "kr": "",
+   "options": [
+    "낙선하다 (떨어지다)",
+    "출마하다",
+    "가입하다"
+   ],
+   "answer": "낙선하다 (떨어지다)",
+   "explain": "당선 (trúng) ↔ 낙선 (trượt)."
+  },
+  {
+   "type": "choice",
+   "q": "Đứng ra ứng cử gọi là gì?",
+   "kr": "",
+   "options": [
+    "출마하다",
+    "기권하다",
+    "탈퇴하다"
+   ],
+   "answer": "출마하다",
+   "explain": "출마 = ra ứng cử."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Phóng viên xoáy vào chất vấn ứng viên.'",
+   "kr": "",
+   "options": [
+    "기자들이 후보에게 따지고 들었어요.",
+    "기자들이 후보에게 따져 들고 말았어요는.",
+    "기자들이 후보에게 따진 들었어요."
+   ],
+   "answer": "기자들이 후보에게 따지고 들었어요.",
+   "explain": "V고 들다."
+  },
+  {
+   "type": "choice",
+   "q": "'따지고 들면 모두의 책임이에요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Xét cho cùng thì là trách nhiệm của tất cả.",
+    "Nếu cãi nhau thì ai cũng có lỗi.",
+    "Hãy chất vấn mọi người."
+   ],
+   "answer": "Xét cho cùng thì là trách nhiệm của tất cả.",
+   "explain": "따지고 들면 = xét kỹ ra."
+  },
+  {
+   "type": "choice",
+   "q": "고 들다 thường mang sắc thái gì?",
+   "kr": "",
+   "options": [
+    "Dai dẳng, quyết liệt (thường tiêu cực)",
+    "Nhẹ nhàng, lịch sự",
+    "Hối tiếc"
+   ],
+   "answer": "Dai dẳng, quyết liệt (thường tiêu cực)",
+   "explain": "Xoáy vào, lao vào."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nghị sĩ đó đã rút khỏi đảng.",
+   "kr": "그 의원은 당에서 ___.",
+   "options": [
+    "탈퇴했어요",
+    "가입했어요",
+    "당선됐어요"
+   ],
+   "answer": "탈퇴했어요",
+   "explain": "N에서 탈퇴하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고 들다 với 반대하다: Đảng đối lập cương quyết phản đối dự thảo.",
+   "kr": "야당은 정부의 예산안에 대해 ___.",
+   "answer": [
+    "반대하고 들었어요",
+    "반대하고 들었다"
+   ],
+   "explain": "반대하고 들다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고 들다 với 캐묻다: Bạn cứ gặng hỏi như vậy thì khó trả lời.",
+   "kr": "그렇게 ___ 대답하기 곤란해요.",
+   "answer": [
+    "캐묻고 들면"
+   ],
+   "explain": "캐묻고 들면."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Bầu cử tổng thống diễn ra 5 năm một lần.",
+   "kr": "___은 5년마다 열려요.",
+   "answer": [
+    "대선"
+   ],
+   "explain": "대선."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ông ấy đã trúng cử thị trưởng.",
+   "kr": "그는 시장에 ___되었어요.",
+   "answer": [
+    "당선"
+   ],
+   "explain": "당선되다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Xét cho cùng thì đây là trách nhiệm của tất cả.",
+   "tokens": [
+    "따지고",
+    "들면",
+    "이",
+    "문제는",
+    "모두의",
+    "책임이에요"
+   ],
+   "answer": "따지고 들면 이 문제는 모두의 책임이에요",
+   "explain": "따지고 들면."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ông ấy ra ứng cử bầu cử quốc hội.",
+   "tokens": [
+    "그는",
+    "국회의원",
+    "선거에",
+    "출마했어요"
+   ],
+   "answer": "그는 국회의원 선거에 출마했어요",
+   "explain": "N에 출마하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ta cứ xoáy vào vặn vẹo từng lời tôi nói. (dùng 고 들다)",
+   "answer": [
+    "그는 제 말 하나하나를 따지고 들었어요.",
+    "그 사람은 제 말을 하나하나 따지고 들었어요.",
+    "그는 내 말 하나하나를 따지고 들었어요."
+   ],
+   "explain": "따지고 들다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Từ đủ 18 tuổi có thể tham gia bầu cử.",
+   "answer": [
+    "만 18세 이상이면 선거에 참여할 수 있어요.",
+    "만 18세가 넘으면 선거에 참여할 수 있어요.",
+    "18세 이상이면 투표할 수 있어요."
+   ],
+   "explain": "만 + tuổi."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy gia nhập chính đảng từ hồi đại học.",
+   "answer": [
+    "그는 대학생 때 정당에 가입했어요.",
+    "그는 대학교 때 정당에 가입했어요."
+   ],
+   "explain": "N에 가입하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국에서는 5년마다 대선을, 4년마다 총선을 치른다. 선거 때가 되면 여러 후보가 출마하고, 유권자들은 후보의 공약을 꼼꼼히 비교한 후 투표한다.",
+   "answer": "Ở Hàn Quốc, bầu cử tổng thống diễn ra 5 năm một lần, tổng tuyển cử 4 năm một lần. Đến mùa bầu cử, nhiều ứng cử viên ra tranh cử, và cử tri bỏ phiếu sau khi so sánh kỹ các cam kết của ứng viên.",
+   "explain": "선거를 치르다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 이번 주 수요일이 선거일인데 투표할 거예요?\n남자: 그날 출장이 있어서 투표를 못 할 것 같아요.\n여자: ( )",
+   "options": [
+    "그럼 사전 투표를 하면 돼요.",
+    "선거에 출마하세요.",
+    "당에 가입했어요?",
+    "대선은 내년이에요."
+   ],
+   "answer": "그럼 사전 투표를 하면 돼요.",
+   "explain": "Không đi bầu được → gợi ý bỏ phiếu sớm."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "그는 이번 시장 선거에 <출마하기로> 결심했다.",
+   "options": [
+    "입후보하기로",
+    "기권하기로",
+    "탈퇴하기로",
+    "낙선하기로"
+   ],
+   "answer": "입후보하기로",
+   "explain": "출마하다 = 입후보하다."
+  }
+ ]
+}

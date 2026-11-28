@@ -1,0 +1,395 @@
+{
+ "id": "bai-187",
+ "lesson": "Bài 187",
+ "title": "Văn hóa đại chúng (phần 2/4)",
+ "krTitle": "대중문화 2",
+ "date": "2027-08-16",
+ "day": 271,
+ "source": "TOPIK 5 – Bài 10: Văn hóa đại chúng (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "진부하다",
+   "Jinbuhada",
+   "Cũ rích",
+   "그 드라마는 내용이 너무 진부해요.",
+   "Nội dung phim đó quá cũ rích."
+  ],
+  [
+   "해학적이다",
+   "Haehakjeogida",
+   "Mang tính hài hước",
+   "탈춤에는 해학적인 장면이 많아요.",
+   "Múa mặt nạ có nhiều cảnh hài hước."
+  ],
+  [
+   "한류",
+   "Hallyu",
+   "Trào lưu Hàn, làn sóng Hàn",
+   "한류 덕분에 한국어를 배우는 사람이 늘었어요.",
+   "Nhờ làn sóng Hàn mà người học tiếng Hàn tăng lên."
+  ],
+  [
+   "수용하다",
+   "Suyonghada",
+   "Tiếp nhận",
+   "다른 나라의 문화를 열린 마음으로 수용해야 해요.",
+   "Phải tiếp nhận văn hóa nước khác với tâm thế cởi mở."
+  ],
+  [
+   "입지를 굳히다",
+   "Ipjireul guchida",
+   "Củng cố vị trí, cố định vị trí",
+   "그 가수는 이번 앨범으로 입지를 굳혔어요.",
+   "Ca sĩ đó đã củng cố vị trí nhờ album lần này."
+  ],
+  [
+   "문화 충돌",
+   "Munhwa chungdol",
+   "Xung đột văn hóa",
+   "해외에 살면서 문화 충돌을 겪었어요.",
+   "Sống ở nước ngoài tôi đã trải qua xung đột văn hóa."
+  ],
+  [
+   "급부상하다",
+   "Geupbusanghada",
+   "Nổi lên đột ngột",
+   "그 배우는 드라마 한 편으로 급부상했어요.",
+   "Diễn viên đó nổi lên đột ngột chỉ nhờ một bộ phim."
+  ],
+  [
+   "열풍을 일으키다",
+   "Yeolpungeul ireukida",
+   "Tạo nên làn sóng",
+   "그 노래는 전 세계에 열풍을 일으켰어요.",
+   "Bài hát đó tạo nên cơn sốt trên toàn thế giới."
+  ],
+  [
+   "문화상호주의",
+   "Munhwasanghojuui",
+   "Chủ nghĩa tương hỗ văn hóa",
+   "문화상호주의는 서로의 문화를 존중하는 태도예요.",
+   "Chủ nghĩa tương hỗ văn hóa là thái độ tôn trọng văn hóa của nhau."
+  ],
+  [
+   "인지도를 높이다",
+   "Injidoreul nopida",
+   "Nâng cao độ nhận biết",
+   "광고로 브랜드 인지도를 높였어요.",
+   "Đã nâng cao độ nhận biết thương hiệu nhờ quảng cáo."
+  ],
+  [
+   "우수성을 알리다",
+   "Ususeongeul allida",
+   "Quảng bá tính ưu việt",
+   "한글의 우수성을 세계에 알려야 해요.",
+   "Phải quảng bá tính ưu việt của Hangeul ra thế giới."
+  ],
+  [
+   "정신문화",
+   "Jeongsinmunhwa",
+   "Văn hóa tinh thần",
+   "효도는 한국 정신문화의 중요한 부분이에요.",
+   "Hiếu đạo là phần quan trọng của văn hóa tinh thần Hàn Quốc."
+  ],
+  [
+   "서민문화",
+   "Seominmunhwa",
+   "Văn hóa bình dân",
+   "탈춤은 대표적인 서민문화예요.",
+   "Múa mặt nạ là văn hóa bình dân tiêu biểu."
+  ],
+  [
+   "물질문화",
+   "Muljilmunhwa",
+   "Văn hóa vật chất",
+   "건물과 옷은 물질문화에 속해요.",
+   "Nhà cửa và quần áo thuộc về văn hóa vật chất."
+  ],
+  [
+   "양반문화",
+   "Yangbanmunhwa",
+   "Văn hóa thượng lưu, văn hóa của tầng lớp quý tộc Yangban thời Choson",
+   "시조는 양반문화를 보여 줘요.",
+   "Thơ sijo thể hiện văn hóa quý tộc."
+  ],
+  [
+   "엘리트문화",
+   "Elliteumunhwa",
+   "Văn hóa thượng đẳng, văn hóa cao cấp",
+   "오페라는 엘리트문화로 여겨졌어요.",
+   "Opera từng được xem là văn hóa thượng lưu."
+  ],
+  [
+   "선두주자",
+   "Seondujuja",
+   "Người đi đầu",
+   "그 회사는 스마트폰 시장의 선두주자예요.",
+   "Công ty đó là người dẫn đầu thị trường điện thoại thông minh."
+  ],
+  [
+   "계승하다",
+   "Gyeseunghada",
+   "Kế thừa",
+   "전통 음악을 계승하는 젊은이들이 있어요.",
+   "Có những người trẻ kế thừa âm nhạc truyền thống."
+  ],
+  [
+   "재조명하다",
+   "Jaejomyeonghada",
+   "Đánh giá lại",
+   "잊혀진 옛 가요를 재조명하는 방송이 인기예요.",
+   "Chương trình đánh giá lại những bài hát cũ bị lãng quên rất được yêu thích."
+  ],
+  [
+   "전파를 타다",
+   "Jeonpareul tada",
+   "Được phát sóng",
+   "그 공연은 전국에 전파를 탔어요.",
+   "Buổi biểu diễn đó được phát sóng toàn quốc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 기에(는) — Để mà",
+   "meaning": "Nêu TIÊU CHUẨN ĐÁNH GIÁ: 'để mà (làm việc gì) thì…', 'nếu xét để… thì…'. Vế sau là NHẬN XÉT / ĐÁNH GIÁ (tính từ): 많다, 적다, 부족하다, 좋다, 어렵다, 이르다 (sớm)… Gắn 기에(는) vào thân động từ: 먹다 → 먹기에는, 보다 → 보기에는, 배우다 → 배우기에. 는 thêm vào để nhấn mạnh sự đối lập. Mẫu hay gặp: '혼자 먹기에는 너무 많아요' (một mình ăn thì quá nhiều), '포기하기에는 아직 일러요' (bỏ cuộc thì vẫn còn sớm), '제가 보기에는…' (theo tôi thấy thì…). So sánh: 기에 좋다 ≈ 기 좋다 (dễ / tiện để làm), nhưng 기에(는) nhấn mạnh hơn 'nếu xét cho việc đó'. Lưu ý: 기에 còn có nghĩa 'vì' trong văn viết (sẽ học sau) — phân biệt nhờ vế sau là đánh giá.",
+   "examples": [
+    "이 공연장은 콘서트를 하기에는 너무 작아요. — Hội trường này để tổ chức hòa nhạc thì quá nhỏ.",
+    "이 노래는 따라 부르기에 좋아요. — Bài hát này dễ hát theo.",
+    "포기하기에는 아직 일러요. — Bỏ cuộc thì vẫn còn quá sớm.",
+    "제가 보기에는 이 드라마의 내용이 좀 진부해요. — Theo tôi thấy, nội dung phim này hơi cũ rích."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Làn sóng văn hóa Hàn Quốc lan ra thế giới gọi là gì?",
+   "kr": "",
+   "options": [
+    "한류",
+    "열풍",
+    "전파"
+   ],
+   "answer": "한류",
+   "explain": "한(Hàn) + 류(dòng chảy)."
+  },
+  {
+   "type": "choice",
+   "q": "Người/công ty dẫn đầu trong một lĩnh vực gọi là gì?",
+   "kr": "",
+   "options": [
+    "선두주자",
+    "서민문화",
+    "입지"
+   ],
+   "answer": "선두주자",
+   "explain": "선두 = đầu hàng; 주자 = người chạy."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bài hát đó tạo nên cơn sốt trên toàn thế giới.",
+   "kr": "그 노래는 전 세계에 ___을 일으켰어요.",
+   "options": [
+    "열풍",
+    "인지도",
+    "우수성"
+   ],
+   "answer": "열풍",
+   "explain": "열풍을 일으키다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nội dung phim quá cũ rích.",
+   "kr": "그 드라마는 내용이 너무 ___.",
+   "options": [
+    "진부해요",
+    "해학적이에요",
+    "급부상해요"
+   ],
+   "answer": "진부해요",
+   "explain": "진부하다 = nhàm, cũ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Một mình ăn thì quá nhiều.'",
+   "kr": "",
+   "options": [
+    "혼자 먹기에는 너무 많아요.",
+    "혼자 먹기에도 너무 먹어요.",
+    "혼자 먹어서는 너무 많아요."
+   ],
+   "answer": "혼자 먹기에는 너무 많아요.",
+   "explain": "V기에는 + đánh giá."
+  },
+  {
+   "type": "choice",
+   "q": "'포기하기에는 아직 일러요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Bỏ cuộc thì vẫn còn quá sớm.",
+    "Vì bỏ cuộc nên còn sớm.",
+    "Đã bỏ cuộc từ sớm."
+   ],
+   "answer": "Bỏ cuộc thì vẫn còn quá sớm.",
+   "explain": "이르다 = sớm."
+  },
+  {
+   "type": "choice",
+   "q": "Cụm '제가 보기에는' có nghĩa gì?",
+   "kr": "",
+   "options": [
+    "Theo tôi thấy thì",
+    "Để tôi xem",
+    "Vì tôi đã xem"
+   ],
+   "answer": "Theo tôi thấy thì",
+   "explain": "보기에는 = theo cách nhìn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Buổi biểu diễn được phát sóng toàn quốc.",
+   "kr": "그 공연은 전국에 ___ 탔어요.",
+   "options": [
+    "전파를",
+    "입지를",
+    "열풍을"
+   ],
+   "answer": "전파를",
+   "explain": "전파를 타다 = lên sóng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기에는 với 하다: Hội trường này tổ chức hòa nhạc thì quá nhỏ.",
+   "kr": "이 공연장은 콘서트를 ___ 너무 작아요.",
+   "answer": [
+    "하기에는",
+    "하기에"
+   ],
+   "explain": "하다 → 하기에는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기에 với 부르다: Bài hát này dễ hát theo.",
+   "kr": "이 노래는 따라 ___ 좋아요.",
+   "answer": [
+    "부르기에",
+    "부르기"
+   ],
+   "explain": "V기에 좋다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phải quảng bá tính ưu việt của Hangeul ra thế giới.",
+   "kr": "한글의 ___을 세계에 알려야 해요.",
+   "answer": [
+    "우수성"
+   ],
+   "explain": "우수성을 알리다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Có những người trẻ kế thừa âm nhạc truyền thống.",
+   "kr": "전통 음악을 ___하는 젊은이들이 있어요.",
+   "answer": [
+    "계승"
+   ],
+   "explain": "계승하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Theo tôi thấy, nội dung phim này hơi cũ.",
+   "tokens": [
+    "제가",
+    "보기에는",
+    "이",
+    "드라마의",
+    "내용이",
+    "좀",
+    "진부해요"
+   ],
+   "answer": "제가 보기에는 이 드라마의 내용이 좀 진부해요",
+   "explain": "보기에는."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhờ làn sóng Hàn mà người học tiếng Hàn tăng lên.",
+   "tokens": [
+    "한류",
+    "덕분에",
+    "한국어를",
+    "배우는",
+    "사람이",
+    "늘었어요"
+   ],
+   "answer": "한류 덕분에 한국어를 배우는 사람이 늘었어요",
+   "explain": "N 덕분에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Phòng này để sống bốn người thì quá chật. (dùng 기에는)",
+   "answer": [
+    "이 방은 네 명이 살기에는 너무 좁아요.",
+    "이 방은 네 사람이 살기에는 너무 좁아요.",
+    "이 방은 4명이 살기에는 너무 좁아요."
+   ],
+   "explain": "살기에는 + 좁다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Diễn viên đó nổi lên đột ngột nhờ một bộ phim.",
+   "answer": [
+    "그 배우는 드라마 한 편으로 급부상했어요.",
+    "그 배우는 드라마 하나로 급부상했어요.",
+    "그 배우는 영화 한 편으로 급부상했어요."
+   ],
+   "explain": "급부상하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sống ở nước ngoài tôi đã trải qua xung đột văn hóa.",
+   "answer": [
+    "해외에 살면서 문화 충돌을 겪었어요.",
+    "외국에 살면서 문화 충돌을 겪었어요.",
+    "해외에서 살면서 문화 충돌을 겪었어요."
+   ],
+   "explain": "겪다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한류가 세계적인 열풍을 일으키면서 한국의 인지도가 크게 높아졌다. 그러나 이것을 문화의 성공이라고 말하기에는 아직 이르다는 의견도 있다.",
+   "answer": "Khi làn sóng Hàn tạo nên cơn sốt toàn cầu, độ nhận biết về Hàn Quốc đã tăng mạnh. Tuy nhiên cũng có ý kiến cho rằng nói đây là thành công của văn hóa thì vẫn còn quá sớm.",
+   "explain": "말하기에는 이르다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 이번 주말에 판소리 공연 보러 갈래요?\n여자: 판소리요? 저는 처음이라서 이해하기에 어렵지 않을까요?\n남자: ( )",
+   "options": [
+    "한국어 자막이 나오니까 걱정하지 마세요.",
+    "판소리는 외국 음악이에요.",
+    "저는 주말에 일해야 해요.",
+    "공연은 어제 끝났어요."
+   ],
+   "answer": "한국어 자막이 나오니까 걱정하지 마세요.",
+   "explain": "Lo khó hiểu → trấn an."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그 결과 한국어를 배우는 외국인도 크게 늘었다.\n(나) 2000년대 초 한국 드라마가 아시아에서 인기를 얻기 시작했다.\n(다) 이후 K-pop이 전 세계에 열풍을 일으키면서 한류는 더 커졌다.",
+   "options": [
+    "(나)-(다)-(가)",
+    "(가)-(나)-(다)",
+    "(다)-(가)-(나)",
+    "(나)-(가)-(다)"
+   ],
+   "answer": "(나)-(다)-(가)",
+   "explain": "Bắt đầu (나) → 이후 (다) → 그 결과 (가)."
+  }
+ ]
+}

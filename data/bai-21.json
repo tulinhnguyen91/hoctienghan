@@ -1,0 +1,434 @@
+{
+ "id": "bai-21",
+ "lesson": "Bài 21",
+ "title": "Mua sắm P2 (phần 2/2)",
+ "krTitle": "쇼핑 2",
+ "date": "2026-12-08",
+ "day": 20,
+ "source": "TOPIK 2 – Bài 3: Mua sắm P2 (phần 2/2)",
+ "practice": {
+  "listening": "Nghe – Phần 1: Chọn đáp án đúng (1~4)",
+  "reading": "Đọc – Phần 3: Chọn đáp án sai (40~42)"
+ },
+ "words": [
+  [
+   "불편하다",
+   "Bulpyeonhada",
+   "Không thoải mái",
+   "이 신발은 좀 불편해요.",
+   "Đôi giày này hơi khó chịu."
+  ],
+  [
+   "귤",
+   "Gyul",
+   "Quả quýt",
+   "귤 한 봉지에 오천 원이에요.",
+   "Một túi quýt 5.000 won."
+  ],
+  [
+   "빠르다",
+   "Ppareuda",
+   "Nhanh",
+   "이 노트북은 빠르고 가벼워요.",
+   "Laptop này nhanh và nhẹ."
+  ],
+  [
+   "유행하다",
+   "Yuhaenghada",
+   "Thịnh hành, hợp mốt",
+   "요즘 이 디자인이 유행해요.",
+   "Dạo này thiết kế này đang thịnh hành."
+  ],
+  [
+   "기능",
+   "Gineung",
+   "Chức năng",
+   "이 휴대폰은 기능이 많아요.",
+   "Điện thoại này có nhiều chức năng."
+  ],
+  [
+   "샤프",
+   "Syapeu",
+   "Bút chì kim",
+   "샤프 한 자루 주세요.",
+   "Cho tôi một cây bút chì kim."
+  ],
+  [
+   "제품",
+   "Jepum",
+   "Sản phẩm",
+   "이 제품은 한국에서 만들었어요.",
+   "Sản phẩm này được làm ở Hàn Quốc."
+  ],
+  [
+   "기분",
+   "Gibun",
+   "Tâm trạng",
+   "새 옷을 사서 기분이 좋아요.",
+   "Mua quần áo mới nên tâm trạng vui."
+  ],
+  [
+   "설악산",
+   "Seoraksan",
+   "Núi Seorak",
+   "가을에 설악산에 가고 싶어요.",
+   "Mùa thu tôi muốn đi núi Seorak."
+  ],
+  [
+   "카드",
+   "Kadeu",
+   "Thẻ (tín dụng)",
+   "카드로 계산해도 돼요?",
+   "Tôi trả bằng thẻ được không?"
+  ],
+  [
+   "노트북",
+   "Noteubuk",
+   "Máy tính xách tay",
+   "노트북을 새로 샀어요.",
+   "Tôi mới mua laptop."
+  ],
+  [
+   "튼튼하다",
+   "Teunteunhada",
+   "Chắc chắn, bền",
+   "이 가방은 튼튼해요.",
+   "Cái túi này bền."
+  ],
+  [
+   "누구나",
+   "Nuguna",
+   "Ai cũng",
+   "이 제품은 누구나 쉽게 사용할 수 있어요.",
+   "Ai cũng có thể dùng sản phẩm này dễ dàng."
+  ],
+  [
+   "쉽게",
+   "Swipge",
+   "Một cách dễ dàng",
+   "인터넷으로 쉽게 주문할 수 있어요.",
+   "Có thể đặt hàng dễ dàng qua mạng."
+  ],
+  [
+   "팔다",
+   "Palda",
+   "Bán",
+   "이 가게에서 귤을 팔아요.",
+   "Cửa hàng này bán quýt."
+  ],
+  [
+   "다양하다",
+   "Dayanghada",
+   "Đa dạng",
+   "백화점에는 물건이 다양해요.",
+   "Ở trung tâm thương mại hàng hóa đa dạng."
+  ],
+  [
+   "슈퍼",
+   "Syupeo",
+   "Siêu thị",
+   "슈퍼에서 우유를 샀어요.",
+   "Tôi đã mua sữa ở siêu thị."
+  ],
+  [
+   "필요하다",
+   "Piryohada",
+   "Cần thiết",
+   "무엇이 필요해요?",
+   "Bạn cần gì?"
+  ],
+  [
+   "단어",
+   "Daneo",
+   "Từ vựng",
+   "오늘 단어를 열 개 외웠어요.",
+   "Hôm nay tôi đã thuộc 10 từ."
+  ],
+  [
+   "한라산",
+   "Hallasan",
+   "Núi Halla",
+   "한라산은 제주도에 있어요.",
+   "Núi Halla ở đảo Jeju."
+  ],
+  [
+   "디자인",
+   "Dijain",
+   "Thiết kế",
+   "디자인이 마음에 들어요.",
+   "Tôi ưng thiết kế này."
+  ],
+  [
+   "싱겁다",
+   "Singgeopda",
+   "Nhạt",
+   "국이 좀 싱거워요.",
+   "Canh hơi nhạt."
+  ],
+  [
+   "할인점",
+   "Harinjeom",
+   "Cửa hàng giảm giá",
+   "할인점에서 사니까 싸요.",
+   "Mua ở cửa hàng giảm giá nên rẻ."
+  ],
+  [
+   "만",
+   "Man",
+   "Chỉ",
+   "저는 이것만 사려고 해요.",
+   "Tôi định chỉ mua cái này."
+  ],
+  [
+   "싸다",
+   "Ssada",
+   "Gói; rẻ",
+   "선물을 예쁘게 싸 주세요.",
+   "Xin gói quà đẹp giúp tôi."
+  ],
+  [
+   "핸드백",
+   "Haendeubaek",
+   "Túi xách tay",
+   "엄마에게 핸드백을 선물했어요.",
+   "Tôi đã tặng mẹ túi xách."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 아/어도 되다 — Được phép, làm ... cũng được",
+   "meaning": "Xin phép hoặc cho phép: '… cũng được', '… được không?'. Chia như 아/어요: 입다 → 입어도 돼요, 보다 → 봐도 돼요, 하다 → 해도 돼요, 듣다 → 들어도 돼요. Hỏi xin phép: 아/어도 돼요? (Tôi … được không?). Trả lời: 네, 아/어도 돼요 / 네, 그럼요 hoặc 아니요, (으)면 안 돼요 (học sau) / 아니요, 지 마세요. Có thể thay 되다 bằng 괜찮다, 좋다: 입어도 괜찮아요.",
+   "examples": [
+    "이 옷을 입어도 돼요? — Tôi mặc áo này được không?",
+    "카드로 계산해도 돼요? — Tôi trả bằng thẻ được không?",
+    "네, 여기에 앉아도 돼요. — Vâng, ngồi đây cũng được.",
+    "내일 와도 괜찮아요. — Ngày mai đến cũng không sao."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi trả bằng thẻ được không?",
+   "kr": "카드로 ___?",
+   "options": [
+    "계산해도 돼요",
+    "계산하도 돼요",
+    "계산해서 돼요"
+   ],
+   "answer": "계산해도 돼요",
+   "explain": "하다 → 해 + 도 돼요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi mặc cái này được không?",
+   "kr": "이거 ___?",
+   "options": [
+    "입어도 돼요",
+    "입아도 돼요",
+    "입도 돼요"
+   ],
+   "answer": "입어도 돼요",
+   "explain": "입다 (nguyên âm ㅣ) → 입어도 돼요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Bạn ngồi đây cũng được.",
+   "kr": "여기에 ___.",
+   "options": [
+    "앉아도 돼요",
+    "앉어도 돼요",
+    "앉으도 돼요"
+   ],
+   "answer": "앉아도 돼요",
+   "explain": "앉다 (nguyên âm ㅏ) → 앉아도 돼요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Nghe nhạc ở đây được không?",
+   "kr": "여기에서 음악을 ___?",
+   "options": [
+    "들어도 돼요",
+    "듣어도 돼요",
+    "들도 돼요"
+   ],
+   "answer": "들어도 돼요",
+   "explain": "듣다 bất quy tắc ㄷ → 들어도 돼요."
+  },
+  {
+   "type": "choice",
+   "q": "Trả lời đúng cho câu: 사진을 찍어도 돼요? (không được)",
+   "kr": "",
+   "options": [
+    "아니요, 찍지 마세요.",
+    "네, 찍지 마세요.",
+    "아니요, 찍어도 돼요."
+   ],
+   "answer": "아니요, 찍지 마세요.",
+   "explain": "Không cho phép → 아니요 + 지 마세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Canh hơi nhạt.",
+   "kr": "국이 좀 ___.",
+   "options": [
+    "싱거워요",
+    "튼튼해요",
+    "유행해요"
+   ],
+   "answer": "싱거워요",
+   "explain": "싱겁다 → 싱거워요 (nhạt)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Dạo này thiết kế này đang thịnh hành.",
+   "kr": "요즘 이 디자인이 ___.",
+   "options": [
+    "유행해요",
+    "필요해요",
+    "불편해요"
+   ],
+   "answer": "유행해요",
+   "explain": "유행하다 = thịnh hành."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어도 돼요 vào 보다: Tôi xem cái này được không?",
+   "kr": "이것 좀 ___?",
+   "answer": [
+    "봐도 돼요",
+    "보아도 돼요"
+   ],
+   "explain": "보다 → 봐 + 도 돼요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어도 돼요 vào 교환하다: Ngày mai đổi hàng cũng được ạ.",
+   "kr": "내일 ___.",
+   "answer": [
+    "교환해도 돼요"
+   ],
+   "explain": "교환하다 → 교환해도 돼요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어도 괜찮아요 vào 늦다: Đến muộn một chút cũng không sao.",
+   "kr": "조금 ___.",
+   "answer": [
+    "늦어도 괜찮아요"
+   ],
+   "explain": "늦다 → 늦어도 괜찮아요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 만: Tôi chỉ cần cái này thôi.",
+   "kr": "저는 이것___ 필요해요.",
+   "answer": [
+    "만"
+   ],
+   "explain": "이것만 = chỉ cái này."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi mặc thử áo này được không?",
+   "tokens": [
+    "이",
+    "옷을",
+    "입어도",
+    "돼요"
+   ],
+   "answer": "이 옷을 입어도 돼요",
+   "explain": "입다 → 입어도 돼요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ai cũng có thể dùng dễ dàng.",
+   "tokens": [
+    "누구나",
+    "쉽게",
+    "사용할",
+    "수",
+    "있어요"
+   ],
+   "answer": "누구나 쉽게 사용할 수 있어요",
+   "explain": "누구나 = ai cũng; 쉽게 = dễ dàng."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi ngồi đây được không?",
+   "answer": [
+    "여기에 앉아도 돼요?",
+    "여기 앉아도 돼요?",
+    "여기에 앉아도 괜찮아요?",
+    "여기 앉아도 괜찮아요?"
+   ],
+   "explain": "앉다 → 앉아도 돼요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Xin gói quà giúp tôi.",
+   "answer": [
+    "선물을 싸 주세요.",
+    "선물 좀 싸 주세요.",
+    "선물을 포장해 주세요.",
+    "선물 좀 포장해 주세요."
+   ],
+   "explain": "싸다 (gói) → 싸 주세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mua quần áo mới nên tâm trạng tôi vui.",
+   "answer": [
+    "새 옷을 사서 기분이 좋아요.",
+    "새 옷을 사서 기분이 좋았어요."
+   ],
+   "explain": "사다 → 사서 (vì); 기분이 좋다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "할인점은 물건이 다양하고 싸니까 자주 가요.",
+   "answer": "Cửa hàng giảm giá hàng hóa đa dạng và rẻ nên tôi hay đi.",
+   "explain": "다양하다 = đa dạng; 싸니까 = vì rẻ."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nói về cái gì? (Dạng TOPIK câu 31~33)",
+   "kr": "이 노트북은 가볍고 튼튼해요. 기능도 많아요.",
+   "options": [
+    "제품",
+    "날씨",
+    "약속",
+    "가족"
+   ],
+   "answer": "제품",
+   "explain": "Mô tả laptop nhẹ, bền, nhiều chức năng → sản phẩm (제품)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu SAI với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "🛒 행복 할인점\n귤 1상자 15,000원 → 12,000원\n영업시간: 오전 10시 ~ 밤 10시\n카드 계산 가능\n교환·환불: 영수증이 있을 때 7일 안에",
+   "options": [
+    "귤을 15,000원에 팔아요.",
+    "카드로 계산해도 돼요.",
+    "밤 10시까지 문을 열어요.",
+    "영수증이 있을 때 교환할 수 있어요."
+   ],
+   "answer": "귤을 15,000원에 팔아요.",
+   "explain": "Giá đã giảm xuống 12.000 won, không phải 15.000."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "저는 지난주에 인터넷으로 핸드백을 주문했어요. 디자인은 예뻤지만 너무 작아서 불편했어요. 그래서 가게에 전화해서 물었어요. 직원이 말했어요. \"일주일 안에는 환불해도 돼요.\" 그래서 오늘 환불을 신청했어요.",
+   "options": [
+    "핸드백을 환불할 수 있었어요.",
+    "핸드백이 너무 커서 불편했어요.",
+    "저는 가게에서 핸드백을 샀어요.",
+    "핸드백의 디자인이 마음에 안 들었어요."
+   ],
+   "answer": "핸드백을 환불할 수 있었어요.",
+   "explain": "Nhân viên nói trong một tuần được hoàn tiền → đã đăng ký hoàn tiền. Túi nhỏ, mua qua mạng, thiết kế đẹp."
+  }
+ ]
+}

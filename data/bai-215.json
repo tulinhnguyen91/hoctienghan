@@ -1,0 +1,403 @@
+{
+ "id": "bai-215",
+ "lesson": "Bài 215",
+ "title": "Khoa học và tương lai (phần 1/4)",
+ "krTitle": "과학과 미래 1",
+ "date": "2027-09-27",
+ "day": 313,
+ "source": "TOPIK 6 – Bài 2: Khoa học và tương lai (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "기초과학",
+   "Gichogwahak",
+   "Khoa học cơ bản",
+   "기초과학이 발전해야 기술도 발전해요.",
+   "Khoa học cơ bản phát triển thì công nghệ mới phát triển."
+  ],
+  [
+   "생명공학",
+   "Saengmyeonggonghak",
+   "Công nghệ sinh học",
+   "생명공학으로 새로운 약을 개발했어요.",
+   "Đã phát triển thuốc mới nhờ công nghệ sinh học."
+  ],
+  [
+   "물리학",
+   "Mullihak",
+   "Vật lý học",
+   "물리학은 자연의 법칙을 연구하는 학문이에요.",
+   "Vật lý học là ngành nghiên cứu quy luật tự nhiên."
+  ],
+  [
+   "응용과학",
+   "Eungyonggwahak",
+   "Khoa học ứng dụng",
+   "응용과학은 기초과학을 생활에 이용해요.",
+   "Khoa học ứng dụng đem khoa học cơ bản vào đời sống."
+  ],
+  [
+   "항공우주공학",
+   "Hanggongujugonghak",
+   "Công nghệ học hàng không vũ trụ",
+   "항공우주공학을 전공해서 로켓을 만들고 싶어요.",
+   "Tôi muốn học kỹ thuật hàng không vũ trụ để chế tạo tên lửa."
+  ],
+  [
+   "화학",
+   "Hwahak",
+   "Hóa học",
+   "화학 실험은 조심해서 해야 해요.",
+   "Thí nghiệm hóa học phải làm cẩn thận."
+  ],
+  [
+   "유전공학",
+   "Yujeongonghak",
+   "Công nghệ học di truyền",
+   "유전공학으로 병에 강한 벼를 만들었어요.",
+   "Đã tạo ra giống lúa kháng bệnh nhờ công nghệ di truyền."
+  ],
+  [
+   "환경공학",
+   "Hwangyeonggonghak",
+   "Công nghệ học môi trường",
+   "환경공학자들은 오염 문제를 연구해요.",
+   "Các kỹ sư môi trường nghiên cứu vấn đề ô nhiễm."
+  ],
+  [
+   "생물학",
+   "Saengmulhak",
+   "Sinh vật học",
+   "생물학 시간에 세포를 관찰했어요.",
+   "Trong giờ sinh học đã quan sát tế bào."
+  ],
+  [
+   "신소재",
+   "Sinsojae",
+   "Nguyên liệu mới",
+   "신소재로 만든 옷은 가볍고 따뜻해요.",
+   "Áo làm từ vật liệu mới vừa nhẹ vừa ấm."
+  ],
+  [
+   "가상현실",
+   "Gasanghyeonsil",
+   "Thực tế ảo",
+   "가상현실 게임을 해 봤어요.",
+   "Tôi đã thử chơi game thực tế ảo."
+  ],
+  [
+   "복제",
+   "Bokje",
+   "Sự sao chép, nhân bản",
+   "동물 복제는 윤리적인 문제가 있어요.",
+   "Nhân bản động vật có vấn đề đạo đức."
+  ],
+  [
+   "나노",
+   "Nano",
+   "Nano",
+   "나노 기술로 아주 작은 로봇을 만들어요.",
+   "Làm robot siêu nhỏ bằng công nghệ nano."
+  ],
+  [
+   "유전자",
+   "Yujeonja",
+   "Gen di truyền",
+   "키는 유전자의 영향을 많이 받아요.",
+   "Chiều cao chịu nhiều ảnh hưởng của gen."
+  ],
+  [
+   "인공위성",
+   "Ingongwiseong",
+   "Vệ tinh nhân tạo",
+   "한국은 인공위성을 우주로 쏘아 올렸어요.",
+   "Hàn Quốc đã phóng vệ tinh nhân tạo lên vũ trụ."
+  ],
+  [
+   "고성능",
+   "Goseongneung",
+   "Công suất lớn, tính năng cao",
+   "고성능 컴퓨터가 필요해요.",
+   "Cần máy tính hiệu năng cao."
+  ],
+  [
+   "장기 이식",
+   "Janggi isik",
+   "Thay ghép nội tạng",
+   "장기 이식으로 환자의 생명을 구했어요.",
+   "Đã cứu sống bệnh nhân nhờ ghép tạng."
+  ],
+  [
+   "첨단 과학",
+   "Cheomdan gwahak",
+   "Khoa học công nghệ (hiện đại)",
+   "첨단 과학이 우리 생활을 바꾸고 있어요.",
+   "Khoa học tiên tiến đang thay đổi cuộc sống chúng ta."
+  ],
+  [
+   "창의력",
+   "Changuiryeok",
+   "Sức sáng tạo",
+   "아이들의 창의력을 키워 줘야 해요.",
+   "Phải nuôi dưỡng sức sáng tạo của trẻ."
+  ],
+  [
+   "특허",
+   "Teukeo",
+   "Chứng nhận độc quyền, sáng chế",
+   "그 회사는 새 기술로 특허를 받았어요.",
+   "Công ty đó đã được cấp bằng sáng chế cho công nghệ mới."
+  ],
+  [
+   "발명하다",
+   "Balmyeonghada",
+   "Phát minh",
+   "에디슨은 전구를 발명했어요.",
+   "Edison đã phát minh ra bóng đèn."
+  ],
+  [
+   "응용하다",
+   "Eungyonghada",
+   "Ứng dụng",
+   "이 원리를 응용해서 새 제품을 만들었어요.",
+   "Ứng dụng nguyên lý này để làm sản phẩm mới."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (ㄴ/는)다기에 — Vì nghe nói",
+   "meaning": "Nêu LÝ DO dựa trên điều NGHE ĐƯỢC từ người khác: 'vì nghe nói… nên (tôi)…'. Cấu tạo: (ㄴ/는)다고 하기에 (vì người ta nói là…) rút gọn → (ㄴ/는)다기에. Chia như câu gián tiếp: Động từ có patchim → 는다기에 (먹는다기에); không patchim → ㄴ다기에 (온다기에); Tính từ → 다기에 (좋다기에); Danh từ → (이)라기에 (전문가라기에); Quá khứ → 았/었다기에; Mệnh lệnh → (으)라기에; Rủ → 자기에; Hỏi → 냐기에. Vế sau là hành động của NGƯỜI NÓI, thường ở QUÁ KHỨ. Không dùng với mệnh lệnh/rủ rê ở vế sau. Gần nghĩa khẩu ngữ: (ㄴ/는)다고 해서. Văn phong hơi trang trọng / văn viết.",
+   "examples": [
+    "가상현실 체험관이 새로 열었다기에 가 봤어요. — Nghe nói khu trải nghiệm thực tế ảo mới mở nên tôi đã đi thử.",
+    "그 책이 재미있다기에 저도 샀어요. — Nghe nói cuốn sách đó hay nên tôi cũng mua.",
+    "친구가 아프다기에 병문안을 갔어요. — Nghe nói bạn ốm nên tôi đi thăm.",
+    "선생님이 일찍 오라기에 7시에 출발했어요. — Thầy bảo đến sớm nên tôi xuất phát lúc 7 giờ."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ngành dùng khoa học cơ bản để tạo ra công nghệ thực tế gọi là gì?",
+   "kr": "",
+   "options": [
+    "응용과학",
+    "기초과학",
+    "물리학"
+   ],
+   "answer": "응용과학",
+   "explain": "응용 = ứng dụng."
+  },
+  {
+   "type": "choice",
+   "q": "Quyền độc quyền đối với một phát minh gọi là gì?",
+   "kr": "",
+   "options": [
+    "특허",
+    "복제",
+    "신소재"
+   ],
+   "answer": "특허",
+   "explain": "특허 = bằng sáng chế."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hàn Quốc đã phóng vệ tinh nhân tạo.",
+   "kr": "한국은 ___을 우주로 쏘아 올렸어요.",
+   "options": [
+    "인공위성",
+    "가상현실",
+    "나노"
+   ],
+   "answer": "인공위성",
+   "explain": "인공위성."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đã cứu bệnh nhân nhờ ghép tạng.",
+   "kr": "___으로 환자의 생명을 구했어요.",
+   "options": [
+    "장기 이식",
+    "복제",
+    "특허"
+   ],
+   "answer": "장기 이식",
+   "explain": "장기 이식."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Nghe nói sách đó hay nên tôi cũng mua.'",
+   "kr": "",
+   "options": [
+    "그 책이 재미있다기에 저도 샀어요.",
+    "그 책이 재미있는다기에 저도 샀어요.",
+    "그 책이 재미있다기에 저도 사세요."
+   ],
+   "answer": "그 책이 재미있다기에 저도 샀어요.",
+   "explain": "Tính từ + 다기에; vế sau không là mệnh lệnh."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG: 'Nghe nói (người đó) là chuyên gia nên…'",
+   "kr": "",
+   "options": [
+    "전문가라기에",
+    "전문가다기에",
+    "전문가는다기에"
+   ],
+   "answer": "전문가라기에",
+   "explain": "N + (이)라기에."
+  },
+  {
+   "type": "choice",
+   "q": "'선생님이 일찍 오라기에 7시에 출발했어요.' 오라기에 là dạng gì?",
+   "kr": "",
+   "options": [
+    "Dẫn lời mệnh lệnh (bảo đến)",
+    "Dẫn lời rủ rê",
+    "Dẫn câu hỏi"
+   ],
+   "answer": "Dẫn lời mệnh lệnh (bảo đến)",
+   "explain": "(으)라기에."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Edison đã phát minh ra bóng đèn.",
+   "kr": "에디슨은 전구를 ___.",
+   "options": [
+    "발명했어요",
+    "응용했어요",
+    "복제했어요"
+   ],
+   "answer": "발명했어요",
+   "explain": "발명하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다기에 với 아프다: Nghe nói bạn ốm nên đi thăm.",
+   "kr": "친구가 ___ 병문안을 갔어요.",
+   "answer": [
+    "아프다기에"
+   ],
+   "explain": "Tính từ → 다기에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다기에 với 열다 (quá khứ): Nghe nói khu trải nghiệm mới mở nên đi thử.",
+   "kr": "가상현실 체험관이 새로 ___ 가 봤어요.",
+   "answer": [
+    "열었다기에"
+   ],
+   "explain": "았/었다기에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phải nuôi dưỡng sức sáng tạo của trẻ.",
+   "kr": "아이들의 ___을 키워 줘야 해요.",
+   "answer": [
+    "창의력"
+   ],
+   "explain": "창의력."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Cần máy tính hiệu năng cao.",
+   "kr": "___ 컴퓨터가 필요해요.",
+   "answer": [
+    "고성능"
+   ],
+   "explain": "고성능."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nghe nói bạn ốm nên tôi đi thăm.",
+   "tokens": [
+    "친구가",
+    "아프다기에",
+    "병문안을",
+    "갔어요"
+   ],
+   "answer": "친구가 아프다기에 병문안을 갔어요",
+   "explain": "다기에."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Khoa học tiên tiến đang thay đổi cuộc sống.",
+   "tokens": [
+    "첨단",
+    "과학이",
+    "우리",
+    "생활을",
+    "바꾸고",
+    "있어요"
+   ],
+   "answer": "첨단 과학이 우리 생활을 바꾸고 있어요",
+   "explain": "고 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nghe nói mai trời mưa nên tôi mang ô. (dùng 다기에)",
+   "answer": [
+    "내일 비가 온다기에 우산을 가져왔어요.",
+    "내일 비가 온다기에 우산을 챙겼어요.",
+    "내일 비가 온다기에 우산을 가지고 왔어요.",
+    "내일 비가 온다기에 우산을 가져갔어요."
+   ],
+   "explain": "온다기에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhân bản động vật có vấn đề đạo đức.",
+   "answer": [
+    "동물 복제는 윤리적인 문제가 있어요.",
+    "동물 복제에는 윤리적인 문제가 있어요."
+   ],
+   "explain": "윤리적."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã thử chơi game thực tế ảo.",
+   "answer": [
+    "가상현실 게임을 해 봤어요.",
+    "가상현실 게임을 해봤어요."
+   ],
+   "explain": "아/어 보다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "생명공학과 유전공학의 발전으로 장기 이식이나 난치병 치료가 가능해지고 있다. 그러나 인간 복제처럼 윤리적인 문제를 일으킬 수 있는 연구도 있어서 신중한 접근이 필요하다.",
+   "answer": "Nhờ sự phát triển của công nghệ sinh học và công nghệ di truyền, việc ghép tạng hay chữa bệnh nan y đang trở nên khả thi. Nhưng cũng có những nghiên cứu có thể gây vấn đề đạo đức như nhân bản người nên cần tiếp cận thận trọng.",
+   "explain": "아/어지다; 신중하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 요즘 기업들은 바로 돈이 되는 응용과학에만 투자하는 것 같아요.\n여자: 맞아요. 하지만 기초과학이 튼튼하지 않으면 새로운 기술도 나올 수 없어요. 당장 결과가 나오지 않아도 정부가 기초과학 연구를 꾸준히 지원해야 한다고 생각해요.",
+   "options": [
+    "정부가 기초과학을 꾸준히 지원해야 한다.",
+    "응용과학에만 투자해야 한다.",
+    "기초과학은 필요 없다.",
+    "기업은 연구를 하면 안 된다."
+   ],
+   "answer": "정부가 기초과학을 꾸준히 지원해야 한다.",
+   "explain": "정부가 기초과학 연구를 꾸준히 지원해야 한다."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "우주를 손끝으로!\n인공위성 만들기, 가상현실 우주여행 체험\n어린이 과학관 여름 특별전",
+   "options": [
+    "과학 전시회",
+    "여행사 광고",
+    "컴퓨터 판매",
+    "병원 안내"
+   ],
+   "answer": "과학 전시회",
+   "explain": "과학관 특별전."
+  }
+ ]
+}

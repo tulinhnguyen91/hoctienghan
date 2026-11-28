@@ -1,0 +1,384 @@
+{
+ "id": "bai-203",
+ "lesson": "Bài 203",
+ "title": "Cuộc đời của người Hàn Quốc (phần 3/4)",
+ "krTitle": "한국인의 일생 3",
+ "date": "2027-09-09",
+ "day": 295,
+ "source": "TOPIK 5 – Bài 14: Cuộc đời của người Hàn Quốc (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "위패를 모시다",
+   "Wipaereul mosida",
+   "Thờ bài vị của người chết",
+   "사당에 조상의 위패를 모셨어요.",
+   "Đã thờ bài vị tổ tiên ở từ đường."
+  ],
+  [
+   "잔치를 하다/열다/치르다/벌이다",
+   "Janchireul hada/yeolda/chireuda/beorida",
+   "Mở tiệc",
+   "할머니 생신에 큰 잔치를 열었어요.",
+   "Đã mở tiệc lớn mừng sinh nhật bà."
+  ],
+  [
+   "장례를 치르다",
+   "Jangnyereul chireuda",
+   "Làm lễ tang",
+   "마을 사람들이 함께 장례를 치렀어요.",
+   "Người trong làng cùng nhau lo tang lễ."
+  ],
+  [
+   "혼례를 올리다/치르다",
+   "Hollyereul ollida/chireuda",
+   "Tiến hành hôn lễ",
+   "두 사람은 전통 방식으로 혼례를 치렀어요.",
+   "Hai người làm hôn lễ theo kiểu truyền thống."
+  ],
+  [
+   "제사를 지내다/모시다/드리다",
+   "Jesareul jinaeda/mosida/deurida",
+   "Làm lễ cúng giỗ",
+   "우리 집은 일 년에 네 번 제사를 지내요.",
+   "Nhà tôi một năm cúng giỗ bốn lần."
+  ],
+  [
+   "백년가약",
+   "Baengnyeongayak",
+   "Bách niên gia ước; thề ước trọn đời bên nhau",
+   "두 사람은 백년가약을 맺었어요.",
+   "Hai người đã kết ước trăm năm."
+  ],
+  [
+   "백년해로",
+   "Baengnyeonhaero",
+   "Bách niên giai lão (sống trọn đời bên nhau)",
+   "신랑 신부가 백년해로하기를 바랍니다.",
+   "Chúc cô dâu chú rể bách niên giai lão."
+  ],
+  [
+   "선남선녀",
+   "Seonnamseonnyeo",
+   "Thiện nam, thiện nữ (từ chỉ người nam, người nữ tính cách tốt, trong hôn lễ từ này được dùng để chỉ cô dâu, chú rể)",
+   "오늘의 선남선녀를 큰 박수로 맞아 주세요.",
+   "Xin hãy đón cô dâu chú rể hôm nay bằng tràng pháo tay lớn."
+  ],
+  [
+   "천생연분",
+   "Cheonsaengyeonbun",
+   "Thiên sinh duyên phận (duyên số do trời định)",
+   "두 사람은 정말 천생연분이에요.",
+   "Hai người đúng là duyên trời định."
+  ],
+  [
+   "만수무강",
+   "Mansumugang",
+   "Vạn thọ vô cương (sống lâu, sống khỏe)",
+   "할아버지, 만수무강하세요.",
+   "Ông ơi, chúc ông sống lâu trăm tuổi."
+  ],
+  [
+   "무병장수",
+   "Mubyeongjangsu",
+   "Vô bệnh trường thọ (sống thọ, khỏe không bệnh tật)",
+   "새해에는 무병장수하시길 바랍니다.",
+   "Năm mới chúc ông bà vô bệnh trường thọ."
+  ],
+  [
+   "국수를 먹다",
+   "Guksureul meokda",
+   "Ăn lễ cưới (trong lễ cưới truyền thống thường tiếp đãi món mì này nên cách nói ăn mì là thể hiện ý nói ăn tiệc cưới giống như cách nói uống rượu mừng của Việt Nam)",
+   "언제 국수를 먹게 해 줄 거예요?",
+   "Bao giờ thì cho mọi người ăn cỗ cưới đây?"
+  ],
+  [
+   "세상을 뜨다",
+   "Sesangeul tteuda",
+   "Mất, lìa đời, tạ thế",
+   "할아버지께서 작년에 세상을 뜨셨어요.",
+   "Ông đã qua đời năm ngoái."
+  ],
+  [
+   "눈을 감다",
+   "Nuneul gamda",
+   "Nhắm mắt (qua đời); làm ngơ",
+   "할머니는 가족들이 지켜보는 가운데 편안히 눈을 감으셨어요.",
+   "Bà ra đi thanh thản trước sự chứng kiến của gia đình."
+  ],
+  [
+   "감소세",
+   "Gamsose",
+   "Xu thế giảm",
+   "출산율이 감소세를 보이고 있어요.",
+   "Tỉ lệ sinh đang có xu hướng giảm."
+  ],
+  [
+   "격식",
+   "Gyeoksik",
+   "Cách thức, nghi thức",
+   "요즘 결혼식은 격식을 덜 차려요.",
+   "Đám cưới dạo này ít câu nệ nghi thức hơn."
+  ],
+  [
+   "계승",
+   "Gyeseung",
+   "Sự kế thừa, sự kế vị",
+   "전통문화의 계승이 중요해요.",
+   "Sự kế thừa văn hóa truyền thống rất quan trọng."
+  ],
+  [
+   "관습",
+   "Gwanseup",
+   "Tập quán",
+   "나라마다 결혼 관습이 달라요.",
+   "Mỗi nước có tập quán cưới khác nhau."
+  ],
+  [
+   "군침이 돌다",
+   "Gunchimi dolda",
+   "Chảy nước dãi, nước miếng (thèm ăn; khao khát, thèm muốn điều gì đó)",
+   "맛있는 냄새에 군침이 돌았어요.",
+   "Mùi thơm làm tôi chảy nước miếng."
+  ],
+  [
+   "두드러지다",
+   "Dudeureojida",
+   "Nổi bật, rõ rệt",
+   "1인 가구가 두드러지게 늘었어요.",
+   "Hộ gia đình một người đã tăng rõ rệt."
+  ],
+  [
+   "맏며느리",
+   "Manmyeoneuri",
+   "Con dâu cả",
+   "맏며느리가 명절 음식을 준비해요.",
+   "Con dâu cả chuẩn bị đồ ăn ngày lễ."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Thành ngữ chúc vợ chồng sống với nhau đến già là gì?",
+   "kr": "",
+   "options": [
+    "백년해로",
+    "만수무강",
+    "무병장수"
+   ],
+   "answer": "백년해로",
+   "explain": "백년해로 = bách niên giai lão."
+  },
+  {
+   "type": "choice",
+   "q": "Duyên số do trời định gọi là gì?",
+   "kr": "",
+   "options": [
+    "천생연분",
+    "선남선녀",
+    "백년가약"
+   ],
+   "answer": "천생연분",
+   "explain": "천생연분."
+  },
+  {
+   "type": "choice",
+   "q": "'언제 국수를 먹게 해 줄 거예요?' có nghĩa là hỏi gì?",
+   "kr": "",
+   "options": [
+    "Bao giờ kết hôn?",
+    "Bao giờ nấu mì?",
+    "Bao giờ đi ăn nhà hàng?"
+   ],
+   "answer": "Bao giờ kết hôn?",
+   "explain": "국수를 먹다 = ăn cỗ cưới."
+  },
+  {
+   "type": "choice",
+   "q": "Cụm nào KHÔNG có nghĩa 'qua đời'?",
+   "kr": "",
+   "options": [
+    "군침이 돌다",
+    "세상을 뜨다",
+    "눈을 감다"
+   ],
+   "answer": "군침이 돌다",
+   "explain": "군침이 돌다 = thèm chảy nước miếng."
+  },
+  {
+   "type": "choice",
+   "q": "Lời chúc thọ người lớn tuổi phù hợp nhất là gì?",
+   "kr": "",
+   "options": [
+    "만수무강하세요",
+    "천생연분이에요",
+    "백년가약을 맺으세요"
+   ],
+   "answer": "만수무강하세요",
+   "explain": "만수무강 = sống lâu muôn tuổi."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn động từ đi với 제사:",
+   "kr": "제사를 ___",
+   "options": [
+    "지내다",
+    "열다",
+    "벌이다"
+   ],
+   "answer": "지내다",
+   "explain": "제사를 지내다/모시다/드리다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn động từ KHÔNG đi với 잔치:",
+   "kr": "잔치를 ___",
+   "options": [
+    "지내다",
+    "열다",
+    "벌이다"
+   ],
+   "answer": "지내다",
+   "explain": "잔치를 하다/열다/치르다/벌이다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tỉ lệ sinh đang có xu hướng giảm.",
+   "kr": "출산율이 ___를 보이고 있어요.",
+   "options": [
+    "감소세",
+    "계승",
+    "관습"
+   ],
+   "answer": "감소세",
+   "explain": "감소세 = xu hướng giảm."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hai người đúng là duyên trời định.",
+   "kr": "두 사람은 정말 ___이에요.",
+   "answer": [
+    "천생연분"
+   ],
+   "explain": "천생연분."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đám cưới dạo này ít câu nệ nghi thức.",
+   "kr": "요즘 결혼식은 ___을 덜 차려요.",
+   "answer": [
+    "격식"
+   ],
+   "explain": "격식을 차리다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Con dâu cả chuẩn bị đồ ăn ngày lễ.",
+   "kr": "___가 명절 음식을 준비해요.",
+   "answer": [
+    "맏며느리"
+   ],
+   "explain": "맏 = cả, đầu."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mỗi nước có tập quán cưới khác nhau.",
+   "kr": "나라마다 결혼 ___이 달라요.",
+   "answer": [
+    "관습"
+   ],
+   "explain": "관습."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hai người đã kết ước trăm năm.",
+   "tokens": [
+    "두",
+    "사람은",
+    "백년가약을",
+    "맺었어요"
+   ],
+   "answer": "두 사람은 백년가약을 맺었어요",
+   "explain": "백년가약을 맺다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hộ một người đã tăng rõ rệt.",
+   "tokens": [
+    "1인",
+    "가구가",
+    "두드러지게",
+    "늘었어요"
+   ],
+   "answer": "1인 가구가 두드러지게 늘었어요",
+   "explain": "두드러지게."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhà tôi một năm cúng giỗ bốn lần.",
+   "answer": [
+    "우리 집은 일 년에 네 번 제사를 지내요.",
+    "우리 집은 1년에 4번 제사를 지내요.",
+    "저희 집은 일 년에 네 번 제사를 지내요."
+   ],
+   "explain": "제사를 지내다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mùi thơm làm tôi chảy nước miếng.",
+   "answer": [
+    "맛있는 냄새에 군침이 돌았어요.",
+    "맛있는 냄새 때문에 군침이 돌았어요.",
+    "좋은 냄새에 군침이 돌았어요."
+   ],
+   "explain": "군침이 돌다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ông đã qua đời năm ngoái. (dùng 세상을 뜨다, kính ngữ)",
+   "answer": [
+    "할아버지께서 작년에 세상을 뜨셨어요.",
+    "할아버지가 작년에 세상을 뜨셨어요.",
+    "할아버지께서는 작년에 세상을 뜨셨어요."
+   ],
+   "explain": "뜨다 → 뜨셨어요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "예전에는 혼례와 장례를 마을 사람들이 함께 치렀지만, 요즘은 전문 업체에 맡기는 경우가 많다. 격식은 간단해졌지만 조상을 섬기는 관습은 계속 계승되고 있다.",
+   "answer": "Trước đây người trong làng cùng nhau lo hôn lễ và tang lễ, nhưng dạo này nhiều trường hợp giao cho công ty chuyên nghiệp. Nghi thức tuy đơn giản đi nhưng tập quán thờ phụng tổ tiên vẫn đang được kế thừa.",
+   "explain": "치르다, 격식, 계승되다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 이번 주말이 할머니 팔순이라서 잔치를 열기로 했어요.\n여자: 축하드려요. 식당은 예약하셨어요?\n남자: 아직요. 가족이 많아서 큰 방이 있는 곳을 찾고 있어요.\n여자: 우리 동네에 괜찮은 한식당이 있어요. 제가 전화번호를 보내 드릴게요.",
+   "options": [
+    "남자에게 식당 전화번호를 보낸다.",
+    "팔순 잔치에 간다.",
+    "식당을 예약한다.",
+    "할머니께 선물을 산다."
+   ],
+   "answer": "남자에게 식당 전화번호를 보낸다.",
+   "explain": "제가 전화번호를 보내 드릴게요."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "부모님의 만수무강을 기원합니다.\n칠순·팔순 잔치, 저희가 정성껏 준비해 드립니다.\n☎ 02-555-0123",
+   "options": [
+    "잔치 준비 서비스",
+    "장례 서비스",
+    "결혼 정보 회사",
+    "여행사"
+   ],
+   "answer": "잔치 준비 서비스",
+   "explain": "칠순·팔순 잔치를 준비."
+  }
+ ]
+}

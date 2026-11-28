@@ -1,0 +1,383 @@
+{
+ "id": "bai-188",
+ "lesson": "Bài 188",
+ "title": "Văn hóa đại chúng (phần 3/4)",
+ "krTitle": "대중문화 3",
+ "date": "2027-08-18",
+ "day": 273,
+ "source": "TOPIK 5 – Bài 10: Văn hóa đại chúng (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "전승하다",
+   "Jeonseunghada",
+   "Lưu truyền",
+   "판소리는 입에서 입으로 전승되었어요.",
+   "Pansori được lưu truyền từ miệng người này sang người khác."
+  ],
+  [
+   "전개되다",
+   "Jeongaedoeda",
+   "Được triển khai",
+   "이야기가 흥미롭게 전개돼요.",
+   "Câu chuyện được triển khai một cách thú vị."
+  ],
+  [
+   "자리매김하다",
+   "Jarimaegimhada",
+   "Chiếm vị trí",
+   "K-pop은 세계 음악 시장에서 자리매김했어요.",
+   "K-pop đã khẳng định vị trí trên thị trường âm nhạc thế giới."
+  ],
+  [
+   "감춰지다",
+   "Gamchwojida",
+   "Bị che giấu",
+   "가사 속에 감춰진 의미를 찾아보세요.",
+   "Hãy tìm ý nghĩa bị giấu trong lời bài hát."
+  ],
+  [
+   "곁들이다",
+   "Gyeotdeurida",
+   "Kèm theo, ăn kèm",
+   "고기에 김치를 곁들여 먹으면 맛있어요.",
+   "Ăn thịt kèm kimchi rất ngon."
+  ],
+  [
+   "고개를 돌리다",
+   "Gogaereul dollida",
+   "Ngoảnh mặt, trở nên lạnh nhạt",
+   "거짓말이 밝혀지자 팬들이 고개를 돌렸어요.",
+   "Khi lời nói dối bị lộ, người hâm mộ đã quay lưng."
+  ],
+  [
+   "고수",
+   "Gosu",
+   "Cao thủ; rau mùi",
+   "그는 장구의 고수예요.",
+   "Ông ấy là cao thủ đánh trống janggu."
+  ],
+  [
+   "광대",
+   "Gwangdae",
+   "Tên hề",
+   "옛날 광대들은 마을을 돌아다니며 공연했어요.",
+   "Các nghệ nhân hề ngày xưa đi khắp làng biểu diễn."
+  ],
+  [
+   "국한되다",
+   "Gukandoeda",
+   "Bị giới hạn",
+   "한류는 이제 아시아에 국한되지 않아요.",
+   "Làn sóng Hàn giờ không còn bị giới hạn ở châu Á."
+  ],
+  [
+   "규제책",
+   "Gyujechaek",
+   "Chính sách hạn chế",
+   "정부가 선정적인 방송에 대한 규제책을 내놓았어요.",
+   "Chính phủ đưa ra chính sách hạn chế các chương trình khiêu dâm."
+  ],
+  [
+   "난무하다",
+   "Nanmuhada",
+   "Tràn lan, hoành hành",
+   "인터넷에 가짜 뉴스가 난무하고 있어요.",
+   "Tin giả đang tràn lan trên mạng."
+  ],
+  [
+   "다가서다",
+   "Dagaseoda",
+   "Đến đứng gần, đến gần",
+   "그 가수는 팬들에게 친근하게 다가섰어요.",
+   "Ca sĩ đó đã tiếp cận người hâm mộ một cách gần gũi."
+  ],
+  [
+   "대중매체",
+   "Daejungmaeche",
+   "Phương tiện thông tin đại chúng",
+   "대중매체는 사람들의 생각에 큰 영향을 줘요.",
+   "Phương tiện truyền thông đại chúng ảnh hưởng lớn đến suy nghĩ con người."
+  ],
+  [
+   "동일시하다",
+   "Dongilsihada",
+   "Xem là đồng nhất, đánh đồng",
+   "드라마 속 인물과 배우를 동일시하면 안 돼요.",
+   "Không nên đánh đồng nhân vật trong phim với diễn viên."
+  ],
+  [
+   "매스미디어",
+   "Maeseumidieo",
+   "Phương tiện truyền thông",
+   "매스미디어의 발달로 정보가 빠르게 퍼져요.",
+   "Nhờ truyền thông phát triển, thông tin lan nhanh."
+  ],
+  [
+   "매출액",
+   "Maechuraek",
+   "Doanh thu, doanh số bán hàng",
+   "이번 앨범의 매출액이 역대 최고예요.",
+   "Doanh thu album lần này cao nhất từ trước đến nay."
+  ],
+  [
+   "물의를 일으키다",
+   "Muruireul ireukida",
+   "Gây xôn xao dư luận (tiêu cực)",
+   "그 연예인은 음주 운전으로 물의를 일으켰어요.",
+   "Nghệ sĩ đó gây xôn xao dư luận vì lái xe khi say."
+  ],
+  [
+   "민망하다",
+   "Minmanghada",
+   "Ngượng ngùng, khó xử",
+   "무대에서 실수를 해서 너무 민망했어요.",
+   "Mắc lỗi trên sân khấu nên tôi rất ngượng."
+  ],
+  [
+   "밀착되다",
+   "Milchakdoeda",
+   "Trở nên mật thiết",
+   "대중문화는 우리 생활과 밀착되어 있어요.",
+   "Văn hóa đại chúng gắn bó mật thiết với cuộc sống chúng ta."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 더니 — Vậy mà, thế mà",
+   "meaning": "Kể lại điều người nói ĐÃ TỰ MẮT THẤY / TRẢI NGHIỆM trong quá khứ (thường về NGƯỜI KHÁC hoặc sự vật), rồi nối với vế sau là (1) SỰ THAY ĐỔI / TƯƠNG PHẢN: 'trước thì… vậy mà giờ…' — 어제는 춥더니 오늘은 따뜻하네요 (hôm qua lạnh thế mà hôm nay ấm); hoặc (2) KẾT QUẢ tiếp theo: 'đã… rồi thì…' — 그렇게 열심히 연습하더니 결국 가수가 됐어요 (luyện tập chăm thế rồi cuối cùng thành ca sĩ). Gắn thẳng vào thân: 춥다 → 춥더니, 가다 → 가더니; N이다 → (이)더니. Chủ ngữ thường là NGÔI 3 (không dùng 'tôi'). Khác với 았/었더니 (Bài 167): 았/었더니 chủ ngữ là 'TÔI' làm gì rồi phát hiện ra…; còn 더니 là quan sát người/vật khác. Thành ngữ: '…다더니' = 'người ta nói… quả đúng là…'.",
+   "examples": [
+    "어제는 비가 오더니 오늘은 날씨가 맑네요. — Hôm qua mưa thế mà hôm nay trời quang rồi.",
+    "그 가수는 처음에는 인기가 없더니 요즘은 세계적인 스타가 됐어요. — Ca sĩ đó lúc đầu không nổi tiếng, vậy mà giờ đã thành ngôi sao thế giới.",
+    "민수 씨가 매일 연습하더니 결국 춤 대회에서 1등을 했어요. — Min-su ngày nào cũng luyện tập, rốt cuộc đã đạt giải nhất cuộc thi nhảy.",
+    "동생이 아까부터 배가 아프다고 하더니 병원에 갔어요. — Em tôi từ lúc nãy kêu đau bụng rồi đã đi bệnh viện."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Người có kỹ năng rất cao trong một lĩnh vực gọi là gì?",
+   "kr": "",
+   "options": [
+    "고수",
+    "광대",
+    "매출액"
+   ],
+   "answer": "고수",
+   "explain": "고수 = cao thủ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tin giả đang tràn lan trên mạng.",
+   "kr": "인터넷에 가짜 뉴스가 ___고 있어요.",
+   "options": [
+    "난무하",
+    "다가서",
+    "밀착되"
+   ],
+   "answer": "난무하",
+   "explain": "난무하다 = hoành hành, tràn lan."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nghệ sĩ đó gây xôn xao dư luận vì lái xe khi say.",
+   "kr": "그 연예인은 음주 운전으로 ___.",
+   "options": [
+    "물의를 일으켰어요",
+    "고개를 돌렸어요",
+    "자리매김했어요"
+   ],
+   "answer": "물의를 일으켰어요",
+   "explain": "물의를 일으키다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Làn sóng Hàn giờ không còn bị giới hạn ở châu Á.",
+   "kr": "한류는 이제 아시아에 ___ 않아요.",
+   "options": [
+    "국한되지",
+    "전승되지",
+    "감춰지지"
+   ],
+   "answer": "국한되지",
+   "explain": "N에 국한되다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Hôm qua mưa thế mà hôm nay trời quang.'",
+   "kr": "",
+   "options": [
+    "어제는 비가 오더니 오늘은 맑네요.",
+    "어제는 비가 왔더니 오늘은 맑네요.",
+    "어제는 비가 오니 오늘은 맑네요."
+   ],
+   "answer": "어제는 비가 오더니 오늘은 맑네요.",
+   "explain": "Quan sát thay đổi → 더니."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 았/었더니 (chủ ngữ là TÔI) đúng?",
+   "kr": "",
+   "options": [
+    "제가 창문을 열었더니 시원한 바람이 들어왔어요.",
+    "제가 창문을 열더니 시원한 바람이 들어왔어요.",
+    "동생이 창문을 열었더니 제가 추웠어요."
+   ],
+   "answer": "제가 창문을 열었더니 시원한 바람이 들어왔어요.",
+   "explain": "Tôi làm → phát hiện: 았/었더니."
+  },
+  {
+   "type": "choice",
+   "q": "Chủ ngữ của vế trước khi dùng 더니 thường là ai?",
+   "kr": "",
+   "options": [
+    "Người/vật khác (ngôi 3)",
+    "Luôn là 'tôi'",
+    "Không có chủ ngữ"
+   ],
+   "answer": "Người/vật khác (ngôi 3)",
+   "explain": "더니 = người nói quan sát người khác."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Không nên đánh đồng nhân vật trong phim với diễn viên.",
+   "kr": "드라마 속 인물과 배우를 ___ 안 돼요.",
+   "options": [
+    "동일시하면",
+    "곁들이면",
+    "전개되면"
+   ],
+   "answer": "동일시하면",
+   "explain": "동일시하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 더니 với 연습하다: Min-su ngày nào cũng luyện, rốt cuộc đạt giải nhất.",
+   "kr": "민수 씨가 매일 ___ 결국 1등을 했어요.",
+   "answer": [
+    "연습하더니"
+   ],
+   "explain": "연습하다 → 연습하더니."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 더니 với 없다: Ca sĩ đó lúc đầu không nổi tiếng, vậy mà giờ thành ngôi sao.",
+   "kr": "그 가수는 처음에는 인기가 ___ 요즘은 스타가 됐어요.",
+   "answer": [
+    "없더니"
+   ],
+   "explain": "없다 → 없더니."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ăn thịt kèm kimchi rất ngon.",
+   "kr": "고기에 김치를 ___ 먹으면 맛있어요.",
+   "answer": [
+    "곁들여"
+   ],
+   "explain": "곁들이다 → 곁들여."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Doanh thu album lần này cao nhất từ trước đến nay.",
+   "kr": "이번 앨범의 ___이 역대 최고예요.",
+   "answer": [
+    "매출액"
+   ],
+   "explain": "매출액."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hôm qua lạnh thế mà hôm nay ấm nhỉ.",
+   "tokens": [
+    "어제는",
+    "춥더니",
+    "오늘은",
+    "따뜻하네요"
+   ],
+   "answer": "어제는 춥더니 오늘은 따뜻하네요",
+   "explain": "A더니 + tương phản."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: K-pop đã khẳng định vị trí trên thị trường âm nhạc thế giới.",
+   "tokens": [
+    "K-pop은",
+    "세계",
+    "음악",
+    "시장에서",
+    "자리매김했어요"
+   ],
+   "answer": "K-pop은 세계 음악 시장에서 자리매김했어요",
+   "explain": "자리매김하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hồi nhỏ em tôi ghét rau, vậy mà giờ rất thích. (dùng 더니)",
+   "answer": [
+    "동생은 어릴 때 채소를 싫어하더니 지금은 아주 좋아해요.",
+    "동생이 어렸을 때 채소를 싫어하더니 지금은 아주 좋아해요.",
+    "동생은 어릴 때 야채를 싫어하더니 지금은 아주 좋아해요.",
+    "동생은 어릴 때 채소를 싫어하더니 이제는 아주 좋아해요."
+   ],
+   "explain": "싫어하더니 + 지금은."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mắc lỗi trên sân khấu nên tôi rất ngượng.",
+   "answer": [
+    "무대에서 실수를 해서 너무 민망했어요.",
+    "무대에서 실수해서 너무 민망했어요.",
+    "무대에서 실수를 해서 정말 민망했어요."
+   ],
+   "explain": "민망하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Văn hóa đại chúng gắn bó mật thiết với cuộc sống.",
+   "answer": [
+    "대중문화는 우리 생활과 밀착되어 있어요.",
+    "대중문화는 생활과 밀착되어 있어요.",
+    "대중문화는 우리 생활과 밀착돼 있어요."
+   ],
+   "explain": "밀착되다 + 아/어 있다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "그 배우는 몇 년 전에는 무명이더니 드라마 한 편으로 스타가 되었다. 하지만 최근 물의를 일으키자 팬들이 하나둘 고개를 돌리고 있다.",
+   "answer": "Diễn viên đó vài năm trước còn vô danh, vậy mà chỉ nhờ một bộ phim đã trở thành ngôi sao. Nhưng gần đây khi gây xôn xao dư luận, người hâm mộ lần lượt quay lưng.",
+   "explain": "N(이)더니; V자."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 수미 씨, 아까부터 계속 휴대폰만 보더니 무슨 일 있어요?\n여자: 좋아하는 가수 콘서트 표 예매가 시작됐는데 사이트에 접속이 안 돼요.\n남자: 그럼 제 노트북으로 한번 해 보세요.\n여자: 고마워요. 빨리 해 볼게요.",
+   "options": [
+    "남자의 노트북으로 표를 예매한다.",
+    "콘서트에 간다.",
+    "휴대폰을 새로 산다.",
+    "남자에게 표를 판다."
+   ],
+   "answer": "남자의 노트북으로 표를 예매한다.",
+   "explain": "제 노트북으로 해 보세요 → 빨리 해 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "예전의 판소리는 광대들이 시장이나 마을에서 공연하는 서민의 예술이었다. 그런데 시간이 지나면서 양반들도 판소리를 즐기게 되었다. 이처럼 판소리는 (     ) 모든 계층이 즐기는 예술로 자리매김하였다.",
+   "options": [
+    "서민 문화에 국한되지 않고",
+    "양반만 즐기면서",
+    "시장에서 사라지면서",
+    "광대들이 공연을 그만두면서"
+   ],
+   "answer": "서민 문화에 국한되지 않고",
+   "explain": "서민 → 양반도 → 모든 계층."
+  }
+ ]
+}

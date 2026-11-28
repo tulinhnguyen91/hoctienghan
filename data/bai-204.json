@@ -1,0 +1,390 @@
+{
+ "id": "bai-204",
+ "lesson": "Bài 204",
+ "title": "Cuộc đời của người Hàn Quốc (phần 4/4)",
+ "krTitle": "한국인의 일생 4",
+ "date": "2027-09-11",
+ "day": 297,
+ "source": "TOPIK 5 – Bài 14: Cuộc đời của người Hàn Quốc (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "문헌",
+   "Munheon",
+   "Tài liệu, văn kiện, văn thư",
+   "옛 문헌에 전통 혼례 방법이 기록되어 있어요.",
+   "Cách làm hôn lễ truyền thống được ghi lại trong văn bản xưa."
+  ],
+  [
+   "베풀다",
+   "Bepulda",
+   "Ban phát, mở (tiệc), làm (ơn)",
+   "할아버지는 이웃에게 인정을 많이 베푸셨어요.",
+   "Ông đã ban nhiều ân tình cho hàng xóm."
+  ],
+  [
+   "부유층",
+   "Buyucheung",
+   "Tầng lớp giàu có",
+   "옛날에는 부유층만 큰 잔치를 할 수 있었어요.",
+   "Ngày xưa chỉ tầng lớp giàu mới mở tiệc lớn được."
+  ],
+  [
+   "섬기다",
+   "Seomgida",
+   "Phụng sự, hầu hạ (cha mẹ)",
+   "그는 평생 부모님을 정성껏 섬겼어요.",
+   "Anh ấy cả đời hết lòng phụng dưỡng cha mẹ."
+  ],
+  [
+   "성대하게",
+   "Seongdaehage",
+   "Một cách linh đình, long trọng",
+   "회갑 잔치를 성대하게 열었어요.",
+   "Đã tổ chức tiệc mừng thọ 60 linh đình."
+  ],
+  [
+   "세대",
+   "Sedae",
+   "Thế hệ, một thế hệ",
+   "세대가 바뀌면서 결혼 문화도 바뀌었어요.",
+   "Thế hệ thay đổi nên văn hóa cưới hỏi cũng thay đổi."
+  ],
+  [
+   "앞장서다",
+   "Apjangseoda",
+   "Đứng đầu, đứng trước",
+   "그는 늘 어려운 일에 앞장서요.",
+   "Anh ấy luôn đi đầu trong việc khó."
+  ],
+  [
+   "연령층",
+   "Yeollyeongcheung",
+   "Lớp tuổi, phân theo tuổi",
+   "다양한 연령층이 이 프로그램을 봐요.",
+   "Nhiều lứa tuổi khác nhau xem chương trình này."
+  ],
+  [
+   "유대감",
+   "Yudaegam",
+   "Tình cảm gần gũi",
+   "함께 여행하면서 가족의 유대감이 깊어졌어요.",
+   "Cùng đi du lịch, tình gắn bó gia đình sâu sắc hơn."
+  ],
+  [
+   "융통성",
+   "Yungtongseong",
+   "Tính mềm dẻo, tính uyển chuyển",
+   "규칙도 중요하지만 융통성이 있어야 해요.",
+   "Quy tắc quan trọng nhưng cũng phải linh hoạt."
+  ],
+  [
+   "위주",
+   "Wiju",
+   "Chủ yếu",
+   "요즘 결혼식은 가족 위주로 작게 해요.",
+   "Đám cưới dạo này làm nhỏ, chủ yếu là gia đình."
+  ],
+  [
+   "의뢰하다",
+   "Uiroehada",
+   "Nhờ, ủy thác",
+   "결혼 준비를 전문 업체에 의뢰했어요.",
+   "Đã nhờ công ty chuyên nghiệp chuẩn bị đám cưới."
+  ],
+  [
+   "인륜지대사",
+   "Illyunjidaesa",
+   "Sự kiện trọng đại trong cuộc đời",
+   "결혼은 인륜지대사라고 해요.",
+   "Người ta nói kết hôn là việc trọng đại của đời người."
+  ],
+  [
+   "일컫다",
+   "Ilkeotda",
+   "Gọi là, cho là, coi là",
+   "사람들은 그를 '한국의 슈바이처'라고 일컬어요.",
+   "Người ta gọi ông là 'Schweitzer của Hàn Quốc'."
+  ],
+  [
+   "주류를 이루다",
+   "Juryureul iruda",
+   "Chiếm phần chủ đạo",
+   "요즘은 작은 결혼식이 주류를 이루고 있어요.",
+   "Dạo này đám cưới nhỏ đang chiếm phần chủ đạo."
+  ],
+  [
+   "주목을 받다",
+   "Jumogeul batda",
+   "Nhận được sự chú ý",
+   "그 연구는 세계적으로 주목을 받았어요.",
+   "Nghiên cứu đó đã nhận được sự chú ý toàn cầu."
+  ],
+  [
+   "천수를 누리다",
+   "Cheonsureul nurida",
+   "Sống thọ",
+   "할머니는 백 세까지 천수를 누리셨어요.",
+   "Bà đã sống thọ đến trăm tuổi."
+  ],
+  [
+   "추세",
+   "Chuse",
+   "Xu hướng, xu thế",
+   "1인 가구가 늘어나는 추세예요.",
+   "Hộ một người đang có xu hướng tăng."
+  ],
+  [
+   "환경 친화적",
+   "Hwangyeong chinhwajeok",
+   "Một cách thân thiện với môi trường",
+   "환경 친화적인 장례 방법이 생겼어요.",
+   "Đã xuất hiện phương thức tang lễ thân thiện với môi trường."
+  ],
+  [
+   "희로애락",
+   "Huiroaerak",
+   "Hỷ nộ ái lạc",
+   "인생에는 희로애락이 있게 마련이에요.",
+   "Đời người lẽ đương nhiên có hỷ nộ ái lạc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 게 마련이다 — Đương nhiên",
+   "meaning": "Nói về QUY LUẬT TẤT YẾU, điều đương nhiên sẽ xảy ra theo lẽ tự nhiên: 'lẽ đương nhiên là…, ắt sẽ…, rồi cũng sẽ…'. Gắn 게 마련이다 vào thân động từ / tính từ (không chia thì): 늙다 → 늙게 마련이다, 변하다 → 변하게 마련이다, 힘들다 → 힘들게 마련이다. Hay đi cùng: 누구나, 사람은, 결국, 언젠가는, 시간이 지나면. Nghĩa gần như 기 마련이다 (sẽ học sau) và (으)ㄴ/는 법이다 (Bài 179 – lẽ thường). Không dùng cho việc cá nhân, ngẫu nhiên (✗ 나는 내일 늦게 마련이다). Câu phủ định thường là 'không phải bao giờ cũng…': 비싼 게 항상 좋게 마련은 아니다 (ít dùng).",
+   "examples": [
+    "사람은 누구나 늙게 마련이에요. — Ai rồi cũng sẽ già, đó là lẽ đương nhiên.",
+    "시간이 지나면 관습도 변하게 마련이에요. — Thời gian trôi qua thì tập quán ắt cũng thay đổi.",
+    "처음에는 누구나 실수하게 마련이에요. — Lúc đầu ai cũng mắc lỗi là chuyện đương nhiên.",
+    "열심히 노력하면 좋은 결과가 있게 마련이에요. — Nỗ lực chăm chỉ thì ắt sẽ có kết quả tốt."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Hỷ nộ ái lạc (vui, giận, buồn, sướng) tiếng Hàn là gì?",
+   "kr": "",
+   "options": [
+    "희로애락",
+    "인륜지대사",
+    "천수"
+   ],
+   "answer": "희로애락",
+   "explain": "희(vui) 로(giận) 애(buồn) 락(sướng)."
+  },
+  {
+   "type": "choice",
+   "q": "Việc trọng đại nhất trong đời người (như kết hôn) gọi là gì?",
+   "kr": "",
+   "options": [
+    "인륜지대사",
+    "주류",
+    "문헌"
+   ],
+   "answer": "인륜지대사",
+   "explain": "인륜지대사."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đã tổ chức tiệc mừng thọ linh đình.",
+   "kr": "회갑 잔치를 ___ 열었어요.",
+   "options": [
+    "성대하게",
+    "위주로",
+    "앞장서서"
+   ],
+   "answer": "성대하게",
+   "explain": "성대하다 = linh đình."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Quy tắc quan trọng nhưng cũng phải linh hoạt.",
+   "kr": "규칙도 중요하지만 ___이 있어야 해요.",
+   "options": [
+    "융통성",
+    "유대감",
+    "연령층"
+   ],
+   "answer": "융통성",
+   "explain": "융통성 = tính linh hoạt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Ai rồi cũng sẽ già.'",
+   "kr": "",
+   "options": [
+    "사람은 누구나 늙게 마련이에요.",
+    "사람은 누구나 늙은 마련이에요.",
+    "사람은 누구나 늙기 마련해요."
+   ],
+   "answer": "사람은 누구나 늙게 마련이에요.",
+   "explain": "V게 마련이다."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 게 마련이다 SAI?",
+   "kr": "",
+   "options": [
+    "저는 내일 학교에 늦게 마련이에요.",
+    "시간이 지나면 잊게 마련이에요.",
+    "처음에는 누구나 실수하게 마련이에요."
+   ],
+   "answer": "저는 내일 학교에 늦게 마련이에요.",
+   "explain": "Việc cá nhân, cụ thể → không dùng."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với 게 마련이다?",
+   "kr": "",
+   "options": [
+    "(으)ㄴ/는 법이다",
+    "(으)ㄹ 뻔하다",
+    "아/어 버리다"
+   ],
+   "answer": "(으)ㄴ/는 법이다",
+   "explain": "Cả hai = lẽ thường, quy luật."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hộ một người đang có xu hướng tăng.",
+   "kr": "1인 가구가 늘어나는 ___예요.",
+   "options": [
+    "추세",
+    "세대",
+    "문헌"
+   ],
+   "answer": "추세",
+   "explain": "추세 = xu hướng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 게 마련이다 với 변하다: Thời gian trôi qua thì tập quán ắt thay đổi.",
+   "kr": "시간이 지나면 관습도 ___.",
+   "answer": [
+    "변하게 마련이에요",
+    "변하게 마련이다"
+   ],
+   "explain": "변하게 마련이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 게 마련이다 với 있다: Nỗ lực thì ắt có kết quả tốt.",
+   "kr": "열심히 노력하면 좋은 결과가 ___.",
+   "answer": [
+    "있게 마련이에요",
+    "있게 마련이다"
+   ],
+   "explain": "있게 마련이에요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Anh ấy luôn đi đầu trong việc khó.",
+   "kr": "그는 늘 어려운 일에 ___.",
+   "answer": [
+    "앞장서요"
+   ],
+   "explain": "앞장서다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đám cưới dạo này làm nhỏ, chủ yếu là gia đình.",
+   "kr": "요즘 결혼식은 가족 ___로 작게 해요.",
+   "answer": [
+    "위주"
+   ],
+   "explain": "N 위주로."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Lúc đầu ai cũng mắc lỗi là chuyện đương nhiên.",
+   "tokens": [
+    "처음에는",
+    "누구나",
+    "실수하게",
+    "마련이에요"
+   ],
+   "answer": "처음에는 누구나 실수하게 마련이에요",
+   "explain": "게 마련이에요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nghiên cứu đó nhận được sự chú ý toàn cầu.",
+   "tokens": [
+    "그",
+    "연구는",
+    "세계적으로",
+    "주목을",
+    "받았어요"
+   ],
+   "answer": "그 연구는 세계적으로 주목을 받았어요",
+   "explain": "주목을 받다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Xa nhau lâu thì ắt sẽ quên. (dùng 게 마련이다)",
+   "answer": [
+    "오래 떨어져 있으면 잊게 마련이에요.",
+    "오랫동안 떨어져 있으면 잊게 마련이에요.",
+    "오래 헤어져 있으면 잊게 마련이에요."
+   ],
+   "explain": "잊게 마련이다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bà đã sống thọ đến trăm tuổi.",
+   "answer": [
+    "할머니는 백 세까지 천수를 누리셨어요.",
+    "할머니께서는 백 살까지 천수를 누리셨어요.",
+    "할머니는 100세까지 천수를 누리셨어요."
+   ],
+   "explain": "천수를 누리다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đã nhờ công ty chuyên nghiệp chuẩn bị đám cưới.",
+   "answer": [
+    "결혼 준비를 전문 업체에 의뢰했어요.",
+    "결혼 준비를 전문 회사에 의뢰했어요."
+   ],
+   "explain": "N에 의뢰하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "옛 문헌을 보면 과거에는 부유층을 중심으로 회갑 잔치를 성대하게 베풀었다. 그러나 평균 수명이 길어지면서 요즘은 가족 위주의 작은 잔치가 주류를 이루고 있다.",
+   "answer": "Theo văn bản xưa, trước đây tiệc mừng thọ 60 được tổ chức linh đình chủ yếu trong tầng lớp giàu có. Nhưng khi tuổi thọ trung bình dài hơn, dạo này tiệc nhỏ chủ yếu trong gia đình đang chiếm phần chủ đạo.",
+   "explain": "주류를 이루다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 최근 결혼식 문화가 크게 달라지고 있습니다. 많은 하객을 초대하는 대신 가족과 가까운 친구들만 초대하는 작은 결혼식이 늘고 있습니다. 또 비용을 아껴서 신혼집을 마련하거나 기부를 하는 부부도 있습니다. 전문가들은 이런 추세가 앞으로 계속될 것이라고 봅니다.",
+   "options": [
+    "작은 결혼식을 하는 사람이 늘고 있다.",
+    "하객을 많이 초대하는 결혼식이 늘고 있다.",
+    "결혼식 비용을 기부하는 사람은 없다.",
+    "전문가들은 이 추세가 곧 끝난다고 본다."
+   ],
+   "answer": "작은 결혼식을 하는 사람이 늘고 있다.",
+   "explain": "작은 결혼식이 늘고 있습니다."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu ĐÚNG. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【연령층별 선호하는 결혼식 형태】\n· 20대: 작은 결혼식 62%\n· 30대: 작은 결혼식 48%\n· 50대: 일반 결혼식 71%",
+   "options": [
+    "50대는 일반 결혼식을 더 좋아한다.",
+    "20대는 일반 결혼식을 더 좋아한다.",
+    "30대의 절반 이상이 작은 결혼식을 원한다.",
+    "모든 연령층이 작은 결혼식을 좋아한다."
+   ],
+   "answer": "50대는 일반 결혼식을 더 좋아한다.",
+   "explain": "50대: 일반 결혼식 71%."
+  }
+ ]
+}

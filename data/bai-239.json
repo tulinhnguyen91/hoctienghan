@@ -1,0 +1,404 @@
+{
+ "id": "bai-239",
+ "lesson": "Bài 239",
+ "title": "Xã hội hiện đại và thể thao (phần 3/5)",
+ "krTitle": "현대 사회와 스포츠 3",
+ "date": "2027-11-02",
+ "day": 349,
+ "source": "TOPIK 6 – Bài 7: Xã hội hiện đại và thể thao (phần 3/5)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "페어플레이",
+   "Peeopeullei",
+   "Chơi đẹp",
+   "승패보다 페어플레이가 더 중요해요.",
+   "Chơi đẹp quan trọng hơn thắng thua."
+  ],
+  [
+   "라이벌",
+   "Raibeol",
+   "Đối thủ",
+   "두 선수는 오랜 라이벌이에요.",
+   "Hai vận động viên là đối thủ lâu năm."
+  ],
+  [
+   "스포츠맨십",
+   "Seupocheumaensip",
+   "Tinh thần thể thao",
+   "진 팀이 이긴 팀에게 박수를 치는 것이 스포츠맨십이에요.",
+   "Đội thua vỗ tay cho đội thắng là tinh thần thể thao."
+  ],
+  [
+   "심신 단련",
+   "Simsin dallyeon",
+   "Huấn luyện tinh thần và thể chất",
+   "태권도는 심신 단련에 좋아요.",
+   "Taekwondo tốt cho rèn luyện thân và tâm."
+  ],
+  [
+   "단합",
+   "Danhap",
+   "Sự đoàn kết",
+   "체육 대회로 회사 직원들의 단합이 잘됐어요.",
+   "Nhờ đại hội thể thao mà nhân viên công ty đoàn kết hơn."
+  ],
+  [
+   "스포츠 꿈나무",
+   "Seupocheu kkumnamu",
+   "Niềm hy vọng của thể thao",
+   "정부가 스포츠 꿈나무를 키우고 있어요.",
+   "Chính phủ đang nuôi dưỡng tài năng thể thao trẻ."
+  ],
+  [
+   "체력 증진",
+   "Cheryeong jeungjin",
+   "Tăng cường thể lực",
+   "매일 걷기는 체력 증진에 도움이 돼요.",
+   "Đi bộ mỗi ngày giúp tăng cường thể lực."
+  ],
+  [
+   "협회",
+   "Hyeopoe",
+   "Hiệp hội",
+   "대한축구협회가 새 감독을 발표했어요.",
+   "Hiệp hội bóng đá Hàn Quốc công bố HLV mới."
+  ],
+  [
+   "간주되다",
+   "Ganjudoeda",
+   "Được coi là",
+   "바둑도 스포츠로 간주돼요.",
+   "Cờ vây cũng được coi là thể thao."
+  ],
+  [
+   "겨냥하다",
+   "Gyeonyanghada",
+   "Nhắm vào, hướng tới",
+   "이 광고는 젊은 층을 겨냥했어요.",
+   "Quảng cáo này nhắm vào giới trẻ."
+  ],
+  [
+   "계량화",
+   "Gyeryanghwa",
+   "Sự định lượng hóa",
+   "선수의 실력을 계량화하기는 어려워요.",
+   "Định lượng hóa năng lực cầu thủ là điều khó."
+  ],
+  [
+   "공인되다",
+   "Gongindoeda",
+   "Được công nhận",
+   "이 기록은 세계 기록으로 공인되었어요.",
+   "Kỷ lục này đã được công nhận là kỷ lục thế giới."
+  ],
+  [
+   "구사하다",
+   "Gusahada",
+   "Dùng thuần thục",
+   "그 선수는 다양한 기술을 구사해요.",
+   "Vận động viên đó sử dụng thành thạo nhiều kỹ thuật."
+  ],
+  [
+   "구애를 받다",
+   "Guaereul batda",
+   "Bị bó buộc, bị câu nệ",
+   "수영은 나이에 구애를 받지 않는 운동이에요.",
+   "Bơi lội là môn không bị giới hạn bởi tuổi tác."
+  ],
+  [
+   "굳건히 하다",
+   "Gutgeonhi hada",
+   "Khẳng định, tăng cường",
+   "이번 승리로 1위 자리를 굳건히 했어요.",
+   "Nhờ chiến thắng này mà củng cố vững chắc vị trí số 1."
+  ],
+  [
+   "기구학",
+   "Giguhak",
+   "Động học cơ cấu",
+   "자전거는 기구학 원리를 이용한 기계예요.",
+   "Xe đạp là máy móc ứng dụng nguyên lý động học cơ cấu."
+  ],
+  [
+   "기반",
+   "Giban",
+   "Cơ bản, nền tảng",
+   "유소년 축구는 한국 축구의 기반이에요.",
+   "Bóng đá trẻ là nền tảng của bóng đá Hàn Quốc."
+  ],
+  [
+   "낭패를 보다",
+   "Nangpaereul boda",
+   "Gặp khó khăn, rơi vào tình trạng tiến thoái lưỡng nan",
+   "준비 없이 경기에 나갔다가 낭패를 봤어요.",
+   "Ra thi đấu không chuẩn bị nên đã gặp chuyện khốn đốn."
+  ],
+  [
+   "내수시장",
+   "Naesusijang",
+   "Thị trường nội địa",
+   "경기가 나빠서 내수시장이 얼어붙었어요.",
+   "Kinh tế xấu nên thị trường nội địa đóng băng."
+  ],
+  [
+   "노하우",
+   "Nohau",
+   "Know-how, bí quyết",
+   "베테랑 선수가 후배들에게 노하우를 전해 줬어요.",
+   "Vận động viên kỳ cựu đã truyền bí quyết cho đàn em."
+  ],
+  [
+   "돌입하다",
+   "Doripada",
+   "Bước vào (giai đoạn)",
+   "대표팀이 본격적인 훈련에 돌입했어요.",
+   "Đội tuyển đã bước vào giai đoạn tập luyện chính thức."
+  ],
+  [
+   "뒷걸음질 치다",
+   "Dwitgeoreumjil chida",
+   "Thụt lùi, lùi bước",
+   "어렵다고 뒷걸음질 치면 안 돼요.",
+   "Không được lùi bước chỉ vì khó khăn."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ지라도/(으)ㄹ지언정 — Dù có",
+   "meaning": "Hai mẫu NHƯỢNG BỘ mạnh, văn viết / trang trọng. ① (으)ㄹ지라도 = 'dù có… đi nữa (thì vẫn)…' — giả định mạnh, gần nghĩa 더라도 (Bài 222) nhưng trang trọng hơn: 비록 질지라도 최선을 다하겠습니다 (dù có thua cũng sẽ cố hết sức). ② (으)ㄹ지언정 = 'thà… chứ (nhất quyết) không…' — thể hiện Ý CHÍ MẠNH: chấp nhận điều xấu ở vế trước còn hơn làm điều ở vế sau (vế sau thường PHỦ ĐỊNH): 질지언정 반칙은 하지 않겠다 (thà thua chứ không phạm luật). Chia: có patchim → 을지라도/을지언정 (작을지라도); không patchim/ㄹ → ㄹ지라도/ㄹ지언정 (질지라도, 힘들지언정). Danh từ → 일지라도/일지언정; Quá khứ → 았/었을지라도. Hay đi với 비록, 아무리, 설령.",
+   "examples": [
+    "비록 이번 경기에서 질지라도 최선을 다하겠습니다. — Dù trận này có thua, chúng tôi cũng sẽ cố hết sức.",
+    "질지언정 반칙은 하지 않겠어요. — Thà thua chứ nhất quyết không chơi xấu.",
+    "아무리 작은 대회일지라도 페어플레이를 지켜야 해요. — Dù là giải đấu nhỏ đến đâu cũng phải giữ tinh thần chơi đẹp.",
+    "굶을지언정 남의 것을 훔치지 않겠다. — Thà nhịn đói chứ không ăn trộm của người khác."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Tinh thần tôn trọng đối thủ, luật chơi, chấp nhận kết quả gọi là gì?",
+   "kr": "",
+   "options": [
+    "스포츠맨십",
+    "라이벌",
+    "노하우"
+   ],
+   "answer": "스포츠맨십",
+   "explain": "sportsmanship."
+  },
+  {
+   "type": "choice",
+   "q": "Vận động viên trẻ có tiềm năng của tương lai gọi là gì?",
+   "kr": "",
+   "options": [
+    "스포츠 꿈나무",
+    "협회",
+    "기반"
+   ],
+   "answer": "스포츠 꿈나무",
+   "explain": "꿈나무 = cây ước mơ."
+  },
+  {
+   "type": "choice",
+   "q": "'낭패를 보다' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Gặp chuyện khốn đốn, hỏng việc",
+    "Thắng lớn",
+    "Xem trận đấu"
+   ],
+   "answer": "Gặp chuyện khốn đốn, hỏng việc",
+   "explain": "낭패 = thất bại, khốn đốn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Quảng cáo này nhắm vào giới trẻ.",
+   "kr": "이 광고는 젊은 층을 ___.",
+   "options": [
+    "겨냥했어요",
+    "공인했어요",
+    "간주했어요"
+   ],
+   "answer": "겨냥했어요",
+   "explain": "겨냥하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Thà thua chứ không chơi xấu.'",
+   "kr": "",
+   "options": [
+    "질지언정 반칙은 하지 않겠어요.",
+    "질지언정 반칙을 하겠어요.",
+    "지는지언정 반칙은 하지 않겠어요."
+   ],
+   "answer": "질지언정 반칙은 하지 않겠어요.",
+   "explain": "(으)ㄹ지언정 + vế phủ định."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với (으)ㄹ지라도?",
+   "kr": "",
+   "options": [
+    "더라도",
+    "(으)ㄹ 겸",
+    "는 대로"
+   ],
+   "answer": "더라도",
+   "explain": "Cả hai = dù cho."
+  },
+  {
+   "type": "choice",
+   "q": "(으)ㄹ지언정 thể hiện điều gì?",
+   "kr": "",
+   "options": [
+    "Thà chịu điều xấu chứ không làm điều kia",
+    "Mục đích kép",
+    "Hối tiếc quá khứ"
+   ],
+   "answer": "Thà chịu điều xấu chứ không làm điều kia",
+   "explain": "thà… chứ không…"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bơi lội không bị giới hạn bởi tuổi tác.",
+   "kr": "수영은 나이에 ___ 운동이에요.",
+   "options": [
+    "구애를 받지 않는",
+    "낭패를 보는",
+    "뒷걸음질 치는"
+   ],
+   "answer": "구애를 받지 않는",
+   "explain": "구애를 받다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ지라도 với 지다: Dù có thua cũng sẽ cố hết sức.",
+   "kr": "비록 이번 경기에서 ___ 최선을 다하겠습니다.",
+   "answer": [
+    "질지라도"
+   ],
+   "explain": "지다 → 질지라도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ지언정 với 굶다: Thà nhịn đói chứ không ăn trộm.",
+   "kr": "___ 남의 것을 훔치지 않겠다.",
+   "answer": [
+    "굶을지언정"
+   ],
+   "explain": "Có patchim → 을지언정."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đi bộ mỗi ngày giúp tăng cường thể lực.",
+   "kr": "매일 걷기는 체력 ___에 도움이 돼요.",
+   "answer": [
+    "증진"
+   ],
+   "explain": "체력 증진."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Kỷ lục này đã được công nhận là kỷ lục thế giới.",
+   "kr": "이 기록은 세계 기록으로 ___되었어요.",
+   "answer": [
+    "공인"
+   ],
+   "explain": "공인되다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Dù là giải nhỏ cũng phải giữ tinh thần chơi đẹp.",
+   "tokens": [
+    "아무리",
+    "작은",
+    "대회일지라도",
+    "페어플레이를",
+    "지켜야",
+    "해요"
+   ],
+   "answer": "아무리 작은 대회일지라도 페어플레이를 지켜야 해요",
+   "explain": "N일지라도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đội tuyển đã bước vào tập luyện chính thức.",
+   "tokens": [
+    "대표팀이",
+    "본격적인",
+    "훈련에",
+    "돌입했어요"
+   ],
+   "answer": "대표팀이 본격적인 훈련에 돌입했어요",
+   "explain": "N에 돌입하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Dù có khó đến đâu tôi cũng sẽ không bỏ cuộc. (dùng (으)ㄹ지라도)",
+   "answer": [
+    "아무리 힘들지라도 포기하지 않겠어요.",
+    "아무리 어려울지라도 포기하지 않겠어요.",
+    "아무리 힘들지라도 포기하지 않을 거예요.",
+    "아무리 어려울지라도 포기하지 않겠습니다."
+   ],
+   "explain": "(으)ㄹ지라도."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hai vận động viên là đối thủ lâu năm.",
+   "answer": [
+    "두 선수는 오랜 라이벌이에요.",
+    "두 선수는 오래된 라이벌이에요."
+   ],
+   "explain": "라이벌."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không được lùi bước chỉ vì khó khăn.",
+   "answer": [
+    "어렵다고 뒷걸음질 치면 안 돼요.",
+    "힘들다고 뒷걸음질 치면 안 돼요.",
+    "어렵다고 해서 뒷걸음질 치면 안 돼요."
+   ],
+   "explain": "다고 (lý do)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "스포츠의 진정한 가치는 승리가 아니라 페어플레이와 스포츠맨십에 있다. 비록 경기에서 질지라도 정정당당하게 싸운 선수는 관중들의 박수를 받는다.",
+   "answer": "Giá trị thực sự của thể thao không nằm ở chiến thắng mà ở tinh thần chơi đẹp và tinh thần thể thao. Dù có thua trận, vận động viên thi đấu đường đường chính chính vẫn nhận được tràng pháo tay của khán giả.",
+   "explain": "(으)ㄹ지라도."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 다음 주가 대회인데 다리 부상은 괜찮아요?\n남자: 아직 좀 아프지만 경기에 꼭 나가고 싶어요.\n여자: 무리하면 더 다칠 수 있어요. 일단 물리치료사에게 가서 검사를 받아 보세요.\n남자: 알겠어요. 지금 바로 가 볼게요.",
+   "options": [
+    "물리치료사에게 검사를 받으러 간다.",
+    "경기에 나간다.",
+    "훈련을 계속한다.",
+    "대회를 포기한다."
+   ],
+   "answer": "물리치료사에게 검사를 받으러 간다.",
+   "explain": "지금 바로 가 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【스포츠 꿈나무 장학생 모집】\n· 대상: 초·중학생 운동선수\n· 종목: 육상, 수영, 체조\n· 지원 내용: 장학금 연 300만 원, 전문 코치 지도\n· 신청 기간: 3월 1일~3월 31일",
+   "options": [
+    "선발되면 장학금과 코치 지도를 받는다.",
+    "고등학생도 신청할 수 있다.",
+    "축구 선수도 지원할 수 있다.",
+    "신청 기간은 4월까지이다."
+   ],
+   "answer": "선발되면 장학금과 코치 지도를 받는다.",
+   "explain": "장학금 + 전문 코치 지도."
+  }
+ ]
+}

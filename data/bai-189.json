@@ -1,0 +1,378 @@
+{
+ "id": "bai-189",
+ "lesson": "Bài 189",
+ "title": "Văn hóa đại chúng (phần 4/4)",
+ "krTitle": "대중문화 4",
+ "date": "2027-08-19",
+ "day": 274,
+ "source": "TOPIK 5 – Bài 10: Văn hóa đại chúng (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "박진감",
+   "Bakjingam",
+   "Cảm giác sống động, gay cấn",
+   "이 영화는 액션 장면이 박진감이 넘쳐요.",
+   "Phim này có những cảnh hành động đầy kịch tính."
+  ],
+  [
+   "반영하다",
+   "Banyeonghada",
+   "Phản ảnh",
+   "드라마는 그 시대의 모습을 반영해요.",
+   "Phim truyền hình phản ánh hình ảnh của thời đại đó."
+  ],
+  [
+   "반항정신",
+   "Banhangjeongsin",
+   "Tinh thần phản kháng",
+   "록 음악에는 반항정신이 담겨 있어요.",
+   "Nhạc rock chứa đựng tinh thần phản kháng."
+  ],
+  [
+   "변형",
+   "Byeonhyeong",
+   "Biến hình",
+   "전통 음악을 현대적으로 변형한 노래가 인기예요.",
+   "Bài hát biến tấu nhạc truyền thống theo kiểu hiện đại đang được ưa chuộng."
+  ],
+  [
+   "보급되다",
+   "Bogeupdoeda",
+   "Được phổ cập",
+   "스마트폰이 널리 보급되었어요.",
+   "Điện thoại thông minh đã được phổ cập rộng rãi."
+  ],
+  [
+   "보완",
+   "Bowan",
+   "Sự bổ sung, hoàn thiện",
+   "부족한 점을 보완해서 다시 발표하겠습니다.",
+   "Tôi sẽ bổ sung những điểm còn thiếu rồi trình bày lại."
+  ],
+  [
+   "부추기다",
+   "Buchugida",
+   "Xúi giục, kích động",
+   "광고가 아이들의 소비를 부추긴다는 지적이 있어요.",
+   "Có ý kiến chỉ ra rằng quảng cáo kích thích trẻ em tiêu dùng."
+  ],
+  [
+   "불륜 행각",
+   "Bullyun haenggak",
+   "Hành vi phi luân lý",
+   "드라마에 불륜 행각이 너무 자주 나와요.",
+   "Hành vi ngoại tình xuất hiện quá thường xuyên trong phim."
+  ],
+  [
+   "불신",
+   "Bulsin",
+   "Bất tín",
+   "가짜 뉴스 때문에 언론에 대한 불신이 커졌어요.",
+   "Vì tin giả mà sự mất lòng tin vào báo chí tăng lên."
+  ],
+  [
+   "비보이",
+   "Biboi",
+   "B-boy",
+   "한국 비보이 팀이 세계 대회에서 우승했어요.",
+   "Đội B-boy Hàn Quốc vô địch cuộc thi thế giới."
+  ],
+  [
+   "성취감을 맛보다",
+   "Seongchwigameul matboda",
+   "Nếm trải sự thành công",
+   "어려운 곡을 완성하고 성취감을 맛봤어요.",
+   "Hoàn thành bản nhạc khó, tôi đã nếm trải cảm giác thành tựu."
+  ],
+  [
+   "손색이 없다",
+   "Sonsaegi eopda",
+   "Không kém hơn",
+   "이 식당 음식은 호텔 음식과 비교해도 손색이 없어요.",
+   "Đồ ăn quán này so với khách sạn cũng không hề kém."
+  ],
+  [
+   "스크린 쿼터제",
+   "Seukeurin kwoteoje",
+   "Chế độ hạn ngạch chiếu phim trong nước",
+   "스크린 쿼터제는 한국 영화를 보호하기 위한 제도예요.",
+   "Chế độ hạn ngạch màn ảnh là chế độ để bảo vệ phim Hàn."
+  ],
+  [
+   "시장점유율",
+   "Sijangjeomyuyul",
+   "Thị phần",
+   "그 회사의 시장점유율이 30%를 넘었어요.",
+   "Thị phần của công ty đó đã vượt 30%."
+  ],
+  [
+   "신명나다",
+   "Sinmyeongnada",
+   "Háo hức, vui vẻ",
+   "사물놀이 장단에 맞춰 사람들이 신명나게 춤을 췄어요.",
+   "Mọi người nhảy múa hứng khởi theo nhịp samulnori."
+  ],
+  [
+   "역량을 강화시키다",
+   "Yeongnyangeul ganghwasikida",
+   "Tăng cường năng lực",
+   "정부는 문화 산업의 역량을 강화시키려고 노력하고 있어요.",
+   "Chính phủ đang nỗ lực tăng cường năng lực ngành công nghiệp văn hóa."
+  ],
+  [
+   "영향력이 상당하다",
+   "Yeonghyangnyeogi sangdanghada",
+   "Mức ảnh hưởng đáng kể",
+   "인터넷 방송의 영향력이 상당해요.",
+   "Sức ảnh hưởng của phát sóng trên mạng là rất đáng kể."
+  ],
+  [
+   "온상이 되다",
+   "Onsangi doeda",
+   "Trở thành ổ, mảnh đất (cho cái xấu)",
+   "익명 게시판이 악플의 온상이 되었어요.",
+   "Diễn đàn ẩn danh đã trở thành ổ của bình luận ác ý."
+  ],
+  [
+   "우러나오다",
+   "Ureonaoda",
+   "Toát ra, xuất phát từ (trong lòng)",
+   "마음에서 우러나오는 노래가 감동을 줘요.",
+   "Bài hát xuất phát từ trái tim làm người ta xúc động."
+  ],
+  [
+   "우상",
+   "Usang",
+   "Thần tượng",
+   "그 가수는 청소년들의 우상이에요.",
+   "Ca sĩ đó là thần tượng của thanh thiếu niên."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Người được hâm mộ, tôn sùng như thần tượng gọi là gì?",
+   "kr": "",
+   "options": [
+    "우상",
+    "비보이",
+    "고수"
+   ],
+   "answer": "우상",
+   "explain": "우상 = thần tượng."
+  },
+  {
+   "type": "choice",
+   "q": "Chế độ bắt rạp chiếu phim trong nước một số ngày nhất định gọi là gì?",
+   "kr": "",
+   "options": [
+    "스크린 쿼터제",
+    "시장점유율",
+    "보급"
+   ],
+   "answer": "스크린 쿼터제",
+   "explain": "screen quota."
+  },
+  {
+   "type": "choice",
+   "q": "'손색이 없다' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Không hề thua kém",
+    "Không có màu",
+    "Mất màu",
+    "Kém cỏi"
+   ],
+   "answer": "Không hề thua kém",
+   "explain": "손색 = chỗ kém hơn → không có chỗ kém."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Diễn đàn ẩn danh đã trở thành ổ của bình luận ác ý.",
+   "kr": "익명 게시판이 악플의 ___이 되었어요.",
+   "options": [
+    "온상",
+    "우상",
+    "변형"
+   ],
+   "answer": "온상",
+   "explain": "온상이 되다 = trở thành nơi nuôi dưỡng (cái xấu)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phim truyền hình phản ánh hình ảnh thời đại.",
+   "kr": "드라마는 그 시대의 모습을 ___.",
+   "options": [
+    "반영해요",
+    "보완해요",
+    "부추겨요"
+   ],
+   "answer": "반영해요",
+   "explain": "반영하다 = phản ánh."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vì tin giả mà sự mất lòng tin vào báo chí tăng lên.",
+   "kr": "가짜 뉴스 때문에 언론에 대한 ___이 커졌어요.",
+   "options": [
+    "불신",
+    "박진감",
+    "성취감"
+   ],
+   "answer": "불신",
+   "explain": "불(không) + 신(tin)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Điện thoại thông minh đã được phổ cập rộng rãi.",
+   "kr": "스마트폰이 널리 ___.",
+   "options": [
+    "보급되었어요",
+    "변형되었어요",
+    "반영되었어요"
+   ],
+   "answer": "보급되었어요",
+   "explain": "보급되다 = được phổ cập."
+  },
+  {
+   "type": "choice",
+   "q": "Cảm giác vui sướng khi đạt được mục tiêu gọi là gì?",
+   "kr": "",
+   "options": [
+    "성취감",
+    "반항정신",
+    "불신"
+   ],
+   "answer": "성취감",
+   "explain": "성취감을 맛보다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi sẽ bổ sung những điểm còn thiếu.",
+   "kr": "부족한 점을 ___해서 다시 발표하겠습니다.",
+   "answer": [
+    "보완"
+   ],
+   "explain": "보완하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Thị phần của công ty đó đã vượt 30%.",
+   "kr": "그 회사의 ___이 30%를 넘었어요.",
+   "answer": [
+    "시장점유율"
+   ],
+   "explain": "시장점유율."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Sức ảnh hưởng của phát sóng trên mạng rất đáng kể.",
+   "kr": "인터넷 방송의 ___이 상당해요.",
+   "answer": [
+    "영향력"
+   ],
+   "explain": "영향력이 상당하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phim này có cảnh hành động đầy kịch tính.",
+   "kr": "이 영화는 액션 장면이 ___이 넘쳐요.",
+   "answer": [
+    "박진감"
+   ],
+   "explain": "박진감이 넘치다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ca sĩ đó là thần tượng của thanh thiếu niên.",
+   "tokens": [
+    "그",
+    "가수는",
+    "청소년들의",
+    "우상이에요"
+   ],
+   "answer": "그 가수는 청소년들의 우상이에요",
+   "explain": "N의 우상."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bài hát xuất phát từ trái tim làm người ta xúc động.",
+   "tokens": [
+    "마음에서",
+    "우러나오는",
+    "노래가",
+    "감동을",
+    "줘요"
+   ],
+   "answer": "마음에서 우러나오는 노래가 감동을 줘요",
+   "explain": "마음에서 우러나오다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đồ ăn quán này so với khách sạn cũng không hề kém.",
+   "answer": [
+    "이 식당 음식은 호텔 음식과 비교해도 손색이 없어요.",
+    "이 식당 음식은 호텔 음식에 비해도 손색이 없어요.",
+    "이 식당의 음식은 호텔 음식과 비교해도 손색이 없어요."
+   ],
+   "explain": "비교해도 손색이 없다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đội B-boy Hàn Quốc vô địch cuộc thi thế giới.",
+   "answer": [
+    "한국 비보이 팀이 세계 대회에서 우승했어요.",
+    "한국의 비보이 팀이 세계 대회에서 우승했어요."
+   ],
+   "explain": "우승하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hoàn thành việc khó, tôi đã nếm trải cảm giác thành tựu.",
+   "answer": [
+    "어려운 일을 끝내고 성취감을 맛봤어요.",
+    "어려운 일을 완성하고 성취감을 맛봤어요.",
+    "어려운 일을 마치고 성취감을 맛봤어요."
+   ],
+   "explain": "성취감을 맛보다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "대중매체의 영향력이 상당하기 때문에 방송은 사회의 모습을 올바르게 반영해야 한다. 선정적인 내용은 시청자들의 불신을 키울 뿐이다.",
+   "answer": "Vì sức ảnh hưởng của truyền thông đại chúng rất đáng kể nên chương trình phát sóng phải phản ánh đúng đắn hình ảnh xã hội. Nội dung khiêu dâm chỉ làm tăng sự mất lòng tin của người xem.",
+   "explain": "(으)ㄹ 뿐이다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 스크린 쿼터제는 극장에서 일정한 날짜 이상 한국 영화를 상영하도록 한 제도입니다. 처음에는 한국 영화를 보호하기 위해 만들어졌습니다. 그런데 최근에는 한국 영화의 시장점유율이 높아지면서 이 제도가 아직도 필요한지에 대한 논쟁이 이어지고 있습니다.",
+   "options": [
+    "스크린 쿼터제가 계속 필요한지 논쟁이 있다.",
+    "스크린 쿼터제는 외국 영화를 보호한다.",
+    "한국 영화의 시장점유율이 낮아졌다.",
+    "이 제도는 최근에 처음 만들어졌다."
+   ],
+   "answer": "스크린 쿼터제가 계속 필요한지 논쟁이 있다.",
+   "explain": "아직도 필요한지에 대한 논쟁이 이어지고 있다."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "비보이 문화는 원래 미국 거리에서 시작된 반항정신이 담긴 춤이었다. 그런데 한국의 젊은이들이 여기에 전통 음악과 동작을 더해 새롭게 변형하였다. 그 결과 한국 비보이 팀은 세계 대회에서 여러 번 우승하며 세계 최고 수준과 비교해도 손색이 없다는 평가를 받고 있다.",
+   "options": [
+    "한국 비보이는 외국 문화를 새롭게 변형해서 성공했다.",
+    "비보이 문화는 한국에서 처음 시작되었다.",
+    "한국 비보이 팀은 한 번도 우승하지 못했다.",
+    "한국 젊은이들은 전통 음악을 싫어한다."
+   ],
+   "answer": "한국 비보이는 외국 문화를 새롭게 변형해서 성공했다.",
+   "explain": "전통 음악과 동작을 더해 새롭게 변형 → 우승."
+  }
+ ]
+}

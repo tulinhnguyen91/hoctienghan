@@ -1,0 +1,411 @@
+{
+ "id": "bai-227",
+ "lesson": "Bài 227",
+ "title": "Văn học Hàn Quốc (phần 4/5)",
+ "krTitle": "한국 문학 4",
+ "date": "2027-10-15",
+ "day": 331,
+ "source": "TOPIK 6 – Bài 4: Văn học Hàn Quốc (phần 4/5)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "되새기다",
+   "Doesaegida",
+   "Nhai lại, ngẫm lại, nhớ lại",
+   "선생님의 말씀을 되새기며 열심히 공부했어요.",
+   "Ngẫm lại lời thầy dạy, tôi chăm chỉ học."
+  ],
+  [
+   "등단하다",
+   "Deungdanhada",
+   "Ra mắt văn đàn",
+   "그는 스무 살에 시인으로 등단했어요.",
+   "Anh ấy ra mắt văn đàn với tư cách nhà thơ năm 20 tuổi."
+  ],
+  [
+   "목덜미",
+   "Mokdeolmi",
+   "Gáy (phía sau cổ)",
+   "찬 바람이 목덜미를 스쳤어요.",
+   "Gió lạnh lướt qua gáy."
+  ],
+  [
+   "묘사",
+   "Myosa",
+   "Sự miêu tả",
+   "이 소설은 인물의 심리 묘사가 뛰어나요.",
+   "Tiểu thuyết này miêu tả tâm lý nhân vật xuất sắc."
+  ],
+  [
+   "미련",
+   "Miryeon",
+   "Sự nuối tiếc, sự lưu luyến",
+   "떠난 사람에 대한 미련을 버리세요.",
+   "Hãy bỏ đi sự lưu luyến với người đã ra đi."
+  ],
+  [
+   "보조개",
+   "Bojogae",
+   "Lúm đồng tiền",
+   "그녀는 웃을 때 보조개가 생겨요.",
+   "Cô ấy cười thì có lúm đồng tiền."
+  ],
+  [
+   "본질",
+   "Bonjil",
+   "Bản chất",
+   "문제의 본질을 파악해야 해요.",
+   "Phải nắm được bản chất vấn đề."
+  ],
+  [
+   "비유",
+   "Biyu",
+   "So sánh, ẩn dụ",
+   "시인은 인생을 여행에 비유했어요.",
+   "Nhà thơ ví cuộc đời như chuyến đi."
+  ],
+  [
+   "비키다",
+   "Bikida",
+   "Né sang một bên",
+   "차가 오니까 옆으로 비키세요.",
+   "Xe đến kìa, hãy tránh sang bên."
+  ],
+  [
+   "선보이다",
+   "Seonboida",
+   "Ra mắt, trình làng",
+   "그 작가가 새 작품을 선보였어요.",
+   "Nhà văn đó đã ra mắt tác phẩm mới."
+  ],
+  [
+   "섬세하다",
+   "Seomsehada",
+   "Thanh nhã, tinh tế, mềm mại",
+   "그의 문장은 섬세하고 아름다워요.",
+   "Câu văn của anh ấy tinh tế và đẹp."
+  ],
+  [
+   "성찰",
+   "Seongchal",
+   "Sự tự xem xét nội tâm",
+   "이 시는 자기 성찰을 담고 있어요.",
+   "Bài thơ này chứa đựng sự tự soi xét bản thân."
+  ],
+  [
+   "세속",
+   "Sesok",
+   "Thế tục, trần tục",
+   "스님은 세속을 떠나 산에서 살아요.",
+   "Nhà sư rời bỏ trần tục sống trên núi."
+  ],
+  [
+   "소란하다",
+   "Soranhada",
+   "Ồn ã, ồn ào",
+   "밖이 너무 소란해서 잠을 못 잤어요.",
+   "Bên ngoài ồn ào quá nên không ngủ được."
+  ],
+  [
+   "속삭이다",
+   "Soksagida",
+   "Thì thầm",
+   "두 사람이 귀에 대고 속삭였어요.",
+   "Hai người thì thầm vào tai nhau."
+  ],
+  [
+   "시련",
+   "Siryeon",
+   "Sự thử thách",
+   "주인공은 많은 시련을 이겨 냈어요.",
+   "Nhân vật chính đã vượt qua nhiều thử thách."
+  ],
+  [
+   "심리",
+   "Simni",
+   "Tâm lý, tâm trạng",
+   "작가는 아이의 심리를 잘 표현했어요.",
+   "Nhà văn thể hiện tốt tâm lý đứa trẻ."
+  ],
+  [
+   "안도",
+   "Ando",
+   "Sự yên lòng, nhẹ nhõm",
+   "아이가 무사하다는 소식에 안도의 한숨을 쉬었어요.",
+   "Nghe tin đứa bé bình an, tôi thở phào nhẹ nhõm."
+  ],
+  [
+   "앓다",
+   "Alta",
+   "Bị (bệnh), đau ốm",
+   "감기를 앓아서 학교에 못 갔어요.",
+   "Bị cảm nên không đi học được."
+  ],
+  [
+   "애상",
+   "Aesang",
+   "Nỗi bi thương, sầu muộn",
+   "이 시는 가을의 애상을 노래해요.",
+   "Bài thơ này ca lên nỗi buồn mùa thu."
+  ],
+  [
+   "역설",
+   "Yeokseol",
+   "Nghịch lý; sự nhấn mạnh",
+   "'지는 것이 이기는 것'이라는 역설이 있어요.",
+   "Có nghịch lý 'thua là thắng'."
+  ],
+  [
+   "욕망",
+   "Yongmang",
+   "Sự khao khát",
+   "인간의 욕망은 끝이 없어요.",
+   "Lòng ham muốn của con người là vô tận."
+  ],
+  [
+   "원숙하다",
+   "Wonsukada",
+   "Chín chắn, điêu luyện",
+   "나이가 들면서 그의 작품은 더 원숙해졌어요.",
+   "Càng lớn tuổi, tác phẩm của ông càng điêu luyện."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 기는커녕 — Đừng nói … mà còn",
+   "meaning": "Phủ định mạnh điều mong đợi (thường là điều tốt, điều tối thiểu) và nói rằng thực tế còn TỆ HƠN hoặc NGƯỢC LẠI: 'chẳng những không… mà còn…, đừng nói là… ngay cả… cũng không'. Chia: V/A + 기는커녕: 칭찬받기는커녕 (đừng nói được khen), 쉬기는커녕, 좋아지기는커녕. Danh từ: N은/는커녕: 밥은커녕 물도 못 마셨어요 (đừng nói cơm, nước cũng không uống được). Vế sau thường: ① điều ngược lại: 칭찬받기는커녕 혼났어요 (chẳng những không được khen mà còn bị mắng); ② điều thấp hơn + 도/조차 + phủ định: 소설은커녕 시 한 편도 못 썼어요. Mang sắc thái thất vọng, bất mãn. So sánh: 조차/마저 (ngay cả); 기는커녕 = 'đừng nói đến… (điều lớn)', đối chiếu hai mức.",
+   "examples": [
+    "새 작품을 쓰기는커녕 한 줄도 못 썼어요. — Đừng nói viết tác phẩm mới, đến một dòng cũng chưa viết được.",
+    "약을 먹었는데 낫기는커녕 더 아파요. — Uống thuốc rồi mà chẳng những không khỏi lại còn đau hơn.",
+    "칭찬받기는커녕 오히려 혼났어요. — Chẳng những không được khen mà ngược lại còn bị mắng.",
+    "너무 바빠서 밥은커녕 물도 못 마셨어요. — Bận quá, đừng nói cơm, ngay cả nước cũng không uống được."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Lúm đồng tiền trên má gọi là gì?",
+   "kr": "",
+   "options": [
+    "보조개",
+    "목덜미",
+    "본질"
+   ],
+   "answer": "보조개",
+   "explain": "보조개."
+  },
+  {
+   "type": "choice",
+   "q": "Ra mắt văn đàn (trở thành nhà văn/nhà thơ chính thức) gọi là gì?",
+   "kr": "",
+   "options": [
+    "등단하다",
+    "선보이다",
+    "비키다"
+   ],
+   "answer": "등단하다",
+   "explain": "등단 = bước lên đàn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tiểu thuyết này miêu tả tâm lý nhân vật xuất sắc.",
+   "kr": "이 소설은 인물의 심리 ___가 뛰어나요.",
+   "options": [
+    "묘사",
+    "미련",
+    "시련"
+   ],
+   "answer": "묘사",
+   "explain": "묘사 = miêu tả."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bên ngoài ồn ào quá.",
+   "kr": "밖이 너무 ___.",
+   "options": [
+    "소란해요",
+    "섬세해요",
+    "원숙해요"
+   ],
+   "answer": "소란해요",
+   "explain": "소란하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Chẳng những không được khen mà còn bị mắng.'",
+   "kr": "",
+   "options": [
+    "칭찬받기는커녕 오히려 혼났어요.",
+    "칭찬받기는커녕 칭찬을 많이 받았어요.",
+    "칭찬받는커녕 오히려 혼났어요."
+   ],
+   "answer": "칭찬받기는커녕 오히려 혼났어요.",
+   "explain": "V기는커녕 + điều ngược lại."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với danh từ 밥.",
+   "kr": "",
+   "options": [
+    "밥은커녕",
+    "밥기는커녕",
+    "밥는커녕"
+   ],
+   "answer": "밥은커녕",
+   "explain": "N은/는커녕."
+  },
+  {
+   "type": "choice",
+   "q": "'낫기는커녕 더 아파요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Chẳng những không khỏi mà còn đau hơn.",
+    "Khỏi rồi nhưng vẫn đau.",
+    "Sắp khỏi rồi."
+   ],
+   "answer": "Chẳng những không khỏi mà còn đau hơn.",
+   "explain": "기는커녕."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phải nắm được bản chất vấn đề.",
+   "kr": "문제의 ___을 파악해야 해요.",
+   "options": [
+    "본질",
+    "보조개",
+    "애상"
+   ],
+   "answer": "본질",
+   "explain": "본질."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기는커녕 với 쉬다: Cuối tuần chẳng những không nghỉ mà còn làm việc nhiều hơn.",
+   "kr": "주말에 ___ 더 많이 일했어요.",
+   "answer": [
+    "쉬기는커녕"
+   ],
+   "explain": "쉬기는커녕."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 은/는커녕: Đừng nói tiểu thuyết, đến một bài thơ cũng chưa viết được.",
+   "kr": "___ 시 한 편도 못 썼어요.",
+   "answer": [
+    "소설은커녕"
+   ],
+   "explain": "소설은커녕."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hai người thì thầm vào tai nhau.",
+   "kr": "두 사람이 귀에 대고 ___.",
+   "answer": [
+    "속삭였어요"
+   ],
+   "explain": "속삭이다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Lòng ham muốn của con người là vô tận.",
+   "kr": "인간의 ___은 끝이 없어요.",
+   "answer": [
+    "욕망"
+   ],
+   "explain": "욕망."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bận quá, đừng nói cơm, ngay cả nước cũng không uống được.",
+   "tokens": [
+    "너무",
+    "바빠서",
+    "밥은커녕",
+    "물도",
+    "못",
+    "마셨어요"
+   ],
+   "answer": "너무 바빠서 밥은커녕 물도 못 마셨어요",
+   "explain": "N은커녕 + 도 + phủ định."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhà văn đó đã ra mắt tác phẩm mới.",
+   "tokens": [
+    "그",
+    "작가가",
+    "새",
+    "작품을",
+    "선보였어요"
+   ],
+   "answer": "그 작가가 새 작품을 선보였어요",
+   "explain": "선보이다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chẳng những không giảm cân mà còn tăng 2kg. (dùng 기는커녕)",
+   "answer": [
+    "살이 빠지기는커녕 2킬로그램이 쪘어요.",
+    "살이 빠지기는커녕 오히려 2kg이 쪘어요.",
+    "살을 빼기는커녕 2킬로가 쪘어요.",
+    "살이 빠지기는커녕 2킬로나 쪘어요."
+   ],
+   "explain": "빠지기는커녕."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bị cảm nên không đi học được.",
+   "answer": [
+    "감기를 앓아서 학교에 못 갔어요.",
+    "감기에 걸려서 학교에 못 갔어요."
+   ],
+   "explain": "앓다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Câu văn của anh ấy tinh tế và đẹp.",
+   "answer": [
+    "그의 문장은 섬세하고 아름다워요.",
+    "그 사람의 문장은 섬세하고 아름다워요."
+   ],
+   "explain": "섬세하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "이 소설의 주인공은 많은 시련을 겪지만 좌절하기는커녕 오히려 더 강해진다. 작가는 주인공의 심리를 섬세하게 묘사하여 독자들에게 깊은 감동을 준다.",
+   "answer": "Nhân vật chính của tiểu thuyết này trải qua nhiều thử thách nhưng chẳng những không gục ngã mà ngược lại còn mạnh mẽ hơn. Tác giả miêu tả tâm lý nhân vật tinh tế, đem lại xúc động sâu sắc cho người đọc.",
+   "explain": "기는커녕 오히려."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "남자: 우산 가져왔어요?\n여자: 아니요, 우산은커녕 모자도 없어요. 비가 올 줄 몰랐어요.\n남자: 그럼 제 우산 같이 써요.",
+   "options": [
+    "남자가 여자에게 우산을 같이 쓰자고 하는 상황",
+    "여자가 남자에게 우산을 파는 상황",
+    "두 사람이 모자를 사는 상황",
+    "여자가 우산을 잃어버린 상황"
+   ],
+   "answer": "남자가 여자에게 우산을 같이 쓰자고 하는 상황",
+   "explain": "제 우산 같이 써요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【신인 작가 공모전】\n· 대상: 등단하지 않은 누구나\n· 분야: 시, 소설, 수필\n· 마감: 9월 30일\n· 상금: 대상 500만 원\n※ 다른 곳에 선보이지 않은 작품만 가능",
+   "options": [
+    "아직 등단하지 않은 사람만 참가할 수 있다.",
+    "이미 발표한 작품도 낼 수 있다.",
+    "희곡도 응모할 수 있다.",
+    "마감은 10월이다."
+   ],
+   "answer": "아직 등단하지 않은 사람만 참가할 수 있다.",
+   "explain": "대상: 등단하지 않은 누구나."
+  }
+ ]
+}

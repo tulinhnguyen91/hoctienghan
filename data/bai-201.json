@@ -1,0 +1,390 @@
+{
+ "id": "bai-201",
+ "lesson": "Bài 201",
+ "title": "Cuộc đời của người Hàn Quốc (phần 1/4)",
+ "krTitle": "한국인의 일생 1",
+ "date": "2027-09-06",
+ "day": 292,
+ "source": "TOPIK 5 – Bài 14: Cuộc đời của người Hàn Quốc (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "통과의례",
+   "Tonggwauirye",
+   "Nghi lễ phải trải qua",
+   "결혼은 인생의 중요한 통과의례예요.",
+   "Kết hôn là nghi lễ quan trọng của đời người."
+  ],
+  [
+   "관례",
+   "Gwallye",
+   "Lễ thành niên; thông lệ",
+   "옛날에는 스무 살에 관례를 치렀어요.",
+   "Ngày xưa đến 20 tuổi thì làm lễ thành niên."
+  ],
+  [
+   "상례",
+   "Sangnye",
+   "Tang lễ",
+   "상례는 돌아가신 분을 보내는 의식이에요.",
+   "Tang lễ là nghi thức tiễn đưa người đã khuất."
+  ],
+  [
+   "관혼상제",
+   "Gwanhonsangje",
+   "Quan hôn tang tế (4 nghi lễ: thành niên, lễ cưới, tang lễ, lễ giỗ)",
+   "관혼상제는 한국의 네 가지 중요한 예식이에요.",
+   "Quan hôn tang tế là bốn nghi lễ quan trọng của Hàn Quốc."
+  ],
+  [
+   "혼례",
+   "Hollye",
+   "Hôn lễ",
+   "전통 혼례를 올리는 부부가 늘고 있어요.",
+   "Các cặp đôi làm hôn lễ truyền thống đang tăng."
+  ],
+  [
+   "제례",
+   "Jerye",
+   "Sự tế lễ",
+   "설날에 제례를 지내요.",
+   "Vào Tết làm lễ cúng tổ tiên."
+  ],
+  [
+   "백일",
+   "Baegil",
+   "Tròn 100 ngày sau khi sinh",
+   "아기 백일에 떡을 나눠 먹어요.",
+   "Vào ngày tròn 100 ngày của em bé, người ta chia bánh tteok ăn."
+  ],
+  [
+   "전통",
+   "Jeontong",
+   "Truyền thống",
+   "우리는 전통을 지키면서 새로운 문화도 받아들여야 해요.",
+   "Chúng ta phải vừa giữ truyền thống vừa tiếp nhận văn hóa mới."
+  ],
+  [
+   "회갑",
+   "Hoegap",
+   "Mừng thọ, sinh nhật lần thứ 60 (환갑)",
+   "아버지 회갑 잔치를 했어요.",
+   "Đã làm tiệc mừng thọ 60 tuổi cho bố."
+  ],
+  [
+   "팔순",
+   "Palsun",
+   "Sinh nhật lần thứ 80",
+   "할머니의 팔순을 축하해 드렸어요.",
+   "Chúng tôi đã chúc mừng sinh nhật 80 tuổi của bà."
+  ],
+  [
+   "돌잡이",
+   "Doljabi",
+   "Nghi lễ bày nhiều đồ vật khác nhau lên bàn tiệc sinh nhật đầu tiên và để cho đứa trẻ chọn lấy, qua đó dự đoán tương lai của đứa trẻ",
+   "돌잡이에서 아기가 연필을 잡았어요.",
+   "Trong lễ chọn đồ đầy năm, em bé đã cầm bút chì."
+  ],
+  [
+   "돌상",
+   "Dolsang",
+   "Bàn tiệc đầy năm",
+   "돌상에 떡과 과일을 차렸어요.",
+   "Bày bánh tteok và trái cây lên bàn tiệc đầy năm."
+  ],
+  [
+   "칠순",
+   "Chilsun",
+   "Sinh nhật lần thứ 70, đến tuổi cổ lai hy (고희)",
+   "할아버지 칠순에 가족들이 모두 모였어요.",
+   "Cả gia đình tụ họp vào dịp ông 70 tuổi."
+  ],
+  [
+   "맞선",
+   "Matseon",
+   "Sự coi mắt",
+   "이모 소개로 맞선을 봤어요.",
+   "Tôi đi xem mắt qua sự giới thiệu của dì."
+  ],
+  [
+   "폐백을 드리다",
+   "Pyebaegeul deurida",
+   "Làm lễ ra mắt nhà chồng (pyebaek)",
+   "결혼식 후에 시부모님께 폐백을 드렸어요.",
+   "Sau lễ cưới đã làm lễ ra mắt bố mẹ chồng."
+  ],
+  [
+   "결혼식을 올리다/하다",
+   "Gyeolhonsigeul ollida/hada",
+   "Tiến hành lễ kết hôn",
+   "두 사람은 다음 달에 결혼식을 올려요.",
+   "Hai người sẽ tổ chức lễ cưới vào tháng sau."
+  ],
+  [
+   "축의금",
+   "Chuguigeum",
+   "Tiền chúc mừng",
+   "친구 결혼식에 축의금을 냈어요.",
+   "Tôi đã mừng tiền cưới bạn."
+  ],
+  [
+   "하객",
+   "Hagaek",
+   "Khách mời",
+   "결혼식에 하객이 300명이나 왔어요.",
+   "Có tới 300 khách đến dự đám cưới."
+  ],
+  [
+   "피로연",
+   "Piroyeon",
+   "Tiệc cưới",
+   "결혼식이 끝나고 피로연에서 식사를 했어요.",
+   "Lễ cưới xong mọi người dùng bữa ở tiệc cưới."
+  ],
+  [
+   "혼인하다",
+   "Honinhada",
+   "Cưới nhau, kết hôn",
+   "두 사람은 10년 연애 끝에 혼인했어요.",
+   "Hai người kết hôn sau 10 năm yêu nhau."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 아/어서 그런지 — Không biết có phải vì … mà",
+   "meaning": "Nêu một LÝ DO MÀ NGƯỜI NÓI ĐOÁN, không chắc chắn: 'không biết có phải vì… hay không mà…, chắc là do… nên…'. Cấu tạo: 아/어서 (vì) + 그렇다 + (으)ㄴ지 (không biết có phải). Chia: ㅏ/ㅗ → 아서 그런지 (많아서 그런지); khác → 어서 그런지 (먹어서 그런지); 하다 → 해서 그런지; Danh từ → (이)라서 그런지 (주말이라서 그런지); Quá khứ: 았/었어서 그런지 (늦게 잤어서 그런지 – ít dùng, thường nói 늦게 자서 그런지). Vế sau là sự thật/kết quả người nói quan sát được. Rút gọn: 그래서 그런지 (không biết có phải vì vậy không mà…). So sánh: 아/어서 (vì – chắc chắn); 아/어서 그런지 (vì – phỏng đoán, mềm mại hơn).",
+   "examples": [
+    "주말이라서 그런지 결혼식장에 하객이 많네요. — Không biết có phải vì là cuối tuần không mà hội trường cưới đông khách quá.",
+    "할머니는 팔순이신데 운동을 꾸준히 하셔서 그런지 정말 건강하세요. — Bà đã 80 tuổi, chắc là nhờ tập thể dục đều đặn mà bà rất khỏe.",
+    "어제 늦게 자서 그런지 머리가 아파요. — Không biết có phải vì hôm qua ngủ muộn không mà đau đầu.",
+    "전통 혼례라서 그런지 분위기가 고풍스러웠어요. — Chắc vì là hôn lễ truyền thống nên không khí cổ kính."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Bốn nghi lễ quan trọng (thành niên, cưới, tang, giỗ) gọi chung là gì?",
+   "kr": "",
+   "options": [
+    "관혼상제",
+    "통과의례",
+    "돌잡이"
+   ],
+   "answer": "관혼상제",
+   "explain": "관(관례) 혼(혼례) 상(상례) 제(제례)."
+  },
+  {
+   "type": "choice",
+   "q": "Sinh nhật lần thứ 60 gọi là gì?",
+   "kr": "",
+   "options": [
+    "회갑",
+    "칠순",
+    "팔순"
+   ],
+   "answer": "회갑",
+   "explain": "회갑 = 환갑 = 60 tuổi."
+  },
+  {
+   "type": "choice",
+   "q": "Tiền mừng đám cưới gọi là gì?",
+   "kr": "",
+   "options": [
+    "축의금",
+    "하객",
+    "피로연"
+   ],
+   "answer": "축의금",
+   "explain": "축의금 = tiền mừng."
+  },
+  {
+   "type": "choice",
+   "q": "Gặp mặt người khác giới qua giới thiệu để tính chuyện kết hôn gọi là gì?",
+   "kr": "",
+   "options": [
+    "맞선",
+    "폐백",
+    "혼례"
+   ],
+   "answer": "맞선",
+   "explain": "맞선을 보다 = đi xem mắt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Không biết có phải vì cuối tuần không mà đông khách.'",
+   "kr": "",
+   "options": [
+    "주말이라서 그런지 하객이 많네요.",
+    "주말이어서 그런지는 하객이 많네요.",
+    "주말해서 그런지 하객이 많네요."
+   ],
+   "answer": "주말이라서 그런지 하객이 많네요.",
+   "explain": "N(이)라서 그런지."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào thể hiện lý do PHỎNG ĐOÁN (không chắc)?",
+   "kr": "",
+   "options": [
+    "어제 늦게 자서 그런지 머리가 아파요.",
+    "어제 늦게 자서 머리가 아파요.",
+    "어제 늦게 잤으니까 머리가 아파요."
+   ],
+   "answer": "어제 늦게 자서 그런지 머리가 아파요.",
+   "explain": "그런지 = không biết có phải."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 운동하다.",
+   "kr": "",
+   "options": [
+    "운동해서 그런지",
+    "운동하어서 그런지",
+    "운동하서 그런지"
+   ],
+   "answer": "운동해서 그런지",
+   "explain": "하다 → 해서 그런지."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trong lễ chọn đồ đầy năm, em bé cầm bút chì.",
+   "kr": "___에서 아기가 연필을 잡았어요.",
+   "options": [
+    "돌잡이",
+    "백일",
+    "회갑"
+   ],
+   "answer": "돌잡이",
+   "explain": "돌잡이."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어서 그런지 với 많다: Không biết có phải vì đông người không mà ồn quá.",
+   "kr": "사람이 ___ 너무 시끄러워요.",
+   "answer": [
+    "많아서 그런지"
+   ],
+   "explain": "많다 → 많아서 그런지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어서 그런지 với 먹다: Chắc vì ăn nhiều quá nên đau bụng.",
+   "kr": "너무 많이 ___ 배가 아파요.",
+   "answer": [
+    "먹어서 그런지"
+   ],
+   "explain": "먹어서 그런지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hai người tổ chức lễ cưới tháng sau.",
+   "kr": "두 사람은 다음 달에 결혼식을 ___.",
+   "answer": [
+    "올려요",
+    "해요"
+   ],
+   "explain": "결혼식을 올리다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Có tới 300 khách đến dự đám cưới.",
+   "kr": "결혼식에 ___이 300명이나 왔어요.",
+   "answer": [
+    "하객"
+   ],
+   "explain": "하객."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chắc vì là hôn lễ truyền thống nên không khí cổ kính.",
+   "tokens": [
+    "전통",
+    "혼례라서",
+    "그런지",
+    "분위기가",
+    "고풍스러웠어요"
+   ],
+   "answer": "전통 혼례라서 그런지 분위기가 고풍스러웠어요",
+   "explain": "N라서 그런지."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sau lễ cưới đã làm lễ ra mắt bố mẹ chồng.",
+   "tokens": [
+    "결혼식",
+    "후에",
+    "시부모님께",
+    "폐백을",
+    "드렸어요"
+   ],
+   "answer": "결혼식 후에 시부모님께 폐백을 드렸어요",
+   "explain": "폐백을 드리다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không biết có phải vì trời mưa không mà ít khách. (dùng 아/어서 그런지)",
+   "answer": [
+    "비가 와서 그런지 손님이 적어요.",
+    "비가 와서 그런지 손님이 별로 없어요.",
+    "비가 와서 그런지 손님이 많지 않아요."
+   ],
+   "explain": "와서 그런지."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã mừng tiền cưới bạn.",
+   "answer": [
+    "친구 결혼식에 축의금을 냈어요.",
+    "친구 결혼식에 축의금을 줬어요."
+   ],
+   "explain": "축의금을 내다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cả gia đình tụ họp vào dịp ông 70 tuổi.",
+   "answer": [
+    "할아버지 칠순에 가족들이 모두 모였어요.",
+    "할아버지 칠순 때 가족들이 모두 모였어요.",
+    "할아버지의 칠순에 가족이 모두 모였어요."
+   ],
+   "explain": "칠순."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "요즘은 평균 수명이 길어져서 그런지 회갑 잔치를 크게 하는 사람이 많지 않다. 대신 칠순이나 팔순에 가족 여행을 가는 경우가 늘고 있다.",
+   "answer": "Không biết có phải vì tuổi thọ trung bình dài hơn không mà dạo này ít người tổ chức tiệc mừng thọ 60 lớn. Thay vào đó, trường hợp đi du lịch gia đình vào dịp 70 hay 80 tuổi đang tăng lên.",
+   "explain": "아/어서 그런지."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 아이의 첫 번째 생일인 돌에는 돌상을 차리고 돌잡이를 합니다. 돌상 위에 실, 연필, 돈 같은 물건을 놓고 아이가 무엇을 잡는지 봅니다. 실을 잡으면 오래 살고, 연필을 잡으면 공부를 잘하고, 돈을 잡으면 부자가 된다고 믿었습니다. 요즘에는 마이크나 청진기 같은 새로운 물건도 올려놓습니다.",
+   "options": [
+    "돌잡이에서 실을 잡으면 오래 산다고 믿었다.",
+    "돌잡이는 두 번째 생일에 한다.",
+    "요즘 돌상에는 새로운 물건을 놓지 않는다.",
+    "돈을 잡으면 공부를 잘한다고 믿었다."
+   ],
+   "answer": "돌잡이에서 실을 잡으면 오래 산다고 믿었다.",
+   "explain": "실을 잡으면 오래 살고…"
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "'작은 결혼식' 인기… 하객 50명 이하 결혼 30% 늘어",
+   "options": [
+    "하객이 적은 작은 결혼식을 하는 사람이 많아졌다.",
+    "결혼하는 사람이 30% 줄었다.",
+    "하객이 많은 결혼식이 인기다.",
+    "결혼식 비용이 30% 올랐다."
+   ],
+   "answer": "하객이 적은 작은 결혼식을 하는 사람이 많아졌다.",
+   "explain": "하객 50명 이하 결혼 30% 늘어."
+  }
+ ]
+}

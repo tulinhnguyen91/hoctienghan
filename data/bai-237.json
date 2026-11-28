@@ -1,0 +1,403 @@
+{
+ "id": "bai-237",
+ "lesson": "Bài 237",
+ "title": "Xã hội hiện đại và thể thao (phần 1/5)",
+ "krTitle": "현대 사회와 스포츠 1",
+ "date": "2027-10-30",
+ "day": 346,
+ "source": "TOPIK 6 – Bài 7: Xã hội hiện đại và thể thao (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "종목",
+   "Jongmok",
+   "Môn thi đấu",
+   "올림픽에는 많은 종목이 있어요.",
+   "Olympic có nhiều môn thi đấu."
+  ],
+  [
+   "투기",
+   "Tugi",
+   "Môn đối kháng",
+   "태권도와 유도는 대표적인 투기 종목이에요.",
+   "Taekwondo và judo là các môn đối kháng tiêu biểu."
+  ],
+  [
+   "양궁",
+   "Yanggung",
+   "Bắn cung",
+   "한국은 양궁을 정말 잘해요.",
+   "Hàn Quốc bắn cung rất giỏi."
+  ],
+  [
+   "하계 올림픽",
+   "Hagye ollimpik",
+   "Thế vận hội Olympic mùa hè",
+   "하계 올림픽은 4년마다 열려요.",
+   "Olympic mùa hè được tổ chức 4 năm một lần."
+  ],
+  [
+   "동계 올림픽",
+   "Donggye ollimpik",
+   "Thế vận hội Olympic mùa đông",
+   "2018년 동계 올림픽은 평창에서 열렸어요.",
+   "Olympic mùa đông 2018 được tổ chức ở Pyeongchang."
+  ],
+  [
+   "육상",
+   "Yuksang",
+   "Môn điền kinh",
+   "달리기와 높이뛰기는 육상 종목이에요.",
+   "Chạy và nhảy cao là các môn điền kinh."
+  ],
+  [
+   "구기",
+   "Gugi",
+   "Những môn thể thao chơi bóng",
+   "축구, 농구, 배구는 구기 종목이에요.",
+   "Bóng đá, bóng rổ, bóng chuyền là các môn bóng."
+  ],
+  [
+   "역도",
+   "Yeokdo",
+   "Môn đẩy tạ",
+   "역도 선수가 무거운 바벨을 들어 올렸어요.",
+   "Vận động viên cử tạ đã nâng tạ nặng."
+  ],
+  [
+   "세계 선수권 대회",
+   "Segye seonsugwon daehoe",
+   "Giải vô địch thế giới",
+   "그 선수는 세계 선수권 대회에서 우승했어요.",
+   "Vận động viên đó vô địch giải vô địch thế giới."
+  ],
+  [
+   "체조",
+   "Chejo",
+   "Thể dục dụng cụ",
+   "체조 선수들은 몸이 정말 유연해요.",
+   "Vận động viên thể dục dụng cụ rất dẻo dai."
+  ],
+  [
+   "레슬링",
+   "Reseulling",
+   "Môn đấu vật",
+   "레슬링은 고대 올림픽부터 있었던 종목이에요.",
+   "Vật là môn có từ Olympic cổ đại."
+  ],
+  [
+   "마라톤",
+   "Maraton",
+   "Ma ra tông",
+   "그는 마라톤 풀코스를 완주했어요.",
+   "Anh ấy đã chạy hết cự ly marathon."
+  ],
+  [
+   "토너먼트",
+   "Toneomeonteu",
+   "Đấu loại trực tiếp",
+   "우리 팀이 토너먼트에서 결승에 올랐어요.",
+   "Đội tôi vào chung kết trong vòng đấu loại."
+  ],
+  [
+   "전반전",
+   "Jeonbanjeon",
+   "Hiệp một",
+   "전반전에 한 골을 넣었어요.",
+   "Đã ghi một bàn trong hiệp một."
+  ],
+  [
+   "후반전",
+   "Hubanjeon",
+   "Hiệp hai",
+   "후반전에 역전했어요.",
+   "Đã lội ngược dòng trong hiệp hai."
+  ],
+  [
+   "반칙",
+   "Banchik",
+   "Phạm luật",
+   "그 선수는 반칙을 해서 퇴장당했어요.",
+   "Cầu thủ đó phạm lỗi nên bị đuổi khỏi sân."
+  ],
+  [
+   "경기를 벌이다",
+   "Gyeonggireul beorida",
+   "Diễn ra trận đấu",
+   "두 팀이 치열한 경기를 벌였어요.",
+   "Hai đội đã có trận đấu quyết liệt."
+  ],
+  [
+   "완승",
+   "Wanseung",
+   "Thắng tuyệt đối",
+   "한국 팀이 3대 0으로 완승을 거두었어요.",
+   "Đội Hàn Quốc thắng tuyệt đối 3–0."
+  ],
+  [
+   "완패",
+   "Wanpae",
+   "Thua hoàn toàn",
+   "우리 팀이 완패해서 너무 속상해요.",
+   "Đội tôi thua hoàn toàn nên rất buồn."
+  ],
+  [
+   "리그전",
+   "Rigeujeon",
+   "Đấu vòng tròn",
+   "리그전에서는 모든 팀과 한 번씩 경기해요.",
+   "Trong vòng tròn, đấu với mọi đội mỗi đội một lần."
+  ],
+  [
+   "연장전",
+   "Yeonjangjeon",
+   "Hiệp phụ",
+   "경기가 연장전까지 갔어요.",
+   "Trận đấu kéo dài đến hiệp phụ."
+  ],
+  [
+   "경고",
+   "Gyeonggo",
+   "Sự cảnh cáo",
+   "심판이 그 선수에게 경고를 줬어요.",
+   "Trọng tài đã cảnh cáo cầu thủ đó."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ뿐더러 — Không chỉ … mà còn",
+   "meaning": "THÊM ý cùng chiều: 'không chỉ… mà còn…, đã… lại còn…'. Hai vế thường CÙNG TÍNH CHẤT (cùng tốt hoặc cùng xấu). Chia: có patchim → 을뿐더러 (좋을뿐더러, 많을뿐더러); không patchim/ㄹ → ㄹ뿐더러 (빠를뿐더러, 할뿐더러); quá khứ → 았/었을뿐더러; Danh từ → 일뿐더러 (선수일뿐더러). Vế sau thường có 도 / 까지. Văn viết và trang trọng; nghĩa rất gần (으)ㄹ 뿐만 아니라 (đã học) nhưng ngắn gọn, mang tính văn viết hơn. Viết liền 뿐더러 (khác 뿐 + 더러). Không đi với vế sau mệnh lệnh/rủ rê.",
+   "examples": [
+    "그 선수는 키가 클뿐더러 발도 빨라요. — Cầu thủ đó không chỉ cao mà chân còn nhanh.",
+    "마라톤은 힘들뿐더러 시간도 오래 걸려요. — Marathon không chỉ vất vả mà còn tốn nhiều thời gian.",
+    "양궁은 한국의 효자 종목일뿐더러 세계 최고 수준이에요. — Bắn cung không chỉ là môn mang huy chương về cho Hàn Quốc mà còn ở trình độ hàng đầu thế giới.",
+    "반칙을 했을뿐더러 심판에게 항의까지 해서 경고를 받았어요. — Không chỉ phạm lỗi mà còn phản đối trọng tài nên bị cảnh cáo."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Các môn thi đấu bằng bóng (bóng đá, bóng rổ…) gọi chung là gì?",
+   "kr": "",
+   "options": [
+    "구기",
+    "육상",
+    "투기"
+   ],
+   "answer": "구기",
+   "explain": "구 = bóng."
+  },
+  {
+   "type": "choice",
+   "q": "Hiệp đấu thêm khi hòa sau thời gian chính thức gọi là gì?",
+   "kr": "",
+   "options": [
+    "연장전",
+    "전반전",
+    "리그전"
+   ],
+   "answer": "연장전",
+   "explain": "연장 = kéo dài."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 완승 là gì?",
+   "kr": "",
+   "options": [
+    "완패",
+    "경고",
+    "반칙"
+   ],
+   "answer": "완패",
+   "explain": "완승 (thắng hoàn toàn) ↔ 완패 (thua hoàn toàn)."
+  },
+  {
+   "type": "choice",
+   "q": "Thể thức mà mọi đội đều đấu với nhau gọi là gì?",
+   "kr": "",
+   "options": [
+    "리그전",
+    "토너먼트",
+    "연장전"
+   ],
+   "answer": "리그전",
+   "explain": "리그전 = vòng tròn; 토너먼트 = loại trực tiếp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Cầu thủ đó không chỉ cao mà chân còn nhanh.'",
+   "kr": "",
+   "options": [
+    "그 선수는 키가 클뿐더러 발도 빨라요.",
+    "그 선수는 키가 큰뿐더러 발도 빨라요.",
+    "그 선수는 키가 클뿐더러 발이 느려요."
+   ],
+   "answer": "그 선수는 키가 클뿐더러 발도 빨라요.",
+   "explain": "(으)ㄹ뿐더러 + vế cùng chiều."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với (으)ㄹ뿐더러?",
+   "kr": "",
+   "options": [
+    "(으)ㄹ 뿐만 아니라",
+    "(으)ㄹ 뿐이다",
+    "(으)ㄹ 따름이다"
+   ],
+   "answer": "(으)ㄹ 뿐만 아니라",
+   "explain": "Cả hai = không chỉ… mà còn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với danh từ 선수.",
+   "kr": "",
+   "options": [
+    "선수일뿐더러",
+    "선수할뿐더러",
+    "선수을뿐더러"
+   ],
+   "answer": "선수일뿐더러",
+   "explain": "N + 일뿐더러."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cầu thủ đó phạm lỗi nên bị đuổi khỏi sân.",
+   "kr": "그 선수는 ___을 해서 퇴장당했어요.",
+   "options": [
+    "반칙",
+    "경고",
+    "완승"
+   ],
+   "answer": "반칙",
+   "explain": "반칙."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ뿐더러 với 힘들다: Marathon không chỉ vất vả mà còn lâu.",
+   "kr": "마라톤은 ___ 시간도 오래 걸려요.",
+   "answer": [
+    "힘들뿐더러"
+   ],
+   "explain": "Thân ㄹ → ㄹ뿐더러."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ뿐더러 với 좋다: Môn này không chỉ tốt cho sức khỏe mà còn vui.",
+   "kr": "이 운동은 건강에 ___ 재미도 있어요.",
+   "answer": [
+    "좋을뿐더러"
+   ],
+   "explain": "Có patchim → 을뿐더러."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã ghi một bàn trong hiệp một.",
+   "kr": "___에 한 골을 넣었어요.",
+   "answer": [
+    "전반전"
+   ],
+   "explain": "전반전."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trọng tài đã cảnh cáo cầu thủ đó.",
+   "kr": "심판이 그 선수에게 ___를 줬어요.",
+   "answer": [
+    "경고"
+   ],
+   "explain": "경고."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Không chỉ phạm lỗi mà còn phản đối trọng tài.",
+   "tokens": [
+    "반칙을",
+    "했을뿐더러",
+    "심판에게",
+    "항의까지",
+    "했어요"
+   ],
+   "answer": "반칙을 했을뿐더러 심판에게 항의까지 했어요",
+   "explain": "았/었을뿐더러 + 까지."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hai đội đã có trận đấu quyết liệt.",
+   "tokens": [
+    "두",
+    "팀이",
+    "치열한",
+    "경기를",
+    "벌였어요"
+   ],
+   "answer": "두 팀이 치열한 경기를 벌였어요",
+   "explain": "경기를 벌이다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhà hàng này không chỉ rẻ mà còn ngon. (dùng (으)ㄹ뿐더러)",
+   "answer": [
+    "이 식당은 쌀뿐더러 맛도 있어요.",
+    "이 식당은 값이 쌀뿐더러 맛있어요.",
+    "이 식당은 음식이 쌀뿐더러 맛도 좋아요.",
+    "이 식당은 쌀뿐더러 맛있어요."
+   ],
+   "explain": "싸다 → 쌀뿐더러."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Trận đấu kéo dài đến hiệp phụ.",
+   "answer": [
+    "경기가 연장전까지 갔어요.",
+    "경기는 연장전까지 갔어요."
+   ],
+   "explain": "연장전."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hàn Quốc bắn cung rất giỏi.",
+   "answer": [
+    "한국은 양궁을 정말 잘해요.",
+    "한국은 양궁을 아주 잘해요."
+   ],
+   "explain": "양궁."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "양궁은 한국이 올림픽에서 가장 많은 금메달을 딴 종목일뿐더러 선수 선발 과정이 공정하기로도 유명하다. 그래서 국가대표가 되는 것이 올림픽 메달을 따는 것보다 어렵다는 말도 있다.",
+   "answer": "Bắn cung không chỉ là môn Hàn Quốc giành được nhiều huy chương vàng Olympic nhất mà còn nổi tiếng với quy trình tuyển chọn vận động viên công bằng. Vì vậy có câu nói rằng trở thành tuyển thủ quốc gia còn khó hơn giành huy chương Olympic.",
+   "explain": "일뿐더러; 기로 유명하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 토너먼트는 진 팀이 바로 떨어지는 방식이라 긴장감이 클뿐더러 짧은 기간에 우승팀을 정할 수 있습니다. 반면 리그전은 모든 팀이 서로 경기를 하기 때문에 시간이 오래 걸리지만, 실력을 더 정확하게 비교할 수 있다는 장점이 있습니다. 그래서 월드컵은 처음에는 리그전으로, 나중에는 토너먼트로 진행됩니다.",
+   "options": [
+    "리그전은 실력을 더 정확하게 비교할 수 있다.",
+    "토너먼트는 시간이 오래 걸린다.",
+    "월드컵은 리그전으로만 진행된다.",
+    "리그전에서는 진 팀이 바로 떨어진다."
+   ],
+   "answer": "리그전은 실력을 더 정확하게 비교할 수 있다.",
+   "explain": "실력을 더 정확하게 비교할 수 있다는 장점."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "마라톤은 42.195km를 달리는 경기이다. 이 거리는 고대 그리스의 한 병사가 전쟁의 승리 소식을 전하기 위해 달린 거리에서 유래했다고 한다. 마라톤은 체력이 필요할뿐더러 끝까지 포기하지 않는 정신력도 중요하다.",
+   "options": [
+    "마라톤에는 체력과 정신력이 모두 필요하다.",
+    "마라톤 거리는 50km이다.",
+    "마라톤은 현대에 처음 만들어졌다.",
+    "마라톤은 체력만 있으면 된다."
+   ],
+   "answer": "마라톤에는 체력과 정신력이 모두 필요하다.",
+   "explain": "체력이 필요할뿐더러 정신력도 중요."
+  }
+ ]
+}

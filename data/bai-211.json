@@ -1,0 +1,412 @@
+{
+ "id": "bai-211",
+ "lesson": "Bài 211",
+ "title": "Chế độ gia đình (phần 2/5)",
+ "krTitle": "가족 제도 2",
+ "date": "2027-09-21",
+ "day": 307,
+ "source": "TOPIK 6 – Bài 1: Chế độ gia đình (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "증조부",
+   "Jeungjobu",
+   "Cụ ông",
+   "증조부께서는 100세까지 사셨어요.",
+   "Cụ ông đã sống đến 100 tuổi."
+  ],
+  [
+   "증조모",
+   "Jeungjomo",
+   "Cụ bà",
+   "증조모의 사진이 집에 걸려 있어요.",
+   "Ảnh cụ bà được treo trong nhà."
+  ],
+  [
+   "시부모",
+   "Sibumo",
+   "Bố mẹ chồng",
+   "결혼 후 시부모님과 함께 살아요.",
+   "Sau khi kết hôn tôi sống cùng bố mẹ chồng."
+  ],
+  [
+   "삼촌",
+   "Samchon",
+   "Chú",
+   "삼촌이 저에게 자전거를 사 주셨어요.",
+   "Chú đã mua xe đạp cho tôi."
+  ],
+  [
+   "가족 부양",
+   "Gajong buyang",
+   "Việc nuôi sống gia đình",
+   "그는 일찍부터 가족 부양을 책임졌어요.",
+   "Anh ấy sớm gánh vác việc nuôi gia đình."
+  ],
+  [
+   "효도",
+   "Hyodo",
+   "Hiếu đạo",
+   "부모님께 효도하는 것이 중요해요.",
+   "Hiếu thảo với cha mẹ là điều quan trọng."
+  ],
+  [
+   "가사 분담",
+   "Gasa bundam",
+   "Việc phân chia việc nhà",
+   "맞벌이 부부는 가사 분담이 필요해요.",
+   "Vợ chồng cùng đi làm cần chia sẻ việc nhà."
+  ],
+  [
+   "출산하다",
+   "Chulsanhada",
+   "Sinh đẻ",
+   "언니가 지난달에 딸을 출산했어요.",
+   "Chị tôi sinh con gái tháng trước."
+  ],
+  [
+   "효심",
+   "Hyosim",
+   "Lòng hiếu thảo",
+   "그의 효심에 모두 감동했어요.",
+   "Mọi người cảm động trước lòng hiếu thảo của anh ấy."
+  ],
+  [
+   "맞벌이",
+   "Matbeori",
+   "Hai vợ chồng cùng đi làm",
+   "요즘은 맞벌이 가정이 많아요.",
+   "Dạo này nhiều gia đình cả hai vợ chồng đi làm."
+  ],
+  [
+   "자녀 양육",
+   "Janyeo yangyuk",
+   "Việc nuôi dạy con cái",
+   "자녀 양육은 부부가 함께 해야 해요.",
+   "Việc nuôi dạy con cái vợ chồng phải cùng làm."
+  ],
+  [
+   "입양",
+   "Ibyang",
+   "Việc nhận con nuôi",
+   "그 부부는 아이를 입양해서 키우고 있어요.",
+   "Cặp vợ chồng đó nhận con nuôi và đang nuôi dạy."
+  ],
+  [
+   "부자지간",
+   "Bujajigan",
+   "Quan hệ cha con",
+   "부자지간에 대화가 많아야 해요.",
+   "Giữa cha và con phải trò chuyện nhiều."
+  ],
+  [
+   "부부유별",
+   "Bubuyubyeol",
+   "Phu phụ hữu biệt (vợ chồng phải có sự phân biệt)",
+   "부부유별은 유교의 가르침이에요.",
+   "Phu phụ hữu biệt là lời dạy của Nho giáo."
+  ],
+  [
+   "대를 잇다",
+   "Daereul itda",
+   "Tiếp bước, tiếp nối, kế tục (gia đình, địa vị)",
+   "옛날에는 아들이 대를 이어야 한다고 생각했어요.",
+   "Ngày xưa người ta nghĩ con trai phải nối dõi."
+  ],
+  [
+   "부자유친",
+   "Bujayuchin",
+   "Phụ tử hữu thân (cha con có sự thân thiết)",
+   "부자유친은 아버지와 아들 사이의 친함을 말해요.",
+   "Phụ tử hữu thân nói về sự thân thiết giữa cha và con."
+  ],
+  [
+   "여필종부",
+   "Yeopiljongbu",
+   "Nữ thiết tòng phu, xuất giá tòng phu",
+   "여필종부는 이제 맞지 않는 생각이에요.",
+   "Xuất giá tòng phu giờ là suy nghĩ không còn phù hợp."
+  ],
+  [
+   "대대손손",
+   "Daedaesonson",
+   "Đời này qua đời khác",
+   "이 집은 대대손손 내려온 집이에요.",
+   "Ngôi nhà này được truyền từ đời này sang đời khác."
+  ],
+  [
+   "피를 나누다",
+   "Pireul nanuda",
+   "Chia sẻ dòng máu, chung dòng máu",
+   "피를 나눈 형제끼리 싸우면 안 돼요.",
+   "Anh em ruột thịt không được đánh nhau."
+  ],
+  [
+   "그 아비에 그 아들",
+   "Geu abie geu adeul",
+   "Cha nào con nấy",
+   "그 아비에 그 아들이라고 아버지처럼 노래를 잘해요.",
+   "Cha nào con nấy, hát hay giống bố."
+  ],
+  [
+   "화목하다",
+   "Hwamokada",
+   "Hòa mục, hòa thuận",
+   "우리 가족은 화목해요.",
+   "Gia đình tôi hòa thuận."
+  ],
+  [
+   "오순도순",
+   "Osundosun",
+   "Đầm ấm, êm thấm",
+   "가족들이 오순도순 모여 저녁을 먹었어요.",
+   "Cả nhà quây quần đầm ấm ăn tối."
+  ],
+  [
+   "외조하다",
+   "Oejohada",
+   "Chồng hỗ trợ vợ (ngoại trợ)",
+   "남편이 아내의 사업을 외조하고 있어요.",
+   "Người chồng đang hỗ trợ việc kinh doanh của vợ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "A + 기 짝이 없다 — Vô cùng",
+   "meaning": "Nhấn mạnh MỨC ĐỘ CỰC KỲ CAO, không gì sánh được: 'vô cùng…, … hết chỗ nói, … không gì bằng'. 짝 = cái sánh đôi → 'không có gì sánh bằng'. Gắn vào thân TÍNH TỪ (chủ yếu tính từ cảm xúc, đánh giá): 기쁘다 → 기쁘기 짝이 없다, 부끄럽다 → 부끄럽기 짝이 없다, 무례하다 → 무례하기 짝이 없다, 답답하다 → 답답하기 짝이 없다. Thường dùng với cảm xúc TIÊU CỰC hoặc phê phán (위험하다, 한심하다, 불편하다, 미안하다) nhưng cũng có tích cực (기쁘다, 반갑다). Văn viết, lời nói trang trọng. Gần nghĩa: 여간 -지 않다 (Bài 194), 아주, 그지없다 (văn chương). Không dùng với động từ.",
+   "examples": [
+    "오랜만에 가족들이 모두 모여서 기쁘기 짝이 없어요. — Lâu lắm cả gia đình mới tụ họp, vui vô cùng.",
+    "부모님께 거짓말을 해서 부끄럽기 짝이 없어요. — Nói dối bố mẹ nên xấu hổ vô cùng.",
+    "어른 앞에서 그런 말을 하는 것은 무례하기 짝이 없다. — Nói như vậy trước người lớn thì vô lễ hết chỗ nói.",
+    "혼자 아이를 키우는 것은 힘들기 짝이 없어요. — Một mình nuôi con vất vả vô cùng."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Câu tục ngữ tương đương 'Cha nào con nấy'?",
+   "kr": "",
+   "options": [
+    "그 아비에 그 아들",
+    "대대손손",
+    "피를 나누다"
+   ],
+   "answer": "그 아비에 그 아들",
+   "explain": "아비 = cha (cách nói cũ)."
+  },
+  {
+   "type": "choice",
+   "q": "Hai vợ chồng cùng đi làm gọi là gì?",
+   "kr": "",
+   "options": [
+    "맞벌이",
+    "외조",
+    "가사 분담"
+   ],
+   "answer": "맞벌이",
+   "explain": "맞 = cùng; 벌이 = kiếm tiền."
+  },
+  {
+   "type": "choice",
+   "q": "Chồng hỗ trợ sự nghiệp của vợ gọi là gì?",
+   "kr": "",
+   "options": [
+    "외조하다",
+    "내조하다",
+    "출산하다"
+   ],
+   "answer": "외조하다",
+   "explain": "외조 (chồng giúp vợ) ↔ 내조 (vợ giúp chồng)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cả nhà quây quần đầm ấm ăn tối.",
+   "kr": "가족들이 ___ 모여 저녁을 먹었어요.",
+   "options": [
+    "오순도순",
+    "대대손손",
+    "부부유별"
+   ],
+   "answer": "오순도순",
+   "explain": "오순도순 = đầm ấm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Vui vô cùng.'",
+   "kr": "",
+   "options": [
+    "기쁘기 짝이 없어요.",
+    "기쁜 짝이 없어요.",
+    "기뻐하기 짝이 있어요."
+   ],
+   "answer": "기쁘기 짝이 없어요.",
+   "explain": "A기 짝이 없다."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 기 짝이 없다 SAI?",
+   "kr": "",
+   "options": [
+    "저는 밥을 먹기 짝이 없어요.",
+    "그 말은 무례하기 짝이 없어요.",
+    "혼자 살기가 외롭기 짝이 없어요."
+   ],
+   "answer": "저는 밥을 먹기 짝이 없어요.",
+   "explain": "Không dùng với động từ (먹다)."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với 기 짝이 없다?",
+   "kr": "",
+   "options": [
+    "여간 -지 않다",
+    "(으)ㄴ 나머지",
+    "는 대로"
+   ],
+   "answer": "여간 -지 않다",
+   "explain": "Cả hai = vô cùng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Gia đình tôi hòa thuận.",
+   "kr": "우리 가족은 ___.",
+   "options": [
+    "화목해요",
+    "출산해요",
+    "입양해요"
+   ],
+   "answer": "화목해요",
+   "explain": "화목하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 짝이 없다 với 부끄럽다: Nói dối bố mẹ nên xấu hổ vô cùng.",
+   "kr": "부모님께 거짓말을 해서 ___.",
+   "answer": [
+    "부끄럽기 짝이 없어요",
+    "부끄럽기 짝이 없다"
+   ],
+   "explain": "부끄럽기 짝이 없어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 짝이 없다 với 힘들다: Một mình nuôi con vất vả vô cùng.",
+   "kr": "혼자 아이를 키우는 것은 ___.",
+   "answer": [
+    "힘들기 짝이 없어요",
+    "힘들기 짝이 없다"
+   ],
+   "explain": "힘들기 짝이 없어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Vợ chồng cùng đi làm cần chia sẻ việc nhà.",
+   "kr": "맞벌이 부부는 가사 ___이 필요해요.",
+   "answer": [
+    "분담"
+   ],
+   "explain": "가사 분담."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ngày xưa người ta nghĩ con trai phải nối dõi.",
+   "kr": "옛날에는 아들이 ___를 이어야 한다고 생각했어요.",
+   "answer": [
+    "대"
+   ],
+   "explain": "대를 잇다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Lâu lắm cả nhà mới tụ họp, vui vô cùng.",
+   "tokens": [
+    "오랜만에",
+    "가족들이",
+    "모여서",
+    "기쁘기",
+    "짝이",
+    "없어요"
+   ],
+   "answer": "오랜만에 가족들이 모여서 기쁘기 짝이 없어요",
+   "explain": "기 짝이 없다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hiếu thảo với cha mẹ là điều quan trọng.",
+   "tokens": [
+    "부모님께",
+    "효도하는",
+    "것이",
+    "중요해요"
+   ],
+   "answer": "부모님께 효도하는 것이 중요해요",
+   "explain": "효도하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Căn phòng này bất tiện vô cùng. (dùng 기 짝이 없다)",
+   "answer": [
+    "이 방은 불편하기 짝이 없어요.",
+    "이 방은 불편하기 짝이 없다.",
+    "이 방은 정말 불편하기 짝이 없어요."
+   ],
+   "explain": "불편하기 짝이 없다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chị tôi sinh con gái tháng trước.",
+   "answer": [
+    "언니가 지난달에 딸을 출산했어요.",
+    "언니가 지난달에 딸을 낳았어요.",
+    "누나가 지난달에 딸을 출산했어요."
+   ],
+   "explain": "출산하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Việc nuôi dạy con cái vợ chồng phải cùng làm.",
+   "answer": [
+    "자녀 양육은 부부가 함께 해야 해요.",
+    "자녀 양육은 부부가 같이 해야 해요."
+   ],
+   "explain": "아/어야 하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "과거 유교 사회에서는 부부유별, 여필종부 같은 가르침에 따라 아내가 집안일을 모두 맡았다. 그러나 맞벌이 부부가 늘면서 이제는 가사 분담과 공동 양육이 당연한 일이 되었다.",
+   "answer": "Trong xã hội Nho giáo trước đây, theo những lời dạy như phu phụ hữu biệt, xuất giá tòng phu, người vợ đảm nhận toàn bộ việc nhà. Nhưng khi vợ chồng cùng đi làm tăng lên, giờ đây việc chia sẻ việc nhà và cùng nuôi con đã trở thành điều đương nhiên.",
+   "explain": "에 따라; 면서."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 조선 시대에는 장남이 대를 잇는 것을 매우 중요하게 생각했습니다. 그래서 장남이 부모를 모시고 제사를 지냈습니다. 하지만 오늘날에는 아들딸 구별 없이 형제들이 함께 부모님을 부양하는 경우가 많습니다. 또 제사를 간단하게 지내거나 형제들이 돌아가면서 지내기도 합니다.",
+   "options": [
+    "오늘날에는 형제들이 함께 부모를 부양하는 경우가 많다.",
+    "오늘날에도 장남만 부모를 모신다.",
+    "조선 시대에는 대를 잇는 것이 중요하지 않았다.",
+    "오늘날에는 제사를 전혀 지내지 않는다."
+   ],
+   "answer": "오늘날에는 형제들이 함께 부모를 부양하는 경우가 많다.",
+   "explain": "형제들이 함께 부모님을 부양하는 경우가 많습니다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "요즘은 아내가 일하고 남편이 집안일과 육아를 맡는 가정도 있다. 이렇게 남편이 아내를 돕는 것을 (     )라고 한다. 이는 아내가 남편을 돕는 '내조'와 반대되는 말이다.",
+   "options": [
+    "외조",
+    "효도",
+    "맞벌이",
+    "입양"
+   ],
+   "answer": "외조",
+   "explain": "Ngược với 내조 = 외조."
+  }
+ ]
+}

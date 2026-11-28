@@ -1,0 +1,413 @@
+{
+ "id": "bai-208",
+ "lesson": "Bài 208",
+ "title": "Du học Hàn Quốc (phần 4/5)",
+ "krTitle": "한국 유학 4",
+ "date": "2027-09-17",
+ "day": 303,
+ "source": "TOPIK 5 – Bài 15: Du học Hàn Quốc (phần 4/5)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "발휘하다",
+   "Balhwihada",
+   "Phát huy",
+   "그는 발표에서 실력을 마음껏 발휘했어요.",
+   "Anh ấy phát huy hết năng lực trong buổi thuyết trình."
+  ],
+  [
+   "변상",
+   "Byeonsang",
+   "Sự bồi thường",
+   "빌린 책을 잃어버려서 변상을 했어요.",
+   "Làm mất sách mượn nên tôi đã bồi thường."
+  ],
+  [
+   "불리하다",
+   "Bullihada",
+   "Bất lợi",
+   "한국어를 못 하면 취업에 불리해요.",
+   "Không biết tiếng Hàn thì bất lợi khi xin việc."
+  ],
+  [
+   "상실",
+   "Sangsil",
+   "Sự mất đi, đánh mất",
+   "가족을 잃은 상실의 아픔이 컸어요.",
+   "Nỗi đau mất mát người thân rất lớn."
+  ],
+  [
+   "상의하다",
+   "Sanguihada",
+   "Trao đổi ý kiến",
+   "진로 문제를 부모님과 상의했어요.",
+   "Tôi đã bàn với bố mẹ về vấn đề hướng đi."
+  ],
+  [
+   "수소문",
+   "Susomun",
+   "Sự dò hỏi tung tích",
+   "잃어버린 지갑을 찾으려고 수소문했어요.",
+   "Tôi dò hỏi khắp nơi để tìm chiếc ví bị mất."
+  ],
+  [
+   "수속",
+   "Susok",
+   "Thủ tục",
+   "비자 연장 수속을 밟았어요.",
+   "Tôi đã làm thủ tục gia hạn visa."
+  ],
+  [
+   "시험 범위",
+   "Siheom beomwi",
+   "Phạm vi thi, phạm vi nội dung thi",
+   "시험 범위가 너무 넓어요.",
+   "Phạm vi thi quá rộng."
+  ],
+  [
+   "약재",
+   "Yakjae",
+   "Dược liệu",
+   "한약은 여러 가지 약재로 만들어요.",
+   "Thuốc bắc được làm từ nhiều loại dược liệu."
+  ],
+  [
+   "연체료 부과",
+   "Yeoncheryo bugwa",
+   "Việc đóng phạt trễ hạn",
+   "책을 늦게 반납하면 연체료가 부과돼요.",
+   "Trả sách muộn sẽ bị tính phí trễ hạn."
+  ],
+  [
+   "예상 문제",
+   "Yesang munje",
+   "Câu hỏi dự đoán trước",
+   "선배가 예상 문제를 알려 줬어요.",
+   "Tiền bối đã cho tôi biết câu hỏi dự đoán."
+  ],
+  [
+   "왕래",
+   "Wangnae",
+   "Sự qua lại",
+   "두 나라 사이에 사람들의 왕래가 잦아요.",
+   "Người dân hai nước qua lại thường xuyên."
+  ],
+  [
+   "유인물",
+   "Yuinmul",
+   "Bảng in, ấn phẩm",
+   "수업 시간에 유인물을 나눠 줬어요.",
+   "Trong giờ học đã phát tài liệu in."
+  ],
+  [
+   "유전자",
+   "Yujeonja",
+   "Gen di truyền",
+   "외모는 유전자의 영향을 많이 받아요.",
+   "Ngoại hình chịu nhiều ảnh hưởng của gen."
+  ],
+  [
+   "융합",
+   "Yunghap",
+   "Sự hỗn hợp, sự hợp nhất",
+   "기술과 예술의 융합이 새로운 산업을 만들어요.",
+   "Sự kết hợp công nghệ và nghệ thuật tạo ra ngành mới."
+  ],
+  [
+   "의논하다",
+   "Uinonhada",
+   "Trao đổi, bàn luận",
+   "친구와 여행 계획을 의논했어요.",
+   "Tôi đã bàn kế hoạch du lịch với bạn."
+  ],
+  [
+   "이색",
+   "Isaek",
+   "Sự độc đáo, khác lạ",
+   "이색 축제가 관광객들의 눈길을 끌었어요.",
+   "Lễ hội độc đáo đã thu hút ánh mắt du khách."
+  ],
+  [
+   "이의",
+   "Iui",
+   "Ý kiến khác, quan điểm khác",
+   "회의 결과에 이의가 있으면 말씀하세요.",
+   "Nếu có ý kiến khác về kết quả họp thì xin cứ nói."
+  ],
+  [
+   "인플레이션",
+   "Inpeulleisyeon",
+   "Sự lạm phát (inflation)",
+   "인플레이션으로 돈의 가치가 떨어졌어요.",
+   "Vì lạm phát mà giá trị đồng tiền giảm."
+  ],
+  [
+   "일체",
+   "Ilche",
+   "Toàn bộ, tất cả",
+   "숙박비 일체를 회사가 부담해요.",
+   "Toàn bộ tiền ở do công ty chi trả."
+  ],
+  [
+   "자료집",
+   "Jaryojip",
+   "Tập tài liệu",
+   "교수님이 만든 자료집으로 공부했어요.",
+   "Tôi học bằng tập tài liệu giáo sư soạn."
+  ],
+  [
+   "자발적이다",
+   "Jabaljeogida",
+   "Mang tính tự nguyện",
+   "학생들이 자발적으로 청소를 했어요.",
+   "Học sinh tự nguyện dọn dẹp."
+  ],
+  [
+   "잦다",
+   "Jatda",
+   "Thường xuyên",
+   "요즘 비가 잦아서 빨래가 안 말라요.",
+   "Dạo này mưa thường xuyên nên đồ giặt không khô."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + (이)라든가 — Như là",
+   "meaning": "Liệt kê VÍ DỤ trong số nhiều thứ: 'như là…, chẳng hạn…, … hay …'. Gắn sau danh từ: có patchim → 이라든가 (시험이라든가); không patchim → 라든가 (커피라든가). Thường liệt kê 2 thứ: 'A(이)라든가 B(이)라든가' hoặc 'A(이)라든가 B 같은 …'. Cuối thường có 같은 N, 등, 등등. Với động từ / tính từ: V/A + (ㄴ/는)다든가: 책을 읽는다든가 운동을 한다든가 (như đọc sách hay tập thể dục). Gần nghĩa: N(이)나 (hoặc), N 같은 (như), N 등 (v.v.). (이)라든가 nghe mềm, hay dùng khi nêu ví dụ trong hội thoại và văn viết. Đừng nhầm với 든지 (Bài 128 – hoặc là… hoặc là).",
+   "examples": [
+    "시험 범위라든가 예상 문제 같은 정보를 선배에게 물어봤어요. — Tôi đã hỏi tiền bối những thông tin như phạm vi thi hay câu hỏi dự đoán.",
+    "비자라든가 외국인 등록증 같은 서류는 잘 보관하세요. — Các giấy tờ như visa hay thẻ cư trú hãy giữ cẩn thận.",
+    "주말에는 책을 읽는다든가 산책을 한다든가 하면서 쉬어요. — Cuối tuần tôi nghỉ ngơi bằng cách đọc sách hay đi dạo.",
+    "김치라든가 불고기라든가 한국 음식은 다 좋아해요. — Tôi thích tất cả món Hàn như kimchi hay bulgogi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Phí phạt khi trả muộn (sách, tiền) gọi là gì?",
+   "kr": "",
+   "options": [
+    "연체료",
+    "변상",
+    "수속"
+   ],
+   "answer": "연체료",
+   "explain": "연체 = trễ hạn."
+  },
+  {
+   "type": "choice",
+   "q": "Bồi thường thứ đã làm hỏng/mất gọi là gì?",
+   "kr": "",
+   "options": [
+    "변상",
+    "상실",
+    "융합"
+   ],
+   "answer": "변상",
+   "explain": "변상하다."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 유리하다 (có lợi) là gì?",
+   "kr": "",
+   "options": [
+    "불리하다",
+    "잦다",
+    "자발적이다"
+   ],
+   "answer": "불리하다",
+   "explain": "불(không) + 리(lợi)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phát tài liệu in trong giờ học.",
+   "kr": "수업 시간에 ___을 나눠 줬어요.",
+   "options": [
+    "유인물",
+    "유전자",
+    "약재"
+   ],
+   "answer": "유인물",
+   "explain": "유인물 = tài liệu in."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Giấy tờ như visa hay thẻ cư trú…'",
+   "kr": "",
+   "options": [
+    "비자라든가 외국인 등록증 같은 서류",
+    "비자이라든가 외국인 등록증 같은 서류",
+    "비자든가라 외국인 등록증 같은 서류"
+   ],
+   "answer": "비자라든가 외국인 등록증 같은 서류",
+   "explain": "비자 không patchim → 라든가."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 시험: 'như là kỳ thi…'",
+   "kr": "",
+   "options": [
+    "시험이라든가",
+    "시험라든가",
+    "시험는다든가"
+   ],
+   "answer": "시험이라든가",
+   "explain": "Có patchim → 이라든가."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với động từ: 'như là đọc sách hay đi dạo'",
+   "kr": "",
+   "options": [
+    "책을 읽는다든가 산책을 한다든가",
+    "책을 읽이라든가 산책을 하라든가",
+    "책을 읽든가라 산책을 하든가라"
+   ],
+   "answer": "책을 읽는다든가 산책을 한다든가",
+   "explain": "V + (ㄴ/는)다든가."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Toàn bộ tiền ở do công ty chi trả.",
+   "kr": "숙박비 ___를 회사가 부담해요.",
+   "options": [
+    "일체",
+    "이의",
+    "왕래"
+   ],
+   "answer": "일체",
+   "explain": "일체 = toàn bộ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)라든가: Tôi thích món Hàn như kimchi hay bulgogi.",
+   "kr": "김치___ 불고기라든가 한국 음식은 다 좋아해요.",
+   "answer": [
+    "라든가"
+   ],
+   "explain": "김치 không patchim → 라든가."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)라든가: Hỏi thông tin như phạm vi thi…",
+   "kr": "시험 ___ 예상 문제 같은 정보를 물어봤어요.",
+   "answer": [
+    "범위라든가"
+   ],
+   "explain": "범위라든가."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đã bàn với bố mẹ về hướng đi.",
+   "kr": "진로 문제를 부모님과 ___했어요.",
+   "answer": [
+    "상의",
+    "의논"
+   ],
+   "explain": "상의하다 = 의논하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Học sinh tự nguyện dọn dẹp.",
+   "kr": "학생들이 ___으로 청소를 했어요.",
+   "answer": [
+    "자발적"
+   ],
+   "explain": "자발적으로."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Anh ấy phát huy hết năng lực trong buổi thuyết trình.",
+   "tokens": [
+    "그는",
+    "발표에서",
+    "실력을",
+    "마음껏",
+    "발휘했어요"
+   ],
+   "answer": "그는 발표에서 실력을 마음껏 발휘했어요",
+   "explain": "실력을 발휘하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Trả sách muộn sẽ bị tính phí trễ hạn.",
+   "tokens": [
+    "책을",
+    "늦게",
+    "반납하면",
+    "연체료가",
+    "부과돼요"
+   ],
+   "answer": "책을 늦게 반납하면 연체료가 부과돼요",
+   "explain": "부과되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi thích các môn thể thao như bóng đá hay bóng chày. (dùng (이)라든가)",
+   "answer": [
+    "축구라든가 야구 같은 운동을 좋아해요.",
+    "축구라든가 야구라든가 운동을 좋아해요.",
+    "저는 축구라든가 야구 같은 운동을 좋아해요.",
+    "축구라든가 야구 같은 스포츠를 좋아해요."
+   ],
+   "explain": "라든가 … 같은."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không biết tiếng Hàn thì bất lợi khi xin việc.",
+   "answer": [
+    "한국어를 못 하면 취업에 불리해요.",
+    "한국어를 못하면 취업할 때 불리해요.",
+    "한국어를 모르면 취업에 불리해요."
+   ],
+   "explain": "N에 불리하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Dạo này mưa thường xuyên.",
+   "answer": [
+    "요즘 비가 잦아요.",
+    "요즘 비가 자주 와요.",
+    "요즘은 비가 잦아요."
+   ],
+   "explain": "잦다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "도서관 책을 잃어버리면 변상을 해야 하고, 늦게 반납하면 연체료가 부과된다. 또 시험 기간에는 자료집이라든가 유인물 같은 자료를 빌리려는 학생이 많아 미리 예약하는 것이 좋다.",
+   "answer": "Làm mất sách thư viện thì phải bồi thường, trả muộn thì bị tính phí trễ hạn. Ngoài ra mùa thi có nhiều sinh viên muốn mượn tài liệu như tập tài liệu hay bản in nên tốt nhất là đặt trước.",
+   "explain": "라든가 … 같은."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người đàn ông. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "여자: 다음 주 시험 범위가 어디까지예요?\n남자: 저도 잘 모르겠어요. 지난 수업에 결석해서요.\n여자: 그럼 조교님께 물어보는 게 어때요? 학과 사무실에 계실 거예요.\n남자: 그래야겠네요. 지금 바로 가 볼게요.",
+   "options": [
+    "학과 사무실에 간다.",
+    "시험을 본다.",
+    "수업에 결석한다.",
+    "여자에게 유인물을 준다."
+   ],
+   "answer": "학과 사무실에 간다.",
+   "explain": "지금 바로 가 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "졸업 후 진로에 대해 지도 교수님과 <상의했다>.",
+   "options": [
+    "의논했다",
+    "변상했다",
+    "발휘했다",
+    "수소문했다"
+   ],
+   "answer": "의논했다",
+   "explain": "상의하다 = 의논하다."
+  }
+ ]
+}

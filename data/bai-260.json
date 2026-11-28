@@ -1,0 +1,388 @@
+{
+ "id": "bai-260",
+ "lesson": "Bài 260",
+ "title": "Con người và thiên nhiên (phần 2/5)",
+ "krTitle": "인간과 자연 2",
+ "date": "2027-12-04",
+ "day": 381,
+ "source": "TOPIK 6 – Bài 12: Con người và thiên nhiên (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "온대기후",
+   "Ondaegihu",
+   "Khí hậu ôn đới",
+   "한국은 사계절이 뚜렷한 온대기후예요.",
+   "Hàn Quốc có khí hậu ôn đới với bốn mùa rõ rệt."
+  ],
+  [
+   "해양성기후",
+   "Haeyangseonggihu",
+   "Khí hậu có tính hải dương",
+   "영국은 해양성기후라서 비가 자주 와요.",
+   "Anh có khí hậu hải dương nên hay mưa."
+  ],
+  [
+   "계절풍",
+   "Gyejeolpung",
+   "Gió mùa",
+   "여름에는 남동 계절풍이 불어요.",
+   "Mùa hè có gió mùa đông nam thổi."
+  ],
+  [
+   "열대기후",
+   "Yeoldaegihu",
+   "Khí hậu nhiệt đới",
+   "베트남 남부는 열대기후예요.",
+   "Miền Nam Việt Nam có khí hậu nhiệt đới."
+  ],
+  [
+   "한대기후",
+   "Handaegihu",
+   "Khí hậu hàn đới",
+   "한대기후 지역은 일 년 내내 추워요.",
+   "Vùng khí hậu hàn đới lạnh quanh năm."
+  ],
+  [
+   "다습",
+   "Daseup",
+   "Ẩm ướt",
+   "장마철에는 고온 다습해요.",
+   "Mùa mưa thì nóng ẩm."
+  ],
+  [
+   "아열대기후",
+   "Ayeoldaegihu",
+   "Khí hậu cận nhiệt đới",
+   "제주도 남부는 아열대기후에 가까워요.",
+   "Phía nam Jeju gần với khí hậu cận nhiệt đới."
+  ],
+  [
+   "건조기후",
+   "Geonjogihu",
+   "Khí hậu khô",
+   "사막은 대표적인 건조기후 지역이에요.",
+   "Sa mạc là vùng khí hậu khô tiêu biểu."
+  ],
+  [
+   "한랭",
+   "Hallaeng",
+   "Hàn lạnh",
+   "겨울에는 한랭한 북서풍이 불어요.",
+   "Mùa đông có gió tây bắc lạnh giá thổi."
+  ],
+  [
+   "풍수지리",
+   "Pungsujiri",
+   "Địa lý phong thủy",
+   "옛날 사람들은 풍수지리를 보고 집을 지었어요.",
+   "Người xưa xem phong thủy rồi mới xây nhà."
+  ],
+  [
+   "좌청룡 우백호",
+   "Jwacheongnyong ubaeko",
+   "Tả thanh long hữu bạch hổ (bên trái long chầu, bên phải hổ phục)",
+   "좌청룡 우백호는 풍수지리의 중요한 개념이에요.",
+   "Tả thanh long hữu bạch hổ là khái niệm quan trọng của phong thủy."
+  ],
+  [
+   "배산임수",
+   "Baesanimsu",
+   "Địa thế mà sau lưng là núi trước mặt là nước",
+   "한옥 마을은 배산임수 지형에 있어요.",
+   "Làng hanok nằm ở địa thế lưng tựa núi mặt hướng sông."
+  ],
+  [
+   "명당",
+   "Myeongdang",
+   "Vị trí tốt, vị trí đắc địa, vùng đất địa linh",
+   "이곳은 예로부터 명당으로 알려져 있어요.",
+   "Nơi này từ xưa được biết đến là đất lành."
+  ],
+  [
+   "묏자리",
+   "Moetjari",
+   "Thổ mộ, nơi đặt mộ",
+   "할아버지의 묏자리를 정했어요.",
+   "Đã chọn nơi đặt mộ cho ông."
+  ],
+  [
+   "자연재해",
+   "Jayeonjaehae",
+   "Thiên tai",
+   "태풍이나 지진 같은 자연재해에 대비해야 해요.",
+   "Phải phòng chống thiên tai như bão hay động đất."
+  ],
+  [
+   "폭설",
+   "Pokseol",
+   "Bão tuyết",
+   "폭설로 길이 막혔어요.",
+   "Đường bị chặn vì tuyết rơi dày."
+  ],
+  [
+   "폭우",
+   "Pogu",
+   "Mưa bão",
+   "폭우로 강물이 넘쳤어요.",
+   "Nước sông tràn vì mưa lớn."
+  ],
+  [
+   "인명 피해",
+   "Inmyeong pihae",
+   "Thiệt hại về người",
+   "이번 태풍으로 인명 피해는 없었어요.",
+   "Cơn bão lần này không có thiệt hại về người."
+  ],
+  [
+   "지진",
+   "Jijin",
+   "Động đất",
+   "일본은 지진이 자주 일어나요.",
+   "Nhật Bản thường xảy ra động đất."
+  ],
+  [
+   "홍수",
+   "Hongsu",
+   "Hồng thủy, lũ lụt",
+   "홍수로 많은 집이 물에 잠겼어요.",
+   "Do lũ lụt mà nhiều nhà bị ngập."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 은/는 고사하고 — Nói gì đến",
+   "meaning": "'Đừng nói đến… (điều lớn hơn), ngay cả… (điều nhỏ hơn) cũng không': phủ định một điều KHÓ / LỚN, rồi nói rằng ngay cả điều DỄ / NHỎ hơn cũng không đạt được. Cấu trúc: N1은/는 고사하고 N2도/조차/마저 + phủ định. Có patchim → 은 고사하고 (여행은 고사하고); không patchim → 는 고사하고 (휴가는 고사하고). Với động từ: V기는 고사하고. Ví dụ: 해외여행은 고사하고 동네 산책도 못 했어요 (nói gì đến du lịch nước ngoài, đến đi dạo trong xóm cũng không được). Văn viết và nói trang trọng. Gần nghĩa: 기는커녕 / N은/는커녕 (Bài 227) – rất gần, nhưng 고사하고 hơi trang trọng hơn. Cả hai đều mang sắc thái thất vọng.",
+   "examples": [
+    "폭설 때문에 출근은 고사하고 집 밖에도 못 나갔어요. — Vì tuyết lớn, nói gì đến đi làm, ngay cả ra khỏi nhà cũng không được.",
+    "홍수로 집은 고사하고 먹을 물도 없었어요. — Vì lũ lụt, nói gì đến nhà cửa, ngay cả nước uống cũng không có.",
+    "요즘 너무 바빠서 여행은 고사하고 잠잘 시간도 없어요. — Dạo này bận quá, nói gì đến du lịch, ngay cả thời gian ngủ cũng không có.",
+    "한국어로 편지를 쓰기는 고사하고 인사도 못 해요. — Nói gì đến viết thư bằng tiếng Hàn, đến chào hỏi cũng không biết."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Địa thế lưng tựa núi, mặt hướng sông gọi là gì?",
+   "kr": "",
+   "options": [
+    "배산임수",
+    "좌청룡 우백호",
+    "풍수지리"
+   ],
+   "answer": "배산임수",
+   "explain": "배산(tựa núi) 임수(hướng nước)."
+  },
+  {
+   "type": "choice",
+   "q": "Gió đổi hướng theo mùa gọi là gì?",
+   "kr": "",
+   "options": [
+    "계절풍",
+    "한랭",
+    "다습"
+   ],
+   "answer": "계절풍",
+   "explain": "계절 = mùa."
+  },
+  {
+   "type": "choice",
+   "q": "Khí hậu của Hàn Quốc là gì?",
+   "kr": "",
+   "options": [
+    "온대기후",
+    "열대기후",
+    "한대기후"
+   ],
+   "answer": "온대기후",
+   "explain": "Ôn đới bốn mùa."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Cơn bão không có thiệt hại về người.",
+   "kr": "이번 태풍으로 ___는 없었어요.",
+   "options": [
+    "인명 피해",
+    "명당",
+    "묏자리"
+   ],
+   "answer": "인명 피해",
+   "explain": "인명 = sinh mạng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Nói gì đến du lịch, ngay cả thời gian ngủ cũng không có.'",
+   "kr": "",
+   "options": [
+    "여행은 고사하고 잠잘 시간도 없어요.",
+    "여행는 고사하고 잠잘 시간도 없어요.",
+    "여행은 고사하고 잠잘 시간이 많아요."
+   ],
+   "answer": "여행은 고사하고 잠잘 시간도 없어요.",
+   "explain": "여행 (patchim) → 은 고사하고 + phủ định."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với N은/는 고사하고?",
+   "kr": "",
+   "options": [
+    "N은/는커녕",
+    "N만 해도",
+    "N(이)나마"
+   ],
+   "answer": "N은/는커녕",
+   "explain": "Cả hai = đừng nói…"
+  },
+  {
+   "type": "choice",
+   "q": "Với động từ, dạng nào ĐÚNG?",
+   "kr": "",
+   "options": [
+    "쓰기는 고사하고",
+    "쓰는 고사하고",
+    "쓴 고사하고"
+   ],
+   "answer": "쓰기는 고사하고",
+   "explain": "V기는 고사하고."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đường bị chặn vì tuyết rơi dày.",
+   "kr": "___로 길이 막혔어요.",
+   "options": [
+    "폭설",
+    "폭우",
+    "지진"
+   ],
+   "answer": "폭설",
+   "explain": "폭설."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 은/는 고사하고: Vì tuyết lớn, nói gì đến đi làm, ra khỏi nhà cũng không được.",
+   "kr": "폭설 때문에 ___ 집 밖에도 못 나갔어요.",
+   "answer": [
+    "출근은 고사하고"
+   ],
+   "explain": "출근은 고사하고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 은/는 고사하고: Vì lũ, nói gì đến nhà cửa, nước uống cũng không có.",
+   "kr": "홍수로 ___ 먹을 물도 없었어요.",
+   "answer": [
+    "집은 고사하고"
+   ],
+   "explain": "집은 고사하고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nơi này từ xưa được biết là đất lành.",
+   "kr": "이곳은 예로부터 ___으로 알려져 있어요.",
+   "answer": [
+    "명당"
+   ],
+   "explain": "명당."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nhật Bản thường xảy ra động đất.",
+   "kr": "일본은 ___이 자주 일어나요.",
+   "answer": [
+    "지진"
+   ],
+   "explain": "지진."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nói gì đến viết thư, chào hỏi cũng không biết.",
+   "tokens": [
+    "편지를",
+    "쓰기는",
+    "고사하고",
+    "인사도",
+    "못",
+    "해요"
+   ],
+   "answer": "편지를 쓰기는 고사하고 인사도 못 해요",
+   "explain": "V기는 고사하고."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phải phòng chống thiên tai.",
+   "tokens": [
+    "자연재해에",
+    "대비해야",
+    "해요"
+   ],
+   "answer": "자연재해에 대비해야 해요",
+   "explain": "N에 대비하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nói gì đến bữa tối, đến bữa trưa còn chưa ăn. (dùng 고사하고)",
+   "answer": [
+    "저녁은 고사하고 점심도 못 먹었어요.",
+    "저녁은 고사하고 점심도 안 먹었어요.",
+    "저녁밥은 고사하고 점심도 못 먹었어요.",
+    "저녁 식사는 고사하고 점심도 못 먹었어요."
+   ],
+   "explain": "N은 고사하고 N도 못."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mùa mưa thì nóng ẩm.",
+   "answer": [
+    "장마철에는 고온 다습해요.",
+    "장마철에는 덥고 습해요."
+   ],
+   "explain": "다습."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Miền Nam Việt Nam có khí hậu nhiệt đới.",
+   "answer": [
+    "베트남 남부는 열대기후예요.",
+    "베트남 남부는 열대기후입니다."
+   ],
+   "explain": "열대기후."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "옛날 한국 사람들은 풍수지리에 따라 배산임수 지형을 명당으로 여겼다. 뒤에 있는 산은 차가운 북서풍을 막아 주고, 앞의 강은 농사에 필요한 물을 주기 때문이다.",
+   "answer": "Người Hàn xưa theo phong thủy mà coi địa thế lưng tựa núi mặt hướng sông là đất lành. Vì núi phía sau chắn gió tây bắc lạnh, còn sông phía trước cung cấp nước cần cho làm nông.",
+   "explain": "에 따라; 여기다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "남자: 다음 소식입니다. 어젯밤부터 내린 폭우로 남부 지방 곳곳에서 홍수 피해가 발생했습니다. 다행히 인명 피해는 없었지만 많은 주택이 물에 잠겼습니다. 기상청은 내일까지 비가 더 내릴 것으로 보고 주민들에게 주의를 당부했습니다.",
+   "options": [
+    "폭우로 많은 집이 물에 잠겼다.",
+    "폭우로 많은 사람이 다쳤다.",
+    "비는 오늘 그칠 것이다.",
+    "북부 지방에 피해가 컸다."
+   ],
+   "answer": "폭우로 많은 집이 물에 잠겼다.",
+   "explain": "많은 주택이 물에 잠겼습니다."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "한국은 온대기후에 속해 사계절이 뚜렷하다. 여름에는 남동 계절풍의 영향으로 고온 다습하고 비가 많이 내린다. 반면 겨울에는 북서 계절풍이 불어 한랭 건조하다. 최근에는 기후 변화로 여름이 길어지고 겨울이 짧아지는 경향이 나타나고 있다.",
+   "options": [
+    "최근 한국의 여름이 길어지고 있다.",
+    "한국의 겨울은 고온 다습하다.",
+    "여름에는 북서 계절풍이 분다.",
+    "한국은 열대기후에 속한다."
+   ],
+   "answer": "최근 한국의 여름이 길어지고 있다.",
+   "explain": "여름이 길어지고 겨울이 짧아지는 경향."
+  }
+ ]
+}

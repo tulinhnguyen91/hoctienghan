@@ -1,0 +1,464 @@
+{
+ "id": "bai-20",
+ "lesson": "Bài 20",
+ "title": "Mua sắm P2 (phần 1/2)",
+ "krTitle": "쇼핑 1",
+ "date": "2026-12-06",
+ "day": 18,
+ "source": "TOPIK 2 – Bài 3: Mua sắm P2 (phần 1/2)",
+ "practice": {
+  "listening": "Nghe – Phần 8: Hội thoại ngắn (25~30)",
+  "reading": "Đọc – Phần 2: Điền vào chỗ trống (34~39)"
+ },
+ "words": [
+  [
+   "벌",
+   "Beol",
+   "Bộ (quần áo)",
+   "바지 두 벌을 샀어요.",
+   "Tôi đã mua hai cái quần."
+  ],
+  [
+   "켤레",
+   "Kyeolle",
+   "Đôi (giày, tất)",
+   "양말 세 켤레 주세요.",
+   "Cho tôi ba đôi tất."
+  ],
+  [
+   "쌍",
+   "Ssang",
+   "Đôi, cặp (khuyên tai)",
+   "귀걸이 한 쌍을 선물했어요.",
+   "Tôi đã tặng một đôi bông tai."
+  ],
+  [
+   "장",
+   "Jang",
+   "Tờ, trang",
+   "종이 한 장만 주세요.",
+   "Cho tôi một tờ giấy thôi."
+  ],
+  [
+   "송이",
+   "Songi",
+   "Bông, chùm (hoa, nho)",
+   "장미 열 송이를 샀어요.",
+   "Tôi đã mua mười bông hồng."
+  ],
+  [
+   "바구니",
+   "Baguni",
+   "Giỏ, rổ",
+   "사과 한 바구니에 만 원이에요.",
+   "Một giỏ táo 10.000 won."
+  ],
+  [
+   "상자",
+   "Sangja",
+   "Hộp",
+   "귤 한 상자를 주문했어요.",
+   "Tôi đã đặt một hộp quýt."
+  ],
+  [
+   "봉지",
+   "Bongji",
+   "Túi, bao",
+   "과자 두 봉지를 샀어요.",
+   "Tôi đã mua hai gói bánh."
+  ],
+  [
+   "찾다",
+   "Chatda",
+   "Tìm",
+   "운동화를 찾아요.",
+   "Tôi đang tìm giày thể thao."
+  ],
+  [
+   "마음에 들다",
+   "Maeume deulda",
+   "Vừa ý, thích",
+   "이 가방이 마음에 들어요.",
+   "Tôi ưng cái túi này."
+  ],
+  [
+   "맞다",
+   "Matda",
+   "Vừa (cỡ)",
+   "이 바지는 저한테 잘 맞아요.",
+   "Cái quần này vừa với tôi."
+  ],
+  [
+   "어울리다",
+   "Eoullida",
+   "Hợp, phù hợp",
+   "그 옷이 정말 잘 어울려요.",
+   "Bộ đồ đó rất hợp với bạn."
+  ],
+  [
+   "주문하다",
+   "Jumunhada",
+   "Đặt hàng",
+   "인터넷으로 옷을 주문했어요.",
+   "Tôi đã đặt quần áo qua mạng."
+  ],
+  [
+   "계산하다",
+   "Gyesanhada",
+   "Tính tiền",
+   "어디에서 계산해요?",
+   "Tính tiền ở đâu ạ?"
+  ],
+  [
+   "교환하다",
+   "Gyohwanhada",
+   "Đổi hàng",
+   "사이즈가 안 맞으니까 교환해 주세요.",
+   "Cỡ không vừa nên đổi giúp tôi."
+  ],
+  [
+   "환불하다",
+   "Hwanbulhada",
+   "Hoàn tiền, trả hàng",
+   "이 신발을 환불하고 싶어요.",
+   "Tôi muốn trả lại đôi giày này."
+  ],
+  [
+   "짧다",
+   "Jjalda",
+   "Ngắn",
+   "치마가 너무 짧아요.",
+   "Váy ngắn quá."
+  ],
+  [
+   "길다",
+   "Gilda",
+   "Dài",
+   "바지가 좀 길어요.",
+   "Quần hơi dài."
+  ],
+  [
+   "많다",
+   "Manta",
+   "Nhiều",
+   "주말에는 손님이 많아요.",
+   "Cuối tuần có nhiều khách."
+  ],
+  [
+   "적다",
+   "Jeokda",
+   "Ít",
+   "평일에는 사람이 적어요.",
+   "Ngày thường ít người."
+  ],
+  [
+   "두껍다",
+   "Dukkeopda",
+   "Dày",
+   "겨울 옷은 두꺼워요.",
+   "Quần áo mùa đông dày."
+  ],
+  [
+   "얇다",
+   "Yalda",
+   "Mỏng",
+   "이 옷은 얇아서 추워요.",
+   "Áo này mỏng nên lạnh."
+  ],
+  [
+   "무겁다",
+   "Mugeopda",
+   "Nặng",
+   "가방이 무거우니까 같이 들어요.",
+   "Túi nặng nên cùng xách đi."
+  ],
+  [
+   "가볍다",
+   "Gabyeopda",
+   "Nhẹ",
+   "이 노트북은 가벼워서 좋아요.",
+   "Laptop này nhẹ nên thích."
+  ],
+  [
+   "화려하다",
+   "Hwaryeohada",
+   "Sặc sỡ, lộng lẫy",
+   "이 치마는 너무 화려해요.",
+   "Cái váy này sặc sỡ quá."
+  ],
+  [
+   "단순하다",
+   "Dansunhada",
+   "Đơn giản",
+   "이 가방은 디자인이 단순해요.",
+   "Cái túi này thiết kế đơn giản."
+  ],
+  [
+   "편하다",
+   "Pyeonhada",
+   "Thoải mái",
+   "이 신발은 아주 편해요.",
+   "Đôi giày này rất thoải mái."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)니까 — Vì, do",
+   "meaning": "Nêu lý do, đặc biệt khi vế sau là lời khuyên, đề nghị, mệnh lệnh, rủ rê ((으)세요, 지 마세요, (으)ㄹ까요, (으)ㅂ시다) — điều mà 아/어서 KHÔNG làm được. Gốc có patchim + 으니까 (많다 → 많으니까); không patchim + 니까 (비싸다 → 비싸니까); patchim ㄹ thì bỏ ㄹ + 니까 (길다 → 기니까, 멀다 → 머니까). Bất quy tắc: 무겁다 → 무거우니까, 듣다 → 들으니까. Danh từ: N(이)니까 (주말이니까). Có thể gắn quá khứ: 샀으니까 (khác 아/어서).",
+   "examples": [
+    "비가 오니까 우산을 가져가세요. — Trời mưa nên hãy mang ô theo.",
+    "이 옷이 비싸니까 다른 옷을 볼까요? — Áo này đắt nên mình xem áo khác nhé?",
+    "가방이 무거우니까 같이 들어요. — Túi nặng nên cùng xách đi.",
+    "주말이니까 사람이 많아요. — Vì là cuối tuần nên đông người."
+   ]
+  },
+  {
+   "form": "V + 지 말다 — Đừng",
+   "meaning": "Cấm đoán, khuyên không làm gì: 'đừng…'. Gắn thẳng vào gốc động từ, không phân biệt patchim. Dạng hay dùng: 지 마세요 (lịch sự: đừng…), 지 마십시오 (trang trọng, biển báo), 지 맙시다 (chúng ta đừng…), 지 마 (thân mật). Chỉ dùng với động từ. Lưu ý: 말다 + 세요 → 마세요 (ㄹ rơi).",
+   "examples": [
+    "여기에서 사진을 찍지 마세요. — Đừng chụp ảnh ở đây.",
+    "비싸니까 사지 마세요. — Đắt nên đừng mua.",
+    "늦지 마세요. — Đừng đến muộn nhé.",
+    "작품을 만지지 마십시오. — Xin đừng chạm vào tác phẩm."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Trời mưa nên hãy mang ô.",
+   "kr": "비가 ___ 우산을 가져가세요.",
+   "options": [
+    "오니까",
+    "와서",
+    "오으니까"
+   ],
+   "answer": "오니까",
+   "explain": "Vế sau là mệnh lệnh (가져가세요) → dùng (으)니까, không dùng 아/어서."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Người đông nên mình đi chỗ khác nhé?",
+   "kr": "사람이 ___ 다른 곳에 갈까요?",
+   "options": [
+    "많으니까",
+    "많아서",
+    "많니까"
+   ],
+   "answer": "많으니까",
+   "explain": "Vế sau rủ rê → (으)니까; 많다 có patchim → 많으니까."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Quần dài nên đổi giúp tôi.",
+   "kr": "바지가 ___ 교환해 주세요.",
+   "options": [
+    "기니까",
+    "길으니까",
+    "길니까"
+   ],
+   "answer": "기니까",
+   "explain": "Patchim ㄹ: bỏ ㄹ + 니까 → 기니까."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Túi nặng nên cùng xách nhé.",
+   "kr": "가방이 ___ 같이 들어요.",
+   "options": [
+    "무거우니까",
+    "무겁으니까",
+    "무거워니까"
+   ],
+   "answer": "무거우니까",
+   "explain": "무겁다 bất quy tắc ㅂ: 무거우 + 니까."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào SAI?",
+   "kr": "",
+   "options": [
+    "비싸서 사지 마세요.",
+    "비싸니까 사지 마세요.",
+    "비싸서 안 샀어요."
+   ],
+   "answer": "비싸서 사지 마세요.",
+   "explain": "Vế sau mệnh lệnh (사지 마세요) không đi với 아/어서."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Đừng chụp ảnh ở đây.",
+   "kr": "여기에서 사진을 ___.",
+   "options": [
+    "찍지 마세요",
+    "찍지 말세요",
+    "안 찍으세요"
+   ],
+   "answer": "찍지 마세요",
+   "explain": "말다 + 세요 → 마세요 (ㄹ rơi): 찍지 마세요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Chúng ta đừng mua cái này.",
+   "kr": "이것은 ___.",
+   "options": [
+    "사지 맙시다",
+    "사지 말읍시다",
+    "사지 마요시다"
+   ],
+   "answer": "사지 맙시다",
+   "explain": "말다 + ㅂ시다 → 맙시다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đơn vị đếm đúng: hai đôi giày.",
+   "kr": "구두 두 ___",
+   "options": [
+    "켤레",
+    "벌",
+    "송이"
+   ],
+   "answer": "켤레",
+   "explain": "Giày, tất đếm bằng 켤레."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn đơn vị đếm đúng: mười bông hồng.",
+   "kr": "장미 열 ___",
+   "options": [
+    "송이",
+    "장",
+    "봉지"
+   ],
+   "answer": "송이",
+   "explain": "Hoa đếm bằng 송이."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)니까 vào 비싸다: Đắt nên đừng mua.",
+   "kr": "___ 사지 마세요.",
+   "answer": [
+    "비싸니까"
+   ],
+   "explain": "비싸 + 니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)니까 vào 주말이다: Vì là cuối tuần nên đi chơi nhé.",
+   "kr": "___ 놀러 갈까요?",
+   "answer": [
+    "주말이니까"
+   ],
+   "explain": "Danh từ có patchim + 이니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 지 마세요 vào 늦다: Đừng đến muộn nhé.",
+   "kr": "내일은 ___.",
+   "answer": [
+    "늦지 마세요"
+   ],
+   "explain": "늦 + 지 마세요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền đơn vị đếm: Tôi đã mua hai cái quần (bộ quần áo).",
+   "kr": "바지 두 ___을 샀어요.",
+   "answer": [
+    "벌"
+   ],
+   "explain": "Quần áo đếm bằng 벌."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cỡ không vừa nên đổi giúp tôi.",
+   "tokens": [
+    "사이즈가",
+    "안",
+    "맞으니까",
+    "교환해",
+    "주세요"
+   ],
+   "answer": "사이즈가 안 맞으니까 교환해 주세요",
+   "explain": "맞다 → 맞으니까; 교환하다 → 교환해 주세요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Áo này mỏng nên đừng mặc vào mùa đông.",
+   "tokens": [
+    "이",
+    "옷은",
+    "얇으니까",
+    "겨울에",
+    "입지",
+    "마세요"
+   ],
+   "answer": "이 옷은 얇으니까 겨울에 입지 마세요",
+   "explain": "얇다 → 얇으니까; 입지 마세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bộ đồ đó rất hợp với bạn.",
+   "answer": [
+    "그 옷이 정말 잘 어울려요.",
+    "그 옷이 아주 잘 어울려요.",
+    "그 옷이 잘 어울려요.",
+    "그 옷 정말 잘 어울려요."
+   ],
+   "explain": "어울리다 → 어울려요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Trời lạnh nên hãy mặc áo len.",
+   "answer": [
+    "추우니까 스웨터를 입으세요.",
+    "날씨가 추우니까 스웨터를 입으세요.",
+    "추우니까 스웨터를 입어요."
+   ],
+   "explain": "춥다 → 추우니까 + mệnh lệnh 입으세요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đừng mua cái này.",
+   "answer": [
+    "이것을 사지 마세요.",
+    "이거 사지 마세요.",
+    "이것은 사지 마세요.",
+    "이건 사지 마세요."
+   ],
+   "explain": "사다 → 사지 마세요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "이 신발은 편하니까 오래 걸을 수 있어요.",
+   "answer": "Đôi giày này thoải mái nên có thể đi bộ lâu.",
+   "explain": "편하니까 = vì thoải mái; 걸을 수 있어요 = có thể đi bộ."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ điền vào chỗ trống. (Dạng TOPIK câu 34~39)",
+   "kr": "이 치마가 마음에 들어요. 그런데 좀 짧아요. 그래서 다른 치마를 ( ___ ).",
+   "options": [
+    "찾아요",
+    "팔아요",
+    "주문했어요",
+    "어울려요"
+   ],
+   "answer": "찾아요",
+   "explain": "Váy ngắn → tìm váy khác (찾아요)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "어제 백화점에서 코트를 한 벌 샀어요. 디자인이 단순하고 색깔도 예뻐서 마음에 들었어요. 그런데 집에서 다시 입었을 때 조금 컸어요. 그래서 오늘 작은 사이즈로 교환하러 백화점에 갈 거예요.",
+   "options": [
+    "저는 코트를 교환하려고 해요.",
+    "저는 코트를 환불했어요.",
+    "코트가 작아서 불편했어요.",
+    "코트의 디자인이 화려해요."
+   ],
+   "answer": "저는 코트를 교환하려고 해요.",
+   "explain": "Áo hơi to nên hôm nay đi đổi sang cỡ nhỏ. Thiết kế đơn giản, không sặc sỡ."
+  }
+ ]
+}

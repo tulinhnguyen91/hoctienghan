@@ -1,0 +1,379 @@
+{
+ "id": "bai-196",
+ "lesson": "Bài 196",
+ "title": "Công nghiệp và kinh tế (phần 3/4)",
+ "krTitle": "산업과 경제 3",
+ "date": "2027-08-30",
+ "day": 285,
+ "source": "TOPIK 5 – Bài 12: Công nghiệp và kinh tế (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "무역",
+   "Muyeok",
+   "Mậu dịch, thương mại",
+   "한국과 베트남의 무역이 크게 늘었어요.",
+   "Thương mại giữa Hàn Quốc và Việt Nam tăng mạnh."
+  ],
+  [
+   "자유무역협정",
+   "Jayumuyeokyeopjeong",
+   "Hiệp định mậu dịch tự do (FTA)",
+   "두 나라가 자유무역협정을 맺었어요.",
+   "Hai nước đã ký hiệp định thương mại tự do."
+  ],
+  [
+   "관세",
+   "Gwanse",
+   "Thuế quan",
+   "수입품에 높은 관세를 매겼어요.",
+   "Đã đánh thuế quan cao vào hàng nhập khẩu."
+  ],
+  [
+   "세계무역기구",
+   "Segyemuyeokgigu",
+   "Tổ chức thương mại thế giới (WTO)",
+   "베트남은 2007년에 세계무역기구에 가입했어요.",
+   "Việt Nam gia nhập WTO năm 2007."
+  ],
+  [
+   "거론되다",
+   "Georondoeda",
+   "Được bàn luận, được trao đổi",
+   "회의에서 세금 문제가 거론되었어요.",
+   "Vấn đề thuế đã được đưa ra bàn trong cuộc họp."
+  ],
+  [
+   "개편",
+   "Gaepyeon",
+   "Việc cải tổ, thay đổi tổ chức",
+   "회사가 조직 개편을 했어요.",
+   "Công ty đã cải tổ cơ cấu tổ chức."
+  ],
+  [
+   "경공업",
+   "Gyeonggongeop",
+   "Công nghiệp nhẹ",
+   "1960년대 한국은 섬유 같은 경공업이 중심이었어요.",
+   "Hàn Quốc thập niên 1960 lấy công nghiệp nhẹ như dệt may làm trung tâm."
+  ],
+  [
+   "경영전략",
+   "Gyeongyeongjeollyak",
+   "Chiến lược kinh doanh",
+   "새로운 경영전략으로 매출이 늘었어요.",
+   "Nhờ chiến lược kinh doanh mới mà doanh thu tăng."
+  ],
+  [
+   "관세장벽",
+   "Gwansejangbyeok",
+   "Hàng rào thuế quan",
+   "FTA로 관세장벽이 낮아졌어요.",
+   "Nhờ FTA, hàng rào thuế quan đã thấp xuống."
+  ],
+  [
+   "구매력",
+   "Gumaeryeok",
+   "Sức mua, khả năng mua",
+   "중국 소비자의 구매력이 높아졌어요.",
+   "Sức mua của người tiêu dùng Trung Quốc đã tăng."
+  ],
+  [
+   "군사 쿠데타",
+   "Gunsa kudeta",
+   "Đảo chính quân sự",
+   "1961년에 한국에서 군사 쿠데타가 일어났어요.",
+   "Năm 1961 ở Hàn Quốc xảy ra đảo chính quân sự."
+  ],
+  [
+   "군정",
+   "Gunjeong",
+   "Chính quyền quân sự",
+   "군정 시기에 경제 개발 계획이 시작되었어요.",
+   "Kế hoạch phát triển kinh tế bắt đầu dưới thời chính quyền quân sự."
+  ],
+  [
+   "금리",
+   "Geumni",
+   "Lãi suất",
+   "금리가 오르면 대출받기가 어려워져요.",
+   "Lãi suất tăng thì vay tiền trở nên khó."
+  ],
+  [
+   "망각하다",
+   "Manggakada",
+   "Lãng quên",
+   "성공한 후에도 어려웠던 시절을 망각하면 안 돼요.",
+   "Thành công rồi cũng không được quên thời khó khăn."
+  ],
+  [
+   "문화 콘텐츠",
+   "Munhwa kontencheu",
+   "Sản phẩm văn hóa",
+   "K-드라마 같은 문화 콘텐츠 수출이 늘고 있어요.",
+   "Xuất khẩu sản phẩm văn hóa như phim Hàn đang tăng."
+  ],
+  [
+   "물결",
+   "Mulgyeol",
+   "Làn sóng",
+   "세계화의 물결 속에서 경쟁이 치열해졌어요.",
+   "Trong làn sóng toàn cầu hóa, cạnh tranh trở nên khốc liệt."
+  ],
+  [
+   "발굴되다",
+   "Balguldoeda",
+   "Được phát hiện, được khai quật",
+   "공사 중에 옛날 유물이 발굴되었어요.",
+   "Trong lúc thi công đã khai quật được di vật xưa."
+  ],
+  [
+   "복지예산",
+   "Bokjiyesan",
+   "Ngân sách cho phúc lợi xã hội",
+   "정부가 복지예산을 늘리기로 했어요.",
+   "Chính phủ quyết định tăng ngân sách phúc lợi."
+  ],
+  [
+   "빈곤층",
+   "Bingoncheung",
+   "Tầng lớp nghèo",
+   "빈곤층을 위한 지원이 더 필요해요.",
+   "Cần thêm hỗ trợ cho tầng lớp nghèo."
+  ],
+  [
+   "사생활 보호",
+   "Sasaenghwal boho",
+   "Bảo vệ cuộc sống riêng tư, bảo vệ đời tư",
+   "인터넷 시대에는 사생활 보호가 중요해요.",
+   "Trong thời đại internet, bảo vệ đời tư rất quan trọng."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "FTA trong tiếng Hàn là gì?",
+   "kr": "",
+   "options": [
+    "자유무역협정",
+    "세계무역기구",
+    "관세장벽"
+   ],
+   "answer": "자유무역협정",
+   "explain": "자유(tự do) + 무역(thương mại) + 협정(hiệp định)."
+  },
+  {
+   "type": "choice",
+   "q": "Thuế đánh vào hàng hóa xuất nhập khẩu gọi là gì?",
+   "kr": "",
+   "options": [
+    "관세",
+    "금리",
+    "복지예산"
+   ],
+   "answer": "관세",
+   "explain": "관세 = thuế quan."
+  },
+  {
+   "type": "choice",
+   "q": "Công nghiệp sản xuất hàng tiêu dùng nhẹ như dệt may, giày dép gọi là gì?",
+   "kr": "",
+   "options": [
+    "경공업",
+    "중공업",
+    "문화 콘텐츠"
+   ],
+   "answer": "경공업",
+   "explain": "경(nhẹ) ↔ 중(nặng)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lãi suất tăng thì vay tiền trở nên khó.",
+   "kr": "___가 오르면 대출받기가 어려워져요.",
+   "options": [
+    "금리",
+    "관세",
+    "구매력"
+   ],
+   "answer": "금리",
+   "explain": "금리 = lãi suất."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Sức mua của người tiêu dùng đã tăng.",
+   "kr": "소비자의 ___이 높아졌어요.",
+   "options": [
+    "구매력",
+    "경영전략",
+    "개편"
+   ],
+   "answer": "구매력",
+   "explain": "구매력 = sức mua."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Vấn đề thuế đã được đưa ra bàn trong cuộc họp.",
+   "kr": "회의에서 세금 문제가 ___.",
+   "options": [
+    "거론되었어요",
+    "발굴되었어요",
+    "망각했어요"
+   ],
+   "answer": "거론되었어요",
+   "explain": "거론되다 = được đề cập, bàn luận."
+  },
+  {
+   "type": "choice",
+   "q": "Tầng lớp có thu nhập rất thấp gọi là gì?",
+   "kr": "",
+   "options": [
+    "빈곤층",
+    "군정",
+    "물결"
+   ],
+   "answer": "빈곤층",
+   "explain": "빈곤 = nghèo khó; 층 = tầng lớp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trong làn sóng toàn cầu hóa, cạnh tranh trở nên khốc liệt.",
+   "kr": "세계화의 ___ 속에서 경쟁이 치열해졌어요.",
+   "options": [
+    "물결",
+    "관세",
+    "개편"
+   ],
+   "answer": "물결",
+   "explain": "물결 = làn sóng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hai nước đã ký hiệp định thương mại tự do.",
+   "kr": "두 나라가 ___을 맺었어요.",
+   "answer": [
+    "자유무역협정",
+    "FTA"
+   ],
+   "explain": "협정을 맺다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chính phủ quyết định tăng ngân sách phúc lợi.",
+   "kr": "정부가 ___을 늘리기로 했어요.",
+   "answer": [
+    "복지예산"
+   ],
+   "explain": "복지예산."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trong thời đại internet, bảo vệ đời tư rất quan trọng.",
+   "kr": "인터넷 시대에는 ___ 보호가 중요해요.",
+   "answer": [
+    "사생활"
+   ],
+   "explain": "사생활 보호."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Công ty đã cải tổ cơ cấu tổ chức.",
+   "kr": "회사가 조직 ___을 했어요.",
+   "answer": [
+    "개편"
+   ],
+   "explain": "개편."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhờ FTA, hàng rào thuế quan đã thấp xuống.",
+   "tokens": [
+    "FTA로",
+    "관세장벽이",
+    "낮아졌어요"
+   ],
+   "answer": "FTA로 관세장벽이 낮아졌어요",
+   "explain": "(으)로 + 아/어지다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thành công rồi cũng không được quên thời khó khăn.",
+   "tokens": [
+    "성공한",
+    "후에도",
+    "어려웠던",
+    "시절을",
+    "망각하면",
+    "안",
+    "돼요"
+   ],
+   "answer": "성공한 후에도 어려웠던 시절을 망각하면 안 돼요",
+   "explain": "았/었던 + 면 안 되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Xuất khẩu sản phẩm văn hóa đang tăng.",
+   "answer": [
+    "문화 콘텐츠 수출이 늘고 있어요.",
+    "문화 콘텐츠의 수출이 늘고 있어요.",
+    "문화 콘텐츠 수출이 증가하고 있어요."
+   ],
+   "explain": "늘다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cần thêm hỗ trợ cho tầng lớp nghèo.",
+   "answer": [
+    "빈곤층을 위한 지원이 더 필요해요.",
+    "빈곤층을 위한 지원이 더 필요합니다.",
+    "빈곤층에 대한 지원이 더 필요해요."
+   ],
+   "explain": "N을/를 위한."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Việt Nam gia nhập WTO năm 2007.",
+   "answer": [
+    "베트남은 2007년에 세계무역기구에 가입했어요.",
+    "베트남은 2007년에 WTO에 가입했어요."
+   ],
+   "explain": "N에 가입하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "자유무역협정을 맺으면 관세장벽이 낮아져서 수출이 늘어난다. 그러나 경쟁력이 약한 농업 분야는 피해를 입을 수 있기 때문에 정부의 대책이 필요하다.",
+   "answer": "Nếu ký hiệp định thương mại tự do, hàng rào thuế quan thấp xuống nên xuất khẩu tăng. Nhưng lĩnh vực nông nghiệp có năng lực cạnh tranh yếu có thể bị thiệt hại nên cần có biện pháp của chính phủ.",
+   "explain": "피해를 입다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 한국 경제는 1960년대 경공업에서 시작했습니다. 당시 한국은 자원이 부족했기 때문에 값싼 노동력으로 섬유, 신발 같은 제품을 만들어 수출했습니다. 1970년대에 들어서면서 정부는 철강, 조선 같은 중공업을 키웠고, 이것이 오늘날 한국 경제의 기초가 되었습니다.",
+   "options": [
+    "한국 경제는 경공업에서 시작해 중공업으로 발전했다.",
+    "1960년대 한국은 자원이 풍부했다.",
+    "한국은 처음부터 중공업 중심이었다.",
+    "1970년대에 경공업만 키웠다."
+   ],
+   "answer": "한국 경제는 경공업에서 시작해 중공업으로 발전했다.",
+   "explain": "1960 경공업 → 1970 중공업."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "금리가 오르면 은행에 돈을 맡기는 사람은 이자를 더 받을 수 있지만, 돈을 빌린 사람은 이자 부담이 커진다. 그래서 금리가 오르면 사람들은 소비를 줄이고 저축을 늘리는 경향이 있다. 이에 따라 시장의 구매력이 떨어져 경제 성장이 느려질 수 있다.",
+   "options": [
+    "금리가 오르면 소비가 줄 수 있다.",
+    "금리가 오르면 대출 이자 부담이 줄어든다.",
+    "금리는 저축과 관계가 없다.",
+    "금리가 오르면 경제가 빨리 성장한다."
+   ],
+   "answer": "금리가 오르면 소비가 줄 수 있다.",
+   "explain": "소비를 줄이고 저축을 늘리는 경향."
+  }
+ ]
+}

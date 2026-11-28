@@ -1,0 +1,416 @@
+{
+ "id": "bai-213",
+ "lesson": "Bài 213",
+ "title": "Chế độ gia đình (phần 4/5)",
+ "krTitle": "가족 제도 4",
+ "date": "2027-09-24",
+ "day": 310,
+ "source": "TOPIK 6 – Bài 1: Chế độ gia đình (phần 4/5)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "거듭나다",
+   "Geodeumnada",
+   "Lột xác, đổi mới hoàn toàn",
+   "그 회사는 새로운 기업으로 거듭났어요.",
+   "Công ty đó đã lột xác thành một doanh nghiệp mới."
+  ],
+  [
+   "건전하다",
+   "Geonjeonhada",
+   "Khỏe mạnh, lành mạnh",
+   "건전한 가정이 건전한 사회를 만들어요.",
+   "Gia đình lành mạnh tạo nên xã hội lành mạnh."
+  ],
+  [
+   "결항되다",
+   "Gyeolhangdoeda",
+   "Bị hủy bỏ",
+   "태풍 때문에 비행기가 결항되었어요.",
+   "Chuyến bay bị hủy vì bão."
+  ],
+  [
+   "고부 갈등",
+   "Gobu galdeung",
+   "Mâu thuẫn mẹ chồng - nàng dâu",
+   "고부 갈등은 드라마의 단골 소재예요.",
+   "Mâu thuẫn mẹ chồng nàng dâu là đề tài quen thuộc của phim."
+  ],
+  [
+   "기피하다",
+   "Gipihada",
+   "Né tránh",
+   "요즘 젊은이들은 결혼을 기피하는 경향이 있어요.",
+   "Giới trẻ dạo này có xu hướng né tránh kết hôn."
+  ],
+  [
+   "난감하다",
+   "Nangamhada",
+   "Nan giải",
+   "갑자기 그런 질문을 받아서 난감했어요.",
+   "Bất ngờ nhận câu hỏi như vậy nên tôi lúng túng."
+  ],
+  [
+   "다각도",
+   "Dagakdo",
+   "Đa góc độ, nhiều chiều",
+   "저출산 문제를 다각도로 분석해야 해요.",
+   "Phải phân tích vấn đề sinh ít từ nhiều góc độ."
+  ],
+  [
+   "단발성",
+   "Danbalseong",
+   "Tính chất một lần, nhất thời",
+   "단발성 지원으로는 문제를 해결할 수 없어요.",
+   "Hỗ trợ một lần thì không giải quyết được vấn đề."
+  ],
+  [
+   "당위성",
+   "Dangwiseong",
+   "Tính thích đáng",
+   "가족 제도 개선의 당위성을 강조했어요.",
+   "Đã nhấn mạnh tính cần thiết của việc cải thiện chế độ gia đình."
+  ],
+  [
+   "대두되다",
+   "Daedudoeda",
+   "Nổi lên (vấn đề)",
+   "노인 돌봄 문제가 새롭게 대두되었어요.",
+   "Vấn đề chăm sóc người già mới nổi lên."
+  ],
+  [
+   "대변되다",
+   "Daebyeondoeda",
+   "Được đại diện, được thể hiện",
+   "그의 목소리는 젊은 세대의 생각으로 대변돼요.",
+   "Tiếng nói của anh ấy được xem là đại diện cho suy nghĩ thế hệ trẻ."
+  ],
+  [
+   "뒷바라지",
+   "Dwitbaraji",
+   "Sự hậu thuẫn",
+   "어머니는 평생 자식 뒷바라지를 하셨어요.",
+   "Mẹ cả đời lo hậu thuẫn cho con cái."
+  ],
+  [
+   "드물다",
+   "Deumulda",
+   "Hiếm hoi",
+   "요즘 세 자녀를 둔 가정은 드물어요.",
+   "Dạo này gia đình có ba con rất hiếm."
+  ],
+  [
+   "면제",
+   "Myeonje",
+   "Sự miễn (thuế, nghĩa vụ,...)",
+   "다자녀 가정은 일부 세금이 면제돼요.",
+   "Gia đình đông con được miễn một phần thuế."
+  ],
+  [
+   "미미하다",
+   "Mimihada",
+   "Nhỏ nhoi, không đáng kể",
+   "정책의 효과가 아직 미미해요.",
+   "Hiệu quả của chính sách vẫn còn rất nhỏ."
+  ],
+  [
+   "배려",
+   "Baeryeo",
+   "Sự quan tâm giúp đỡ",
+   "노부모에 대한 배려가 필요해요.",
+   "Cần sự quan tâm chu đáo đến bố mẹ già."
+  ],
+  [
+   "붕괴되다",
+   "Bunggoedoeda",
+   "Bị tan vỡ, bị sụp đổ",
+   "대가족 제도가 점점 붕괴되었어요.",
+   "Chế độ đại gia đình dần dần sụp đổ."
+  ],
+  [
+   "선뜻",
+   "Seontteut",
+   "Sẵn sàng, không chần chừ",
+   "부탁을 했더니 친구가 선뜻 도와줬어요.",
+   "Nhờ rồi thì bạn đã sẵn lòng giúp ngay."
+  ],
+  [
+   "선입견",
+   "Seonipgyeon",
+   "Thành kiến, định kiến 선",
+   "선입견을 버리고 사람을 봐야 해요.",
+   "Phải bỏ định kiến để nhìn nhận con người."
+  ],
+  [
+   "소외되다",
+   "Sooedoeda",
+   "Bị xa lánh, bị cô lập",
+   "혼자 사는 노인들이 사회에서 소외되고 있어요.",
+   "Người già sống một mình đang bị xã hội bỏ quên."
+  ],
+  [
+   "소재지",
+   "Sojaeji",
+   "Nơi đặt trụ sở, địa điểm",
+   "회사 소재지가 서울로 바뀌었어요.",
+   "Trụ sở công ty đã chuyển về Seoul."
+  ],
+  [
+   "씁쓸하다",
+   "Sseupsseulhada",
+   "Chua chát",
+   "결혼을 포기한 친구 이야기를 들으니 씁쓸했어요.",
+   "Nghe chuyện bạn từ bỏ kết hôn mà thấy chua chát."
+  ],
+  [
+   "신조어",
+   "Sinjoeo",
+   "Từ mới được tạo ra",
+   "'혼밥'은 혼자 밥을 먹는다는 신조어예요.",
+   "'Honbap' là từ mới nghĩa là ăn cơm một mình."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 더러/보고 — Với (ai)",
+   "meaning": "Gắn sau DANH TỪ CHỈ NGƯỜI để chỉ ĐỐI TƯỢNG NGHE lời nói, lời yêu cầu: 'nói với…, bảo…'. Chỉ đi với động từ NÓI / BẢO / HỎI / NHỜ / MẮNG: 말하다, 하다 (trong câu gián tiếp), 묻다, 부탁하다, 욕하다, 그러다. Ví dụ: 어머니가 저더러 일찍 들어오래요 (mẹ bảo tôi về sớm). Nghĩa giống 에게/한테 nhưng chỉ dùng trong VĂN NÓI và chỉ với động từ lời nói. KHÔNG dùng với động từ cho/tặng: ✗ 친구더러 선물을 줬어요 → ✓ 친구에게 선물을 줬어요. Thường đi với câu gián tiếp: N더러 -(으)라고 하다 / -자고 하다 / -냐고 묻다. 보고 nghĩa gốc 'nhìn vào' → 'nhìn thẳng ai mà nói'. Có sắc thái thân mật, đôi khi hơi trách: 누구보고 바보래? (bảo ai là đồ ngốc?).",
+   "examples": [
+    "시어머니가 며느리더러 명절에 일찍 오라고 하셨어요. — Mẹ chồng bảo con dâu dịp lễ về sớm.",
+    "친구가 저보고 같이 여행 가자고 했어요. — Bạn rủ tôi cùng đi du lịch.",
+    "아버지가 형더러 장남이니까 책임감을 가지라고 하셨어요. — Bố bảo anh trai là con trưởng nên phải có trách nhiệm.",
+    "누가 너보고 그런 말을 했어? — Ai nói với cậu câu đó vậy?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Mâu thuẫn giữa mẹ chồng và con dâu gọi là gì?",
+   "kr": "",
+   "options": [
+    "고부 갈등",
+    "선입견",
+    "뒷바라지"
+   ],
+   "answer": "고부 갈등",
+   "explain": "고(mẹ chồng) + 부(con dâu)."
+  },
+  {
+   "type": "choice",
+   "q": "Từ mới được tạo ra gọi là gì?",
+   "kr": "",
+   "options": [
+    "신조어",
+    "소재지",
+    "당위성"
+   ],
+   "answer": "신조어",
+   "explain": "신(mới) + 조(tạo) + 어(từ)."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 흔하다 (phổ biến) là gì?",
+   "kr": "",
+   "options": [
+    "드물다",
+    "건전하다",
+    "미미하다"
+   ],
+   "answer": "드물다",
+   "explain": "드물다 = hiếm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Chuyến bay bị hủy vì bão.",
+   "kr": "태풍 때문에 비행기가 ___.",
+   "options": [
+    "결항되었어요",
+    "붕괴되었어요",
+    "대두되었어요"
+   ],
+   "answer": "결항되었어요",
+   "explain": "결항 = hủy chuyến (máy bay, tàu)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Mẹ bảo tôi về sớm.'",
+   "kr": "",
+   "options": [
+    "어머니가 저더러 일찍 들어오래요.",
+    "어머니가 저더러 선물을 주셨어요.",
+    "어머니가 저보고 일찍 들어와요."
+   ],
+   "answer": "어머니가 저더러 일찍 들어오래요.",
+   "explain": "더러 + động từ lời nói (câu gián tiếp)."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 더러/보고 SAI?",
+   "kr": "",
+   "options": [
+    "친구더러 선물을 줬어요.",
+    "친구더러 같이 가자고 했어요.",
+    "친구보고 조용히 하라고 했어요."
+   ],
+   "answer": "친구더러 선물을 줬어요.",
+   "explain": "주다 không phải động từ lời nói → dùng 에게."
+  },
+  {
+   "type": "choice",
+   "q": "더러/보고 được dùng chủ yếu trong ngữ cảnh nào?",
+   "kr": "",
+   "options": [
+    "Văn nói, với động từ nói/bảo/hỏi",
+    "Văn viết trang trọng",
+    "Với mọi động từ"
+   ],
+   "answer": "Văn nói, với động từ nói/bảo/hỏi",
+   "explain": "Khẩu ngữ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhờ rồi thì bạn đã sẵn lòng giúp ngay.",
+   "kr": "부탁을 했더니 친구가 ___ 도와줬어요.",
+   "options": [
+    "선뜻",
+    "미미하게",
+    "다각도로"
+   ],
+   "answer": "선뜻",
+   "explain": "선뜻 = không chần chừ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 더러: Mẹ chồng bảo con dâu dịp lễ về sớm.",
+   "kr": "시어머니가 ___ 명절에 일찍 오라고 하셨어요.",
+   "answer": [
+    "며느리더러",
+    "며느리보고"
+   ],
+   "explain": "N더러/보고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 보고: Bạn rủ tôi cùng đi du lịch.",
+   "kr": "친구가 ___ 같이 여행 가자고 했어요.",
+   "answer": [
+    "저보고",
+    "저더러",
+    "나보고"
+   ],
+   "explain": "저보고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mẹ cả đời lo hậu thuẫn cho con cái.",
+   "kr": "어머니는 평생 자식 ___를 하셨어요.",
+   "answer": [
+    "뒷바라지"
+   ],
+   "explain": "뒷바라지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phải bỏ định kiến để nhìn nhận con người.",
+   "kr": "___을 버리고 사람을 봐야 해요.",
+   "answer": [
+    "선입견"
+   ],
+   "explain": "선입견."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bố bảo anh trai phải có trách nhiệm.",
+   "tokens": [
+    "아버지가",
+    "형더러",
+    "책임감을",
+    "가지라고",
+    "하셨어요"
+   ],
+   "answer": "아버지가 형더러 책임감을 가지라고 하셨어요",
+   "explain": "더러 + (으)라고 하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Người già sống một mình đang bị xã hội bỏ quên.",
+   "tokens": [
+    "혼자",
+    "사는",
+    "노인들이",
+    "사회에서",
+    "소외되고",
+    "있어요"
+   ],
+   "answer": "혼자 사는 노인들이 사회에서 소외되고 있어요",
+   "explain": "소외되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thầy giáo bảo tôi đọc to lên. (dùng 더러/보고)",
+   "answer": [
+    "선생님이 저더러 크게 읽으라고 하셨어요.",
+    "선생님께서 저보고 크게 읽으라고 하셨어요.",
+    "선생님이 저보고 크게 읽으래요.",
+    "선생님이 저더러 큰 소리로 읽으라고 하셨어요."
+   ],
+   "explain": "저더러 + (으)라고 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giới trẻ có xu hướng né tránh kết hôn.",
+   "answer": [
+    "젊은이들은 결혼을 기피하는 경향이 있어요.",
+    "젊은 사람들은 결혼을 기피하는 경향이 있어요.",
+    "요즘 젊은이들은 결혼을 기피하는 경향이 있어요."
+   ],
+   "explain": "기피하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Dạo này gia đình có ba con rất hiếm.",
+   "answer": [
+    "요즘 세 자녀를 둔 가정은 드물어요.",
+    "요즘 자녀가 세 명인 가정은 드물어요.",
+    "요즘 아이가 셋인 집은 드물어요."
+   ],
+   "explain": "드물다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "대가족 제도가 붕괴되면서 혼자 사는 노인들이 소외되는 문제가 대두되고 있다. 전문가들은 단발성 지원보다 다각도의 장기적인 정책이 필요하다고 말한다.",
+   "answer": "Khi chế độ đại gia đình sụp đổ, vấn đề người già sống một mình bị xa lánh đang nổi lên. Các chuyên gia nói rằng cần chính sách dài hạn đa chiều hơn là hỗ trợ một lần.",
+   "explain": "붕괴되다, 대두되다, 단발성."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 왜 그렇게 기분이 안 좋아요?\n여자: 시어머니가 저더러 이번 명절에는 일주일 동안 와 있으라고 하셨어요.\n남자: ( )",
+   "options": [
+    "일주일이나요? 남편과 한번 상의해 보세요.",
+    "명절 음식은 정말 맛있죠.",
+    "시어머니께 선물을 드렸어요?",
+    "비행기가 결항됐나 봐요."
+   ],
+   "answer": "일주일이나요? 남편과 한번 상의해 보세요.",
+   "explain": "Phản ứng hợp lý với lời than."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "결혼 기피 2030… '비혼' 신조어 등장, 정부 대책은 아직 미미",
+   "options": [
+    "젊은 세대가 결혼을 피하고 있지만 정부 대책의 효과는 아직 작다.",
+    "젊은 세대의 결혼이 크게 늘었다.",
+    "정부의 대책이 큰 효과를 냈다.",
+    "'비혼'이라는 말은 오래전부터 있었다."
+   ],
+   "answer": "젊은 세대가 결혼을 피하고 있지만 정부 대책의 효과는 아직 작다.",
+   "explain": "기피 = né tránh; 미미 = nhỏ."
+  }
+ ]
+}

@@ -1,0 +1,404 @@
+{
+ "id": "bai-264",
+ "lesson": "Bài 264",
+ "title": "Thông tin và truyền thông (phần 1/4)",
+ "krTitle": "정보와 통신 1",
+ "date": "2027-12-10",
+ "day": 387,
+ "source": "TOPIK 6 – Bài 13: Thông tin và truyền thông (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "정보 통신",
+   "Jeongbo tongsin",
+   "Thông tin truyền thông",
+   "정보 통신 기술이 빠르게 발전하고 있어요.",
+   "Công nghệ thông tin truyền thông đang phát triển nhanh."
+  ],
+  [
+   "이동통신",
+   "Idongtongsin",
+   "Truyền thông di động",
+   "이동통신 회사들이 5G 서비스를 시작했어요.",
+   "Các công ty viễn thông di động đã bắt đầu dịch vụ 5G."
+  ],
+  [
+   "방송 통신",
+   "Bangsong tongsin",
+   "Truyền thanh, truyền hình",
+   "방송 통신 위원회가 새 규칙을 발표했어요.",
+   "Ủy ban Phát thanh – Truyền thông công bố quy định mới."
+  ],
+  [
+   "위성통신",
+   "Wiseongtongsin",
+   "Truyền thông vệ tinh",
+   "섬 지역에서는 위성통신을 이용해요.",
+   "Vùng hải đảo sử dụng truyền thông vệ tinh."
+  ],
+  [
+   "유선통신",
+   "Yuseontongsin",
+   "Truyền thông hữu tuyến",
+   "옛날 전화는 유선통신이었어요.",
+   "Điện thoại ngày xưa là truyền thông hữu tuyến."
+  ],
+  [
+   "무선통신",
+   "Museontongsin",
+   "Truyền thông vô tuyến",
+   "무선통신 덕분에 어디서나 인터넷을 써요.",
+   "Nhờ truyền thông vô tuyến mà dùng internet ở đâu cũng được."
+  ],
+  [
+   "유비쿼터스",
+   "Yubikwoteoseu",
+   "Tồn tại mọi lúc mọi nơi (ubiqiutous)",
+   "유비쿼터스 시대에는 언제 어디서나 정보를 얻을 수 있어요.",
+   "Thời đại ubiquitous có thể lấy thông tin mọi lúc mọi nơi."
+  ],
+  [
+   "통신망",
+   "Tongsinmang",
+   "Mạng truyền thông",
+   "한국은 전국에 통신망이 잘 갖춰져 있어요.",
+   "Hàn Quốc có mạng truyền thông phủ khắp toàn quốc."
+  ],
+  [
+   "실시간 처리",
+   "Silsigan cheori",
+   "Xử lý thời gian thực",
+   "주식 거래는 실시간 처리가 중요해요.",
+   "Giao dịch chứng khoán cần xử lý thời gian thực."
+  ],
+  [
+   "와이브로",
+   "Waibeuro",
+   "Hệ thống truy cập mạng không dây (wireless broadband)",
+   "지하철에서도 와이브로로 인터넷을 했어요.",
+   "Trên tàu điện ngầm cũng dùng internet bằng WiBro."
+  ],
+  [
+   "지상파",
+   "Jisangpa",
+   "Sóng mặt đất (truyền hình mặt đất)",
+   "지상파 방송은 무료로 볼 수 있어요.",
+   "Truyền hình mặt đất có thể xem miễn phí."
+  ],
+  [
+   "단말기",
+   "Danmalgi",
+   "Thiết bị đầu cuối",
+   "카드를 단말기에 꽂아 주세요.",
+   "Hãy cắm thẻ vào máy đọc."
+  ],
+  [
+   "디지털 융합",
+   "Dijiteol yunghap",
+   "Hội tụ số, dung hợp số",
+   "스마트폰은 디지털 융합의 대표적인 예예요.",
+   "Điện thoại thông minh là ví dụ tiêu biểu của hội tụ số."
+  ],
+  [
+   "초고속망",
+   "Chogosongmang",
+   "Mạng tốc độ cao",
+   "한국은 초고속망이 잘 발달했어요.",
+   "Hàn Quốc có mạng tốc độ cao rất phát triển."
+  ],
+  [
+   "서버",
+   "Seobeo",
+   "Server máy chủ",
+   "서버에 문제가 생겨서 사이트가 멈췄어요.",
+   "Máy chủ gặp sự cố nên trang web bị dừng."
+  ],
+  [
+   "원격 의료",
+   "Wongyeong uiryo",
+   "Hệ thống y tế từ xa",
+   "원격 의료로 섬마을 환자를 진료해요.",
+   "Khám bệnh nhân ở làng đảo bằng y tế từ xa."
+  ],
+  [
+   "U-러닝",
+   "Klreoning",
+   "Học mọi lúc mọi nơi U-learning",
+   "U-러닝으로 출퇴근길에 공부해요.",
+   "Tôi học trên đường đi làm bằng U-learning."
+  ],
+  [
+   "홈뱅킹",
+   "Hombaengking",
+   "Dịch vụ ngân hàng tại nhà",
+   "홈뱅킹으로 은행에 가지 않고 송금해요.",
+   "Chuyển tiền mà không cần đến ngân hàng nhờ ngân hàng tại nhà."
+  ],
+  [
+   "사이버 커뮤니티",
+   "Saibeo keomyuniti",
+   "Cộng đồng mạng",
+   "사이버 커뮤니티에서 정보를 나눠요.",
+   "Chia sẻ thông tin trong cộng đồng mạng."
+  ],
+  [
+   "원격제어",
+   "Wongyeokjeeo",
+   "Điều khiển từ xa",
+   "휴대폰으로 에어컨을 원격제어할 수 있어요.",
+   "Có thể điều khiển điều hòa từ xa bằng điện thoại."
+  ],
+  [
+   "홈 오토메이션",
+   "Hom otomeisyeon",
+   "Tự động hóa trong gia đình",
+   "홈 오토메이션으로 불을 자동으로 켜요.",
+   "Bật đèn tự động nhờ hệ thống tự động hóa gia đình."
+  ],
+  [
+   "홈쇼핑",
+   "Homsyoping",
+   "Dịch vụ mua hàng tại nhà",
+   "어머니는 홈쇼핑으로 옷을 사요.",
+   "Mẹ tôi mua quần áo qua mua sắm tại nhà."
+  ],
+  [
+   "내비게이션",
+   "Naebigeisyeon",
+   "Hệ thống dẫn đường",
+   "내비게이션 덕분에 길을 쉽게 찾아요.",
+   "Nhờ máy dẫn đường mà tìm đường dễ dàng."
+  ],
+  [
+   "원격 교육",
+   "Wongyeong gyoyuk",
+   "Giáo dục từ xa, đào tạo từ xa",
+   "코로나 때 원격 교육이 늘었어요.",
+   "Hồi Covid, giáo dục từ xa đã tăng."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Giáo dục học trực tuyến không cần đến lớp gọi là gì?",
+   "kr": "",
+   "options": [
+    "원격 교육",
+    "홈쇼핑",
+    "위성통신"
+   ],
+   "answer": "원격 교육",
+   "explain": "원격 = từ xa."
+  },
+  {
+   "type": "choice",
+   "q": "Thiết bị chỉ đường trên xe gọi là gì?",
+   "kr": "",
+   "options": [
+    "내비게이션",
+    "단말기",
+    "서버"
+   ],
+   "answer": "내비게이션",
+   "explain": "navigation."
+  },
+  {
+   "type": "choice",
+   "q": "Truyền thông có dây gọi là gì?",
+   "kr": "",
+   "options": [
+    "유선통신",
+    "무선통신",
+    "위성통신"
+   ],
+   "answer": "유선통신",
+   "explain": "유선 (có dây) ↔ 무선 (không dây)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Máy chủ gặp sự cố nên trang web bị dừng.",
+   "kr": "___에 문제가 생겨서 사이트가 멈췄어요.",
+   "options": [
+    "서버",
+    "통신망",
+    "단말기"
+   ],
+   "answer": "서버",
+   "explain": "서버 = server."
+  },
+  {
+   "type": "choice",
+   "q": "Khám chữa bệnh qua mạng, không gặp trực tiếp gọi là gì?",
+   "kr": "",
+   "options": [
+    "원격 의료",
+    "원격제어",
+    "U-러닝"
+   ],
+   "answer": "원격 의료",
+   "explain": "원격 의료."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Truyền hình mặt đất có thể xem miễn phí.",
+   "kr": "___ 방송은 무료로 볼 수 있어요.",
+   "options": [
+    "지상파",
+    "위성",
+    "유선"
+   ],
+   "answer": "지상파",
+   "explain": "지상파."
+  },
+  {
+   "type": "choice",
+   "q": "Điều khiển thiết bị từ xa gọi là gì?",
+   "kr": "",
+   "options": [
+    "원격제어",
+    "실시간 처리",
+    "디지털 융합"
+   ],
+   "answer": "원격제어",
+   "explain": "원격제어."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mẹ tôi mua quần áo qua TV.",
+   "kr": "어머니는 ___으로 옷을 사요.",
+   "options": [
+    "홈쇼핑",
+    "홈뱅킹",
+    "홈 오토메이션"
+   ],
+   "answer": "홈쇼핑",
+   "explain": "홈쇼핑."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Giao dịch chứng khoán cần xử lý thời gian thực.",
+   "kr": "주식 거래는 ___ 처리가 중요해요.",
+   "answer": [
+    "실시간"
+   ],
+   "explain": "실시간."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chia sẻ thông tin trong cộng đồng mạng.",
+   "kr": "___ 커뮤니티에서 정보를 나눠요.",
+   "answer": [
+    "사이버"
+   ],
+   "explain": "사이버 커뮤니티."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hàn Quốc có mạng tốc độ cao rất phát triển.",
+   "kr": "한국은 ___이 잘 발달했어요.",
+   "answer": [
+    "초고속망"
+   ],
+   "explain": "초고속망."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chuyển tiền không cần đến ngân hàng.",
+   "kr": "___으로 은행에 가지 않고 송금해요.",
+   "answer": [
+    "홈뱅킹"
+   ],
+   "explain": "홈뱅킹."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Có thể điều khiển điều hòa từ xa bằng điện thoại.",
+   "tokens": [
+    "휴대폰으로",
+    "에어컨을",
+    "원격제어할",
+    "수",
+    "있어요"
+   ],
+   "answer": "휴대폰으로 에어컨을 원격제어할 수 있어요",
+   "explain": "(으)ㄹ 수 있다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hồi Covid giáo dục từ xa đã tăng.",
+   "tokens": [
+    "코로나",
+    "때",
+    "원격",
+    "교육이",
+    "늘었어요"
+   ],
+   "answer": "코로나 때 원격 교육이 늘었어요",
+   "explain": "늘다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhờ máy dẫn đường mà tìm đường dễ dàng.",
+   "answer": [
+    "내비게이션 덕분에 길을 쉽게 찾아요.",
+    "내비게이션 덕분에 길을 쉽게 찾을 수 있어요."
+   ],
+   "explain": "덕분에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vùng hải đảo sử dụng truyền thông vệ tinh.",
+   "answer": [
+    "섬 지역에서는 위성통신을 이용해요.",
+    "섬 지역은 위성통신을 이용해요."
+   ],
+   "explain": "위성통신."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Điện thoại thông minh là ví dụ của hội tụ số.",
+   "answer": [
+    "스마트폰은 디지털 융합의 예예요.",
+    "스마트폰은 디지털 융합의 대표적인 예예요."
+   ],
+   "explain": "디지털 융합."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "초고속망과 무선통신이 발달하면서 유비쿼터스 시대가 열렸다. 이제 사람들은 원격 교육으로 집에서 공부하고, 원격 의료로 병원에 가지 않고도 진료를 받을 수 있게 되었다.",
+   "answer": "Khi mạng tốc độ cao và truyền thông vô tuyến phát triển, thời đại ubiquitous đã mở ra. Giờ đây con người có thể học ở nhà bằng giáo dục từ xa, và được khám bệnh mà không cần đến bệnh viện nhờ y tế từ xa.",
+   "explain": "게 되다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 퇴근하는 길인데 집 에어컨을 켜 놓고 싶어요.\n여자: 우리 집 홈 오토메이션 앱으로 원격제어할 수 있어요.\n남자: 앱 사용법을 잘 모르겠어요.\n여자: 그럼 제가 지금 앱으로 켤게요.",
+   "options": [
+    "앱으로 에어컨을 켠다.",
+    "집에 가서 에어컨을 켠다.",
+    "앱을 삭제한다.",
+    "에어컨을 산다."
+   ],
+   "answer": "앱으로 에어컨을 켠다.",
+   "explain": "제가 지금 앱으로 켤게요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "원격 의료는 병원이 먼 섬이나 산간 지역 주민들에게 큰 도움이 된다. 그러나 직접 환자를 보지 않고 진료하기 때문에 정확한 진단이 어렵다는 지적도 있다. 따라서 원격 의료는 대면 진료를 완전히 대체하기보다 보완하는 역할을 해야 한다.",
+   "options": [
+    "원격 의료는 대면 진료를 보완하는 것이 바람직하다.",
+    "원격 의료는 대면 진료를 완전히 대체해야 한다.",
+    "원격 의료는 진단이 매우 정확하다.",
+    "섬 주민들은 원격 의료가 필요 없다."
+   ],
+   "answer": "원격 의료는 대면 진료를 보완하는 것이 바람직하다.",
+   "explain": "대체하기보다 보완하는 역할."
+  }
+ ]
+}

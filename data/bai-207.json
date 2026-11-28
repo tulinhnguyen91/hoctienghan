@@ -1,0 +1,407 @@
+{
+ "id": "bai-207",
+ "lesson": "Bài 207",
+ "title": "Du học Hàn Quốc (phần 3/5)",
+ "krTitle": "한국 유학 3",
+ "date": "2027-09-15",
+ "day": 301,
+ "source": "TOPIK 5 – Bài 15: Du học Hàn Quốc (phần 3/5)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "보고서",
+   "Bogoseo",
+   "Bài báo cáo",
+   "금요일까지 보고서를 제출해야 해요.",
+   "Phải nộp báo cáo trước thứ sáu."
+  ],
+  [
+   "답사",
+   "Dapsa",
+   "Đi thực địa, khảo sát thực tế",
+   "역사 수업에서 경주로 답사를 갔어요.",
+   "Lớp lịch sử đã đi thực địa ở Gyeongju."
+  ],
+  [
+   "강의 계획서",
+   "Gangui gyehoekseo",
+   "Kế hoạch bài giảng, đề cương bài giảng",
+   "강의 계획서에 시험 날짜가 나와 있어요.",
+   "Ngày thi có ghi trong đề cương môn học."
+  ],
+  [
+   "출석",
+   "Chulseok",
+   "Sự có mặt",
+   "출석을 부를 때 대답하세요.",
+   "Khi điểm danh hãy trả lời."
+  ],
+  [
+   "휴강",
+   "Hyugang",
+   "Nghỉ tiết (giảng viên cho nghỉ)",
+   "교수님이 아프셔서 오늘 휴강이에요.",
+   "Giáo sư ốm nên hôm nay được nghỉ tiết."
+  ],
+  [
+   "과제",
+   "Gwaje",
+   "Bài tập",
+   "이번 주에 과제가 세 개나 있어요.",
+   "Tuần này có tới ba bài tập."
+  ],
+  [
+   "발표",
+   "Balpyo",
+   "Sự phát biểu",
+   "다음 주에 조별 발표가 있어요.",
+   "Tuần sau có thuyết trình nhóm."
+  ],
+  [
+   "실습",
+   "Silseup",
+   "Sự thực tập",
+   "간호학과 학생들은 병원에서 실습을 해요.",
+   "Sinh viên ngành điều dưỡng thực tập ở bệnh viện."
+  ],
+  [
+   "강의 평가",
+   "Gangui pyeongga",
+   "Đánh giá giờ giảng",
+   "학기 말에 강의 평가를 해야 성적을 볼 수 있어요.",
+   "Cuối kỳ phải đánh giá giảng dạy mới xem được điểm."
+  ],
+  [
+   "사회에 진출하다",
+   "Sahoee jinchulhada",
+   "Ra xã hội",
+   "졸업 후에 사회에 진출해서 일하고 싶어요.",
+   "Sau khi tốt nghiệp tôi muốn ra xã hội làm việc."
+  ],
+  [
+   "적성에 맞다",
+   "Jeokseonge matda",
+   "Hợp với sở trường",
+   "이 일은 제 적성에 잘 맞아요.",
+   "Công việc này rất hợp với năng khiếu của tôi."
+  ],
+  [
+   "종사하다",
+   "Jongsahada",
+   "Làm việc",
+   "그는 10년 동안 교육 분야에 종사했어요.",
+   "Anh ấy làm việc trong lĩnh vực giáo dục 10 năm."
+  ],
+  [
+   "진로를 결정하다",
+   "Jilloreul gyeoljeonghada",
+   "Quyết định hướng sắp tới",
+   "3학년이 되면 진로를 결정해야 해요.",
+   "Lên năm ba thì phải quyết định hướng đi."
+  ],
+  [
+   "소질이 있다",
+   "Sojiri itda",
+   "Có tài",
+   "그 학생은 그림에 소질이 있어요.",
+   "Học sinh đó có năng khiếu vẽ."
+  ],
+  [
+   "전공을 살리다",
+   "Jeongongeul sallida",
+   "Tận dụng chuyên môn",
+   "전공을 살려서 통역사가 되고 싶어요.",
+   "Tôi muốn tận dụng chuyên ngành để trở thành phiên dịch viên."
+  ],
+  [
+   "경로",
+   "Gyeongno",
+   "Con đường, lộ trình",
+   "취업에는 여러 가지 경로가 있어요.",
+   "Có nhiều con đường để tìm việc."
+  ],
+  [
+   "디플레이션",
+   "Dipeulleisyeon",
+   "Giảm phát (deflation)",
+   "디플레이션이 오면 물가가 계속 떨어져요.",
+   "Khi giảm phát xảy ra, giá cả liên tục giảm."
+  ],
+  [
+   "학업에 매진하다",
+   "Hageobe maejinhada",
+   "Tập trung vào việc học, phấn đấu học hành",
+   "장학금을 받으려고 학업에 매진했어요.",
+   "Tôi dốc sức vào học tập để nhận học bổng."
+  ],
+  [
+   "메이크업",
+   "Meikeueop",
+   "Việc trang điểm (make-up)",
+   "메이크업 아티스트가 되려고 학원에 다녀요.",
+   "Tôi đi học ở trung tâm để thành chuyên viên trang điểm."
+  ],
+  [
+   "물질",
+   "Muljil",
+   "Vật chất",
+   "돈보다 물질 이외의 가치가 중요해요.",
+   "Những giá trị ngoài vật chất quan trọng hơn tiền."
+  ],
+  [
+   "바리스타",
+   "Bariseuta",
+   "Người làm nghề pha chế (barista)",
+   "카페에서 바리스타로 아르바이트를 해요.",
+   "Tôi làm thêm pha chế ở quán cà phê."
+  ],
+  [
+   "반환",
+   "Banhwan",
+   "Sự hoàn lại, sự trả lại",
+   "수업을 취소하면 등록금 반환을 받을 수 있어요.",
+   "Nếu hủy môn học có thể được hoàn lại học phí."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 아/어 내다 — Làm được (vượt khó)",
+   "meaning": "Nhấn mạnh việc HOÀN THÀNH một việc KHÓ KHĂN, vất vả đến cùng bằng nỗ lực của bản thân: 'làm được, vượt qua được, … cho bằng được'. Chia: ㅏ/ㅗ → 아 내다 (참아 내다); khác → 어 내다 (견뎌 내다, 이겨 내다, 버텨 내다); 하다 → 해 내다 (thường viết 해내다). Hay đi với động từ: 견디다 (chịu đựng), 이기다 (thắng), 참다 (nhịn), 버티다 (trụ), 찾다 (tìm), 밝히다 (làm rõ), 만들다 (làm ra), 해결하다. Thường ở quá khứ (đã làm được) hoặc ý chí (꼭 해내겠어요). So sánh: 아/어 버리다 (làm xong hẳn – có thể tiếc nuối/nhẹ nhõm); 아/어 내다 (làm được dù khó khăn – tự hào, nỗ lực). Từ hay gặp: 해내다 (làm được), 알아내다 (tìm ra), 찾아내다 (tìm ra).",
+   "examples": [
+    "힘든 유학 생활을 잘 견뎌 냈어요. — Tôi đã chịu đựng được cuộc sống du học vất vả.",
+    "혼자서 그 어려운 과제를 해냈어요. — Tôi đã tự mình làm xong bài tập khó đó.",
+    "포기하지 않고 끝까지 이겨 냈어요. — Không bỏ cuộc và đã vượt qua đến cùng.",
+    "경찰이 사고 원인을 밝혀냈어요. — Cảnh sát đã làm rõ được nguyên nhân tai nạn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Giảng viên cho nghỉ tiết học gọi là gì?",
+   "kr": "",
+   "options": [
+    "휴강",
+    "폐강",
+    "보강"
+   ],
+   "answer": "휴강",
+   "explain": "휴 = nghỉ."
+  },
+  {
+   "type": "choice",
+   "q": "Tài liệu ghi mục tiêu, nội dung, lịch thi của môn học gọi là gì?",
+   "kr": "",
+   "options": [
+    "강의 계획서",
+    "강의 평가",
+    "보고서"
+   ],
+   "answer": "강의 계획서",
+   "explain": "계획서 = bản kế hoạch."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Công việc này rất hợp với năng khiếu của tôi.",
+   "kr": "이 일은 제 ___에 잘 맞아요.",
+   "options": [
+    "적성",
+    "소질",
+    "진로"
+   ],
+   "answer": "적성",
+   "explain": "적성에 맞다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi muốn tận dụng chuyên ngành để làm phiên dịch.",
+   "kr": "전공을 ___ 통역사가 되고 싶어요.",
+   "options": [
+    "살려서",
+    "결정해서",
+    "종사해서"
+   ],
+   "answer": "살려서",
+   "explain": "전공을 살리다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tôi đã chịu đựng được cuộc sống du học vất vả.'",
+   "kr": "",
+   "options": [
+    "힘든 유학 생활을 견뎌 냈어요.",
+    "힘든 유학 생활을 견디 냈어요.",
+    "힘든 유학 생활을 견뎌 내요다."
+   ],
+   "answer": "힘든 유학 생활을 견뎌 냈어요.",
+   "explain": "견디다 → 견뎌 내다."
+  },
+  {
+   "type": "choice",
+   "q": "아/어 내다 nhấn mạnh điều gì?",
+   "kr": "",
+   "options": [
+    "Hoàn thành việc khó bằng nỗ lực",
+    "Làm mất, đáng tiếc",
+    "Làm thử"
+   ],
+   "answer": "Hoàn thành việc khó bằng nỗ lực",
+   "explain": "Vượt khó → làm được."
+  },
+  {
+   "type": "choice",
+   "q": "'경찰이 원인을 밝혀냈어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Cảnh sát đã làm rõ được nguyên nhân.",
+    "Cảnh sát làm mất nguyên nhân.",
+    "Cảnh sát che giấu nguyên nhân."
+   ],
+   "answer": "Cảnh sát đã làm rõ được nguyên nhân.",
+   "explain": "밝혀내다 = làm sáng tỏ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi dốc sức vào học tập để nhận học bổng.",
+   "kr": "장학금을 받으려고 학업에 ___.",
+   "options": [
+    "매진했어요",
+    "진출했어요",
+    "반환했어요"
+   ],
+   "answer": "매진했어요",
+   "explain": "학업에 매진하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 내다 với 하다: Tôi đã tự mình làm xong bài tập khó.",
+   "kr": "혼자서 그 어려운 과제를 ___.",
+   "answer": [
+    "해냈어요",
+    "해 냈어요"
+   ],
+   "explain": "하다 → 해내다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어 내다 với 이기다: Không bỏ cuộc và đã vượt qua.",
+   "kr": "포기하지 않고 끝까지 ___.",
+   "answer": [
+    "이겨 냈어요",
+    "이겨냈어요"
+   ],
+   "explain": "이기다 → 이겨 내다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Học sinh đó có năng khiếu vẽ.",
+   "kr": "그 학생은 그림에 ___이 있어요.",
+   "answer": [
+    "소질"
+   ],
+   "explain": "소질이 있다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tuần sau có thuyết trình nhóm.",
+   "kr": "다음 주에 조별 ___가 있어요.",
+   "answer": [
+    "발표"
+   ],
+   "explain": "발표."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tôi đã chịu đựng được cuộc sống du học vất vả.",
+   "tokens": [
+    "힘든",
+    "유학",
+    "생활을",
+    "잘",
+    "견뎌",
+    "냈어요"
+   ],
+   "answer": "힘든 유학 생활을 잘 견뎌 냈어요",
+   "explain": "아/어 내다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Lên năm ba thì phải quyết định hướng đi.",
+   "tokens": [
+    "3학년이",
+    "되면",
+    "진로를",
+    "결정해야",
+    "해요"
+   ],
+   "answer": "3학년이 되면 진로를 결정해야 해요",
+   "explain": "진로를 결정하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cuối cùng tôi đã tìm ra được câu trả lời. (dùng 아/어 내다)",
+   "answer": [
+    "드디어 답을 찾아냈어요.",
+    "결국 답을 찾아냈어요.",
+    "드디어 답을 찾아 냈어요.",
+    "마침내 답을 찾아냈어요."
+   ],
+   "explain": "찾아내다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sinh viên điều dưỡng thực tập ở bệnh viện.",
+   "answer": [
+    "간호학과 학생들은 병원에서 실습을 해요.",
+    "간호학과 학생들은 병원에서 실습해요."
+   ],
+   "explain": "실습하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi làm thêm pha chế ở quán cà phê.",
+   "answer": [
+    "카페에서 바리스타로 아르바이트를 해요.",
+    "카페에서 바리스타 아르바이트를 해요.",
+    "커피숍에서 바리스타로 아르바이트해요."
+   ],
+   "explain": "(으)로 (tư cách)."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "처음 한국에 왔을 때는 수업을 이해하기조차 어려웠다. 하지만 매일 복습하며 학업에 매진한 결과, 4년 동안의 유학 생활을 잘 견뎌 내고 전공을 살려 한국 회사에 취직했다.",
+   "answer": "Lúc mới sang Hàn Quốc, ngay cả việc hiểu bài giảng cũng khó. Nhưng nhờ ngày nào cũng ôn bài và dốc sức học tập, tôi đã vượt qua được 4 năm du học và tận dụng chuyên ngành để vào làm ở công ty Hàn.",
+   "explain": "기조차; 견뎌 내다; 전공을 살리다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "남자: 오늘 수업 휴강이래요. 교수님께서 출장 가셨대요.\n여자: 정말요? 그럼 우리 도서관에 가서 발표 준비나 할까요?\n남자: 좋아요. 과제도 같이 해요.",
+   "options": [
+    "두 사람은 도서관에 가서 발표를 준비하려고 한다.",
+    "두 사람은 수업을 듣고 있다.",
+    "교수님이 수업을 하고 있다.",
+    "두 사람은 출장을 간다."
+   ],
+   "answer": "두 사람은 도서관에 가서 발표를 준비하려고 한다.",
+   "explain": "휴강 → 도서관에서 발표 준비."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "유학생 취업 '바늘구멍'… 전공 살린 취업 10명 중 2명뿐",
+   "options": [
+    "유학생 중 전공을 살려 취업하는 사람이 매우 적다.",
+    "유학생은 취업이 아주 쉽다.",
+    "유학생 10명 중 8명이 전공을 살려 취업했다.",
+    "유학생은 바늘을 만드는 회사에 취업한다."
+   ],
+   "answer": "유학생 중 전공을 살려 취업하는 사람이 매우 적다.",
+   "explain": "바늘구멍 = lỗ kim (rất khó); 10명 중 2명뿐."
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "id": "bai-245",
+ "lesson": "Bài 245",
+ "title": "Chế độ chính trị (phần 4/4)",
+ "krTitle": "정치 제도 4",
+ "date": "2027-11-11",
+ "day": 358,
+ "source": "TOPIK 6 – Bài 8: Chế độ chính trị (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "법안",
+   "Beoban",
+   "Dự án luật",
+   "국회에서 새 법안이 통과되었어요.",
+   "Dự luật mới đã được thông qua ở Quốc hội."
+  ],
+  [
+   "상공인",
+   "Sanggongin",
+   "Giới công thương",
+   "지역 상공인들이 경제 회의에 참석했어요.",
+   "Giới công thương địa phương tham dự hội nghị kinh tế."
+  ],
+  [
+   "상봉",
+   "Sangbong",
+   "Tương phùng, gặp gỡ",
+   "이산가족이 60년 만에 상봉했어요.",
+   "Gia đình ly tán đoàn tụ sau 60 năm."
+  ],
+  [
+   "식민지 정책",
+   "Singminji jeongchaek",
+   "Chính sách thực dân",
+   "일제의 식민지 정책은 한국인에게 큰 고통을 주었어요.",
+   "Chính sách thuộc địa của Nhật đã gây đau khổ lớn cho người Hàn."
+  ],
+  [
+   "안보 문제",
+   "Anbo munje",
+   "Vấn đề bảo an",
+   "안보 문제는 국민의 생명과 관련이 있어요.",
+   "Vấn đề an ninh liên quan đến sinh mạng người dân."
+  ],
+  [
+   "양보 문제",
+   "Yangbo munje",
+   "Vấn đề nhượng bộ",
+   "협상에서 양보 문제가 가장 어려웠어요.",
+   "Trong đàm phán, vấn đề nhượng bộ là khó nhất."
+  ],
+  [
+   "연합국",
+   "Yeonhapguk",
+   "Phe Đồng minh",
+   "제2차 세계 대전에서 연합국이 승리했어요.",
+   "Phe Đồng minh đã chiến thắng trong Thế chiến thứ hai."
+  ],
+  [
+   "왕정",
+   "Wangjeong",
+   "Chế độ quân chủ",
+   "조선은 왕정 국가였어요.",
+   "Joseon là nhà nước quân chủ."
+  ],
+  [
+   "연임",
+   "Yeonim",
+   "Bổ nhiệm lại, tái đắc cử",
+   "그 시장은 연임에 성공했어요.",
+   "Thị trưởng đó đã tái đắc cử thành công."
+  ],
+  [
+   "임기",
+   "Imgi",
+   "Nhiệm kỳ",
+   "한국 대통령의 임기는 5년이에요.",
+   "Nhiệm kỳ tổng thống Hàn Quốc là 5 năm."
+  ],
+  [
+   "통일부",
+   "Tongilbu",
+   "Bộ thống nhất",
+   "통일부는 남북 관계 업무를 맡아요.",
+   "Bộ Thống nhất phụ trách công việc quan hệ Nam – Bắc."
+  ],
+  [
+   "자유선진당",
+   "Jayuseonjindang",
+   "Đảng tự do phát triển",
+   "자유선진당은 과거에 있었던 정당이에요.",
+   "Đảng Tự do Tiên tiến là chính đảng từng tồn tại trong quá khứ."
+  ],
+  [
+   "전국구",
+   "Jeongukgu",
+   "Khu vực bầu cử toàn quốc (danh sách đảng)",
+   "그는 전국구 국회의원으로 뽑혔어요.",
+   "Ông ấy được chọn làm nghị sĩ theo danh sách toàn quốc."
+  ],
+  [
+   "정례화",
+   "Jeongnyehwa",
+   "Sự định kỳ hóa",
+   "두 나라는 정상 회담을 정례화하기로 했어요.",
+   "Hai nước quyết định tổ chức hội nghị thượng đỉnh định kỳ."
+  ],
+  [
+   "정부조직법",
+   "Jeongbujojikbeop",
+   "Luật tổ chức chính phủ",
+   "정부조직법이 개정되었어요.",
+   "Luật tổ chức chính phủ đã được sửa đổi."
+  ],
+  [
+   "정수",
+   "Jeongsu",
+   "Số lượng định biên (số ghế)",
+   "국회의원 정수는 300명이에요.",
+   "Số ghế nghị sĩ quốc hội theo quy định là 300."
+  ],
+  [
+   "조정하다",
+   "Jojeonghada",
+   "Điều chỉnh",
+   "정부는 세금을 조정하기로 했어요.",
+   "Chính phủ quyết định điều chỉnh thuế."
+  ],
+  [
+   "지역구",
+   "Jiyeokgu",
+   "Khu vực bầu cử địa phương",
+   "그는 고향 지역구에 출마했어요.",
+   "Ông ấy ra tranh cử ở khu vực bầu cử quê nhà."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄹ락 말락 하다 — Gần như … rồi lại thôi",
+   "meaning": "Diễn tả trạng thái LƯNG CHỪNG, chực xảy ra mà chưa xảy ra hẳn: 'suýt… mà không…, gần như… mà cũng không hẳn, lúc… lúc không'. Chia: có patchim → 을락 말락 (닿을락 말락); không patchim/ㄹ → ㄹ락 말락 (보일락 말락, 들릴락 말락, 잠이 들락 말락). Hay dùng với các động từ chỉ trạng thái biên giới: 닿다 (chạm), 보이다 (thấy), 들리다 (nghe), 넘다 (vượt), 잠들다 (ngủ), 비가 오다. Ví dụ hình ảnh: 손이 닿을락 말락 해요 (tay chạm tới mà lại không tới). Cũng dùng với sự do dự: 말할락 말락 했어요 (định nói rồi lại thôi). Văn nói và viết, giàu hình ảnh. So sánh: (으)ㄹ 뻔하다 (suýt nữa thì – nhưng đã không xảy ra, kết quả rõ); (으)ㄹ락 말락 하다 (trạng thái lửng lơ, đang diễn ra).",
+   "examples": [
+    "선반이 높아서 손이 닿을락 말락 해요. — Kệ cao quá, tay với tới mà lại không tới.",
+    "목소리가 너무 작아서 들릴락 말락 했어요. — Giọng nhỏ quá, lúc nghe được lúc không.",
+    "법안이 통과될락 말락 하다가 결국 부결되었어요. — Dự luật suýt được thông qua rồi cuối cùng bị bác.",
+    "하늘이 흐려서 비가 올락 말락 해요. — Trời âm u, mưa chực rơi mà chưa rơi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Khoảng thời gian giữ chức vụ (tổng thống, nghị sĩ) gọi là gì?",
+   "kr": "",
+   "options": [
+    "임기",
+    "연임",
+    "정수"
+   ],
+   "answer": "임기",
+   "explain": "임기 = nhiệm kỳ."
+  },
+  {
+   "type": "choice",
+   "q": "Được bầu lại thêm một nhiệm kỳ gọi là gì?",
+   "kr": "",
+   "options": [
+    "연임",
+    "상봉",
+    "조정"
+   ],
+   "answer": "연임",
+   "explain": "연임 = tái nhiệm."
+  },
+  {
+   "type": "choice",
+   "q": "Bộ phụ trách quan hệ Nam – Bắc Hàn là gì?",
+   "kr": "",
+   "options": [
+    "통일부",
+    "지식경제부",
+    "문화재청"
+   ],
+   "answer": "통일부",
+   "explain": "통일부."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Gia đình ly tán đoàn tụ sau 60 năm.",
+   "kr": "이산가족이 60년 만에 ___했어요.",
+   "options": [
+    "상봉",
+    "연임",
+    "조정"
+   ],
+   "answer": "상봉",
+   "explain": "상봉하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tay với tới mà lại không tới.'",
+   "kr": "",
+   "options": [
+    "손이 닿을락 말락 해요.",
+    "손이 닿을락 말락이에요요.",
+    "손이 닿는락 말락 해요."
+   ],
+   "answer": "손이 닿을락 말락 해요.",
+   "explain": "닿다 (patchim) → 닿을락 말락."
+  },
+  {
+   "type": "choice",
+   "q": "'비가 올락 말락 해요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Mưa chực rơi mà chưa rơi.",
+    "Trời mưa to.",
+    "Mưa đã tạnh."
+   ],
+   "answer": "Mưa chực rơi mà chưa rơi.",
+   "explain": "Trạng thái lửng lơ."
+  },
+  {
+   "type": "choice",
+   "q": "Khác biệt giữa (으)ㄹ 뻔하다 và (으)ㄹ락 말락 하다?",
+   "kr": "",
+   "options": [
+    "뻔하다: suýt (kết quả rõ là không xảy ra); 락 말락: lửng lơ, chực mà chưa",
+    "Hai mẫu giống hệt nhau",
+    "락 말락: chắc chắn xảy ra"
+   ],
+   "answer": "뻔하다: suýt (kết quả rõ là không xảy ra); 락 말락: lửng lơ, chực mà chưa",
+   "explain": "So sánh sắc thái."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Dự luật mới đã được thông qua.",
+   "kr": "국회에서 새 ___이 통과되었어요.",
+   "options": [
+    "법안",
+    "왕정",
+    "지역구"
+   ],
+   "answer": "법안",
+   "explain": "법안."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ락 말락 với 들리다: Giọng nhỏ quá, lúc nghe được lúc không.",
+   "kr": "목소리가 너무 작아서 ___ 했어요.",
+   "answer": [
+    "들릴락 말락"
+   ],
+   "explain": "들릴락 말락."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ락 말락 với 통과되다: Dự luật suýt được thông qua rồi bị bác.",
+   "kr": "법안이 ___ 하다가 결국 부결되었어요.",
+   "answer": [
+    "통과될락 말락"
+   ],
+   "explain": "통과될락 말락."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nhiệm kỳ tổng thống Hàn Quốc là 5 năm.",
+   "kr": "한국 대통령의 ___는 5년이에요.",
+   "answer": [
+    "임기"
+   ],
+   "explain": "임기."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chính phủ quyết định điều chỉnh thuế.",
+   "kr": "정부는 세금을 ___하기로 했어요.",
+   "answer": [
+    "조정"
+   ],
+   "explain": "조정하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Trời âm u, mưa chực rơi mà chưa rơi.",
+   "tokens": [
+    "하늘이",
+    "흐려서",
+    "비가",
+    "올락",
+    "말락",
+    "해요"
+   ],
+   "answer": "하늘이 흐려서 비가 올락 말락 해요",
+   "explain": "(으)ㄹ락 말락 하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hai nước quyết định định kỳ hóa hội nghị thượng đỉnh.",
+   "tokens": [
+    "두",
+    "나라는",
+    "정상",
+    "회담을",
+    "정례화하기로",
+    "했어요"
+   ],
+   "answer": "두 나라는 정상 회담을 정례화하기로 했어요",
+   "explain": "기로 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Buồn ngủ quá, mắt cứ díp lại rồi lại mở. (dùng 락 말락, 잠이 들다)",
+   "answer": [
+    "너무 졸려서 잠이 들락 말락 해요.",
+    "너무 졸려서 잠이 들락 말락 했어요.",
+    "졸려서 잠이 들락 말락 해요."
+   ],
+   "explain": "들락 말락."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Joseon là nhà nước quân chủ.",
+   "answer": [
+    "조선은 왕정 국가였어요.",
+    "조선은 왕정 국가였습니다."
+   ],
+   "explain": "왕정."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thị trưởng đó đã tái đắc cử.",
+   "answer": [
+    "그 시장은 연임에 성공했어요.",
+    "그 시장은 연임했어요."
+   ],
+   "explain": "연임."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국의 국회의원 선거는 지역구 선거와 비례대표 선거로 나뉜다. 지역구에서는 가장 많은 표를 얻은 후보가 당선되고, 비례대표는 정당의 득표율에 따라 의석이 나누어진다.",
+   "answer": "Bầu cử nghị sĩ quốc hội Hàn Quốc chia thành bầu cử khu vực và bầu cử đại diện theo tỷ lệ. Ở khu vực, ứng viên được nhiều phiếu nhất sẽ trúng cử, còn đại diện tỷ lệ thì ghế được chia theo tỷ lệ phiếu của đảng.",
+   "explain": "나뉘다; 에 따라."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 어제 국회에서 그 법안 투표 결과 봤어요?\n남자: 네, 찬성이 반을 넘을락 말락 하다가 결국 두 표 차이로 통과됐대요.\n여자: 정말 아슬아슬했네요.\n남자: 그러게요. 마지막까지 결과를 아무도 몰랐대요.",
+   "options": [
+    "법안은 아주 적은 차이로 통과되었다.",
+    "법안은 부결되었다.",
+    "찬성표가 압도적으로 많았다.",
+    "투표는 다음 주에 한다."
+   ],
+   "answer": "법안은 아주 적은 차이로 통과되었다.",
+   "explain": "두 표 차이로 통과."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu ĐÚNG. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【제22대 국회의원 선거 안내】\n· 선거일: 4월 10일 (오전 6시~오후 6시)\n· 사전 투표: 4월 5일~6일\n· 투표 대상: 만 18세 이상 국민\n· 준비물: 신분증",
+   "options": [
+    "투표할 때 신분증이 필요하다.",
+    "선거일 투표는 밤 9시까지이다.",
+    "만 17세도 투표할 수 있다.",
+    "사전 투표는 선거일 다음 날이다."
+   ],
+   "answer": "투표할 때 신분증이 필요하다.",
+   "explain": "준비물: 신분증."
+  }
+ ]
+}

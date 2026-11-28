@@ -1,0 +1,414 @@
+{
+ "id": "bai-217",
+ "lesson": "Bài 217",
+ "title": "Khoa học và tương lai (phần 3/4)",
+ "krTitle": "과학과 미래 3",
+ "date": "2027-09-30",
+ "day": 316,
+ "source": "TOPIK 6 – Bài 2: Khoa học và tương lai (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "간직하다",
+   "Ganjikada",
+   "Giữ gìn, bảo quản cẩn thận",
+   "어릴 때 사진을 소중히 간직하고 있어요.",
+   "Tôi đang giữ gìn cẩn thận những bức ảnh hồi nhỏ."
+  ],
+  [
+   "고작이다",
+   "Gojagida",
+   "Chỉ (đến mức)…, cùng lắm là",
+   "월급을 받아도 저축은 10만 원이 고작이에요.",
+   "Có lương rồi mà tiết kiệm được cùng lắm 100 nghìn won."
+  ],
+  [
+   "괄목할 만하다",
+   "Gwalmokal manhada",
+   "Đáng để ý, đáng chú ý",
+   "한국의 과학 기술은 괄목할 만한 성장을 했어요.",
+   "Khoa học công nghệ Hàn Quốc đã tăng trưởng đáng chú ý."
+  ],
+  [
+   "금발",
+   "Geumbal",
+   "Tóc vàng",
+   "금발 머리의 외국인이 길을 물었어요.",
+   "Một người nước ngoài tóc vàng đã hỏi đường."
+  ],
+  [
+   "금이 가다",
+   "Geumi gada",
+   "Bị rạn, bị nứt, bị vỡ",
+   "떨어뜨려서 휴대폰 화면에 금이 갔어요.",
+   "Làm rơi nên màn hình điện thoại bị nứt."
+  ],
+  [
+   "기발하다",
+   "Gibalhada",
+   "Độc đáo",
+   "그 학생의 아이디어가 정말 기발해요.",
+   "Ý tưởng của học sinh đó thật độc đáo."
+  ],
+  [
+   "깔끔하다",
+   "Kkalkkeumhada",
+   "Gọn gàng, ngăn nắp",
+   "실험실은 항상 깔끔하게 정리해야 해요.",
+   "Phòng thí nghiệm luôn phải được sắp xếp gọn gàng."
+  ],
+  [
+   "노벨물리학상",
+   "Nobelmullihaksang",
+   "Giải thưởng Nobel vật lý",
+   "아인슈타인은 노벨물리학상을 받았어요.",
+   "Einstein đã nhận giải Nobel Vật lý."
+  ],
+  [
+   "도입하다",
+   "Doipada",
+   "Dẫn nhập",
+   "학교에 인공지능 수업을 도입했어요.",
+   "Trường đã đưa môn trí tuệ nhân tạo vào giảng dạy."
+  ],
+  [
+   "동력 비행",
+   "Dongnyeong bihaeng",
+   "Bay có động cơ",
+   "라이트 형제가 처음으로 동력 비행에 성공했어요.",
+   "Anh em nhà Wright lần đầu tiên bay thành công bằng máy có động cơ."
+  ],
+  [
+   "뒤덮다",
+   "Dwideopda",
+   "Bao trùm, bao phủ",
+   "황사가 하늘을 뒤덮었어요.",
+   "Bụi vàng đã bao phủ bầu trời."
+  ],
+  [
+   "땔감",
+   "Ttaelgam",
+   "Chất đốt",
+   "옛날에는 나무를 땔감으로 썼어요.",
+   "Ngày xưa dùng củi làm chất đốt."
+  ],
+  [
+   "명암",
+   "Myeongam",
+   "Sáng tối; mặt tốt mặt xấu",
+   "과학 기술에는 명암이 있어요.",
+   "Khoa học công nghệ có cả mặt sáng lẫn mặt tối."
+  ],
+  [
+   "무기",
+   "Mugi",
+   "Vũ khí",
+   "과학이 무기 개발에 이용되기도 해요.",
+   "Khoa học cũng bị dùng vào phát triển vũ khí."
+  ],
+  [
+   "미생물",
+   "Misaengmul",
+   "Vi sinh vật",
+   "김치는 미생물 덕분에 맛있게 익어요.",
+   "Kimchi lên men ngon nhờ vi sinh vật."
+  ],
+  [
+   "방사선",
+   "Bangsaseon",
+   "Tia phóng xạ",
+   "병원에서 방사선 치료를 받았어요.",
+   "Đã điều trị bằng tia phóng xạ ở bệnh viện."
+  ],
+  [
+   "빨아들이다",
+   "Pparadeurida",
+   "Thẩm thấu, hấp thụ",
+   "이 수건은 물을 잘 빨아들여요.",
+   "Chiếc khăn này hút nước tốt."
+  ],
+  [
+   "살상하다",
+   "Salsanghada",
+   "Sát thương",
+   "전쟁 무기는 많은 사람을 살상했어요.",
+   "Vũ khí chiến tranh đã sát thương rất nhiều người."
+  ],
+  [
+   "소음",
+   "Soeum",
+   "Tiếng ồn",
+   "공항 근처는 비행기 소음이 심해요.",
+   "Gần sân bay tiếng ồn máy bay rất lớn."
+  ],
+  [
+   "쇳덩이",
+   "Soetdeongi",
+   "Khối kim loại",
+   "무거운 쇳덩이가 물에 뜨는 것이 신기해요.",
+   "Khối sắt nặng nổi trên nước thật kỳ lạ."
+  ],
+  [
+   "수압",
+   "Suap",
+   "Áp lực nước",
+   "깊은 바다는 수압이 아주 높아요.",
+   "Biển sâu có áp lực nước rất cao."
+  ],
+  [
+   "신종",
+   "Sinjong",
+   "Chủng loại mới",
+   "신종 바이러스가 빠르게 퍼졌어요.",
+   "Virus chủng mới lan nhanh."
+  ],
+  [
+   "열기구 비행",
+   "Yeolgigu bihaeng",
+   "Bay bằng khinh khí cầu",
+   "열기구 비행은 동력 비행보다 먼저 성공했어요.",
+   "Bay khinh khí cầu thành công trước bay có động cơ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는 탓에 — Tại, do",
+   "meaning": "Nêu NGUYÊN NHÂN của một kết quả TIÊU CỰC, có ý ĐỔ LỖI / trách: 'tại…, do… nên…'. 탓 = lỗi, nguyên do (xấu). Chia: Động từ hiện tại → 는 탓에 (오는 탓에); quá khứ → (으)ㄴ 탓에 (먹은 탓에, 잔 탓에); Tính từ → (으)ㄴ 탓에 (추운 탓에, 바쁜 탓에); Danh từ → N 탓에 / N인 탓에 (날씨 탓에, 감기 탓에). Cuối câu: N/V(으)ㄴ 탓이다 (là tại…): 다 제 탓이에요 (tất cả là tại tôi). Thành ngữ: 남의 탓을 하다 (đổ lỗi cho người khác). So sánh: 덕분에 (nhờ – kết quả TỐT) ↔ 탓에 (tại – kết quả XẤU); 때문에 (vì – trung tính).",
+   "examples": [
+    "황사가 심한 탓에 외출을 못 했어요. — Tại bụi vàng nặng nên không ra ngoài được.",
+    "소음이 심한 탓에 밤새 잠을 못 잤어요. — Tại ồn quá nên mất ngủ cả đêm.",
+    "실험 준비를 제대로 안 한 탓에 결과가 좋지 않았어요. — Tại không chuẩn bị thí nghiệm đàng hoàng nên kết quả không tốt.",
+    "신종 바이러스 탓에 많은 행사가 취소되었어요. — Do virus chủng mới mà nhiều sự kiện bị hủy."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA về sắc thái với 덕분에 là gì?",
+   "kr": "",
+   "options": [
+    "탓에",
+    "겸해서",
+    "때문에"
+   ],
+   "answer": "탓에",
+   "explain": "덕분에 (nhờ) ↔ 탓에 (tại)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ý tưởng của học sinh đó thật độc đáo.",
+   "kr": "그 학생의 아이디어가 정말 ___.",
+   "options": [
+    "기발해요",
+    "깔끔해요",
+    "고작이에요"
+   ],
+   "answer": "기발해요",
+   "explain": "기발하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Màn hình điện thoại bị nứt.",
+   "kr": "휴대폰 화면에 ___.",
+   "options": [
+    "금이 갔어요",
+    "명암이 있어요",
+    "간직했어요"
+   ],
+   "answer": "금이 갔어요",
+   "explain": "금이 가다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Kimchi lên men ngon nhờ vi sinh vật.",
+   "kr": "김치는 ___ 덕분에 맛있게 익어요.",
+   "options": [
+    "미생물",
+    "방사선",
+    "쇳덩이"
+   ],
+   "answer": "미생물",
+   "explain": "미생물."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tại ồn quá nên mất ngủ cả đêm.'",
+   "kr": "",
+   "options": [
+    "소음이 심한 탓에 밤새 잠을 못 잤어요.",
+    "소음이 심하는 탓에 밤새 잠을 못 잤어요.",
+    "소음이 심한 탓에 밤새 잘 잤어요."
+   ],
+   "answer": "소음이 심한 탓에 밤새 잠을 못 잤어요.",
+   "explain": "Tính từ → (으)ㄴ 탓에 + kết quả xấu."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 탓에 KHÔNG tự nhiên?",
+   "kr": "",
+   "options": [
+    "선생님이 도와주신 탓에 합격했어요.",
+    "늦잠을 잔 탓에 지각했어요.",
+    "비가 온 탓에 경기가 취소됐어요."
+   ],
+   "answer": "선생님이 도와주신 탓에 합격했어요.",
+   "explain": "Kết quả tốt → dùng 덕분에."
+  },
+  {
+   "type": "choice",
+   "q": "'다 제 탓이에요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Tất cả là tại tôi.",
+    "Tất cả là nhờ tôi.",
+    "Tất cả là của tôi."
+   ],
+   "answer": "Tất cả là tại tôi.",
+   "explain": "N 탓이다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trường đã đưa môn AI vào giảng dạy.",
+   "kr": "학교에 인공지능 수업을 ___.",
+   "options": [
+    "도입했어요",
+    "살상했어요",
+    "뒤덮었어요"
+   ],
+   "answer": "도입했어요",
+   "explain": "도입하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 탓에 với 자다: Tại ngủ dậy muộn nên bị trễ.",
+   "kr": "늦잠을 ___ 지각했어요.",
+   "answer": [
+    "잔 탓에"
+   ],
+   "explain": "Quá khứ → (으)ㄴ 탓에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền N 탓에: Do virus chủng mới mà nhiều sự kiện bị hủy.",
+   "kr": "신종 ___ 많은 행사가 취소되었어요.",
+   "answer": [
+    "바이러스 탓에"
+   ],
+   "explain": "N 탓에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ngày xưa dùng củi làm chất đốt.",
+   "kr": "옛날에는 나무를 ___으로 썼어요.",
+   "answer": [
+    "땔감"
+   ],
+   "explain": "땔감."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chiếc khăn này hút nước tốt.",
+   "kr": "이 수건은 물을 잘 ___.",
+   "answer": [
+    "빨아들여요"
+   ],
+   "explain": "빨아들이다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tại bụi vàng nặng nên không ra ngoài được.",
+   "tokens": [
+    "황사가",
+    "심한",
+    "탓에",
+    "외출을",
+    "못",
+    "했어요"
+   ],
+   "answer": "황사가 심한 탓에 외출을 못 했어요",
+   "explain": "(으)ㄴ 탓에."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Khoa học công nghệ Hàn Quốc tăng trưởng đáng chú ý.",
+   "tokens": [
+    "한국의",
+    "과학",
+    "기술은",
+    "괄목할",
+    "만한",
+    "성장을",
+    "했어요"
+   ],
+   "answer": "한국의 과학 기술은 괄목할 만한 성장을 했어요",
+   "explain": "괄목할 만하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tại ăn nhiều quá nên bị đau bụng. (dùng 탓에)",
+   "answer": [
+    "너무 많이 먹은 탓에 배가 아파요.",
+    "많이 먹은 탓에 배가 아팠어요.",
+    "너무 많이 먹은 탓에 배탈이 났어요.",
+    "너무 많이 먹은 탓에 배가 아팠어요."
+   ],
+   "explain": "먹은 탓에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Einstein đã nhận giải Nobel Vật lý.",
+   "answer": [
+    "아인슈타인은 노벨물리학상을 받았어요.",
+    "아인슈타인이 노벨물리학상을 받았어요."
+   ],
+   "explain": "상을 받다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Biển sâu có áp lực nước rất cao.",
+   "answer": [
+    "깊은 바다는 수압이 아주 높아요.",
+    "깊은 바다는 수압이 매우 높아요.",
+    "깊은 바다의 수압은 아주 높아요."
+   ],
+   "explain": "수압."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "과학 기술에는 명암이 있다. 방사선은 병을 치료하는 데 쓰이지만 무기로 만들어지면 많은 사람을 살상할 수 있다. 결국 기술을 어떻게 사용하는지가 중요하다.",
+   "answer": "Khoa học công nghệ có mặt sáng và mặt tối. Tia phóng xạ được dùng để chữa bệnh nhưng nếu bị chế thành vũ khí thì có thể sát thương nhiều người. Rốt cuộc, điều quan trọng là sử dụng công nghệ như thế nào.",
+   "explain": "는 데 쓰이다; 는지가 중요하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "남자: 어, 휴대폰 화면에 금이 갔네요.\n여자: 네, 아까 계단에서 떨어뜨렸어요. 케이스를 안 씌운 탓이에요.\n남자: 서비스 센터에 가 보세요.",
+   "options": [
+    "여자의 휴대폰 화면이 깨진 상황",
+    "남자가 휴대폰을 사는 상황",
+    "여자가 계단을 청소하는 상황",
+    "남자가 케이스를 파는 상황"
+   ],
+   "answer": "여자의 휴대폰 화면이 깨진 상황",
+   "explain": "화면에 금이 갔네요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "라이트 형제가 동력 비행에 성공하기 전에도 사람들은 하늘을 날고 싶어 했다. 1783년 프랑스에서는 (     ) 처음으로 사람이 하늘을 날았다. 이것이 열기구 비행이다.",
+   "options": [
+    "뜨거운 공기를 넣은 큰 풍선을 타고",
+    "비행기 엔진을 이용해",
+    "새의 날개를 달고",
+    "로켓을 타고"
+   ],
+   "answer": "뜨거운 공기를 넣은 큰 풍선을 타고",
+   "explain": "열기구 = khinh khí cầu (khí nóng)."
+  }
+ ]
+}

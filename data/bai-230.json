@@ -1,0 +1,403 @@
+{
+ "id": "bai-230",
+ "lesson": "Bài 230",
+ "title": "Di sản văn hóa Hàn Quốc (phần 2/4)",
+ "krTitle": "한국의 문화유산 2",
+ "date": "2027-10-20",
+ "day": 336,
+ "source": "TOPIK 6 – Bài 5: Di sản văn hóa Hàn Quốc (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "답사",
+   "Dapsa",
+   "Điều tra thực địa",
+   "학생들과 경주로 문화유산 답사를 갔어요.",
+   "Tôi cùng học sinh đi khảo sát thực địa di sản ở Gyeongju."
+  ],
+  [
+   "보수",
+   "Bosu",
+   "Sự bảo trì, sự phục hồi",
+   "오래된 절의 지붕을 보수하고 있어요.",
+   "Đang tu sửa mái của ngôi chùa cổ."
+  ],
+  [
+   "보전",
+   "Bojeon",
+   "Sự giữ gìn, sự bảo tồn",
+   "자연환경의 보전이 중요해요.",
+   "Việc giữ gìn môi trường tự nhiên rất quan trọng."
+  ],
+  [
+   "방치",
+   "Bangchi",
+   "Sự mặc kệ, sự bỏ mặc, sự vứt bừa bãi",
+   "문화재를 방치하면 금방 훼손돼요.",
+   "Bỏ mặc di sản thì chẳng mấy chốc sẽ hư hại."
+  ],
+  [
+   "(으)로 지정하다",
+   "(eu)ro jijeonghada",
+   "Công nhận là",
+   "정부는 이 지역을 문화유산 보호 구역으로 지정했어요.",
+   "Chính phủ đã chỉ định khu vực này là khu bảo vệ di sản."
+  ],
+  [
+   "종묘",
+   "Jongmyo",
+   "Tông Miếu",
+   "종묘에서는 조선 왕들의 제사를 지내요.",
+   "Ở Jongmyo cúng tế các vua Joseon."
+  ],
+  [
+   "창덕궁",
+   "Changdeokgung",
+   "Cung Changdeok",
+   "창덕궁은 자연과 잘 어울리는 궁궐이에요.",
+   "Changdeokgung là cung điện hòa hợp với thiên nhiên."
+  ],
+  [
+   "수원화성",
+   "Suwonhwaseong",
+   "Pháo đài Hwaseong ở Suwon",
+   "수원화성은 정조가 만든 성이에요.",
+   "Pháo đài Hwaseong Suwon do vua Jeongjo xây dựng."
+  ],
+  [
+   "처용무",
+   "Cheoyongmu",
+   "Múa Cheoyongmu",
+   "처용무는 다섯 명이 추는 궁중 춤이에요.",
+   "Cheoyongmu là điệu múa cung đình do năm người múa."
+  ],
+  [
+   "고인돌",
+   "Goindol",
+   "Mộ đá thời tiền sử",
+   "강화도에는 고인돌이 많아요.",
+   "Ở Ganghwa có nhiều mộ đá."
+  ],
+  [
+   "조선왕릉",
+   "Joseonwangneung",
+   "Lăng mộ vua thời Joseon",
+   "조선왕릉은 세계유산으로 등재되었어요.",
+   "Lăng mộ vua Joseon đã được ghi danh di sản thế giới."
+  ],
+  [
+   "조선왕조실록",
+   "Joseonwangjosillok",
+   "Bộ biên niên sử vương triều Joseon",
+   "조선왕조실록은 500년의 역사를 기록했어요.",
+   "Joseon vương triều thực lục ghi chép 500 năm lịch sử."
+  ],
+  [
+   "강강술래",
+   "Gang Gang Sullai",
+   "Múa Ganggangsullae",
+   "추석 밤에 여자들이 강강술래를 했어요.",
+   "Đêm Chuseok phụ nữ múa Ganggangsullae."
+  ],
+  [
+   "팔만대장경판",
+   "Palmandaejanggyeongpan",
+   "Bộ bát vạn đại tạng kinh",
+   "팔만대장경판은 해인사에 보관되어 있어요.",
+   "Bát vạn đại tạng kinh được bảo quản ở chùa Haein."
+  ],
+  [
+   "단오제",
+   "Danoje",
+   "Lễ đoan ngọ",
+   "강릉 단오제는 큰 축제예요.",
+   "Lễ Đoan ngọ Gangneung là lễ hội lớn."
+  ],
+  [
+   "판소리",
+   "Pansori",
+   "Pansori",
+   "판소리는 세계 무형 유산이에요.",
+   "Pansori là di sản phi vật thể thế giới."
+  ],
+  [
+   "제주 칠머리당 영등굿",
+   "Jeju chilmeoridang yeongdeunggut",
+   "Lễ cúng Chilmeoridang Youngdeunggut ở đảo Jeju",
+   "제주 칠머리당 영등굿은 바다의 신에게 비는 의식이에요.",
+   "Chilmeoridang Yeongdeunggut ở Jeju là nghi lễ cầu thần biển."
+  ],
+  [
+   "유교 문화권",
+   "Yugyo munhwagwon",
+   "Vùng văn hóa Nho giáo",
+   "한국은 유교 문화권에 속해요.",
+   "Hàn Quốc thuộc vùng văn hóa Nho giáo."
+  ],
+  [
+   "이슬람 문화권",
+   "Iseullam munhwagwon",
+   "Vùng văn hóa Hồi giáo",
+   "이슬람 문화권에서는 돼지고기를 먹지 않아요.",
+   "Ở vùng văn hóa Hồi giáo không ăn thịt lợn."
+  ],
+  [
+   "불교 문화권",
+   "Bulgyo munhwagwon",
+   "Vùng văn hóa Phật giáo",
+   "태국은 불교 문화권의 나라예요.",
+   "Thái Lan là nước thuộc vùng văn hóa Phật giáo."
+  ],
+  [
+   "한자 문화권",
+   "Hanja munhwagwon",
+   "Vùng văn hóa chữ Hán",
+   "한국, 중국, 일본, 베트남은 한자 문화권이에요.",
+   "Hàn, Trung, Nhật, Việt thuộc vùng văn hóa chữ Hán."
+  ],
+  [
+   "기독교 문화권",
+   "Gidokgyo munhwagwon",
+   "Vùng văn hóa Cơ Đốc",
+   "유럽은 기독교 문화권이에요.",
+   "Châu Âu là vùng văn hóa Cơ Đốc giáo."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 수가 있다 — Có khi",
+   "meaning": "Nói về KHẢ NĂNG một việc (thường là KHÔNG MONG MUỐN) CÓ THỂ XẢY RA trong tình huống nhất định: 'có khi…, có thể sẽ… đấy'. Gắn vào thân động từ: 다치다 → 다치는 수가 있다, 늦다 → 늦는 수가 있다, 훼손되다 → 훼손되는 수가 있다. Hay đi sau điều kiện (으)면 hoặc 다가는: 조심하지 않으면 다치는 수가 있어요 (không cẩn thận thì có khi bị thương). Mang sắc thái CẢNH BÁO, khuyên nhủ. Có dạng (으)ㄹ 수가 있다 = 'có thể (khả năng)' – trung tính hơn. Thành ngữ: 아는 길도 물어 가라 — 실수하는 수가 있다. So sánh: (으)ㄹ 수 있다 (có thể – trung tính); 는 수가 있다 (có khi sẽ – cảnh báo điều xấu); (으)ㄹ지도 모르다 (có lẽ – phỏng đoán).",
+   "examples": [
+    "문화재를 방치하면 훼손되는 수가 있어요. — Bỏ mặc di sản thì có khi sẽ bị hư hại.",
+    "주말에는 길이 막히니까 늦는 수가 있어요. — Cuối tuần tắc đường nên có khi bị muộn đấy.",
+    "너무 자신만만하면 실수하는 수가 있어요. — Quá tự tin thì có khi sẽ mắc lỗi.",
+    "산길은 미끄러워서 넘어지는 수가 있으니까 조심하세요. — Đường núi trơn có khi bị ngã đấy, hãy cẩn thận."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Mộ đá cổ thời tiền sử gọi là gì?",
+   "kr": "",
+   "options": [
+    "고인돌",
+    "종묘",
+    "성곽"
+   ],
+   "answer": "고인돌",
+   "explain": "고인돌 = mộ đá (dolmen)."
+  },
+  {
+   "type": "choice",
+   "q": "Bộ sử ghi chép 500 năm triều Joseon gọi là gì?",
+   "kr": "",
+   "options": [
+    "조선왕조실록",
+    "팔만대장경판",
+    "훈민정음"
+   ],
+   "answer": "조선왕조실록",
+   "explain": "실록 = thực lục."
+  },
+  {
+   "type": "choice",
+   "q": "Điệu múa vòng tròn của phụ nữ đêm trăng rằm là gì?",
+   "kr": "",
+   "options": [
+    "강강술래",
+    "처용무",
+    "단오제"
+   ],
+   "answer": "강강술래",
+   "explain": "강강술래."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bỏ mặc di sản thì sẽ hư hại.",
+   "kr": "문화재를 ___하면 금방 훼손돼요.",
+   "options": [
+    "방치",
+    "보수",
+    "보전"
+   ],
+   "answer": "방치",
+   "explain": "방치 = bỏ mặc."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Cuối tuần tắc đường có khi bị muộn đấy.'",
+   "kr": "",
+   "options": [
+    "주말에는 길이 막히니까 늦는 수가 있어요.",
+    "주말에는 길이 막히니까 늦은 수가 있어요.",
+    "주말에는 길이 막히니까 늦을 수가 없어요."
+   ],
+   "answer": "주말에는 길이 막히니까 늦는 수가 있어요.",
+   "explain": "V는 수가 있다."
+  },
+  {
+   "type": "choice",
+   "q": "는 수가 있다 thường mang sắc thái gì?",
+   "kr": "",
+   "options": [
+    "Cảnh báo khả năng điều xấu xảy ra",
+    "Khen ngợi",
+    "Hối tiếc quá khứ"
+   ],
+   "answer": "Cảnh báo khả năng điều xấu xảy ra",
+   "explain": "Có khi sẽ… (xấu)."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào tự nhiên NHẤT?",
+   "kr": "",
+   "options": [
+    "조심하지 않으면 다치는 수가 있어요.",
+    "열심히 공부하면 합격하는 수가 있어요.",
+    "좋은 일이 생기는 수가 있었어요."
+   ],
+   "answer": "조심하지 않으면 다치는 수가 있어요.",
+   "explain": "Cảnh báo điều không mong muốn."
+  },
+  {
+   "type": "choice",
+   "q": "Hàn, Trung, Nhật, Việt thuộc vùng văn hóa nào?",
+   "kr": "",
+   "options": [
+    "한자 문화권",
+    "이슬람 문화권",
+    "기독교 문화권"
+   ],
+   "answer": "한자 문화권",
+   "explain": "Cùng dùng chữ Hán."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 수가 있다 với 실수하다: Quá tự tin có khi sẽ mắc lỗi.",
+   "kr": "너무 자신만만하면 ___.",
+   "answer": [
+    "실수하는 수가 있어요",
+    "실수하는 수가 있다"
+   ],
+   "explain": "실수하는 수가 있어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 수가 있다 với 넘어지다: Đường trơn có khi bị ngã.",
+   "kr": "산길은 미끄러워서 ___ 조심하세요.",
+   "answer": [
+    "넘어지는 수가 있으니까"
+   ],
+   "explain": "넘어지는 수가 있으니까."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đang tu sửa mái của ngôi chùa cổ.",
+   "kr": "오래된 절의 지붕을 ___하고 있어요.",
+   "answer": [
+    "보수"
+   ],
+   "explain": "보수하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hàn Quốc thuộc vùng văn hóa Nho giáo.",
+   "kr": "한국은 ___ 문화권에 속해요.",
+   "answer": [
+    "유교"
+   ],
+   "explain": "유교."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bỏ mặc di sản thì có khi sẽ bị hư hại.",
+   "tokens": [
+    "문화재를",
+    "방치하면",
+    "훼손되는",
+    "수가",
+    "있어요"
+   ],
+   "answer": "문화재를 방치하면 훼손되는 수가 있어요",
+   "explain": "는 수가 있다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bát vạn đại tạng kinh được bảo quản ở chùa Haein.",
+   "tokens": [
+    "팔만대장경판은",
+    "해인사에",
+    "보관되어",
+    "있어요"
+   ],
+   "answer": "팔만대장경판은 해인사에 보관되어 있어요",
+   "explain": "아/어 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ăn nhiều quá có khi bị đau bụng đấy. (dùng 는 수가 있다)",
+   "answer": [
+    "너무 많이 먹으면 배가 아픈 수가 있어요.",
+    "너무 많이 먹으면 배탈이 나는 수가 있어요.",
+    "많이 먹으면 배탈이 나는 수가 있어요.",
+    "너무 많이 먹으면 배탈 나는 수가 있어요."
+   ],
+   "explain": "는 수가 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Châu Âu là vùng văn hóa Cơ Đốc giáo.",
+   "answer": [
+    "유럽은 기독교 문화권이에요.",
+    "유럽은 기독교 문화권입니다."
+   ],
+   "explain": "문화권."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đêm Chuseok phụ nữ múa Ganggangsullae.",
+   "answer": [
+    "추석 밤에 여자들이 강강술래를 했어요.",
+    "추석 밤에 여자들이 강강술래를 해요."
+   ],
+   "explain": "강강술래를 하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국은 종묘, 창덕궁, 수원화성 등 여러 문화유산을 보유하고 있다. 그러나 관리를 소홀히 하면 귀중한 문화재가 훼손되는 수가 있으므로 꾸준한 보수와 보전이 필요하다.",
+   "answer": "Hàn Quốc sở hữu nhiều di sản văn hóa như Jongmyo, Changdeokgung, pháo đài Hwaseong Suwon. Nhưng nếu lơ là quản lý thì có khi di sản quý giá sẽ bị hư hại, vì vậy cần tu sửa và bảo tồn đều đặn.",
+   "explain": "는 수가 있으므로."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người đàn ông. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "여자: 문화재 근처에 큰 호텔을 지으면 관광객이 더 많이 오지 않을까요?\n남자: 관광객이 늘면 좋겠지만, 문화재 주변 환경이 바뀌면 문화재의 가치가 떨어지는 수가 있어요. 개발보다는 문화재를 원래 모습 그대로 보전하는 것이 더 중요하다고 생각해요.",
+   "options": [
+    "개발보다 문화재 보전이 더 중요하다.",
+    "문화재 근처에 호텔을 지어야 한다.",
+    "관광객은 필요 없다.",
+    "문화재는 바꿔도 된다."
+   ],
+   "answer": "개발보다 문화재 보전이 더 중요하다.",
+   "explain": "개발보다는 … 보전하는 것이 더 중요하다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "방치된 고인돌 '몸살'… 관리 손길 시급",
+   "options": [
+    "관리 없이 방치된 고인돌이 훼손되고 있어 빨리 관리가 필요하다.",
+    "고인돌이 새로 발견되었다.",
+    "고인돌 관리가 잘되고 있다.",
+    "고인돌이 병원으로 옮겨졌다."
+   ],
+   "answer": "관리 없이 방치된 고인돌이 훼손되고 있어 빨리 관리가 필요하다.",
+   "explain": "몸살 = hư hại, khổ sở; 시급 = cấp bách."
+  }
+ ]
+}

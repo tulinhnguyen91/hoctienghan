@@ -1,0 +1,398 @@
+{
+ "id": "bai-240",
+ "lesson": "Bài 240",
+ "title": "Xã hội hiện đại và thể thao (phần 4/5)",
+ "krTitle": "현대 사회와 스포츠 4",
+ "date": "2027-11-04",
+ "day": 351,
+ "source": "TOPIK 6 – Bài 7: Xã hội hiện đại và thể thao (phần 4/5)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 16~18: Điền vào đoạn văn"
+ },
+ "words": [
+  [
+   "마찰",
+   "Machal",
+   "Ma sát",
+   "두 나라 사이에 무역 마찰이 생겼어요.",
+   "Giữa hai nước đã nảy sinh ma sát thương mại."
+  ],
+  [
+   "만연하다",
+   "Manyeonhada",
+   "Lan tràn",
+   "스포츠계에 승부 조작이 만연해서 문제예요.",
+   "Gian lận tỷ số lan tràn trong giới thể thao là vấn đề."
+  ],
+  [
+   "망신당하다",
+   "Mangsindanghada",
+   "Bị bẽ mặt, mất thể diện",
+   "큰소리를 쳤다가 첫 경기에서 망신당했어요.",
+   "Nói khoác rồi bị bẽ mặt ngay trận đầu."
+  ],
+  [
+   "망치다",
+   "Mangchida",
+   "Phá hủy, phá vỡ",
+   "실수 하나로 경기를 망쳤어요.",
+   "Chỉ một sai lầm đã làm hỏng trận đấu."
+  ],
+  [
+   "맞물리다",
+   "Manmullida",
+   "Ăn khớp, gắn liền với nhau",
+   "경제 문제와 환경 문제는 서로 맞물려 있어요.",
+   "Vấn đề kinh tế và môi trường gắn liền với nhau."
+  ],
+  [
+   "무예",
+   "Muye",
+   "Võ nghệ",
+   "태권도는 한국의 전통 무예예요.",
+   "Taekwondo là võ thuật truyền thống của Hàn Quốc."
+  ],
+  [
+   "무턱대고",
+   "Muteokdaego",
+   "Bất kể, không suy tính",
+   "무턱대고 운동을 시작하면 다치기 쉬워요.",
+   "Bắt đầu tập luyện mà không tính toán thì dễ bị thương."
+  ],
+  [
+   "물꼬를 트다",
+   "Mulkkoreul teuda",
+   "Mở đường, khơi thông (quan hệ)",
+   "두 나라 정상 회담이 대화의 물꼬를 텄어요.",
+   "Hội nghị thượng đỉnh hai nước đã mở đường cho đối thoại."
+  ],
+  [
+   "바둑",
+   "Baduk",
+   "Cờ vây",
+   "알파고가 바둑에서 사람을 이겼어요.",
+   "AlphaGo đã thắng con người ở môn cờ vây."
+  ],
+  [
+   "반증하다",
+   "Banjeunghada",
+   "Chứng minh ngược lại",
+   "그 결과는 이론이 틀렸다는 것을 반증해요.",
+   "Kết quả đó chứng minh ngược lại rằng lý thuyết đã sai."
+  ],
+  [
+   "발돋움하다",
+   "Baldodumhada",
+   "Vươn tới",
+   "한국은 스포츠 강국으로 발돋움했어요.",
+   "Hàn Quốc đã vươn lên thành cường quốc thể thao."
+  ],
+  [
+   "부리나케",
+   "Burinake",
+   "Vội vã, tất tả",
+   "늦잠을 자서 부리나케 경기장으로 달려갔어요.",
+   "Ngủ dậy muộn nên tất tả chạy đến sân."
+  ],
+  [
+   "비견하다",
+   "Bigyeonhada",
+   "Sánh ngang",
+   "그의 실력은 세계 최고 선수와 비견할 만해요.",
+   "Thực lực của anh ấy có thể sánh với vận động viên hàng đầu thế giới."
+  ],
+  [
+   "선호하다",
+   "Seonhohada",
+   "Yêu chuộng",
+   "요즘 젊은이들은 개인 운동을 선호해요.",
+   "Giới trẻ dạo này chuộng các môn tập cá nhân."
+  ],
+  [
+   "수준 미달",
+   "Sujun midal",
+   "Không đạt tiêu chuẩn",
+   "그 경기장은 시설이 수준 미달이에요.",
+   "Sân vận động đó có cơ sở vật chất không đạt chuẩn."
+  ],
+  [
+   "스노보드",
+   "Seunobodeu",
+   "Snowboard, trượt ván trên tuyết",
+   "겨울에 스노보드를 타러 가요.",
+   "Mùa đông tôi đi trượt ván tuyết."
+  ],
+  [
+   "승복하다",
+   "Seungbokada",
+   "Chấp nhận (kết quả, thua)",
+   "진 팀도 결과에 깨끗이 승복했어요.",
+   "Đội thua cũng đã chấp nhận kết quả một cách sòng phẳng."
+  ],
+  [
+   "시범을 보이다",
+   "Sibeomeul boida",
+   "Thí điểm, thị phạm",
+   "사범님이 태권도 동작의 시범을 보였어요.",
+   "Võ sư đã thị phạm động tác taekwondo."
+  ],
+  [
+   "역학",
+   "Yeokak",
+   "Cơ học, động lực học",
+   "공을 차는 방법에도 역학 원리가 있어요.",
+   "Cách đá bóng cũng có nguyên lý cơ học."
+  ],
+  [
+   "육성하다",
+   "Yukseonghada",
+   "Nuôi dưỡng",
+   "정부는 체육 인재를 육성하고 있어요.",
+   "Chính phủ đang đào tạo nhân tài thể thao."
+  ],
+  [
+   "이바지하다",
+   "Ibajihada",
+   "Đóng góp vào",
+   "올림픽은 세계 평화에 이바지해 왔어요.",
+   "Olympic đã đóng góp cho hòa bình thế giới."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄹ 바에야 — Nếu đằng nào cũng … thì",
+   "meaning": "So sánh hai lựa chọn (đều không lý tưởng) và chọn cái tốt hơn: 'nếu đã phải… thì thà… còn hơn, đằng nào cũng… thì…'. Vế trước là lựa chọn mà người nói KHÔNG MUỐN / thấy kém; vế sau là lựa chọn được ưu tiên. Chia: có patchim → 을 바에야 (먹을 바에야); không patchim/ㄹ → ㄹ 바에야 (할 바에야, 질 바에야). Vế sau thường có: 차라리 (thà), 아예 (luôn), 는 게 낫다 (thì hơn), 겠다. Mẫu quen: 이렇게 할 바에야 차라리 안 하는 게 낫다 (làm thế này thì thà không làm còn hơn). Còn dạng 바에는. So sánh: (으)ㄹ지언정 (Bài 239 – thà… chứ không…, ý chí); (으)ㄹ 바에야 (đã… thì thà…, so sánh 2 lựa chọn).",
+   "examples": [
+    "반칙으로 이길 바에야 차라리 정정당당하게 지는 게 나아요. — Thắng bằng chơi xấu thì thà thua đường đường chính chính còn hơn.",
+    "무턱대고 시작할 바에야 아예 시작하지 마세요. — Nếu bắt đầu không suy tính thì đừng bắt đầu luôn.",
+    "이렇게 비싼 돈을 낼 바에야 집에서 TV로 보겠어요. — Đã phải trả tiền đắt thế này thì tôi thà xem TV ở nhà.",
+    "어차피 할 바에야 제대로 합시다. — Đằng nào cũng làm thì làm cho đàng hoàng đi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Môn cờ chơi bằng quân đen trắng trên bàn 19×19 là gì?",
+   "kr": "",
+   "options": [
+    "바둑",
+    "무예",
+    "스노보드"
+   ],
+   "answer": "바둑",
+   "explain": "바둑 = cờ vây."
+  },
+  {
+   "type": "choice",
+   "q": "'물꼬를 트다' nghĩa bóng là gì?",
+   "kr": "",
+   "options": [
+    "Mở đường, khơi thông (quan hệ, đối thoại)",
+    "Làm ngập nước",
+    "Đóng cửa"
+   ],
+   "answer": "Mở đường, khơi thông (quan hệ, đối thoại)",
+   "explain": "물꼬 = cửa tháo nước."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hàn Quốc đã vươn lên thành cường quốc thể thao.",
+   "kr": "한국은 스포츠 강국으로 ___.",
+   "options": [
+    "발돋움했어요",
+    "망신당했어요",
+    "마찰했어요"
+   ],
+   "answer": "발돋움했어요",
+   "explain": "발돋움하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đội thua chấp nhận kết quả sòng phẳng.",
+   "kr": "진 팀도 결과에 깨끗이 ___.",
+   "options": [
+    "승복했어요",
+    "반증했어요",
+    "육성했어요"
+   ],
+   "answer": "승복했어요",
+   "explain": "승복하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Thắng bằng chơi xấu thì thà thua còn hơn.'",
+   "kr": "",
+   "options": [
+    "반칙으로 이길 바에야 차라리 지는 게 나아요.",
+    "반칙으로 이긴 바에야 차라리 지는 게 나아요.",
+    "반칙으로 이길 바에야 꼭 반칙하세요."
+   ],
+   "answer": "반칙으로 이길 바에야 차라리 지는 게 나아요.",
+   "explain": "(으)ㄹ 바에야 + 차라리."
+  },
+  {
+   "type": "choice",
+   "q": "Từ nào HAY ĐI KÈM vế sau của (으)ㄹ 바에야?",
+   "kr": "",
+   "options": [
+    "차라리",
+    "그래서",
+    "왜냐하면"
+   ],
+   "answer": "차라리",
+   "explain": "차라리 = thà."
+  },
+  {
+   "type": "choice",
+   "q": "'어차피 할 바에야 제대로 합시다.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Đằng nào cũng làm thì làm cho đàng hoàng.",
+    "Đừng làm nữa.",
+    "Làm qua loa thôi."
+   ],
+   "answer": "Đằng nào cũng làm thì làm cho đàng hoàng.",
+   "explain": "어차피 … 바에야."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Giới trẻ chuộng các môn tập cá nhân.",
+   "kr": "요즘 젊은이들은 개인 운동을 ___.",
+   "options": [
+    "선호해요",
+    "만연해요",
+    "비견해요"
+   ],
+   "answer": "선호해요",
+   "explain": "선호하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 바에야 với 시작하다: Nếu bắt đầu không suy tính thì đừng bắt đầu luôn.",
+   "kr": "무턱대고 ___ 아예 시작하지 마세요.",
+   "answer": [
+    "시작할 바에야"
+   ],
+   "explain": "시작할 바에야."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 바에야 với 내다: Trả tiền đắt thế này thì thà xem TV ở nhà.",
+   "kr": "이렇게 비싼 돈을 ___ 집에서 TV로 보겠어요.",
+   "answer": [
+    "낼 바에야"
+   ],
+   "explain": "낼 바에야."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Taekwondo là võ thuật truyền thống của Hàn Quốc.",
+   "kr": "태권도는 한국의 전통 ___예요.",
+   "answer": [
+    "무예"
+   ],
+   "explain": "무예."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Olympic đã đóng góp cho hòa bình thế giới.",
+   "kr": "올림픽은 세계 평화에 ___해 왔어요.",
+   "answer": [
+    "이바지"
+   ],
+   "explain": "N에 이바지하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đằng nào cũng làm thì làm cho đàng hoàng.",
+   "tokens": [
+    "어차피",
+    "할",
+    "바에야",
+    "제대로",
+    "합시다"
+   ],
+   "answer": "어차피 할 바에야 제대로 합시다",
+   "explain": "(으)ㄹ 바에야."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngủ dậy muộn nên tất tả chạy đến sân.",
+   "tokens": [
+    "늦잠을",
+    "자서",
+    "부리나케",
+    "경기장으로",
+    "달려갔어요"
+   ],
+   "answer": "늦잠을 자서 부리나케 경기장으로 달려갔어요",
+   "explain": "부리나케."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nếu đi xe buýt mất 2 tiếng thì thà đi taxi còn hơn. (dùng (으)ㄹ 바에야)",
+   "answer": [
+    "버스로 두 시간 걸릴 바에야 차라리 택시를 타는 게 나아요.",
+    "버스를 타고 두 시간 갈 바에야 차라리 택시를 타겠어요.",
+    "버스로 2시간 걸릴 바에야 차라리 택시를 타는 게 나아요.",
+    "버스를 두 시간 탈 바에야 차라리 택시를 타겠어요."
+   ],
+   "explain": "(으)ㄹ 바에야 차라리."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chính phủ đang đào tạo nhân tài thể thao.",
+   "answer": [
+    "정부는 체육 인재를 육성하고 있어요.",
+    "정부가 체육 인재를 육성하고 있어요.",
+    "정부는 스포츠 인재를 육성하고 있어요."
+   ],
+   "explain": "육성하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chỉ một sai lầm đã làm hỏng trận đấu.",
+   "answer": [
+    "실수 하나로 경기를 망쳤어요.",
+    "실수 하나 때문에 경기를 망쳤어요.",
+    "한 번의 실수로 경기를 망쳤어요."
+   ],
+   "explain": "망치다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "승부 조작이 만연하면 팬들은 스포츠를 믿지 못하게 된다. 그런 식으로 이길 바에야 정정당당하게 지는 것이 스포츠 발전에 더 이바지하는 길이다.",
+   "answer": "Nếu gian lận tỷ số lan tràn, người hâm mộ sẽ không còn tin vào thể thao. Thắng theo cách đó thì thà thua đường đường chính chính, đó mới là con đường đóng góp nhiều hơn cho sự phát triển của thể thao.",
+   "explain": "(으)ㄹ 바에야."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 요즘 아이들이 스포츠를 배우는 것보다 공부를 더 중요하게 생각하는 것 같아요.\n여자: 하지만 운동은 체력뿐만 아니라 협동심과 승복하는 자세도 길러 줘요. 오히려 공부만 하는 것보다 운동을 함께하는 것이 아이들의 성장에 더 이바지한다고 생각해요.",
+   "options": [
+    "운동은 아이들의 성장에 도움이 된다.",
+    "아이들은 공부만 해야 한다.",
+    "운동은 체력에만 좋다.",
+    "아이들은 승복하는 법을 배울 필요가 없다."
+   ],
+   "answer": "운동은 아이들의 성장에 도움이 된다.",
+   "explain": "운동을 함께하는 것이 … 이바지한다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu phù hợp điền vào ( ). (Dạng TOPIK II Đọc câu 16~18)",
+   "kr": "태권도는 손과 발을 이용하는 한국의 전통 무예이다. 2000년 시드니 올림픽부터 정식 종목이 되면서 (     ). 지금은 200여 개 나라에서 태권도를 배우고 있다.",
+   "options": [
+    "세계적인 스포츠로 발돋움했다",
+    "한국에서만 하게 되었다",
+    "인기가 크게 떨어졌다",
+    "더 이상 경기를 하지 않았다"
+   ],
+   "answer": "세계적인 스포츠로 발돋움했다",
+   "explain": "200여 개 나라 → toàn cầu."
+  }
+ ]
+}

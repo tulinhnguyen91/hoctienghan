@@ -1,0 +1,409 @@
+{
+ "id": "bai-228",
+ "lesson": "Bài 228",
+ "title": "Văn học Hàn Quốc (phần 5/5)",
+ "krTitle": "한국 문학 5",
+ "date": "2027-10-17",
+ "day": 333,
+ "source": "TOPIK 6 – Bài 4: Văn học Hàn Quốc (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 13~15: Sắp xếp câu"
+ },
+ "words": [
+  [
+   "유명을 달리하다",
+   "Yumyeongeul dallihada",
+   "Qua đời",
+   "그 시인은 지난해 유명을 달리했어요.",
+   "Nhà thơ đó đã qua đời năm ngoái."
+  ],
+  [
+   "유언",
+   "Yueon",
+   "Di ngôn, lời trăn trối",
+   "할아버지의 유언에 따라 재산을 기부했어요.",
+   "Theo di ngôn của ông, tài sản đã được quyên góp."
+  ],
+  [
+   "윤회설",
+   "Yunhoeseol",
+   "Thuyết luân hồi",
+   "불교에는 윤회설이 있어요.",
+   "Phật giáo có thuyết luân hồi."
+  ],
+  [
+   "잠자코 있다",
+   "Jamjako itda",
+   "Giữ im lặng",
+   "모르면 잠자코 있는 게 나아요.",
+   "Không biết thì cứ im lặng là hơn."
+  ],
+  [
+   "재직하다",
+   "Jaejikada",
+   "Tại chức",
+   "그는 30년 동안 대학에 재직했어요.",
+   "Ông ấy đã tại chức ở trường đại học 30 năm."
+  ],
+  [
+   "저항하다",
+   "Jeohanghada",
+   "Kháng cự, chống lại",
+   "시인들은 시로 일제에 저항했어요.",
+   "Các nhà thơ đã chống lại Nhật bằng thơ ca."
+  ],
+  [
+   "정서",
+   "Jeongseo",
+   "Tình cảm",
+   "이 시에는 한국인의 정서가 담겨 있어요.",
+   "Bài thơ này chứa đựng tình cảm của người Hàn."
+  ],
+  [
+   "조약돌",
+   "Joyakdol",
+   "Viên đá cuội",
+   "개울가에서 조약돌을 주웠어요.",
+   "Tôi nhặt sỏi ở bên suối."
+  ],
+  [
+   "조형물",
+   "Johyeongmul",
+   "Công trình điêu khắc",
+   "공원에 작가를 기리는 조형물이 세워졌어요.",
+   "Một công trình điêu khắc tưởng nhớ nhà văn được dựng ở công viên."
+  ],
+  [
+   "증손녀",
+   "Jeungsonnyeo",
+   "Chắt gái",
+   "할아버지는 증손녀를 보고 기뻐하셨어요.",
+   "Ông vui mừng khi gặp chắt gái."
+  ],
+  [
+   "집착",
+   "Jipchak",
+   "Nỗi ám ảnh, sự ám ảnh",
+   "과거에 대한 집착을 버리세요.",
+   "Hãy bỏ đi sự ám ảnh về quá khứ."
+  ],
+  [
+   "징검다리",
+   "Jinggeomdari",
+   "Cầu đá (những tảng đá lớn bắc ngang qua sông cho người đi thay cho cầu)",
+   "소설 '소나기'에는 징검다리가 나와요.",
+   "Trong truyện 'Mưa rào' có cây cầu đá."
+  ],
+  [
+   "청량하다",
+   "Cheongnyanghada",
+   "Trong lành, mát mẻ",
+   "비가 그친 후 공기가 청량해요.",
+   "Sau cơn mưa không khí trong lành mát mẻ."
+  ],
+  [
+   "초월",
+   "Chowol",
+   "Sự siêu việt, sự siêu nhiên",
+   "이 시는 삶과 죽음의 초월을 노래해요.",
+   "Bài thơ này ca ngợi sự siêu thoát khỏi sống chết."
+  ],
+  [
+   "추서",
+   "Chuseo",
+   "Sự truy tặng (sau khi mất)",
+   "정부는 그에게 훈장을 추서했어요.",
+   "Chính phủ đã truy tặng huân chương cho ông."
+  ],
+  [
+   "타계하다",
+   "Tagyehada",
+   "Qua đời, lìa trần, tạ thế",
+   "그 작가는 작년에 타계했어요.",
+   "Nhà văn đó đã qua đời năm ngoái."
+  ],
+  [
+   "특유",
+   "Teugyu",
+   "Đặc hữu, đặc biệt",
+   "이 소설에는 작가 특유의 유머가 있어요.",
+   "Tiểu thuyết này có sự hài hước đặc trưng của tác giả."
+  ],
+  [
+   "파악하다",
+   "Paakada",
+   "Nắm rõ, tìm hiểu rõ",
+   "시를 읽을 때는 시인의 의도를 파악해야 해요.",
+   "Khi đọc thơ phải nắm được ý đồ của nhà thơ."
+  ],
+  [
+   "팔방미인",
+   "Palbangmiin",
+   "Người tài giỏi mọi mặt",
+   "그는 노래, 춤, 연기 다 잘하는 팔방미인이에요.",
+   "Anh ấy hát, nhảy, diễn đều giỏi, đúng là tài giỏi mọi mặt."
+  ],
+  [
+   "표출하다",
+   "Pyochulhada",
+   "Bày tỏ, phơi bày",
+   "시인은 슬픔을 시로 표출했어요.",
+   "Nhà thơ bày tỏ nỗi buồn qua thơ."
+  ],
+  [
+   "함축",
+   "Hamchuk",
+   "Sự hàm ý, hàm súc",
+   "시는 짧은 말 속에 많은 의미를 함축해요.",
+   "Thơ hàm chứa nhiều ý nghĩa trong lời ngắn."
+  ],
+  [
+   "향토",
+   "Hyangto",
+   "Quê hương, địa phương",
+   "그의 소설에는 향토의 정서가 진하게 묻어나요.",
+   "Tiểu thuyết của ông thấm đẫm tình quê."
+  ],
+  [
+   "회화",
+   "Hoehwa",
+   "Hội họa, tranh ảnh, tranh vẽ",
+   "그는 문학뿐만 아니라 회화에도 재능이 있었어요.",
+   "Ông có tài không chỉ văn học mà cả hội họa."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 느니만큼/(으)니만큼 — Vì đã … nên",
+   "meaning": "Nêu một LÝ DO / CĂN CỨ rõ ràng, mọi người đều thừa nhận, để đưa ra kết luận hoặc yêu cầu tương xứng: 'vì đã… nên (đương nhiên) phải…, bởi… cho nên…'. Cấu tạo: (으)니 (vì) + 만큼 (tương xứng) → 'vì vậy nên tương xứng với điều đó'. Chia: Động từ → 느니만큼 (hiện tại: 하느니만큼) hoặc (으)니만큼 (đặc biệt với quá khứ: 했으니만큼); Tính từ → (으)니만큼 (중요하니만큼, 크니만큼); Danh từ → (이)니만큼 (작가니만큼). Vế sau thường: 아/어야 하다, (으)ㄹ 것이다, (으)세요, 기를 바라다. Văn viết, trang trọng. So sánh: 는 만큼 (Bài 159 – bằng/vì… nên – rất gần nghĩa); (으)니까 (vì – khẩu ngữ). 느니만큼 nhấn mạnh 'vì điều đó là sự thật hiển nhiên'.",
+   "examples": [
+    "그는 유명한 작가이니만큼 작품에 대한 책임감도 커요. — Vì là nhà văn nổi tiếng nên trách nhiệm với tác phẩm cũng lớn.",
+    "열심히 준비했으니만큼 좋은 결과가 있을 거예요. — Vì đã chuẩn bị chăm chỉ nên chắc chắn sẽ có kết quả tốt.",
+    "이 시는 함축이 많으니만큼 천천히 읽어야 해요. — Vì bài thơ này hàm ý nhiều nên phải đọc chậm.",
+    "대학에 재직하느니만큼 연구에 힘써야 합니다. — Vì đang tại chức ở đại học nên phải nỗ lực nghiên cứu."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Cụm nào KHÔNG có nghĩa 'qua đời'?",
+   "kr": "",
+   "options": [
+    "잠자코 있다",
+    "유명을 달리하다",
+    "타계하다"
+   ],
+   "answer": "잠자코 있다",
+   "explain": "잠자코 있다 = giữ im lặng."
+  },
+  {
+   "type": "choice",
+   "q": "Người giỏi nhiều mặt (hát, nhảy, diễn…) gọi là gì?",
+   "kr": "",
+   "options": [
+    "팔방미인",
+    "증손녀",
+    "조형물"
+   ],
+   "answer": "팔방미인",
+   "explain": "팔방 = tám phương."
+  },
+  {
+   "type": "choice",
+   "q": "Lời dặn lại trước khi mất gọi là gì?",
+   "kr": "",
+   "options": [
+    "유언",
+    "유명",
+    "윤회설"
+   ],
+   "answer": "유언",
+   "explain": "유언 = di ngôn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Các nhà thơ chống lại Nhật bằng thơ.",
+   "kr": "시인들은 시로 일제에 ___.",
+   "options": [
+    "저항했어요",
+    "재직했어요",
+    "파악했어요"
+   ],
+   "answer": "저항했어요",
+   "explain": "저항하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Vì đã chuẩn bị chăm chỉ nên sẽ có kết quả tốt.'",
+   "kr": "",
+   "options": [
+    "열심히 준비했으니만큼 좋은 결과가 있을 거예요.",
+    "열심히 준비했느니만큼 좋은 결과가 있었어요는.",
+    "열심히 준비하니만큼 좋은 결과가 없을 거예요."
+   ],
+   "answer": "열심히 준비했으니만큼 좋은 결과가 있을 거예요.",
+   "explain": "Quá khứ: 았/었으니만큼."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với danh từ 작가.",
+   "kr": "",
+   "options": [
+    "작가이니만큼",
+    "작가느니만큼",
+    "작가하니만큼"
+   ],
+   "answer": "작가이니만큼",
+   "explain": "N(이)니만큼."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA nhất với (으)니만큼?",
+   "kr": "",
+   "options": [
+    "는 만큼 (vì… nên)",
+    "는커녕",
+    "고서"
+   ],
+   "answer": "는 만큼 (vì… nên)",
+   "explain": "Cả hai = vì… nên tương xứng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Sau mưa không khí trong lành.",
+   "kr": "비가 그친 후 공기가 ___.",
+   "options": [
+    "청량해요",
+    "특유해요",
+    "함축해요"
+   ],
+   "answer": "청량해요",
+   "explain": "청량하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)니만큼 với 많다: Vì bài thơ hàm ý nhiều nên phải đọc chậm.",
+   "kr": "이 시는 함축이 ___ 천천히 읽어야 해요.",
+   "answer": [
+    "많으니만큼"
+   ],
+   "explain": "많으니만큼."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)니만큼 với 중요하다: Vì là kỳ thi quan trọng nên phải chuẩn bị kỹ.",
+   "kr": "중요한 시험___ 철저히 준비하세요.",
+   "answer": [
+    "이니만큼"
+   ],
+   "explain": "N이니만큼."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi nhặt sỏi ở bên suối.",
+   "kr": "개울가에서 ___을 주웠어요.",
+   "answer": [
+    "조약돌"
+   ],
+   "explain": "조약돌."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Khi đọc thơ phải nắm được ý đồ của nhà thơ.",
+   "kr": "시를 읽을 때는 시인의 의도를 ___해야 해요.",
+   "answer": [
+    "파악"
+   ],
+   "explain": "파악하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Vì là nhà văn nổi tiếng nên trách nhiệm cũng lớn.",
+   "tokens": [
+    "그는",
+    "유명한",
+    "작가이니만큼",
+    "책임감도",
+    "커요"
+   ],
+   "answer": "그는 유명한 작가이니만큼 책임감도 커요",
+   "explain": "N이니만큼."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhà thơ bày tỏ nỗi buồn qua thơ.",
+   "tokens": [
+    "시인은",
+    "슬픔을",
+    "시로",
+    "표출했어요"
+   ],
+   "answer": "시인은 슬픔을 시로 표출했어요",
+   "explain": "표출하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vì là lần đầu tiên nên có thể mắc lỗi. (dùng (으)니만큼)",
+   "answer": [
+    "처음이니만큼 실수할 수 있어요.",
+    "처음이니만큼 실수할 수도 있어요.",
+    "첫 번째이니만큼 실수할 수 있어요."
+   ],
+   "explain": "처음이니만큼."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhà văn đó đã qua đời năm ngoái.",
+   "answer": [
+    "그 작가는 작년에 타계했어요.",
+    "그 작가는 작년에 세상을 떠났어요.",
+    "그 작가는 작년에 돌아가셨어요."
+   ],
+   "explain": "타계하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không biết thì cứ im lặng là hơn.",
+   "answer": [
+    "모르면 잠자코 있는 게 나아요.",
+    "모르면 잠자코 있는 것이 나아요."
+   ],
+   "explain": "잠자코 있다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "황순원의 '소나기'는 시골 소년과 소녀의 짧은 만남을 그린 작품이다. 개울, 징검다리, 조약돌 같은 소재로 향토적인 정서를 섬세하게 표현했다.",
+   "answer": "'Mưa rào' của Hwang Sun-won là tác phẩm khắc họa cuộc gặp gỡ ngắn ngủi giữa cậu bé và cô bé miền quê. Qua những chất liệu như con suối, cầu đá, viên sỏi, tác giả đã thể hiện tinh tế tình cảm quê hương.",
+   "explain": "(으)로 – bằng chất liệu."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 다음 주에 문학 작품 발표가 있는데 어떤 작품을 고를까 고민이에요.\n남자: '소나기'는 어때요? 짧으니만큼 분석하기도 좋을 거예요.\n여자: ( )",
+   "options": [
+    "좋은 생각이에요. 오늘 다시 읽어 볼게요.",
+    "소나기가 와서 우산을 샀어요.",
+    "발표는 어제 끝났어요.",
+    "저는 시를 못 읽어요."
+   ],
+   "answer": "좋은 생각이에요. 오늘 다시 읽어 볼게요.",
+   "explain": "Đồng ý với gợi ý."
+  },
+  {
+   "type": "read",
+   "q": "Chọn thứ tự sắp xếp đúng. (Dạng TOPIK II Đọc câu 13~15)",
+   "kr": "(가) 그러나 그는 끝까지 시를 쓰며 저항했다.\n(나) 윤동주는 일제강점기에 한국어로 시를 쓴 시인이다.\n(다) 당시에는 한국어로 글을 쓰는 것조차 어려웠다.",
+   "options": [
+    "(나)-(다)-(가)",
+    "(가)-(나)-(다)",
+    "(다)-(가)-(나)",
+    "(나)-(가)-(다)"
+   ],
+   "answer": "(나)-(다)-(가)",
+   "explain": "Giới thiệu (나) → bối cảnh (다) → 그러나 (가)."
+  }
+ ]
+}

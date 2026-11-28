@@ -1,0 +1,381 @@
+{
+ "id": "bai-259",
+ "lesson": "Bài 259",
+ "title": "Con người và thiên nhiên (phần 1/5)",
+ "krTitle": "인간과 자연 1",
+ "date": "2027-12-02",
+ "day": 379,
+ "source": "TOPIK 6 – Bài 12: Con người và thiên nhiên (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "내륙 지방",
+   "Naeryung jibang",
+   "Vùng đất liền, nội địa, vùng xa bờ biển",
+   "내륙 지방은 여름에 아주 더워요.",
+   "Vùng nội địa mùa hè rất nóng."
+  ],
+  [
+   "산간 지방",
+   "Sangan jibang",
+   "Vùng trung du đồi núi",
+   "산간 지방에는 눈이 많이 와요.",
+   "Vùng trung du đồi núi có nhiều tuyết."
+  ],
+  [
+   "해안 지방",
+   "Haean jibang",
+   "Vùng duyên hải",
+   "해안 지방 사람들은 생선을 많이 먹어요.",
+   "Người vùng duyên hải ăn nhiều cá."
+  ],
+  [
+   "산악 지방",
+   "Sanang jibang",
+   "Vùng miền núi",
+   "강원도는 대표적인 산악 지방이에요.",
+   "Gangwon là vùng núi tiêu biểu."
+  ],
+  [
+   "도서 지방",
+   "Doseo jibang",
+   "Vùng hải đảo",
+   "도서 지방에는 배를 타고 가야 해요.",
+   "Phải đi tàu mới đến được vùng hải đảo."
+  ],
+  [
+   "평야",
+   "Pyeongya",
+   "Đồng bằng",
+   "김제 평야에서는 쌀이 많이 나요.",
+   "Đồng bằng Gimje sản xuất nhiều gạo."
+  ],
+  [
+   "산맥",
+   "Sanmaek",
+   "Dãy núi",
+   "태백산맥은 한반도의 등뼈예요.",
+   "Dãy Taebaek là xương sống của bán đảo."
+  ],
+  [
+   "분지",
+   "Bunji",
+   "Vùng trũng",
+   "대구는 분지라서 여름에 무척 더워요.",
+   "Daegu là vùng trũng nên mùa hè rất nóng."
+  ],
+  [
+   "등성이 (= 산등성이)",
+   "Deungseongi (= sandeungseongi)",
+   "Sống núi, sườn núi",
+   "산등성이를 따라 걸었어요.",
+   "Tôi đi bộ dọc theo sống núi."
+  ],
+  [
+   "산지",
+   "Sanji",
+   "Vùng núi",
+   "한국은 국토의 70%가 산지예요.",
+   "70% lãnh thổ Hàn Quốc là vùng núi."
+  ],
+  [
+   "지평선",
+   "Jipyeongseon",
+   "Đường chân trời (đường tiếp giáp trời và đất)",
+   "넓은 들판 끝에 지평선이 보여요.",
+   "Ở cuối cánh đồng rộng thấy đường chân trời."
+  ],
+  [
+   "갯벌",
+   "Gaetbeol",
+   "Bãi bùn",
+   "서해안에는 갯벌이 넓게 펼쳐져 있어요.",
+   "Ở bờ biển phía Tây có bãi bùn trải rộng."
+  ],
+  [
+   "하구",
+   "Hagu",
+   "Cửa sông",
+   "강 하구에 철새들이 모여요.",
+   "Chim di cư tụ tập ở cửa sông."
+  ],
+  [
+   "한류",
+   "Hallyu",
+   "Hải lưu lạnh",
+   "동해에는 한류와 난류가 만나요.",
+   "Ở biển Đông, hải lưu lạnh và hải lưu nóng gặp nhau."
+  ],
+  [
+   "해안선",
+   "Haeanseon",
+   "Đường duyên hải",
+   "남해안은 해안선이 복잡해요.",
+   "Bờ biển phía Nam có đường bờ biển phức tạp."
+  ],
+  [
+   "연안",
+   "Yeonan",
+   "Bờ biển",
+   "연안 지역에서 어업이 발달했어요.",
+   "Nghề cá phát triển ở vùng ven biển."
+  ],
+  [
+   "난류",
+   "Nallyu",
+   "Dòng hải lưu nóng",
+   "난류의 영향으로 제주도는 겨울에도 따뜻해요.",
+   "Do ảnh hưởng hải lưu nóng mà Jeju mùa đông cũng ấm."
+  ],
+  [
+   "어장",
+   "Eojang",
+   "Ngư trường, nơi đánh bắt cá",
+   "한류와 난류가 만나는 곳에 좋은 어장이 생겨요.",
+   "Nơi hải lưu lạnh và nóng gặp nhau sẽ hình thành ngư trường tốt."
+  ],
+  [
+   "수평선",
+   "Supyeongseon",
+   "Đường chân trời (đường tiếp giáp trời và nước)",
+   "수평선 너머로 해가 떠올랐어요.",
+   "Mặt trời mọc lên phía bên kia đường chân trời trên biển."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 건마는 — Thế nhưng",
+   "meaning": "Văn phong CỔ / VĂN CHƯƠNG, nghĩa giống 지만 nhưng nhấn mạnh sự THỪA NHẬN vế trước là đương nhiên rồi mới nêu điều trái ngược: 'đã… thế nhưng…, tuy… song…'. Cấu tạo: 거 (khẳng định) + ㄴ마는 (= 지만). Gắn thẳng vào thân: 좋건마는 (tuy tốt), 왔건마는 (đã đến thế mà), 있건마는. Rút gọn: 건만 (rất hay gặp trong thơ, lời bài hát): 봄은 왔건만 마음은 춥다 (xuân đã đến thế mà lòng vẫn lạnh). Thường dùng khi vế sau thể hiện sự TIẾC NUỐI, BUỒN, bất mãn. Trong đời sống hằng ngày ít dùng (dùng 지만, 는데), nhưng xuất hiện trong đề đọc TOPIK 5–6 (thơ, tùy bút). So sánh: (으)련마는 (Bài 235 – giá mà… nhưng, giả định); 건마는 (sự thật đã xảy ra… nhưng); (ㄴ/는)다마는 (Bài 244 – công nhận… nhưng).",
+   "examples": [
+    "봄은 왔건마는 아직도 바람이 차다. — Xuân đã đến thế mà gió vẫn còn lạnh.",
+    "산과 바다가 이렇게 아름답건마는 사람들은 자연을 함부로 대한다. — Núi biển đẹp thế này, vậy mà con người lại đối xử tùy tiện với thiên nhiên.",
+    "열심히 노력했건만 결과가 좋지 않았다. — Đã cố gắng hết sức thế mà kết quả không tốt.",
+    "갯벌은 소중한 자원이건마는 개발로 점점 사라지고 있다. — Bãi bùn là tài nguyên quý, thế nhưng đang dần biến mất vì khai thác."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Đường chân trời trên BIỂN (trời giáp nước) gọi là gì?",
+   "kr": "",
+   "options": [
+    "수평선",
+    "지평선",
+    "해안선"
+   ],
+   "answer": "수평선",
+   "explain": "수(nước) 평선 ↔ 지(đất) 평선."
+  },
+  {
+   "type": "choice",
+   "q": "Vùng đất trũng bị núi bao quanh (như Daegu) gọi là gì?",
+   "kr": "",
+   "options": [
+    "분지",
+    "평야",
+    "하구"
+   ],
+   "answer": "분지",
+   "explain": "분지 = lòng chảo."
+  },
+  {
+   "type": "choice",
+   "q": "Dòng hải lưu nóng gọi là gì?",
+   "kr": "",
+   "options": [
+    "난류",
+    "한류",
+    "어장"
+   ],
+   "answer": "난류",
+   "explain": "난(ấm) ↔ 한(lạnh)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bờ biển phía Tây có bãi bùn trải rộng.",
+   "kr": "서해안에는 ___이 넓게 펼쳐져 있어요.",
+   "options": [
+    "갯벌",
+    "산맥",
+    "산지"
+   ],
+   "answer": "갯벌",
+   "explain": "갯벌."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Xuân đã đến thế mà gió vẫn lạnh.'",
+   "kr": "",
+   "options": [
+    "봄은 왔건마는 아직도 바람이 차다.",
+    "봄은 왔건마는 바람이 따뜻하다.",
+    "봄은 오건만이 바람이 차다."
+   ],
+   "answer": "봄은 왔건마는 아직도 바람이 차다.",
+   "explain": "Quá khứ: 았/었건마는 + vế trái ngược."
+  },
+  {
+   "type": "choice",
+   "q": "Dạng rút gọn của 건마는 là gì?",
+   "kr": "",
+   "options": [
+    "건만",
+    "거늘",
+    "건데"
+   ],
+   "answer": "건만",
+   "explain": "건마는 → 건만."
+  },
+  {
+   "type": "choice",
+   "q": "건마는 thường xuất hiện ở đâu?",
+   "kr": "",
+   "options": [
+    "Thơ, tùy bút, văn chương",
+    "Tin nhắn bạn bè",
+    "Biển báo giao thông"
+   ],
+   "answer": "Thơ, tùy bút, văn chương",
+   "explain": "Văn phong cổ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: 70% lãnh thổ Hàn Quốc là vùng núi.",
+   "kr": "한국은 국토의 70%가 ___예요.",
+   "options": [
+    "산지",
+    "평야",
+    "분지"
+   ],
+   "answer": "산지",
+   "explain": "산지."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 건마는 với 노력하다 (quá khứ): Đã cố gắng thế mà kết quả không tốt.",
+   "kr": "열심히 ___ 결과가 좋지 않았다.",
+   "answer": [
+    "노력했건마는",
+    "노력했건만"
+   ],
+   "explain": "했건마는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 건마는 với 아름답다: Núi biển đẹp thế này vậy mà con người…",
+   "kr": "산과 바다가 이렇게 ___ 사람들은 자연을 함부로 대한다.",
+   "answer": [
+    "아름답건마는",
+    "아름답건만"
+   ],
+   "explain": "아름답건마는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chim di cư tụ tập ở cửa sông.",
+   "kr": "강 ___에 철새들이 모여요.",
+   "answer": [
+    "하구"
+   ],
+   "explain": "하구."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Dãy Taebaek là xương sống của bán đảo.",
+   "kr": "태백___은 한반도의 등뼈예요.",
+   "answer": [
+    "산맥"
+   ],
+   "explain": "산맥."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đã cố gắng hết sức thế mà kết quả không tốt.",
+   "tokens": [
+    "열심히",
+    "노력했건만",
+    "결과가",
+    "좋지",
+    "않았다"
+   ],
+   "answer": "열심히 노력했건만 결과가 좋지 않았다",
+   "explain": "건만."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mặt trời mọc lên bên kia đường chân trời trên biển.",
+   "tokens": [
+    "수평선",
+    "너머로",
+    "해가",
+    "떠올랐어요"
+   ],
+   "answer": "수평선 너머로 해가 떠올랐어요",
+   "explain": "너머로."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Vùng nội địa mùa hè rất nóng.",
+   "answer": [
+    "내륙 지방은 여름에 아주 더워요.",
+    "내륙 지방은 여름에 매우 더워요."
+   ],
+   "explain": "내륙."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Phải đi tàu mới đến được vùng hải đảo.",
+   "answer": [
+    "도서 지방에는 배를 타고 가야 해요.",
+    "도서 지방은 배를 타고 가야 해요."
+   ],
+   "explain": "아/어야 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Do hải lưu nóng mà Jeju mùa đông cũng ấm.",
+   "answer": [
+    "난류의 영향으로 제주도는 겨울에도 따뜻해요.",
+    "난류 때문에 제주도는 겨울에도 따뜻해요."
+   ],
+   "explain": "의 영향으로."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한반도는 삼면이 바다이고 국토의 대부분이 산지이다. 동해는 해안선이 단조롭고 물이 깊지만, 서해는 해안선이 복잡하고 넓은 갯벌이 발달해 있다.",
+   "answer": "Bán đảo Triều Tiên ba mặt giáp biển và phần lớn lãnh thổ là vùng núi. Biển Đông có đường bờ biển đơn giản và nước sâu, còn biển Tây có đường bờ biển phức tạp và bãi bùn rộng phát triển.",
+   "explain": "지만; 아/어 있다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 이번 주말에 서해안 갯벌 체험 가는 거 맞죠?\n여자: 네. 그런데 갯벌에 들어갈 때 뭘 준비해야 할까요?\n남자: 장화랑 갈아입을 옷이 꼭 필요해요. 그리고 물때를 미리 확인해야 해요.\n여자: 그렇군요. 지금 인터넷으로 물때부터 찾아볼게요.",
+   "options": [
+    "인터넷으로 물때를 찾아본다.",
+    "장화를 산다.",
+    "갯벌에 들어간다.",
+    "옷을 갈아입는다."
+   ],
+   "answer": "인터넷으로 물때를 찾아본다.",
+   "explain": "지금 인터넷으로 물때부터 찾아볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "사라지는 서해안 갯벌… 20년 새 축구장 3만 개 넓이 줄어",
+   "options": [
+    "서해안 갯벌이 지난 20년 동안 크게 줄었다.",
+    "서해안 갯벌에 축구장이 생겼다.",
+    "갯벌이 20년 동안 넓어졌다.",
+    "축구장이 3만 개 없어졌다."
+   ],
+   "answer": "서해안 갯벌이 지난 20년 동안 크게 줄었다.",
+   "explain": "새 = trong khoảng; 줄어 = giảm."
+  }
+ ]
+}

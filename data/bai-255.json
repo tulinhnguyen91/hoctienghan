@@ -1,0 +1,398 @@
+{
+ "id": "bai-255",
+ "lesson": "Bài 255",
+ "title": "Y học hiện đại (phần 1/4)",
+ "krTitle": "현대 의학 1",
+ "date": "2027-11-26",
+ "day": 373,
+ "source": "TOPIK 6 – Bài 11: Y học hiện đại (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "발병하다",
+   "Balbyeonghada",
+   "Phát bệnh",
+   "그 병은 주로 겨울에 발병해요.",
+   "Bệnh đó chủ yếu phát vào mùa đông."
+  ],
+  [
+   "호전되다",
+   "Hojeondoeda",
+   "Được cải thiện, được phục hồi",
+   "치료를 받고 상태가 많이 호전되었어요.",
+   "Điều trị xong tình trạng đã cải thiện nhiều."
+  ],
+  [
+   "진단서를 끊다",
+   "Jindanseoreul kkeunta",
+   "Xin cấp giấy chẩn đoán",
+   "회사에 내려고 병원에서 진단서를 끊었어요.",
+   "Tôi xin giấy chẩn đoán ở bệnh viện để nộp cho công ty."
+  ],
+  [
+   "진단서를 떼다",
+   "Jindanseoreul tteda",
+   "Lấy giấy chẩn đoán (được cấp)",
+   "보험 회사에 내려면 진단서를 떼어 오세요.",
+   "Muốn nộp cho công ty bảo hiểm thì hãy lấy giấy chẩn đoán."
+  ],
+  [
+   "의료비",
+   "Uiryobi",
+   "Chi phí y tế, phí chữa bệnh",
+   "의료비 부담이 커졌어요.",
+   "Gánh nặng chi phí y tế tăng lên."
+  ],
+  [
+   "연명 치료",
+   "Yeonmyeong chiryo",
+   "Liệu pháp duy trì sự sống",
+   "할아버지는 연명 치료를 원하지 않으셨어요.",
+   "Ông không muốn điều trị kéo dài sự sống."
+  ],
+  [
+   "불치병",
+   "Bulchibyeong",
+   "Bệnh không chữa được",
+   "옛날에는 결핵이 불치병이었어요.",
+   "Ngày xưa lao là bệnh không chữa được."
+  ],
+  [
+   "만성질환",
+   "Manseongjilhwan",
+   "Bệnh mãn tính",
+   "당뇨병은 대표적인 만성질환이에요.",
+   "Tiểu đường là bệnh mãn tính tiêu biểu."
+  ],
+  [
+   "완치되다",
+   "Wanchidoeda",
+   "Hoàn tất việc chữa trị",
+   "수술 후에 병이 완치되었어요.",
+   "Sau phẫu thuật bệnh đã khỏi hẳn."
+  ],
+  [
+   "진료하다",
+   "Jillyohada",
+   "Chẩn trị (chẩn đoán và trị liệu)",
+   "이 병원은 주말에도 진료해요.",
+   "Bệnh viện này khám chữa cả cuối tuần."
+  ],
+  [
+   "주사를 놓다",
+   "Jusareul nota",
+   "Tiêm",
+   "간호사가 팔에 주사를 놓았어요.",
+   "Y tá đã tiêm vào tay."
+  ],
+  [
+   "의료 기관",
+   "Uiryo gigwan",
+   "Cơ quan y tế",
+   "가까운 의료 기관을 방문하세요.",
+   "Hãy đến cơ sở y tế gần nhất."
+  ],
+  [
+   "면역력",
+   "Myeonyeongnyeok",
+   "Khả năng miễn dịch, sức đề kháng",
+   "잘 먹고 잘 자야 면역력이 높아져요.",
+   "Ăn ngủ tốt thì sức đề kháng mới tăng."
+  ],
+  [
+   "난치병",
+   "Nanchibyeong",
+   "Bệnh nan y, bệnh khó chữa",
+   "의학이 발달하면서 많은 난치병을 치료할 수 있게 되었어요.",
+   "Y học phát triển nên đã chữa được nhiều bệnh nan y."
+  ],
+  [
+   "급성질환",
+   "Geupseongjilhwan",
+   "Bệnh cấp tính",
+   "급성질환은 빨리 치료해야 해요.",
+   "Bệnh cấp tính phải điều trị nhanh."
+  ],
+  [
+   "재발하다",
+   "Jaebalhada",
+   "Tái phát",
+   "암이 재발하지 않도록 정기 검사를 받아요.",
+   "Khám định kỳ để ung thư không tái phát."
+  ],
+  [
+   "진찰하다",
+   "Jinchalhada",
+   "Kiểm tra, xem xét, chẩn đoán",
+   "의사가 환자를 꼼꼼히 진찰했어요.",
+   "Bác sĩ khám bệnh nhân rất kỹ."
+  ],
+  [
+   "의료진",
+   "Uiryojin",
+   "Đội ngũ y bác sĩ",
+   "의료진이 밤새 환자를 돌봤어요.",
+   "Đội ngũ y bác sĩ chăm sóc bệnh nhân suốt đêm."
+  ],
+  [
+   "건강검진",
+   "Geonganggeomjin",
+   "Khám sức khỏe",
+   "1년에 한 번 건강검진을 받으세요.",
+   "Hãy khám sức khỏe mỗi năm một lần."
+  ],
+  [
+   "민간요법",
+   "Minganyobeop",
+   "Liệu pháp dân gian",
+   "민간요법만 믿다가 병이 심해졌어요.",
+   "Chỉ tin vào bài thuốc dân gian nên bệnh nặng thêm."
+  ],
+  [
+   "약물 남용",
+   "Yangmul namyong",
+   "Lạm dụng thuốc",
+   "약물 남용은 건강에 매우 위험해요.",
+   "Lạm dụng thuốc rất nguy hiểm cho sức khỏe."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)면 몰라도 — Nếu … thì không biết, nhưng",
+   "meaning": "Đưa ra một TRƯỜNG HỢP NGOẠI LỆ (điều kiện đặc biệt) mà người nói chấp nhận, sau đó khẳng định trong trường hợp bình thường thì KHÔNG: 'nếu… thì còn có thể (không biết chừng), chứ…thì không…'. Chia: có patchim → 으면 몰라도 (작으면 몰라도); không patchim/ㄹ → 면 몰라도 (아프면 몰라도); Danh từ → (이)라면 몰라도 (의사라면 몰라도); Quá khứ → 았/었으면 몰라도. Vế sau thường là PHỦ ĐỊNH hoặc đánh giá ngược lại: 안 돼요, 필요 없어요, (으)ㄹ 리가 없어요. Ví dụ: 많이 아프면 몰라도 감기 정도로 결석하면 안 돼요 (đau nặng thì không nói, chứ cảm xoàng mà nghỉ học thì không được). Văn nói và viết. So sánh: (으)면 (nếu – điều kiện thường); (으)면 몰라도 (ngoại lệ + phủ định trường hợp còn lại).",
+   "examples": [
+    "많이 아프면 몰라도 감기 정도로 결석하면 안 돼요. — Đau nặng thì không nói, chứ cảm xoàng thì không được nghỉ học.",
+    "의사라면 몰라도 일반인이 주사를 놓으면 안 돼요. — Nếu là bác sĩ thì không biết, chứ người thường thì không được tiêm.",
+    "증상이 심하면 몰라도 아직은 약을 먹을 필요가 없어요. — Triệu chứng nặng thì khác, chứ hiện giờ chưa cần uống thuốc.",
+    "돈이 많으면 몰라도 매년 해외 여행은 어려워요. — Nhiều tiền thì không nói, chứ năm nào cũng du lịch nước ngoài thì khó."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Bệnh kéo dài, khó khỏi hẳn (tiểu đường, huyết áp) gọi là gì?",
+   "kr": "",
+   "options": [
+    "만성질환",
+    "급성질환",
+    "불치병"
+   ],
+   "answer": "만성질환",
+   "explain": "만성 (mãn tính) ↔ 급성 (cấp tính)."
+  },
+  {
+   "type": "choice",
+   "q": "Bệnh khỏi rồi lại phát lại gọi là gì?",
+   "kr": "",
+   "options": [
+    "재발하다",
+    "완치되다",
+    "발병하다"
+   ],
+   "answer": "재발하다",
+   "explain": "재 = lại."
+  },
+  {
+   "type": "choice",
+   "q": "Khỏi bệnh hoàn toàn gọi là gì?",
+   "kr": "",
+   "options": [
+    "완치되다",
+    "재발하다",
+    "진료하다"
+   ],
+   "answer": "완치되다",
+   "explain": "완 = hoàn toàn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Y tá đã tiêm vào tay.",
+   "kr": "간호사가 팔에 주사를 ___.",
+   "options": [
+    "놓았어요",
+    "떼었어요",
+    "끊었어요"
+   ],
+   "answer": "놓았어요",
+   "explain": "주사를 놓다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Đau nặng thì không nói, chứ cảm xoàng thì không được nghỉ.'",
+   "kr": "",
+   "options": [
+    "많이 아프면 몰라도 감기 정도로 결석하면 안 돼요.",
+    "많이 아프면 몰라도 감기 정도로 결석해도 돼요.",
+    "많이 아파서 몰라도 감기 정도로 결석하면 안 돼요."
+   ],
+   "answer": "많이 아프면 몰라도 감기 정도로 결석하면 안 돼요.",
+   "explain": "Ngoại lệ + phủ định."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với danh từ 의사.",
+   "kr": "",
+   "options": [
+    "의사라면 몰라도",
+    "의사면서 몰라도",
+    "의사는 몰라도"
+   ],
+   "answer": "의사라면 몰라도",
+   "explain": "N(이)라면 몰라도."
+  },
+  {
+   "type": "choice",
+   "q": "Vế sau của (으)면 몰라도 thường là gì?",
+   "kr": "",
+   "options": [
+    "Phủ định / đánh giá ngược lại",
+    "Lời cảm ơn",
+    "Câu tường thuật quá khứ"
+   ],
+   "answer": "Phủ định / đánh giá ngược lại",
+   "explain": "Ngoại lệ ≠ trường hợp thường."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ăn ngủ tốt thì sức đề kháng mới tăng.",
+   "kr": "잘 먹고 잘 자야 ___이 높아져요.",
+   "options": [
+    "면역력",
+    "의료비",
+    "약물 남용"
+   ],
+   "answer": "면역력",
+   "explain": "면역력."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)면 몰라도 với 심하다: Triệu chứng nặng thì khác, chứ giờ chưa cần thuốc.",
+   "kr": "증상이 ___ 아직은 약을 먹을 필요가 없어요.",
+   "answer": [
+    "심하면 몰라도"
+   ],
+   "explain": "심하면 몰라도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)면 몰라도 với 많다: Nhiều tiền thì không nói, chứ năm nào cũng đi thì khó.",
+   "kr": "돈이 ___ 매년 해외 여행은 어려워요.",
+   "answer": [
+    "많으면 몰라도"
+   ],
+   "explain": "많으면 몰라도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hãy khám sức khỏe mỗi năm một lần.",
+   "kr": "1년에 한 번 ___을 받으세요.",
+   "answer": [
+    "건강검진"
+   ],
+   "explain": "건강검진."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Lạm dụng thuốc rất nguy hiểm.",
+   "kr": "약물 ___은 건강에 매우 위험해요.",
+   "answer": [
+    "남용"
+   ],
+   "explain": "약물 남용."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nếu là bác sĩ thì không biết, chứ người thường không được tiêm.",
+   "tokens": [
+    "의사라면",
+    "몰라도",
+    "일반인이",
+    "주사를",
+    "놓으면",
+    "안",
+    "돼요"
+   ],
+   "answer": "의사라면 몰라도 일반인이 주사를 놓으면 안 돼요",
+   "explain": "(이)라면 몰라도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bác sĩ khám bệnh nhân rất kỹ.",
+   "tokens": [
+    "의사가",
+    "환자를",
+    "꼼꼼히",
+    "진찰했어요"
+   ],
+   "answer": "의사가 환자를 꼼꼼히 진찰했어요",
+   "explain": "진찰하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nếu là ngày nghỉ thì không biết, chứ hôm nay thì không đi được. (dùng (으)면 몰라도)",
+   "answer": [
+    "쉬는 날이면 몰라도 오늘은 못 가요.",
+    "휴일이면 몰라도 오늘은 갈 수 없어요.",
+    "쉬는 날이라면 몰라도 오늘은 못 가요.",
+    "휴일이라면 몰라도 오늘은 못 가요."
+   ],
+   "explain": "(이)면 몰라도."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sau phẫu thuật bệnh đã khỏi hẳn.",
+   "answer": [
+    "수술 후에 병이 완치되었어요.",
+    "수술 후 병이 완치됐어요.",
+    "수술 후에 병이 완전히 나았어요."
+   ],
+   "explain": "완치되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bệnh viện này khám chữa cả cuối tuần.",
+   "answer": [
+    "이 병원은 주말에도 진료해요.",
+    "이 병원은 주말에도 진료를 해요."
+   ],
+   "explain": "진료하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "의학이 발달하면서 과거의 불치병 중 상당수가 완치될 수 있게 되었다. 그러나 만성질환은 꾸준한 관리가 필요하며, 민간요법에만 의지하거나 약물을 남용하면 오히려 병이 악화될 수 있다.",
+   "answer": "Khi y học phát triển, nhiều bệnh trước đây không chữa được nay đã có thể khỏi hẳn. Nhưng bệnh mãn tính cần quản lý đều đặn, và nếu chỉ dựa vào bài thuốc dân gian hoặc lạm dụng thuốc thì bệnh ngược lại có thể nặng thêm.",
+   "explain": "(으)며; 오히려."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 요즘 기침이 계속 나서 인터넷에서 본 민간요법을 해 보고 있어요.\n남자: 증상이 가벼우면 몰라도 2주 넘게 기침을 하면 병원에 가 봐야 해요. 잘못하면 큰 병이 될 수도 있어요.\n여자: 그렇군요. 내일 바로 진찰을 받아 볼게요.",
+   "options": [
+    "여자는 내일 병원에 갈 것이다.",
+    "남자는 민간요법을 추천했다.",
+    "여자는 기침을 하지 않는다.",
+    "남자는 병원에 갈 필요가 없다고 했다."
+   ],
+   "answer": "여자는 내일 병원에 갈 것이다.",
+   "explain": "내일 바로 진찰을 받아 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "꾸준히 치료를 받은 덕분에 환자의 상태가 많이 <호전되었다>.",
+   "options": [
+    "좋아졌다",
+    "나빠졌다",
+    "재발했다",
+    "악화되었다"
+   ],
+   "answer": "좋아졌다",
+   "explain": "호전되다 = chuyển biến tốt."
+  }
+ ]
+}

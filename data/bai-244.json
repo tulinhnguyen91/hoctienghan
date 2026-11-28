@@ -1,0 +1,385 @@
+{
+ "id": "bai-244",
+ "lesson": "Bài 244",
+ "title": "Chế độ chính trị (phần 3/4)",
+ "krTitle": "정치 제도 3",
+ "date": "2027-11-10",
+ "day": 357,
+ "source": "TOPIK 6 – Bài 8: Chế độ chính trị (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "분단",
+   "Bundan",
+   "Chia cắt",
+   "한반도는 1945년 이후 분단되었어요.",
+   "Bán đảo Triều Tiên bị chia cắt từ sau năm 1945."
+  ],
+  [
+   "통일",
+   "Tongil",
+   "Sự thống nhất",
+   "많은 사람들이 평화 통일을 바라고 있어요.",
+   "Nhiều người mong muốn thống nhất hòa bình."
+  ],
+  [
+   "남북대화",
+   "Nambukdaehwa",
+   "Đối thoại Nam - Bắc",
+   "남북대화가 다시 시작되었어요.",
+   "Đối thoại Nam – Bắc đã được nối lại."
+  ],
+  [
+   "38선",
+   "38seon",
+   "Vĩ tuyến 38",
+   "38선은 해방 후 남북을 나눈 선이에요.",
+   "Vĩ tuyến 38 là đường chia Nam Bắc sau giải phóng."
+  ],
+  [
+   "이산가족",
+   "Isangajok",
+   "Gia đình ly tán",
+   "전쟁으로 많은 이산가족이 생겼어요.",
+   "Chiến tranh tạo ra nhiều gia đình ly tán."
+  ],
+  [
+   "대결하다",
+   "Daegyeolhada",
+   "Đối đầu, đương đầu",
+   "두 팀이 결승에서 대결했어요.",
+   "Hai đội đã đối đầu ở chung kết."
+  ],
+  [
+   "휴전선",
+   "Hyujeonseon",
+   "Ranh giới đình chiến",
+   "휴전선 근처에는 사람이 살지 않아요.",
+   "Gần đường ranh giới đình chiến không có người sống."
+  ],
+  [
+   "남북한 관계",
+   "Nambukan gwangye",
+   "Quan hệ Nam - Bắc Hàn",
+   "남북한 관계가 조금씩 좋아지고 있어요.",
+   "Quan hệ Nam – Bắc đang dần tốt lên."
+  ],
+  [
+   "화해하다",
+   "Hwahaehada",
+   "Hòa giải",
+   "오랫동안 싸웠던 두 사람이 화해했어요.",
+   "Hai người từng cãi nhau lâu đã làm hòa."
+  ],
+  [
+   "공론화",
+   "Gongnonhwa",
+   "Sự đưa ra thảo luận công khai",
+   "그 문제를 공론화해서 해결 방법을 찾아야 해요.",
+   "Phải đưa vấn đề đó ra thảo luận công khai để tìm cách giải quyết."
+  ],
+  [
+   "광역자치단체",
+   "Gwangyeokjachidanche",
+   "Chính quyền tự trị cấp tỉnh/thành",
+   "서울시는 광역자치단체예요.",
+   "Thành phố Seoul là đơn vị tự trị cấp tỉnh/thành."
+  ],
+  [
+   "남북 공동체",
+   "Nambung gongdongche",
+   "Cộng đồng Nam – Bắc",
+   "남북 공동체를 만들기 위한 노력이 필요해요.",
+   "Cần nỗ lực để xây dựng cộng đồng Nam – Bắc."
+  ],
+  [
+   "다당제",
+   "Dadangje",
+   "Chế độ đa đảng",
+   "한국은 다당제 국가예요.",
+   "Hàn Quốc là nước đa đảng."
+  ],
+  [
+   "단원제",
+   "Danwonje",
+   "Chế độ đơn viện",
+   "한국 국회는 단원제예요.",
+   "Quốc hội Hàn Quốc theo chế độ đơn viện."
+  ],
+  [
+   "대담",
+   "Daedam",
+   "Cuộc đối thoại, đàm luận",
+   "두 전문가의 대담이 방송되었어요.",
+   "Cuộc đàm luận của hai chuyên gia đã được phát sóng."
+  ],
+  [
+   "면회소",
+   "Myeonhoeso",
+   "Nơi đến thăm, nơi thăm nuôi",
+   "이산가족 면회소에서 가족을 만났어요.",
+   "Đã gặp người thân tại nơi gặp mặt gia đình ly tán."
+  ],
+  [
+   "불복하다",
+   "Bulbokada",
+   "Không phục, không nghe theo",
+   "그는 판결에 불복하고 다시 재판을 신청했어요.",
+   "Ông ấy không phục phán quyết và xin xét xử lại."
+  ],
+  [
+   "비례대표제",
+   "Biryedaepyoje",
+   "Chế độ đại diện theo tỷ lệ",
+   "비례대표제는 정당의 득표율에 따라 의석을 나눠요.",
+   "Chế độ đại diện theo tỷ lệ chia ghế theo tỷ lệ phiếu của đảng."
+  ],
+  [
+   "비파시스트",
+   "Bipasiseuteu",
+   "Phi phát xít",
+   "그는 비파시스트 운동에 참여했어요.",
+   "Ông ấy đã tham gia phong trào phi phát xít."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)다마는 — Công nhận … nhưng",
+   "meaning": "THỪA NHẬN một sự thật / ý kiến ở vế trước, rồi nêu ý KHÁC, trái ngược hoặc bổ sung hạn chế ở vế sau: 'đúng là… nhưng, công nhận là… song…, … thì có… mà…'. Cấu tạo: câu trần thuật dạng 다 + 마는 (= 지만, văn phong cũ/trang trọng). Chia: Động từ có patchim → 는다마는 (먹는다마는); không patchim → ㄴ다마는 (간다마는); Tính từ → 다마는 (좋다마는); Danh từ → (이)다마는 / (이)라마는 (학생이다마는); Quá khứ → 았/었다마는 (했다마는). Rút gọn: (ㄴ/는)다만. Hay dùng trong văn viết, lời nói của người lớn tuổi, hoặc khi nói chậm rãi cân nhắc. So sánh: 지만 (nhưng – trung tính); (ㄴ/는)다마는 nhấn mạnh 'tôi công nhận vế trước'; (으)련마는 (Bài 235 – lẽ ra… nhưng).",
+   "examples": [
+    "통일이 중요하다마는 쉽지 않은 문제예요. — Công nhận thống nhất là quan trọng, nhưng đó không phải vấn đề dễ.",
+    "남북대화가 시작되었다마는 아직 갈 길이 멀어요. — Đúng là đối thoại Nam – Bắc đã bắt đầu, nhưng con đường còn dài.",
+    "가고 싶다마는 시간이 없네요. — Muốn đi thì có muốn, mà không có thời gian.",
+    "비싸다마는 품질이 좋으니까 살게요. — Công nhận đắt, nhưng chất lượng tốt nên tôi sẽ mua."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Gia đình bị chia cắt do chiến tranh, không thể gặp nhau gọi là gì?",
+   "kr": "",
+   "options": [
+    "이산가족",
+    "남북 공동체",
+    "광역자치단체"
+   ],
+   "answer": "이산가족",
+   "explain": "이산 = ly tán."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 분단 là gì?",
+   "kr": "",
+   "options": [
+    "통일",
+    "대결",
+    "불복"
+   ],
+   "answer": "통일",
+   "explain": "분단 (chia cắt) ↔ 통일 (thống nhất)."
+  },
+  {
+   "type": "choice",
+   "q": "Quốc hội chỉ có một viện gọi là gì?",
+   "kr": "",
+   "options": [
+    "단원제",
+    "다당제",
+    "비례대표제"
+   ],
+   "answer": "단원제",
+   "explain": "단원 = một viện."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hai người từng cãi nhau đã làm hòa.",
+   "kr": "오랫동안 싸웠던 두 사람이 ___.",
+   "options": [
+    "화해했어요",
+    "대결했어요",
+    "불복했어요"
+   ],
+   "answer": "화해했어요",
+   "explain": "화해하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Công nhận đắt, nhưng chất lượng tốt nên sẽ mua.'",
+   "kr": "",
+   "options": [
+    "비싸다마는 품질이 좋으니까 살게요.",
+    "비싼다마는 품질이 좋으니까 살게요.",
+    "비싸는다마는 품질이 좋으니까 살게요."
+   ],
+   "answer": "비싸다마는 품질이 좋으니까 살게요.",
+   "explain": "Tính từ → 다마는."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với động từ 가다 (hiện tại).",
+   "kr": "",
+   "options": [
+    "간다마는",
+    "가다마는",
+    "갔는다마는"
+   ],
+   "answer": "간다마는",
+   "explain": "Động từ không patchim → ㄴ다마는."
+  },
+  {
+   "type": "choice",
+   "q": "(ㄴ/는)다마는 gần nghĩa nhất với từ nào?",
+   "kr": "",
+   "options": [
+    "지만",
+    "그래서",
+    "(으)니까"
+   ],
+   "answer": "지만",
+   "explain": "마는 = 지만."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ông ấy không phục phán quyết.",
+   "kr": "그는 판결에 ___.",
+   "options": [
+    "불복했어요",
+    "화해했어요",
+    "공론화했어요"
+   ],
+   "answer": "불복했어요",
+   "explain": "N에 불복하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다마는 với 시작되다 (quá khứ): Đúng là đối thoại đã bắt đầu nhưng đường còn dài.",
+   "kr": "남북대화가 ___ 아직 갈 길이 멀어요.",
+   "answer": [
+    "시작되었다마는",
+    "시작됐다마는"
+   ],
+   "explain": "았/었다마는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다마는 với 싶다: Muốn đi thì có muốn mà không có thời gian.",
+   "kr": "가고 ___ 시간이 없네요.",
+   "answer": [
+    "싶다마는",
+    "싶다만"
+   ],
+   "explain": "싶다 (tính từ phụ trợ) → 다마는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chiến tranh tạo ra nhiều gia đình ly tán.",
+   "kr": "전쟁으로 많은 ___이 생겼어요.",
+   "answer": [
+    "이산가족"
+   ],
+   "explain": "이산가족."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hàn Quốc là nước đa đảng.",
+   "kr": "한국은 ___ 국가예요.",
+   "answer": [
+    "다당제"
+   ],
+   "explain": "다당제."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Công nhận thống nhất quan trọng nhưng không dễ.",
+   "tokens": [
+    "통일이",
+    "중요하다마는",
+    "쉽지",
+    "않은",
+    "문제예요"
+   ],
+   "answer": "통일이 중요하다마는 쉽지 않은 문제예요",
+   "explain": "다마는."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Quan hệ Nam – Bắc đang dần tốt lên.",
+   "tokens": [
+    "남북한",
+    "관계가",
+    "조금씩",
+    "좋아지고",
+    "있어요"
+   ],
+   "answer": "남북한 관계가 조금씩 좋아지고 있어요",
+   "explain": "아/어지다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Công nhận cuốn sách này khó, nhưng rất bổ ích. (dùng 다마는)",
+   "answer": [
+    "이 책은 어렵다마는 아주 유익해요.",
+    "이 책이 어렵다마는 정말 유익해요.",
+    "이 책은 어렵다마는 많이 도움이 돼요.",
+    "이 책은 어렵다마는 아주 도움이 돼요."
+   ],
+   "explain": "어렵다마는."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bán đảo Triều Tiên bị chia cắt từ sau năm 1945.",
+   "answer": [
+    "한반도는 1945년 이후 분단되었어요.",
+    "한반도는 1945년 이후에 분단되었어요.",
+    "한반도는 1945년 이후 분단됐어요."
+   ],
+   "explain": "분단되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hai đội đã đối đầu ở chung kết.",
+   "answer": [
+    "두 팀이 결승에서 대결했어요.",
+    "두 팀은 결승에서 대결했어요."
+   ],
+   "explain": "대결하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국 전쟁 이후 70년이 넘게 지났지만 아직도 많은 이산가족이 가족을 만나지 못하고 있다. 정부는 이산가족 상봉을 정례화하려고 노력하고 있다.",
+   "answer": "Đã hơn 70 năm trôi qua kể từ chiến tranh Triều Tiên nhưng vẫn còn nhiều gia đình ly tán chưa được gặp người thân. Chính phủ đang nỗ lực định kỳ hóa các cuộc đoàn tụ gia đình ly tán.",
+   "explain": "정례화하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 다음 주 통일 교육 강연에 같이 갈래요?\n여자: 가고 싶다마는 그날 시험이 있어서요.\n남자: 그럼 강연 내용을 녹화한다고 하니까 나중에 영상으로 보세요.\n여자: 그거 좋네요. 영상 링크 좀 보내 주세요.",
+   "options": [
+    "남자에게 영상 링크를 부탁한다.",
+    "강연에 간다.",
+    "시험을 취소한다.",
+    "강연을 녹화한다."
+   ],
+   "answer": "남자에게 영상 링크를 부탁한다.",
+   "explain": "영상 링크 좀 보내 주세요."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "70년의 기다림, 이제는 만나야 합니다.\n이산가족 정보 등록을 서둘러 주세요.\n☎ 1577-0000 (통일부)",
+   "options": [
+    "이산가족 찾기 안내",
+    "여행 상품 광고",
+    "선거 안내",
+    "군대 모집"
+   ],
+   "answer": "이산가족 찾기 안내",
+   "explain": "이산가족 정보 등록."
+  }
+ ]
+}

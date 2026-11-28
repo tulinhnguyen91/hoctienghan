@@ -1,0 +1,417 @@
+{
+ "id": "bai-247",
+ "lesson": "Bài 247",
+ "title": "Cuộc sống và kinh tế (phần 2/4)",
+ "krTitle": "생활과 경제 2",
+ "date": "2027-11-14",
+ "day": 361,
+ "source": "TOPIK 6 – Bài 9: Cuộc sống và kinh tế (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 19~24: Đoạn văn + suy luận"
+ },
+ "words": [
+  [
+   "주가",
+   "Juga",
+   "Giá cổ phiếu",
+   "오늘 주가가 크게 올랐어요.",
+   "Hôm nay giá cổ phiếu tăng mạnh."
+  ],
+  [
+   "펀드",
+   "Peondeu",
+   "Quỹ",
+   "은행에서 펀드에 가입했어요.",
+   "Tôi đã tham gia quỹ đầu tư ở ngân hàng."
+  ],
+  [
+   "상승하다",
+   "Sangseunghada",
+   "Tăng",
+   "물가가 계속 상승하고 있어요.",
+   "Giá cả đang liên tục tăng."
+  ],
+  [
+   "폭등하다",
+   "Pokdeunghada",
+   "Tăng mạnh",
+   "원자재 가격이 폭등했어요.",
+   "Giá nguyên liệu thô tăng vọt."
+  ],
+  [
+   "증시",
+   "Jeungsi",
+   "Thị trường chứng khoán",
+   "증시가 이틀째 하락하고 있어요.",
+   "Thị trường chứng khoán giảm ngày thứ hai."
+  ],
+  [
+   "채권",
+   "Chaegwon",
+   "Trái phiếu, giấy nợ",
+   "채권은 주식보다 안전한 편이에요.",
+   "Trái phiếu thuộc loại an toàn hơn cổ phiếu."
+  ],
+  [
+   "상한가",
+   "Sanghanga",
+   "Giá trần",
+   "그 회사 주식이 상한가를 기록했어요.",
+   "Cổ phiếu công ty đó chạm giá trần."
+  ],
+  [
+   "하락하다",
+   "Harakada",
+   "Giảm",
+   "금리가 하락하면 대출이 늘어요.",
+   "Lãi suất giảm thì vay tiền tăng."
+  ],
+  [
+   "부동산 투자",
+   "Budongsan tuja",
+   "Đầu tư bất động sản",
+   "부동산 투자로 돈을 번 사람도 있어요.",
+   "Cũng có người kiếm tiền nhờ đầu tư bất động sản."
+  ],
+  [
+   "장바구니 물가",
+   "Jangbaguni mulga",
+   "Giá tiêu dùng, giá cả các mặt hàng thiết yếu",
+   "장바구니 물가가 너무 올라서 장 보기가 무서워요.",
+   "Giá cả hàng thiết yếu tăng quá nên sợ đi chợ."
+  ],
+  [
+   "부익부 빈익빈",
+   "Buikbu binikbin",
+   "Người giàu càng giàu, người nghèo càng nghèo",
+   "부익부 빈익빈 현상이 심해지고 있어요.",
+   "Hiện tượng giàu càng giàu, nghèo càng nghèo đang nghiêm trọng hơn."
+  ],
+  [
+   "체감 지수",
+   "Chegam jisu",
+   "Chỉ số cảm nhận thực tế",
+   "경기 체감 지수가 낮아졌어요.",
+   "Chỉ số cảm nhận kinh tế đã giảm."
+  ],
+  [
+   "무역 전쟁",
+   "Muyeong jeonjaeng",
+   "Chiến tranh thương mại",
+   "두 나라의 무역 전쟁이 세계 경제에 영향을 줘요.",
+   "Chiến tranh thương mại của hai nước ảnh hưởng đến kinh tế thế giới."
+  ],
+  [
+   "장밋빛 전망",
+   "Jangmitbin jeonmang",
+   "Triển vọng tốt đẹp",
+   "전문가들은 내년 경제에 대해 장밋빛 전망을 내놓았어요.",
+   "Các chuyên gia đưa ra triển vọng màu hồng về kinh tế năm sau."
+  ],
+  [
+   "투기 자금",
+   "Tugi jageum",
+   "Tiền đầu cơ",
+   "투기 자금이 부동산으로 몰렸어요.",
+   "Tiền đầu cơ đổ dồn vào bất động sản."
+  ],
+  [
+   "적립식",
+   "Jeongnipsik",
+   "Tích lũy theo cách trả góp",
+   "매달 적립식으로 저축하고 있어요.",
+   "Tôi đang tiết kiệm theo hình thức tích lũy hàng tháng."
+  ],
+  [
+   "자금 운용",
+   "Jageum unyong",
+   "Sự quản lý, vận dụng vốn",
+   "회사의 자금 운용이 투명해야 해요.",
+   "Việc quản lý vốn của công ty phải minh bạch."
+  ],
+  [
+   "부도가 나다",
+   "Budoga nada",
+   "Vỡ nợ",
+   "그 회사가 부도가 나서 직원들이 월급을 못 받았어요.",
+   "Công ty đó vỡ nợ nên nhân viên không nhận được lương."
+  ],
+  [
+   "거치식",
+   "Geochisik",
+   "Hình thức gửi một lần (gửi cố định)",
+   "목돈이 있으면 거치식 예금이 좋아요.",
+   "Nếu có khoản tiền lớn thì gửi một lần là tốt."
+  ],
+  [
+   "금융 상품",
+   "Geumyung sangpum",
+   "Công cụ tài chính",
+   "은행마다 금융 상품이 다양해요.",
+   "Mỗi ngân hàng có sản phẩm tài chính đa dạng."
+  ],
+  [
+   "대박 나다",
+   "Daebang nada",
+   "Trúng quả, trúng lớn",
+   "그 가게는 새 메뉴로 대박 났어요.",
+   "Quán đó trúng lớn nhờ món mới."
+  ],
+  [
+   "손익분기점",
+   "Sonikbungijeom",
+   "Điểm hòa vốn",
+   "가게를 연 지 1년 만에 손익분기점을 넘었어요.",
+   "Mở quán được một năm đã vượt điểm hòa vốn."
+  ],
+  [
+   "기업 어음",
+   "Gieom eoeum",
+   "Giấy nợ doanh nghiệp, lệnh phiếu",
+   "기업 어음은 위험할 수도 있어요.",
+   "Thương phiếu doanh nghiệp cũng có thể rủi ro."
+  ],
+  [
+   "손해를 떠안다",
+   "Sonhaereul tteoanda",
+   "Gánh vác thiệt hại, chấp nhận thiệt hại",
+   "투자에 실패해서 손해를 떠안았어요.",
+   "Đầu tư thất bại nên phải gánh thiệt hại."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는 마당에 — Trong tình cảnh",
+   "meaning": "Nêu TÌNH CẢNH (thường là khó khăn, bất lợi, hoặc đã đến mức nào đó) làm bối cảnh cho phán đoán / lời nói ở vế sau: 'trong tình cảnh…, đến nước này rồi thì…, đã… rồi mà…'. 마당 = cái sân → 'hoàn cảnh, bối cảnh'. Chia: Động từ hiện tại → 는 마당에 (떠나는 마당에); quá khứ → (으)ㄴ 마당에 (부도가 난 마당에); Tính từ → (으)ㄴ 마당에 (힘든 마당에). Vế sau thường là: ① câu phủ định / tu từ: 무슨 …?, 어떻게 …?, (으)ㄹ 수 있겠어요? ② quyết định đành phải: 차라리, 아무래도. Ví dụ: 회사가 부도난 마당에 월급을 받을 수 있겠어요? (công ty đã vỡ nợ đến nước này thì sao nhận được lương?). Văn nói, sắc thái than thở / cam chịu. Gần nghĩa: (으)ㄴ/는 상황에서, (으)ㄴ/는 판에.",
+   "examples": [
+    "물가가 이렇게 오른 마당에 무슨 여행이에요? — Giá cả tăng đến thế này thì du lịch gì nữa?",
+    "회사가 부도가 난 마당에 월급을 받을 수 있겠어요? — Công ty đã vỡ nợ đến nước này thì sao nhận được lương?",
+    "이미 손해를 본 마당에 지금 팔면 더 손해예요. — Đã lỗ đến nước này rồi, giờ bán thì càng lỗ hơn.",
+    "이렇게 된 마당에 솔직하게 다 말할게요. — Đã ra nông nỗi này rồi thì tôi sẽ thành thật nói hết."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Giá cao nhất mà cổ phiếu được tăng trong một ngày gọi là gì?",
+   "kr": "",
+   "options": [
+    "상한가",
+    "하한가",
+    "손익분기점"
+   ],
+   "answer": "상한가",
+   "explain": "상한가 (trần) ↔ 하한가 (sàn)."
+  },
+  {
+   "type": "choice",
+   "q": "'부익부 빈익빈' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Giàu càng giàu, nghèo càng nghèo",
+    "Giàu nghèo như nhau",
+    "Người nghèo giàu lên"
+   ],
+   "answer": "Giàu càng giàu, nghèo càng nghèo",
+   "explain": "부(giàu) 빈(nghèo)."
+  },
+  {
+   "type": "choice",
+   "q": "Doanh nghiệp không trả được nợ, phá sản gọi là gì?",
+   "kr": "",
+   "options": [
+    "부도가 나다",
+    "대박 나다",
+    "상승하다"
+   ],
+   "answer": "부도가 나다",
+   "explain": "부도 = vỡ nợ."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 폭락하다 là gì?",
+   "kr": "",
+   "options": [
+    "폭등하다",
+    "하락하다",
+    "떠안다"
+   ],
+   "answer": "폭등하다",
+   "explain": "폭등 (tăng vọt) ↔ 폭락 (lao dốc)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Giá cả tăng thế này thì du lịch gì nữa?'",
+   "kr": "",
+   "options": [
+    "물가가 이렇게 오른 마당에 무슨 여행이에요?",
+    "물가가 이렇게 오르는 마당이 여행이에요.",
+    "물가가 이렇게 오를 마당에 무슨 여행이에요?"
+   ],
+   "answer": "물가가 이렇게 오른 마당에 무슨 여행이에요?",
+   "explain": "(으)ㄴ 마당에 + câu tu từ."
+  },
+  {
+   "type": "choice",
+   "q": "(으)ㄴ/는 마당에 thường diễn tả điều gì?",
+   "kr": "",
+   "options": [
+    "Tình cảnh (thường bất lợi) làm bối cảnh cho phán đoán",
+    "Mục đích",
+    "Thời gian tương lai"
+   ],
+   "answer": "Tình cảnh (thường bất lợi) làm bối cảnh cho phán đoán",
+   "explain": "마당 = hoàn cảnh."
+  },
+  {
+   "type": "choice",
+   "q": "'이렇게 된 마당에' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Đã ra nông nỗi này rồi thì",
+    "Ở trong sân này",
+    "Trước khi thành ra thế này"
+   ],
+   "answer": "Đã ra nông nỗi này rồi thì",
+   "explain": "Thành ngữ thường gặp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mở quán một năm đã vượt điểm hòa vốn.",
+   "kr": "가게를 연 지 1년 만에 ___을 넘었어요.",
+   "options": [
+    "손익분기점",
+    "상한가",
+    "기업 어음"
+   ],
+   "answer": "손익분기점",
+   "explain": "손익분기점."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 마당에 với 나다: Công ty đã vỡ nợ thì sao nhận được lương?",
+   "kr": "회사가 부도가 ___ 월급을 받을 수 있겠어요?",
+   "answer": [
+    "난 마당에"
+   ],
+   "explain": "난 마당에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ 마당에 với 보다: Đã lỗ đến thế này, bán bây giờ càng lỗ.",
+   "kr": "이미 손해를 ___ 지금 팔면 더 손해예요.",
+   "answer": [
+    "본 마당에"
+   ],
+   "explain": "본 마당에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đang tiết kiệm tích lũy hàng tháng.",
+   "kr": "매달 ___으로 저축하고 있어요.",
+   "answer": [
+    "적립식"
+   ],
+   "explain": "적립식."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Quán đó trúng lớn nhờ món mới.",
+   "kr": "그 가게는 새 메뉴로 ___ 났어요.",
+   "answer": [
+    "대박"
+   ],
+   "explain": "대박 나다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đã ra nông nỗi này thì tôi sẽ nói thật hết.",
+   "tokens": [
+    "이렇게",
+    "된",
+    "마당에",
+    "솔직하게",
+    "다",
+    "말할게요"
+   ],
+   "answer": "이렇게 된 마당에 솔직하게 다 말할게요",
+   "explain": "된 마당에."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thị trường chứng khoán giảm ngày thứ hai.",
+   "tokens": [
+    "증시가",
+    "이틀째",
+    "하락하고",
+    "있어요"
+   ],
+   "answer": "증시가 이틀째 하락하고 있어요",
+   "explain": "하락하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đã muộn thế này rồi thì đi taxi thôi. (dùng 마당에)",
+   "answer": [
+    "이렇게 늦은 마당에 택시를 타요.",
+    "이렇게 늦은 마당에 택시를 탑시다.",
+    "이렇게 늦어진 마당에 택시를 타야겠어요.",
+    "이미 늦은 마당에 택시를 타요."
+   ],
+   "explain": "늦은 마당에."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Giá nguyên liệu thô tăng vọt.",
+   "answer": [
+    "원자재 가격이 폭등했어요.",
+    "원자재 값이 폭등했어요."
+   ],
+   "explain": "폭등하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mỗi ngân hàng có sản phẩm tài chính đa dạng.",
+   "answer": [
+    "은행마다 금융 상품이 다양해요.",
+    "은행마다 다양한 금융 상품이 있어요."
+   ],
+   "explain": "금융 상품."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "장바구니 물가가 오르고 경기 체감 지수가 낮아지면서 서민들의 생활이 어려워지고 있다. 그러나 투기 자금은 오히려 부동산으로 몰려 부익부 빈익빈 현상이 심해지고 있다.",
+   "answer": "Khi giá hàng thiết yếu tăng và chỉ số cảm nhận kinh tế giảm, cuộc sống của người dân thường ngày càng khó khăn. Nhưng tiền đầu cơ lại đổ dồn vào bất động sản khiến hiện tượng giàu càng giàu nghèo càng nghèo nghiêm trọng hơn.",
+   "explain": "면서; 오히려."
+  },
+  {
+   "type": "read",
+   "q": "Nghe phỏng vấn và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "기자: 요즘 펀드 투자에 대해 어떻게 생각하십니까?\n전문가: 증시가 불안한 만큼 한 번에 큰돈을 넣는 거치식보다는 매달 조금씩 투자하는 적립식이 더 안전합니다. 그리고 장밋빛 전망만 믿고 투자하면 손해를 떠안기 십상이니까 금융 상품의 위험도 꼭 확인하셔야 합니다.",
+   "options": [
+    "전문가는 적립식 투자가 더 안전하다고 했다.",
+    "전문가는 거치식 투자를 추천했다.",
+    "증시가 매우 안정적이다.",
+    "금융 상품의 위험은 확인할 필요가 없다."
+   ],
+   "answer": "전문가는 적립식 투자가 더 안전하다고 했다.",
+   "explain": "적립식이 더 안전합니다."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu suy luận đúng. (Dạng TOPIK II Đọc câu 19~24)",
+   "kr": "두 강대국 사이의 무역 전쟁이 길어지면서 세계 증시가 크게 흔들리고 있다. 특히 수출 의존도가 높은 나라일수록 피해가 크다. 전문가들은 무역 전쟁이 끝나지 않는 한 경기 회복은 어려울 것이라고 본다.",
+   "options": [
+    "무역 전쟁이 계속되면 경기 회복이 어렵다.",
+    "무역 전쟁으로 세계 증시가 안정되었다.",
+    "수출 의존도가 높은 나라는 피해가 없다.",
+    "무역 전쟁은 이미 끝났다."
+   ],
+   "answer": "무역 전쟁이 계속되면 경기 회복이 어렵다.",
+   "explain": "끝나지 않는 한 … 어려울 것."
+  }
+ ]
+}

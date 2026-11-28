@@ -1,0 +1,404 @@
+{
+ "id": "bai-218",
+ "lesson": "Bài 218",
+ "title": "Khoa học và tương lai (phần 4/4)",
+ "krTitle": "과학과 미래 4",
+ "date": "2027-10-02",
+ "day": 318,
+ "source": "TOPIK 6 – Bài 2: Khoa học và tương lai (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "요긴하다",
+   "Yoginhada",
+   "Cần thiết, quan trọng",
+   "이 앱은 여행할 때 요긴하게 쓸 수 있어요.",
+   "Ứng dụng này dùng rất đắc lực khi đi du lịch."
+  ],
+  [
+   "원자폭탄",
+   "Wonjapoktan",
+   "Bom nguyên tử",
+   "원자폭탄은 엄청난 피해를 남겼어요.",
+   "Bom nguyên tử đã để lại thiệt hại khủng khiếp."
+  ],
+  [
+   "인공수정",
+   "Ingongsujeong",
+   "Thụ tinh nhân tạo",
+   "인공수정으로 아이를 갖게 되었어요.",
+   "Đã có con nhờ thụ tinh nhân tạo."
+  ],
+  [
+   "자가 수리",
+   "Jaga suri",
+   "Tự sửa chữa",
+   "간단한 고장은 자가 수리를 할 수 있어요.",
+   "Hỏng hóc đơn giản có thể tự sửa."
+  ],
+  [
+   "진공청소기",
+   "Jingongcheongsogi",
+   "Máy hút bụi chân không",
+   "진공청소기로 방을 청소했어요.",
+   "Dọn phòng bằng máy hút bụi."
+  ],
+  [
+   "체세포",
+   "Chesepo",
+   "Tế bào soma, tế bào thể",
+   "복제 양은 체세포를 이용해서 만들었어요.",
+   "Cừu nhân bản được tạo ra bằng tế bào soma."
+  ],
+  [
+   "촉망받다",
+   "Chongmangbatda",
+   "Được kỳ vọng nhiều",
+   "그는 촉망받는 젊은 과학자예요.",
+   "Anh ấy là nhà khoa học trẻ được kỳ vọng nhiều."
+  ],
+  [
+   "취학전",
+   "Chwihakjeon",
+   "Trước khi đi học (chưa đến tuổi đi học)",
+   "취학 전 아이들을 위한 과학 놀이 교실이 있어요.",
+   "Có lớp chơi khoa học cho trẻ chưa đến tuổi đi học."
+  ],
+  [
+   "친근하다",
+   "Chingeunhada",
+   "Thân cận, thân thiết",
+   "로봇이 사람처럼 친근하게 말해요.",
+   "Robot nói chuyện thân thiện như con người."
+  ],
+  [
+   "탄원서",
+   "Tanwonseo",
+   "Đơn kiến nghị",
+   "주민들이 공장 건설 반대 탄원서를 냈어요.",
+   "Người dân đã nộp đơn kiến nghị phản đối xây nhà máy."
+  ],
+  [
+   "태양열 조리기",
+   "Taeyangyeol jorigi",
+   "Thiết bị nấu ăn sử dụng năng lượng mặt trời",
+   "태양열 조리기로 밥을 지어 봤어요.",
+   "Tôi đã thử nấu cơm bằng bếp năng lượng mặt trời."
+  ],
+  [
+   "폐질환",
+   "Pyejilhwan",
+   "Bệnh phổi",
+   "미세먼지는 폐질환을 일으킬 수 있어요.",
+   "Bụi mịn có thể gây bệnh phổi."
+  ],
+  [
+   "포유류",
+   "Poyuryu",
+   "Động vật hữu nhũ, động vật có vú",
+   "고래는 물고기가 아니라 포유류예요.",
+   "Cá voi không phải cá mà là động vật có vú."
+  ],
+  [
+   "표면",
+   "Pyomyeon",
+   "Bề mặt",
+   "달 표면에는 구멍이 많아요.",
+   "Bề mặt mặt trăng có nhiều hố."
+  ],
+  [
+   "표정을 짓다",
+   "Pyojeongeul jitda",
+   "Làm vẻ mặt",
+   "그는 놀란 표정을 지었어요.",
+   "Anh ấy làm vẻ mặt ngạc nhiên."
+  ],
+  [
+   "한결",
+   "Hangyeol",
+   "Hơn hẳn, rõ rệt hơn",
+   "새 기계를 쓰니까 일이 한결 쉬워졌어요.",
+   "Dùng máy mới nên công việc dễ hơn hẳn."
+  ],
+  [
+   "항생제",
+   "Hangsaengje",
+   "Thuốc kháng sinh",
+   "의사가 항생제를 처방해 줬어요.",
+   "Bác sĩ đã kê thuốc kháng sinh."
+  ],
+  [
+   "해저",
+   "Haejeo",
+   "Đáy biển",
+   "해저 터널로 두 섬을 연결했어요.",
+   "Đã nối hai đảo bằng đường hầm dưới đáy biển."
+  ],
+  [
+   "행성",
+   "Haeng Sung",
+   "Hành tinh",
+   "화성은 태양계의 네 번째 행성이에요.",
+   "Sao Hỏa là hành tinh thứ tư của hệ Mặt Trời."
+  ],
+  [
+   "호전되다",
+   "Hojeondoeda",
+   "Được tiến triển",
+   "새 치료법 덕분에 환자의 상태가 호전되었어요.",
+   "Nhờ phương pháp chữa mới mà tình trạng bệnh nhân đã tiến triển."
+  ],
+  [
+   "후퇴하다",
+   "Hutoehada",
+   "Rút lui, thụt lùi",
+   "경기가 침체되면 기술 투자가 후퇴할 수 있어요.",
+   "Kinh tế trì trệ thì đầu tư công nghệ có thể thụt lùi."
+  ],
+  [
+   "흠집이 생기다",
+   "Heumjibi saenggida",
+   "Có vết nứt, khe hở",
+   "떨어뜨려서 노트북에 흠집이 생겼어요.",
+   "Làm rơi nên laptop bị trầy xước."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄹ 겸 (해서) — Kiêm, vừa để",
+   "meaning": "Làm MỘT hành động nhưng đồng thời đạt HAI (hoặc nhiều) mục đích: 'vừa để… vừa để…, nhân tiện…, kiêm…'. Chia: có patchim → 을 겸 (읽을 겸); không patchim/ㄹ → ㄹ 겸 (쉴 겸, 놀 겸). Mẫu đầy đủ: V1(으)ㄹ 겸 V2(으)ㄹ 겸 (해서) + hành động: 운동도 할 겸 경치도 볼 겸 산에 갔어요 (đi núi vừa để tập thể dục vừa để ngắm cảnh). Thường có 도 đi kèm: ~도 할 겸. Danh từ: N 겸 N (kiêm): 거실 겸 공부방 (phòng khách kiêm phòng học), 아침 겸 점심 (bữa sáng kiêm trưa = brunch). 해서 có thể lược bỏ. So sánh: (으)러 (để – một mục đích, chỉ với động từ đi/đến); (으)려고 (để – một mục đích); (으)ㄹ 겸 = nhiều mục đích cùng lúc.",
+   "examples": [
+    "바람도 쐴 겸 과학관 구경도 할 겸 나왔어요. — Tôi ra ngoài vừa để hóng gió vừa để tham quan bảo tàng khoa học.",
+    "한국어도 연습할 겸 친구도 사귈 겸 동아리에 가입했어요. — Tôi tham gia câu lạc bộ vừa để luyện tiếng Hàn vừa để kết bạn.",
+    "운동할 겸 걸어서 출근해요. — Tôi đi bộ đi làm, nhân tiện tập thể dục.",
+    "이 방은 거실 겸 서재로 써요. — Phòng này dùng làm phòng khách kiêm phòng đọc sách."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Cá voi, chó, người thuộc nhóm động vật nào?",
+   "kr": "",
+   "options": [
+    "포유류",
+    "미생물",
+    "행성"
+   ],
+   "answer": "포유류",
+   "explain": "포유류 = động vật có vú."
+  },
+  {
+   "type": "choice",
+   "q": "Thuốc dùng để diệt vi khuẩn gọi là gì?",
+   "kr": "",
+   "options": [
+    "항생제",
+    "체세포",
+    "탄원서"
+   ],
+   "answer": "항생제",
+   "explain": "항생제 = kháng sinh."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 악화되다 (xấu đi) là gì?",
+   "kr": "",
+   "options": [
+    "호전되다",
+    "후퇴하다",
+    "흠집이 생기다"
+   ],
+   "answer": "호전되다",
+   "explain": "호전 = chuyển biến tốt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Dùng máy mới nên công việc dễ hơn hẳn.",
+   "kr": "새 기계를 쓰니까 일이 ___ 쉬워졌어요.",
+   "options": [
+    "한결",
+    "요긴하게",
+    "친근하게"
+   ],
+   "answer": "한결",
+   "explain": "한결 = hơn hẳn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tôi đi bộ đi làm, nhân tiện tập thể dục.'",
+   "kr": "",
+   "options": [
+    "운동할 겸 걸어서 출근해요.",
+    "운동한 겸 걸어서 출근해요.",
+    "운동하는 겸 걸어서 출근해요."
+   ],
+   "answer": "운동할 겸 걸어서 출근해요.",
+   "explain": "Luôn là (으)ㄹ 겸."
+  },
+  {
+   "type": "choice",
+   "q": "'아침 겸 점심' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Bữa sáng kiêm bữa trưa",
+    "Bữa sáng và bữa trưa riêng",
+    "Bữa tối"
+   ],
+   "answer": "Bữa sáng kiêm bữa trưa",
+   "explain": "N 겸 N = kiêm."
+  },
+  {
+   "type": "choice",
+   "q": "Khi nào dùng (으)ㄹ 겸 thay vì (으)려고?",
+   "kr": "",
+   "options": [
+    "Khi một hành động có nhiều mục đích cùng lúc",
+    "Khi chỉ có một mục đích",
+    "Khi nói về quá khứ xa"
+   ],
+   "answer": "Khi một hành động có nhiều mục đích cùng lúc",
+   "explain": "겸 = kiêm, nhiều mục đích."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bác sĩ kê thuốc kháng sinh.",
+   "kr": "의사가 ___를 처방해 줬어요.",
+   "options": [
+    "항생제",
+    "진공청소기",
+    "해저"
+   ],
+   "answer": "항생제",
+   "explain": "항생제."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 겸 với 쐬다 và 하다: Ra ngoài vừa để hóng gió vừa tham quan.",
+   "kr": "바람도 ___ 구경도 할 겸 나왔어요.",
+   "answer": [
+    "쐴 겸"
+   ],
+   "explain": "쐬다 → 쐴 겸."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ 겸 với 연습하다: Vừa để luyện tiếng Hàn vừa để kết bạn.",
+   "kr": "한국어도 ___ 친구도 사귈 겸 동아리에 가입했어요.",
+   "answer": [
+    "연습할 겸"
+   ],
+   "explain": "연습할 겸."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Anh ấy làm vẻ mặt ngạc nhiên.",
+   "kr": "그는 놀란 표정을 ___.",
+   "answer": [
+    "지었어요"
+   ],
+   "explain": "표정을 짓다 (bất quy tắc ㅅ)."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Sao Hỏa là hành tinh thứ tư của hệ Mặt Trời.",
+   "kr": "화성은 태양계의 네 번째 ___이에요.",
+   "answer": [
+    "행성"
+   ],
+   "explain": "행성."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phòng này dùng làm phòng khách kiêm phòng đọc.",
+   "tokens": [
+    "이",
+    "방은",
+    "거실",
+    "겸",
+    "서재로",
+    "써요"
+   ],
+   "answer": "이 방은 거실 겸 서재로 써요",
+   "explain": "N 겸 N."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bụi mịn có thể gây bệnh phổi.",
+   "tokens": [
+    "미세먼지는",
+    "폐질환을",
+    "일으킬",
+    "수",
+    "있어요"
+   ],
+   "answer": "미세먼지는 폐질환을 일으킬 수 있어요",
+   "explain": "일으키다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đến Hàn Quốc vừa để học vừa để du lịch. (dùng (으)ㄹ 겸)",
+   "answer": [
+    "공부도 할 겸 여행도 할 겸 한국에 왔어요.",
+    "공부할 겸 여행할 겸 한국에 왔어요.",
+    "공부도 하고 여행도 할 겸 한국에 왔어요.",
+    "공부도 할 겸 여행도 할 겸 해서 한국에 왔어요."
+   ],
+   "explain": "(으)ㄹ 겸 … (으)ㄹ 겸."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cá voi không phải cá mà là động vật có vú.",
+   "answer": [
+    "고래는 물고기가 아니라 포유류예요.",
+    "고래는 물고기가 아니고 포유류예요."
+   ],
+   "explain": "N이/가 아니라."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Làm rơi nên laptop bị trầy.",
+   "answer": [
+    "떨어뜨려서 노트북에 흠집이 생겼어요.",
+    "노트북을 떨어뜨려서 흠집이 생겼어요."
+   ],
+   "explain": "흠집이 생기다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "촉망받는 젊은 과학자들이 해저와 다른 행성을 탐사하는 기술을 개발하고 있다. 이런 연구는 우주에 대한 호기심을 풀 겸 미래의 자원을 찾을 겸 진행되고 있다.",
+   "answer": "Các nhà khoa học trẻ được kỳ vọng đang phát triển công nghệ thám hiểm đáy biển và các hành tinh khác. Những nghiên cứu này được tiến hành vừa để thỏa trí tò mò về vũ trụ vừa để tìm tài nguyên cho tương lai.",
+   "explain": "(으)ㄹ 겸."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 주말에 뭐 할 거예요?\n여자: 아이 과학 숙제도 도와줄 겸 바람도 쐴 겸 과학관에 가려고요. 그런데 표를 미리 사야 하나요?\n남자: 주말에는 사람이 많아서 인터넷으로 예매하는 게 좋아요.\n여자: 그래요? 그럼 지금 바로 예매해야겠네요.",
+   "options": [
+    "과학관 표를 인터넷으로 예매한다.",
+    "아이 숙제를 한다.",
+    "과학관에 간다.",
+    "남자에게 표를 산다."
+   ],
+   "answer": "과학관 표를 인터넷으로 예매한다.",
+   "explain": "지금 바로 예매해야겠네요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "신약 임상 시험 '청신호'… 폐질환 환자 80% 호전",
+   "options": [
+    "새 약을 시험한 결과 폐질환 환자 대부분의 상태가 좋아졌다.",
+    "새 약 때문에 폐질환 환자가 80% 늘었다.",
+    "새 약 시험이 중단되었다.",
+    "폐질환 환자 80%가 약을 거부했다."
+   ],
+   "answer": "새 약을 시험한 결과 폐질환 환자 대부분의 상태가 좋아졌다.",
+   "explain": "청신호 = tín hiệu tốt; 호전 = chuyển biến tốt."
+  }
+ ]
+}

@@ -1,0 +1,392 @@
+{
+ "id": "bai-186",
+ "lesson": "Bài 186",
+ "title": "Văn hóa đại chúng (phần 1/4)",
+ "krTitle": "대중문화 1",
+ "date": "2027-08-15",
+ "day": 270,
+ "source": "TOPIK 5 – Bài 10: Văn hóa đại chúng (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "대중가요",
+   "Daejunggayo",
+   "Âm nhạc đại chúng",
+   "부모님은 옛날 대중가요를 좋아하세요.",
+   "Bố mẹ tôi thích nhạc đại chúng ngày xưa."
+  ],
+  [
+   "판소리",
+   "Pansori",
+   "Pansori, loại kịch độc diễn truyền thống của Hàn Quốc",
+   "판소리 한 마당은 몇 시간이나 걸려요.",
+   "Một vở pansori kéo dài tới mấy tiếng."
+  ],
+  [
+   "퓨전 문화",
+   "Pyujeon munhwa",
+   "Văn hóa dung hợp (fusion)",
+   "한식과 양식을 섞은 퓨전 문화가 유행이에요.",
+   "Văn hóa dung hợp trộn món Hàn và món Âu đang thịnh hành."
+  ],
+  [
+   "콘서트",
+   "Konseoteu",
+   "Hòa nhạc",
+   "좋아하는 가수의 콘서트 표를 샀어요.",
+   "Tôi đã mua vé buổi hòa nhạc của ca sĩ mình thích."
+  ],
+  [
+   "탈춤",
+   "Talchum",
+   "Múa mặt nạ",
+   "안동에서 탈춤 공연을 봤어요.",
+   "Tôi đã xem biểu diễn múa mặt nạ ở Andong."
+  ],
+  [
+   "뮤지컬",
+   "Myujikeol",
+   "Nhạc kịch",
+   "주말에 뮤지컬을 보러 가요.",
+   "Cuối tuần tôi đi xem nhạc kịch."
+  ],
+  [
+   "사물놀이",
+   "Samullori",
+   "Samulnori, hình thức biểu diễn âm nhạc truyền thống của Hàn Quốc với 4 loại nhạc khí khác nhau",
+   "사물놀이 소리가 정말 신나요.",
+   "Tiếng samulnori thật sôi động."
+  ],
+  [
+   "대중화",
+   "Daejunghwa",
+   "Đại chúng hóa",
+   "인터넷 덕분에 클래식 음악의 대중화가 이루어졌어요.",
+   "Nhờ internet, nhạc cổ điển đã được đại chúng hóa."
+  ],
+  [
+   "예술성",
+   "Yesulseong",
+   "Tính nghệ thuật",
+   "이 영화는 예술성과 재미를 모두 갖췄어요.",
+   "Bộ phim này có cả tính nghệ thuật lẫn sự thú vị."
+  ],
+  [
+   "대량생산",
+   "Daeryangsaengsan",
+   "Sản xuất hàng loạt",
+   "대량생산 덕분에 물건값이 싸졌어요.",
+   "Nhờ sản xuất hàng loạt mà giá đồ rẻ đi."
+  ],
+  [
+   "비평하다",
+   "Bipyeonghada",
+   "Phê bình",
+   "그 평론가는 새 영화를 날카롭게 비평했어요.",
+   "Nhà phê bình đó đã phê bình gay gắt bộ phim mới."
+  ],
+  [
+   "독점하다",
+   "Dokjeomhada",
+   "Độc quyền",
+   "한 회사가 시장을 독점하면 소비자가 손해를 봐요.",
+   "Một công ty độc quyền thị trường thì người tiêu dùng chịu thiệt."
+  ],
+  [
+   "상업주의",
+   "Sangeopjuui",
+   "Chủ nghĩa thương mại",
+   "지나친 상업주의가 문화를 망칠 수 있어요.",
+   "Chủ nghĩa thương mại thái quá có thể làm hỏng văn hóa."
+  ],
+  [
+   "선정성",
+   "Seonjeongseong",
+   "Tính khiêu dâm, gợi dục",
+   "방송의 선정성이 문제가 되고 있어요.",
+   "Tính khiêu dâm của chương trình phát sóng đang trở thành vấn đề."
+  ],
+  [
+   "몰개성",
+   "Molgaeseong",
+   "Không có cá tính",
+   "요즘 아이돌 노래는 몰개성하다는 비판도 있어요.",
+   "Cũng có phê phán rằng nhạc idol dạo này thiếu cá tính."
+  ],
+  [
+   "다채롭다",
+   "Dachaeropda",
+   "Đa dạng, muôn hình vạn trạng",
+   "축제에서 다채로운 공연이 열렸어요.",
+   "Nhiều buổi biểu diễn đa dạng được tổ chức ở lễ hội."
+  ],
+  [
+   "풍자하다",
+   "Pungjahada",
+   "Châm biếm, trào phúng",
+   "탈춤은 양반을 풍자하는 내용이 많아요.",
+   "Múa mặt nạ có nhiều nội dung châm biếm tầng lớp quý tộc."
+  ],
+  [
+   "상업화",
+   "Sangeopwa",
+   "Thương mại hóa",
+   "전통문화의 지나친 상업화를 걱정하는 사람도 있어요.",
+   "Cũng có người lo lắng về sự thương mại hóa quá mức văn hóa truyền thống."
+  ],
+  [
+   "획일화",
+   "Hoegilhwa",
+   "Sự đồng nhất hóa, sự trở nên đồng nhất, sự làm cho đồng nhất",
+   "모두 같은 옷을 입는 것은 문화의 획일화예요.",
+   "Mọi người mặc giống nhau là sự đồng nhất hóa văn hóa."
+  ],
+  [
+   "상품화",
+   "Sangpumhwa",
+   "Sản phẩm hóa",
+   "캐릭터 상품화로 큰돈을 벌었어요.",
+   "Kiếm được khoản tiền lớn nhờ sản phẩm hóa nhân vật."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 는 통에 — Vì (ồn ào, lộn xộn)",
+   "meaning": "Nêu NGUYÊN NHÂN gây ra kết quả TIÊU CỰC, thường là do một tình huống ồn ào, hỗn loạn, bất ngờ: 'vì… (lộn xộn) nên…, tại… mà…'. Gắn vào thân động từ: 떠들다 → 떠드는 통에, 울다 → 우는 통에, 갑자기 비가 오다 → 갑자기 비가 오는 통에. Danh từ: N 통에 (난리 통에, 전쟁 통에 = trong lúc loạn lạc). Vế sau là kết quả không mong muốn, thường ở quá khứ: 못 했어요, 늦었어요, 잠을 못 잤어요. KHÔNG dùng với mệnh lệnh / rủ rê. So sánh: 기 때문에 (lý do chung, trung tính); 는 바람에 (kết quả bất ngờ, ngoài ý muốn); 는 통에 nhấn mạnh hoàn cảnh ồn ào, hỗn loạn, phức tạp gây ra kết quả xấu.",
+   "examples": [
+    "옆집에서 사물놀이 연습을 하는 통에 잠을 못 잤어요. — Tại nhà bên tập samulnori nên tôi không ngủ được.",
+    "관객들이 떠드는 통에 뮤지컬에 집중할 수 없었어요. — Vì khán giả ồn ào nên không tập trung xem nhạc kịch được.",
+    "아이가 우는 통에 전화 내용을 못 들었어요. — Tại em bé khóc nên tôi không nghe được nội dung cuộc gọi.",
+    "콘서트장이 난리 통이라서 친구를 잃어버렸어요. — Hội trường hòa nhạc hỗn loạn nên tôi lạc mất bạn."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Hình thức biểu diễn âm nhạc truyền thống với 4 loại nhạc cụ gõ gọi là gì?",
+   "kr": "",
+   "options": [
+    "사물놀이",
+    "판소리",
+    "탈춤"
+   ],
+   "answer": "사물놀이",
+   "explain": "사물 = 4 nhạc cụ (꽹과리, 징, 장구, 북)."
+  },
+  {
+   "type": "choice",
+   "q": "Một người hát kể chuyện dài, có người đánh trống đệm gọi là gì?",
+   "kr": "",
+   "options": [
+    "판소리",
+    "뮤지컬",
+    "대중가요"
+   ],
+   "answer": "판소리",
+   "explain": "판소리 = hát kể truyền thống."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Múa mặt nạ có nhiều nội dung châm biếm quý tộc.",
+   "kr": "탈춤은 양반을 ___ 내용이 많아요.",
+   "options": [
+    "풍자하는",
+    "독점하는",
+    "비평하는"
+   ],
+   "answer": "풍자하는",
+   "explain": "풍자하다 = châm biếm."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA gần nhất với 다채롭다 (đa dạng) là gì?",
+   "kr": "",
+   "options": [
+    "획일화",
+    "대중화",
+    "상품화"
+   ],
+   "answer": "획일화",
+   "explain": "획일화 = đồng nhất hóa (một kiểu)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Tại khán giả ồn ào nên không tập trung được.'",
+   "kr": "",
+   "options": [
+    "관객들이 떠드는 통에 집중할 수 없었어요.",
+    "관객들이 떠든 통에 집중할 수 없었어요.",
+    "관객들이 떠들는 통에 집중할 수 없었어요."
+   ],
+   "answer": "관객들이 떠드는 통에 집중할 수 없었어요.",
+   "explain": "떠들다 → 떠드는 통에 (bỏ ㄹ)."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 는 통에 SAI?",
+   "kr": "",
+   "options": [
+    "비가 오는 통에 우산을 가져가세요.",
+    "비가 오는 통에 공연이 취소됐어요.",
+    "아이가 우는 통에 잠을 못 잤어요."
+   ],
+   "answer": "비가 오는 통에 우산을 가져가세요.",
+   "explain": "는 통에 không đi với mệnh lệnh."
+  },
+  {
+   "type": "choice",
+   "q": "는 통에 thường dẫn đến kết quả như thế nào?",
+   "kr": "",
+   "options": [
+    "Tiêu cực, không mong muốn",
+    "Tích cực, vui vẻ",
+    "Kế hoạch tương lai"
+   ],
+   "answer": "Tiêu cực, không mong muốn",
+   "explain": "Kết quả xấu do hoàn cảnh hỗn loạn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Một công ty độc quyền thị trường thì người tiêu dùng chịu thiệt.",
+   "kr": "한 회사가 시장을 ___ 소비자가 손해를 봐요.",
+   "options": [
+    "독점하면",
+    "풍자하면",
+    "비평하면"
+   ],
+   "answer": "독점하면",
+   "explain": "독점하다 = độc quyền."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 통에 với 울다: Tại em bé khóc nên không nghe được cuộc gọi.",
+   "kr": "아이가 ___ 전화 내용을 못 들었어요.",
+   "answer": [
+    "우는 통에"
+   ],
+   "explain": "울다 → 우는 통에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 는 통에 với 공사하다: Tại nhà bên sửa nhà nên ồn quá không học được.",
+   "kr": "옆집에서 ___ 시끄러워서 공부를 못 했어요.",
+   "answer": [
+    "공사하는 통에"
+   ],
+   "explain": "공사하는 통에."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nhờ sản xuất hàng loạt mà giá đồ rẻ đi.",
+   "kr": "___ 덕분에 물건값이 싸졌어요.",
+   "answer": [
+    "대량생산"
+   ],
+   "explain": "대량생산."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Bộ phim này có cả tính nghệ thuật lẫn sự thú vị.",
+   "kr": "이 영화는 ___과 재미를 모두 갖췄어요.",
+   "answer": [
+    "예술성"
+   ],
+   "explain": "예술성."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Tại nhà bên tập samulnori nên tôi không ngủ được.",
+   "tokens": [
+    "옆집에서",
+    "사물놀이",
+    "연습을",
+    "하는",
+    "통에",
+    "잠을",
+    "못",
+    "잤어요"
+   ],
+   "answer": "옆집에서 사물놀이 연습을 하는 통에 잠을 못 잤어요",
+   "explain": "V는 통에 + kết quả xấu."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cuối tuần tôi đi xem nhạc kịch.",
+   "tokens": [
+    "주말에",
+    "뮤지컬을",
+    "보러",
+    "가요"
+   ],
+   "answer": "주말에 뮤지컬을 보러 가요",
+   "explain": "(으)러 가다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tại người phía sau nói chuyện nên tôi không xem phim được. (dùng 는 통에)",
+   "answer": [
+    "뒤에 있는 사람이 이야기하는 통에 영화를 못 봤어요.",
+    "뒷사람이 떠드는 통에 영화를 못 봤어요.",
+    "뒤에 있는 사람이 이야기하는 통에 영화를 볼 수 없었어요.",
+    "뒤에 앉은 사람이 떠드는 통에 영화를 못 봤어요."
+   ],
+   "explain": "는 통에 + 못 V."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã mua vé hòa nhạc của ca sĩ mình thích.",
+   "answer": [
+    "좋아하는 가수의 콘서트 표를 샀어요.",
+    "제가 좋아하는 가수의 콘서트 표를 샀어요.",
+    "좋아하는 가수 콘서트 표를 샀어요."
+   ],
+   "explain": "콘서트 표."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhiều buổi biểu diễn đa dạng được tổ chức ở lễ hội.",
+   "answer": [
+    "축제에서 다채로운 공연이 열렸어요.",
+    "축제에서 다양한 공연이 열렸어요."
+   ],
+   "explain": "다채롭다 → 다채로운."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "대중문화가 상업화되면서 비슷한 노래와 드라마가 대량생산되고 있다. 이런 획일화는 대중문화의 예술성을 떨어뜨린다는 비판을 받는다.",
+   "answer": "Khi văn hóa đại chúng bị thương mại hóa, các bài hát và phim truyền hình na ná nhau đang được sản xuất hàng loạt. Sự đồng nhất hóa này bị phê phán là làm giảm tính nghệ thuật của văn hóa đại chúng.",
+   "explain": "상업화, 대량생산, 획일화."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "여자: 공연 어땠어요?\n남자: 앞자리 사람들이 계속 사진을 찍는 통에 제대로 못 봤어요.\n여자: 저런, 정말 속상했겠네요.",
+   "options": [
+    "남자는 공연을 제대로 보지 못했다.",
+    "남자가 사진을 찍었다.",
+    "여자는 공연을 같이 봤다.",
+    "공연이 취소되었다."
+   ],
+   "answer": "남자는 공연을 제대로 보지 못했다.",
+   "explain": "사진을 찍는 통에 제대로 못 봤어요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【한여름 밤 전통 공연】\n· 판소리, 사물놀이, 탈춤\n· 매주 토요일 저녁 7시, 시민공원 야외무대\n· 무료 (비가 오면 취소)",
+   "options": [
+    "비가 오면 공연을 하지 않는다.",
+    "공연은 매일 열린다.",
+    "입장료를 내야 한다.",
+    "실내에서 공연한다."
+   ],
+   "answer": "비가 오면 공연을 하지 않는다.",
+   "explain": "비가 오면 취소."
+  }
+ ]
+}

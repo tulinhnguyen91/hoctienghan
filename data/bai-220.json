@@ -1,0 +1,384 @@
+{
+ "id": "bai-220",
+ "lesson": "Bài 220",
+ "title": "Tiếng Hàn Quốc và xã hội (phần 2/5)",
+ "krTitle": "한국어와 사회 2",
+ "date": "2027-10-05",
+ "day": 321,
+ "source": "TOPIK 6 – Bài 3: Tiếng Hàn Quốc và xã hội (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "억양",
+   "Eogyang",
+   "Ngữ điệu",
+   "의문문은 끝을 올리는 억양으로 말해요.",
+   "Câu hỏi nói với ngữ điệu lên giọng ở cuối."
+  ],
+  [
+   "이중모음",
+   "Ijungmoeum",
+   "Nguyên âm đôi",
+   "'ㅘ, ㅝ, ㅢ'는 이중모음이에요.",
+   "'ㅘ, ㅝ, ㅢ' là nguyên âm đôi."
+  ],
+  [
+   "평서문",
+   "Pyeongseomun",
+   "Câu trần thuật",
+   "'저는 학생입니다.'는 평서문이에요.",
+   "'Tôi là sinh viên.' là câu trần thuật."
+  ],
+  [
+   "긍정문",
+   "Geungjeongmun",
+   "Câu khẳng định",
+   "긍정문을 부정문으로 바꿔 보세요.",
+   "Hãy đổi câu khẳng định thành câu phủ định."
+  ],
+  [
+   "주어",
+   "Jueo",
+   "Chủ ngữ",
+   "한국어에서는 주어를 자주 생략해요.",
+   "Trong tiếng Hàn chủ ngữ hay bị lược bỏ."
+  ],
+  [
+   "어미",
+   "Eomi",
+   "Đuôi từ, vĩ tố",
+   "어미에 따라 문장의 뜻이 달라져요.",
+   "Nghĩa câu thay đổi theo đuôi từ."
+  ],
+  [
+   "의문문",
+   "Uimunmun",
+   "Câu nghi vấn, câu hỏi",
+   "의문문은 물음표로 끝나요.",
+   "Câu hỏi kết thúc bằng dấu hỏi."
+  ],
+  [
+   "부정문",
+   "Bujeongmun",
+   "Câu phủ định",
+   "'안'이나 '못'을 써서 부정문을 만들어요.",
+   "Dùng 'an' hoặc 'mot' để tạo câu phủ định."
+  ],
+  [
+   "목적어",
+   "Mokjeogeo",
+   "Tân ngữ",
+   "'밥을 먹어요'에서 '밥'은 목적어예요.",
+   "Trong 'bap-eul meogeoyo', 'bap' là tân ngữ."
+  ],
+  [
+   "조사",
+   "Josa",
+   "Tiểu từ, trợ từ",
+   "한국어는 조사가 발달한 언어예요.",
+   "Tiếng Hàn là ngôn ngữ có hệ thống trợ từ phát triển."
+  ],
+  [
+   "명령문",
+   "Myeongnyeongmun",
+   "Câu mệnh lệnh, câu đề nghị",
+   "'빨리 오세요.'는 명령문이에요.",
+   "'Hãy đến nhanh lên.' là câu mệnh lệnh."
+  ],
+  [
+   "감탄문",
+   "Gamtanmun",
+   "Câu cảm thán",
+   "'정말 아름답구나!'는 감탄문이에요.",
+   "'Đẹp quá đi!' là câu cảm thán."
+  ],
+  [
+   "서술어",
+   "Seosureo",
+   "Vị ngữ",
+   "한국어는 서술어가 문장 끝에 와요.",
+   "Trong tiếng Hàn vị ngữ đứng cuối câu."
+  ],
+  [
+   "어순",
+   "Eosun",
+   "Trật tự từ",
+   "한국어와 베트남어는 어순이 달라요.",
+   "Tiếng Hàn và tiếng Việt có trật tự từ khác nhau."
+  ],
+  [
+   "한글",
+   "Hangeul",
+   "Chữ Hangeul",
+   "한글은 배우기 쉬운 문자예요.",
+   "Hangeul là chữ viết dễ học."
+  ],
+  [
+   "키릴문자",
+   "Kirilmunja",
+   "Chữ Kirin (Cyrillic)",
+   "러시아어는 키릴문자로 써요.",
+   "Tiếng Nga viết bằng chữ Kirin."
+  ],
+  [
+   "한자",
+   "Hanja",
+   "Chữ Hán",
+   "옛날에는 한자로 글을 썼어요.",
+   "Ngày xưa viết bằng chữ Hán."
+  ],
+  [
+   "대문자",
+   "Daemunja",
+   "Chữ hoa",
+   "영어 문장은 대문자로 시작해요.",
+   "Câu tiếng Anh bắt đầu bằng chữ hoa."
+  ],
+  [
+   "알파벳",
+   "Alpabet",
+   "Bảng chữ cái A, B, C",
+   "아이들이 알파벳 노래를 불러요.",
+   "Bọn trẻ hát bài hát bảng chữ cái."
+  ],
+  [
+   "소문자",
+   "Somunja",
+   "Chữ thường",
+   "이메일 주소는 소문자로 써 주세요.",
+   "Hãy viết địa chỉ email bằng chữ thường."
+  ],
+  [
+   "능통하다",
+   "Neungtonghada",
+   "Thông thạo",
+   "그는 3개 국어에 능통해요.",
+   "Anh ấy thông thạo ba ngôn ngữ."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Trong câu '민수가 사과를 먹어요', '사과' là gì?",
+   "kr": "",
+   "options": [
+    "목적어",
+    "주어",
+    "서술어"
+   ],
+   "answer": "목적어",
+   "explain": "Đối tượng của hành động = tân ngữ."
+  },
+  {
+   "type": "choice",
+   "q": "Trong câu '민수가 사과를 먹어요', '먹어요' là gì?",
+   "kr": "",
+   "options": [
+    "서술어",
+    "목적어",
+    "조사"
+   ],
+   "answer": "서술어",
+   "explain": "Vị ngữ, đứng cuối câu."
+  },
+  {
+   "type": "choice",
+   "q": "'이/가, 을/를, 에서' thuộc loại từ nào?",
+   "kr": "",
+   "options": [
+    "조사",
+    "어미",
+    "대문자"
+   ],
+   "answer": "조사",
+   "explain": "조사 = trợ từ."
+  },
+  {
+   "type": "choice",
+   "q": "'같이 갑시다.' là loại câu gì?",
+   "kr": "",
+   "options": [
+    "청유문/명령문 (câu đề nghị)",
+    "감탄문",
+    "평서문"
+   ],
+   "answer": "청유문/명령문 (câu đề nghị)",
+   "explain": "ㅂ시다 = rủ rê/đề nghị."
+  },
+  {
+   "type": "choice",
+   "q": "'와, 정말 맛있구나!' là loại câu gì?",
+   "kr": "",
+   "options": [
+    "감탄문",
+    "의문문",
+    "부정문"
+   ],
+   "answer": "감탄문",
+   "explain": "구나 = cảm thán."
+  },
+  {
+   "type": "choice",
+   "q": "Trật tự từ cơ bản của tiếng Hàn là gì?",
+   "kr": "",
+   "options": [
+    "주어 - 목적어 - 서술어",
+    "주어 - 서술어 - 목적어",
+    "서술어 - 주어 - 목적어"
+   ],
+   "answer": "주어 - 목적어 - 서술어",
+   "explain": "S-O-V."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Anh ấy thông thạo ba ngôn ngữ.",
+   "kr": "그는 3개 국어에 ___.",
+   "options": [
+    "능통해요",
+    "생략해요",
+    "달라져요"
+   ],
+   "answer": "능통해요",
+   "explain": "N에 능통하다."
+  },
+  {
+   "type": "choice",
+   "q": "Nguyên âm nào là nguyên âm đôi?",
+   "kr": "",
+   "options": [
+    "ㅘ",
+    "ㅏ",
+    "ㅗ"
+   ],
+   "answer": "ㅘ",
+   "explain": "ㅘ = ㅗ + ㅏ."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trong tiếng Hàn chủ ngữ hay bị lược bỏ.",
+   "kr": "한국어에서는 ___를 자주 생략해요.",
+   "answer": [
+    "주어"
+   ],
+   "explain": "주어."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nghĩa câu thay đổi theo đuôi từ.",
+   "kr": "___에 따라 문장의 뜻이 달라져요.",
+   "answer": [
+    "어미"
+   ],
+   "explain": "어미."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Câu tiếng Anh bắt đầu bằng chữ hoa.",
+   "kr": "영어 문장은 ___로 시작해요.",
+   "answer": [
+    "대문자"
+   ],
+   "explain": "대문자 ↔ 소문자."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tiếng Hàn và tiếng Việt có trật tự từ khác nhau.",
+   "kr": "한국어와 베트남어는 ___이 달라요.",
+   "answer": [
+    "어순"
+   ],
+   "explain": "어순."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Trong tiếng Hàn vị ngữ đứng cuối câu.",
+   "tokens": [
+    "한국어는",
+    "서술어가",
+    "문장",
+    "끝에",
+    "와요"
+   ],
+   "answer": "한국어는 서술어가 문장 끝에 와요",
+   "explain": "S-O-V."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hãy đổi câu khẳng định thành câu phủ định.",
+   "tokens": [
+    "긍정문을",
+    "부정문으로",
+    "바꿔",
+    "보세요"
+   ],
+   "answer": "긍정문을 부정문으로 바꿔 보세요",
+   "explain": "N을 N으로 바꾸다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hangeul là chữ viết dễ học.",
+   "answer": [
+    "한글은 배우기 쉬운 문자예요.",
+    "한글은 배우기 쉬운 글자예요."
+   ],
+   "explain": "V기 쉽다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy viết địa chỉ email bằng chữ thường.",
+   "answer": [
+    "이메일 주소는 소문자로 써 주세요.",
+    "이메일 주소를 소문자로 써 주세요.",
+    "이메일 주소는 소문자로 쓰세요."
+   ],
+   "explain": "(으)로 쓰다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ngày xưa viết bằng chữ Hán.",
+   "answer": [
+    "옛날에는 한자로 글을 썼어요.",
+    "옛날에는 한자로 썼어요.",
+    "예전에는 한자로 글을 썼어요."
+   ],
+   "explain": "한자로."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국어는 '주어-목적어-서술어'의 어순을 가지며 조사와 어미가 발달했다. 그래서 조사만 정확하면 어순을 조금 바꿔도 뜻이 통하는 경우가 많다.",
+   "answer": "Tiếng Hàn có trật tự 'chủ ngữ – tân ngữ – vị ngữ', và trợ từ cùng đuôi từ phát triển. Vì vậy chỉ cần trợ từ chính xác thì dù đổi trật tự từ một chút, nhiều khi vẫn hiểu được nghĩa.",
+   "explain": "(으)며; 만 … 면."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người đàn ông. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "여자: 한국어 문법은 너무 복잡한 것 같아요. 조사도 많고 어미도 많아요.\n남자: 처음에는 그렇게 느낄 수 있어요. 하지만 한국어는 서술어가 항상 문장 끝에 오고 규칙이 분명한 편이에요. 기본 어순과 자주 쓰는 조사부터 확실히 익히면 훨씬 쉬워질 거예요.",
+   "options": [
+    "기본 어순과 조사부터 익히면 쉬워진다.",
+    "한국어 문법은 규칙이 없다.",
+    "어미는 배울 필요가 없다.",
+    "한국어는 배우기 불가능하다."
+   ],
+   "answer": "기본 어순과 조사부터 익히면 쉬워진다.",
+   "explain": "기본 어순과 … 조사부터 확실히 익히면 …"
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "그녀는 영어와 중국어에 <능통해서> 통역사로 일하고 있다.",
+   "options": [
+    "유창해서",
+    "부족해서",
+    "관심이 있어서",
+    "서툴러서"
+   ],
+   "answer": "유창해서",
+   "explain": "능통하다 ≈ 유창하다 (thông thạo, trôi chảy)."
+  }
+ ]
+}

@@ -1,0 +1,411 @@
+{
+ "id": "bai-192",
+ "lesson": "Bài 192",
+ "title": "Du lịch và hướng dẫn (phần 3/4)",
+ "krTitle": "여행과 안내 3",
+ "date": "2027-08-24",
+ "day": 279,
+ "source": "TOPIK 5 – Bài 11: Du lịch và hướng dẫn (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "발 디딜 틈이 없다",
+   "Bal didil teumi eopda",
+   "Người đông như nêm, không có chỗ chen chân",
+   "연휴라서 해수욕장에 발 디딜 틈이 없었어요.",
+   "Vì là kỳ nghỉ dài nên bãi biển đông nghẹt không còn chỗ chen chân."
+  ],
+  [
+   "안성맞춤이다",
+   "Anseongmatchumida",
+   "Vừa vặn (quần áo), phù hợp (công việc)",
+   "이 호텔은 가족 여행에 안성맞춤이에요.",
+   "Khách sạn này rất phù hợp cho du lịch gia đình."
+  ],
+  [
+   "손꼽히다",
+   "Sonkkopida",
+   "Đứng vào hàng đếm trên đầu ngón tay về (...으로)",
+   "경주는 한국에서 손꼽히는 관광지예요.",
+   "Gyeongju là điểm du lịch hàng đầu ở Hàn Quốc."
+  ],
+  [
+   "고풍스럽다",
+   "Gopungseureopda",
+   "Cổ kính",
+   "그 찻집은 분위기가 고풍스러워요.",
+   "Quán trà đó có không khí cổ kính."
+  ],
+  [
+   "발길이 끊이지 않다",
+   "Balgiri kkeuniji anta",
+   "Liên tục tìm đến, không ngừng tìm đến (손님의)",
+   "유명한 맛집이라서 손님의 발길이 끊이지 않아요.",
+   "Vì là quán nổi tiếng nên khách không ngớt tìm đến."
+  ],
+  [
+   "옛 모습을 간직하다",
+   "Yen moseubeul ganjikada",
+   "Giữ nguyên dáng vẻ xưa",
+   "이 마을은 옛 모습을 그대로 간직하고 있어요.",
+   "Ngôi làng này vẫn giữ nguyên dáng vẻ xưa."
+  ],
+  [
+   "개론",
+   "Gaeron",
+   "Khái luận, nhập môn",
+   "관광학 개론 수업을 들어요.",
+   "Tôi học môn Nhập môn du lịch học."
+  ],
+  [
+   "스님",
+   "Seunim",
+   "Vị sư",
+   "절에서 스님이 차를 대접해 주셨어요.",
+   "Ở chùa, nhà sư đã mời chúng tôi trà."
+  ],
+  [
+   "주력하다",
+   "Juryeokada",
+   "Tập trung lực vào",
+   "그 도시는 관광객 유치에 주력하고 있어요.",
+   "Thành phố đó đang tập trung thu hút khách du lịch."
+  ],
+  [
+   "격차",
+   "Gyeokcha",
+   "Khoảng cách",
+   "도시와 농촌의 소득 격차가 커지고 있어요.",
+   "Khoảng cách thu nhập giữa thành thị và nông thôn ngày càng lớn."
+  ],
+  [
+   "실태",
+   "Siltae",
+   "Thực trạng",
+   "정부가 관광지 쓰레기 실태를 조사했어요.",
+   "Chính phủ đã điều tra thực trạng rác ở khu du lịch."
+  ],
+  [
+   "쥐락펴락하다",
+   "Jwirakpyeorakada",
+   "Nắm trong tay, điều khiển tùy ý",
+   "그 회사가 시장을 쥐락펴락하고 있어요.",
+   "Công ty đó đang nắm thị trường trong tay."
+  ],
+  [
+   "공양",
+   "Gongyang",
+   "Sự cúng dường (trong Phật giáo), sự phụng dưỡng",
+   "절에서 공양을 먹어 봤어요.",
+   "Tôi đã ăn cơm chay ở chùa."
+  ],
+  [
+   "야생",
+   "Yasaeng",
+   "Hoang dã",
+   "이 섬에서는 야생 동물을 볼 수 있어요.",
+   "Ở hòn đảo này có thể thấy động vật hoang dã."
+  ],
+  [
+   "공인어학시험",
+   "Gongineohaksiheom",
+   "Kỳ thi công nhận trình độ ngoại ngữ",
+   "가이드가 되려면 공인어학시험 점수가 필요해요.",
+   "Muốn làm hướng dẫn viên cần điểm thi ngoại ngữ được công nhận."
+  ],
+  [
+   "연등",
+   "Yeondeung",
+   "Đèn lồng",
+   "부처님 오신 날에 연등을 달았어요.",
+   "Ngày Phật đản chúng tôi treo đèn lồng."
+  ],
+  [
+   "지출액",
+   "Jichuraek",
+   "Số tiền phải trả",
+   "이번 여행의 지출액이 예상보다 많았어요.",
+   "Số tiền chi cho chuyến đi lần này nhiều hơn dự tính."
+  ],
+  [
+   "관광법규",
+   "Gwangwangbeopgyu",
+   "Luật du lịch",
+   "가이드는 관광법규를 잘 알아야 해요.",
+   "Hướng dẫn viên phải hiểu rõ luật du lịch."
+  ],
+  [
+   "염주",
+   "Yeomju",
+   "Tràng hạt (dùng niệm kinh Phật)",
+   "할머니는 염주를 들고 기도하셨어요.",
+   "Bà cầm tràng hạt cầu nguyện."
+  ],
+  [
+   "철저히",
+   "Cheoljeohi",
+   "Kỹ càng, kỹ lưỡng",
+   "여행 전에 날씨를 철저히 확인하세요.",
+   "Trước chuyến đi hãy kiểm tra kỹ thời tiết."
+  ],
+  [
+   "국사",
+   "Guksa",
+   "Quốc sử, lịch sử nước nhà",
+   "관광통역 안내사 시험에는 국사 과목이 있어요.",
+   "Kỳ thi hướng dẫn viên phiên dịch có môn quốc sử."
+  ],
+  [
+   "예불",
+   "Yebul",
+   "Lễ Phật",
+   "새벽에 스님들이 예불을 드려요.",
+   "Rạng sáng các nhà sư làm lễ Phật."
+  ],
+  [
+   "친선 관계",
+   "Chinseon gwangye",
+   "Quan hệ hữu nghị 친",
+   "두 나라는 오랫동안 친선 관계를 유지해 왔어요.",
+   "Hai nước đã duy trì quan hệ hữu nghị trong thời gian dài."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄴ/는데도 — Mặc dù",
+   "meaning": "'Mặc dù…, dù đã… mà vẫn…': vế sau là kết quả TRÁI với mong đợi từ vế trước. Cấu tạo: (으)ㄴ/는데 (bối cảnh) + 도 (cũng) → nhấn mạnh 'dù vậy vẫn'. Chia: Động từ → 는데도 (먹는데도, 가는데도); Tính từ có patchim → 은데도 (많은데도); không patchim → ㄴ데도 (비싼데도); 있다/없다 → 있는데도/없는데도; Danh từ → 인데도 (주말인데도); Quá khứ → 았/었는데도 (갔는데도). So sánh với 아/어도 (dù… thì cũng — thường là giả định): 비가 와도 갈 거예요 (dù có mưa cũng sẽ đi). 는데도 nói về SỰ THẬT đang/đã xảy ra: 비가 오는데도 사람이 많아요 (trời đang mưa mà vẫn đông người). So sánh 지만: trung tính; 는데도 nhấn mạnh sự bất ngờ.",
+   "examples": [
+    "비가 오는데도 관광지에 발 디딜 틈이 없었어요. — Trời mưa mà khu du lịch vẫn đông nghẹt.",
+    "평일인데도 그 식당에는 손님의 발길이 끊이지 않아요. — Ngày thường mà quán đó khách vẫn không ngớt.",
+    "여러 번 설명했는데도 이해하지 못했어요. — Dù đã giải thích nhiều lần mà vẫn không hiểu.",
+    "입장료가 비싼데도 사람들이 많이 와요. — Vé vào cửa đắt mà người vẫn đến đông."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Đông đến mức không có chỗ đặt chân gọi là gì?",
+   "kr": "",
+   "options": [
+    "발 디딜 틈이 없다",
+    "발길이 끊이지 않다",
+    "안성맞춤이다"
+   ],
+   "answer": "발 디딜 틈이 없다",
+   "explain": "디디다 = đặt chân; 틈 = khe hở."
+  },
+  {
+   "type": "choice",
+   "q": "Đèn lồng treo dịp lễ Phật đản gọi là gì?",
+   "kr": "",
+   "options": [
+    "연등",
+    "염주",
+    "목탁"
+   ],
+   "answer": "연등",
+   "explain": "연등 = đèn lồng hoa sen."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Khách sạn này rất phù hợp cho du lịch gia đình.",
+   "kr": "이 호텔은 가족 여행에 ___이에요.",
+   "options": [
+    "안성맞춤",
+    "고풍",
+    "격차"
+   ],
+   "answer": "안성맞춤",
+   "explain": "안성맞춤 = vừa khít, rất hợp."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ngôi làng vẫn giữ nguyên dáng vẻ xưa.",
+   "kr": "이 마을은 옛 모습을 그대로 ___고 있어요.",
+   "options": [
+    "간직하",
+    "주력하",
+    "쥐락펴락하"
+   ],
+   "answer": "간직하",
+   "explain": "옛 모습을 간직하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Trời mưa mà khu du lịch vẫn đông.'",
+   "kr": "",
+   "options": [
+    "비가 오는데도 관광지에 사람이 많아요.",
+    "비가 온데도 관광지에 사람이 많아요.",
+    "비가 오은데도 관광지에 사람이 많아요."
+   ],
+   "answer": "비가 오는데도 관광지에 사람이 많아요.",
+   "explain": "Động từ → 는데도."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với danh từ 평일: 'Ngày thường mà vẫn đông.'",
+   "kr": "",
+   "options": [
+    "평일인데도",
+    "평일는데도",
+    "평일은데도"
+   ],
+   "answer": "평일인데도",
+   "explain": "N + 인데도."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào là GIẢ ĐỊNH (chưa xảy ra), nên dùng 아/어도 chứ không phải 는데도?",
+   "kr": "",
+   "options": [
+    "내일 비가 와도 여행을 갈 거예요.",
+    "지금 비가 오는데도 사람들이 많아요.",
+    "어제 비가 왔는데도 공연을 했어요."
+   ],
+   "answer": "내일 비가 와도 여행을 갈 거예요.",
+   "explain": "Tương lai giả định → 아/어도."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trước chuyến đi hãy kiểm tra kỹ thời tiết.",
+   "kr": "여행 전에 날씨를 ___ 확인하세요.",
+   "options": [
+    "철저히",
+    "고풍스럽게",
+    "야생으로"
+   ],
+   "answer": "철저히",
+   "explain": "철저히 = kỹ lưỡng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄴ데도 với 비싸다: Vé đắt mà người vẫn đến đông.",
+   "kr": "입장료가 ___ 사람들이 많이 와요.",
+   "answer": [
+    "비싼데도"
+   ],
+   "explain": "Tính từ không patchim → ㄴ데도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 았/었는데도 với 설명하다: Đã giải thích nhiều lần mà vẫn không hiểu.",
+   "kr": "여러 번 ___ 이해하지 못했어요.",
+   "answer": [
+    "설명했는데도"
+   ],
+   "explain": "Quá khứ → 했는데도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Gyeongju là điểm du lịch hàng đầu ở Hàn Quốc.",
+   "kr": "경주는 한국에서 ___ 관광지예요.",
+   "answer": [
+    "손꼽히는"
+   ],
+   "explain": "손꼽히다 → 손꼽히는."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Khoảng cách thu nhập thành thị–nông thôn ngày càng lớn.",
+   "kr": "도시와 농촌의 소득 ___가 커지고 있어요.",
+   "answer": [
+    "격차"
+   ],
+   "explain": "격차."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Ngày thường mà khách vẫn không ngớt.",
+   "tokens": [
+    "평일인데도",
+    "손님의",
+    "발길이",
+    "끊이지",
+    "않아요"
+   ],
+   "answer": "평일인데도 손님의 발길이 끊이지 않아요",
+   "explain": "인데도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hai nước duy trì quan hệ hữu nghị lâu dài.",
+   "tokens": [
+    "두",
+    "나라는",
+    "오랫동안",
+    "친선",
+    "관계를",
+    "유지해",
+    "왔어요"
+   ],
+   "answer": "두 나라는 오랫동안 친선 관계를 유지해 왔어요",
+   "explain": "아/어 오다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đã uống thuốc mà vẫn đau đầu. (dùng 는데도)",
+   "answer": [
+    "약을 먹었는데도 머리가 아파요.",
+    "약을 먹었는데도 아직 머리가 아파요.",
+    "약을 먹었는데도 계속 머리가 아파요."
+   ],
+   "explain": "았/었는데도."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ở hòn đảo này có thể thấy động vật hoang dã.",
+   "answer": [
+    "이 섬에서는 야생 동물을 볼 수 있어요.",
+    "이 섬에서 야생 동물을 볼 수 있어요."
+   ],
+   "explain": "야생 동물."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Quán trà đó có không khí cổ kính.",
+   "answer": [
+    "그 찻집은 분위기가 고풍스러워요.",
+    "그 찻집의 분위기가 고풍스러워요."
+   ],
+   "explain": "고풍스럽다 → 고풍스러워요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "이 절은 산속 깊은 곳에 있는데도 옛 모습을 간직하고 있어서 관광객들의 발길이 끊이지 않는다. 템플스테이에 참여하면 새벽 예불과 공양을 체험할 수 있다.",
+   "answer": "Ngôi chùa này dù nằm sâu trong núi nhưng vẫn giữ được dáng vẻ xưa nên khách du lịch không ngớt tìm đến. Nếu tham gia temple stay thì có thể trải nghiệm lễ Phật buổi sớm và bữa cơm chay.",
+   "explain": "는데도; 발길이 끊이지 않다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "남자: 지난 주말에 경주에 갔다지요? 어땠어요?\n여자: 비가 많이 왔는데도 사람이 정말 많았어요.\n남자: ( )",
+   "options": [
+    "역시 경주는 손꼽히는 관광지네요.",
+    "그럼 다음 주에 같이 가요.",
+    "비가 안 와서 다행이네요.",
+    "경주는 사람이 없군요."
+   ],
+   "answer": "역시 경주는 손꼽히는 관광지네요.",
+   "explain": "Mưa vẫn đông → quả là điểm du lịch hàng đầu."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu ĐÚNG. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【템플스테이 안내】\n· 일정: 1박 2일 (토 오후 2시 ~ 일 오전 11시)\n· 내용: 예불, 공양, 연등 만들기, 스님과의 차담\n· 준비물: 편한 옷 (수련복 제공)\n· 참가비: 5만 원",
+   "options": [
+    "연등 만들기를 체험할 수 있다.",
+    "당일로 다녀오는 프로그램이다.",
+    "수련복을 직접 가져가야 한다.",
+    "참가비가 무료이다."
+   ],
+   "answer": "연등 만들기를 체험할 수 있다.",
+   "explain": "내용: 연등 만들기."
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+ "id": "bai-221",
+ "lesson": "Bài 221",
+ "title": "Tiếng Hàn Quốc và xã hội (phần 3/5)",
+ "krTitle": "한국어와 사회 3",
+ "date": "2027-10-06",
+ "day": 322,
+ "source": "TOPIK 6 – Bài 3: Tiếng Hàn Quốc và xã hội (phần 3/5)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "유창하다",
+   "Yuchanghada",
+   "Trôi chảy",
+   "그는 한국어를 유창하게 해요.",
+   "Anh ấy nói tiếng Hàn trôi chảy."
+  ],
+  [
+   "구사하다",
+   "Gusahada",
+   "Sử dụng thành thạo, sử dụng thuần thục",
+   "그녀는 5개 국어를 자유롭게 구사해요.",
+   "Cô ấy sử dụng thành thạo 5 ngôn ngữ."
+  ],
+  [
+   "정확하다",
+   "Jeonghwakada",
+   "Chính xác",
+   "발음을 정확하게 해야 오해가 없어요.",
+   "Phải phát âm chính xác thì mới không bị hiểu lầm."
+  ],
+  [
+   "능숙하다",
+   "Neungsukada",
+   "Thành thục",
+   "그는 컴퓨터를 능숙하게 다뤄요.",
+   "Anh ấy sử dụng máy tính thành thạo."
+  ],
+  [
+   "말이 통하다",
+   "Mari tonghada",
+   "Thông hiểu",
+   "처음 만났지만 말이 잘 통했어요.",
+   "Mới gặp lần đầu nhưng rất hợp chuyện."
+  ],
+  [
+   "꿀 먹은 벙어리",
+   "Kkul meogeun beongeori",
+   "Ngậm hạt thị, im thin thít",
+   "질문을 받자 그는 꿀 먹은 벙어리가 되었어요.",
+   "Bị hỏi, anh ta im thin thít như ngậm hột thị."
+  ],
+  [
+   "말을 가로채다",
+   "Mareul garochaeda",
+   "Chặn họng",
+   "남의 말을 가로채는 것은 예의가 아니에요.",
+   "Cắt ngang lời người khác là bất lịch sự."
+  ],
+  [
+   "말꼬리를 잡다",
+   "Malkkorireul japda",
+   "Bắt bẻ lời nói của người khác",
+   "그는 항상 제 말꼬리를 잡아요.",
+   "Anh ta luôn bắt bẻ lời tôi."
+  ],
+  [
+   "말귀를 알아듣다",
+   "Malgwireul aradeutda",
+   "Hiểu ý",
+   "그 아이는 말귀를 잘 알아들어요.",
+   "Đứa bé đó rất hiểu ý."
+  ],
+  [
+   "말문이 막히다",
+   "Malmuni makida",
+   "Cứng họng, không nói nên lời",
+   "갑작스러운 질문에 말문이 막혔어요.",
+   "Câu hỏi bất ngờ làm tôi cứng họng."
+  ],
+  [
+   "말대꾸를 하다",
+   "Maldaekkureul hada",
+   "Trả treo",
+   "부모님께 말대꾸를 하면 안 돼요.",
+   "Không được cãi lại bố mẹ."
+  ],
+  [
+   "말꼬리를 흐리다",
+   "Malkkorireul heurida",
+   "Nói lấp lửng cuối câu",
+   "그는 대답하기 싫은지 말꼬리를 흐렸어요.",
+   "Hình như không muốn trả lời nên anh ấy nói lấp lửng."
+  ],
+  [
+   "입이 떨어지지 않다",
+   "Ibi tteoreojiji anta",
+   "Không mở mồm",
+   "미안하다는 말을 하고 싶었는데 입이 떨어지지 않았어요.",
+   "Muốn nói lời xin lỗi mà không mở miệng được."
+  ],
+  [
+   "말문이 떨어지다",
+   "Malmuni tteoreojida",
+   "Bắt đầu mở miệng nói được",
+   "한참 후에 겨우 말문이 떨어졌어요.",
+   "Mãi một lúc sau tôi mới mở miệng được."
+  ],
+  [
+   "말수가 적다",
+   "Malsuga jeokda",
+   "Nói ít",
+   "그는 말수가 적지만 따뜻한 사람이에요.",
+   "Anh ấy ít nói nhưng là người ấm áp."
+  ],
+  [
+   "입도 뻥긋 못하다",
+   "Ipdo ppeonggeun motada",
+   "Không thể hé mồm",
+   "너무 무서워서 입도 뻥긋 못 했어요.",
+   "Sợ quá nên không dám hé răng."
+  ],
+  [
+   "가량",
+   "Garyang",
+   "Khoảng",
+   "행사에 천 명가량이 참가했어요.",
+   "Khoảng một nghìn người đã tham gia sự kiện."
+  ],
+  [
+   "개최하다",
+   "Gaechoehada",
+   "Khai mạc, mở, tổ chức",
+   "한국어 말하기 대회를 개최했어요.",
+   "Đã tổ chức cuộc thi nói tiếng Hàn."
+  ],
+  [
+   "개통하다",
+   "Gaetonghada",
+   "Khai thông (đường, tàu); kích hoạt (điện thoại)",
+   "새 지하철 노선이 개통되었어요.",
+   "Tuyến tàu điện ngầm mới đã được khai thông."
+  ],
+  [
+   "겨루다",
+   "Gyeoruda",
+   "Ganh đua, tranh tài",
+   "여러 나라 학생들이 실력을 겨루었어요.",
+   "Sinh viên nhiều nước đã tranh tài."
+  ],
+  [
+   "경어법",
+   "Gyeongeobeop",
+   "Phép kính ngữ",
+   "한국어의 경어법은 매우 다양해요.",
+   "Phép kính ngữ tiếng Hàn rất đa dạng."
+  ],
+  [
+   "공유하다",
+   "Gongyuhada",
+   "Chia sẻ, cùng sở hữu",
+   "SNS로 정보를 공유해요.",
+   "Chia sẻ thông tin qua mạng xã hội."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)다고 — Chỉ vì lý do",
+   "meaning": "Nêu LÝ DO mà CHỦ NGỮ đưa ra (hoặc người nói cho là lý do) để giải thích hành động ở vế sau: 'vì (nói là)…, với lý do là…, chỉ vì… mà…'. Thường mang sắc thái NGƯỜI NÓI THẤY LÝ DO ĐÓ KHÔNG ĐỦ / hơi trách, ngạc nhiên. Chia như câu gián tiếp: 바쁘다고 (vì bảo là bận), 아프다고, 늦었다고, 학생이라고, 시험이 있다고. Mẫu nhấn mạnh: (ㄴ/는)다고 해서 (chỉ vì… mà): 한국 사람이라고 해서 다 한국어를 잘 가르치는 건 아니에요 (không phải cứ là người Hàn là dạy tiếng Hàn giỏi). Khác với Bài 178 (dẫn tục ngữ làm căn cứ): ở đây là LÝ DO của hành động. So sánh: 아/어서 (vì – khách quan); (ㄴ/는)다고 = lý do 'theo lời người đó' hoặc lý do nhỏ nhặt.",
+   "examples": [
+    "동생은 배가 아프다고 학교에 안 갔어요. — Em tôi bảo là đau bụng nên không đi học.",
+    "말을 좀 가로챘다고 그렇게 화를 내요? — Chỉ vì bị ngắt lời một chút mà giận đến thế à?",
+    "한국어를 유창하게 한다고 해서 다 통역을 잘하는 건 아니에요. — Không phải cứ nói tiếng Hàn trôi chảy là phiên dịch giỏi.",
+    "친구가 시험이 있다고 모임에 안 왔어요. — Bạn bảo có bài thi nên không đến buổi họp mặt."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Thành ngữ chỉ người im thin thít, không nói được gì là gì?",
+   "kr": "",
+   "options": [
+    "꿀 먹은 벙어리",
+    "말이 통하다",
+    "말귀를 알아듣다"
+   ],
+   "answer": "꿀 먹은 벙어리",
+   "explain": "Người câm ăn mật – không nói ra được."
+  },
+  {
+   "type": "choice",
+   "q": "Cãi lại, trả treo người lớn gọi là gì?",
+   "kr": "",
+   "options": [
+    "말대꾸를 하다",
+    "말수가 적다",
+    "말문이 떨어지다"
+   ],
+   "answer": "말대꾸를 하다",
+   "explain": "말대꾸 = trả treo."
+  },
+  {
+   "type": "choice",
+   "q": "Cắt ngang lời người khác gọi là gì?",
+   "kr": "",
+   "options": [
+    "말을 가로채다",
+    "말꼬리를 흐리다",
+    "말귀를 알아듣다"
+   ],
+   "answer": "말을 가로채다",
+   "explain": "가로채다 = giành lấy."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Khoảng một nghìn người tham gia.",
+   "kr": "행사에 천 명___이 참가했어요.",
+   "options": [
+    "가량",
+    "개최",
+    "공유"
+   ],
+   "answer": "가량",
+   "explain": "N가량 = khoảng."
+  },
+  {
+   "type": "choice",
+   "q": "'동생은 배가 아프다고 학교에 안 갔어요.' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Em tôi bảo là đau bụng nên không đi học.",
+    "Em tôi đi học dù đau bụng.",
+    "Em tôi nói đau bụng ở trường."
+   ],
+   "answer": "Em tôi bảo là đau bụng nên không đi học.",
+   "explain": "다고 = với lý do (do người đó nói)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Chỉ vì bị ngắt lời mà giận đến thế à?'",
+   "kr": "",
+   "options": [
+    "말을 좀 가로챘다고 그렇게 화를 내요?",
+    "말을 좀 가로챈다고 해서 화를 내세요.",
+    "말을 좀 가로챘더니 그렇게 화를 내요?"
+   ],
+   "answer": "말을 좀 가로챘다고 그렇게 화를 내요?",
+   "explain": "았/었다고 + phản ứng."
+  },
+  {
+   "type": "choice",
+   "q": "'한국 사람이라고 해서 다 한국어를 잘 가르치는 건 아니에요.' Ý chính là gì?",
+   "kr": "",
+   "options": [
+    "Là người Hàn không có nghĩa là dạy tiếng Hàn giỏi.",
+    "Người Hàn dạy tiếng Hàn giỏi nhất.",
+    "Người Hàn không dạy tiếng Hàn."
+   ],
+   "answer": "Là người Hàn không có nghĩa là dạy tiếng Hàn giỏi.",
+   "explain": "(이)라고 해서 다 … 건 아니다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tuyến tàu điện ngầm mới đã được khai thông.",
+   "kr": "새 지하철 노선이 ___되었어요.",
+   "options": [
+    "개통",
+    "개최",
+    "공유"
+   ],
+   "answer": "개통",
+   "explain": "개통되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다고 với 바쁘다: Anh ấy bảo là bận nên không gọi điện.",
+   "kr": "그는 ___ 전화도 안 해요.",
+   "answer": [
+    "바쁘다고"
+   ],
+   "explain": "Tính từ → 다고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다고 với 있다: Bạn bảo có bài thi nên không đến.",
+   "kr": "친구가 시험이 ___ 모임에 안 왔어요.",
+   "answer": [
+    "있다고"
+   ],
+   "explain": "있다고."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Câu hỏi bất ngờ làm tôi cứng họng.",
+   "kr": "갑작스러운 질문에 ___이 막혔어요.",
+   "answer": [
+    "말문"
+   ],
+   "explain": "말문이 막히다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Anh ấy ít nói nhưng ấm áp.",
+   "kr": "그는 ___가 적지만 따뜻한 사람이에요.",
+   "answer": [
+    "말수"
+   ],
+   "explain": "말수가 적다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Em tôi bảo là đau bụng nên không đi học.",
+   "tokens": [
+    "동생은",
+    "배가",
+    "아프다고",
+    "학교에",
+    "안",
+    "갔어요"
+   ],
+   "answer": "동생은 배가 아프다고 학교에 안 갔어요",
+   "explain": "다고."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mới gặp lần đầu nhưng rất hợp chuyện.",
+   "tokens": [
+    "처음",
+    "만났지만",
+    "말이",
+    "잘",
+    "통했어요"
+   ],
+   "answer": "처음 만났지만 말이 잘 통했어요",
+   "explain": "말이 통하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy bảo là mệt nên đi ngủ sớm. (dùng (ㄴ/는)다고)",
+   "answer": [
+    "그는 피곤하다고 일찍 잤어요.",
+    "그 사람은 피곤하다고 일찍 잤어요.",
+    "그는 피곤하다고 일찍 자러 갔어요."
+   ],
+   "explain": "피곤하다고."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Không được cãi lại bố mẹ.",
+   "answer": [
+    "부모님께 말대꾸를 하면 안 돼요.",
+    "부모님한테 말대꾸하면 안 돼요.",
+    "부모님께 말대꾸하면 안 돼요."
+   ],
+   "explain": "면 안 되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy nói tiếng Hàn trôi chảy.",
+   "answer": [
+    "그는 한국어를 유창하게 해요.",
+    "그는 한국어를 유창하게 말해요.",
+    "그 사람은 한국어를 유창하게 해요."
+   ],
+   "explain": "유창하게."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "외국어를 유창하게 구사한다고 해서 그 나라 사람과 말이 잘 통하는 것은 아니다. 그 나라의 문화와 경어법을 이해해야 진짜 소통을 할 수 있다.",
+   "answer": "Không phải cứ sử dụng ngoại ngữ trôi chảy là sẽ hợp chuyện với người nước đó. Phải hiểu văn hóa và phép kính ngữ của nước đó thì mới giao tiếp thực sự được.",
+   "explain": "다고 해서 … 는 것은 아니다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 이번 주말에 외국인 한국어 말하기 대회가 개최된대요.\n남자: 저도 나가고 싶은데 사람들 앞에 서면 말문이 막혀서요.\n여자: 처음에는 다 그래요. 저도 작년에 너무 긴장했는데 매일 연습하니까 괜찮아졌어요. 매일 거울 앞에서 연습해 보세요.\n남자: 알겠어요. 오늘부터 연습해 볼게요.",
+   "options": [
+    "남자는 오늘부터 연습을 하려고 한다.",
+    "여자는 대회에 나간 적이 없다.",
+    "대회는 다음 달에 열린다.",
+    "남자는 사람들 앞에서 말을 잘한다."
+   ],
+   "answer": "남자는 오늘부터 연습을 하려고 한다.",
+   "explain": "오늘부터 연습해 볼게요."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "세계 각국의 외국인들이 한국어 실력을 겨룹니다!\n제10회 외국인 한국어 말하기 대회\n참가 신청: 10월 31일까지",
+   "options": [
+    "한국어 말하기 대회",
+    "한국어 학원 광고",
+    "외국 여행 안내",
+    "통역사 모집"
+   ],
+   "answer": "한국어 말하기 대회",
+   "explain": "말하기 대회."
+  }
+ ]
+}

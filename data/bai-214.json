@@ -1,0 +1,412 @@
+{
+ "id": "bai-214",
+ "lesson": "Bài 214",
+ "title": "Chế độ gia đình (phần 5/5)",
+ "krTitle": "가족 제도 5",
+ "date": "2027-09-26",
+ "day": 312,
+ "source": "TOPIK 6 – Bài 1: Chế độ gia đình (phần 5/5)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "안중에 없다",
+   "Anjunge eopda",
+   "Không quan tâm, không để mắt tới",
+   "그는 돈만 생각하고 가족은 안중에 없어요.",
+   "Anh ta chỉ nghĩ đến tiền, gia đình chẳng để mắt tới."
+  ],
+  [
+   "안쓰럽다",
+   "Ansseureopda",
+   "Thương hại, ái ngại, ngại",
+   "혼자 밥을 먹는 아이를 보니 안쓰러웠어요.",
+   "Thấy đứa trẻ ăn cơm một mình mà thương."
+  ],
+  [
+   "안타깝다",
+   "Antakkapda",
+   "Thương xót, tiếc",
+   "할아버지를 자주 못 찾아뵈어서 안타까워요.",
+   "Tiếc là không thể thường xuyên đến thăm ông."
+  ],
+  [
+   "애로 사항",
+   "Aero sahang",
+   "Những khó khăn, những ngặt nghèo",
+   "맞벌이 부부의 애로 사항을 들어 봤어요.",
+   "Đã lắng nghe những khó khăn của vợ chồng cùng đi làm."
+  ],
+  [
+   "애처롭다",
+   "Aecheoropda",
+   "Buồn thương, xót xa",
+   "비를 맞고 서 있는 강아지가 애처로웠어요.",
+   "Chú chó đứng dầm mưa trông thật tội nghiệp."
+  ],
+  [
+   "야기하다",
+   "Yagihada",
+   "Gây nên, tạo nên",
+   "사소한 말이 큰 오해를 야기했어요.",
+   "Một lời nói nhỏ đã gây ra hiểu lầm lớn."
+  ],
+  [
+   "양극화",
+   "Yanggeukwa",
+   "Sự phân cực (dần dần trở nên khác và xa nhau)",
+   "소득 양극화가 심해지고 있어요.",
+   "Phân cực thu nhập ngày càng nghiêm trọng."
+  ],
+  [
+   "어색하다",
+   "Eosaekada",
+   "Lạ lẫm, ngượng ngùng, gượng gạo, không thoải mái",
+   "오랜만에 만나서 좀 어색했어요.",
+   "Lâu ngày mới gặp nên hơi ngượng."
+  ],
+  [
+   "왕래하다",
+   "Wangnaehada",
+   "Lui tới",
+   "두 집안은 서로 자주 왕래해요.",
+   "Hai gia đình thường xuyên qua lại."
+  ],
+  [
+   "외면 받다",
+   "Oemyeon batda",
+   "Bị lờ đi, bị làm ngơ",
+   "노인 문제가 오랫동안 외면 받았어요.",
+   "Vấn đề người già đã bị làm ngơ trong thời gian dài."
+  ],
+  [
+   "장년층",
+   "Jangnyeoncheung",
+   "Tầng lớp trung niên",
+   "장년층의 재취업이 늘고 있어요.",
+   "Việc tái tìm việc của người trung niên đang tăng."
+  ],
+  [
+   "장서 갈등",
+   "Jangseo galdeung",
+   "Mâu thuẫn mẹ vợ - con rể",
+   "요즘은 장서 갈등도 많아졌어요.",
+   "Dạo này mâu thuẫn mẹ vợ – con rể cũng nhiều lên."
+  ],
+  [
+   "저변",
+   "Jeobyeon",
+   "Tầng nền, cơ sở rộng",
+   "가족 문제의 저변에는 경제 문제가 있어요.",
+   "Bên dưới vấn đề gia đình là vấn đề kinh tế."
+  ],
+  [
+   "전환",
+   "Jeonhwan",
+   "Sự thay đổi",
+   "생각의 전환이 필요해요.",
+   "Cần thay đổi cách nghĩ."
+  ],
+  [
+   "절실하다",
+   "Jeolsilhada",
+   "Cấp thiết, tha thiết",
+   "육아 지원이 절실해요.",
+   "Hỗ trợ nuôi con rất cấp thiết."
+  ],
+  [
+   "정비하다",
+   "Jeongbihada",
+   "Tổ chức lại, chỉnh đốn lại",
+   "정부는 가족 관련 법을 정비했어요.",
+   "Chính phủ đã chỉnh đốn lại luật liên quan đến gia đình."
+  ],
+  [
+   "집착하다",
+   "Jipchakada",
+   "Ám ảnh, bận tâm",
+   "과거에 너무 집착하지 마세요.",
+   "Đừng quá bám víu vào quá khứ."
+  ],
+  [
+   "진작",
+   "Jinjak",
+   "Sớm hơn (lẽ ra nên…), từ trước",
+   "진작 부모님께 말씀드릴걸 그랬어요.",
+   "Giá mà nói với bố mẹ sớm hơn."
+  ],
+  [
+   "편견",
+   "Pyeongyeon",
+   "Thành kiến, định kiến 편",
+   "한부모 가정에 대한 편견을 버려야 해요.",
+   "Phải bỏ định kiến về gia đình đơn thân."
+  ],
+  [
+   "편부",
+   "Pyeonbu",
+   "Bố độc thân",
+   "그는 편부 슬하에서 자랐어요.",
+   "Anh ấy lớn lên dưới sự nuôi dạy của bố đơn thân."
+  ],
+  [
+   "편모",
+   "Pyeonmo",
+   "Mẹ độc thân",
+   "편모 가정을 위한 지원 센터가 생겼어요.",
+   "Đã có trung tâm hỗ trợ cho gia đình mẹ đơn thân."
+  ],
+  [
+   "핏줄",
+   "Pitjul",
+   "Huyết thống, dòng máu",
+   "핏줄이 아니어도 진짜 가족이 될 수 있어요.",
+   "Không cùng huyết thống vẫn có thể là gia đình thực sự."
+  ],
+  [
+   "한심하다",
+   "Hansimhada",
+   "Thương tâm, khốn khổ",
+   "일은 안 하고 게임만 해요. 정말 한심해요.",
+   "Không làm việc mà chỉ chơi game. Thật thảm hại."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 고자 — Để",
+   "meaning": "Nêu MỤC ĐÍCH, Ý ĐỊNH: 'để…, nhằm…, với mong muốn…'. Gắn thẳng vào thân động từ: 돕다 → 돕고자, 해결하다 → 해결하고자, 알리다 → 알리고자. Là văn VIẾT / lời nói TRANG TRỌNG (phát biểu, thông báo, báo cáo, bài luận TOPIK 54). Khẩu ngữ tương ứng: (으)려고. Cuối câu: V고자 하다 = 'định, muốn' (trang trọng): 오늘은 가족 문제에 대해 말씀드리고자 합니다 (hôm nay tôi xin trình bày về vấn đề gia đình). Chủ ngữ hai vế thường giống nhau. Không dùng với tính từ, không đi với mệnh lệnh/rủ rê ở vế sau. So sánh: (으)려고 (thân mật); 기 위해(서) (trung tính, dùng được cả văn nói/viết); 고자 (trang trọng nhất).",
+   "examples": [
+    "정부는 저출산 문제를 해결하고자 다양한 정책을 마련했다. — Chính phủ đã chuẩn bị nhiều chính sách nhằm giải quyết vấn đề sinh ít.",
+    "한부모 가정을 돕고자 지원 센터를 열었습니다. — Chúng tôi mở trung tâm hỗ trợ để giúp gia đình đơn thân.",
+    "오늘은 가족의 의미에 대해 이야기하고자 합니다. — Hôm nay tôi xin nói về ý nghĩa của gia đình.",
+    "편견을 없애고자 캠페인을 시작했다. — Đã bắt đầu chiến dịch nhằm xóa bỏ định kiến."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Mâu thuẫn giữa mẹ vợ và con rể gọi là gì?",
+   "kr": "",
+   "options": [
+    "장서 갈등",
+    "고부 갈등",
+    "양극화"
+   ],
+   "answer": "장서 갈등",
+   "explain": "장(mẹ vợ) + 서(con rể)."
+  },
+  {
+   "type": "choice",
+   "q": "'안중에 없다' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Không để mắt tới, không quan tâm",
+    "Ở trong mắt",
+    "Rất quan trọng"
+   ],
+   "answer": "Không để mắt tới, không quan tâm",
+   "explain": "안중 = trong mắt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lâu ngày mới gặp nên hơi ngượng.",
+   "kr": "오랜만에 만나서 좀 ___.",
+   "options": [
+    "어색했어요",
+    "절실했어요",
+    "한심했어요"
+   ],
+   "answer": "어색했어요",
+   "explain": "어색하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Một lời nói nhỏ đã gây ra hiểu lầm lớn.",
+   "kr": "사소한 말이 큰 오해를 ___.",
+   "options": [
+    "야기했어요",
+    "정비했어요",
+    "왕래했어요"
+   ],
+   "answer": "야기했어요",
+   "explain": "야기하다 = gây ra."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào là lối nói TRANG TRỌNG nhất?",
+   "kr": "",
+   "options": [
+    "문제를 해결하고자 노력하고 있습니다.",
+    "문제를 해결하려고 노력하고 있어.",
+    "문제 해결하려고 해."
+   ],
+   "answer": "문제를 해결하고자 노력하고 있습니다.",
+   "explain": "고자 = trang trọng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG ngữ pháp.",
+   "kr": "",
+   "options": [
+    "가족을 돕고자 일을 시작했다.",
+    "가족을 돕고자 일을 시작하세요.",
+    "가족이 행복하고자 일을 시작했다."
+   ],
+   "answer": "가족을 돕고자 일을 시작했다.",
+   "explain": "Không đi với mệnh lệnh; không dùng tính từ."
+  },
+  {
+   "type": "choice",
+   "q": "'오늘은 가족의 의미에 대해 이야기하고자 합니다.' 고자 하다 nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Định, muốn (trang trọng)",
+    "Đã làm xong",
+    "Bắt buộc phải"
+   ],
+   "answer": "Định, muốn (trang trọng)",
+   "explain": "고자 하다 ≈ (으)려고 하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hỗ trợ nuôi con rất cấp thiết.",
+   "kr": "육아 지원이 ___.",
+   "options": [
+    "절실해요",
+    "어색해요",
+    "애처로워요"
+   ],
+   "answer": "절실해요",
+   "explain": "절실하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고자 với 해결하다: Nhằm giải quyết vấn đề sinh ít…",
+   "kr": "정부는 저출산 문제를 ___ 정책을 마련했다.",
+   "answer": [
+    "해결하고자"
+   ],
+   "explain": "해결하고자."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고자 với 돕다: Mở trung tâm để giúp gia đình đơn thân.",
+   "kr": "한부모 가정을 ___ 지원 센터를 열었습니다.",
+   "answer": [
+    "돕고자"
+   ],
+   "explain": "돕고자."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Phân cực thu nhập ngày càng nghiêm trọng.",
+   "kr": "소득 ___가 심해지고 있어요.",
+   "answer": [
+    "양극화"
+   ],
+   "explain": "양극화."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đừng quá bám víu vào quá khứ.",
+   "kr": "과거에 너무 ___하지 마세요.",
+   "answer": [
+    "집착"
+   ],
+   "explain": "N에 집착하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hôm nay tôi xin nói về ý nghĩa của gia đình.",
+   "tokens": [
+    "오늘은",
+    "가족의",
+    "의미에",
+    "대해",
+    "이야기하고자",
+    "합니다"
+   ],
+   "answer": "오늘은 가족의 의미에 대해 이야기하고자 합니다",
+   "explain": "고자 하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Phải bỏ định kiến về gia đình đơn thân.",
+   "tokens": [
+    "한부모",
+    "가정에",
+    "대한",
+    "편견을",
+    "버려야",
+    "해요"
+   ],
+   "answer": "한부모 가정에 대한 편견을 버려야 해요",
+   "explain": "N에 대한."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi học tiếng Hàn để làm việc ở công ty Hàn Quốc. (dùng 고자, trang trọng)",
+   "answer": [
+    "한국 회사에서 일하고자 한국어를 공부합니다.",
+    "한국 회사에서 일하고자 한국어를 배웁니다.",
+    "한국 회사에서 일하고자 한국어를 공부하고 있습니다."
+   ],
+   "explain": "고자 + 합니다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cần thay đổi cách nghĩ.",
+   "answer": [
+    "생각의 전환이 필요해요.",
+    "생각의 전환이 필요합니다."
+   ],
+   "explain": "전환."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hai gia đình thường xuyên qua lại.",
+   "answer": [
+    "두 집안은 서로 자주 왕래해요.",
+    "두 집안은 자주 왕래해요.",
+    "두 가족은 서로 자주 왕래해요."
+   ],
+   "explain": "왕래하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한부모 가정과 조손 가정이 늘고 있지만 여전히 이들에 대한 편견이 존재한다. 정부는 이러한 가정의 애로 사항을 해결하고자 관련 제도를 정비하고 있다.",
+   "answer": "Gia đình đơn thân và gia đình ông bà nuôi cháu đang tăng nhưng định kiến về họ vẫn còn tồn tại. Chính phủ đang chỉnh đốn các chế độ liên quan nhằm giải quyết khó khăn của những gia đình này.",
+   "explain": "고자; 정비하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 저는 오늘 한부모 가정을 돕고자 시작된 '함께 키워요' 프로그램을 소개하고자 합니다. 이 프로그램은 부모가 일하는 시간 동안 아이를 무료로 돌봐 줍니다. 또 부모들이 서로 애로 사항을 나눌 수 있는 모임도 한 달에 한 번 열립니다.",
+   "options": [
+    "이 프로그램은 아이를 무료로 돌봐 준다.",
+    "모임은 매주 열린다.",
+    "이 프로그램은 노인을 위한 것이다.",
+    "돌봄 서비스는 유료이다."
+   ],
+   "answer": "이 프로그램은 아이를 무료로 돌봐 준다.",
+   "explain": "아이를 무료로 돌봐 줍니다."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "아동 돌봄 문제를 <해결하고자> 정부가 새로운 정책을 발표했다.",
+   "options": [
+    "해결하기 위해",
+    "해결한 후에",
+    "해결하더니",
+    "해결하는 바람에"
+   ],
+   "answer": "해결하기 위해",
+   "explain": "고자 ≈ 기 위해."
+  }
+ ]
+}

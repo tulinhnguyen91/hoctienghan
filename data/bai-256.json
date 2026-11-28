@@ -1,0 +1,396 @@
+{
+ "id": "bai-256",
+ "lesson": "Bài 256",
+ "title": "Y học hiện đại (phần 2/4)",
+ "krTitle": "현대 의학 2",
+ "date": "2027-11-28",
+ "day": 375,
+ "source": "TOPIK 6 – Bài 11: Y học hiện đại (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "의료보험",
+   "Uiryoboheom",
+   "Bảo hiểm y tế",
+   "한국은 모든 국민이 의료보험에 가입해요.",
+   "Ở Hàn Quốc mọi người dân đều tham gia bảo hiểm y tế."
+  ],
+  [
+   "첨단 의료 산업",
+   "Cheomdan uiryo saneop",
+   "Ngành y tế công nghệ cao",
+   "정부는 첨단 의료 산업을 키우고 있어요.",
+   "Chính phủ đang phát triển ngành y tế công nghệ cao."
+  ],
+  [
+   "의료 환경",
+   "Uiryo hwangyeong",
+   "Môi trường y tế",
+   "시골은 도시보다 의료 환경이 좋지 않아요.",
+   "Nông thôn có môi trường y tế kém hơn thành phố."
+  ],
+  [
+   "건강보험",
+   "Geongangboheom",
+   "Bảo hiểm sức khỏe",
+   "건강보험 덕분에 병원비가 싸요.",
+   "Nhờ bảo hiểm sức khỏe mà viện phí rẻ."
+  ],
+  [
+   "로봇 수술",
+   "Robon susul",
+   "Phẫu thuật bằng robot",
+   "로봇 수술은 회복이 빨라요.",
+   "Phẫu thuật bằng robot hồi phục nhanh."
+  ],
+  [
+   "노인전문병원",
+   "Noinjeonmunbyeongwon",
+   "Bệnh viện lão khoa",
+   "할머니는 노인전문병원에서 치료를 받으세요.",
+   "Bà đang điều trị ở bệnh viện lão khoa."
+  ],
+  [
+   "의료 혜택",
+   "Uiryo hyetaek",
+   "Ưu đãi y tế",
+   "저소득층도 의료 혜택을 받을 수 있어요.",
+   "Người thu nhập thấp cũng được hưởng ưu đãi y tế."
+  ],
+  [
+   "의료 기기",
+   "Uiryo gigi",
+   "Thiết bị y tế",
+   "한국 의료 기기 수출이 늘었어요.",
+   "Xuất khẩu thiết bị y tế Hàn Quốc tăng."
+  ],
+  [
+   "의료 관광",
+   "Uiryo gwangwang",
+   "Du lịch chữa bệnh",
+   "한국에 의료 관광을 오는 외국인이 많아요.",
+   "Nhiều người nước ngoài đến Hàn du lịch chữa bệnh."
+  ],
+  [
+   "예방의학",
+   "Yebanguihak",
+   "Y tế dự phòng",
+   "예방의학은 병을 미리 막는 학문이에요.",
+   "Y học dự phòng là ngành ngăn ngừa bệnh trước."
+  ],
+  [
+   "임상의학",
+   "Imsanguihak",
+   "Y học lâm sàng",
+   "임상의학은 환자를 직접 치료해요.",
+   "Y học lâm sàng trực tiếp chữa trị bệnh nhân."
+  ],
+  [
+   "기초의학",
+   "Gichouihak",
+   "Y học cơ bản",
+   "기초의학이 발전해야 새 치료법이 나와요.",
+   "Y học cơ bản phát triển thì mới có phương pháp chữa mới."
+  ],
+  [
+   "대체 의학",
+   "Daeche uihak",
+   "Y học thay thế, y học chữa bệnh bằng thảo dược hoặc châm cứu, vận động",
+   "침이나 한약 같은 대체 의학에 관심이 많아졌어요.",
+   "Sự quan tâm đến y học thay thế như châm cứu, thuốc bắc tăng lên."
+  ],
+  [
+   "재활의학",
+   "Jaehwaruihak",
+   "Y học phục hồi chức năng",
+   "사고 후에 재활의학과에서 치료를 받았어요.",
+   "Sau tai nạn tôi được điều trị ở khoa phục hồi chức năng."
+  ],
+  [
+   "한의학",
+   "Hanuihak",
+   "Y học dân tộc (Hàn), đông y",
+   "한의학에서는 몸의 균형을 중요하게 생각해요.",
+   "Đông y coi trọng sự cân bằng của cơ thể."
+  ],
+  [
+   "의료봉사",
+   "Uiryobongsa",
+   "Khám chữa bệnh tình nguyện",
+   "의사들이 섬마을로 의료봉사를 갔어요.",
+   "Các bác sĩ đi khám chữa bệnh tình nguyện ở làng đảo."
+  ],
+  [
+   "존엄사",
+   "Joneomsa",
+   "Cái chết tôn nghiêm (ngừng điều trị kéo dài sự sống)",
+   "존엄사에 대한 사회적 논의가 필요해요.",
+   "Cần thảo luận xã hội về cái chết tôn nghiêm."
+  ],
+  [
+   "호스피스",
+   "Hoseupiseu",
+   "Chăm sóc giảm nhẹ (hospice)",
+   "호스피스 병동에서는 환자의 고통을 줄여 줘요.",
+   "Khu chăm sóc giảm nhẹ giúp giảm đau đớn cho bệnh nhân."
+  ],
+  [
+   "인술",
+   "Insul",
+   "Y thuật nhân ái",
+   "의술은 인술이라고 해요.",
+   "Người ta nói y thuật là nhân thuật."
+  ],
+  [
+   "안락사",
+   "Allaksa",
+   "Cái chết nhân đạo",
+   "안락사는 많은 나라에서 허용되지 않아요.",
+   "Cái chết êm dịu không được cho phép ở nhiều nước."
+  ],
+  [
+   "의료 분쟁",
+   "Uiryo bunjaeng",
+   "Tranh chấp y tế",
+   "의료 분쟁이 생기면 조정 기관에 신청할 수 있어요.",
+   "Nếu có tranh chấp y tế có thể nộp đơn lên cơ quan hòa giải."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 길래 — Vì thấy … nên",
+   "meaning": "Nêu LÝ DO mà người nói NHÌN THẤY / NGHE / BIẾT được (thường là hành động hoặc trạng thái của NGƯỜI KHÁC / sự vật), dẫn đến hành động của CHÍNH NGƯỜI NÓI ở vế sau: 'vì thấy… nên (tôi)…'. Gắn thẳng vào thân: 아프다 → 아프길래, 싸다 → 싸길래, 오다 → 오길래; Danh từ → (이)길래 (세일이길래); Quá khứ → 았/었길래. Vế sau: hành động của 'tôi', thường ở QUÁ KHỨ; KHÔNG dùng mệnh lệnh/rủ rê. Dạng hỏi đặc biệt: 무엇이길래? / 얼마나 …길래? = 'là gì mà…? / … đến mức nào mà…?' (얼마나 아프길래 병원에 갔어요? – đau đến mức nào mà phải đi viện?). Văn NÓI, thân mật. Văn viết tương đương: 기에 (Bài 187 có nghĩa khác 'để mà'; 기에 = 'vì' trong văn viết). So sánh: 아/어서 (vì – chung); 길래 nhấn mạnh 'vì tôi thấy/nhận thấy'.",
+   "examples": [
+    "친구가 많이 아파 보이길래 병원에 데려갔어요. — Thấy bạn có vẻ đau nhiều nên tôi đưa đến bệnh viện.",
+    "건강검진이 무료이길래 저도 신청했어요. — Thấy khám sức khỏe miễn phí nên tôi cũng đăng ký.",
+    "약국 문이 열려 있길래 감기약을 샀어요. — Thấy hiệu thuốc mở cửa nên tôi mua thuốc cảm.",
+    "얼마나 아프길래 수술까지 해요? — Đau đến mức nào mà phải phẫu thuật?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chăm sóc giảm nhẹ cho bệnh nhân giai đoạn cuối gọi là gì?",
+   "kr": "",
+   "options": [
+    "호스피스",
+    "로봇 수술",
+    "재활의학"
+   ],
+   "answer": "호스피스",
+   "explain": "hospice."
+  },
+  {
+   "type": "choice",
+   "q": "Y học truyền thống Hàn Quốc (châm cứu, thuốc bắc) là gì?",
+   "kr": "",
+   "options": [
+    "한의학",
+    "임상의학",
+    "기초의학"
+   ],
+   "answer": "한의학",
+   "explain": "한의학 = Đông y Hàn."
+  },
+  {
+   "type": "choice",
+   "q": "Ngành ngăn ngừa bệnh trước khi phát gọi là gì?",
+   "kr": "",
+   "options": [
+    "예방의학",
+    "재활의학",
+    "대체 의학"
+   ],
+   "answer": "예방의학",
+   "explain": "예방 = dự phòng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhờ bảo hiểm sức khỏe mà viện phí rẻ.",
+   "kr": "___ 덕분에 병원비가 싸요.",
+   "options": [
+    "건강보험",
+    "의료 분쟁",
+    "의료 기기"
+   ],
+   "answer": "건강보험",
+   "explain": "건강보험."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Thấy bạn có vẻ đau nên tôi đưa đến bệnh viện.'",
+   "kr": "",
+   "options": [
+    "친구가 아파 보이길래 병원에 데려갔어요.",
+    "친구가 아파 보이길래 병원에 데려가세요.",
+    "친구가 아파 보인길래 병원에 데려갔어요."
+   ],
+   "answer": "친구가 아파 보이길래 병원에 데려갔어요.",
+   "explain": "길래 + hành động của tôi (quá khứ)."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 길래 SAI?",
+   "kr": "",
+   "options": [
+    "비가 오길래 우산을 가져가세요.",
+    "비가 오길래 우산을 가져왔어요.",
+    "세일이길래 두 개 샀어요."
+   ],
+   "answer": "비가 오길래 우산을 가져가세요.",
+   "explain": "길래 không đi với mệnh lệnh."
+  },
+  {
+   "type": "choice",
+   "q": "'얼마나 아프길래 수술까지 해요?' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Đau đến mức nào mà phải phẫu thuật?",
+    "Vì đau nên phẫu thuật.",
+    "Đau bao lâu rồi?"
+   ],
+   "answer": "Đau đến mức nào mà phải phẫu thuật?",
+   "explain": "얼마나 … 길래? = đến mức nào mà…?"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Phẫu thuật bằng robot hồi phục nhanh.",
+   "kr": "___은 회복이 빨라요.",
+   "options": [
+    "로봇 수술",
+    "안락사",
+    "인술"
+   ],
+   "answer": "로봇 수술",
+   "explain": "로봇 수술."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 길래 với 이다: Thấy khám sức khỏe miễn phí nên tôi cũng đăng ký.",
+   "kr": "건강검진이 ___ 저도 신청했어요.",
+   "answer": [
+    "무료이길래",
+    "무료길래"
+   ],
+   "explain": "N(이)길래."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 길래 với 열려 있다: Thấy hiệu thuốc mở cửa nên mua thuốc cảm.",
+   "kr": "약국 문이 ___ 감기약을 샀어요.",
+   "answer": [
+    "열려 있길래"
+   ],
+   "explain": "있길래."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đông y coi trọng sự cân bằng của cơ thể.",
+   "kr": "___에서는 몸의 균형을 중요하게 생각해요.",
+   "answer": [
+    "한의학"
+   ],
+   "explain": "한의학."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Các bác sĩ đi khám chữa bệnh tình nguyện ở làng đảo.",
+   "kr": "의사들이 섬마을로 ___를 갔어요.",
+   "answer": [
+    "의료봉사"
+   ],
+   "explain": "의료봉사."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đau đến mức nào mà phải phẫu thuật?",
+   "tokens": [
+    "얼마나",
+    "아프길래",
+    "수술까지",
+    "해요?"
+   ],
+   "answer": "얼마나 아프길래 수술까지 해요?",
+   "explain": "얼마나 … 길래?"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhiều người nước ngoài đến Hàn du lịch chữa bệnh.",
+   "tokens": [
+    "한국에",
+    "의료",
+    "관광을",
+    "오는",
+    "외국인이",
+    "많아요"
+   ],
+   "answer": "한국에 의료 관광을 오는 외국인이 많아요",
+   "explain": "의료 관광."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Thấy con ho nhiều nên tôi đưa đến bệnh viện. (dùng 길래)",
+   "answer": [
+    "아이가 기침을 많이 하길래 병원에 데려갔어요.",
+    "아이가 기침을 많이 하길래 병원에 갔어요.",
+    "아이가 기침을 심하게 하길래 병원에 데려갔어요."
+   ],
+   "explain": "하길래."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Người thu nhập thấp cũng được hưởng ưu đãi y tế.",
+   "answer": [
+    "저소득층도 의료 혜택을 받을 수 있어요.",
+    "저소득층도 의료 혜택을 받아요."
+   ],
+   "explain": "의료 혜택."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cần thảo luận xã hội về cái chết tôn nghiêm.",
+   "answer": [
+    "존엄사에 대한 사회적 논의가 필요해요.",
+    "존엄사에 대해 사회적인 논의가 필요해요."
+   ],
+   "explain": "에 대한."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국은 건강보험 제도가 잘 갖추어져 있고 첨단 의료 기술이 발달해서 의료 관광객이 늘고 있다. 특히 로봇 수술이나 한의학 치료를 받기 위해 한국을 찾는 외국인이 많다.",
+   "answer": "Hàn Quốc có chế độ bảo hiểm sức khỏe hoàn chỉnh và công nghệ y tế tiên tiến phát triển nên khách du lịch chữa bệnh đang tăng. Đặc biệt có nhiều người nước ngoài đến Hàn để được phẫu thuật bằng robot hoặc điều trị Đông y.",
+   "explain": "아/어 있다; 기 위해."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "남자: 어제 왜 회사에 안 나왔어요?\n여자: 어머니가 갑자기 쓰러지셨다길래 바로 병원에 갔어요.\n남자: 어머, 괜찮으세요?\n여자: 다행히 큰 병은 아니래요. 의료진이 빨리 처치해 줘서 지금은 많이 호전되셨어요. 이번 주말까지만 입원하시면 된대요.",
+   "options": [
+    "여자의 어머니는 상태가 많이 좋아졌다.",
+    "여자의 어머니는 큰 병에 걸렸다.",
+    "여자는 어제 회사에 갔다.",
+    "어머니는 한 달 동안 입원해야 한다."
+   ],
+   "answer": "여자의 어머니는 상태가 많이 좋아졌다.",
+   "explain": "많이 호전되셨어요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn câu ĐÚNG. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【찾아가는 무료 의료봉사】\n· 일시: 매월 둘째 주 토요일\n· 장소: ○○군 마을회관\n· 진료 과목: 내과, 한의학, 치과\n· 대상: 65세 이상 주민 (신분증 지참)",
+   "options": [
+    "65세 이상 주민이 무료로 진료를 받을 수 있다.",
+    "매주 토요일에 진료한다.",
+    "안과 진료도 받을 수 있다.",
+    "신분증은 필요 없다."
+   ],
+   "answer": "65세 이상 주민이 무료로 진료를 받을 수 있다.",
+   "explain": "대상: 65세 이상 + 무료."
+  }
+ ]
+}

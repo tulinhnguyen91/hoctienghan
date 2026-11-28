@@ -1,0 +1,398 @@
+{
+ "id": "bai-195",
+ "lesson": "Bài 195",
+ "title": "Công nghiệp và kinh tế (phần 2/4)",
+ "krTitle": "산업과 경제 2",
+ "date": "2027-08-28",
+ "day": 283,
+ "source": "TOPIK 5 – Bài 12: Công nghiệp và kinh tế (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "국민소득",
+   "Gungminsodeuk",
+   "Thu nhập quốc dân",
+   "한국의 국민소득은 지난 50년 동안 크게 늘었어요.",
+   "Thu nhập quốc dân của Hàn Quốc đã tăng mạnh trong 50 năm qua."
+  ],
+  [
+   "국민총생산",
+   "Gungminchongsaengsan",
+   "Tổng sản lượng quốc dân (GNP)",
+   "국민총생산은 국민이 만든 생산물의 총액이에요.",
+   "GNP là tổng giá trị sản phẩm do công dân làm ra."
+  ],
+  [
+   "국내총생산",
+   "Gungnaechongsaengsan",
+   "Tổng sản lượng quốc nội (GDP)",
+   "올해 국내총생산이 3% 증가했어요.",
+   "Năm nay GDP tăng 3%."
+  ],
+  [
+   "경제성장률",
+   "Gyeongjeseongjangnyul",
+   "Tỷ lệ tăng trưởng kinh tế",
+   "경제성장률이 예상보다 낮았어요.",
+   "Tỷ lệ tăng trưởng kinh tế thấp hơn dự kiến."
+  ],
+  [
+   "수출증가율",
+   "Suchuljeunggayul",
+   "Tỷ lệ tăng trưởng xuất khẩu",
+   "반도체 덕분에 수출증가율이 높아졌어요.",
+   "Nhờ bán dẫn mà tỷ lệ tăng xuất khẩu đã cao lên."
+  ],
+  [
+   "물가상승률",
+   "Mulgasangseungnyul",
+   "Tỷ lệ gia tăng vật giá",
+   "물가상승률이 높아서 서민들이 힘들어해요.",
+   "Lạm phát cao nên dân thường khổ sở."
+  ],
+  [
+   "경제특구",
+   "Gyeongjeteukgu",
+   "Đặc khu kinh tế",
+   "인천에는 경제특구가 있어요.",
+   "Ở Incheon có đặc khu kinh tế."
+  ],
+  [
+   "무역수지",
+   "Muyeoksuji",
+   "Cán cân thương mại, thu chi thương mại",
+   "올해 무역수지가 흑자로 돌아섰어요.",
+   "Năm nay cán cân thương mại đã chuyển sang thặng dư."
+  ],
+  [
+   "공급자",
+   "Gonggeupja",
+   "Nhà cung cấp",
+   "공급자가 많으면 가격이 내려가요.",
+   "Nhà cung cấp nhiều thì giá giảm."
+  ],
+  [
+   "수요자",
+   "Suyoja",
+   "Người tiêu dùng 수",
+   "수요자가 원하는 상품을 만들어야 해요.",
+   "Phải làm ra sản phẩm mà người có nhu cầu mong muốn."
+  ],
+  [
+   "소비자",
+   "Sobija",
+   "Người tiêu dùng 소",
+   "소비자는 품질과 가격을 꼼꼼히 비교해요.",
+   "Người tiêu dùng so sánh kỹ chất lượng và giá cả."
+  ],
+  [
+   "시장원리",
+   "Sijangwolli",
+   "Nguyên lý thị trường",
+   "가격은 시장원리에 따라 정해져요.",
+   "Giá được quyết định theo nguyên lý thị trường."
+  ],
+  [
+   "개발국가",
+   "Gaebalgukga",
+   "Nước phát triển (선진국)",
+   "개발국가들은 환경 문제에 더 많은 책임이 있어요.",
+   "Các nước phát triển có trách nhiệm lớn hơn với vấn đề môi trường."
+  ],
+  [
+   "개발도상국가",
+   "Gaebaldosanggukga",
+   "Nước đang phát triển (중진국)",
+   "베트남은 빠르게 성장하는 개발도상국가예요.",
+   "Việt Nam là nước đang phát triển tăng trưởng nhanh."
+  ],
+  [
+   "저개발국가",
+   "Jeogaebalgukga",
+   "Nước chậm phát triển (후진국)",
+   "저개발국가를 돕는 국제기구가 많아요.",
+   "Có nhiều tổ chức quốc tế giúp các nước kém phát triển."
+  ],
+  [
+   "경제정책",
+   "Gyeongjejeongchaek",
+   "Chính sách kinh tế",
+   "정부가 새로운 경제정책을 발표했어요.",
+   "Chính phủ đã công bố chính sách kinh tế mới."
+  ],
+  [
+   "경제 발전 정책",
+   "Gyeongje baljeon jeongchaek",
+   "Chính sách phát triển kinh tế (경제 개발 정책)",
+   "1960년대에 경제 발전 정책이 시작되었어요.",
+   "Chính sách phát triển kinh tế bắt đầu vào thập niên 1960."
+  ],
+  [
+   "물가정책",
+   "Mulgajeongchaek",
+   "Chính sách giá cả",
+   "물가정책으로 물가를 안정시켜야 해요.",
+   "Phải ổn định giá cả bằng chính sách giá."
+  ],
+  [
+   "소비자보호정책",
+   "Sobijabohojeongchaek",
+   "Chính sách bảo vệ người tiêu dùng",
+   "소비자보호정책 덕분에 환불을 받았어요.",
+   "Nhờ chính sách bảo vệ người tiêu dùng mà tôi được hoàn tiền."
+  ],
+  [
+   "빈부격차 해소",
+   "Binbugyeokcha haeso",
+   "Giải quyết chênh lệch giàu nghèo",
+   "빈부격차 해소가 가장 큰 사회 과제예요.",
+   "Giải quyết chênh lệch giàu nghèo là nhiệm vụ xã hội lớn nhất."
+  ],
+  [
+   "삶의 질 향상",
+   "Salmui jil hyangsang",
+   "Nâng cao chất lượng cuộc sống",
+   "경제 발전의 목적은 삶의 질 향상이에요.",
+   "Mục đích của phát triển kinh tế là nâng cao chất lượng cuộc sống."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㅁ에 따라(서) — Theo",
+   "meaning": "'Theo (sự)…, cùng với việc…' → vế trước là một SỰ THAY ĐỔI / QUÁ TRÌNH, vế sau là sự thay đổi XẢY RA THEO đó. Cấu tạo: danh từ hóa (으)ㅁ + 에 따라 (đã học với danh từ: N에 따라). Chia: có patchim → 음에 따라 (높음에 따라, 많음에 따라); không patchim → ㅁ에 따라 (증가함에 따라, 발전함에 따라, 늘어남에 따라); thân ㄹ → thêm ㅁ dưới ㄹ (줄다 → 줆에 따라). Quá khứ: 았/었음에 따라 (결정되었음에 따라 – thông báo chính thức). Văn VIẾT trang trọng: báo chí, báo cáo kinh tế, TOPIK câu 51~54. Gần nghĩa: (으)면서 (khẩu ngữ, 'khi… thì'), 는 데 따라. Khác (으)ㄹ수록 (càng… càng) — (으)ㅁ에 따라 trung tính hơn.",
+   "examples": [
+    "경제가 발전함에 따라 국민소득도 높아졌다. — Theo sự phát triển kinh tế, thu nhập quốc dân cũng tăng lên.",
+    "수출이 증가함에 따라 무역수지가 흑자로 돌아섰다. — Cùng với xuất khẩu tăng, cán cân thương mại chuyển sang thặng dư.",
+    "물가가 오름에 따라 서민들의 생활이 어려워지고 있다. — Theo đà tăng giá, đời sống người dân thường ngày càng khó khăn.",
+    "인구가 줄어듦에 따라 일할 사람이 부족해졌다. — Cùng với dân số giảm, người lao động trở nên thiếu."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "GDP trong tiếng Hàn là gì?",
+   "kr": "",
+   "options": [
+    "국내총생산",
+    "국민총생산",
+    "국민소득"
+   ],
+   "answer": "국내총생산",
+   "explain": "국내 = trong nước → GDP."
+  },
+  {
+   "type": "choice",
+   "q": "Nước đang phát triển gọi là gì?",
+   "kr": "",
+   "options": [
+    "개발도상국가",
+    "개발국가",
+    "저개발국가"
+   ],
+   "answer": "개발도상국가",
+   "explain": "도상 = đang trên đường."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Lạm phát cao nên dân thường khổ sở.",
+   "kr": "___이 높아서 서민들이 힘들어해요.",
+   "options": [
+    "물가상승률",
+    "경제성장률",
+    "수출증가율"
+   ],
+   "answer": "물가상승률",
+   "explain": "물가 상승 = giá cả tăng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Năm nay cán cân thương mại đã chuyển sang thặng dư.",
+   "kr": "올해 ___가 흑자로 돌아섰어요.",
+   "options": [
+    "무역수지",
+    "시장원리",
+    "경제특구"
+   ],
+   "answer": "무역수지",
+   "explain": "무역수지 = cán cân thương mại."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG: 발전하다 + (으)ㅁ에 따라",
+   "kr": "",
+   "options": [
+    "발전함에 따라",
+    "발전하음에 따라",
+    "발전했에 따라"
+   ],
+   "answer": "발전함에 따라",
+   "explain": "하다 → 함에 따라."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG: 오르다 + (으)ㅁ에 따라",
+   "kr": "",
+   "options": [
+    "오름에 따라",
+    "오르음에 따라",
+    "올음에 따라"
+   ],
+   "answer": "오름에 따라",
+   "explain": "Không patchim → ㅁ."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào là văn VIẾT trang trọng?",
+   "kr": "",
+   "options": [
+    "인구가 줄어듦에 따라 일할 사람이 부족해졌다.",
+    "인구가 줄어서 일할 사람이 없어요.",
+    "인구가 줄어드니까 일할 사람이 없네요."
+   ],
+   "answer": "인구가 줄어듦에 따라 일할 사람이 부족해졌다.",
+   "explain": "(으)ㅁ에 따라 + đuôi 다 → văn viết."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Giá được quyết định theo nguyên lý thị trường.",
+   "kr": "가격은 ___에 따라 정해져요.",
+   "options": [
+    "시장원리",
+    "소비자",
+    "공급자"
+   ],
+   "answer": "시장원리",
+   "explain": "시장원리."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㅁ에 따라 với 증가하다: Cùng với xuất khẩu tăng, cán cân thương mại thặng dư.",
+   "kr": "수출이 ___ 무역수지가 흑자로 돌아섰다.",
+   "answer": [
+    "증가함에 따라",
+    "증가함에 따라서"
+   ],
+   "explain": "증가하다 → 증가함에 따라."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㅁ에 따라 với 높아지다: Theo đà thu nhập tăng, tiêu dùng cũng tăng.",
+   "kr": "소득이 ___ 소비도 늘었다.",
+   "answer": [
+    "높아짐에 따라",
+    "높아짐에 따라서"
+   ],
+   "explain": "높아지다 → 높아짐."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ở Incheon có đặc khu kinh tế.",
+   "kr": "인천에는 ___가 있어요.",
+   "answer": [
+    "경제특구"
+   ],
+   "explain": "경제특구."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mục đích của phát triển kinh tế là nâng cao chất lượng cuộc sống.",
+   "kr": "경제 발전의 목적은 삶의 질 ___이에요.",
+   "answer": [
+    "향상"
+   ],
+   "explain": "삶의 질 향상."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Theo sự phát triển kinh tế, thu nhập quốc dân cũng tăng.",
+   "tokens": [
+    "경제가",
+    "발전함에",
+    "따라",
+    "국민소득도",
+    "높아졌다"
+   ],
+   "answer": "경제가 발전함에 따라 국민소득도 높아졌다",
+   "explain": "(으)ㅁ에 따라."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhà cung cấp nhiều thì giá giảm.",
+   "tokens": [
+    "공급자가",
+    "많으면",
+    "가격이",
+    "내려가요"
+   ],
+   "answer": "공급자가 많으면 가격이 내려가요",
+   "explain": "(으)면."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Theo đà dân số già đi, chi phí y tế tăng lên. (dùng (으)ㅁ에 따라, văn viết)",
+   "answer": [
+    "인구가 고령화됨에 따라 의료비가 늘었다.",
+    "인구가 고령화됨에 따라 의료비가 증가했다.",
+    "인구가 고령화됨에 따라 의료비가 늘어났다.",
+    "인구가 고령화됨에 따라 의료비가 늘고 있다."
+   ],
+   "explain": "고령화되다 → 고령화됨에 따라."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Năm nay GDP tăng 3%.",
+   "answer": [
+    "올해 국내총생산이 3% 증가했어요.",
+    "올해 국내총생산이 3% 늘었어요.",
+    "올해 GDP가 3% 증가했어요."
+   ],
+   "explain": "증가하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhờ chính sách bảo vệ người tiêu dùng mà tôi được hoàn tiền.",
+   "answer": [
+    "소비자보호정책 덕분에 환불을 받았어요.",
+    "소비자보호정책 덕분에 환불받았어요."
+   ],
+   "explain": "N 덕분에."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "경제성장률이 높아짐에 따라 국민소득도 크게 늘었다. 그러나 빈부격차는 오히려 커져서 정부는 삶의 질 향상을 위한 새로운 경제정책을 고민하고 있다.",
+   "answer": "Cùng với tỷ lệ tăng trưởng kinh tế cao lên, thu nhập quốc dân cũng tăng mạnh. Nhưng khoảng cách giàu nghèo lại càng lớn hơn nên chính phủ đang trăn trở về chính sách kinh tế mới để nâng cao chất lượng cuộc sống.",
+   "explain": "높아짐에 따라; 오히려."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "남자: 뉴스에서 올해 물가상승률이 5%나 된대요.\n여자: 그래서 장 보러 가면 깜짝 놀라요. 월급은 그대로인데 물가가 오르니까 생활비가 부족해요.\n남자: 정부가 물가정책을 내놓는다고 하니까 좀 기다려 봐야겠어요.\n여자: 저는 일단 외식을 줄이기로 했어요.",
+   "options": [
+    "여자는 외식을 줄이기로 했다.",
+    "올해 물가상승률이 낮다.",
+    "여자의 월급이 많이 올랐다.",
+    "정부는 아무 정책도 내놓지 않는다."
+   ],
+   "answer": "여자는 외식을 줄이기로 했다.",
+   "explain": "외식을 줄이기로 했어요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "수출 호조에 무역수지 흑자 전환… 경제성장률 3%대 회복",
+   "options": [
+    "수출이 잘되어서 무역수지가 흑자가 되었고 경제성장률도 3%대로 올라갔다.",
+    "수출이 줄어서 무역수지가 적자가 되었다.",
+    "경제성장률이 3% 아래로 떨어졌다.",
+    "무역수지는 계속 적자이다."
+   ],
+   "answer": "수출이 잘되어서 무역수지가 흑자가 되었고 경제성장률도 3%대로 올라갔다.",
+   "explain": "호조 = tình hình tốt; 흑자 전환 = chuyển sang thặng dư."
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "id": "bai-242",
+ "lesson": "Bài 242",
+ "title": "Chế độ chính trị (phần 1/4)",
+ "krTitle": "정치 제도 1",
+ "date": "2027-11-07",
+ "day": 354,
+ "source": "TOPIK 6 – Bài 8: Chế độ chính trị (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "정치권력",
+   "Jeongchigwollyeok",
+   "Quyền lực chính trị",
+   "정치권력은 국민에게서 나와요.",
+   "Quyền lực chính trị bắt nguồn từ nhân dân."
+  ],
+  [
+   "독재정치",
+   "Dokjaejeongchi",
+   "Nền chính trị độc tài",
+   "독재정치에서는 국민의 자유가 제한돼요.",
+   "Trong chính trị độc tài, tự do của nhân dân bị hạn chế."
+  ],
+  [
+   "정계 (정치 세계)",
+   "Jeonggye (jeongchi segye)",
+   "Chính giới, giới chính trị",
+   "그는 기업가였다가 정계에 진출했어요.",
+   "Ông ấy từng là doanh nhân rồi bước vào chính giới."
+  ],
+  [
+   "지도력",
+   "Jidoryeok",
+   "Năng lực lãnh đạo",
+   "지도자에게는 지도력이 필요해요.",
+   "Người lãnh đạo cần có năng lực lãnh đạo."
+  ],
+  [
+   "정당정치",
+   "Jeongdangjeongchi",
+   "Nền chính trị chính đảng",
+   "정당정치는 여러 정당이 경쟁하는 정치예요.",
+   "Chính trị chính đảng là nền chính trị nhiều đảng cạnh tranh."
+  ],
+  [
+   "정치인",
+   "Jeongchiin",
+   "Chính trị gia, người hoạt động chính trị",
+   "정치인은 국민의 목소리를 들어야 해요.",
+   "Chính trị gia phải lắng nghe tiếng nói của người dân."
+  ],
+  [
+   "민주정치",
+   "Minjujeongchi",
+   "Nền chính trị dân chủ",
+   "민주정치의 기본은 선거예요.",
+   "Nền tảng của chính trị dân chủ là bầu cử."
+  ],
+  [
+   "의회정치",
+   "Uihoejeongchi",
+   "Nền chính trị nghị viện (quốc hội)",
+   "영국은 의회정치가 발달한 나라예요.",
+   "Anh là nước có chính trị nghị viện phát triển."
+  ],
+  [
+   "정치제도",
+   "Jeongchijedo",
+   "Chế độ chính trị",
+   "나라마다 정치제도가 달라요.",
+   "Mỗi nước có chế độ chính trị khác nhau."
+  ],
+  [
+   "입법부",
+   "Ipbeopbu",
+   "Cơ quan (bộ) lập pháp",
+   "국회는 법을 만드는 입법부예요.",
+   "Quốc hội là cơ quan lập pháp làm ra luật."
+  ],
+  [
+   "삼권분립",
+   "Samgwonbullip",
+   "Tam quyền phân lập",
+   "삼권분립은 권력을 셋으로 나누는 제도예요.",
+   "Tam quyền phân lập là chế độ chia quyền lực làm ba."
+  ],
+  [
+   "대통령중심제",
+   "Daetongnyeongjungsimje",
+   "Chế độ tổng thống",
+   "한국은 대통령중심제 국가예요.",
+   "Hàn Quốc là nước theo chế độ tổng thống."
+  ],
+  [
+   "행정부",
+   "Haengjeongbu",
+   "Cơ quan hành pháp (chính phủ)",
+   "행정부는 법에 따라 나라를 운영해요.",
+   "Cơ quan hành pháp điều hành đất nước theo luật."
+  ],
+  [
+   "국무총리 (수상)",
+   "Gungmuchongni (susang)",
+   "Thủ tướng chính phủ",
+   "국무총리는 대통령을 도와 행정을 맡아요.",
+   "Thủ tướng giúp tổng thống đảm nhận hành chính."
+  ],
+  [
+   "의원내각제",
+   "Uiwonnaegakje",
+   "Chế độ nghị viện nội các",
+   "일본은 의원내각제 국가예요.",
+   "Nhật Bản là nước theo chế độ nghị viện nội các."
+  ],
+  [
+   "사법부",
+   "Sabeopbu",
+   "Bộ tư pháp",
+   "사법부는 법에 따라 재판을 해요.",
+   "Cơ quan tư pháp xét xử theo pháp luật."
+  ],
+  [
+   "장관 (각료)",
+   "Janggwan (gangnyo)",
+   "Bộ trưởng",
+   "새 장관이 임명되었어요.",
+   "Bộ trưởng mới đã được bổ nhiệm."
+  ],
+  [
+   "정당",
+   "Jeongdang",
+   "Chính đảng",
+   "선거 때 여러 정당이 후보를 내요.",
+   "Khi bầu cử, nhiều chính đảng đưa ra ứng cử viên."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Cơ quan làm ra luật (Quốc hội) gọi là gì?",
+   "kr": "",
+   "options": [
+    "입법부",
+    "행정부",
+    "사법부"
+   ],
+   "answer": "입법부",
+   "explain": "입법 = lập pháp."
+  },
+  {
+   "type": "choice",
+   "q": "Cơ quan xét xử (Tòa án) thuộc nhánh nào?",
+   "kr": "",
+   "options": [
+    "사법부",
+    "입법부",
+    "행정부"
+   ],
+   "answer": "사법부",
+   "explain": "사법 = tư pháp."
+  },
+  {
+   "type": "choice",
+   "q": "Chế độ chia quyền lực thành lập pháp, hành pháp, tư pháp gọi là gì?",
+   "kr": "",
+   "options": [
+    "삼권분립",
+    "대통령중심제",
+    "독재정치"
+   ],
+   "answer": "삼권분립",
+   "explain": "삼권 = ba quyền."
+  },
+  {
+   "type": "choice",
+   "q": "Hàn Quốc theo chế độ chính trị nào?",
+   "kr": "",
+   "options": [
+    "대통령중심제",
+    "의원내각제",
+    "독재정치"
+   ],
+   "answer": "대통령중심제",
+   "explain": "Tổng thống là trung tâm."
+  },
+  {
+   "type": "choice",
+   "q": "Nền chính trị mà một người/nhóm nắm hết quyền lực gọi là gì?",
+   "kr": "",
+   "options": [
+    "독재정치",
+    "민주정치",
+    "의회정치"
+   ],
+   "answer": "독재정치",
+   "explain": "독재 = độc tài."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ông ấy từng là doanh nhân rồi bước vào chính giới.",
+   "kr": "그는 기업가였다가 ___에 진출했어요.",
+   "options": [
+    "정계",
+    "정당",
+    "장관"
+   ],
+   "answer": "정계",
+   "explain": "정계 = chính giới."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Người lãnh đạo cần có năng lực lãnh đạo.",
+   "kr": "지도자에게는 ___이 필요해요.",
+   "options": [
+    "지도력",
+    "정치권력",
+    "입법부"
+   ],
+   "answer": "지도력",
+   "explain": "지도력."
+  },
+  {
+   "type": "choice",
+   "q": "Nhật Bản, Anh theo chế độ nào?",
+   "kr": "",
+   "options": [
+    "의원내각제",
+    "대통령중심제",
+    "삼권분립 없음"
+   ],
+   "answer": "의원내각제",
+   "explain": "Nghị viện – nội các."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Quyền lực chính trị bắt nguồn từ nhân dân.",
+   "kr": "___은 국민에게서 나와요.",
+   "answer": [
+    "정치권력"
+   ],
+   "explain": "정치권력."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Nền tảng của chính trị dân chủ là bầu cử.",
+   "kr": "___의 기본은 선거예요.",
+   "answer": [
+    "민주정치"
+   ],
+   "explain": "민주정치."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Bộ trưởng mới đã được bổ nhiệm.",
+   "kr": "새 ___이 임명되었어요.",
+   "answer": [
+    "장관"
+   ],
+   "explain": "장관."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mỗi nước có chế độ chính trị khác nhau.",
+   "kr": "나라마다 ___가 달라요.",
+   "answer": [
+    "정치제도"
+   ],
+   "explain": "정치제도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Quốc hội là cơ quan lập pháp làm ra luật.",
+   "tokens": [
+    "국회는",
+    "법을",
+    "만드는",
+    "입법부예요"
+   ],
+   "answer": "국회는 법을 만드는 입법부예요",
+   "explain": "입법부."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chính trị gia phải lắng nghe tiếng nói người dân.",
+   "tokens": [
+    "정치인은",
+    "국민의",
+    "목소리를",
+    "들어야",
+    "해요"
+   ],
+   "answer": "정치인은 국민의 목소리를 들어야 해요",
+   "explain": "아/어야 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hàn Quốc là nước theo chế độ tổng thống.",
+   "answer": [
+    "한국은 대통령중심제 국가예요.",
+    "한국은 대통령중심제 나라예요.",
+    "한국은 대통령중심제를 채택한 나라예요."
+   ],
+   "explain": "대통령중심제."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cơ quan tư pháp xét xử theo pháp luật.",
+   "answer": [
+    "사법부는 법에 따라 재판을 해요.",
+    "사법부는 법에 따라 재판해요."
+   ],
+   "explain": "에 따라."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Khi bầu cử, nhiều chính đảng đưa ra ứng cử viên.",
+   "answer": [
+    "선거 때 여러 정당이 후보를 내요.",
+    "선거 때 여러 정당이 후보를 내세워요."
+   ],
+   "explain": "후보를 내다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "민주 국가에서는 권력이 한곳에 집중되지 않도록 입법부, 행정부, 사법부로 나눈다. 이것을 삼권분립이라고 하는데, 세 기관이 서로 견제하면서 국민의 자유와 권리를 지킨다.",
+   "answer": "Ở quốc gia dân chủ, để quyền lực không tập trung vào một chỗ, người ta chia thành cơ quan lập pháp, hành pháp và tư pháp. Điều này gọi là tam quyền phân lập; ba cơ quan vừa kiềm chế lẫn nhau vừa bảo vệ tự do và quyền lợi của người dân.",
+   "explain": "도록; 견제하다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "여자: 다음 수업 주제가 뭐예요?\n남자: 삼권분립이요. 입법부, 행정부, 사법부가 하는 일을 비교해 오래요.\n여자: 그럼 도서관에 가서 같이 자료를 찾아볼까요?",
+   "options": [
+    "두 사람이 수업 과제에 대해 이야기하고 있다.",
+    "두 사람이 선거에 투표하고 있다.",
+    "두 사람이 국회를 방문하고 있다.",
+    "두 사람이 재판을 받고 있다."
+   ],
+   "answer": "두 사람이 수업 과제에 대해 이야기하고 있다.",
+   "explain": "수업 주제, 과제 → 자료 찾기."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "대통령중심제에서는 국민이 직접 대통령을 뽑고, 대통령이 행정부를 이끈다. 반면 의원내각제에서는 국민이 국회의원을 뽑고, 국회에서 다수를 차지한 정당이 내각을 구성하여 총리가 행정을 맡는다. 두 제도는 각각 장단점이 있다.",
+   "options": [
+    "의원내각제에서는 국회의 다수당이 내각을 구성한다.",
+    "대통령중심제에서는 국회가 대통령을 뽑는다.",
+    "의원내각제에서는 대통령이 행정을 맡는다.",
+    "두 제도에는 단점이 없다."
+   ],
+   "answer": "의원내각제에서는 국회의 다수당이 내각을 구성한다.",
+   "explain": "다수를 차지한 정당이 내각을 구성."
+  }
+ ]
+}

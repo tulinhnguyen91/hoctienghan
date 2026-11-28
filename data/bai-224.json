@@ -1,0 +1,410 @@
+{
+ "id": "bai-224",
+ "lesson": "Bài 224",
+ "title": "Văn học Hàn Quốc (phần 1/5)",
+ "krTitle": "한국 문학 1",
+ "date": "2027-10-11",
+ "day": 327,
+ "source": "TOPIK 6 – Bài 4: Văn học Hàn Quốc (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "산문",
+   "Sanmun",
+   "Văn xuôi",
+   "소설과 수필은 산문에 속해요.",
+   "Tiểu thuyết và tùy bút thuộc văn xuôi."
+  ],
+  [
+   "수필",
+   "Supil",
+   "Tiểu luận, tản văn, tùy bút, ký",
+   "그 작가의 수필을 읽으면 마음이 편해져요.",
+   "Đọc tùy bút của nhà văn đó thấy lòng nhẹ nhõm."
+  ],
+  [
+   "운문",
+   "Unmun",
+   "Văn vần, thơ",
+   "시는 대표적인 운문이에요.",
+   "Thơ là thể văn vần tiêu biểu."
+  ],
+  [
+   "평론",
+   "Pyeongnon",
+   "Lý luận, phê bình",
+   "신문에 그 소설에 대한 평론이 실렸어요.",
+   "Bài phê bình về cuốn tiểu thuyết đó được đăng trên báo."
+  ],
+  [
+   "시",
+   "Si",
+   "Thơ",
+   "윤동주의 시를 좋아해요.",
+   "Tôi thích thơ của Yun Dong-ju."
+  ],
+  [
+   "희곡",
+   "Huigok",
+   "Kịch bản kịch (hý khúc)",
+   "학생들이 희곡을 읽고 연극을 했어요.",
+   "Học sinh đọc kịch bản rồi diễn kịch."
+  ],
+  [
+   "소설",
+   "Soseol",
+   "Tiểu thuyết",
+   "요즘 한국 소설이 해외에서 인기가 많아요.",
+   "Dạo này tiểu thuyết Hàn rất được yêu thích ở nước ngoài."
+  ],
+  [
+   "시나리오",
+   "Sinario",
+   "Kịch bản",
+   "그는 영화 시나리오를 쓰고 있어요.",
+   "Anh ấy đang viết kịch bản phim."
+  ],
+  [
+   "주제",
+   "Juje",
+   "Chủ đề",
+   "이 시의 주제는 그리움이에요.",
+   "Chủ đề của bài thơ này là nỗi nhớ."
+  ],
+  [
+   "구성",
+   "Guseong",
+   "Sự cấu thành, sự hình thành",
+   "소설은 발단, 전개, 위기, 절정, 결말로 구성돼요.",
+   "Tiểu thuyết gồm mở đầu, phát triển, gay cấn, cao trào, kết thúc."
+  ],
+  [
+   "작품 세계",
+   "Jakpum segye",
+   "Hệ thống tác phẩm, hệ thống văn học",
+   "그 작가의 작품 세계는 아주 독특해요.",
+   "Thế giới tác phẩm của nhà văn đó rất độc đáo."
+  ],
+  [
+   "소재",
+   "Sojae",
+   "Chất liệu",
+   "이 소설은 가족을 소재로 했어요.",
+   "Tiểu thuyết này lấy gia đình làm chất liệu."
+  ],
+  [
+   "자유시",
+   "Jayusi",
+   "Thơ tự do",
+   "자유시는 형식에 얽매이지 않아요.",
+   "Thơ tự do không bị bó buộc bởi hình thức."
+  ],
+  [
+   "작품성",
+   "Jakpumseong",
+   "Tính nghệ thuật của tác phẩm",
+   "이 영화는 작품성도 높고 재미도 있어요.",
+   "Bộ phim này vừa có giá trị nghệ thuật cao vừa thú vị."
+  ],
+  [
+   "제재",
+   "Jejae",
+   "Đề tài, chất liệu",
+   "이 소설의 제재는 전쟁이에요.",
+   "Đề tài của tiểu thuyết này là chiến tranh."
+  ],
+  [
+   "정형시",
+   "Jeonghyeongsi",
+   "Thơ theo hình thức truyền thống",
+   "시조는 한국의 대표적인 정형시예요.",
+   "Sijo là thể thơ định hình tiêu biểu của Hàn Quốc."
+  ],
+  [
+   "일인칭 주인공 시점",
+   "Irinching juingong sijeom",
+   "Góc nhìn ngôi thứ nhất của nhân vật chính",
+   "'나는'으로 시작하는 소설은 일인칭 주인공 시점이 많아요.",
+   "Tiểu thuyết bắt đầu bằng 'tôi' thường là ngôi thứ nhất nhân vật chính."
+  ],
+  [
+   "작가 관찰자 시점",
+   "Jakga gwanchalja sijeom",
+   "Góc nhìn quan sát của tác giả",
+   "작가 관찰자 시점에서는 인물의 속마음을 알 수 없어요.",
+   "Ở điểm nhìn tác giả quan sát thì không biết được nội tâm nhân vật."
+  ],
+  [
+   "위기",
+   "Wigi",
+   "Khủng hoảng; đoạn gay cấn (cấu trúc truyện)",
+   "주인공이 위기에 빠졌어요.",
+   "Nhân vật chính rơi vào khủng hoảng."
+  ],
+  [
+   "일인칭 관찰자 시점",
+   "Irinching gwanchalja sijeom",
+   "Góc nhìn quan sát từ ngôi thứ nhất",
+   "일인칭 관찰자 시점에서는 '나'가 주인공을 관찰해요.",
+   "Ở điểm nhìn ngôi thứ nhất quan sát, 'tôi' quan sát nhân vật chính."
+  ],
+  [
+   "발단",
+   "Baldan",
+   "Khởi đầu, bắt đầu",
+   "이야기의 발단은 한 통의 편지였어요.",
+   "Khởi đầu câu chuyện là một bức thư."
+  ],
+  [
+   "절정",
+   "Jeoljeong",
+   "Tuyệt đỉnh, cao nhất",
+   "이야기가 절정에 이르렀어요.",
+   "Câu chuyện đã lên đến cao trào."
+  ],
+  [
+   "전지적 작가 시점",
+   "Jeonjijeong jakga sijeom",
+   "Góc nhìn của tác giả thông suốt mọi việc",
+   "전지적 작가 시점에서는 작가가 모든 것을 알아요.",
+   "Ở điểm nhìn tác giả toàn tri, tác giả biết mọi thứ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 고요 — Và còn nữa",
+   "meaning": "Gắn ở CUỐI CÂU để BỔ SUNG THÊM một ý (lý do, đặc điểm, thông tin) cho câu mình hoặc người kia vừa nói: 'và còn… nữa, lại còn… nữa'. Thực chất là liên từ 고 (và) + 요 — câu được tách đôi, phần sau nói thêm như 'nhân tiện'. Gắn thẳng vào thân: 재미있다 → 재미있고요, 싸다 → 싸고요, 읽다 → 읽고요; quá khứ: 았/었고요; danh từ: (이)고요. Rất hay gặp trong hội thoại, đặc biệt đề Nghe TOPIK: '이 소설은 주제가 좋아요. 문장도 아름답고요.' (Tiểu thuyết này có chủ đề hay. Câu văn lại còn đẹp nữa). Còn dùng để HỎI tiếp: '그럼 결말은요? / 주인공은 누구고요?' (thế nhân vật chính là ai nữa?). Khác với 고말고요 (Bài 219 – chắc chắn rồi).",
+   "examples": [
+    "이 소설은 내용이 재미있어요. 문장도 아름답고요. — Tiểu thuyết này nội dung hay. Câu văn lại còn đẹp nữa.",
+    "시를 좋아하게 됐어요. 짧아서 읽기도 쉽고요. — Tôi bắt đầu thích thơ. Lại ngắn nên dễ đọc nữa.",
+    "가: 이 책 어때요? 나: 좋아요. 값도 싸고요. — A: Sách này thế nào? B: Hay. Giá lại rẻ nữa.",
+    "오늘은 피곤해서 일찍 잘게요. 내일 시험도 있고요. — Hôm nay mệt nên tôi ngủ sớm. Mai còn có bài thi nữa."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Văn viết không theo vần, nhịp (tiểu thuyết, tùy bút) gọi là gì?",
+   "kr": "",
+   "options": [
+    "산문",
+    "운문",
+    "정형시"
+   ],
+   "answer": "산문",
+   "explain": "산문 = văn xuôi; 운문 = văn vần."
+  },
+  {
+   "type": "choice",
+   "q": "Thứ tự đúng của cấu trúc truyện (5 bước) là gì?",
+   "kr": "",
+   "options": [
+    "발단-전개-위기-절정-결말",
+    "전개-발단-절정-위기-결말",
+    "발단-위기-전개-결말-절정"
+   ],
+   "answer": "발단-전개-위기-절정-결말",
+   "explain": "Mở đầu → phát triển → gay cấn → cao trào → kết."
+  },
+  {
+   "type": "choice",
+   "q": "Điểm nhìn mà tác giả biết hết suy nghĩ của mọi nhân vật gọi là gì?",
+   "kr": "",
+   "options": [
+    "전지적 작가 시점",
+    "작가 관찰자 시점",
+    "일인칭 관찰자 시점"
+   ],
+   "answer": "전지적 작가 시점",
+   "explain": "전지 = toàn tri."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bài phê bình tiểu thuyết đó được đăng trên báo.",
+   "kr": "신문에 그 소설에 대한 ___이 실렸어요.",
+   "options": [
+    "평론",
+    "희곡",
+    "운문"
+   ],
+   "answer": "평론",
+   "explain": "평론."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách bổ sung ý ĐÚNG: '이 책은 재미있어요. (Lại còn rẻ nữa.)'",
+   "kr": "",
+   "options": [
+    "값도 싸고요.",
+    "값도 싸고말고요.",
+    "값도 싼고요."
+   ],
+   "answer": "값도 싸고요.",
+   "explain": "Gắn thẳng: 싸고요."
+  },
+  {
+   "type": "choice",
+   "q": "'내일 시험도 있고요.' có chức năng gì?",
+   "kr": "",
+   "options": [
+    "Bổ sung thêm lý do",
+    "Khẳng định mạnh",
+    "Hối tiếc"
+   ],
+   "answer": "Bổ sung thêm lý do",
+   "explain": "고요 = thêm ý."
+  },
+  {
+   "type": "choice",
+   "q": "Câu hỏi '주인공은 누구고요?' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Thế còn nhân vật chính là ai?",
+    "Nhân vật chính là ai chắc chắn rồi.",
+    "Tôi là nhân vật chính."
+   ],
+   "answer": "Thế còn nhân vật chính là ai?",
+   "explain": "고요? = hỏi thêm."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tiểu thuyết này lấy gia đình làm chất liệu.",
+   "kr": "이 소설은 가족을 ___로 했어요.",
+   "options": [
+    "소재",
+    "결말",
+    "시점"
+   ],
+   "answer": "소재",
+   "explain": "N을 소재로 하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고요 với 아름답다: Câu văn lại còn đẹp nữa.",
+   "kr": "이 소설은 내용이 재미있어요. 문장도 ___.",
+   "answer": [
+    "아름답고요"
+   ],
+   "explain": "아름답고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 고요 với 쉽다: Lại ngắn nên dễ đọc nữa.",
+   "kr": "시를 좋아하게 됐어요. 짧아서 읽기도 ___.",
+   "answer": [
+    "쉽고요"
+   ],
+   "explain": "쉽고요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chủ đề của bài thơ này là nỗi nhớ.",
+   "kr": "이 시의 ___는 그리움이에요.",
+   "answer": [
+    "주제"
+   ],
+   "explain": "주제."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Câu chuyện đã lên đến cao trào.",
+   "kr": "이야기가 ___에 이르렀어요.",
+   "answer": [
+    "절정"
+   ],
+   "explain": "절정."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hôm nay mệt nên ngủ sớm. Mai còn có bài thi nữa.",
+   "tokens": [
+    "오늘은",
+    "피곤해서",
+    "일찍",
+    "잘게요.",
+    "내일",
+    "시험도",
+    "있고요."
+   ],
+   "answer": "오늘은 피곤해서 일찍 잘게요. 내일 시험도 있고요.",
+   "explain": "고요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thơ tự do không bị bó buộc bởi hình thức.",
+   "tokens": [
+    "자유시는",
+    "형식에",
+    "얽매이지",
+    "않아요"
+   ],
+   "answer": "자유시는 형식에 얽매이지 않아요",
+   "explain": "N에 얽매이다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nhà hàng này ngon. Lại còn sạch nữa. (dùng 고요)",
+   "answer": [
+    "이 식당은 맛있어요. 깨끗하고요.",
+    "이 식당은 맛있어요. 깨끗하기도 하고요.",
+    "이 식당은 맛있어요. 그리고 깨끗하고요."
+   ],
+   "explain": "깨끗하고요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Anh ấy đang viết kịch bản phim.",
+   "answer": [
+    "그는 영화 시나리오를 쓰고 있어요.",
+    "그 사람은 영화 시나리오를 쓰고 있어요."
+   ],
+   "explain": "고 있다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Sijo là thể thơ định hình tiêu biểu của Hàn Quốc.",
+   "answer": [
+    "시조는 한국의 대표적인 정형시예요.",
+    "시조는 한국을 대표하는 정형시예요."
+   ],
+   "explain": "정형시."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "소설은 보통 발단, 전개, 위기, 절정, 결말의 다섯 단계로 구성된다. 또 누가 이야기를 하는지에 따라 일인칭 주인공 시점, 전지적 작가 시점 등으로 나눌 수 있다.",
+   "answer": "Tiểu thuyết thường được cấu thành từ năm bước: mở đầu, phát triển, gay cấn, cao trào, kết thúc. Ngoài ra, tùy vào ai là người kể chuyện mà có thể chia thành điểm nhìn ngôi thứ nhất nhân vật chính, điểm nhìn tác giả toàn tri, v.v.",
+   "explain": "는지에 따라."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 요즘 무슨 책 읽어요?\n남자: 한국 수필집을 읽고 있어요. 소설보다 짧아서 부담이 없어요. 작가의 생각을 솔직하게 알 수 있고요.\n여자: 저도 한번 읽어 보고 싶네요. 다 읽으면 빌려줄 수 있어요?\n남자: 그럼요. 다음 주에 빌려줄게요.",
+   "options": [
+    "남자는 수필을 읽고 있다.",
+    "남자는 긴 소설을 좋아한다.",
+    "여자는 그 책을 이미 읽었다.",
+    "남자는 책을 빌려주지 않을 것이다."
+   ],
+   "answer": "남자는 수필을 읽고 있다.",
+   "explain": "한국 수필집을 읽고 있어요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "한국 소설, 해외 문학상 잇따라 수상… 작품성 인정받아",
+   "options": [
+    "한국 소설이 해외에서 계속 상을 받으며 작품의 가치를 인정받고 있다.",
+    "한국 소설이 해외에서 팔리지 않는다.",
+    "해외 작가가 한국에서 상을 받았다.",
+    "한국 소설이 상을 받지 못했다."
+   ],
+   "answer": "한국 소설이 해외에서 계속 상을 받으며 작품의 가치를 인정받고 있다.",
+   "explain": "잇따라 = liên tiếp; 수상 = nhận giải."
+  }
+ ]
+}

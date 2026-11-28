@@ -1,0 +1,396 @@
+{
+ "id": "bai-202",
+ "lesson": "Bài 202",
+ "title": "Cuộc đời của người Hàn Quốc (phần 2/4)",
+ "krTitle": "한국인의 일생 2",
+ "date": "2027-09-08",
+ "day": 294,
+ "source": "TOPIK 5 – Bài 14: Cuộc đời của người Hàn Quốc (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "예식을 올리다",
+   "Yesigeul ollida",
+   "Tiến hành nghi lễ",
+   "두 사람은 성당에서 예식을 올렸어요.",
+   "Hai người làm lễ cưới ở nhà thờ."
+  ],
+  [
+   "예물",
+   "Yemul",
+   "Lễ vật",
+   "결혼 예물로 반지를 주고받았어요.",
+   "Trao đổi nhẫn làm lễ vật cưới."
+  ],
+  [
+   "함",
+   "Ham",
+   "Hòm lễ vật (nhà trai gửi nhà gái)",
+   "결혼 전에 신랑 친구들이 함을 가지고 왔어요.",
+   "Trước đám cưới, bạn chú rể mang hòm lễ vật đến."
+  ],
+  [
+   "주례",
+   "Jurye",
+   "Người chủ hôn",
+   "대학 은사님께 주례를 부탁드렸어요.",
+   "Tôi nhờ thầy hồi đại học làm chủ hôn."
+  ],
+  [
+   "장례식장",
+   "Jangnyesikjang",
+   "Đám tang, địa điểm tổ chức tang lễ",
+   "장례식장에 조문을 갔어요.",
+   "Tôi đi viếng ở nhà tang lễ."
+  ],
+  [
+   "상주",
+   "Sangju",
+   "Tang chủ",
+   "큰아들이 상주가 되었어요.",
+   "Con trai cả làm tang chủ."
+  ],
+  [
+   "빈소",
+   "Binso",
+   "Phòng đặt quan tài",
+   "빈소에 많은 사람들이 찾아왔어요.",
+   "Nhiều người đến phòng tang."
+  ],
+  [
+   "매장하다",
+   "Maejanghada",
+   "Chôn",
+   "옛날에는 고인을 땅에 매장했어요.",
+   "Ngày xưa người ta chôn người quá cố xuống đất."
+  ],
+  [
+   "조문객",
+   "Jomungaek",
+   "Khách viếng đám tang (문상객)",
+   "조문객들이 늦은 밤까지 이어졌어요.",
+   "Khách viếng nối nhau đến tận đêm khuya."
+  ],
+  [
+   "고인",
+   "Goin",
+   "Người quá cố",
+   "고인의 명복을 빕니다.",
+   "Xin cầu cho người quá cố được yên nghỉ."
+  ],
+  [
+   "상복",
+   "Sangbok",
+   "Áo tang",
+   "가족들은 검은 상복을 입었어요.",
+   "Gia đình mặc áo tang màu đen."
+  ],
+  [
+   "화장하다",
+   "Hwajanghada",
+   "Hỏa táng; trang điểm",
+   "요즘은 매장보다 화장하는 경우가 많아요.",
+   "Dạo này hỏa táng nhiều hơn chôn cất."
+  ],
+  [
+   "예를 표하다",
+   "Yereul pyohada",
+   "Thể hiện lễ nghĩa",
+   "조문객들은 고인에게 예를 표했어요.",
+   "Khách viếng thể hiện lễ nghĩa với người quá cố."
+  ],
+  [
+   "곡을 하다",
+   "Gogeul hada",
+   "Khóc than trong đám ma",
+   "옛날 장례식에서는 곡을 했어요.",
+   "Ở tang lễ ngày xưa có khóc than."
+  ],
+  [
+   "조의금",
+   "Jouigeum",
+   "Tiền phúng viếng, tiền chia buồn (부의금)",
+   "봉투에 조의금을 넣었어요.",
+   "Bỏ tiền phúng viếng vào phong bì."
+  ],
+  [
+   "조화",
+   "Johwa",
+   "Hoa đưa đến viếng tang",
+   "회사에서 조화를 보냈어요.",
+   "Công ty đã gửi vòng hoa viếng."
+  ],
+  [
+   "제상",
+   "Jesang",
+   "Cỗ cúng giỗ",
+   "제상에 과일과 떡을 올렸어요.",
+   "Đặt trái cây và bánh tteok lên mâm cúng."
+  ],
+  [
+   "차례를 지내다",
+   "Charyereul jinaeda",
+   "Tiến hành tế lễ",
+   "추석 아침에 차례를 지내요.",
+   "Sáng Chuseok làm lễ cúng tổ tiên."
+  ],
+  [
+   "제수용품",
+   "Jesuyongpum",
+   "Đồ dùng cho cúng giỗ",
+   "명절 전에 시장에서 제수용품을 샀어요.",
+   "Trước lễ tết mua đồ cúng ở chợ."
+  ],
+  [
+   "제주",
+   "Jeju",
+   "Người chủ tế (đứng lễ cúng)",
+   "큰아버지가 제주가 되어 제사를 지냈어요.",
+   "Bác cả làm chủ tế cúng giỗ."
+  ],
+  [
+   "성묘",
+   "Seongmyo",
+   "Sự viếng mộ, sự tảo mộ",
+   "추석에 가족들과 성묘를 갔어요.",
+   "Dịp Chuseok tôi cùng gia đình đi tảo mộ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)다면서(요)? — Nghe nói … đúng không",
+   "meaning": "Hỏi lại để XÁC NHẬN điều đã NGHE từ người khác, thường kèm chút NGẠC NHIÊN: 'Nghe nói… đúng không?, Nghe bảo… hả?'. Rút gọn của (ㄴ/는)다고 하면서요?. Chia như câu gián tiếp: Động từ có patchim → 는다면서요? (먹는다면서요?); không patchim → ㄴ다면서요? (결혼한다면서요?); Tính từ → 다면서요? (바쁘다면서요?); Danh từ → (이)라면서요? (상주라면서요?); Quá khứ → 았/었다면서요?; Mệnh lệnh → (으)라면서요?; Rủ rê → 자면서요?. Thân mật: 다면서?. So sánh với 다지요? (Bài 171): 다지요? người nói khá chắc, chỉ xác nhận nhẹ; 다면서요? có cảm giác ngạc nhiên, mới nghe được, đôi khi trách nhẹ ('nghe nói… vậy mà sao…?'). Dạng không hỏi: 다면서 + câu sau = 'nói là… vậy mà' (trách): 바쁘다면서 왜 놀아요? (bảo bận mà sao lại chơi?).",
+   "examples": [
+    "다음 달에 결혼한다면서요? 축하해요! — Nghe nói tháng sau bạn kết hôn hả? Chúc mừng nhé!",
+    "민수 씨 할아버지께서 돌아가셨다면서요? — Nghe nói ông của Min-su mất rồi đúng không?",
+    "요즘은 화장을 많이 한다면서요? — Nghe nói dạo này người ta hỏa táng nhiều đúng không?",
+    "바쁘다면서 왜 게임을 하고 있어요? — Bảo là bận mà sao lại đang chơi game?"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Người đứng ra chủ trì lễ cưới, đọc lời chúc gọi là gì?",
+   "kr": "",
+   "options": [
+    "주례",
+    "상주",
+    "제주"
+   ],
+   "answer": "주례",
+   "explain": "주례 = chủ hôn."
+  },
+  {
+   "type": "choice",
+   "q": "Tiền phúng viếng đám tang gọi là gì?",
+   "kr": "",
+   "options": [
+    "조의금",
+    "축의금",
+    "예물"
+   ],
+   "answer": "조의금",
+   "explain": "조의금 (tang) ↔ 축의금 (cưới)."
+  },
+  {
+   "type": "choice",
+   "q": "Đi thăm và dọn dẹp mộ tổ tiên gọi là gì?",
+   "kr": "",
+   "options": [
+    "성묘",
+    "차례",
+    "빈소"
+   ],
+   "answer": "성묘",
+   "explain": "성묘 = tảo mộ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Sáng Chuseok làm lễ cúng tổ tiên.",
+   "kr": "추석 아침에 ___를 지내요.",
+   "options": [
+    "차례",
+    "주례",
+    "조화"
+   ],
+   "answer": "차례",
+   "explain": "차례를 지내다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Nghe nói tháng sau bạn kết hôn hả?'",
+   "kr": "",
+   "options": [
+    "다음 달에 결혼한다면서요?",
+    "다음 달에 결혼하다면서요?",
+    "다음 달에 결혼는다면서요?"
+   ],
+   "answer": "다음 달에 결혼한다면서요?",
+   "explain": "Động từ không patchim → ㄴ다면서요?"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG với danh từ: 'Nghe nói anh ấy là tang chủ hả?'",
+   "kr": "",
+   "options": [
+    "그분이 상주라면서요?",
+    "그분이 상주다면서요?",
+    "그분이 상주는다면서요?"
+   ],
+   "answer": "그분이 상주라면서요?",
+   "explain": "N + (이)라면서요?"
+  },
+  {
+   "type": "choice",
+   "q": "'바쁘다면서 왜 놀아요?' thể hiện điều gì?",
+   "kr": "",
+   "options": [
+    "Trách nhẹ: bảo bận mà lại chơi",
+    "Hỏi xem có bận không",
+    "Khen vì chơi giỏi"
+   ],
+   "answer": "Trách nhẹ: bảo bận mà lại chơi",
+   "explain": "다면서 + câu sau = trách."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Dạo này hỏa táng nhiều hơn chôn cất.",
+   "kr": "요즘은 매장보다 ___하는 경우가 많아요.",
+   "options": [
+    "화장",
+    "성묘",
+    "곡"
+   ],
+   "answer": "화장",
+   "explain": "화장하다 = hỏa táng."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다면서요? với 돌아가시다 (quá khứ): Nghe nói ông của Min-su mất rồi đúng không?",
+   "kr": "민수 씨 할아버지께서 ___?",
+   "answer": [
+    "돌아가셨다면서요"
+   ],
+   "explain": "Quá khứ → 았/었다면서요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền 다면서요? với 춥다: Nghe nói ở Seoul trời lạnh lắm hả?",
+   "kr": "서울은 아주 ___?",
+   "answer": [
+    "춥다면서요",
+    "춥다면서"
+   ],
+   "explain": "Tính từ → 다면서요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Bỏ tiền phúng viếng vào phong bì.",
+   "kr": "봉투에 ___을 넣었어요.",
+   "answer": [
+    "조의금",
+    "부의금"
+   ],
+   "explain": "조의금."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Gia đình mặc áo tang màu đen.",
+   "kr": "가족들은 검은 ___을 입었어요.",
+   "answer": [
+    "상복"
+   ],
+   "explain": "상복."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nghe nói dạo này hỏa táng nhiều đúng không?",
+   "tokens": [
+    "요즘은",
+    "화장을",
+    "많이",
+    "한다면서요?"
+   ],
+   "answer": "요즘은 화장을 많이 한다면서요?",
+   "explain": "ㄴ다면서요?"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Dịp Chuseok tôi cùng gia đình đi tảo mộ.",
+   "tokens": [
+    "추석에",
+    "가족들과",
+    "성묘를",
+    "갔어요"
+   ],
+   "answer": "추석에 가족들과 성묘를 갔어요",
+   "explain": "성묘를 가다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nghe nói bạn đỗ đại học rồi hả? (dùng 다면서요)",
+   "answer": [
+    "대학교에 합격했다면서요?",
+    "대학에 합격했다면서요?",
+    "대학교에 붙었다면서요?"
+   ],
+   "explain": "았/었다면서요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Công ty đã gửi vòng hoa viếng.",
+   "answer": [
+    "회사에서 조화를 보냈어요.",
+    "회사가 조화를 보냈어요."
+   ],
+   "explain": "조화."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi nhờ thầy làm chủ hôn.",
+   "answer": [
+    "선생님께 주례를 부탁드렸어요.",
+    "은사님께 주례를 부탁드렸어요.",
+    "선생님께 주례를 부탁했어요."
+   ],
+   "explain": "주례를 부탁드리다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국의 장례식은 보통 장례식장에서 3일 동안 치른다. 조문객들은 빈소에 가서 고인에게 예를 표하고 상주에게 위로의 말을 전한다.",
+   "answer": "Tang lễ ở Hàn Quốc thường được tổ chức trong 3 ngày tại nhà tang lễ. Khách viếng đến phòng tang thể hiện lễ nghĩa với người quá cố và gửi lời an ủi đến tang chủ.",
+   "explain": "빈소, 고인, 상주."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 민수 씨, 다음 주에 결혼한다면서요?\n남자: 네, 그래서 요즘 준비하느라 정신이 없어요.\n여자: ( )",
+   "options": [
+    "축하해요. 결혼식에 꼭 갈게요.",
+    "조의금을 준비해야겠네요.",
+    "성묘는 언제 가요?",
+    "장례식장이 어디예요?"
+   ],
+   "answer": "축하해요. 결혼식에 꼭 갈게요.",
+   "explain": "Đám cưới → chúc mừng."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "할아버지의 장례식에는 많은 <조문객>이 찾아와 슬픔을 함께 나누었다.",
+   "options": [
+    "문상객",
+    "하객",
+    "관광객",
+    "참가자"
+   ],
+   "answer": "문상객",
+   "explain": "조문객 = 문상객 (khách viếng tang)."
+  }
+ ]
+}

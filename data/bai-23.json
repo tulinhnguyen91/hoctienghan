@@ -1,0 +1,596 @@
+{
+ "id": "bai-23",
+ "lesson": "Bài 23",
+ "title": "Bệnh viện",
+ "krTitle": "병원",
+ "date": "2026-12-11",
+ "day": 23,
+ "source": "TOPIK 2 – Bài 4B: Bệnh viện",
+ "practice": {
+  "listening": "Nghe – Phần 3: Tìm địa điểm (7~10)",
+  "reading": "Đọc – Phần 5: Đoạn văn ngắn – dễ (49~56)"
+ },
+ "words": [
+  [
+   "병원",
+   "Byeongwon",
+   "Bệnh viện",
+   "어제 다친 친구가 병원에 있어요.",
+   "Người bạn bị thương hôm qua đang ở bệnh viện."
+  ],
+  [
+   "내과",
+   "Naegwa",
+   "Khoa nội",
+   "감기에 걸렸을 때 내과에 가요.",
+   "Khi bị cảm thì đi khoa nội."
+  ],
+  [
+   "외과",
+   "Oegwa",
+   "Khoa ngoại",
+   "다리를 다쳐서 외과에 갔어요.",
+   "Bị thương ở chân nên tôi đã đi khoa ngoại."
+  ],
+  [
+   "소아과",
+   "Soagwa",
+   "Khoa nhi",
+   "아이가 아파서 소아과에 갔어요.",
+   "Con bị ốm nên tôi đưa đến khoa nhi."
+  ],
+  [
+   "이비인후과",
+   "Ibiinhugwa",
+   "Khoa tai mũi họng",
+   "목이 아파서 이비인후과에 가야 해요.",
+   "Đau họng nên tôi phải đi khoa tai mũi họng."
+  ],
+  [
+   "안과",
+   "Angwa",
+   "Khoa mắt",
+   "눈이 아파서 안과에 갔어요.",
+   "Đau mắt nên tôi đã đi khoa mắt."
+  ],
+  [
+   "치과",
+   "Chigwa",
+   "Nha khoa",
+   "이가 아파서 치과에 가야 해요.",
+   "Đau răng nên tôi phải đi nha khoa."
+  ],
+  [
+   "예방주사",
+   "Yebangjusa",
+   "Tiêm phòng",
+   "겨울마다 독감 예방주사를 맞아요.",
+   "Mỗi mùa đông tôi tiêm phòng cúm."
+  ],
+  [
+   "주사하다",
+   "Jusahada",
+   "Tiêm",
+   "간호사가 팔에 주사했어요.",
+   "Y tá đã tiêm vào tay."
+  ],
+  [
+   "처방하다",
+   "Cheobanghada",
+   "Kê đơn",
+   "의사가 감기약을 처방했어요.",
+   "Bác sĩ đã kê thuốc cảm."
+  ],
+  [
+   "어떻게 오셨습니까?",
+   "Eotteoke osyeotseumnikka?",
+   "Anh/chị đến có việc gì ạ?",
+   "어서 오세요. 어떻게 오셨습니까?",
+   "Xin mời vào. Anh/chị đến có việc gì ạ?"
+  ],
+  [
+   "어디가 아프십니까?",
+   "Eodiga apeusimnikka?",
+   "Anh/chị đau ở đâu ạ?",
+   "어디가 아프십니까? — 목이 아파요.",
+   "Anh/chị đau ở đâu ạ? — Tôi đau họng."
+  ],
+  [
+   "어떻게 아프십니까?",
+   "Eotteoke apeusimnikka?",
+   "Anh/chị đau thế nào ạ?",
+   "어떻게 아프십니까? — 머리가 많이 아파요.",
+   "Đau thế nào ạ? — Đầu đau nhiều lắm."
+  ],
+  [
+   "증상이 어떻습니까?",
+   "Jeungsangi eotteosseumnikka?",
+   "Triệu chứng thế nào ạ?",
+   "증상이 어떻습니까? — 열이 나고 기침을 해요.",
+   "Triệu chứng thế nào ạ? — Tôi sốt và ho."
+  ],
+  [
+   "가렵다",
+   "Garyeopda",
+   "Ngứa",
+   "모기에 물려서 팔이 가려워요.",
+   "Bị muỗi đốt nên tay ngứa."
+  ],
+  [
+   "보관하다",
+   "Bogwanhada",
+   "Bảo quản",
+   "물약은 냉장고에 보관해야 해요.",
+   "Thuốc nước phải bảo quản trong tủ lạnh."
+  ],
+  [
+   "주사",
+   "Jusa",
+   "Mũi tiêm",
+   "저는 주사가 무서워요.",
+   "Tôi sợ tiêm."
+  ],
+  [
+   "감기약",
+   "Gamgiyak",
+   "Thuốc cảm",
+   "약국에서 산 감기약을 먹었어요.",
+   "Tôi đã uống thuốc cảm mua ở hiệu thuốc."
+  ],
+  [
+   "복용",
+   "Bogyong",
+   "Sự uống thuốc",
+   "복용 방법을 잘 읽으세요.",
+   "Hãy đọc kỹ cách uống thuốc."
+  ],
+  [
+   "주사 맞다",
+   "Jusa matda",
+   "Được tiêm",
+   "병원에서 주사를 맞았어요.",
+   "Tôi đã được tiêm ở bệnh viện."
+  ],
+  [
+   "검사하다",
+   "Geomsahada",
+   "Kiểm tra, xét nghiệm",
+   "병원에서 피를 검사했어요.",
+   "Tôi đã xét nghiệm máu ở bệnh viện."
+  ],
+  [
+   "부러지다",
+   "Bureojida",
+   "Bị gãy",
+   "넘어져서 팔이 부러졌어요.",
+   "Tôi ngã và bị gãy tay."
+  ],
+  [
+   "처방전",
+   "Cheobangjeon",
+   "Đơn thuốc",
+   "의사가 준 처방전을 약국에 가져갔어요.",
+   "Tôi đã mang đơn thuốc bác sĩ đưa đến hiệu thuốc."
+  ],
+  [
+   "끓이다",
+   "Kkeurida",
+   "Đun, nấu",
+   "엄마가 죽을 끓이셨어요.",
+   "Mẹ đã nấu cháo."
+  ],
+  [
+   "붓다",
+   "Butda",
+   "Sưng",
+   "발목이 붓고 아파요.",
+   "Mắt cá chân sưng và đau."
+  ],
+  [
+   "첫째",
+   "Cheotjjae",
+   "Thứ nhất",
+   "첫째, 물을 많이 마셔야 해요.",
+   "Thứ nhất, phải uống nhiều nước."
+  ],
+  [
+   "냄비",
+   "Naembi",
+   "Cái nồi",
+   "냄비에 물을 넣고 끓이세요.",
+   "Hãy cho nước vào nồi rồi đun."
+  ],
+  [
+   "비타민",
+   "Bitamin",
+   "Vitamin",
+   "아침마다 비타민을 먹어요.",
+   "Mỗi sáng tôi uống vitamin."
+  ],
+  [
+   "치료 받다",
+   "Chiryo batda",
+   "Được chữa trị",
+   "다친 다리를 치료 받았어요.",
+   "Cái chân bị thương đã được chữa trị."
+  ],
+  [
+   "(눈을) 뜨다",
+   "(nuneul) tteuda",
+   "Mở (mắt)",
+   "눈을 뜨세요.",
+   "Hãy mở mắt ra."
+  ],
+  [
+   "설사하다",
+   "Seolsahada",
+   "Tiêu chảy",
+   "어제부터 설사해요.",
+   "Tôi bị tiêu chảy từ hôm qua."
+  ],
+  [
+   "카페인",
+   "Kapein",
+   "Caffeine",
+   "커피에는 카페인이 많아요.",
+   "Cà phê có nhiều caffeine."
+  ],
+  [
+   "두통약",
+   "Dutongyak",
+   "Thuốc đau đầu",
+   "두통약을 먹었지만 아직 아파요.",
+   "Tôi đã uống thuốc đau đầu nhưng vẫn còn đau."
+  ],
+  [
+   "식후",
+   "Sikhu",
+   "Sau bữa ăn",
+   "이 약은 식후 30분에 드세요.",
+   "Thuốc này uống sau bữa ăn 30 phút."
+  ],
+  [
+   "코를 풀다",
+   "Koreul pulda",
+   "Hỉ mũi",
+   "감기에 걸려서 코를 자주 풀어요.",
+   "Bị cảm nên tôi hay phải hỉ mũi."
+  ],
+  [
+   "둘째",
+   "Duljjae",
+   "Thứ hai",
+   "둘째, 푹 쉬어야 해요.",
+   "Thứ hai, phải nghỉ ngơi đầy đủ."
+  ],
+  [
+   "약을 바르다",
+   "Yageul bareuda",
+   "Bôi thuốc",
+   "상처에 약을 바르세요.",
+   "Hãy bôi thuốc vào vết thương."
+  ],
+  [
+   "파다",
+   "Pada",
+   "Đào",
+   "아이가 모래를 파요.",
+   "Đứa bé đào cát."
+  ],
+  [
+   "따갑다",
+   "Ttagapda",
+   "Rát, buốt",
+   "상처가 따가워요.",
+   "Vết thương rát."
+  ],
+  [
+   "유지하다",
+   "Yujihada",
+   "Duy trì",
+   "건강을 유지해야 해요.",
+   "Phải duy trì sức khỏe."
+  ],
+  [
+   "효과",
+   "Hyogwa",
+   "Hiệu quả",
+   "이 약은 효과가 좋아요.",
+   "Thuốc này hiệu quả tốt."
+  ],
+  [
+   "민간요법",
+   "Minganyobeop",
+   "Bài thuốc dân gian",
+   "감기에 생강차를 마시는 민간요법이 있어요.",
+   "Có bài thuốc dân gian uống trà gừng khi bị cảm."
+  ],
+  [
+   "재채기하다",
+   "Jaechaegihada",
+   "Hắt hơi",
+   "봄에는 꽃가루가 많아서 재채기를 해요.",
+   "Mùa xuân nhiều phấn hoa nên tôi hắt hơi."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄴ — Định ngữ động từ quá khứ",
+   "meaning": "Biến động từ thành định ngữ ở thì QUÁ KHỨ, đứng trước danh từ: 'N đã V'. Gốc có patchim + 은 (먹다 → 먹은 약); không patchim + ㄴ (사다 → 산 약, 다치다 → 다친 다리); patchim ㄹ thì bỏ ㄹ + ㄴ (만들다 → 만든 음식). Bất quy tắc ㄷ: 듣다 → 들은. So sánh 3 thì: 먹은 (đã ăn) — 먹는 (đang ăn) — 먹을 (sẽ ăn, học sau). Lưu ý: với TÍNH TỪ, (으)ㄴ là hiện tại (아픈 사람 = người đang đau).",
+   "examples": [
+    "어제 먹은 약이 효과가 좋았어요. — Thuốc hôm qua tôi uống hiệu quả tốt.",
+    "약국에서 산 감기약이에요. — Đây là thuốc cảm mua ở hiệu thuốc.",
+    "다친 다리를 치료 받았어요. — Cái chân bị thương đã được chữa trị.",
+    "엄마가 만든 죽이 맛있어요. — Cháo mẹ nấu ngon."
+   ]
+  },
+  {
+   "form": "N + 마다 — Mỗi",
+   "meaning": "Gắn sau danh từ chỉ thời gian, người, nơi chốn để chỉ 'mỗi…, mọi…': 아침마다 (mỗi sáng), 주말마다 (mỗi cuối tuần), 사람마다 (mỗi người), 나라마다 (mỗi nước). Không phân biệt patchim. Lưu ý: 'mỗi ngày' thường nói 매일 hoặc 날마다 (KHÔNG nói 일마다); 'mỗi năm' = 매년 hoặc 해마다.",
+   "examples": [
+    "아침마다 비타민을 먹어요. — Mỗi sáng tôi uống vitamin.",
+    "겨울마다 예방주사를 맞아요. — Mỗi mùa đông tôi tiêm phòng.",
+    "사람마다 증상이 달라요. — Mỗi người triệu chứng khác nhau.",
+    "나라마다 민간요법이 달라요. — Mỗi nước có bài thuốc dân gian khác nhau."
+   ]
+  },
+  {
+   "form": "V/A + 아/어야 하다 — Phải",
+   "meaning": "Diễn tả nghĩa vụ, sự cần thiết: 'phải…'. Chia như 아/어요: 가다 → 가야 해요, 먹다 → 먹어야 해요, 쉬다 → 쉬어야 해요, 하다 → 해야 해요. Có thể thay 하다 bằng 되다: 가야 돼요 (văn nói). Quá khứ: 아/어야 했어요 (đã phải). Bất quy tắc: 듣다 → 들어야, 돕다 → 도와야.",
+   "examples": [
+    "감기에 걸렸으니까 푹 쉬어야 해요. — Bị cảm rồi nên phải nghỉ ngơi đầy đủ.",
+    "이 약은 식후에 먹어야 해요. — Thuốc này phải uống sau bữa ăn.",
+    "이가 아파서 치과에 가야 해요. — Đau răng nên phải đi nha khoa.",
+    "물약은 냉장고에 보관해야 해요. — Thuốc nước phải bảo quản trong tủ lạnh."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Chọn định ngữ đúng: thuốc (tôi) đã uống hôm qua",
+   "kr": "어제 ___ 약",
+   "options": [
+    "먹은",
+    "먹는",
+    "먹을"
+   ],
+   "answer": "먹은",
+   "explain": "Quá khứ + 은: 먹은 (đã uống)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn định ngữ đúng: thuốc cảm (đã) mua ở hiệu thuốc",
+   "kr": "약국에서 ___ 감기약",
+   "options": [
+    "산",
+    "사는",
+    "샀은"
+   ],
+   "answer": "산",
+   "explain": "사다 không patchim → 사 + ㄴ → 산."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn định ngữ đúng: cháo mẹ đã nấu",
+   "kr": "엄마가 ___ 죽",
+   "options": [
+    "만든",
+    "만들은",
+    "만드는은"
+   ],
+   "answer": "만든",
+   "explain": "만들다 patchim ㄹ → bỏ ㄹ + ㄴ → 만든."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn định ngữ đúng: bài hát đã nghe hôm qua",
+   "kr": "어제 ___ 노래",
+   "options": [
+    "들은",
+    "듣은",
+    "들는"
+   ],
+   "answer": "들은",
+   "explain": "듣다 bất quy tắc ㄷ: 들 + 은 → 들은."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn cách nói đúng: mỗi sáng",
+   "kr": "",
+   "options": [
+    "아침마다",
+    "아침에마다",
+    "마다 아침"
+   ],
+   "answer": "아침마다",
+   "explain": "N + 마다: 아침마다."
+  },
+  {
+   "type": "choice",
+   "q": "Cách nói 'mỗi ngày' nào ĐÚNG?",
+   "kr": "",
+   "options": [
+    "매일",
+    "일마다",
+    "날에마다"
+   ],
+   "answer": "매일",
+   "explain": "Mỗi ngày = 매일 hoặc 날마다, không nói 일마다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Phải nghỉ ngơi đầy đủ.",
+   "kr": "푹 ___.",
+   "options": [
+    "쉬어야 해요",
+    "쉬야 해요",
+    "쉬아야 해요"
+   ],
+   "answer": "쉬어야 해요",
+   "explain": "쉬다 → 쉬어 + 야 해요."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng đúng: Tôi phải đi nha khoa.",
+   "kr": "치과에 ___.",
+   "options": [
+    "가야 해요",
+    "가어야 해요",
+    "갈야 해요"
+   ],
+   "answer": "가야 해요",
+   "explain": "가다 → 가 + 야 해요."
+  },
+  {
+   "type": "choice",
+   "q": "Đau mắt thì nên đi khoa nào?",
+   "kr": "",
+   "options": [
+    "안과",
+    "치과",
+    "소아과"
+   ],
+   "answer": "안과",
+   "explain": "안과 = khoa mắt."
+  },
+  {
+   "type": "fill",
+   "q": "Điền định ngữ quá khứ của 다치다: Cái chân bị thương đã được chữa trị.",
+   "kr": "___ 다리를 치료 받았어요.",
+   "answer": [
+    "다친"
+   ],
+   "explain": "다치다 → 다치 + ㄴ → 다친."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 마다: Mỗi mùa đông tôi tiêm phòng cúm.",
+   "kr": "겨울___ 독감 예방주사를 맞아요.",
+   "answer": [
+    "마다"
+   ],
+   "explain": "겨울마다 = mỗi mùa đông."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어야 해요 vào 먹다: Thuốc này phải uống sau bữa ăn.",
+   "kr": "이 약은 식후에 ___.",
+   "answer": [
+    "먹어야 해요",
+    "먹어야 돼요"
+   ],
+   "explain": "먹다 → 먹어야 해요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 아/어야 해요 vào 보관하다: Phải bảo quản trong tủ lạnh.",
+   "kr": "냉장고에 ___.",
+   "answer": [
+    "보관해야 해요",
+    "보관해야 돼요"
+   ],
+   "explain": "보관하다 → 보관해야 해요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Mỗi người triệu chứng khác nhau.",
+   "tokens": [
+    "사람마다",
+    "증상이",
+    "달라요"
+   ],
+   "answer": "사람마다 증상이 달라요",
+   "explain": "사람마다 = mỗi người; 다르다 → 달라요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Thuốc tôi uống hôm qua hiệu quả tốt.",
+   "tokens": [
+    "어제",
+    "먹은",
+    "약이",
+    "효과가",
+    "좋았어요"
+   ],
+   "answer": "어제 먹은 약이 효과가 좋았어요",
+   "explain": "먹은 약 = thuốc đã uống."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mỗi sáng tôi uống vitamin.",
+   "answer": [
+    "아침마다 비타민을 먹어요.",
+    "저는 아침마다 비타민을 먹어요.",
+    "매일 아침 비타민을 먹어요.",
+    "아침마다 비타민을 마셔요."
+   ],
+   "explain": "아침마다 + 비타민을 먹어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đau họng nên tôi phải đi bệnh viện.",
+   "answer": [
+    "목이 아파서 병원에 가야 해요.",
+    "목이 아파서 병원에 가야 돼요.",
+    "목이 아파서 이비인후과에 가야 해요."
+   ],
+   "explain": "아파서 (vì đau) + 가야 해요 (phải đi)."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy bôi thuốc vào vết thương.",
+   "answer": [
+    "상처에 약을 바르세요.",
+    "상처에 약을 발라 주세요."
+   ],
+   "explain": "약을 바르다 → 바르세요."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "의사 선생님이 처방한 약을 하루에 세 번 먹어야 해요.",
+   "answer": "Phải uống thuốc bác sĩ đã kê ba lần một ngày.",
+   "explain": "처방한 약 = thuốc đã kê; 하루에 세 번 = ba lần một ngày."
+  },
+  {
+   "type": "read",
+   "q": "Đây là nơi nào? (Dạng TOPIK câu 31~33)",
+   "kr": "어떻게 오셨습니까? — 이가 아파서 왔어요.",
+   "options": [
+    "치과",
+    "약국",
+    "식당",
+    "학교"
+   ],
+   "answer": "치과",
+   "explain": "Đau răng nên đến → nha khoa (치과)."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu ĐÚNG với nội dung. (Dạng TOPIK câu 49~56)",
+   "kr": "감기에 걸렸을 때 해야 하는 일이 있어요. 첫째, 물을 많이 마셔야 해요. 둘째, 푹 쉬어야 해요. 그리고 카페인이 많은 커피는 마시지 마세요. 한국 사람들은 감기에 걸렸을 때 생강차를 자주 마셔요.",
+   "options": [
+    "감기에 걸렸을 때 물을 많이 마셔야 해요.",
+    "감기에 걸렸을 때 커피를 마셔야 해요.",
+    "감기에 걸렸을 때 운동을 많이 해야 해요.",
+    "한국 사람들은 감기에 생강차를 안 마셔요."
+   ],
+   "answer": "감기에 걸렸을 때 물을 많이 마셔야 해요.",
+   "explain": "Thứ nhất: phải uống nhiều nước. Đừng uống cà phê; người Hàn hay uống trà gừng."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu SAI với nội dung. (Dạng TOPIK câu 40~42)",
+   "kr": "💊 처방전\n이름: 응우옌 린\n약: 감기약 (알약)\n복용: 하루 3번, 식후 30분\n기간: 5일\n주의: 졸릴 수 있어요. 운전하지 마세요.",
+   "options": [
+    "이 약은 식사 전에 먹어야 해요.",
+    "이 약은 하루에 세 번 먹어요.",
+    "이 약을 5일 동안 먹어요.",
+    "이 약을 먹고 운전하지 마세요."
+   ],
+   "answer": "이 약은 식사 전에 먹어야 해요.",
+   "explain": "식후 30분 = sau bữa ăn 30 phút, không phải trước bữa ăn."
+  }
+ ]
+}

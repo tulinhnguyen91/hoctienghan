@@ -1,0 +1,420 @@
+{
+ "id": "bai-190",
+ "lesson": "Bài 190",
+ "title": "Du lịch và hướng dẫn (phần 1/4)",
+ "krTitle": "여행과 안내 1",
+ "date": "2027-08-21",
+ "day": 276,
+ "source": "TOPIK 5 – Bài 11: Du lịch và hướng dẫn (phần 1/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "테마관광",
+   "Temagwangwang",
+   "Tua du lịch theo chủ đề",
+   "이번 여름에는 드라마 촬영지 테마관광을 했어요.",
+   "Mùa hè này tôi đi tour theo chủ đề nơi quay phim."
+  ],
+  [
+   "생태 체험",
+   "Saengtae cheheom",
+   "Trải nghiệm sinh thái",
+   "아이들과 갯벌 생태 체험을 했어요.",
+   "Tôi cùng bọn trẻ trải nghiệm sinh thái bãi bùn."
+  ],
+  [
+   "도보관광",
+   "Dobogwangwang",
+   "Du lịch bộ hành",
+   "서울 도보관광 프로그램은 무료예요.",
+   "Chương trình du lịch đi bộ Seoul miễn phí."
+  ],
+  [
+   "한옥 마을",
+   "Hanong maeul",
+   "Làng nhà cổ, làng nhà kiểu truyền thống của Hàn Quốc",
+   "전주 한옥 마을에서 한복을 입고 사진을 찍었어요.",
+   "Tôi mặc hanbok chụp ảnh ở làng hanok Jeonju."
+  ],
+  [
+   "자연유산",
+   "Jayeonyusan",
+   "Di sản thiên nhiên",
+   "제주도는 세계 자연유산이에요.",
+   "Đảo Jeju là di sản thiên nhiên thế giới."
+  ],
+  [
+   "체험 관광",
+   "Cheheom gwangwang",
+   "Tham quan trải nghiệm",
+   "김치 만들기 같은 체험 관광이 인기예요.",
+   "Du lịch trải nghiệm như làm kimchi đang được ưa chuộng."
+  ],
+  [
+   "맛 기행",
+   "Man gihaeng",
+   "Du lịch ẩm thực",
+   "전라도로 맛 기행을 떠났어요.",
+   "Tôi đã đi du lịch ẩm thực đến Jeolla."
+  ],
+  [
+   "관광 명소",
+   "Gwangwang myeongso",
+   "Danh lam thắng cảnh du lịch, địa danh du lịch nổi tiếng",
+   "경복궁은 서울의 대표적인 관광 명소예요.",
+   "Gyeongbokgung là danh thắng du lịch tiêu biểu của Seoul."
+  ],
+  [
+   "자연 휴양림",
+   "Jayeon hyuyangnim",
+   "Rừng nghỉ dưỡng tự nhiên",
+   "주말에 자연 휴양림에서 쉬었어요.",
+   "Cuối tuần tôi nghỉ ngơi ở rừng nghỉ dưỡng."
+  ],
+  [
+   "문화유산",
+   "Munhwayusan",
+   "Di sản văn hóa",
+   "불국사는 유네스코 세계 문화유산이에요.",
+   "Chùa Bulguksa là di sản văn hóa thế giới UNESCO."
+  ],
+  [
+   "의료관광",
+   "Uiryogwangwang",
+   "Du lịch y tế",
+   "한국에 성형 수술을 받으러 오는 의료관광객이 많아요.",
+   "Có nhiều khách du lịch y tế đến Hàn để phẫu thuật thẩm mỹ."
+  ],
+  [
+   "탐방",
+   "Tambang",
+   "Sự thám hiểm",
+   "학생들이 역사 유적지를 탐방했어요.",
+   "Học sinh đã đi khám phá di tích lịch sử."
+  ],
+  [
+   "관광단지",
+   "Gwangwangdanji",
+   "Khu du lịch",
+   "바닷가에 큰 관광단지가 생겼어요.",
+   "Một khu du lịch lớn đã mọc lên ở bờ biển."
+  ],
+  [
+   "자연사 박물관",
+   "Jayeonsa bangmulgwan",
+   "Bảo tàng lịch sử tự nhiên",
+   "자연사 박물관에서 공룡 뼈를 봤어요.",
+   "Tôi đã xem xương khủng long ở bảo tàng lịch sử tự nhiên."
+  ],
+  [
+   "한국관광공사",
+   "Hangukgwangwanggongsa",
+   "Tổng công ty du lịch Hàn Quốc",
+   "한국관광공사 홈페이지에서 여행 정보를 찾았어요.",
+   "Tôi tìm thông tin du lịch trên trang của Tổng cục Du lịch Hàn Quốc."
+  ],
+  [
+   "관광자원",
+   "Gwangwangjawon",
+   "Tài nguyên du lịch",
+   "아름다운 바다는 이 지역의 중요한 관광자원이에요.",
+   "Biển đẹp là tài nguyên du lịch quan trọng của vùng này."
+  ],
+  [
+   "외래 관광객",
+   "Oerae gwangwanggaek",
+   "Khách du lịch nước ngoài",
+   "외래 관광객이 작년보다 20% 늘었어요.",
+   "Khách du lịch nước ngoài tăng 20% so với năm ngoái."
+  ],
+  [
+   "관광객 유치",
+   "Gwangwanggaeng yuchi",
+   "Sự thu hút khách du lịch",
+   "축제를 열어서 관광객 유치에 성공했어요.",
+   "Mở lễ hội đã thu hút khách du lịch thành công."
+  ],
+  [
+   "문화관광부",
+   "Munhwagwangwangbu",
+   "Bộ văn hóa du lịch",
+   "문화관광부가 새 관광 정책을 발표했어요.",
+   "Bộ Văn hóa Du lịch công bố chính sách du lịch mới."
+  ],
+  [
+   "관광수지",
+   "Gwangwangsuji",
+   "Cán cân du lịch (thu – chi)",
+   "관광수지 적자가 계속되고 있어요.",
+   "Cán cân du lịch tiếp tục thâm hụt."
+  ],
+  [
+   "내국인",
+   "Naegugin",
+   "Người trong nước",
+   "내국인 관광객도 이곳을 많이 찾아요.",
+   "Khách trong nước cũng đến đây nhiều."
+  ],
+  [
+   "인프라 구축",
+   "Inpeura guchuk",
+   "Việc xây dựng cơ sở hạ tầng",
+   "관광 인프라 구축이 먼저 필요해요.",
+   "Trước hết cần xây dựng cơ sở hạ tầng du lịch."
+  ],
+  [
+   "관광청",
+   "Gwangwangcheong",
+   "Sở du lịch",
+   "태국 관광청은 한국에 사무소가 있어요.",
+   "Cục du lịch Thái Lan có văn phòng tại Hàn Quốc."
+  ],
+  [
+   "관광 수요",
+   "Gwangwang suyo",
+   "Nhu cầu du lịch",
+   "연휴에는 관광 수요가 크게 늘어요.",
+   "Vào kỳ nghỉ dài, nhu cầu du lịch tăng mạnh."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (으)ㄹ걸(요) — Chắc là",
+   "meaning": "PHỎNG ĐOÁN nhẹ nhàng, không chắc chắn lắm: 'chắc là…, có lẽ… đấy'. Dùng khi đưa ra thông tin mà người nghe có thể chưa biết hoặc nghĩ khác. Ngữ điệu LÊN ở cuối (걸요↗). Chia: có patchim → 을걸요 (많을걸요); không patchim/ㄹ → ㄹ걸요 (갈걸요, 멀걸요); quá khứ → 았/었을걸요 (끝났을걸요); danh từ → 일걸요 (명소일걸요). Thân mật: (으)ㄹ걸. Khác hẳn với (으)ㄹ걸 그랬다 (Bài 157 – hối tiếc, ngữ điệu XUỐNG): '갈걸.↘' = giá mà đã đi; '갈걸요?↗' = chắc là sẽ đi. Không dùng cho hành động của chính mình theo ý muốn. So sánh: (으)ㄹ 거예요 (phỏng đoán chắc hơn); (으)ㄹ걸요 mềm, hơi phản bác nhẹ ý người nghe.",
+   "examples": [
+    "주말에는 한옥 마을에 사람이 많을걸요. — Cuối tuần chắc làng hanok đông người lắm đấy.",
+    "지금 가면 박물관이 벌써 문을 닫았을걸요. — Giờ đi chắc bảo tàng đã đóng cửa rồi.",
+    "그 식당은 예약하지 않으면 못 들어갈걸요. — Quán đó không đặt trước chắc không vào được đâu.",
+    "민수 씨는 아마 제주도에 가 봤을걸요. — Chắc là Min-su đã từng đến Jeju rồi."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Đi du lịch để khám bệnh, phẫu thuật gọi là gì?",
+   "kr": "",
+   "options": [
+    "의료관광",
+    "맛 기행",
+    "도보관광"
+   ],
+   "answer": "의료관광",
+   "explain": "의료 = y tế."
+  },
+  {
+   "type": "choice",
+   "q": "Khách du lịch đến từ nước ngoài gọi là gì?",
+   "kr": "",
+   "options": [
+    "외래 관광객",
+    "내국인",
+    "관광청"
+   ],
+   "answer": "외래 관광객",
+   "explain": "외래 = từ ngoài đến."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mở lễ hội đã thu hút khách du lịch thành công.",
+   "kr": "축제를 열어서 관광객 ___에 성공했어요.",
+   "options": [
+    "유치",
+    "수요",
+    "수지"
+   ],
+   "answer": "유치",
+   "explain": "유치 = thu hút."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Gyeongbokgung là danh thắng tiêu biểu của Seoul.",
+   "kr": "경복궁은 서울의 대표적인 ___예요.",
+   "options": [
+    "관광 명소",
+    "관광단지",
+    "관광자원"
+   ],
+   "answer": "관광 명소",
+   "explain": "명소 = nơi nổi tiếng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG (phỏng đoán): 'Giờ đi chắc bảo tàng đã đóng cửa rồi.'",
+   "kr": "",
+   "options": [
+    "지금 가면 박물관이 벌써 문을 닫았을걸요.",
+    "지금 가면 박물관이 벌써 문을 닫을걸 그랬어요.",
+    "지금 가면 박물관이 벌써 문을 닫았걸요."
+   ],
+   "answer": "지금 가면 박물관이 벌써 문을 닫았을걸요.",
+   "explain": "Quá khứ: 았/었을걸요."
+  },
+  {
+   "type": "choice",
+   "q": "'어제 갈걸.' (ngữ điệu xuống) nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Giá mà hôm qua đã đi.",
+    "Chắc hôm qua đã đi.",
+    "Hôm qua tôi sẽ đi."
+   ],
+   "answer": "Giá mà hôm qua đã đi.",
+   "explain": "(으)ㄹ걸 xuống giọng = hối tiếc."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 멀다: 'Chắc xa lắm đấy.'",
+   "kr": "",
+   "options": [
+    "멀걸요",
+    "멀을걸요",
+    "먼걸요"
+   ],
+   "answer": "멀걸요",
+   "explain": "Thân ㄹ → ㄹ걸요 (멀걸요)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Trước hết cần xây dựng cơ sở hạ tầng du lịch.",
+   "kr": "관광 ___이 먼저 필요해요.",
+   "options": [
+    "인프라 구축",
+    "생태 체험",
+    "탐방"
+   ],
+   "answer": "인프라 구축",
+   "explain": "인프라 구축."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ걸요 với 많다: Cuối tuần chắc làng hanok đông người lắm.",
+   "kr": "주말에는 한옥 마을에 사람이 ___.",
+   "answer": [
+    "많을걸요",
+    "많을걸"
+   ],
+   "explain": "Có patchim → 을걸요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)ㄹ걸요 với 가 보다 (quá khứ): Chắc Min-su đã đến Jeju rồi.",
+   "kr": "민수 씨는 아마 제주도에 ___.",
+   "answer": [
+    "가 봤을걸요",
+    "가봤을걸요",
+    "가 봤을걸"
+   ],
+   "explain": "가 봤을걸요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Vào kỳ nghỉ dài, nhu cầu du lịch tăng mạnh.",
+   "kr": "연휴에는 관광 ___가 크게 늘어요.",
+   "answer": [
+    "수요"
+   ],
+   "explain": "관광 수요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đảo Jeju là di sản thiên nhiên thế giới.",
+   "kr": "제주도는 세계 ___이에요.",
+   "answer": [
+    "자연유산"
+   ],
+   "explain": "자연유산."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Quán đó không đặt trước chắc không vào được đâu.",
+   "tokens": [
+    "그",
+    "식당은",
+    "예약하지",
+    "않으면",
+    "못",
+    "들어갈걸요"
+   ],
+   "answer": "그 식당은 예약하지 않으면 못 들어갈걸요",
+   "explain": "(으)ㄹ걸요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Khách du lịch nước ngoài tăng 20% so với năm ngoái.",
+   "tokens": [
+    "외래",
+    "관광객이",
+    "작년보다",
+    "20%",
+    "늘었어요"
+   ],
+   "answer": "외래 관광객이 작년보다 20% 늘었어요",
+   "explain": "N보다 늘다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chắc bây giờ ở Jeju trời ấm lắm đấy. (dùng (으)ㄹ걸요)",
+   "answer": [
+    "지금 제주도는 따뜻할걸요.",
+    "지금 제주도는 날씨가 따뜻할걸요.",
+    "지금 제주도 날씨는 따뜻할걸요."
+   ],
+   "explain": "따뜻하다 → 따뜻할걸요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi mặc hanbok chụp ảnh ở làng hanok.",
+   "answer": [
+    "한옥 마을에서 한복을 입고 사진을 찍었어요.",
+    "저는 한옥 마을에서 한복을 입고 사진을 찍었어요."
+   ],
+   "explain": "입고 찍다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cuối tuần tôi nghỉ ngơi ở rừng nghỉ dưỡng.",
+   "answer": [
+    "주말에 자연 휴양림에서 쉬었어요.",
+    "주말에 휴양림에서 쉬었어요."
+   ],
+   "explain": "자연 휴양림."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "최근 단순히 관광 명소를 구경하는 여행보다 생태 체험, 맛 기행 같은 테마관광을 찾는 사람이 늘고 있다. 정부도 외래 관광객 유치를 위해 관광 인프라 구축에 힘쓰고 있다.",
+   "answer": "Gần đây số người tìm đến du lịch theo chủ đề như trải nghiệm sinh thái, du lịch ẩm thực đang tăng hơn là chuyến đi chỉ ngắm danh thắng. Chính phủ cũng đang nỗ lực xây dựng hạ tầng du lịch để thu hút khách nước ngoài.",
+   "explain": "테마관광, 유치, 인프라 구축."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 이번 연휴에 경주로 여행 가려고 하는데 어디가 좋을까요?\n남자: 불국사는 꼭 가 보세요. 그런데 연휴에는 사람이 정말 많을걸요. 아침 일찍 가는 게 좋아요.\n여자: 그렇군요. 숙소는 어디가 좋아요?\n남자: 한옥 마을에 있는 숙소에서 자 보세요. 한옥 체험도 할 수 있어서 외국인 관광객들에게 인기가 많아요.",
+   "options": [
+    "남자는 불국사에 아침 일찍 가라고 했다.",
+    "여자는 이미 경주에 다녀왔다.",
+    "한옥 숙소는 외국인에게 인기가 없다.",
+    "연휴에는 불국사에 사람이 없다."
+   ],
+   "answer": "남자는 불국사에 아침 일찍 가라고 했다.",
+   "explain": "아침 일찍 가는 게 좋아요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "의료관광은 치료와 관광을 함께 하는 여행이다. 한국은 의료 기술이 뛰어나고 가격이 비교적 저렴해서 의료관광객이 해마다 늘고 있다. 그러나 통역 서비스가 부족하고 사고가 났을 때 보호받기 어렵다는 문제가 있어 관련 인프라 구축이 시급하다.",
+   "options": [
+    "의료관광을 위한 인프라가 아직 부족하다.",
+    "한국의 의료비는 매우 비싸다.",
+    "의료관광객은 줄고 있다.",
+    "통역 서비스가 충분하다."
+   ],
+   "answer": "의료관광을 위한 인프라가 아직 부족하다.",
+   "explain": "통역 서비스가 부족 … 인프라 구축이 시급."
+  }
+ ]
+}

@@ -1,0 +1,415 @@
+{
+ "id": "bai-265",
+ "lesson": "Bài 265",
+ "title": "Thông tin và truyền thông (phần 2/4)",
+ "krTitle": "정보와 통신 2",
+ "date": "2027-12-11",
+ "day": 388,
+ "source": "TOPIK 6 – Bài 13: Thông tin và truyền thông (phần 2/4)",
+ "practice": {
+  "listening": "Nghe – câu 13~16: Chọn nội dung đúng",
+  "reading": "Đọc – câu 25~27: Tiêu đề báo"
+ },
+ "words": [
+  [
+   "사이버 상거래",
+   "Saibeo sanggeorae",
+   "Mua bán qua mạng",
+   "사이버 상거래로 물건을 사는 사람이 늘었어요.",
+   "Người mua hàng qua thương mại điện tử đã tăng."
+  ],
+  [
+   "위성 DMB",
+   "Wiseong klB",
+   "Hệ thống truyền phát đa phương tiện số vệ tinh",
+   "차 안에서 위성 DMB로 뉴스를 봤어요.",
+   "Tôi xem tin tức bằng DMB vệ tinh trong xe."
+  ],
+  [
+   "위치 정보 서비스",
+   "Wichi jeongbo seobiseu",
+   "Dịch vụ định vị và giám sát",
+   "위치 정보 서비스로 아이가 어디 있는지 알 수 있어요.",
+   "Có thể biết con ở đâu nhờ dịch vụ định vị."
+  ],
+  [
+   "사이버 예절",
+   "Saibeo yejeol",
+   "Phép tắc mạng",
+   "인터넷에서도 사이버 예절을 지켜야 해요.",
+   "Trên mạng cũng phải giữ phép lịch sự."
+  ],
+  [
+   "컴퓨터 바이러스",
+   "Keompyuteo baireoseu",
+   "Virus máy tính",
+   "컴퓨터 바이러스 때문에 파일이 다 지워졌어요.",
+   "Vì virus máy tính mà tệp bị xóa hết."
+  ],
+  [
+   "개인 정보 도용",
+   "Gaein jeongbo doyong",
+   "Ăn cắp thông tin cá nhân",
+   "개인 정보 도용 피해가 늘고 있어요.",
+   "Thiệt hại do ăn cắp thông tin cá nhân đang tăng."
+  ],
+  [
+   "스팸 메일",
+   "Seupaem meil",
+   "Thư rác",
+   "하루에 스팸 메일이 수십 통씩 와요.",
+   "Mỗi ngày nhận hàng chục thư rác."
+  ],
+  [
+   "저작권침해",
+   "Jeojakgwonchimhae",
+   "Xâm phạm quyền tác giả",
+   "영화를 불법으로 내려받는 것은 저작권침해예요.",
+   "Tải phim lậu là vi phạm bản quyền."
+  ],
+  [
+   "백신 프로그램",
+   "Baeksin peurogeuraem",
+   "Chương trình diệt virus",
+   "백신 프로그램을 설치하세요.",
+   "Hãy cài chương trình diệt virus."
+  ],
+  [
+   "원격 감시",
+   "Wongyeong gamsi",
+   "Giám sát từ xa",
+   "CCTV로 원격 감시를 해요.",
+   "Giám sát từ xa bằng CCTV."
+  ],
+  [
+   "애드웨어",
+   "Aedeuweeo",
+   "Phần mềm quảng cáo",
+   "무료 프로그램을 깔았더니 애드웨어가 같이 설치됐어요.",
+   "Cài phần mềm miễn phí thì phần mềm quảng cáo cũng bị cài theo."
+  ],
+  [
+   "실시간 감시",
+   "Silsigan gamsi",
+   "Theo dõi thời gian thực",
+   "보안 회사가 해킹을 실시간 감시해요.",
+   "Công ty bảo mật giám sát tấn công theo thời gian thực."
+  ],
+  [
+   "스파이웨어",
+   "Seupaiweeo",
+   "Phần mềm gián điệp",
+   "스파이웨어가 개인 정보를 몰래 빼 가요.",
+   "Phần mềm gián điệp lén lấy thông tin cá nhân."
+  ],
+  [
+   "해킹",
+   "Haeking",
+   "Hacking, hoạt động xâm nhập hệ thống máy tính",
+   "은행 사이트가 해킹을 당했어요.",
+   "Trang web ngân hàng đã bị hack."
+  ],
+  [
+   "피싱",
+   "Pising",
+   "Tấn công giả mạo (phishing)",
+   "피싱 문자를 조심하세요.",
+   "Hãy cẩn thận tin nhắn lừa đảo."
+  ],
+  [
+   "U-정보사회",
+   "Kljeongbosahoe",
+   "Xã hội thông tin mọi lúc mọi nơi",
+   "U-정보사회에서는 모든 기기가 연결돼요.",
+   "Trong xã hội thông tin ubiquitous mọi thiết bị đều kết nối."
+  ],
+  [
+   "공인 인증서",
+   "Gongin injeungseo",
+   "Chứng thư số (xác thực giao dịch trực tuyến)",
+   "인터넷 뱅킹을 하려면 공인 인증서가 필요했어요.",
+   "Muốn dùng ngân hàng trực tuyến trước đây cần chứng thư số."
+  ],
+  [
+   "U-정부",
+   "Kljeongbu",
+   "Chính phủ điện tử",
+   "U-정부 서비스로 집에서 서류를 발급받아요.",
+   "Nhận giấy tờ tại nhà nhờ dịch vụ chính phủ điện tử."
+  ],
+  [
+   "화상 회의",
+   "Hwasang hoeui",
+   "Hội nghị (họp) trực tuyến",
+   "해외 지사와 화상 회의를 했어요.",
+   "Đã họp trực tuyến với chi nhánh nước ngoài."
+  ],
+  [
+   "삭제",
+   "Sakje",
+   "Xóa, loại bỏ",
+   "필요 없는 파일은 삭제하세요.",
+   "Hãy xóa các tệp không cần thiết."
+  ],
+  [
+   "사이버 머니",
+   "Saibeo meoni",
+   "Tiền ảo",
+   "게임에서 사이버 머니를 썼어요.",
+   "Đã dùng tiền ảo trong game."
+  ],
+  [
+   "결제",
+   "Gyeolje",
+   "Sự thanh toán",
+   "카드로 결제할게요.",
+   "Tôi sẽ thanh toán bằng thẻ."
+  ],
+  [
+   "골치가 아프다",
+   "Golchiga apeuda",
+   "Đau đầu",
+   "스팸 메일 때문에 골치가 아파요.",
+   "Đau đầu vì thư rác."
+  ],
+  [
+   "과속",
+   "Gwasok",
+   "Chạy quá tốc độ",
+   "과속으로 벌금을 냈어요.",
+   "Đã nộp phạt vì chạy quá tốc độ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)ㄹ래야 (으)ㄹ 수(가) 없다 — Muốn cũng không thể",
+   "meaning": "Nhấn mạnh rằng DÙ CÓ MUỐN / CỐ GẮNG làm thì cũng HOÀN TOÀN KHÔNG THỂ làm được (vì hoàn cảnh không cho phép): 'muốn… cũng không… được, định… mà không thể…'. Cấu tạo: (으)려고 해야 (dù có định) rút gọn → (으)ㄹ래야 + lặp lại cùng động từ + (으)ㄹ 수(가) 없다. Chia: có patchim → 을래야 … 을 수가 없다 (잊을래야 잊을 수가 없어요); không patchim/ㄹ → ㄹ래야 … ㄹ 수가 없다 (끊을래야, 볼래야 볼 수가 없다, 살래야 살 수가 없다). Động từ ở hai vế GIỐNG NHAU. Thường dùng với: 잊다, 끊다, 피하다, 믿다, 찾다, 자다. Mẫu quen: 잊을래야 잊을 수가 없어요 (muốn quên cũng không quên được). Văn nói, cảm xúc mạnh.",
+   "examples": [
+    "스마트폰은 이제 끊을래야 끊을 수가 없어요. — Điện thoại thông minh giờ muốn bỏ cũng không bỏ được.",
+    "그날의 일은 잊을래야 잊을 수가 없어요. — Chuyện hôm đó muốn quên cũng không quên được.",
+    "스팸 메일이 너무 많아서 피할래야 피할 수가 없어요. — Thư rác nhiều quá, muốn tránh cũng không tránh được.",
+    "옆집이 시끄러워서 잘래야 잘 수가 없었어요. — Nhà bên ồn quá, muốn ngủ cũng không ngủ được."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Thư quảng cáo không mong muốn gọi là gì?",
+   "kr": "",
+   "options": [
+    "스팸 메일",
+    "애드웨어",
+    "공인 인증서"
+   ],
+   "answer": "스팸 메일",
+   "explain": "spam mail."
+  },
+  {
+   "type": "choice",
+   "q": "Lừa đảo lấy thông tin bằng email/tin nhắn giả gọi là gì?",
+   "kr": "",
+   "options": [
+    "피싱",
+    "해킹",
+    "결제"
+   ],
+   "answer": "피싱",
+   "explain": "phishing."
+  },
+  {
+   "type": "choice",
+   "q": "Chương trình diệt virus gọi là gì?",
+   "kr": "",
+   "options": [
+    "백신 프로그램",
+    "스파이웨어",
+    "사이버 머니"
+   ],
+   "answer": "백신 프로그램",
+   "explain": "vaccine program."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tải phim lậu là vi phạm bản quyền.",
+   "kr": "영화를 불법으로 내려받는 것은 ___예요.",
+   "options": [
+    "저작권침해",
+    "개인 정보 도용",
+    "사이버 예절"
+   ],
+   "answer": "저작권침해",
+   "explain": "저작권 = bản quyền."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Muốn quên cũng không quên được.'",
+   "kr": "",
+   "options": [
+    "잊을래야 잊을 수가 없어요.",
+    "잊을래야 잊을 수가 있어요.",
+    "잊을래야 기억할 수가 없어요."
+   ],
+   "answer": "잊을래야 잊을 수가 없어요.",
+   "explain": "Cùng động từ ở hai vế + 수가 없다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 자다.",
+   "kr": "",
+   "options": [
+    "잘래야 잘 수가 없어요",
+    "잘래야 자는 수가 없어요",
+    "자을래야 잘 수가 없어요"
+   ],
+   "answer": "잘래야 잘 수가 없어요",
+   "explain": "Không patchim → ㄹ래야."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu này nhấn mạnh điều gì?",
+   "kr": "",
+   "options": [
+    "Dù muốn làm cũng hoàn toàn không thể",
+    "Rất muốn làm",
+    "Đã làm xong"
+   ],
+   "answer": "Dù muốn làm cũng hoàn toàn không thể",
+   "explain": "Hoàn cảnh không cho phép."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tôi sẽ thanh toán bằng thẻ.",
+   "kr": "카드로 ___할게요.",
+   "options": [
+    "결제",
+    "삭제",
+    "해킹"
+   ],
+   "answer": "결제",
+   "explain": "결제하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền mẫu với 끊다: Điện thoại giờ muốn bỏ cũng không bỏ được.",
+   "kr": "스마트폰은 이제 ___ 수가 없어요.",
+   "answer": [
+    "끊을래야 끊을"
+   ],
+   "explain": "끊을래야 끊을 수가 없어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền mẫu với 피하다: Thư rác nhiều, muốn tránh cũng không tránh được.",
+   "kr": "스팸 메일이 너무 많아서 ___ 수가 없어요.",
+   "answer": [
+    "피할래야 피할"
+   ],
+   "explain": "피할래야 피할."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã họp trực tuyến với chi nhánh nước ngoài.",
+   "kr": "해외 지사와 ___를 했어요.",
+   "answer": [
+    "화상 회의"
+   ],
+   "explain": "화상 회의."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trang web ngân hàng đã bị hack.",
+   "kr": "은행 사이트가 ___을 당했어요.",
+   "answer": [
+    "해킹"
+   ],
+   "explain": "해킹을 당하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Nhà bên ồn quá, muốn ngủ cũng không ngủ được.",
+   "tokens": [
+    "옆집이",
+    "시끄러워서",
+    "잘래야",
+    "잘",
+    "수가",
+    "없었어요"
+   ],
+   "answer": "옆집이 시끄러워서 잘래야 잘 수가 없었어요",
+   "explain": "ㄹ래야 ㄹ 수가 없다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Hãy cẩn thận tin nhắn lừa đảo.",
+   "tokens": [
+    "피싱",
+    "문자를",
+    "조심하세요"
+   ],
+   "answer": "피싱 문자를 조심하세요",
+   "explain": "조심하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Món này cay quá, muốn ăn cũng không ăn được. (dùng ㄹ래야 ㄹ 수 없다)",
+   "answer": [
+    "이 음식은 너무 매워서 먹을래야 먹을 수가 없어요.",
+    "너무 매워서 먹을래야 먹을 수가 없어요.",
+    "이 음식이 너무 매워서 먹을래야 먹을 수 없어요."
+   ],
+   "explain": "먹을래야 먹을 수가 없어요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy xóa các tệp không cần thiết.",
+   "answer": [
+    "필요 없는 파일은 삭제하세요.",
+    "필요 없는 파일을 삭제하세요."
+   ],
+   "explain": "삭제하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Đã nộp phạt vì chạy quá tốc độ.",
+   "answer": [
+    "과속으로 벌금을 냈어요.",
+    "과속 때문에 벌금을 냈어요."
+   ],
+   "explain": "과속."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "정보 통신 기술이 발달하면서 해킹, 피싱, 개인 정보 도용 같은 사이버 범죄도 늘고 있다. 이제 스마트폰 없이는 살래야 살 수가 없는 시대가 된 만큼 보안에 더 신경 써야 한다.",
+   "answer": "Khi công nghệ thông tin truyền thông phát triển, tội phạm mạng như hack, lừa đảo, ăn cắp thông tin cá nhân cũng tăng. Vì giờ đã thành thời đại mà không có điện thoại thì muốn sống cũng không sống được, nên càng phải chú ý đến bảo mật.",
+   "explain": "ㄹ래야 ㄹ 수가 없다; 는 만큼."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 13~16)",
+   "kr": "여자: 요즘 택배가 도착했다는 문자를 받았는데, 주소를 눌러 보라고 해서 눌렀어요.\n남자: 혹시 피싱 문자 아니었어요? 요즘 그런 문자가 정말 많아요.\n여자: 그래서 그런지 갑자기 휴대폰이 이상해졌어요.\n남자: 빨리 백신 프로그램으로 검사하고, 은행에도 연락해 보세요.",
+   "options": [
+    "여자는 피싱 문자로 의심되는 문자를 눌렀다.",
+    "여자는 택배를 직접 받았다.",
+    "남자는 문자를 눌러 보라고 했다.",
+    "여자의 휴대폰은 아무 문제가 없다."
+   ],
+   "answer": "여자는 피싱 문자로 의심되는 문자를 눌렀다.",
+   "explain": "주소를 눌렀어요 + 피싱 문자."
+  },
+  {
+   "type": "read",
+   "q": "Chọn câu giải thích đúng nhất tiêu đề báo. (Dạng TOPIK II Đọc câu 25~27)",
+   "kr": "'택배 왔어요' 문자 클릭했다가… 개인 정보 도용 피해 급증",
+   "options": [
+    "가짜 택배 문자를 눌러 개인 정보를 도둑맞는 피해가 크게 늘었다.",
+    "택배 회사의 매출이 크게 늘었다.",
+    "택배 문자가 없어졌다.",
+    "개인 정보 도용 피해가 줄었다."
+   ],
+   "answer": "가짜 택배 문자를 눌러 개인 정보를 도둑맞는 피해가 크게 늘었다.",
+   "explain": "급증 = tăng đột biến."
+  }
+ ]
+}

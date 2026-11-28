@@ -1,0 +1,401 @@
+{
+ "id": "bai-184",
+ "lesson": "Bài 184",
+ "title": "Thay đổi sinh hoạt (phần 3/4)",
+ "krTitle": "생활의 변화 3",
+ "date": "2027-08-12",
+ "day": 267,
+ "source": "TOPIK 5 – Bài 9: Thay đổi sinh hoạt (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "투기",
+   "Tugi",
+   "Sự đầu cơ",
+   "부동산 투기를 막아야 해요.",
+   "Phải ngăn chặn đầu cơ bất động sản."
+  ],
+  [
+   "분양",
+   "Bunyang",
+   "Sự phân lô, bán từng phần",
+   "새 아파트 분양이 다음 달에 시작돼요.",
+   "Việc bán căn hộ mới bắt đầu vào tháng sau."
+  ],
+  [
+   "임대주택",
+   "Imdaejutaek",
+   "Nhà ở cho thuê",
+   "젊은 사람들을 위한 임대주택이 늘었어요.",
+   "Nhà cho thuê dành cho người trẻ đã tăng."
+  ],
+  [
+   "부동산 경기 침체",
+   "Budongsan gyeonggi chimche",
+   "Sự trì trệ của thị trường bất động sản",
+   "부동산 경기 침체로 집이 잘 안 팔려요.",
+   "Vì thị trường bất động sản trì trệ nên nhà khó bán."
+  ],
+  [
+   "재건축",
+   "Jaegeonchuk",
+   "Xây dựng lại",
+   "오래된 아파트를 재건축하기로 했어요.",
+   "Đã quyết định xây lại khu chung cư cũ."
+  ],
+  [
+   "부동산 대책",
+   "Budongsan daechaek",
+   "Chính sách bất động sản",
+   "정부가 새 부동산 대책을 발표했어요.",
+   "Chính phủ công bố chính sách bất động sản mới."
+  ],
+  [
+   "내 집 마련",
+   "Nae jim maryeon",
+   "Mua được nhà riêng",
+   "내 집 마련이 제 꿈이에요.",
+   "Mua được nhà riêng là ước mơ của tôi."
+  ],
+  [
+   "가결하다",
+   "Gagyeolhada",
+   "Thông qua (biểu quyết)",
+   "국회에서 그 법안을 가결했어요.",
+   "Quốc hội đã thông qua dự luật đó."
+  ],
+  [
+   "가지각색",
+   "Gajigaksaek",
+   "Đa dạng, đủ loại",
+   "시장에는 가지각색의 과일이 있어요.",
+   "Ở chợ có đủ loại trái cây."
+  ],
+  [
+   "감지기",
+   "Gamjigi",
+   "Thiết bị cảm biến (báo khói, báo cháy)",
+   "화재 감지기가 울려서 깜짝 놀랐어요.",
+   "Máy báo cháy kêu làm tôi giật mình."
+  ],
+  [
+   "개별 난방",
+   "Gaebyeol nanbang",
+   "Hệ thống sưởi riêng biệt",
+   "이 아파트는 개별 난방이라서 난방비를 아낄 수 있어요.",
+   "Chung cư này sưởi riêng từng nhà nên tiết kiệm được tiền sưởi."
+  ],
+  [
+   "경관",
+   "Gyeonggwan",
+   "Cảnh quan",
+   "이 호텔은 바다 경관이 아름다워요.",
+   "Khách sạn này có cảnh biển đẹp."
+  ],
+  [
+   "경사면",
+   "Gyeongsamyeon",
+   "Mặt dốc nghiêng",
+   "경사면에 집을 지으면 위험할 수 있어요.",
+   "Xây nhà trên sườn dốc có thể nguy hiểm."
+  ],
+  [
+   "공공재정",
+   "Gonggongjaejeong",
+   "Tài chính công",
+   "공공재정을 아껴 써야 해요.",
+   "Phải chi tiêu tài chính công một cách tiết kiệm."
+  ],
+  [
+   "공실",
+   "Gongsil",
+   "Phòng trống",
+   "상가에 공실이 많아졌어요.",
+   "Trong khu thương mại nhiều phòng trống hơn."
+  ],
+  [
+   "단말기",
+   "Danmalgi",
+   "Thiết bị đầu cuối, máy quẹt thẻ",
+   "카드를 단말기에 대 주세요.",
+   "Hãy chạm thẻ vào máy đọc."
+  ],
+  [
+   "덩어리",
+   "Deongeori",
+   "Khối, tảng",
+   "얼음 덩어리가 지붕에서 떨어졌어요.",
+   "Một tảng băng rơi từ mái nhà xuống."
+  ],
+  [
+   "들이닥치다",
+   "Deuridakchida",
+   "Ập đến đột ngột",
+   "손님들이 갑자기 들이닥쳐서 당황했어요.",
+   "Khách ập đến bất ngờ nên tôi bối rối."
+  ],
+  [
+   "미련하다",
+   "Miryeonhada",
+   "Khờ dại, ngớ ngẩn",
+   "같은 실수를 또 했어요. 제가 참 미련했어요.",
+   "Tôi lại mắc cùng một lỗi. Tôi thật khờ dại."
+  ],
+  [
+   "바이오리듬",
+   "Baiorideum",
+   "Nhịp sinh học",
+   "밤에 일하면 바이오리듬이 깨질 수 있어요.",
+   "Làm việc ban đêm có thể phá vỡ nhịp sinh học."
+  ],
+  [
+   "백방으로 수소문하다",
+   "Baekbangeuro susomunhada",
+   "Dò hỏi khắp nơi",
+   "잃어버린 강아지를 찾으려고 백방으로 수소문했어요.",
+   "Tôi dò hỏi khắp nơi để tìm chú chó bị lạc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)단/란 말이에요? — Ý cậu là … sao?",
+   "meaning": "Dùng để HỎI LẠI, XÁC NHẬN điều đối phương vừa nói, thường kèm NGẠC NHIÊN, không tin hoặc bất mãn: 'Ý bạn là… sao?', 'Nghĩa là… à?', 'Thế là… á?'. Rút gọn của (ㄴ/는)다는 말이에요?. Chia như câu gián tiếp: Động từ có patchim → 는단 말이에요? (먹는단 말이에요?); không patchim → ㄴ단 말이에요? (간단 말이에요?); Tính từ → 단 말이에요? (비싸단 말이에요?); Danh từ → (이)란 말이에요? (공실이란 말이에요?); Quá khứ → 았/었단 말이에요?. Câu hỏi lại lời mệnh lệnh: (으)란 말이에요? (기다리란 말이에요? = ý là bảo tôi đợi á?); lời rủ: 자는 말이에요?. Dạng câu khẳng định (không có ?): 단 말이에요 = 'tôi nói là… đấy' (nhấn mạnh, bực bội).",
+   "examples": [
+    "집값이 또 올랐단 말이에요? — Ý anh là giá nhà lại tăng nữa sao?",
+    "이 작은 방이 월세 100만 원이란 말이에요? — Căn phòng nhỏ này mà tiền thuê 1 triệu won á?",
+    "지금 당장 이사하란 말이에요? — Ý anh là bảo tôi chuyển nhà ngay bây giờ sao?",
+    "제가 몇 번이나 말했단 말이에요. — Tôi đã nói bao nhiêu lần rồi đấy."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Mua đất, nhà chờ giá lên để kiếm lời gọi là gì?",
+   "kr": "",
+   "options": [
+    "투기",
+    "분양",
+    "공실"
+   ],
+   "answer": "투기",
+   "explain": "투기 = đầu cơ."
+  },
+  {
+   "type": "choice",
+   "q": "Phòng/mặt bằng không có người thuê gọi là gì?",
+   "kr": "",
+   "options": [
+    "공실",
+    "경관",
+    "단말기"
+   ],
+   "answer": "공실",
+   "explain": "공(trống) + 실(phòng)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Máy báo cháy kêu làm tôi giật mình.",
+   "kr": "화재 ___가 울려서 깜짝 놀랐어요.",
+   "options": [
+    "감지기",
+    "단말기",
+    "덩어리"
+   ],
+   "answer": "감지기",
+   "explain": "감지기 = cảm biến."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Ở chợ có đủ loại trái cây.",
+   "kr": "시장에는 ___의 과일이 있어요.",
+   "options": [
+    "가지각색",
+    "경사면",
+    "공공재정"
+   ],
+   "answer": "가지각색",
+   "explain": "가지각색 = muôn màu muôn vẻ."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu hỏi lại ĐÚNG: Ý anh là giá nhà lại tăng nữa sao?",
+   "kr": "",
+   "options": [
+    "집값이 또 올랐단 말이에요?",
+    "집값이 또 올랐는단 말이에요?",
+    "집값이 또 오른단 말이에요다?"
+   ],
+   "answer": "집값이 또 올랐단 말이에요?",
+   "explain": "Quá khứ: 았/었단 말이에요?"
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu hỏi lại ĐÚNG với danh từ: Ý là căn này là phòng trống á?",
+   "kr": "",
+   "options": [
+    "이 방이 공실이란 말이에요?",
+    "이 방이 공실단 말이에요?",
+    "이 방이 공실는단 말이에요?"
+   ],
+   "answer": "이 방이 공실이란 말이에요?",
+   "explain": "Danh từ có patchim + 이란 말이에요?"
+  },
+  {
+   "type": "choice",
+   "q": "'지금 당장 이사하란 말이에요?' Người nói đang hỏi lại điều gì?",
+   "kr": "",
+   "options": [
+    "Một lời yêu cầu/mệnh lệnh",
+    "Một lời rủ rê",
+    "Một câu hỏi"
+   ],
+   "answer": "Một lời yêu cầu/mệnh lệnh",
+   "explain": "(으)란 말이에요? = hỏi lại mệnh lệnh."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Khách ập đến bất ngờ nên tôi bối rối.",
+   "kr": "손님들이 갑자기 ___ 당황했어요.",
+   "options": [
+    "들이닥쳐서",
+    "가결해서",
+    "미련해서"
+   ],
+   "answer": "들이닥쳐서",
+   "explain": "들이닥치다 = ập đến."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 단/란 말이에요? với 비싸다: Ý anh là cái này đắt á?",
+   "kr": "이게 ___?",
+   "answer": [
+    "비싸단 말이에요",
+    "비싸단 말이야"
+   ],
+   "explain": "Tính từ + 단 말이에요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền 단 말이에요? với 팔다: Ý anh là anh bán nhà sao?",
+   "kr": "집을 ___?",
+   "answer": [
+    "판단 말이에요",
+    "판단 말이야",
+    "팔았단 말이에요"
+   ],
+   "explain": "팔다 → 판다 → 판단 말이에요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Mua được nhà riêng là ước mơ của tôi.",
+   "kr": "내 집 ___이 제 꿈이에요.",
+   "answer": [
+    "마련"
+   ],
+   "explain": "내 집 마련."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hãy chạm thẻ vào máy đọc.",
+   "kr": "카드를 ___에 대 주세요.",
+   "answer": [
+    "단말기"
+   ],
+   "explain": "단말기."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Căn phòng nhỏ này mà tiền thuê 1 triệu won á?",
+   "tokens": [
+    "이",
+    "작은",
+    "방이",
+    "월세",
+    "100만",
+    "원이란",
+    "말이에요?"
+   ],
+   "answer": "이 작은 방이 월세 100만 원이란 말이에요?",
+   "explain": "N이란 말이에요?"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đã quyết định xây lại khu chung cư cũ.",
+   "tokens": [
+    "오래된",
+    "아파트를",
+    "재건축하기로",
+    "했어요"
+   ],
+   "answer": "오래된 아파트를 재건축하기로 했어요",
+   "explain": "기로 하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ý anh là bảo tôi đợi thêm một tiếng nữa sao?",
+   "answer": [
+    "한 시간 더 기다리란 말이에요?",
+    "한 시간을 더 기다리란 말이에요?",
+    "한 시간 더 기다리라는 말이에요?"
+   ],
+   "explain": "Hỏi lại mệnh lệnh: (으)란 말이에요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Chính phủ công bố chính sách bất động sản mới.",
+   "answer": [
+    "정부가 새 부동산 대책을 발표했어요.",
+    "정부가 새로운 부동산 대책을 발표했어요.",
+    "정부는 새 부동산 대책을 발표했어요."
+   ],
+   "explain": "대책을 발표하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Khách sạn này có cảnh biển đẹp.",
+   "answer": [
+    "이 호텔은 바다 경관이 아름다워요.",
+    "이 호텔은 바다 경관이 좋아요.",
+    "이 호텔은 바다 경관이 멋있어요."
+   ],
+   "explain": "경관."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "부동산 경기 침체가 계속되면서 상가에 공실이 늘고 있다. 정부는 새로운 부동산 대책을 가결했지만 효과가 있을지는 아직 알 수 없다.",
+   "answer": "Khi sự trì trệ của thị trường bất động sản kéo dài, phòng trống ở các khu thương mại đang tăng lên. Chính phủ đã thông qua chính sách bất động sản mới nhưng vẫn chưa thể biết có hiệu quả hay không.",
+   "explain": "(으)면서; (으)ㄹ지."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 집을 사려고 했는데 너무 비싸서 그냥 계속 월세로 살려고 해요.\n여자: 계속 월세로 산단 말이에요? 월세는 돈이 그냥 나가는 거잖아요. 지금부터 청약 통장을 만들어서 내 집 마련을 준비하는 게 좋을 것 같아요.",
+   "options": [
+    "지금부터 내 집 마련을 준비하는 것이 좋다.",
+    "월세로 사는 것이 가장 좋다.",
+    "집은 사면 안 된다.",
+    "청약 통장은 필요 없다."
+   ],
+   "answer": "지금부터 내 집 마련을 준비하는 것이 좋다.",
+   "explain": "청약 통장을 만들어서 내 집 마련을 준비하는 게 좋다."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "오래된 아파트를 재건축하면 주거 환경이 좋아지고 집값도 오르는 경우가 많다. 그러나 재건축 기간 동안 주민들은 다른 곳에서 살아야 하고, 비용 문제로 주민들 사이에 갈등이 생기기도 한다. 따라서 재건축을 결정하기 전에 주민들의 충분한 합의가 필요하다.",
+   "options": [
+    "재건축 전에 주민들의 합의가 필요하다.",
+    "재건축을 하면 집값이 항상 내린다.",
+    "재건축 기간에도 주민들은 그 집에 산다.",
+    "재건축에는 비용이 들지 않는다."
+   ],
+   "answer": "재건축 전에 주민들의 합의가 필요하다.",
+   "explain": "결정하기 전에 주민들의 충분한 합의가 필요하다."
+  }
+ ]
+}

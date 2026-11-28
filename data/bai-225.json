@@ -1,0 +1,413 @@
+{
+ "id": "bai-225",
+ "lesson": "Bài 225",
+ "title": "Văn học Hàn Quốc (phần 2/5)",
+ "krTitle": "한국 문학 2",
+ "date": "2027-10-12",
+ "day": 328,
+ "source": "TOPIK 6 – Bài 4: Văn học Hàn Quốc (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "전개",
+   "Jeongae",
+   "Triển khai, phát triển",
+   "이야기의 전개가 아주 빨라요.",
+   "Diễn biến câu chuyện rất nhanh."
+  ],
+  [
+   "결말",
+   "Gyeolmal",
+   "Lời kết, đoạn văn kết thúc",
+   "그 소설의 결말이 슬펐어요.",
+   "Kết thúc cuốn tiểu thuyết đó buồn."
+  ],
+  [
+   "고전주의",
+   "Gojeonjuui",
+   "Chủ nghĩa cổ điển",
+   "고전주의는 질서와 균형을 중요하게 여겼어요.",
+   "Chủ nghĩa cổ điển coi trọng trật tự và cân bằng."
+  ],
+  [
+   "자연주의",
+   "Jayeonjuui",
+   "Chủ nghĩa tự nhiên",
+   "자연주의 소설은 현실을 그대로 그려요.",
+   "Tiểu thuyết theo chủ nghĩa tự nhiên miêu tả hiện thực y như vậy."
+  ],
+  [
+   "허무주의",
+   "Heomujuui",
+   "Chủ nghĩa hư vô",
+   "전쟁 후에 허무주의 문학이 나타났어요.",
+   "Sau chiến tranh, văn học hư vô chủ nghĩa xuất hiện."
+  ],
+  [
+   "초현실주의",
+   "Chohyeonsiljuui",
+   "Chủ nghĩa siêu thực",
+   "초현실주의 그림은 꿈처럼 신비로워요.",
+   "Tranh siêu thực huyền bí như giấc mơ."
+  ],
+  [
+   "낭만주의",
+   "Nangmanjuui",
+   "Chủ nghĩa lãng mạn",
+   "낭만주의 시인들은 자연과 사랑을 노래했어요.",
+   "Các nhà thơ lãng mạn ca ngợi thiên nhiên và tình yêu."
+  ],
+  [
+   "사실주의",
+   "Sasiljuui",
+   "Chủ nghĩa hiện thực",
+   "사실주의 작가들은 서민의 삶을 그렸어요.",
+   "Các nhà văn hiện thực đã khắc họa cuộc sống người dân thường."
+  ],
+  [
+   "실존주의",
+   "Siljonjuui",
+   "Chủ nghĩa hiện sinh",
+   "실존주의는 인간의 자유와 선택을 강조해요.",
+   "Chủ nghĩa hiện sinh nhấn mạnh tự do và lựa chọn của con người."
+  ],
+  [
+   "계몽주의",
+   "Gyemongjuui",
+   "Chủ nghĩa khai sáng",
+   "계몽주의 소설은 사람들을 깨우치려고 했어요.",
+   "Tiểu thuyết khai sáng muốn thức tỉnh con người."
+  ],
+  [
+   "표현주의",
+   "Pyohyeonjuui",
+   "Chủ nghĩa biểu hiện",
+   "표현주의는 감정을 강하게 표현해요.",
+   "Chủ nghĩa biểu hiện thể hiện cảm xúc mạnh mẽ."
+  ],
+  [
+   "모더니즘",
+   "Modeonijeum",
+   "Chủ nghĩa hiện đại (Modernism)",
+   "1930년대에 한국에도 모더니즘 문학이 들어왔어요.",
+   "Thập niên 1930 văn học hiện đại chủ nghĩa cũng du nhập vào Hàn Quốc."
+  ],
+  [
+   "포스트 모더니즘",
+   "Poseuteu modeonijeum",
+   "Chủ nghĩa hậu hiện đại (Post-modernism)",
+   "포스트 모더니즘 작품은 이해하기 어려워요.",
+   "Tác phẩm hậu hiện đại khó hiểu."
+  ],
+  [
+   "향가",
+   "Hyangga",
+   "Hyangga (một thể loại hát thơ truyền thống của Hàn Quốc)",
+   "향가는 신라 시대의 노래예요.",
+   "Hyangga là bài ca thời Silla."
+  ],
+  [
+   "고대소설",
+   "Godaesoseol",
+   "Tiểu thuyết cổ (trước hiện đại)",
+   "'홍길동전'은 유명한 고대소설이에요.",
+   "'Truyện Hong Gil-dong' là tiểu thuyết cổ nổi tiếng."
+  ],
+  [
+   "가사",
+   "Gasa",
+   "Lời bài hát; thể thơ gasa",
+   "이 노래는 가사가 정말 아름다워요.",
+   "Bài hát này lời thật đẹp."
+  ],
+  [
+   "고려가요",
+   "Goryeogayo",
+   "Dân ca thời Goryeo",
+   "'청산별곡'은 대표적인 고려가요예요.",
+   "'Cheongsan byeolgok' là dân ca Goryeo tiêu biểu."
+  ],
+  [
+   "판소리",
+   "Pansori",
+   "Pansori (điệu hát truyền thống Hàn Quốc)",
+   "판소리 '춘향가'를 들어 봤어요.",
+   "Tôi đã nghe pansori 'Chunhyangga'."
+  ],
+  [
+   "시조",
+   "Sijo",
+   "Sijo (một thể thơ truyền thống Hàn Quốc)",
+   "시조는 세 줄로 된 짧은 시예요.",
+   "Sijo là bài thơ ngắn gồm ba dòng."
+  ],
+  [
+   "민요",
+   "Minyo",
+   "Dân ca",
+   "'아리랑'은 한국의 대표적인 민요예요.",
+   "'Arirang' là dân ca tiêu biểu của Hàn Quốc."
+  ],
+  [
+   "각광을 받다",
+   "Gakgwangeul batda",
+   "Được chú ý đến",
+   "그 작가의 새 소설이 각광을 받고 있어요.",
+   "Tiểu thuyết mới của nhà văn đó đang được chú ý."
+  ],
+  [
+   "간결하다",
+   "Gangyeolhada",
+   "Ngắn gọn, súc tích",
+   "시조는 간결한 표현이 특징이에요.",
+   "Sijo đặc trưng bởi cách diễn đạt súc tích."
+  ],
+  [
+   "감각",
+   "Gamgak",
+   "Cảm giác",
+   "그 시인은 색채 감각이 뛰어나요.",
+   "Nhà thơ đó có cảm giác màu sắc xuất sắc."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + 던가(요)? — … không nhỉ?",
+   "meaning": "HỎI LẠI chính mình hoặc người nghe về điều mình đã từng biết / thấy nhưng giờ KHÔNG NHỚ RÕ: '… nhỉ?, … phải không nhỉ?, có phải… không ta?'. Gốc 더 (hồi tưởng, như trong 던, 더라고요) + ㄴ가. Chia: gắn thẳng: 어렵다 → 어렵던가요?, 오다 → 오던가요?; Danh từ → (이)던가요? (몇 시던가요?, 누구던가요?); Quá khứ → 았/었던가요? (읽었던가요?). Thân mật/độc thoại: 던가? (tự hỏi): 그 책 제목이 뭐였던가? (tên sách đó là gì nhỉ?). Còn dùng như câu hỏi tu từ phản bác nhẹ: 제가 언제 그런 말을 했던가요? (tôi đã nói thế bao giờ nhỉ? = tôi đâu có nói). So sánh: (으)ㄴ가요?/나요? (hỏi thông thường); 던가요? (hỏi về điều trong ký ức, không chắc).",
+   "examples": [
+    "'홍길동전'을 쓴 사람이 누구던가요? — Người viết 'Truyện Hong Gil-dong' là ai nhỉ?",
+    "향가가 신라 시대 노래였던가요? — Hyangga là bài ca thời Silla phải không nhỉ?",
+    "그 소설 결말이 슬펐던가? 기억이 잘 안 나네. — Kết thúc tiểu thuyết đó buồn nhỉ? Không nhớ rõ nữa.",
+    "제가 언제 그런 말을 했던가요? — Tôi đã nói như vậy bao giờ nhỉ? (= tôi đâu có nói)"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Bài ca tiêu biểu của Hàn Quốc, dân ca 'Arirang' thuộc thể loại nào?",
+   "kr": "",
+   "options": [
+    "민요",
+    "향가",
+    "고대소설"
+   ],
+   "answer": "민요",
+   "explain": "민요 = dân ca."
+  },
+  {
+   "type": "choice",
+   "q": "Thể thơ ngắn truyền thống ba dòng là gì?",
+   "kr": "",
+   "options": [
+    "시조",
+    "가사",
+    "판소리"
+   ],
+   "answer": "시조",
+   "explain": "시조."
+  },
+  {
+   "type": "choice",
+   "q": "Trào lưu chú trọng miêu tả đúng hiện thực đời sống gọi là gì?",
+   "kr": "",
+   "options": [
+    "사실주의",
+    "낭만주의",
+    "초현실주의"
+   ],
+   "answer": "사실주의",
+   "explain": "사실 = sự thật."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tiểu thuyết mới của nhà văn đó đang được chú ý.",
+   "kr": "그 작가의 새 소설이 ___을 받고 있어요.",
+   "options": [
+    "각광",
+    "감각",
+    "결말"
+   ],
+   "answer": "각광",
+   "explain": "각광을 받다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Người viết truyện đó là ai nhỉ?'",
+   "kr": "",
+   "options": [
+    "그 소설을 쓴 사람이 누구던가요?",
+    "그 소설을 쓴 사람이 누구던요?",
+    "그 소설을 쓴 사람이 누구는가요?"
+   ],
+   "answer": "그 소설을 쓴 사람이 누구던가요?",
+   "explain": "N + (이)던가요?"
+  },
+  {
+   "type": "choice",
+   "q": "'던가요?' dùng khi nào?",
+   "kr": "",
+   "options": [
+    "Hỏi về điều trong ký ức mà không nhớ rõ",
+    "Hỏi kế hoạch tương lai",
+    "Ra lệnh"
+   ],
+   "answer": "Hỏi về điều trong ký ức mà không nhớ rõ",
+   "explain": "더 = hồi tưởng."
+  },
+  {
+   "type": "choice",
+   "q": "'제가 언제 그런 말을 했던가요?' thực chất muốn nói gì?",
+   "kr": "",
+   "options": [
+    "Tôi đâu có nói như vậy.",
+    "Tôi đã nói như vậy hôm qua.",
+    "Tôi sẽ nói như vậy."
+   ],
+   "answer": "Tôi đâu có nói như vậy.",
+   "explain": "Câu hỏi tu từ phản bác."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Sijo đặc trưng bởi cách diễn đạt súc tích.",
+   "kr": "시조는 ___ 표현이 특징이에요.",
+   "options": [
+    "간결한",
+    "신비로운",
+    "슬픈"
+   ],
+   "answer": "간결한",
+   "explain": "간결하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 던가요? với 이다 (quá khứ): Hyangga là bài ca thời Silla phải không nhỉ?",
+   "kr": "향가가 신라 시대 ___?",
+   "answer": [
+    "노래였던가요",
+    "노래던가요"
+   ],
+   "explain": "였던가요?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền 던가? với 슬프다 (quá khứ, tự hỏi): Kết thúc buồn nhỉ?",
+   "kr": "그 소설 결말이 ___? 기억이 잘 안 나네.",
+   "answer": [
+    "슬펐던가",
+    "슬프던가"
+   ],
+   "explain": "슬펐던가?"
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Kết thúc cuốn tiểu thuyết đó buồn.",
+   "kr": "그 소설의 ___이 슬펐어요.",
+   "answer": [
+    "결말"
+   ],
+   "explain": "결말."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: 'Arirang' là dân ca tiêu biểu.",
+   "kr": "'아리랑'은 한국의 대표적인 ___예요.",
+   "answer": [
+    "민요"
+   ],
+   "explain": "민요."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Người viết 'Truyện Hong Gil-dong' là ai nhỉ?",
+   "tokens": [
+    "'홍길동전'을",
+    "쓴",
+    "사람이",
+    "누구던가요?"
+   ],
+   "answer": "'홍길동전'을 쓴 사람이 누구던가요?",
+   "explain": "던가요?"
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sijo là bài thơ ngắn gồm ba dòng.",
+   "tokens": [
+    "시조는",
+    "세",
+    "줄로",
+    "된",
+    "짧은",
+    "시예요"
+   ],
+   "answer": "시조는 세 줄로 된 짧은 시예요",
+   "explain": "(으)로 되다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Buổi họp là mấy giờ nhỉ? (dùng 던가요)",
+   "answer": [
+    "회의가 몇 시던가요?",
+    "회의가 몇 시였던가요?",
+    "회의는 몇 시던가요?"
+   ],
+   "explain": "몇 시던가요?"
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bài hát này lời thật đẹp.",
+   "answer": [
+    "이 노래는 가사가 정말 아름다워요.",
+    "이 노래는 가사가 참 아름다워요.",
+    "이 노래 가사가 정말 아름다워요."
+   ],
+   "explain": "가사."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đã nghe pansori.",
+   "answer": [
+    "판소리를 들어 봤어요.",
+    "판소리를 들었어요.",
+    "저는 판소리를 들어 봤어요."
+   ],
+   "explain": "아/어 보다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국의 고전 문학에는 향가, 고려가요, 시조, 가사, 판소리 등이 있다. 특히 시조는 간결한 형식 속에 깊은 뜻을 담고 있어서 지금도 많은 사람들에게 사랑받고 있다.",
+   "answer": "Văn học cổ điển Hàn Quốc có hyangga, dân ca Goryeo, sijo, gasa, pansori… Đặc biệt sijo chứa đựng ý nghĩa sâu sắc trong hình thức súc tích nên đến nay vẫn được nhiều người yêu thích.",
+   "explain": "간결하다; 사랑받다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 고전 문학은 너무 어렵고 지루한 것 같아요.\n여자: 그렇게 생각하는 사람이 많죠. 하지만 판소리나 고대소설에는 그 시대 사람들의 웃음과 슬픔이 그대로 담겨 있어요. 현대어로 쉽게 풀어 쓴 책부터 읽어 보면 고전도 충분히 재미있게 즐길 수 있어요.",
+   "options": [
+    "쉽게 풀어 쓴 책부터 읽으면 고전도 재미있다.",
+    "고전 문학은 읽을 필요가 없다.",
+    "판소리는 지루하다.",
+    "고전은 원문으로만 읽어야 한다."
+   ],
+   "answer": "쉽게 풀어 쓴 책부터 읽으면 고전도 재미있다.",
+   "explain": "현대어로 쉽게 풀어 쓴 책부터 …"
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "1930년대 한국 문단에는 모더니즘이 들어오면서 새로운 감각의 작품들이 나타났다. 이 시기의 시인들은 도시의 모습을 세련된 언어로 표현하였다. 그러나 일제강점기라는 어두운 현실 속에서 허무주의적인 분위기를 띤 작품도 적지 않았다.",
+   "options": [
+    "1930년대에는 허무주의적인 작품도 많았다.",
+    "모더니즘은 1960년대에 처음 들어왔다.",
+    "이 시기 시인들은 도시를 표현하지 않았다.",
+    "1930년대는 밝은 시대였다."
+   ],
+   "answer": "1930년대에는 허무주의적인 작품도 많았다.",
+   "explain": "허무주의적인 분위기를 띤 작품도 적지 않았다."
+  }
+ ]
+}

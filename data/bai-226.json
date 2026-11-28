@@ -1,0 +1,408 @@
+{
+ "id": "bai-226",
+ "lesson": "Bài 226",
+ "title": "Văn học Hàn Quốc (phần 3/5)",
+ "krTitle": "한국 문학 3",
+ "date": "2027-10-14",
+ "day": 330,
+ "source": "TOPIK 6 – Bài 4: Văn học Hàn Quốc (phần 3/5)",
+ "practice": {
+  "listening": "Nghe – câu 31~50: Phỏng vấn, bài giảng",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "감상",
+   "Gamsang",
+   "Cảm tưởng, cảm nhận",
+   "시를 읽고 감상을 써 보세요.",
+   "Hãy đọc thơ rồi viết cảm nhận."
+  ],
+  [
+   "개울",
+   "Gaeul",
+   "Con suối nhỏ, lạch, ngòi, mương nước",
+   "어릴 때 개울에서 물고기를 잡았어요.",
+   "Hồi nhỏ tôi bắt cá ở con suối nhỏ."
+  ],
+  [
+   "경치",
+   "Gyeongchi",
+   "Cảnh trí",
+   "이 시는 시골의 아름다운 경치를 그렸어요.",
+   "Bài thơ này vẽ nên cảnh đẹp miền quê."
+  ],
+  [
+   "계승하다",
+   "Gyeseunghada",
+   "Kế thừa",
+   "젊은 작가들이 전통 문학을 계승하고 있어요.",
+   "Các nhà văn trẻ đang kế thừa văn học truyền thống."
+  ],
+  [
+   "고뇌",
+   "Gonoe",
+   "Nỗi khổ não, nỗi đau khổ",
+   "시인은 식민지 시대 청년의 고뇌를 노래했어요.",
+   "Nhà thơ đã ca lên nỗi khổ đau của thanh niên thời thuộc địa."
+  ],
+  [
+   "고백",
+   "Gobaek",
+   "Sự thú nhận, sự bày tỏ, sự cáo bạch",
+   "이 소설은 사랑의 고백으로 시작해요.",
+   "Tiểu thuyết này bắt đầu bằng một lời tỏ tình."
+  ],
+  [
+   "광복",
+   "Gwangbok",
+   "Quang phục, độc lập",
+   "1945년에 한국은 광복을 맞았어요.",
+   "Năm 1945 Hàn Quốc giành lại độc lập."
+  ],
+  [
+   "긍정",
+   "Geungjeong",
+   "Sự khẳng định, sự quả quyết",
+   "그의 작품에는 삶에 대한 긍정이 담겨 있어요.",
+   "Tác phẩm của ông chứa đựng sự khẳng định cuộc sống."
+  ],
+  [
+   "기리다",
+   "Girida",
+   "Tôn vinh, tưởng nhớ",
+   "시인의 정신을 기리는 문학관이 생겼어요.",
+   "Đã có văn học quán tưởng nhớ tinh thần nhà thơ."
+  ],
+  [
+   "끔찍이",
+   "Kkeumjjigi",
+   "Vô cùng, hết mực (thương yêu)",
+   "할머니는 손녀를 끔찍이 사랑하세요.",
+   "Bà thương cháu gái hết mực."
+  ],
+  [
+   "나풀거리다",
+   "Napulgeorida",
+   "Phấp phới, phất phơ",
+   "나비가 꽃 위에서 나풀거려요.",
+   "Bướm chập chờn trên hoa."
+  ],
+  [
+   "낙천",
+   "Nakcheon",
+   "Sự lạc quan",
+   "그는 낙천을 잃지 않는 사람이었어요.",
+   "Ông là người không bao giờ mất đi sự lạc quan."
+  ],
+  [
+   "남짓하다",
+   "Namjitada",
+   "Hơn một chút (… có lẻ)",
+   "작가는 한 달 남짓한 기간에 소설을 완성했어요.",
+   "Nhà văn đã hoàn thành tiểu thuyết trong hơn một tháng."
+  ],
+  [
+   "노년층",
+   "Nonyeoncheung",
+   "Lớp người cao tuổi",
+   "요즘 노년층도 SNS를 많이 사용해요.",
+   "Dạo này người cao tuổi cũng dùng mạng xã hội nhiều."
+  ],
+  [
+   "달아오르다",
+   "Daraoreuda",
+   "Nóng lên, sôi sục",
+   "부끄러워서 얼굴이 달아올랐어요.",
+   "Xấu hổ nên mặt nóng bừng."
+  ],
+  [
+   "대가 끊기다",
+   "Daega kkeunkida",
+   "Tuyệt tông",
+   "아들이 없어서 대가 끊길까 봐 걱정했어요.",
+   "Lo sợ tuyệt tự vì không có con trai."
+  ],
+  [
+   "대하소설",
+   "Daehasoseol",
+   "Tiểu thuyết trường thiên",
+   "'토지'는 유명한 대하소설이에요.",
+   "'Toji' là tiểu thuyết trường thiên nổi tiếng."
+  ],
+  [
+   "도교",
+   "Dogyo",
+   "Đạo giáo",
+   "이 시에는 도교의 영향이 보여요.",
+   "Bài thơ này có thấy ảnh hưởng của Đạo giáo."
+  ],
+  [
+   "도달하다",
+   "Dodalhada",
+   "Đạt tới",
+   "주인공은 마침내 깨달음에 도달했어요.",
+   "Nhân vật chính cuối cùng đã đạt tới giác ngộ."
+  ],
+  [
+   "도랑",
+   "Dorang",
+   "Máng nước",
+   "비가 와서 도랑에 물이 가득 찼어요.",
+   "Trời mưa nên mương đầy nước."
+  ],
+  [
+   "독백",
+   "Dokbaek",
+   "Độc thoại",
+   "주인공의 독백이 마음을 울렸어요.",
+   "Đoạn độc thoại của nhân vật chính làm xúc động lòng người."
+  ],
+  [
+   "독후감",
+   "Dokugam",
+   "Cảm nhận sau khi đọc",
+   "방학 숙제로 독후감을 썼어요.",
+   "Tôi viết cảm nhận sau khi đọc sách làm bài tập kỳ nghỉ."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + (이)나 N + (이)나 할 것 없이 — Bất kể",
+   "meaning": "Nhấn mạnh 'TẤT CẢ, KHÔNG PHÂN BIỆT' giữa các đối tượng được nêu: 'bất kể A hay B, dù là A hay B thì đều…'. Cấu trúc: N1(이)나 N2(이)나 할 것 없이 + 모두/다/누구나. Có patchim → 이나 (학생이나); không patchim → 나 (어른이나 아이나 → 아이나). Thường nêu hai nhóm ĐỐI LẬP: 남녀노소 (nam nữ già trẻ), 어른/아이, 도시/시골, 낮/밤, 주말/평일. Rút gọn: N 할 것 없이 (bất kể N): 남녀노소 할 것 없이. Văn viết và văn nói trang trọng. Gần nghĩa: N(이)든 N(이)든 (dù là… hay…), 구별 없이 (không phân biệt).",
+   "examples": [
+    "이 소설은 어른이나 아이나 할 것 없이 모두 좋아해요. — Cuốn tiểu thuyết này bất kể người lớn hay trẻ em đều thích.",
+    "노년층이나 청년층이나 할 것 없이 SNS를 많이 사용해요. — Bất kể người già hay thanh niên đều dùng mạng xã hội nhiều.",
+    "주말이나 평일이나 할 것 없이 문학관에 사람이 많아요. — Bất kể cuối tuần hay ngày thường, văn học quán đều đông người.",
+    "남녀노소 할 것 없이 '아리랑'을 부를 줄 알아요. — Bất kể nam nữ già trẻ ai cũng biết hát 'Arirang'."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Bài viết cảm nhận sau khi đọc một cuốn sách gọi là gì?",
+   "kr": "",
+   "options": [
+    "독후감",
+    "독백",
+    "감상"
+   ],
+   "answer": "독후감",
+   "explain": "독(đọc) 후(sau) 감(cảm)."
+  },
+  {
+   "type": "choice",
+   "q": "Tiểu thuyết rất dài, kể nhiều thế hệ (như 'Toji') gọi là gì?",
+   "kr": "",
+   "options": [
+    "대하소설",
+    "고대소설",
+    "수필"
+   ],
+   "answer": "대하소설",
+   "explain": "대하 = sông lớn → trường thiên."
+  },
+  {
+   "type": "choice",
+   "q": "Ngày Hàn Quốc giành lại độc lập năm 1945 gọi là gì?",
+   "kr": "",
+   "options": [
+    "광복",
+    "고백",
+    "긍정"
+   ],
+   "answer": "광복",
+   "explain": "광복절 = ngày 15/8."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bướm chập chờn trên hoa.",
+   "kr": "나비가 꽃 위에서 ___.",
+   "options": [
+    "나풀거려요",
+    "달아올라요",
+    "도달해요"
+   ],
+   "answer": "나풀거려요",
+   "explain": "나풀거리다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Bất kể người lớn hay trẻ em đều thích.'",
+   "kr": "",
+   "options": [
+    "어른이나 아이나 할 것 없이 모두 좋아해요.",
+    "어른이나 아이나 할 것 없이 아무도 안 좋아해요.",
+    "어른나 아이이나 할 것 없이 모두 좋아해요."
+   ],
+   "answer": "어른이나 아이나 할 것 없이 모두 좋아해요.",
+   "explain": "어른 (patchim) → 이나; 아이 → 나; vế sau 모두."
+  },
+  {
+   "type": "choice",
+   "q": "'남녀노소 할 것 없이' nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Bất kể nam nữ già trẻ",
+    "Chỉ có người già",
+    "Trừ trẻ em ra"
+   ],
+   "answer": "Bất kể nam nữ già trẻ",
+   "explain": "N 할 것 없이."
+  },
+  {
+   "type": "choice",
+   "q": "Cụm nào GẦN NGHĨA nhất với '할 것 없이'?",
+   "kr": "",
+   "options": [
+    "구별 없이",
+    "때문에",
+    "(으)ㄴ 나머지"
+   ],
+   "answer": "구별 없이",
+   "explain": "구별 없이 = không phân biệt."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Xấu hổ nên mặt nóng bừng.",
+   "kr": "부끄러워서 얼굴이 ___.",
+   "options": [
+    "달아올랐어요",
+    "나풀거렸어요",
+    "기렸어요"
+   ],
+   "answer": "달아올랐어요",
+   "explain": "달아오르다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)나 … 할 것 없이: Bất kể cuối tuần hay ngày thường đều đông người.",
+   "kr": "주말이나 평일이나 ___ 사람이 많아요.",
+   "answer": [
+    "할 것 없이"
+   ],
+   "explain": "할 것 없이."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (이)나: Bất kể thành phố hay nông thôn đều…",
+   "kr": "도시___ 시골이나 할 것 없이 집값이 올랐어요.",
+   "answer": [
+    "나"
+   ],
+   "explain": "도시 (không patchim) → 나."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hồi nhỏ tôi bắt cá ở con suối nhỏ.",
+   "kr": "어릴 때 ___에서 물고기를 잡았어요.",
+   "answer": [
+    "개울"
+   ],
+   "explain": "개울."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Bà thương cháu gái hết mực.",
+   "kr": "할머니는 손녀를 ___ 사랑하세요.",
+   "answer": [
+    "끔찍이"
+   ],
+   "explain": "끔찍이."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bất kể nam nữ già trẻ ai cũng biết hát Arirang.",
+   "tokens": [
+    "남녀노소",
+    "할",
+    "것",
+    "없이",
+    "'아리랑'을",
+    "부를",
+    "줄",
+    "알아요"
+   ],
+   "answer": "남녀노소 할 것 없이 '아리랑'을 부를 줄 알아요",
+   "explain": "할 것 없이."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Đã có văn học quán tưởng nhớ nhà thơ.",
+   "tokens": [
+    "시인의",
+    "정신을",
+    "기리는",
+    "문학관이",
+    "생겼어요"
+   ],
+   "answer": "시인의 정신을 기리는 문학관이 생겼어요",
+   "explain": "기리다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Bất kể học sinh hay giáo viên đều tham gia. (dùng 할 것 없이)",
+   "answer": [
+    "학생이나 선생님이나 할 것 없이 모두 참가했어요.",
+    "학생이나 교사나 할 것 없이 모두 참가했어요.",
+    "학생이나 선생님이나 할 것 없이 다 참가했어요.",
+    "학생이나 선생님이나 할 것 없이 모두 참여했어요."
+   ],
+   "explain": "N이나 N이나 할 것 없이 모두."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hãy đọc thơ rồi viết cảm nhận.",
+   "answer": [
+    "시를 읽고 감상을 써 보세요.",
+    "시를 읽고 감상을 쓰세요.",
+    "시를 읽은 후에 감상을 써 보세요."
+   ],
+   "explain": "감상."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Năm 1945 Hàn Quốc giành lại độc lập.",
+   "answer": [
+    "1945년에 한국은 광복을 맞았어요.",
+    "한국은 1945년에 광복을 맞았어요.",
+    "1945년에 한국은 광복했어요."
+   ],
+   "explain": "광복을 맞다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "윤동주의 시에는 식민지 시대를 살았던 젊은이의 고뇌와 부끄러움이 담겨 있다. 그래서 그의 시는 노년층이나 청년층이나 할 것 없이 많은 사람들에게 사랑받고 있다.",
+   "answer": "Thơ Yun Dong-ju chứa đựng nỗi khổ đau và sự hổ thẹn của người trẻ đã sống thời thuộc địa. Vì vậy thơ ông được rất nhiều người yêu thích, bất kể người già hay thanh niên.",
+   "explain": "할 것 없이."
+  },
+  {
+   "type": "read",
+   "q": "Nghe bài giảng và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 31~50)",
+   "kr": "교수: 독후감을 쓸 때는 줄거리만 길게 쓰는 경우가 많습니다. 하지만 좋은 독후감은 책을 읽고 느낀 점과 자신의 생각이 중심이 되어야 합니다. 줄거리는 짧게 쓰고, 인상 깊었던 장면과 그 이유를 구체적으로 쓰십시오. 그리고 그 책이 자신의 삶에 어떤 영향을 주었는지도 함께 쓰면 좋습니다.",
+   "options": [
+    "좋은 독후감은 느낀 점과 생각이 중심이 되어야 한다.",
+    "독후감에는 줄거리만 길게 써야 한다.",
+    "인상 깊은 장면은 쓰지 않는 것이 좋다.",
+    "독후감에는 자신의 생각을 쓰면 안 된다."
+   ],
+   "answer": "좋은 독후감은 느낀 점과 생각이 중심이 되어야 한다.",
+   "explain": "느낀 점과 자신의 생각이 중심이 되어야 합니다."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "한 권의 책, 한 편의 감동!\n초등학생이나 어른이나 할 것 없이 누구나 참가하세요.\n제5회 시민 독후감 쓰기 대회",
+   "options": [
+    "독후감 대회",
+    "서점 할인",
+    "도서관 휴관",
+    "작가 사인회"
+   ],
+   "answer": "독후감 대회",
+   "explain": "독후감 쓰기 대회."
+  }
+ ]
+}

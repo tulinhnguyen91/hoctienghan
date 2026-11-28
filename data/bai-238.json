@@ -1,0 +1,397 @@
+{
+ "id": "bai-238",
+ "lesson": "Bài 238",
+ "title": "Xã hội hiện đại và thể thao (phần 2/5)",
+ "krTitle": "현대 사회와 스포츠 2",
+ "date": "2027-11-01",
+ "day": 348,
+ "source": "TOPIK 6 – Bài 7: Xã hội hiện đại và thể thao (phần 2/5)",
+ "practice": {
+  "listening": "Nghe – câu 4~8: Chọn câu nối tiếp",
+  "reading": "Đọc – câu 5~8: Chủ đề quảng cáo, thông báo"
+ },
+ "words": [
+  [
+   "앞서다",
+   "Apseoda",
+   "Dẫn trước",
+   "한국이 전반전에 1대 0으로 앞섰어요.",
+   "Hàn Quốc dẫn trước 1–0 trong hiệp một."
+  ],
+  [
+   "-강",
+   "-gang",
+   "Vòng đấu (4강 = bán kết, 8강 = tứ kết)",
+   "한국 축구가 월드컵 4강에 올랐어요.",
+   "Bóng đá Hàn Quốc vào bán kết World Cup."
+  ],
+  [
+   "심판",
+   "Simpan",
+   "Trọng tài",
+   "심판의 판정에 선수들이 항의했어요.",
+   "Các cầu thủ phản đối phán quyết của trọng tài."
+  ],
+  [
+   "주심",
+   "Jusim",
+   "Trọng tài chính",
+   "주심이 경기 시작을 알렸어요.",
+   "Trọng tài chính báo hiệu bắt đầu trận đấu."
+  ],
+  [
+   "부심",
+   "Busim",
+   "Trọng tài phụ",
+   "부심이 깃발을 들어 반칙을 알렸어요.",
+   "Trọng tài biên giơ cờ báo phạm lỗi."
+  ],
+  [
+   "퇴장",
+   "Toejang",
+   "Sự rời sân (bị đuổi khỏi sân)",
+   "그 선수는 레드카드를 받고 퇴장했어요.",
+   "Cầu thủ đó nhận thẻ đỏ và rời sân."
+  ],
+  [
+   "뒤지다",
+   "Dwijida",
+   "Rớt lại sau, tụt hậu",
+   "전반전에는 2점 뒤졌지만 후반전에 역전했어요.",
+   "Hiệp một bị dẫn 2 điểm nhưng hiệp hai đã lội ngược dòng."
+  ],
+  [
+   "선전하다",
+   "Seonjeonhada",
+   "Thi đấu nỗ lực, chơi tốt",
+   "우리 팀이 강팀을 상대로 선전했어요.",
+   "Đội ta đã thi đấu tốt trước đội mạnh."
+  ],
+  [
+   "국가 대표",
+   "Gukga daepyo",
+   "Cầu thủ đội tuyển quốc gia",
+   "그는 국가 대표로 올림픽에 나갔어요.",
+   "Anh ấy tham dự Olympic với tư cách tuyển thủ quốc gia."
+  ],
+  [
+   "트레이너",
+   "Teureineo",
+   "Huấn luyện viên (trainer)",
+   "트레이너가 선수들의 몸 상태를 관리해요.",
+   "Huấn luyện viên thể lực quản lý tình trạng cơ thể cầu thủ."
+  ],
+  [
+   "치어리더",
+   "Chieorideo",
+   "Người chỉ huy cổ vũ (cheer leader)",
+   "치어리더들이 신나게 응원했어요.",
+   "Đội cổ vũ đã cổ vũ sôi nổi."
+  ],
+  [
+   "프로",
+   "Peuro",
+   "Chuyên nghiệp",
+   "그는 고등학교 졸업 후 프로 선수가 되었어요.",
+   "Sau khi tốt nghiệp cấp ba anh ấy trở thành cầu thủ chuyên nghiệp."
+  ],
+  [
+   "감독",
+   "Gamdok",
+   "Huấn luyện viên (coach), người giám sát",
+   "박항서 감독은 베트남에서 유명해요.",
+   "HLV Park Hang-seo nổi tiếng ở Việt Nam."
+  ],
+  [
+   "주장",
+   "Jujang",
+   "Đội trưởng, trưởng nhóm cầu thủ",
+   "주장이 팀원들을 격려했어요.",
+   "Đội trưởng đã động viên các thành viên."
+  ],
+  [
+   "물리치료사",
+   "Mullichiryosa",
+   "Bác sĩ vật lý trị liệu",
+   "부상당한 선수는 물리치료사의 치료를 받아요.",
+   "Cầu thủ bị chấn thương được bác sĩ vật lý trị liệu điều trị."
+  ],
+  [
+   "스포츠 구단",
+   "Seupocheu gudan",
+   "Câu lạc bộ thể thao",
+   "그 스포츠 구단은 팬이 많아요.",
+   "Câu lạc bộ thể thao đó có nhiều người hâm mộ."
+  ],
+  [
+   "코치",
+   "Kochi",
+   "Huấn luyện viên (coach) 코",
+   "코치가 선수들에게 작전을 설명했어요.",
+   "Huấn luyện viên đã giải thích chiến thuật cho cầu thủ."
+  ],
+  [
+   "해설자",
+   "Haeseolja",
+   "Bình luận viên",
+   "해설자의 설명이 재미있어요.",
+   "Lời bình luận của bình luận viên rất thú vị."
+  ],
+  [
+   "아마추어",
+   "Amachueo",
+   "Nghiệp dư",
+   "아마추어 선수들도 대회에 참가할 수 있어요.",
+   "Vận động viên nghiệp dư cũng có thể tham gia giải."
+  ],
+  [
+   "스포츠 마케팅",
+   "Seupocheu maketing",
+   "Tiếp thị thể thao",
+   "스포츠 마케팅으로 기업 이미지가 좋아졌어요.",
+   "Nhờ tiếp thị thể thao, hình ảnh doanh nghiệp tốt lên."
+  ],
+  [
+   "거리 응원",
+   "Geori eungwon",
+   "Cổ vũ trên đường phố",
+   "2002년 월드컵 때 거리 응원이 대단했어요.",
+   "Hồi World Cup 2002, cổ vũ đường phố rất hoành tráng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V/A + (ㄴ/는)다거나 — Hoặc là",
+   "meaning": "Liệt kê VÍ DỤ các hành động / trạng thái (một trong số nhiều): 'chẳng hạn như… hay…, hoặc là… hoặc là…'. Cấu tạo: (ㄴ/는)다고 하거나 rút gọn → (ㄴ/는)다거나. Chia như câu gián tiếp: Động từ có patchim → 는다거나 (먹는다거나); không patchim → ㄴ다거나 (응원한다거나); Tính từ → 다거나 (덥다거나); Danh từ → (이)라거나 (반칙이라거나); Quá khứ → 았/었다거나. Mẫu thường gặp: A다거나 B다거나 하다 / A다거나 B다거나 하는 N (những N như là A hay B). So sánh: 거나 (hoặc – trực tiếp, đơn giản: 먹거나 자요); (ㄴ/는)다거나 mang sắc thái 'ví dụ như… (theo cách nói, theo tình huống)', mềm hơn, hay dùng khi đưa ví dụ trong giải thích, bài viết; (이)라든가 (Bài 208) dùng với danh từ tương tự.",
+   "examples": [
+    "경기 중에 심판에게 항의한다거나 상대 선수를 민다거나 하면 경고를 받아요. — Trong trận, nếu phản đối trọng tài hay xô đẩy đối thủ thì sẽ bị cảnh cáo.",
+    "주말에는 운동을 한다거나 영화를 본다거나 하면서 쉬어요. — Cuối tuần tôi nghỉ ngơi bằng cách như là tập thể dục hay xem phim.",
+    "날씨가 너무 덥다거나 비가 온다거나 하면 경기가 연기될 수 있어요. — Nếu chẳng hạn trời quá nóng hay mưa thì trận đấu có thể bị hoãn.",
+    "거리 응원을 한다거나 함께 경기를 본다거나 하는 문화가 생겼어요. — Đã hình thành văn hóa như là cổ vũ đường phố hay cùng nhau xem trận đấu."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Người chỉ đạo, chịu trách nhiệm toàn đội (HLV trưởng) gọi là gì?",
+   "kr": "",
+   "options": [
+    "감독",
+    "주장",
+    "해설자"
+   ],
+   "answer": "감독",
+   "explain": "감독 = HLV trưởng."
+  },
+  {
+   "type": "choice",
+   "q": "Cầu thủ đại diện, dẫn dắt các thành viên trên sân gọi là gì?",
+   "kr": "",
+   "options": [
+    "주장",
+    "부심",
+    "트레이너"
+   ],
+   "answer": "주장",
+   "explain": "주장 = đội trưởng."
+  },
+  {
+   "type": "choice",
+   "q": "Từ TRÁI NGHĨA với 프로 (chuyên nghiệp) là gì?",
+   "kr": "",
+   "options": [
+    "아마추어",
+    "국가 대표",
+    "코치"
+   ],
+   "answer": "아마추어",
+   "explain": "아마추어 = nghiệp dư."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hàn Quốc dẫn trước 1–0.",
+   "kr": "한국이 1대 0으로 ___.",
+   "options": [
+    "앞섰어요",
+    "뒤졌어요",
+    "퇴장했어요"
+   ],
+   "answer": "앞섰어요",
+   "explain": "앞서다 ↔ 뒤지다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Như là tập thể dục hay xem phim…'",
+   "kr": "",
+   "options": [
+    "운동을 한다거나 영화를 본다거나 해요.",
+    "운동을 하다거나 영화를 보다거나 해요.",
+    "운동을 한다거나 영화를 봤다거나 했어요는."
+   ],
+   "answer": "운동을 한다거나 영화를 본다거나 해요.",
+   "explain": "Động từ không patchim → ㄴ다거나."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với tính từ 덥다.",
+   "kr": "",
+   "options": [
+    "덥다거나",
+    "덥는다거나",
+    "더운다거나"
+   ],
+   "answer": "덥다거나",
+   "explain": "Tính từ → 다거나."
+  },
+  {
+   "type": "choice",
+   "q": "Mẫu nào GẦN NGHĨA với (ㄴ/는)다거나 nhưng dùng với DANH TỪ?",
+   "kr": "",
+   "options": [
+    "(이)라든가",
+    "(으)ㄹ뿐더러",
+    "기 십상이다"
+   ],
+   "answer": "(이)라든가",
+   "explain": "N(이)라든가 = như là."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đội ta thi đấu tốt trước đội mạnh.",
+   "kr": "우리 팀이 강팀을 상대로 ___.",
+   "options": [
+    "선전했어요",
+    "뒤졌어요",
+    "퇴장했어요"
+   ],
+   "answer": "선전했어요",
+   "explain": "선전하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다거나 với 항의하다: Phản đối trọng tài hay xô đẩy thì bị cảnh cáo.",
+   "kr": "심판에게 ___ 상대 선수를 민다거나 하면 경고를 받아요.",
+   "answer": [
+    "항의한다거나"
+   ],
+   "explain": "항의한다거나."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (ㄴ/는)다거나 với 오다: Trời quá nóng hay mưa thì trận có thể bị hoãn.",
+   "kr": "날씨가 너무 덥다거나 비가 ___ 하면 경기가 연기될 수 있어요.",
+   "answer": [
+    "온다거나"
+   ],
+   "explain": "온다거나."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Trọng tài chính báo hiệu bắt đầu trận đấu.",
+   "kr": "___이 경기 시작을 알렸어요.",
+   "answer": [
+    "주심"
+   ],
+   "explain": "주심 ↔ 부심."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hồi World Cup 2002, cổ vũ đường phố rất hoành tráng.",
+   "kr": "2002년 월드컵 때 ___ 응원이 대단했어요.",
+   "answer": [
+    "거리"
+   ],
+   "explain": "거리 응원."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Bóng đá Hàn Quốc vào bán kết World Cup.",
+   "tokens": [
+    "한국",
+    "축구가",
+    "월드컵",
+    "4강에",
+    "올랐어요"
+   ],
+   "answer": "한국 축구가 월드컵 4강에 올랐어요",
+   "explain": "4강에 오르다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cuối tuần tôi nghỉ bằng cách tập thể dục hay xem phim.",
+   "tokens": [
+    "주말에는",
+    "운동을",
+    "한다거나",
+    "영화를",
+    "본다거나",
+    "하면서",
+    "쉬어요"
+   ],
+   "answer": "주말에는 운동을 한다거나 영화를 본다거나 하면서 쉬어요",
+   "explain": "다거나 … 다거나 하면서."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Khi stress tôi thường đi dạo hay nghe nhạc. (dùng 다거나)",
+   "answer": [
+    "스트레스를 받으면 산책을 한다거나 음악을 듣는다거나 해요.",
+    "스트레스를 받을 때 산책을 한다거나 음악을 듣는다거나 해요.",
+    "스트레스가 쌓이면 산책을 한다거나 음악을 듣는다거나 해요."
+   ],
+   "explain": "듣다 (patchim) → 듣는다거나."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: HLV Park Hang-seo nổi tiếng ở Việt Nam.",
+   "answer": [
+    "박항서 감독은 베트남에서 유명해요.",
+    "박항서 감독님은 베트남에서 유명해요."
+   ],
+   "explain": "감독."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Cầu thủ đó nhận thẻ đỏ và rời sân.",
+   "answer": [
+    "그 선수는 레드카드를 받고 퇴장했어요.",
+    "그 선수는 레드카드를 받고 퇴장당했어요."
+   ],
+   "explain": "퇴장하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "2018년 박항서 감독이 이끄는 베트남 축구 대표팀이 아시아 대회에서 선전하자 베트남 전역에서 거리 응원이 펼쳐졌다. 이 일로 한국과 베트남의 우호 관계도 더욱 깊어졌다.",
+   "answer": "Năm 2018, khi đội tuyển bóng đá Việt Nam do HLV Park Hang-seo dẫn dắt thi đấu xuất sắc ở giải châu Á, khắp Việt Nam đã diễn ra cổ vũ đường phố. Nhờ việc này, quan hệ hữu nghị Hàn – Việt càng sâu đậm hơn.",
+   "explain": "V자; 이끌다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn câu nối tiếp phù hợp. (Dạng TOPIK II Nghe câu 4~8)",
+   "kr": "여자: 어제 경기 봤어요? 전반전에 두 골이나 뒤졌잖아요.\n남자: 네, 그런데 후반전에 세 골을 넣어서 역전했어요.\n여자: ( )",
+   "options": [
+    "와, 정말 극적인 경기였네요!",
+    "그럼 우리 팀이 졌군요.",
+    "경기가 취소됐어요?",
+    "저는 축구를 해 본 적이 없어요."
+   ],
+   "answer": "와, 정말 극적인 경기였네요!",
+   "explain": "Lội ngược dòng → kịch tính."
+  },
+  {
+   "type": "read",
+   "q": "Đây là quảng cáo/thông báo về điều gì? (Dạng TOPIK II Đọc câu 5~8)",
+   "kr": "함께 외쳐요, 대~한민국!\n대형 화면으로 보는 국가 대표 경기\n시청 앞 광장, 오후 8시",
+   "options": [
+    "거리 응원 안내",
+    "축구화 판매",
+    "선수 모집",
+    "경기장 공사"
+   ],
+   "answer": "거리 응원 안내",
+   "explain": "광장에서 대형 화면으로 경기 → cổ vũ đường phố."
+  }
+ ]
+}

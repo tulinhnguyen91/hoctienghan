@@ -1,0 +1,420 @@
+{
+ "id": "bai-249",
+ "lesson": "Bài 249",
+ "title": "Cuộc sống và kinh tế (phần 4/4)",
+ "krTitle": "생활과 경제 4",
+ "date": "2027-11-17",
+ "day": 364,
+ "source": "TOPIK 6 – Bài 9: Cuộc sống và kinh tế (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 9~12: Hành động tiếp theo",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "용도",
+   "Yongdo",
+   "Cách sử dụng",
+   "이 돈은 용도에 맞게 써야 해요.",
+   "Khoản tiền này phải dùng đúng mục đích."
+  ],
+  [
+   "운용하다",
+   "Unyonghada",
+   "Hoạt động, vận hành",
+   "그는 회사 자금을 잘 운용해요.",
+   "Anh ấy vận hành vốn công ty rất tốt."
+  ],
+  [
+   "원자재",
+   "Wonjajae",
+   "Nguyên liệu thô",
+   "원자재 값이 올라서 제품 가격도 올랐어요.",
+   "Giá nguyên liệu tăng nên giá sản phẩm cũng tăng."
+  ],
+  [
+   "원활하다",
+   "Wonhwalhada",
+   "Tròn trịa, suôn sẻ",
+   "두 나라의 교류가 원활하게 이루어지고 있어요.",
+   "Giao lưu hai nước đang diễn ra suôn sẻ."
+  ],
+  [
+   "유치 산업",
+   "Yuchi saneop",
+   "Ngành công nghiệp non trẻ",
+   "정부는 유치 산업을 보호하고 있어요.",
+   "Chính phủ đang bảo hộ ngành công nghiệp non trẻ."
+  ],
+  [
+   "윤택해지다",
+   "Yuntaekaejida",
+   "Trở nên thịnh vượng",
+   "경제가 발전하면서 생활이 윤택해졌어요.",
+   "Kinh tế phát triển nên cuộc sống trở nên sung túc."
+  ],
+  [
+   "재고량",
+   "Jaegoryang",
+   "Lượng hàng tồn kho",
+   "창고의 재고량을 확인했어요.",
+   "Đã kiểm tra lượng hàng tồn trong kho."
+  ],
+  [
+   "재분배",
+   "Jaebunbae",
+   "Tái phân phối",
+   "세금은 소득 재분배의 수단이에요.",
+   "Thuế là phương tiện tái phân phối thu nhập."
+  ],
+  [
+   "재원",
+   "Jaewon",
+   "Nguồn tài chính",
+   "복지 정책에 필요한 재원을 마련해야 해요.",
+   "Phải chuẩn bị nguồn tài chính cần cho chính sách phúc lợi."
+  ],
+  [
+   "전망치",
+   "Jeonmangchi",
+   "Chỉ số dự kiến",
+   "올해 경제성장률 전망치가 낮아졌어요.",
+   "Chỉ số dự báo tăng trưởng kinh tế năm nay đã giảm."
+  ],
+  [
+   "주목하다",
+   "Jumokada",
+   "Chú ý, quan tâm",
+   "투자자들이 신산업에 주목하고 있어요.",
+   "Các nhà đầu tư đang chú ý đến ngành công nghiệp mới."
+  ],
+  [
+   "중동 사태",
+   "Jungdong satae",
+   "Tình hình Trung Đông",
+   "중동 사태로 유가가 크게 올랐어요.",
+   "Do tình hình Trung Đông mà giá dầu tăng mạnh."
+  ],
+  [
+   "지식경제부",
+   "Jisikgyeongjebu",
+   "Bộ kinh tế tri thức",
+   "지식경제부는 과거에 있었던 정부 부처예요.",
+   "Bộ Kinh tế Tri thức là bộ từng tồn tại trước đây."
+  ],
+  [
+   "차용 증서",
+   "Chayong jeungseo",
+   "Chứng từ (ghi) nợ",
+   "돈을 빌려줄 때는 차용 증서를 받으세요.",
+   "Khi cho vay tiền hãy nhận giấy vay nợ."
+  ],
+  [
+   "창출하다",
+   "Changchulhada",
+   "Tạo ra",
+   "정부는 일자리를 창출하기 위해 노력하고 있어요.",
+   "Chính phủ đang nỗ lực tạo ra việc làm."
+  ],
+  [
+   "최고 기록 경신",
+   "Choego girong gyeongsin",
+   "Phá kỷ lục, lập kỷ lục mới",
+   "수출액이 최고 기록 경신을 이어 가고 있어요.",
+   "Kim ngạch xuất khẩu liên tục phá kỷ lục."
+  ],
+  [
+   "취약하다",
+   "Chwiyakada",
+   "Yếu ớt",
+   "그 나라는 경제 기반이 취약해요.",
+   "Nước đó có nền tảng kinh tế yếu."
+  ],
+  [
+   "타격을 입다",
+   "Tagyeogeul ipda",
+   "Bị tổn hại",
+   "태풍으로 농가가 큰 타격을 입었어요.",
+   "Do bão mà các hộ nông dân bị thiệt hại nặng."
+  ],
+  [
+   "통제하다",
+   "Tongjehada",
+   "Khống chế, kiểm soát",
+   "정부가 물가를 통제하려고 해요.",
+   "Chính phủ muốn kiểm soát giá cả."
+  ],
+  [
+   "합치다",
+   "Hapchida",
+   "Hợp lại",
+   "두 회사가 힘을 합쳤어요.",
+   "Hai công ty đã hợp sức."
+  ],
+  [
+   "해명하다",
+   "Haemyeonghada",
+   "Giải minh, làm rõ",
+   "회사는 사고 원인에 대해 해명했어요.",
+   "Công ty đã giải thích rõ về nguyên nhân sự cố."
+  ],
+  [
+   "행렬",
+   "Haengnyeol",
+   "Đoàn người, hàng dài",
+   "새 휴대폰을 사려는 사람들의 행렬이 길었어요.",
+   "Hàng người muốn mua điện thoại mới dài dằng dặc."
+  ],
+  [
+   "호전되다",
+   "Hojeondoeda",
+   "Trở nên tốt hơn, được cải tiến, khởi sắc",
+   "수출이 늘면서 경기가 호전되었어요.",
+   "Xuất khẩu tăng nên kinh tế chuyển biến tốt."
+  ],
+  [
+   "활력을 불어넣다",
+   "Hwallyeogeul bureoneota",
+   "Truyền cảm hứng",
+   "새로운 정책이 지역 경제에 활력을 불어넣었어요.",
+   "Chính sách mới đã thổi sức sống vào kinh tế địa phương."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + (으)랴 V + (으)랴 — Nào là … nào là",
+   "meaning": "Diễn tả việc BẬN RỘN vì phải làm NHIỀU VIỆC CÙNG LÚC (thường là vất vả): 'nào là… nào là…, vừa… vừa…'. Gắn vào thân động từ: có patchim → 으랴 (먹으랴); không patchim/ㄹ → 랴 (하랴, 일하랴, 놀랴). Mẫu: V1(으)랴 V2(으)랴 + 바쁘다 / 정신없다 / 힘들다 / 시간이 없다. Ví dụ: 일하랴 공부하랴 정신이 없어요 (nào là đi làm, nào là học, bận tối mắt). Chỉ dùng cho hành động của chủ ngữ trong thời gian bận rộn; vế sau hầu như luôn chỉ sự vất vả, thiếu thời gian. So sánh: (으)ㄹ 겸 (Bài 218 – một hành động, nhiều mục đích); -고 -고 (liệt kê bình thường); (으)랴 (으)랴 = nhiều việc dồn dập, bận rộn.",
+   "examples": [
+    "일하랴 아이 키우랴 정신이 없어요. — Nào là đi làm, nào là nuôi con, bận tối mắt tối mũi.",
+    "연말에는 재고 정리하랴 보고서 쓰랴 정말 바빠요. — Cuối năm nào là kiểm kho, nào là viết báo cáo, bận thật sự.",
+    "시험 준비하랴 아르바이트하랴 잠잘 시간도 없어요. — Nào ôn thi nào làm thêm, đến thời gian ngủ cũng không có.",
+    "손님 맞으랴 음식 준비하랴 하루 종일 쉬지 못했어요. — Nào đón khách nào chuẩn bị đồ ăn, cả ngày không nghỉ được."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Tạo ra (việc làm, giá trị) gọi là gì?",
+   "kr": "",
+   "options": [
+    "창출하다",
+    "통제하다",
+    "해명하다"
+   ],
+   "answer": "창출하다",
+   "explain": "창출 = sáng tạo ra."
+  },
+  {
+   "type": "choice",
+   "q": "Lập kỷ lục mới gọi là gì?",
+   "kr": "",
+   "options": [
+    "최고 기록 경신",
+    "재분배",
+    "타격을 입다"
+   ],
+   "answer": "최고 기록 경신",
+   "explain": "경신 = đổi mới (kỷ lục)."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Do bão mà nông dân bị thiệt hại nặng.",
+   "kr": "태풍으로 농가가 큰 ___.",
+   "options": [
+    "타격을 입었어요",
+    "활력을 불어넣었어요",
+    "주목했어요"
+   ],
+   "answer": "타격을 입었어요",
+   "explain": "타격을 입다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Giao lưu hai nước diễn ra suôn sẻ.",
+   "kr": "두 나라의 교류가 ___ 이루어지고 있어요.",
+   "options": [
+    "원활하게",
+    "취약하게",
+    "윤택하게"
+   ],
+   "answer": "원활하게",
+   "explain": "원활하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Nào đi làm nào nuôi con, bận tối mắt.'",
+   "kr": "",
+   "options": [
+    "일하랴 아이 키우랴 정신이 없어요.",
+    "일하랴 아이 키우랴 한가해요.",
+    "일했으랴 아이 키웠으랴 정신이 없어요."
+   ],
+   "answer": "일하랴 아이 키우랴 정신이 없어요.",
+   "explain": "V랴 V랴 + bận rộn."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn dạng ĐÚNG với 먹다.",
+   "kr": "",
+   "options": [
+    "먹으랴",
+    "먹랴",
+    "먹느랴"
+   ],
+   "answer": "먹으랴",
+   "explain": "Có patchim → 으랴."
+  },
+  {
+   "type": "choice",
+   "q": "Vế sau của (으)랴 (으)랴 thường là gì?",
+   "kr": "",
+   "options": [
+    "Bận rộn, vất vả, không có thời gian",
+    "Vui vẻ, thảnh thơi",
+    "Mệnh lệnh"
+   ],
+   "answer": "Bận rộn, vất vả, không có thời gian",
+   "explain": "Nhiều việc dồn dập."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đã kiểm tra lượng hàng tồn trong kho.",
+   "kr": "창고의 ___을 확인했어요.",
+   "options": [
+    "재고량",
+    "재원",
+    "전망치"
+   ],
+   "answer": "재고량",
+   "explain": "재고량."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)랴 với 하다: Nào ôn thi nào làm thêm, không có thời gian ngủ.",
+   "kr": "시험 준비___ 아르바이트하랴 잠잘 시간도 없어요.",
+   "answer": [
+    "하랴"
+   ],
+   "explain": "준비하랴."
+  },
+  {
+   "type": "fill",
+   "q": "Điền (으)랴 với 맞다: Nào đón khách nào chuẩn bị đồ ăn.",
+   "kr": "손님 ___ 음식 준비하랴 하루 종일 쉬지 못했어요.",
+   "answer": [
+    "맞으랴"
+   ],
+   "explain": "맞다 → 맞으랴."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Chính phủ đang nỗ lực tạo ra việc làm.",
+   "kr": "정부는 일자리를 ___하기 위해 노력하고 있어요.",
+   "answer": [
+    "창출"
+   ],
+   "explain": "창출하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hai công ty đã hợp sức.",
+   "kr": "두 회사가 힘을 ___.",
+   "answer": [
+    "합쳤어요"
+   ],
+   "explain": "합치다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Cuối năm nào kiểm kho nào viết báo cáo, bận thật.",
+   "tokens": [
+    "연말에는",
+    "재고",
+    "정리하랴",
+    "보고서",
+    "쓰랴",
+    "정말",
+    "바빠요"
+   ],
+   "answer": "연말에는 재고 정리하랴 보고서 쓰랴 정말 바빠요",
+   "explain": "(으)랴 (으)랴."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chính sách mới thổi sức sống vào kinh tế địa phương.",
+   "tokens": [
+    "새로운",
+    "정책이",
+    "지역",
+    "경제에",
+    "활력을",
+    "불어넣었어요"
+   ],
+   "answer": "새로운 정책이 지역 경제에 활력을 불어넣었어요",
+   "explain": "활력을 불어넣다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Nào dọn nhà nào nấu cơm, mệt quá. (dùng (으)랴 (으)랴)",
+   "answer": [
+    "청소하랴 밥하랴 너무 힘들어요.",
+    "집 청소하랴 밥하랴 너무 피곤해요.",
+    "청소하랴 요리하랴 너무 힘들어요.",
+    "집안 청소하랴 밥하랴 정말 힘들어요."
+   ],
+   "explain": "하랴 하랴."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Khi cho vay tiền hãy nhận giấy vay nợ.",
+   "answer": [
+    "돈을 빌려줄 때는 차용 증서를 받으세요.",
+    "돈을 빌려줄 때 차용 증서를 받으세요."
+   ],
+   "explain": "차용 증서."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Công ty đã giải thích rõ nguyên nhân sự cố.",
+   "answer": [
+    "회사는 사고 원인에 대해 해명했어요.",
+    "회사가 사고 원인을 해명했어요."
+   ],
+   "explain": "해명하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "중동 사태로 원자재 가격이 오르면서 중소기업들이 큰 타격을 입었다. 정부는 기업들이 원활하게 원자재를 구할 수 있도록 지원하고, 새로운 일자리를 창출하여 경제에 활력을 불어넣겠다고 밝혔다.",
+   "answer": "Do tình hình Trung Đông mà giá nguyên liệu thô tăng, các doanh nghiệp vừa và nhỏ đã bị thiệt hại nặng. Chính phủ cho biết sẽ hỗ trợ để doanh nghiệp có thể mua nguyên liệu thuận lợi, đồng thời tạo việc làm mới để thổi sức sống vào nền kinh tế.",
+   "explain": "도록; 겠다고 밝히다."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn hành động tiếp theo của người phụ nữ. (Dạng TOPIK II Nghe câu 9~12)",
+   "kr": "남자: 요즘 많이 피곤해 보여요.\n여자: 회사 일하랴 대학원 다니랴 정신이 없어요. 오늘도 리포트를 내야 해요.\n남자: 제가 도와줄 수 있는 게 있으면 말해요.\n여자: 고마워요. 그럼 이 자료 좀 복사해 줄래요? 저는 그동안 리포트를 마저 쓸게요.",
+   "options": [
+    "리포트를 쓴다.",
+    "자료를 복사한다.",
+    "대학원에 간다.",
+    "회사에 간다."
+   ],
+   "answer": "리포트를 쓴다.",
+   "explain": "저는 그동안 리포트를 마저 쓸게요."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "정부는 청년 일자리를 <창출하기> 위해 새로운 정책을 발표했다.",
+   "options": [
+    "만들기",
+    "줄이기",
+    "통제하기",
+    "해명하기"
+   ],
+   "answer": "만들기",
+   "explain": "창출하다 ≈ 만들어 내다."
+  }
+ ]
+}

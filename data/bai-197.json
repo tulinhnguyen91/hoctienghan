@@ -1,0 +1,397 @@
+{
+ "id": "bai-197",
+ "lesson": "Bài 197",
+ "title": "Công nghiệp và kinh tế (phần 4/4)",
+ "krTitle": "산업과 경제 4",
+ "date": "2027-08-31",
+ "day": 286,
+ "source": "TOPIK 5 – Bài 12: Công nghiệp và kinh tế (phần 4/4)",
+ "practice": {
+  "listening": "Nghe – câu 1~3: Chọn tranh đúng",
+  "reading": "Đọc – câu 1~4: Ngữ pháp, từ đồng nghĩa"
+ },
+ "words": [
+  [
+   "사회간접시설",
+   "Sahoeganjeopsiseol",
+   "Cơ sở hạ tầng xã hội (đường, cầu…)",
+   "도로와 다리 같은 사회간접시설이 경제 발전의 기초예요.",
+   "Cơ sở hạ tầng xã hội như đường, cầu là nền tảng phát triển kinh tế."
+  ],
+  [
+   "성장 동력",
+   "Seongjang dongnyeok",
+   "Động lực cho việc tăng trưởng",
+   "반도체는 한국 경제의 성장 동력이에요.",
+   "Bán dẫn là động lực tăng trưởng của kinh tế Hàn Quốc."
+  ],
+  [
+   "수출 주도형",
+   "Suchul judohyeong",
+   "Hình thức lấy xuất khẩu làm chính",
+   "한국은 수출 주도형 경제 구조를 가지고 있어요.",
+   "Hàn Quốc có cơ cấu kinh tế định hướng xuất khẩu."
+  ],
+  [
+   "신성장 산업",
+   "Sinseongjang saneop",
+   "Công nghiệp tăng trưởng mới",
+   "정부는 바이오를 신성장 산업으로 키우고 있어요.",
+   "Chính phủ đang phát triển sinh học thành ngành tăng trưởng mới."
+  ],
+  [
+   "연료 전지",
+   "Yeollyo jeonji",
+   "Pin nhiên liệu",
+   "연료 전지로 움직이는 자동차가 나왔어요.",
+   "Đã có ô tô chạy bằng pin nhiên liệu."
+  ],
+  [
+   "웰빙 산업",
+   "Welbing saneop",
+   "Công nghiệp liên quan đến những sản phẩm dành cho sức khỏe và hạnh phúc",
+   "건강식품 같은 웰빙 산업이 성장하고 있어요.",
+   "Ngành công nghiệp well-being như thực phẩm sức khỏe đang tăng trưởng."
+  ],
+  [
+   "자조",
+   "Jajo",
+   "Sự tự lực",
+   "새마을 운동은 근면, 자조, 협동을 강조했어요.",
+   "Phong trào Saemaul nhấn mạnh cần cù, tự lực, hợp tác."
+  ],
+  [
+   "전문 관료",
+   "Jeonmun gwallyo",
+   "Cán bộ chuyên ngành, cán bộ chuyên môn cao cấp",
+   "경제 정책은 전문 관료들이 만들었어요.",
+   "Chính sách kinh tế do các quan chức chuyên môn soạn ra."
+  ],
+  [
+   "조립가공 산업",
+   "Joripgagong saneop",
+   "Công nghiệp gia công lắp ráp",
+   "초기에는 조립가공 산업이 중심이었어요.",
+   "Ban đầu ngành gia công lắp ráp là trung tâm."
+  ],
+  [
+   "주력 산업",
+   "Juryeong saneop",
+   "Ngành công nghiệp chủ lực",
+   "조선업은 한국의 주력 산업 중 하나예요.",
+   "Đóng tàu là một trong những ngành chủ lực của Hàn Quốc."
+  ],
+  [
+   "지역 불균형",
+   "Jiyeong bulgyunhyeong",
+   "Bất cân đối giữa các vùng",
+   "수도권 집중으로 지역 불균형이 심해졌어요.",
+   "Vì tập trung vào vùng thủ đô nên mất cân bằng vùng miền trầm trọng hơn."
+  ],
+  [
+   "차세대 이동통신",
+   "Chasedae idongtongsin",
+   "Thông tin di động thế hệ sau",
+   "차세대 이동통신 기술 개발에 투자하고 있어요.",
+   "Đang đầu tư phát triển công nghệ di động thế hệ mới."
+  ],
+  [
+   "초대형 컨테이너선",
+   "Chodaehyeong keonteineoseon",
+   "Tàu biển container trọng tải lớn",
+   "울산에서 초대형 컨테이너선을 만들어요.",
+   "Ở Ulsan đóng tàu container siêu lớn."
+  ],
+  [
+   "추격을 뿌리치다",
+   "Chugyeogeul ppurichida",
+   "Bứt khỏi sự đuổi theo",
+   "한국 기업이 경쟁 회사의 추격을 뿌리쳤어요.",
+   "Doanh nghiệp Hàn đã bứt khỏi sự đuổi theo của công ty đối thủ."
+  ],
+  [
+   "크루즈선",
+   "Keurujeuseon",
+   "Tàu biển du lịch (cruise ship)",
+   "크루즈선을 타고 일본 여행을 했어요.",
+   "Tôi đi du lịch Nhật Bản bằng tàu du lịch."
+  ],
+  [
+   "태양광 발전",
+   "Taeyanggwang baljeon",
+   "Sự phát điện từ năng lượng mặt trời",
+   "지붕에 태양광 발전 설비를 설치했어요.",
+   "Đã lắp thiết bị điện mặt trời trên mái nhà."
+  ],
+  [
+   "파괴되다",
+   "Pagoedoeda",
+   "Bị phá hủy, bị tàn phá",
+   "전쟁으로 도시가 완전히 파괴되었어요.",
+   "Thành phố bị tàn phá hoàn toàn vì chiến tranh."
+  ],
+  [
+   "폐유",
+   "Pyeyu",
+   "Dầu cặn, dầu thải qua sử dụng",
+   "폐유를 함부로 버리면 안 돼요.",
+   "Không được vứt dầu thải bừa bãi."
+  ],
+  [
+   "풍력 발전",
+   "Pungnyeong baljeon",
+   "Sự phát điện từ sức gió",
+   "제주도에는 풍력 발전기가 많아요.",
+   "Ở Jeju có nhiều máy phát điện gió."
+  ],
+  [
+   "해양 구조물",
+   "Haeyang gujomul",
+   "Các cơ sở vật chất của vùng biển (cảng biển, tòa nhà,...)",
+   "해양 구조물을 만드는 기술이 뛰어나요.",
+   "Công nghệ làm công trình biển rất xuất sắc."
+  ],
+  [
+   "허브 공항",
+   "Heobeu gonghang",
+   "Sân bay trung chuyển trọng điểm",
+   "인천공항은 아시아의 허브 공항이에요.",
+   "Sân bay Incheon là sân bay trung chuyển của châu Á."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "N + 만 해도 — Chỉ riêng",
+   "meaning": "Đưa ra MỘT VÍ DỤ CỤ THỂ, tiêu biểu để chứng minh cho điều đang nói: 'chỉ riêng… thôi mà đã…, ngay như… cũng…, lấy… làm ví dụ'. Gắn sau danh từ: 저만 해도 (ngay như tôi đây), 우리 회사만 해도 (chỉ riêng công ty tôi thôi), 오늘만 해도 (chỉ riêng hôm nay). Với thời gian: '…까지만 해도' = 'mới cho đến… thôi (mà)' → nhấn mạnh sự thay đổi lớn: 10년 전까지만 해도 이곳은 논밭이었어요 (mới 10 năm trước thôi nơi này còn là ruộng). Có thể gắn sau trợ từ: 서울에서만 해도. Thường câu trước nêu nhận định chung, câu có 만 해도 là bằng chứng. So sánh: 만 (chỉ) đơn thuần giới hạn; 만 해도 = 'chỉ một ví dụ đó thôi đã đủ cho thấy…'.",
+   "examples": [
+    "요즘 신성장 산업이 인기예요. 우리 회사만 해도 바이오 분야에 투자를 시작했어요. — Dạo này ngành tăng trưởng mới rất hot. Chỉ riêng công ty tôi đã bắt đầu đầu tư vào sinh học.",
+    "1970년대까지만 해도 한국은 가난한 나라였어요. — Mới cho đến thập niên 1970 Hàn Quốc vẫn còn là nước nghèo.",
+    "재택근무가 늘었어요. 저만 해도 일주일에 두 번 집에서 일해요. — Làm việc tại nhà đã tăng. Ngay như tôi một tuần cũng làm ở nhà hai lần.",
+    "오늘만 해도 손님이 백 명 넘게 왔어요. — Chỉ riêng hôm nay khách đã đến hơn trăm người."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Sân bay trung chuyển lớn của khu vực gọi là gì?",
+   "kr": "",
+   "options": [
+    "허브 공항",
+    "크루즈선",
+    "해양 구조물"
+   ],
+   "answer": "허브 공항",
+   "explain": "hub = trung tâm."
+  },
+  {
+   "type": "choice",
+   "q": "Phát điện bằng sức gió gọi là gì?",
+   "kr": "",
+   "options": [
+    "풍력 발전",
+    "태양광 발전",
+    "연료 전지"
+   ],
+   "answer": "풍력 발전",
+   "explain": "풍 = gió."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Đóng tàu là một trong những ngành chủ lực của Hàn Quốc.",
+   "kr": "조선업은 한국의 ___ 중 하나예요.",
+   "options": [
+    "주력 산업",
+    "웰빙 산업",
+    "폐유"
+   ],
+   "answer": "주력 산업",
+   "explain": "주력 = sức chính."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Bán dẫn là động lực tăng trưởng của kinh tế Hàn Quốc.",
+   "kr": "반도체는 한국 경제의 ___이에요.",
+   "options": [
+    "성장 동력",
+    "지역 불균형",
+    "자조"
+   ],
+   "answer": "성장 동력",
+   "explain": "동력 = động lực."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Mới cho đến thập niên 1970 Hàn Quốc vẫn còn là nước nghèo.'",
+   "kr": "",
+   "options": [
+    "1970년대까지만 해도 한국은 가난한 나라였어요.",
+    "1970년대만까지 해도 한국은 가난한 나라였어요.",
+    "1970년대까지 해도만 한국은 가난한 나라였어요."
+   ],
+   "answer": "1970년대까지만 해도 한국은 가난한 나라였어요.",
+   "explain": "까지 + 만 해도."
+  },
+  {
+   "type": "choice",
+   "q": "'저만 해도 일주일에 두 번 집에서 일해요.' 저만 해도 nghĩa là gì?",
+   "kr": "",
+   "options": [
+    "Ngay như tôi đây (làm ví dụ)",
+    "Chỉ có mình tôi",
+    "Nếu là tôi"
+   ],
+   "answer": "Ngay như tôi đây (làm ví dụ)",
+   "explain": "만 해도 = lấy ví dụ cụ thể."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào phù hợp NHẤT sau câu: '요즘 물가가 많이 올랐어요.'",
+   "kr": "",
+   "options": [
+    "커피만 해도 작년보다 천 원이나 비싸졌어요.",
+    "커피만 마셔요.",
+    "커피를 마셔도 돼요."
+   ],
+   "answer": "커피만 해도 작년보다 천 원이나 비싸졌어요.",
+   "explain": "Ví dụ chứng minh giá tăng."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Thành phố bị tàn phá hoàn toàn vì chiến tranh.",
+   "kr": "전쟁으로 도시가 완전히 ___.",
+   "options": [
+    "파괴되었어요",
+    "발전했어요",
+    "설치되었어요"
+   ],
+   "answer": "파괴되었어요",
+   "explain": "파괴되다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 만 해도: Chỉ riêng hôm nay khách đã đến hơn trăm người.",
+   "kr": "___ 손님이 백 명 넘게 왔어요.",
+   "answer": [
+    "오늘만 해도"
+   ],
+   "explain": "오늘 + 만 해도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 만 해도: Mới 10 năm trước thôi nơi này còn là ruộng.",
+   "kr": "10년 전___ 이곳은 논밭이었어요.",
+   "answer": [
+    "까지만 해도"
+   ],
+   "explain": "까지만 해도."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Đã lắp thiết bị điện mặt trời trên mái.",
+   "kr": "지붕에 ___ 발전 설비를 설치했어요.",
+   "answer": [
+    "태양광"
+   ],
+   "explain": "태양광 = ánh sáng mặt trời."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Không được vứt dầu thải bừa bãi.",
+   "kr": "___를 함부로 버리면 안 돼요.",
+   "answer": [
+    "폐유"
+   ],
+   "explain": "폐(thải) + 유(dầu)."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Chỉ riêng công ty tôi đã bắt đầu đầu tư vào sinh học.",
+   "tokens": [
+    "우리",
+    "회사만",
+    "해도",
+    "바이오",
+    "분야에",
+    "투자를",
+    "시작했어요"
+   ],
+   "answer": "우리 회사만 해도 바이오 분야에 투자를 시작했어요",
+   "explain": "N만 해도."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sân bay Incheon là sân bay trung chuyển của châu Á.",
+   "tokens": [
+    "인천공항은",
+    "아시아의",
+    "허브",
+    "공항이에요"
+   ],
+   "answer": "인천공항은 아시아의 허브 공항이에요",
+   "explain": "허브 공항."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mới năm ngoái thôi tôi còn là sinh viên. (dùng 까지만 해도)",
+   "answer": [
+    "작년까지만 해도 저는 학생이었어요.",
+    "작년까지만 해도 저는 대학생이었어요.",
+    "작년까지만 해도 나는 학생이었어요."
+   ],
+   "explain": "까지만 해도 + quá khứ."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Ở Jeju có nhiều máy phát điện gió.",
+   "answer": [
+    "제주도에는 풍력 발전기가 많아요.",
+    "제주도에 풍력 발전기가 많아요."
+   ],
+   "explain": "풍력 발전기."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi đi du lịch Nhật bằng tàu du lịch.",
+   "answer": [
+    "크루즈선을 타고 일본 여행을 했어요.",
+    "크루즈선을 타고 일본에 여행을 갔어요.",
+    "크루즈선으로 일본 여행을 했어요."
+   ],
+   "explain": "타고."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "1960년대까지만 해도 한국의 주력 산업은 섬유와 같은 경공업이었다. 그러나 지금은 반도체와 조선이 성장 동력이 되었고, 앞으로는 태양광 발전, 풍력 발전 같은 신성장 산업이 중요해질 것이다.",
+   "answer": "Mới cho đến thập niên 1960, ngành chủ lực của Hàn Quốc vẫn là công nghiệp nhẹ như dệt may. Nhưng giờ bán dẫn và đóng tàu đã trở thành động lực tăng trưởng, và sau này các ngành tăng trưởng mới như điện mặt trời, điện gió sẽ trở nên quan trọng.",
+   "explain": "까지만 해도."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn bức tranh/tình huống đúng. (Dạng TOPIK II Nghe câu 1~3)",
+   "kr": "여자: 와, 바다 위에 하얀 바람개비 같은 게 정말 많네요.\n남자: 풍력 발전기예요. 바람으로 전기를 만들어요.\n여자: 신기하네요. 사진 좀 찍어 주세요.",
+   "options": [
+    "바닷가에서 풍력 발전기를 보고 있다.",
+    "공장 안에서 태양광 설비를 만들고 있다.",
+    "배를 타고 낚시를 하고 있다.",
+    "공항에서 비행기를 기다리고 있다."
+   ],
+   "answer": "바닷가에서 풍력 발전기를 보고 있다.",
+   "explain": "바다 위 + 풍력 발전기."
+  },
+  {
+   "type": "read",
+   "q": "Chọn từ gần nghĩa nhất với phần gạch chân. (Dạng TOPIK II Đọc câu 1~4)",
+   "kr": "한국 조선업은 중국의 빠른 <추격을 뿌리치고> 세계 1위를 지켰다.",
+   "options": [
+    "따라오는 것을 막고",
+    "추격에 지고",
+    "추격을 시작하고",
+    "추격을 기다리고"
+   ],
+   "answer": "따라오는 것을 막고",
+   "explain": "뿌리치다 = gạt ra, bứt khỏi."
+  }
+ ]
+}

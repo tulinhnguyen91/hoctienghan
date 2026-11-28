@@ -1,0 +1,393 @@
+{
+ "id": "bai-250",
+ "lesson": "Bài 250",
+ "title": "Lịch sử Hàn Quốc (phần 1/5)",
+ "krTitle": "한국의 역사 1",
+ "date": "2027-11-19",
+ "day": 366,
+ "source": "TOPIK 6 – Bài 10: Lịch sử Hàn Quốc (phần 1/5)",
+ "practice": {
+  "listening": "Nghe – câu 17~20: Ý chính của người nói",
+  "reading": "Đọc – câu 9~12: Chọn nội dung đúng"
+ },
+ "words": [
+  [
+   "청동기시대",
+   "Cheongdonggisidae",
+   "Thời kỳ đồ đồng",
+   "고인돌은 청동기시대의 무덤이에요.",
+   "Mộ đá là mộ thời đồ đồng."
+  ],
+  [
+   "중세",
+   "Jungse",
+   "Thời trung đại",
+   "유럽의 중세에는 기사들이 있었어요.",
+   "Châu Âu thời trung đại có các hiệp sĩ."
+  ],
+  [
+   "구석기시대",
+   "Guseokgisidae",
+   "Thời kỳ đồ đá cũ",
+   "구석기시대 사람들은 사냥을 하며 살았어요.",
+   "Người thời đồ đá cũ sống bằng săn bắn."
+  ],
+  [
+   "철기시대",
+   "Cheolgisidae",
+   "Thời kỳ đồ sắt",
+   "철기시대에는 농기구가 발달했어요.",
+   "Thời đồ sắt, nông cụ phát triển."
+  ],
+  [
+   "근대",
+   "Geundae",
+   "Thời cận đại",
+   "근대에 들어와 서양 문물이 전해졌어요.",
+   "Bước vào thời cận đại, văn vật phương Tây được truyền vào."
+  ],
+  [
+   "신석기시대",
+   "Sinseokgisidae",
+   "Thời kỳ đồ đá mới",
+   "신석기시대부터 농사를 짓기 시작했어요.",
+   "Từ thời đồ đá mới bắt đầu làm nông."
+  ],
+  [
+   "고대",
+   "Godae",
+   "Thời cổ đại",
+   "고대 국가들은 전쟁을 많이 했어요.",
+   "Các quốc gia cổ đại đã đánh nhau nhiều."
+  ],
+  [
+   "현대",
+   "Hyeondae",
+   "Thời hiện đại",
+   "현대 사회는 변화가 빨라요.",
+   "Xã hội hiện đại thay đổi nhanh."
+  ],
+  [
+   "건국하다",
+   "Geongukada",
+   "Kiến quốc, dựng nước",
+   "단군이 고조선을 건국했다고 해요.",
+   "Tương truyền Dangun đã lập nước Gojoseon."
+  ],
+  [
+   "통치하다",
+   "Tongchihada",
+   "Thống trị",
+   "일제는 36년 동안 한국을 통치했어요.",
+   "Đế quốc Nhật thống trị Hàn Quốc trong 36 năm."
+  ],
+  [
+   "조약을 체결하다",
+   "Joyageul chegyeolhada",
+   "Ký hiệp ước",
+   "두 나라가 평화 조약을 체결했어요.",
+   "Hai nước đã ký kết hiệp ước hòa bình."
+  ],
+  [
+   "독립하다",
+   "Dongnipada",
+   "Độc lập",
+   "한국은 1945년에 일본으로부터 독립했어요.",
+   "Hàn Quốc độc lập khỏi Nhật năm 1945."
+  ],
+  [
+   "왕위에 오르다",
+   "Wangwie oreuda",
+   "Lên ngôi",
+   "세종은 22살에 왕위에 올랐어요.",
+   "Sejong lên ngôi năm 22 tuổi."
+  ],
+  [
+   "문명을 전파하다",
+   "Munmyeongeul jeonpahada",
+   "Truyền bá văn minh",
+   "실크로드는 동서양에 문명을 전파했어요.",
+   "Con đường tơ lụa đã truyền bá văn minh giữa Đông và Tây."
+  ],
+  [
+   "패망하다",
+   "Paemanghada",
+   "Chiến bại",
+   "백제는 660년에 패망했어요.",
+   "Bách Tế bại vong năm 660."
+  ],
+  [
+   "독립운동",
+   "Dongnibundong",
+   "Phong trào đấu tranh giành độc lập",
+   "유관순은 3·1 독립운동에 참여했어요.",
+   "Yu Gwan-sun đã tham gia phong trào độc lập 1/3."
+  ],
+  [
+   "왕위를 물려받다",
+   "Wangwireul mullyeobatda",
+   "Kế vị, thừa kế ngôi vị",
+   "세자는 아버지에게서 왕위를 물려받았어요.",
+   "Thế tử kế vị ngôi vua từ cha."
+  ],
+  [
+   "통일하다",
+   "Tongilhada",
+   "Thống nhất",
+   "신라는 삼국을 통일했어요.",
+   "Tân La đã thống nhất Tam Quốc."
+  ],
+  [
+   "식민지",
+   "Singminji",
+   "Thuộc địa",
+   "많은 아시아 나라가 서양의 식민지가 되었어요.",
+   "Nhiều nước châu Á trở thành thuộc địa của phương Tây."
+  ],
+  [
+   "독립운동가",
+   "Dongnibundongga",
+   "Người tham gia phong trào độc lập",
+   "안중근은 유명한 독립운동가예요.",
+   "An Jung-geun là nhà hoạt động độc lập nổi tiếng."
+  ]
+ ],
+ "patterns": [
+  {
+   "form": "V + 기 일쑤(이)다 — Thường hay (xấu)",
+   "meaning": "Diễn tả việc KHÔNG TỐT xảy ra THƯỜNG XUYÊN, thành thói quen: 'thường hay…, hay bị…, … như cơm bữa'. 일쑤 = chuyện thường xảy ra. Gắn 기 일쑤이다 vào thân động từ: 늦다 → 늦기 일쑤예요, 잊다 → 잊어버리기 일쑤예요, 실수하다 → 실수하기 일쑤예요. Chỉ dùng cho điều TIÊU CỰC, không mong muốn (✗ 공부를 잘하기 일쑤예요). Thường đi với hoàn cảnh: 바쁘다 보니, (으)면, 때문에. Có thể dùng ở quá khứ: 기 일쑤였다 (hồi đó thường hay…). Văn nói và viết. So sánh: 기 십상이다 (Bài 236 – rất dễ xảy ra [dự đoán]); 기 일쑤이다 (thường xảy ra [thực tế, thói quen]); 곤 하다 (Bài 120 – thường hay, trung tính).",
+   "examples": [
+    "저는 역사 연도를 외워도 금방 잊어버리기 일쑤예요. — Tôi học thuộc năm lịch sử rồi cũng thường hay quên ngay.",
+    "바쁘다 보니 아침을 거르기 일쑤예요. — Bận quá nên thường hay bỏ bữa sáng.",
+    "어렸을 때 동생과 싸우기 일쑤였어요. — Hồi nhỏ tôi thường hay cãi nhau với em.",
+    "그는 약속 시간에 늦기 일쑤라서 친구들이 싫어해요. — Anh ấy hay trễ hẹn nên bạn bè không thích."
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Thứ tự đúng của thời tiền sử là gì?",
+   "kr": "",
+   "options": [
+    "구석기 → 신석기 → 청동기 → 철기",
+    "신석기 → 구석기 → 철기 → 청동기",
+    "청동기 → 구석기 → 철기 → 신석기"
+   ],
+   "answer": "구석기 → 신석기 → 청동기 → 철기",
+   "explain": "Đá cũ → đá mới → đồng → sắt."
+  },
+  {
+   "type": "choice",
+   "q": "Thứ tự thời kỳ lịch sử đúng là gì?",
+   "kr": "",
+   "options": [
+    "고대 → 중세 → 근대 → 현대",
+    "근대 → 고대 → 현대 → 중세",
+    "중세 → 고대 → 근대 → 현대"
+   ],
+   "answer": "고대 → 중세 → 근대 → 현대",
+   "explain": "Cổ – trung – cận – hiện đại."
+  },
+  {
+   "type": "choice",
+   "q": "Lên ngôi vua gọi là gì?",
+   "kr": "",
+   "options": [
+    "왕위에 오르다",
+    "패망하다",
+    "통치하다"
+   ],
+   "answer": "왕위에 오르다",
+   "explain": "왕위 = ngôi vua."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Tân La đã thống nhất Tam Quốc.",
+   "kr": "신라는 삼국을 ___.",
+   "options": [
+    "통일했어요",
+    "패망했어요",
+    "독립했어요"
+   ],
+   "answer": "통일했어요",
+   "explain": "통일하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn câu ĐÚNG: 'Bận quá nên thường hay bỏ bữa sáng.'",
+   "kr": "",
+   "options": [
+    "바쁘다 보니 아침을 거르기 일쑤예요.",
+    "바쁘다 보니 아침을 거르는 일쑤예요.",
+    "바쁘다 보니 아침을 잘 먹기 일쑤예요."
+   ],
+   "answer": "바쁘다 보니 아침을 거르기 일쑤예요.",
+   "explain": "V기 일쑤 + điều xấu."
+  },
+  {
+   "type": "choice",
+   "q": "Câu nào dùng 기 일쑤이다 KHÔNG tự nhiên?",
+   "kr": "",
+   "options": [
+    "그는 시험에서 1등을 하기 일쑤예요.",
+    "그는 지각하기 일쑤예요.",
+    "그는 우산을 잃어버리기 일쑤예요."
+   ],
+   "answer": "그는 시험에서 1등을 하기 일쑤예요.",
+   "explain": "Chỉ dùng cho điều tiêu cực."
+  },
+  {
+   "type": "choice",
+   "q": "기 일쑤이다 khác 기 십상이다 thế nào?",
+   "kr": "",
+   "options": [
+    "일쑤: thường xảy ra (thực tế); 십상: rất dễ xảy ra (dự đoán)",
+    "Hoàn toàn giống nhau",
+    "일쑤: điều tốt; 십상: điều xấu"
+   ],
+   "answer": "일쑤: thường xảy ra (thực tế); 십상: rất dễ xảy ra (dự đoán)",
+   "explain": "Sắc thái khác nhau."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hàn Quốc độc lập năm 1945.",
+   "kr": "한국은 1945년에 ___.",
+   "options": [
+    "독립했어요",
+    "건국했어요",
+    "체결했어요"
+   ],
+   "answer": "독립했어요",
+   "explain": "독립하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 일쑤이다 với 잊어버리다: Tôi học thuộc rồi cũng hay quên ngay.",
+   "kr": "역사 연도를 외워도 금방 ___.",
+   "answer": [
+    "잊어버리기 일쑤예요",
+    "잊어버리기 일쑤이다"
+   ],
+   "explain": "잊어버리기 일쑤예요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền 기 일쑤이다 (quá khứ) với 싸우다: Hồi nhỏ thường hay cãi nhau với em.",
+   "kr": "어렸을 때 동생과 ___.",
+   "answer": [
+    "싸우기 일쑤였어요",
+    "싸우기 일쑤였다"
+   ],
+   "explain": "기 일쑤였어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Sejong lên ngôi năm 22 tuổi.",
+   "kr": "세종은 22살에 왕위에 ___.",
+   "answer": [
+    "올랐어요"
+   ],
+   "explain": "오르다 → 올랐어요."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: An Jung-geun là nhà hoạt động độc lập nổi tiếng.",
+   "kr": "안중근은 유명한 ___예요.",
+   "answer": [
+    "독립운동가"
+   ],
+   "explain": "독립운동가."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Anh ấy hay trễ hẹn nên bạn bè không thích.",
+   "tokens": [
+    "그는",
+    "약속",
+    "시간에",
+    "늦기",
+    "일쑤라서",
+    "친구들이",
+    "싫어해요"
+   ],
+   "answer": "그는 약속 시간에 늦기 일쑤라서 친구들이 싫어해요",
+   "explain": "기 일쑤라서."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Từ thời đồ đá mới bắt đầu làm nông.",
+   "tokens": [
+    "신석기시대부터",
+    "농사를",
+    "짓기",
+    "시작했어요"
+   ],
+   "answer": "신석기시대부터 농사를 짓기 시작했어요",
+   "explain": "기 시작하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Tôi thường hay để quên ô ở xe buýt. (dùng 기 일쑤이다)",
+   "answer": [
+    "버스에 우산을 두고 내리기 일쑤예요.",
+    "저는 버스에 우산을 놓고 내리기 일쑤예요.",
+    "버스에서 우산을 잃어버리기 일쑤예요.",
+    "저는 버스에 우산을 두고 내리기 일쑤예요."
+   ],
+   "explain": "기 일쑤예요."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Hai nước đã ký kết hiệp ước hòa bình.",
+   "answer": [
+    "두 나라가 평화 조약을 체결했어요.",
+    "두 나라는 평화 조약을 체결했어요.",
+    "두 나라가 평화 조약을 맺었어요."
+   ],
+   "explain": "조약을 체결하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Xã hội hiện đại thay đổi nhanh.",
+   "answer": [
+    "현대 사회는 변화가 빨라요.",
+    "현대 사회는 빠르게 변해요."
+   ],
+   "explain": "현대."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "한국사는 연도와 사건이 많아서 외워도 헷갈리기 일쑤이다. 그래서 고대, 중세, 근대, 현대처럼 시대별로 흐름을 먼저 이해하고 공부하는 것이 효과적이다.",
+   "answer": "Lịch sử Hàn Quốc có nhiều năm tháng và sự kiện nên học thuộc rồi cũng thường hay nhầm lẫn. Vì vậy hiệu quả hơn là trước hết hiểu dòng chảy theo từng thời kỳ như cổ đại, trung đại, cận đại, hiện đại rồi mới học.",
+   "explain": "기 일쑤이다; 별로."
+  },
+  {
+   "type": "read",
+   "q": "Nghe và chọn ý chính của người phụ nữ. (Dạng TOPIK II Nghe câu 17~20)",
+   "kr": "남자: 한국사 시험을 준비하는데 사건 이름은 외워도 순서가 헷갈리기 일쑤예요.\n여자: 저도 그랬어요. 그런데 사건을 하나씩 외우는 것보다 왜 그 일이 일어났는지 원인과 결과를 이어서 이해하면 순서가 저절로 기억돼요. 이야기처럼 공부해 보세요.",
+   "options": [
+    "원인과 결과를 이어서 이해하면 순서를 기억하기 쉽다.",
+    "사건 이름만 외우면 충분하다.",
+    "한국사는 공부할 필요가 없다.",
+    "순서는 외우지 않아도 된다."
+   ],
+   "answer": "원인과 결과를 이어서 이해하면 순서를 기억하기 쉽다.",
+   "explain": "원인과 결과를 이어서 이해하면…"
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 9~12)",
+   "kr": "【한국사 특강】\n· 주제: 독립운동가의 삶\n· 일시: 8월 15일(금) 오후 3시\n· 장소: 시민회관 대강당\n· 대상: 누구나 (선착순 200명)\n※ 참가자 전원에게 태극기 배지 증정",
+   "options": [
+    "참가자 모두 배지를 받는다.",
+    "강의는 오전에 한다.",
+    "학생만 참가할 수 있다.",
+    "인원 제한이 없다."
+   ],
+   "answer": "참가자 모두 배지를 받는다.",
+   "explain": "참가자 전원에게 … 증정."
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "id": "bai-231",
+ "lesson": "Bài 231",
+ "title": "Di sản văn hóa Hàn Quốc (phần 3/4)",
+ "krTitle": "한국의 문화유산 3",
+ "date": "2027-10-21",
+ "day": 337,
+ "source": "TOPIK 6 – Bài 5: Di sản văn hóa Hàn Quốc (phần 3/4)",
+ "practice": {
+  "listening": "Nghe – câu 21~30: Hội thoại dài",
+  "reading": "Đọc – câu 28~50: Đoạn văn dài"
+ },
+ "words": [
+  [
+   "문화체육관광부",
+   "Munhwacheyukgwangwangbu",
+   "Bộ văn hóa du lịch và thể thao",
+   "문화체육관광부가 새 관광 정책을 발표했어요.",
+   "Bộ Văn hóa, Thể thao và Du lịch công bố chính sách du lịch mới."
+  ],
+  [
+   "역사문화교실",
+   "Yeoksamunhwagyosil",
+   "Lớp học văn hóa lịch sử",
+   "박물관에서 어린이 역사문화교실이 열려요.",
+   "Bảo tàng mở lớp văn hóa lịch sử cho trẻ em."
+  ],
+  [
+   "문화재청",
+   "Munhwajaecheong",
+   "Sở di sản văn hóa",
+   "문화재청은 문화재를 관리하는 기관이에요.",
+   "Cục Di sản văn hóa là cơ quan quản lý di sản."
+  ],
+  [
+   "문화 길라잡이",
+   "Munhwa gillajabi",
+   "Hướng dẫn văn hóa",
+   "문화 길라잡이가 궁궐을 안내해 줬어요.",
+   "Hướng dẫn viên văn hóa đã dẫn chúng tôi tham quan cung điện."
+  ],
+  [
+   "문화재 파수꾼 (지킴이)",
+   "Munhwajae pasukkun (jikimi)",
+   "Người canh giữ di sản văn hóa",
+   "시민들이 문화재 지킴이로 활동하고 있어요.",
+   "Người dân đang hoạt động làm người canh giữ di sản."
+  ],
+  [
+   "가교",
+   "Gagyo",
+   "Cầu nối",
+   "한류는 한국과 세계를 잇는 가교 역할을 해요.",
+   "Làn sóng Hàn đóng vai trò cầu nối giữa Hàn Quốc và thế giới."
+  ],
+  [
+   "강구하다",
+   "Gangguhada",
+   "Tìm kiếm (biện pháp)",
+   "정부는 문화재 보호 대책을 강구하고 있어요.",
+   "Chính phủ đang tìm kiếm biện pháp bảo vệ di sản."
+  ],
+  [
+   "궁중무용",
+   "Gungjungmuyong",
+   "Múa trong cung đình",
+   "궁중무용은 화려하고 우아해요.",
+   "Múa cung đình lộng lẫy và thanh nhã."
+  ],
+  [
+   "권고",
+   "Gwongo",
+   "Khuyến cáo",
+   "유네스코가 보존 상태를 개선하라고 권고했어요.",
+   "UNESCO khuyến cáo cải thiện tình trạng bảo tồn."
+  ],
+  [
+   "당대",
+   "Dangdae",
+   "Đương đại",
+   "그는 당대 최고의 화가였어요.",
+   "Ông là họa sĩ giỏi nhất đương thời."
+  ],
+  [
+   "독보적",
+   "Dokbojeok",
+   "Không gì sánh được",
+   "한글은 세계에서 독보적인 문자예요.",
+   "Hangeul là chữ viết có một không hai trên thế giới."
+  ],
+  [
+   "돈화문",
+   "Donhwamun",
+   "Donhwamun (cổng chính cung Changdeok)",
+   "돈화문은 창덕궁의 정문이에요.",
+   "Donhwamun là cổng chính của Changdeokgung."
+  ],
+  [
+   "되짚어 보다",
+   "Doejipeo boda",
+   "Nhìn lại",
+   "역사를 되짚어 보면 많은 교훈을 얻을 수 있어요.",
+   "Nhìn lại lịch sử có thể rút ra nhiều bài học."
+  ],
+  [
+   "드라마틱",
+   "Deuramatik",
+   "Kịch tính",
+   "그 공연은 정말 드라마틱했어요.",
+   "Buổi biểu diễn đó thật kịch tính."
+  ],
+  [
+   "마력",
+   "Maryeok",
+   "Ma lực",
+   "판소리에는 사람을 끌어당기는 마력이 있어요.",
+   "Pansori có ma lực cuốn hút con người."
+  ],
+  [
+   "무당",
+   "Mudang",
+   "Thầy pháp, pháp sư (người lên đồng để cúng bái trừ tà ma theo tín ngưỡng dân gian)",
+   "무당이 굿을 하고 있어요.",
+   "Thầy cúng đang làm lễ gut."
+  ],
+  [
+   "무속",
+   "Musok",
+   "Tín ngưỡng shaman (vu tục)",
+   "무속은 한국의 전통 신앙이에요.",
+   "Tín ngưỡng shaman là tín ngưỡng truyền thống của Hàn Quốc."
+  ],
+  [
+   "밀집",
+   "Miljip",
+   "Tập trung đông, tụ tập",
+   "이 지역에는 고인돌이 밀집해 있어요.",
+   "Mộ đá tập trung dày đặc ở khu vực này."
+  ],
+  [
+   "보유하다",
+   "Boyuhada",
+   "Có, sở hữu",
+   "한국은 많은 세계유산을 보유하고 있어요.",
+   "Hàn Quốc sở hữu nhiều di sản thế giới."
+  ],
+  [
+   "사관",
+   "Sagwan",
+   "Sử quan",
+   "사관은 왕의 말과 행동을 기록했어요.",
+   "Sử quan ghi chép lời nói và hành động của vua."
+  ],
+  [
+   "산신령",
+   "Sansillyeong",
+   "Thần núi",
+   "옛날 사람들은 산신령에게 소원을 빌었어요.",
+   "Người xưa cầu nguyện với thần núi."
+  ],
+  [
+   "선사시대",
+   "Seonsasidae",
+   "Thời tiền sử",
+   "고인돌은 선사시대의 무덤이에요.",
+   "Mộ đá là mộ thời tiền sử."
+  ],
+  [
+   "성곽",
+   "Seonggwak",
+   "Vòng thành",
+   "수원화성의 성곽을 따라 걸었어요.",
+   "Tôi đi bộ dọc theo tường thành Hwaseong Suwon."
+  ]
+ ],
+ "patterns": [],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Cơ quan nhà nước quản lý di sản văn hóa Hàn Quốc là gì?",
+   "kr": "",
+   "options": [
+    "문화재청",
+    "관광청",
+    "학생처"
+   ],
+   "answer": "문화재청",
+   "explain": "문화재청."
+  },
+  {
+   "type": "choice",
+   "q": "Quan ghi chép lịch sử thời xưa gọi là gì?",
+   "kr": "",
+   "options": [
+    "사관",
+    "무당",
+    "산신령"
+   ],
+   "answer": "사관",
+   "explain": "사관 = sử quan."
+  },
+  {
+   "type": "choice",
+   "q": "Thời kỳ trước khi có chữ viết gọi là gì?",
+   "kr": "",
+   "options": [
+    "선사시대",
+    "당대",
+    "광복"
+   ],
+   "answer": "선사시대",
+   "explain": "선사 = trước lịch sử."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Hangeul là chữ viết có một không hai.",
+   "kr": "한글은 세계에서 ___ 문자예요.",
+   "options": [
+    "독보적인",
+    "드라마틱한",
+    "밀집한"
+   ],
+   "answer": "독보적인",
+   "explain": "독보적 = độc nhất."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Làn sóng Hàn đóng vai trò cầu nối.",
+   "kr": "한류는 한국과 세계를 잇는 ___ 역할을 해요.",
+   "options": [
+    "가교",
+    "성곽",
+    "권고"
+   ],
+   "answer": "가교",
+   "explain": "가교 = cầu nối."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Chính phủ đang tìm biện pháp bảo vệ di sản.",
+   "kr": "정부는 문화재 보호 대책을 ___고 있어요.",
+   "options": [
+    "강구하",
+    "보유하",
+    "밀집하"
+   ],
+   "answer": "강구하",
+   "explain": "대책을 강구하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Mộ đá tập trung dày đặc ở khu vực này.",
+   "kr": "이 지역에는 고인돌이 ___해 있어요.",
+   "options": [
+    "밀집",
+    "보유",
+    "권고"
+   ],
+   "answer": "밀집",
+   "explain": "밀집하다."
+  },
+  {
+   "type": "choice",
+   "q": "Chọn từ phù hợp: Nhìn lại lịch sử có thể rút ra bài học.",
+   "kr": "역사를 ___ 보면 많은 교훈을 얻을 수 있어요.",
+   "options": [
+    "되짚어",
+    "강구해",
+    "권고해"
+   ],
+   "answer": "되짚어",
+   "explain": "되짚어 보다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Ông là họa sĩ giỏi nhất đương thời.",
+   "kr": "그는 ___ 최고의 화가였어요.",
+   "answer": [
+    "당대"
+   ],
+   "explain": "당대."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Hàn Quốc sở hữu nhiều di sản thế giới.",
+   "kr": "한국은 많은 세계유산을 ___하고 있어요.",
+   "answer": [
+    "보유"
+   ],
+   "explain": "보유하다."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Tôi đi bộ dọc theo tường thành.",
+   "kr": "수원화성의 ___을 따라 걸었어요.",
+   "answer": [
+    "성곽"
+   ],
+   "explain": "성곽."
+  },
+  {
+   "type": "fill",
+   "q": "Điền từ: Pansori có ma lực cuốn hút.",
+   "kr": "판소리에는 사람을 끌어당기는 ___이 있어요.",
+   "answer": [
+    "마력"
+   ],
+   "explain": "마력."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: Sử quan ghi chép lời nói và hành động của vua.",
+   "tokens": [
+    "사관은",
+    "왕의",
+    "말과",
+    "행동을",
+    "기록했어요"
+   ],
+   "answer": "사관은 왕의 말과 행동을 기록했어요",
+   "explain": "기록하다."
+  },
+  {
+   "type": "order",
+   "q": "Sắp xếp thành câu: UNESCO khuyến cáo cải thiện tình trạng bảo tồn.",
+   "tokens": [
+    "유네스코가",
+    "보존",
+    "상태를",
+    "개선하라고",
+    "권고했어요"
+   ],
+   "answer": "유네스코가 보존 상태를 개선하라고 권고했어요",
+   "explain": "(으)라고 권고하다."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Múa cung đình lộng lẫy và thanh nhã.",
+   "answer": [
+    "궁중무용은 화려하고 우아해요.",
+    "궁중무용은 화려하고 우아합니다."
+   ],
+   "explain": "고."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Mộ đá là mộ thời tiền sử.",
+   "answer": [
+    "고인돌은 선사시대의 무덤이에요.",
+    "고인돌은 선사시대 무덤이에요."
+   ],
+   "explain": "선사시대."
+  },
+  {
+   "type": "translate",
+   "q": "Dịch sang tiếng Hàn: Người dân đang hoạt động làm người canh giữ di sản.",
+   "answer": [
+    "시민들이 문화재 지킴이로 활동하고 있어요.",
+    "시민들이 문화재 지킴이로 활동해요.",
+    "시민들이 문화재 파수꾼으로 활동하고 있어요."
+   ],
+   "explain": "(으)로 활동하다."
+  },
+  {
+   "type": "vi",
+   "q": "Dịch sang tiếng Việt",
+   "kr": "조선 시대의 사관들은 왕의 말과 행동을 빠짐없이 기록했다. 왕조차 사관의 기록을 볼 수 없었기 때문에 조선왕조실록은 당대의 역사를 정확하게 보여 주는 독보적인 기록 유산이 되었다.",
+   "answer": "Các sử quan thời Joseon ghi chép không sót lời nói và hành động của vua. Vì ngay cả nhà vua cũng không được xem ghi chép của sử quan nên Joseon vương triều thực lục trở thành di sản tư liệu độc nhất vô nhị, phản ánh chính xác lịch sử đương thời.",
+   "explain": "조차; 독보적."
+  },
+  {
+   "type": "read",
+   "q": "Nghe hội thoại dài và chọn nội dung đúng. (Dạng TOPIK II Nghe câu 21~30)",
+   "kr": "여자: 이번 주말 창덕궁 달빛 기행 신청했어요?\n남자: 아니요, 벌써 마감됐대요. 인기가 정말 많은가 봐요.\n여자: 그럼 다음 달에 하는 문화 길라잡이 해설 프로그램은 어때요? 그건 무료이고 매주 토요일에 있대요.\n남자: 좋아요. 지금 바로 문화재청 홈페이지에서 신청할게요.",
+   "options": [
+    "남자는 해설 프로그램을 신청하려고 한다.",
+    "남자는 달빛 기행을 신청했다.",
+    "해설 프로그램은 유료이다.",
+    "해설 프로그램은 매주 일요일에 있다."
+   ],
+   "answer": "남자는 해설 프로그램을 신청하려고 한다.",
+   "explain": "지금 바로 … 신청할게요."
+  },
+  {
+   "type": "read",
+   "q": "Đọc và chọn nội dung đúng. (Dạng TOPIK II Đọc câu 28~50)",
+   "kr": "무속은 한국의 오래된 전통 신앙이다. 무당은 굿으로 사람과 신을 연결하는 역할을 했다. 과거에는 미신이라는 이유로 무시되기도 했지만, 최근에는 그 안에 담긴 음악과 춤, 의상의 예술적 가치가 재조명되고 있다.",
+   "options": [
+    "최근 무속의 예술적 가치가 다시 평가되고 있다.",
+    "무속은 최근에 생긴 신앙이다.",
+    "무당은 왕을 연결하는 역할을 했다.",
+    "무속은 지금도 완전히 무시되고 있다."
+   ],
+   "answer": "최근 무속의 예술적 가치가 다시 평가되고 있다.",
+   "explain": "예술적 가치가 재조명되고 있다."
+  }
+ ]
+}
